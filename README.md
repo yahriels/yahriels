@@ -1,4 +1,23 @@
 ### Hi there 👋
+## About Me
+**My name is Yahriel Salinas-Reyes**
+I am a First-Generation Student who identifies as Indigenous (Mayan,Inca, Aztec)
+I am from Iowa 
+
+## Area of Study
+I am an undergraduate at *Iowa State University*,
+I am studying Aerospace Engineering
+
+## Interests & Goals
+I am on a path to attain Ph.D. in a interdiscplinary STEM area, 
+my interests include
+- Dynamic Systems
+- Materials Science & Mechanics
+- Micro-electro-mechanical-systems (MEMS)
+- Development of Sustainable (Green) Technology
+- Humanities & Social Impact
+
+
 
 <!--
 **yahriels/yahriels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
