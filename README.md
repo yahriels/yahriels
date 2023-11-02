@@ -1,5 +1,5 @@
 ### Hi there 👋 Welcome to My Page! :rocket: :sun_with_face:
-# An Existentialist Approach Informed by Numbers, Shapes, and Prediction with Yahriel's 4A's: Aerospace Systems, Anthropology-Engineering, Applied Mathematics, Anatomy and Artificial Intelligence. Github Profile: https://github.com/yahriels Personal Page: https://github.com/yahriels/yahriels Institution Page: https://www.info.iastate.edu/individuals/info/315383/Salinas-Reyes-Yahriel LinkedIn: https://www.linkedin.com/in/yahriel-salinas-reyes-89ab38179/ Complete Portfolio: https://drive.google.com/file/d/1ZhKJQl5n_ciKTycRVkrHE5GbLoorHK4B/view?usp=sharing
+# An Existentialist Approach Informed by Numbers, Shapes, and Prediction with Yahriel's 4A's: Aerospace Systems, Anthropology-Engineering, Applied Mathematics, Anatomy and Artificial Intelligence.
 # Yahriel's 4 A's: An Independent Interdisciplinary Field
 ### 1. Aerospace-Aeronautical Systems
 ### 2. Anthropology-Engineering
