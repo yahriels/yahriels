@@ -14,7 +14,11 @@
 
 	// Add the IDs of extensions you want installed when the container is created.
 	"extensions": [
-		"ms-vscode.cpptools"
+		"ms-vscode.cpptools",
+		"ms-vscode.makefile-tools",
+		"ms-edgedevtools.vscode-edge-devtools",
+		"eamodio.gitlens",
+		"ms-kubernetes-tools.vscode-kubernetes-tools"
 	],
 
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
