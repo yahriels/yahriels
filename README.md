@@ -1,11 +1,19 @@
 ### Hi there 👋 Welcome to My Page! :rocket: :sun_with_face:
-# An Existentialist Approach Informed by Numbers, Shapes, and Prediction with Yahriel's 4A's: Aerospace Systems, Anthropology-Engineering, Applied Mathematics, Anatomy and Artificial Intelligence.
+# An Existentialist Approach Informed by Numbers, Shapes, and Prediction with Yahriel's 4A's
 # Yahriel's 4 A's: An Independent Interdisciplinary Field
-### 1. Aerospace-Aeronautical Systems
+### 1. Aerospace-Artificial Intelligence Systems
 ### 2. Anthropology-Engineering
 ### 3. Applied Science, Technology, and Society (STS)
-### 4. Anatomy and Artificial Intelligence
+### 4. Active Matter and Neuro-**Anatomy**
 ## By Yahriel Salinas-Reyes [Y.Salinas-Reyes]
+# An Approach to Unraveling The Science of Madness (Schizophrenia) and Human Ingenuity for Global Health, Inspired by with Bleuler's 4A's: Alogia-Poverty of Speech and/or Thought, Autism-Anomaly, Ambivalence-Chaos Dynamics, Affect Blunting-Temporal Factor
+# Bleuler's 4A's Primary Traits of Schizophrenia and The Dividided Self
+### 1. Alogia-Poverty of Speech and Thought
+### 2. Autism-Anonaly in Logic and Realism (Logicism)
+### 3. Ambivalence and Chaos Dynamics
+### 4. Affect-Blunting-Temporal Factory
+## Cited By Yahriel Salinas-Reyes [Y.Salinas-Reyes]
+# Front Matter
 A proposed thesis submitted to the graduate faculty in complete fulfillment of
 the requirements for the degree of
 
