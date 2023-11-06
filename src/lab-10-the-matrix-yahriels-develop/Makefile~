@@ -1,0 +1,7 @@
+CC = gcc
+CCFLAGS = -lm
+
+all:
+	$(CC) piv_vort.c -o piv_vort $(CCFLAGS)
+clean:
+	rm piv_vort.o

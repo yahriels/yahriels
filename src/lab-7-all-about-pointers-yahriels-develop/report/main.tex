@@ -1,0 +1,62 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{hyperref} %url command
+\usepackage{parskip} %removes paragraph indentation
+
+\title{AERE 361 Lab 7 Report}
+\author{Yahriel Salinas-Reyes}
+\date{2022-03-08}
+
+\begin{document}
+
+\maketitle
+
+\newpage
+
+\section{Exercise 1: Midpoint Rule}
+\begin{itemize}
+    \item{The big O notation is O(n), which means  execution is proportionally linear to input}
+    \item{Explanation: The steps it takes to execute grows at the same pace as the size of the input value}
+    \item{Equation: $$\int_{a}^{b}f(x)dx = (b-a)(f(a+b)/2)$$}
+\end{itemize}
+
+\section{Exercise 2: Simpson's 1/3}
+\begin{itemize}
+    \item{The big O notation is O(n), which means  execution is proportionally linear to input}
+    \item{Explanation: The steps it takes to execute grows at the same pace as the size of the input value}
+    \item{Equation: $$\int_{a}^{b}f(x)dx = ((b-a)/6)[f(a)+4f((a+b)/2)+f(b)]$$}
+\end{itemize}
+
+\section{Exercise 3: Simpson's 3/8}
+\begin{itemize}
+    \item{The big O notation is O(n), which means  execution is proportionally linear to input}
+    \item{Explanation: The steps it takes to execute grows at the same pace as the size of the input value}
+    \item{Equation: $$\int_{a}^{b}f(x)dx = ((b-a)/8)[f(a)+3f((2a+b)/3)+3f((a+2b)/3)+f(b)]$$}
+\end{itemize}
+
+\newpage
+
+\section{Exercise 4: Gauss Quad}
+\begin{itemize}
+    \item{The big O notation is $O(n^2)$, which means  execution is proportionally quadratic to input}
+    \item{Explanation: The code Gauss Quad formula includes a for loop which causes the execution steps to grow proportionally to the the input squared}
+    \item{Equation: $$\int_{a}^{b}f(x)dx = m\sum_{i=1}^{n}((w_i)(f(c+mt_i)))$$}
+\end{itemize}
+
+\newpage
+
+\section{Sources}
+
+\subsection{Course Material:}
+\begin{itemize}
+    \item{Lab 7 Manual}
+    \item{Lecture Notes}
+\end{itemize}
+
+\subsection{Online Sources:}
+\begin{itemize}
+    \item{\url{https://valgrind.org/info/} : via lab manual}
+    \item{\url{medium.com/algorithm-time-complexity-and-big-o-notation} : via lab manual}
+\end{itemize}
+
+\end{document}
