@@ -1,0 +1,38 @@
+Harvard Application Overview
+----
+[0] Welcome
+[1] Degree Program Selection
+[2] Personal Background
+[3] Additional Background Information
+[4] Previous Applications and Enrollments
+[5] Institutions Attended
+[6] Academic History
+[7] Faculty
+[8] Test Scores
+[9] Resume/CV
+[10] Employment History
+[11] Statement of Purpose
+[12] Personal Statement
+[13] Digital Portfolio
+[14] Additional Materials
+[15] Supplemental Data
+[16] Review and Submit
+----
+MIT Application Overview
+----
+[0] Welcome
+[1] Program Information
+[2] Personal Background
+[3] Race and Ethnicity
+[4] Academic History
+[5] Test Score Instructions
+[6] Test Scores
+[7] Employment
+[8] Statement of Objectives
+[9] Recommendations
+[10] Additional Information
+[11] Funding
+[12] Certification
+[13] Signature
+[14] Review
+----
