@@ -25,7 +25,6 @@ Linda Hall - Linda Hall Library of Science, Engineering, Technology Fellowship
 Ford - National Academy of Sciences, Engineering, Medicine Ford Foundation Dissertation Fellowships 
 Just Tech - SSRC Just Tech Fellowship
 ++++
-
 Harvard Application Overview
 ----
 [0] Home
@@ -121,7 +120,15 @@ Caltech Application Overview
 ----
 ++++
 ----
-GEM Application Outline and Components:
+====
+----
+++++
+----
+Yahriel Salinas-Reyes
+Bachelor of Aerospace and Aeronautical Engineering from Iowa State University of Science and Technology
+Pursuing a Doctorate of Neuroscience in the Division of Mathematical Sciences (DMS) with a specialization on Computational and Data-eneabled Sciences, Biomedical Data-science and Bioinformatics, Theory and Algorithms of Scientific Computing.
+----
+Application Outline and Components:
 [0] Welcome
 [1] User Information
 [2] GEM Requirements

@@ -26,26 +26,16 @@ Application Outline and Components:
 ++
 --
 ++
-[1] User Information
-> User and Basic Information
-++
---
-++
-[2] GEM Requirements
-Thank you for your interest in a GEM fellowship. Our fellowship is designed to allow students like you to go to school for free with the sole requirement being that you give your sponsoring company an opportunity to get to know you through their internship. As such, there are some rules that you need to understand and comply with so that all can benefit from this process. Before you get started we want to make sure that you understand the requirements of the GEM Fellowship program. If you have not done so already Please read About the GEM Fellowship.
-> I understand that I am applying for funding for graduate school in an engineering or applied science field that if selected, funding will begin no earlier than the following Fall.
-> I understand that after I complete all parts of the on-line GEM application that my application is not complete until I submit complete applications directly to 3 GEM Member universities' (unless currently in a Master’s or PhD program with at least one year left) science or engineering graduate department by their respective posted deadlines.
-> I understand that I must be available to intern with my sponsoring company for the summer before I begin my PhD or if I am an entering Master’s student the summer before I begin my program and the summer after my first year (2 internships in total, continuing Master’s/PhD students with at least one-year left must do at least 1 internship).
-> I understand that I must accept the selection of any employer that selects me to be sponsored and be available to intern with them.
-++
---
-++
 [3] Education History
 Education History, Matriculation Status, Academic Organizations. We need to collect information about any colleges or institutions you've attended or are currently attending. For each college you have attended, click "Add", enter the information and then save.
 > College/University	Degree	Current Student	Date From	Date To/Expected Graduation Term	Actions
 > > Iowa State University (ISU)	B.S.	YES	08/23/2019	12/15/2023
 > Matriculation Status: B.S. - Undergraduate
 > Academic Organizations and Honors
+Honors, Scholarships and Activities
+> Please list any honors, scholarships, and extracurricular activities to your discipline, separated by commas (optional)
+Organizational Memberships
+> Please list any organizations that you are a member of, separated by commas (optional)
 ++
 --
 ++
@@ -55,18 +45,172 @@ Have you ever been granted a U.S Government security clearance? *Yes
 ++
 --
 ++
+====
+====
 [5] Employment History
 Now we need to collect information on your previous employers. For each employment experience you've had, click Add and enter the information. Click the Save button at the bottom of the form once you are done. Note: If you want to record different jobs at the same employer, you can do so as multiple Employer records.
 + ADD
+----
 >	Job Title	Employed From	Employed Until	Supervisor Name	Actions
-> Your Resume. SELECT PDF.
+Employer Name * 
+Iowa State University of Science and Technology
+Supervisor Name * 
+Benjamin Kelly
+Supervisor Title * 
+Head of Information Technology Department
+City of Job * 
+Ames
+State of Job *
+Iowa
+Your Title * 
+Information Technology Specialist - Student Worker
+Are you still employed here? *
+ Yes No
+Please Describe your Duties * 
+Information Technology Stuff
+Reason for Leaving * 
+Pursuing Other Professional Opportunities
+Employed From * 
+08/23/2019
+Employed Until * 
+08/20/2023
+Base Salary (Weekly) * 
+112.0
+Final Salary (Weekly) * 
+120.0
+----
++ ADD
+----
+>	Job Title	Employed From	Employed Until	Supervisor Name	Actions
+Employer Name * 
+Boeing Aerospace
+Supervisor Name * 
+Dr. Arun Somani
+Supervisor Title * 
+Department Chair of Aerospace and Aeronautical Engineering
+City of Job * 
+Ames
+State of Job *
+Iowa
+Your Title * 
+Boeing Aerospace Research in Engineering and Excellence Undergraduate Research Fellow
+Are you still employed here? *
+Yes No
+Please Describe your Duties * 
+Research Stuff
+Reason for Leaving * 
+End of Program and Pursuit of other Professional Opportunities
+Employed From * 
+08/20/2021
+Employed Until * 
+08/22/2022
+Base Salary (Weekly) * 
+78.0
+Final Salary (Weekly) * 
+98.0
+----
+>	Job Title	Employed From	Employed Until	Supervisor Name	Actions
+----
+>	Job Title	Employed From	Employed Until	Supervisor Name	Actions
+----
+>	Job Title	Employed From	Employed Until	Supervisor Name	Actions
+----
+>	Job Title	Employed From	Employed Until	Supervisor Name	Actions
+----
+>	Job Title	Employed From	Employed Until	Supervisor Name	Actions
+----
+>	Job Title	Employed From	Employed Until	Supervisor Name	Actions
+----
+>	Job Title	Employed From	Employed Until	Supervisor Name	Actions
+----
+>	Job Title	Employed From	Employed Until	Supervisor Name	Actions
+----
+>	Job Title	Employed From	Employed Until	Supervisor Name	Actions
+----
+>	Job Title	Employed From	Employed Until	Supervisor Name	Actions
+----
+>	Job Title	Employed From	Employed Until	Supervisor Name	Actions
+----
+>	Job Title	Employed From	Employed Until	Supervisor Name	Actions
+----
+>	Job Title	Employed From	Employed Until	Supervisor Name	Actions
 ++
 --
 ++
 [6] Research History
 We need to know about any research projects you might have participated in. If you haven't participated in any projects, that's okay - just click the Save button below to move to the next section of the application. For each research project you've participated in, click Add Project and enter the information. Click on the Save button at the bottom of the form once you are done.
 + ADD
+----
 > Research Project	Project Title	From Date	End Date	University
+Research Program Name * 
+Ronald E. McNair Post-Baccalaureate Achievement program 
+Research Project Title * 
+Project A
+Describe the Experience * 
+Stuff
+(Please include the purpose of the research, your specific contributions, any skills obtained and a brief description of your results)
+University *
+Iowa State University (ISU)
+Location City * 
+Ames
+Location State *
+Iowa
+Is your research project ongoing? *
+Yes No
+Start Date * 
+08/25/2021
+End Date * 
+05/31/2023
+----
+> Research Project	Project Title	From Date	End Date	University
+Research Program Name * 
+The Iowa, Illinois, Nebraska Louis Stokes Alliance for Minority Participation, IINSPIRE LSAMP, is a Midwest STEM partnership for innovation in research and education that is funded by the National Science Foundation. 
+Research Project Title * 
+Project A
+Describe the Experience * 
+Project A
+(Please include the purpose of the research, your specific contributions, any skills obtained and a brief description of your results)
+University *
+Iowa State University (ISU)
+Location City * 
+Ames
+Location State *
+Iowa
+Is your research project ongoing? *
+Yes No
+Start Date * 
+08/23/2019
+End Date * 
+05/31/2021
+----
+> Research Project	Project Title	From Date	End Date	University
+----
+> Research Project	Project Title	From Date	End Date	University
+----
+> Research Project	Project Title	From Date	End Date	University
+----
+> Research Project	Project Title	From Date	End Date	University
+----
+> Research Project	Project Title	From Date	End Date	University
+----
+> Research Project	Project Title	From Date	End Date	University
+----
+> Research Project	Project Title	From Date	End Date	University
+----
+> Research Project	Project Title	From Date	End Date	University
+----
+> Research Project	Project Title	From Date	End Date	University
+----
+> Research Project	Project Title	From Date	End Date	University
+----
+> Research Project	Project Title	From Date	End Date	University
+----
+> Research Project	Project Title	From Date	End Date	University
+----
+> Research Project	Project Title	From Date	End Date	University
+----
+====
+====
 ++
 --
 ++
@@ -89,132 +233,9 @@ Please rank your employer preferences. Listing of employer preferences is for in
 > First Choice : Lawrence Berkeley National Laboratory(LBNL)* 
 > Second Choice : U.S. Departnement of Energy(DOE), Office of Energy Efficiency and Renewable Energy(EERE)* 
 > Third Choice : Applied Materials* 
-Computer Skills
-Do you wish to specify your computer/programming skills (highly recommended for all applicants, particularly computer science majors)? Yes* 
-Please rate your computer/programming skills from 0-3 (0: No Knowledge, 1: Basic, 2: Proficient, 3: Expert). For the following software/languages: *. Mark 3 for All
-{
-> .NET
- 0 1 2 3
-> Actionscript
- 0 1 2 3
-> Ada
- 0 1 2 3
-> Ajax
- 0 1 2 3
-> Apache
- 0 1 2 3
-> ASP
- 0 1 2 3
-> Assembly
- 0 1 2 3
-> C
- 0 1 2 3
-> C#
- 0 1 2 3
-> C++
- 0 1 2 3
-> Catalyst
- 0 1 2 3
-> CGI
- 0 1 2 3
-> Cobol
- 0 1 2 3
-> Cocoa
- 0 1 2 3
-> ColdFusion
- 0 1 2 3
-> D
- 0 1 2 3
-> Dancer
- 0 1 2 3
-> DB2
- 0 1 2 3
-> Delphi
- 0 1 2 3
-> Drupal
- 0 1 2 3
-> Dylan
- 0 1 2 3
-> Erlang
- 0 1 2 3
-> Firebird
- 0 1 2 3
-> Forth
- 0 1 2 3
-> Fortran
- 0 1 2 3
-> Groovy
- 0 1 2 3
-> Haskell
- 0 1 2 3
-> Java
- 0 1 2 3
-> JavaScript
- 0 1 2 3
-> JOOMLA
- 0 1 2 3
-> Lisp
- 0 1 2 3
-> Lua
- 0 1 2 3
-> MAT Lab
- 0 1 2 3
-> Microsoft Office
- 0 1 2 3
-> Objective C
- 0 1 2 3
-> OCaml
- 0 1 2 3
-> Oracle
- 0 1 2 3
-> Pascal
- 0 1 2 3
-> Perl
- 0 1 2 3
-> PHP
- 0 1 2 3
-> Python
- 0 1 2 3
-> Real Studio
- 0 1 2 3
-> Ruby
- 0 1 2 3
-> Scala
- 0 1 2 3
-> Scheme
- 0 1 2 3
-> Seaside
- 0 1 2 3
-> Shell
- 0 1 2 3
-> Smalltalk
- 0 1 2 3
-> SQL
- 0 1 2 3
-> Sybase
- 0 1 2 3
-> Tcl
- 0 1 2 3
-> Visual Basic
- 0 1 2 3
- }
- ++
- --
- ++
- [9] GRE Information
- Please note that you need to come back to eGEM to update your GRE information whenever it changes. If you don't, we may not have up to date information when judging begins.
- > Have you taken the GRE? : No*
- ++
- --
- ++
- [10] Unofficial Transcripts
- Please upload scanned/digital copies of your unofficial transcript(s). 
- ++
- --
- ++
- [11] Recommendations
- Your GEM application requires two recommendations to move forward in the process; yet THREE RECOMMENDATIONS ARE STRONGLY ENCOURAGED for a competitive application. Preferably, recommenders should be at least TWO faculty members, and a technical industry management professional holding a STEM graduate degree may serve as the third recommendation in place of a faculty member. Ensure that all recommenders will provide a STRONG recommendation on your behalf.
- > Dr. Martin Thuo, mthuo@ncsu
+[11] Recommendations
+Your GEM application requires two recommendations to move forward in the process; yet THREE RECOMMENDATIONS ARE STRONGLY ENCOURAGED for a competitive application. Preferably, recommenders should be at least TWO faculty members, and a technical industry management professional holding a STEM graduate degree may serve as the third recommendation in place of a faculty member. Ensure that all recommenders will provide a STRONG recommendation on your behalf.
+> Dr. Martin Thuo, mthuo@ncsu
 First Name * 
 Martin
 Last Name * 
