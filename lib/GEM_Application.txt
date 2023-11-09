@@ -53,61 +53,61 @@ Now we need to collect information on your previous employers. For each employme
 ----
 >	Job Title	Employed From	Employed Until	Supervisor Name	Actions
 Employer Name * 
-Iowa State University of Science and Technology
+>> Iowa State University of Science and Technology
 Supervisor Name * 
-Benjamin Kelly
+>> Benjamin Kelly
 Supervisor Title * 
-Head of Information Technology Department
+>> Head of Information Technology Department
 City of Job * 
-Ames
+>> Ames
 State of Job *
-Iowa
+>> Iowa
 Your Title * 
-Information Technology Specialist - Student Worker
+>> Information Technology Specialist - Student Worker
 Are you still employed here? *
- Yes No
+>>No
 Please Describe your Duties * 
-Information Technology Stuff
+>> INFORMATION TECHNOLOGY STUFF
 Reason for Leaving * 
-Pursuing Other Professional Opportunities
+>> Pursuing Other Professional Opportunities
 Employed From * 
-08/23/2019
+>> 08/23/2019
 Employed Until * 
-08/20/2023
+>> 08/20/2023
 Base Salary (Weekly) * 
-112.0
+>> 112.0
 Final Salary (Weekly) * 
-120.0
+>> 120.0
 ----
 + ADD
 ----
 >	Job Title	Employed From	Employed Until	Supervisor Name	Actions
 Employer Name * 
-Boeing Aerospace
+>> Boeing Aerospace
 Supervisor Name * 
-Dr. Arun Somani
+>> Dr. Arun Somani
 Supervisor Title * 
-Department Chair of Aerospace and Aeronautical Engineering
+>> Department Chair of Aerospace and Aeronautical Engineering
 City of Job * 
-Ames
+>> Ames
 State of Job *
-Iowa
+>> Iowa
 Your Title * 
-Boeing Aerospace Research in Engineering and Excellence Undergraduate Research Fellow
+>> Boeing Aerospace Research in Engineering and Excellence Undergraduate Research Fellow
 Are you still employed here? *
-Yes No
+>> No
 Please Describe your Duties * 
-Research Stuff
+>> AEROSPACE ENGINEERING RESEARCH AND STUFF
 Reason for Leaving * 
-End of Program and Pursuit of other Professional Opportunities
+>> End of Program and Pursuit of other Professional Opportunities
 Employed From * 
-08/20/2021
+>> 08/20/2021
 Employed Until * 
-08/22/2022
+>> 08/22/2022
 Base Salary (Weekly) * 
-78.0
+>> 78.0
 Final Salary (Weekly) * 
-98.0
+>> 98.0
 ----
 >	Job Title	Employed From	Employed Until	Supervisor Name	Actions
 ----
