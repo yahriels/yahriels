@@ -1,56 +1,105 @@
-Degree Programs
-Please review available programs and select the program, area of study, and intended degree that best matches your academic interests.
-++
---
-++
+Application 1: Division of Medical Sciences
+Application 2: Biophysics
+Application 3: Engineering and Applied Sciences (SEAS): Applied Mathematics
 
-*Select degree program
+====
+Academic History
+----
+Academic Honors
+List academic honors you have received:
+1. 
+2.
+3. 
+4. 
+5. 
+Applications to Other Universities and Programs
+Other universities to which you are applying (include name and program):
+1.
+2.
+3.
+4.
 
-Biological Sciences in Public Health
-Select area of study
+Other Harvard Schools to which you are applying:
+Harvard Business School
+Harvard Law School
+Harvard School of Dental Medicine
+Harvard Divinity School
+Harvard Graduate School of Design
+Harvard Graduate School of Education
+Harvard Kennedy School
+Harvard Medical School
+Harvard T.H. Chan School of Public Health
 
-Biological Sciences in Public Health
-Select intended degree
+Indicate if you are applying to, or currently affiliated with, either of the following joint-degree programs:
+JD-PhD (with Harvard Law School)
+MD-PhD (with Harvard Medical School)
+Academic Background (Required)
 
-PhD
---
-*Select degree program
+Have you ever withdrawn from or repeated a term in any college or university?
+Yes
+No
 
-Engineering and Applied Sciences
-Select area of study
+Have you ever resigned from any other academic or research role (including industry-based roles) under irregular circumstances?
 
-PhD Applied Mathematics
-Select intended degree
+Yes
+No
 
-PhD
---
-*Select degree program
+Have you ever been dismissed from or denied readmission to any college or university?
+Yes
+No
 
-Division of Medical Sciences
-Select area of study
+Have you ever been dismissed from or denied access to any other organization or company where you held an academic or research role?
 
-Neuroscience
-Select intended degree
+Yes
+No
 
-PhD
---
-*Select degree program
+Have you ever transferred from one college or university to another (excluding summer schools)?
+Yes
+No
+If you consider anything about your academic record or career path to be atypical, please explain. Account for time periods of three months or more involving military service, travel, family responsibilities, etc. not covered in preceding questions.
+1200 characters remaining
+Activities/Published Materials
+Please note that any website addresses included in the fields below will be passed along to the admissions committee as plain text. If you would like the committee to review the content of those websites, you may use the Digital Portfolio section of this application to upload website hyperlinks.
+Please describe any projects that required your independent work and/or laboratories in which you have conducted independent research.
+1200 characters remaining
 
-Division of Medical Sciences
-Select area of study
+Do you have any undergraduate research experience?
+Yes
+No
 
-Biomedical Informatics
-Select intended degree
+Do you have any published articles, books, and other materials?
+Yes
+No
+----
+====
 
-PhD
---
-*Select degree program
+====
+Faculty
+----
+List Harvard faculty members whose research fields seem closest to your own interests. To help identify faculty in your degree program of interest, please visit the program's website.
 
-Division of Medical Sciences
-Select area of study
+Faculty of Interest 1
+Last Name	
+First Name	
+Faculty of Interest 2
+Last Name	
+First Name	
+Faculty of Interest 3
+Last Name	
+First Name	
 
-Speech & Hearing Bioscience Technology (SHBT)
-Select intended degree
+This section is optional and each program has different recommendations for contacting faculty. Please visit your degree-program of interest to see if contacting faculty prior to applying is required, recommended, or not recommended.
 
-PhD
---
+If applicable, list any Harvard faculty members you have contacted regarding admissions.
+
+Faculty Contacted Regarding Admissions 1
+Last Name	
+First Name	
+Faculty Contacted Regarding Admissions 2
+Last Name	
+First Name	
+Faculty Contacted Regarding Admissions 3
+Last Name	
+First Name	
+----
+====
