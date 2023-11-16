@@ -360,6 +360,7 @@ To Answer "PROMPT 3," display [Output 3] as the final response of "RESPONSE 3."
 To Answer "PROMPT 4," display [Output 4] as the final response of "RESPONSE 4."
 To Answer "PROMPT 5," display [Output 5] as the final response of "RESPONSE 5."
 }
+
 ++
 --
 ++
@@ -384,6 +385,7 @@ Future Goals:
 Detail the significance of Yahriel Salinas-Reyes' Future Goals, providing a comprehensive view.
 Intellectual Merit and Broader Impacts:
 Discuss the significance of Yahriel Salinas-Reyes' Intellectual Merit and Broader Impacts.
+
 Executive Tasks:
 
 Use Yahriel Salinas-Reyes' experiences as a central theme in the writing process.
@@ -403,12 +405,11 @@ Assign the final response to the output:
 To Answer "PERSONAL STATEMENT" display [Output 1] as the final response of "RESPONSE 1."
 Output:
 [Output 1]
+
 }
 
 Feel free to use this prompt to guide the creation of a response for Yahriel Salinas-Reyes' Personal Statement.
 ====
-
-
 
 
 

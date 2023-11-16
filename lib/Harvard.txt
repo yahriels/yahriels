@@ -83,37 +83,68 @@ Yes
 No
 ----
 ====
+Identifying faculty mentors for your application is an important step, and it's crucial to choose individuals whose expertise aligns with your research interests or academic goals. Here are some tips on how to identify potential mentors:
 
+Research Interests:
+
+Look for faculty members whose research interests align closely with yours. This can include specific topics, methodologies, or theoretical approaches.
+Check the faculty profiles on the university's website or academic department pages. Many universities provide detailed information about faculty members' research areas.
+Publications and Achievements:
+
+Consider faculty members who have a strong publication record in the areas you're interested in. Look for recent publications, conference presentations, and any notable achievements.
+Reviewing a potential mentor's body of work can also give you insights into their research focus and the impact of their contributions.
+Collaborations and Networks:
+
+Explore whether the faculty members collaborate with researchers in other departments or institutions. Collaborative efforts can enrich your research experience and provide additional resources.
+Consider mentors who are well-connected in academic networks related to your field. Networking is essential for expanding your research opportunities.
+Teaching and Mentorship Philosophy:
+
+Look for mentors whose teaching and mentorship philosophies align with your learning style and academic preferences. Some faculty members may prioritize hands-on research, while others may emphasize a more structured classroom approach.
+Availability and Commitment:
+
+Consider the availability of potential mentors. Some faculty members may have heavy teaching loads or other commitments that could affect their availability to mentor you effectively.
+Reach out to them or their current mentees if possible to gauge their level of commitment and support for graduate students.
+Compatibility and Communication:
+
+Ensure that you feel comfortable communicating with the potential mentors. Effective communication is crucial for a successful mentor-mentee relationship.
+Attend department seminars, workshops, or events where you can interact with faculty members and get a sense of their personalities and communication styles.
+Once you've identified potential mentors, it's essential to reach out to them. Craft a concise and thoughtful email expressing your interest in their work, outlining your research goals, and explaining why you believe they would be a good fit as your mentor. Be prepared to discuss your background, research interests, and how you see yourself contributing to their research group.
+
+Remember that a strong mentorship is a two-way street, and finding the right fit is crucial for your academic and research success. Good luck with your application!
 ====
 Faculty
 ----
 List Harvard faculty members whose research fields seem closest to your own interests. To help identify faculty in your degree program of interest, please visit the program's website.
-
+Department 1: HST
 Faculty of Interest 1
-Last Name	
-First Name	
+Last Name   Heldt
+First Name  Thomas
 Faculty of Interest 2
-Last Name	
-First Name	
+Last Name   Sontag
+First Name  David
 Faculty of Interest 3
-Last Name	
-First Name	
+Last Name	Spector
+First Name	Myron
 
-This section is optional and each program has different recommendations for contacting faculty. Please visit your degree-program of interest to see if contacting faculty prior to applying is required, recommended, or not recommended.
-
-If applicable, list any Harvard faculty members you have contacted regarding admissions.
-
-Faculty Contacted Regarding Admissions 1
-Last Name	
-First Name	
-Faculty Contacted Regarding Admissions 2
-Last Name	
-First Name	
-Faculty Contacted Regarding Admissions 3
-Last Name	
-First Name	
+List Harvard faculty members whose research fields seem closest to your own interests. To help identify faculty in your degree program of interest, please visit the program's website.
+Department 1: Medical 
+Faculty of Interest 1 
+Last Name   Breakefield
+First Name  Xandra
+Faculty of Interest 2
+Last Name   Cepko
+First Name  Constance L.
+Faculty of Interest 3
+Last Name	Chen
+First Name	Zheng-Yi
 ----
+Department 1: https://hst.mit.edu/academic-programs/memp
+Department 2: https://www.hms.harvard.edu/md_phd/
 ====
+
+
+
+
 
 ====
 Statement of Purpose
@@ -122,4 +153,6 @@ The statement of purpose is very important to programs when deciding whether to 
 Personal Statement
 A core part of the Harvard Griffin GSAS mission is to identify and attract the most promising students to form a dynamic and diverse community. We are committed to educating individuals who reflect the growing diversity of perspectives and life experiences represented in society today and who will contribute to our commitment to sustain a welcoming, supportive, and inclusive environment. Please share how your experiences or activities will advance our mission and commitment. (No longer than 500 words)
 ====
+
+
 
