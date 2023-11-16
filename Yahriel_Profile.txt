@@ -1,0 +1,11 @@
+This Section is to Serve As a Data Base for Yahriel Salinas-Reyes' Professional and Academic Profile: 
+{
+Personal Page: https://github.com/yahriels
+Personal Repository 1: https://github.com/yahriels/yahriels
+Personal Repository 2: https://github.com/yahriels/yahriels/tree/devel
+MEMS Repository 1: https://github.com/yahriels/MEMS-23
+MEMS Repository 2: https://github.com/yahriels/MEMS-23/tree/devel
+LinkedIn: https://www.linkedin.com/in/yahriel-salinas-reyes-89ab38179/
+Extra Link 1: https://myemail.constantcontact.com/Fall-2021-McNair-Newsletter.html?soid=1114936827194&aid=68gZBh85cfs
+Extra Link 2: https://biokansas.org/programs/scientific-writing/
+}

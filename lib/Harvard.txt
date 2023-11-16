@@ -2,66 +2,77 @@ Application 1: Division of Medical Sciences
 Application 2: Biophysics
 Application 3: Engineering and Applied Sciences (SEAS): Applied Mathematics
 
+
+Most interested
+Computational Neuroscience
+
+Interested
+Modeling Physical/Biological Phenomena and Systems
+
+Somewhat interested
+Other
+Describe the sub-area you are interested in
+** __ **
+
 ====
+Harvard Application Overview
+----
+[0] Home
+[1] Instructions
+[2] Degree Program Selection
+[3] Personal Background
+[4] Additional Background Information
+[5] Previous Applications and Enrollments
+[6] Institutions Attended
+[7] Academic History
+[8] Faculty
+[9] Language Background
+[10] English Proficiency
+[11] Test Scores
+[12] Resume/CV
+[13] Employment History
+[14] Recommendations
+[15] Statement of Purpose
+[16] Personal Statement
+[17] Digital Portfolio
+[18] Additional Materials
+[19] Supplemental Data
+[20] Signature
+[21] Application Fee
+[22] Review and Submit
+----
 Academic History
 ----
 Academic Honors
 List academic honors you have received:
-1. 
-2.
-3. 
-4. 
-5. 
+1. The Ronald E. McNair Postbaccalaureate Achievement Program Scholar & The Barry Goldwater Scholarship and Excellence in Education Foundation Finalist
+2. The Boeing Research in Excellence and Technology Fellowship Program (RETF) Scholar & Micro-g Neutral Buoyancy Experiment Design Teams (NExT) Challenge Competition Finalist
+3. The Summer Undergraduate Research Fellowship Program (SURF) Scholar at Stanford University & California Institute of Technology, Program Coordinator & Mentor of ISU's The Department of Aerospace Engineering’s LAUNCH-UAS undergraduate research program
+4. The Louis Stokes Alliances for Minority Participation (LSAMP) Fellowship Program Scholar & Undergraduate Research Certificate Recipient  Awarded by Iowa State University's IINSPIRE-LSAMP Partnership
+5. The FIRST Robotics Competion (FRC) Worlds Championship Rookie Inspiration and Rookie All-Star Awards (International-Level Award) &The Youth Leaderhip Community Award Recieved From The Iowa Department of Human Rights: State of Iowa Youth Advisroy Council (SIYAC)
 Applications to Other Universities and Programs
 Other universities to which you are applying (include name and program):
-1.
-2.
-3.
-4.
+1. MIT - HST MEMP PhD Program
+2. Stanford University - Neuroscience and Biomedical Data Science/Informatics
+3. Caltech - Computation and Neural Systems
+4. UC Berkeley - Bioengineering
 
 Other Harvard Schools to which you are applying:
-Harvard Business School
-Harvard Law School
-Harvard School of Dental Medicine
-Harvard Divinity School
-Harvard Graduate School of Design
-Harvard Graduate School of Education
-Harvard Kennedy School
 Harvard Medical School
-Harvard T.H. Chan School of Public Health
 
 Indicate if you are applying to, or currently affiliated with, either of the following joint-degree programs:
-JD-PhD (with Harvard Law School)
 MD-PhD (with Harvard Medical School)
 Academic Background (Required)
 
-Have you ever withdrawn from or repeated a term in any college or university?
-Yes
-No
 
-Have you ever resigned from any other academic or research role (including industry-based roles) under irregular circumstances?
-
-Yes
-No
-
-Have you ever been dismissed from or denied readmission to any college or university?
-Yes
-No
-
-Have you ever been dismissed from or denied access to any other organization or company where you held an academic or research role?
-
-Yes
-No
-
-Have you ever transferred from one college or university to another (excluding summer schools)?
-Yes
-No
 If you consider anything about your academic record or career path to be atypical, please explain. Account for time periods of three months or more involving military service, travel, family responsibilities, etc. not covered in preceding questions.
-1200 characters remaining
+- 1200 characters remaining
+
 Activities/Published Materials
 Please note that any website addresses included in the fields below will be passed along to the admissions committee as plain text. If you would like the committee to review the content of those websites, you may use the Digital Portfolio section of this application to upload website hyperlinks.
+
 Please describe any projects that required your independent work and/or laboratories in which you have conducted independent research.
-1200 characters remaining
+- 1200 characters remaining
 
 Do you have any undergraduate research experience?
 Yes
@@ -103,3 +114,12 @@ Last Name
 First Name	
 ----
 ====
+
+====
+Statement of Purpose
+The statement of purpose is very important to programs when deciding whether to admit a candidate. Your statement should be focused, informative, and convey your research interests and qualifications. You should describe your reasons and motivations for pursuing a graduate degree in your chosen degree program, noting the experiences that shaped your research ambitions, indicating briefly your career objectives, and concisely stating your past work in your intended field of study and in related fields. Your degree program of interest may have specific guidance or requirements for the statement of purpose, so be sure to review the degree program page for more information. Unless otherwise noted, your statement should not exceed 1,000 words.
+--
+Personal Statement
+A core part of the Harvard Griffin GSAS mission is to identify and attract the most promising students to form a dynamic and diverse community. We are committed to educating individuals who reflect the growing diversity of perspectives and life experiences represented in society today and who will contribute to our commitment to sustain a welcoming, supportive, and inclusive environment. Please share how your experiences or activities will advance our mission and commitment. (No longer than 500 words)
+====
+
