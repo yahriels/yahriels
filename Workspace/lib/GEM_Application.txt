@@ -1,0 +1,318 @@
+Yahriel Salinas-Reyes
+Bachelor of Aerospace and Aeronautical Engineering from Iowa State University of Science and Technology
+Pursuing a Doctorate of Neuroscience in the Division of Mathematical Sciences (DMS) with a specialization on Computational and Data-eneabled Sciences, Biomedical Data-science and Bioinformatics, Theory and Algorithms of Scientific Computing.
+----
+University Preferences 
+----
+Graduate Study Preferences
+Degree Information 
+Please enter your Intended Major in the fields below. You will be able to provide specific interests in the Intended Areas of Concentration field.
+> Degree you intend to pursue : PhD, Science
+> Intended Major : Applied Science(Other than Chemistry or Physics)* 
+> Intended Area of Concentration : Algorithms and Theory*
+University Preferences
+Please indicate up to three GEM Member universities to which you plan to apply. Note that you MUST apply to at least three GEM Member universities by their respective application requirements and department deadline in order to qualify for the GEM fellowship. Failure to submit applications will result in disqualification. Only if you are currently enrolled in a Master’s or PhD program will this requirement be waived. If that is the case, please make sure that the “I am already Matriculated” checkbox is checked and only add information on your school in the “First Choice University” drop down. We will check your transcript to validate your status.
+> First Choice University : Stanford University*
+> Second Choice University : Harvard-MIT(Jnt PhD)*
+> Third Choice University : California Institute of Technology(Caltech)*
+----
+Internship Information
+----
+While interning at a sponsoring company for 10-12 weeks during the summer is mandatory for consideration as a GEM fellow, we do actively seek to find meaningful alignment between your Interest and the internships available. Thus to assist in this process, please answer the following questions:
+What type of work assignment interests... * : Research
+Please rank your employer preferences. Listing of employer preferences is for information purposes only and is not a guarantee that you will be selected by a ranked employer.
+> First Choice : Lawrence Berkeley National Laboratory(LBNL)* 
+> Second Choice : U.S. Departnement of Energy(DOE), Office of Energy Efficiency and Renewable Energy(EERE)* 
+> Third Choice : Applied Materials* 
+----
+Recommendations
+----
+Your GEM application requires two recommendations to move forward in the process; yet THREE RECOMMENDATIONS ARE STRONGLY ENCOURAGED for a competitive application. Preferably, recommenders should be at least TWO faculty members, and a technical industry management professional holding a STEM graduate degree may serve as the third recommendation in place of a faculty member. Ensure that all recommenders will provide a STRONG recommendation on your behalf.
+> Dr. Martin Thuo, mthuo@ncsu
+First Name * 
+Martin
+Last Name * 
+Thuo
+Employer * 
+North Carolina State Uniiversity
+Title * 
+Professor of Materials Science and Engineering
+Email * 
+mthuo@ncsu.edu
+Confirm Email * 
+mthuo@ncsu.edu
+Phone Number * 
++1 (617)458-2363 
+ > Dr. Thomas Ward III, hgw8rs@virginia.edu
+First Name * 
+Thomas
+Last Name * 
+Ward III
+Employer * 
+University of Virginia School of Engineering
+Title * 
+Professor of Mechanical and Aerospace Enigneering
+Email * 
+hgw8rs@virginia.edu
+Confirm Email * 
+hgw8rs@virginia.edu
+Phone Number * 
++1 (434)924-3072
+ > Dr. Lequetia Ancar, lancar@iastate.edu
+First Name * 
+Lequetia
+Last Name * 
+Ancar
+Employer * 
+Iowa State University of Science and Technology in College of Engineering
+Title * 
+Director of Multicultural Student Success
+Email * 
+lancar@iastate.edu
+Confirm Email * 
+lancar@iastate.edu
+Phone Number * 
++1 (515)294-0690
+++
+====
+
+
+
+
+
+
+
+
+
+
+
+====
+++
+----
+Employment History
+----
+Now we need to collect information on your previous employers. For each employment experience you've had, click Add and enter the information. Click the Save button at the bottom of the form once you are done. Note: If you want to record different jobs at the same employer, you can do so as multiple Employer records.
+----
++ ADD
+----
+>	Job Title	Employed From	Employed Until	Supervisor Name	Actions
+Employer Name * 
+The Soft Matter Material Transport Group
+Supervisor Name * 
+Dr. Martin Thuo
+Supervisor Title * 
+Professor of Materials Science and Engineering
+City of Job * 
+Ames
+State of Job *
+Iowa
+Your Title * 
+Undergraduate Researcher and Systems Engineer
+Are you still employed here? *
+No
+Please Describe your Duties * 
+[Enter Response Here]
+Reason for Leaving * 
+Seeking Other Professional Opportunities
+Employed From * 
+08/23/2019
+Employed Until * 
+05/20/2021
+Base Salary (Weekly) * 
+120
+Final Salary (Weekly) * 
+150
+----
+----
+>	Job Title	Employed From	Employed Until	Supervisor Name	Actions
+++
+====
+15 Work Experiences
+1. IT Specialist and Research Data Scientist 
+2. The Microscale and Interfacial Fluid Physics Laboratory 
+3. The Soft Matter Material Transport Group 
+4. DARPA: Recycling at the Point of Disposal (RPOD) 
+5. Boeing Aerospace 
+6. Honors Community-Residential Advisor
+7. Iowa DHS Appointed Youth-Lobbyist
+8. Assosiation of Iowa Latinx Professionals (PILA)
+9. Latinx Student Initiatives/LEAD/SHPE-MAES/SACNAS
+10. STEM Outreach Program (ACE/CIRT/FIRST Robotics)
+11. Community Outreach and Education Program Coordinator
+12. Student Representative of ISU College of Engineering Student Council
+13. Multi-lingual Advocate and Educator
+14. Multi-cultural Ambassador and Advisor
+15. John Deere and Nature Magazine and 3D Modeling
+====
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+====
+++
+----
+Research History
+----
+We need to know about any research projects you might have participated in. If you haven't participated in any projects, that's okay - just click the Save button below to move to the next section of the application. For each research project you've participated in, click Add Project and enter the information. Click on the Save button at the bottom of the form once you are done.
++ ADD
+----
+> Research Project	Project Title	From Date	End Date	University
+Research Program Name * 
+>>
+Research Project Title * 
+>>
+Describe the Experience * 
+>>
+(Please include the purpose of the research, your specific contributions, any skills obtained and a brief description of your results)
+University *
+>>
+Location City * 
+>>
+Location State *
+>>
+Is your research project ongoing? *
+>>
+Start Date * 
+>>
+End Date * 
+>>
+----
+> Research Project	Project Title	From Date	End Date	University
+Research Program Name * 
+>>
+Research Project Title * 
+>>
+Describe the Experience * 
+>>
+(Please include the purpose of the research, your specific contributions, any skills obtained and a brief description of your results)
+University *
+>>
+Location City * 
+>>
+Location State *
+>>
+Is your research project ongoing? *
+>>
+Start Date * 
+>>
+End Date * 
+>>
+----
+> Research Project	Project Title	From Date	End Date	University
+----
+> Research Project	Project Title	From Date	End Date	University
+----
+> Research Project	Project Title	From Date	End Date	University
+----
+> Research Project	Project Title	From Date	End Date	University
+----
+> Research Project	Project Title	From Date	End Date	University
+----
+> Research Project	Project Title	From Date	End Date	University
+----
+> Research Project	Project Title	From Date	End Date	University
+----
+> Research Project	Project Title	From Date	End Date	University
+----
+> Research Project	Project Title	From Date	End Date	University
+----
+> Research Project	Project Title	From Date	End Date	University
+----
+> Research Project	Project Title	From Date	End Date	University
+----
+> Research Project	Project Title	From Date	End Date	University
+----
+> Research Project	Project Title	From Date	End Date	University
+----
+++
+====
+15 Research Experiences
+1. Senior Capstone and MEMS Thesis
+2. McNair Scholar
+3. Undergraduate Research Certificate
+4. NASA Micro-G
+5. Honors Capstone
+6. Stanford SURF
+7. Caltech SURF
+8. American Institute of Aeronautics and Astronautics Student Branch (AIAA)
+9. Experimental Systems Engineering, Signals and Controls, Electrical Engineering (PCB Design)
+10. Solid State Physics and Quantum Mechanics of Dynamical Systems (Chaos Theory)
+11. Robotics, Internet of Things (IoT), Software Engineering, and Computer-Data Science
+12. Machine Learning and Design of Experiments, Experimental Systems Engineering, MEMS
+13. Modern Design and Application of Aerospace Systems
+14. Aerospace Laboratory Techniques and Design of Aerospace Vehicle Proposulsion Systems
+15. Materials Science, Nanoengineering, Chemistry
+====
+
+NASA Micro-G Neutral Buoyancy Experiment Design Teams Challenge 2022, Ronald E. McNair Post-Baccalaureate Achievement Program Fellowship 2021-2022, SURF Scholar at Stanford University & California Institute of Technology 2021-2022. The Barry Goldwater Scholarship & Excellence in Education Foundation Finalist 2021-2022, State of Iowa Youth Advisory Council Community Leadership Award 2020 (250 Community Service Hours), (IINSPIRE-LSAMP) NSF Undergraduate Research Certificate, 2019-2020, Construction Industry Round Table (CIRT) National Design & Construction Competition Back-to-Back Champion 2019-2020, University Honors Program Member 2019-2023, Latinx Student Initiatives (Co-Founder) Fall 2019-Spring 2022, Stanford SURF Lightning Talks Best Poster Award 2021,  Dean's List 2019 2020,  Iowa Latino Heritage Festival Scholarship Recipient 2020, Latinos Unidos Scholarship Recipient 2020, Student Iowa Youth Advisory Council Servant Leadership Award 2021, FIRST ROBOTICS Rookie Inspiration & All-Star Award 2019
+
+Tecnológico de Monterrey Mexico and the FEMSA Biotechnology Center Affiliate of Outreach and Research Diplomacy, Ronald E. McNair Post-Baccalaureate Achievement Program, SHPE-MAES, IINSPIRE-LSAMP Scholar, SACNAS, NSBE, University Honors Program, Boeing Aerospace, Construction Industry Round Table (CIRT), Architecture Construction Engineering (ACE) Mentorship Programs, FIRST Robotics, Biokansas Scientific Writing Program, SFP Programs, LEAD, Latinx Student Initiatives, Association of Iowa Latinx Professionals (PILA), 
+
+
+
+
+
+
+
+
+
+
+
+
+====
+++
+----
+[12] Statement of Purpose
+Please cut and paste your statement of purpose in the box below. Limited to 800 words or less.
+> Enter text here : Intellectual Merit: My research and career aspirations revolve around the convergence of mathematics, mental health, and neurodiversity. I am driven to pursue a Ph.D. in Neuroscience, specializing in Biomedical Data Science. This interdisciplinary field provides a rich foundation for exploring the expansive realm of neural data and its applications in mental health research. My research objectives encapsulate the following key points:
+1.	Development of Innovative Diagnostic Tools: My goal is to devise mathematical models and algorithms capable of analyzing neural data, offering early diagnostic insights into mental health disorders such as depression, anxiety, and schizophrenia. The aim is to create non-invasive diagnostic tools that improve the early detection and intervention of these conditions.
+2.	Personalized Treatment Approaches: I seek to advance precision medicine in mental health by analyzing individual neural data. This analysis will inform the development of treatment algorithms that tailor interventions to a person's unique neural patterns, thereby enhancing the effectiveness of psychiatric treatments and minimizing adverse side effects.
+3.	Neurodiversity Advocacy: Beyond my research, I am dedicated to advocating for neurodiverse individuals within academia and society. I plan to collaborate with organizations and institutions to establish inclusive environments for individuals with diverse neurological profiles. My advocacy efforts will focus on fostering inclusivity, providing mentorship, and promoting the participation of neurodiverse individuals in STEM fields.
+Concerning my career trajectory, I envision a path that involves academic research, mentorship, and advocacy. I aspire to become a professor and researcher, committing to advancing the frontiers of knowledge in neuroscience while fostering a supportive and inclusive academic environment for students of all backgrounds. My journey is one of resilience, transformation, and embracing neurodiversity, values I am determined to carry forward to positively impact the scientific community, reflecting the broader impacts that the GEM Consortium Fellowship aims to achieve.
+Significance of the GEM Consortium Fellowship: Attaining the Fellowship would mark a pivotal milestone in my academic and career journey. This esteemed award seamlessly aligns with my goals, values, and aspirations. The significance of the GEM in my life can be summarized in several crucial points:
+Financial Support: As a graduate student, I encounter challenges related to tuition, research expenses, and living costs. The GEM Consortium Fellowship would offer essential financial support, enabling me to fully concentrate on my research and academic pursuits without the burden of financial stress.
+Validation of Commitment: Receiving the GEM support would validate my dedication to the intersection of mathematics, mental health, and neurodiversity. It would acknowledge the potential impact of my research and advocacy efforts, bolstering my confidence and commitment to these endeavors.
+Research Independence: GEM encourages research independence. With this fellowship, I would have the freedom to explore innovative research questions, engage in collaborations, and contribute meaningfully to the scientific community.
+Broader Impacts: GEM places a strong emphasis on broader impacts, a commitment I deeply share. Obtaining the fellowship would provide me with a platform to further my advocacy for neurodiversity and inclusivity in academia, ensuring that the scientific community celebrates diversity and empowers all individuals to succeed.
+Professional Development: GEM offers opportunities for professional development, including conference attendance and networking. These experiences would enhance my academic growth and enable me to interact with leading researchers in my field.
+In summary, the GEM is more than a financial award; it is a recognition of my potential to make significant contributions to science and society. It aligns seamlessly with my commitment to inclusivity, research innovation, and the pursuit of excellence. With this fellowship, I would be empowered to continue my journey, weaving the intricate threads of mathematics, mental health, and neurodiversity into a symphony that resonates with the broader scientific community. The Fellowship represents an opportunity for growth, impact, and collaboration that I am excited to embrace.
+Conclusion: My journey reflects a commitment to academic excellence, innovation, and inclusivity in the scientific community. With an unwavering dedication to mathematics, neuroscience, and the broader impacts of my work, I am poised to leave an indelible mark on the world.
+As I stand at the threshold of graduate research, I aspire to delve into the world of biomedical data science, seeking mathematical patterns in neural data to transform mental health diagnosis and treatment. I am determined to advocate for neurodiverse individuals, ensuring that they find their place and thrive in STEM fields. GEM represents an opportunity to catalyze my journey, providing the financial and academic support necessary for my research and advocacy endeavors.
+I am eager to become a part of the GEM community, where innovation, inclusivity, and academic excellence converge. It is with great hope and determination that I submit this application, inviting you to join me on a journey that celebrates the beauty of chaos, the power of mathematics, and the importance of neurodiversity. Together, we can transform the world, one neural pattern at a time.
+*
+> Word Count : 799*
+Please enter any additional remarks or comments, or anything else you'd like us to know when evaluating your application. Limited to 800 words or less.
+> Enter text here : Personal Statement - Intellectual Merit:
+In the vast tapestry of human existence, I, Yahriel Salinas-Reyes, find myself intricately woven into a unique pattern, a testament to resilience, curiosity, and an unyielding pursuit of knowledge. I wear multiple hats—storyteller, poet, musician, engineer, and scientist. My life's narrative not only speaks to overcoming challenges but underscores the power of embracing neurodiversity, fostering inclusivity, and redefining obstacles as strengths.
+Originating in the tranquil town of Iowa, where hidden treasures abound, my journey intersected with Don—an enigmatic individual, born without the ability to hear, much like myself in my earlier, deaf years. His eyes, full of wonder, served as a gateway to understanding reality. During a period of "existential fracturing," I sought solace in Don's wisdom, delving into the "music of silence." His mentorship reshaped my perspective, teaching me to find beauty and wisdom in life's quiet moments. Don's influence steered me towards a less-trodden path, one where I would seek knowledge beyond conventional boundaries. As my name, Yahriel, implies, I am free—free to explore the boundless realms of aerospace engineering.
+Iowa State University and a later voyage to Caltech & Stanford marked the beginning of my intellectual odyssey, providing the intellectual tools to decode the mathematical language underlying the cosmos. Yet, it was the discovery of fractal mathematics that truly ignited my passion. Fractals, intricate patterns transcending the ordinary, became my canvas for curiosity, representing the junction between chaos and order—akin to my mind shaped by neurological diversity, in constant transformation from chaos to beauty.
+Navigating into the realm of Micro-Electro-Mechanical Systems (MEMS), I honed my skills in precision design and innovation. However, it was the interplay between order and chaos, exemplified by fractals, that captivated me. This fascination fueled a quest to understand, translate, and reveal the inherent beauty in mathematical patterns. In the academic arena, mentors played instrumental roles, guiding me through the labyrinth of academia and instilling the value of passing knowledge forward.
+While my journey held moments of revelation and transformation, it also led me into the depths of darkness. Lost in chaos, my mother's unwavering support became my strength. Her question during challenging times, "What do you see in this darkness, my dear?" prompted my response, "I see what I want to see." This skill of transforming darkness into fresh starts became an asset in my academic pursuits.
+An interdisciplinary approach unfolded as I integrated Applied Mathematics and Statistics with a passion for mental health. This intersection marked a unique avenue that I intended to explore further. In this journey, the power of mentorship and advocacy became evident. I recognized academia should be inclusive, celebrating diversity and empowering every individual to reach their full potential. My commitment extends beyond scholarship—I aspire to be a mentor and advocate for neurodiverse individuals, inspiring them to recognize their potential in the scientific community.
+Personal Statement - Broader Impacts:
+My unwavering dedication to neuroscience, particularly in the context of neurodiversity and mental health, propels my future goals. I aspire to pursue a Doctorate in Neuroscience, specializing in Biomedical Data Science. In this interdisciplinary domain, I aim to delve into neural data, extracting patterns from the chaotic symphony of neurons. By combining mathematics and neuroscience, I hope to contribute to novel diagnostic and therapeutic tools for mental health disorders.
+The GEM Consortium Fellowship is a significant milestone I aspire to achieve, enhancing my educational pursuits and validating my commitment to the intersection of mathematics, mental health, and neurodiversity. This esteemed award aligns seamlessly with my goals and values, emphasizing innovation and broader impacts.
+Post-doctorate, I envision working in academic research, bridging the gap between mathematics and mental health. My career goals extend to mentoring and advocating for neurodiverse individuals, envisioning a future where inclusivity in academia is a reality. As I traverse the intersecting realms of mathematics, mental health, and neurodiversity, my journey mirrors a musical metaphor—an intricate blend of chaos and beauty, weaving discordant notes into a harmonious symphony.
+Relevant Background:
+My academic journey began at the renown ISU of Science and Technology, home of The Cyclones and Original Designers of the Computer, where I pursued a Bachelor's degree in Aerospace Engineering. The rigorous standards equipped me with essential skills for graduate school and beyond, exposing me to the mathematical intricacies underlying the cosmos.
+A pivotal moment occurred with the discovery of fractal mathematics, leading to projects involving fractal-based simulations. This exemplified my commitment to extending mathematical boundaries and uncovering hidden beauty. Embracing an interdisciplinary approach, I bridged the gap between mathematics and mental health research, navigating challenges and contributing meaningfully to the scientific community.
+My academic background reflects dedication to aerospace engineering and a passionate pursuit of mathematics, laying the foundation for excellence, innovation, and broader impacts on the world of science.
+*
+> Word Count : 788*
+++
+--
+++
+[13] Review and Confirm
+Fellowship Application - Review & Confirm Information
+> Congratulations, if you are on this page then you have most likely completed the fellowship application and are well on your way to becoming a GEM fellow. Before submitting, please review your entries to ensure that you have gotten it just right. If all looks well, click the “Submit” button to complete.
+----

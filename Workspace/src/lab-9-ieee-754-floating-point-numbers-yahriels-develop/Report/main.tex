@@ -1,0 +1,163 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{hyperref} %url command
+\usepackage{parskip} %removes paragraph indentation
+\usepackage{multirow}
+
+\title{AERE 361 Lab 9 Report}
+\author{Yahriel Salinas-Reyes}
+\date{4/5/2022}
+
+\begin{document}
+
+\maketitle
+
+\newpage
+
+\section{Exercise 2}
+
+\subsection{Exercise 2.1}
+\begin{table}[htp]
+\caption{Exercise 2.1}
+\label{my-label}
+\begin{tabular}{lllll}
+\multirow{2}{*}{Size} & \multicolumn{2}{c}{Unsigned} & \multicolumn{2}{c}{Signed} \\
+& Min. Value & Max. Value & Min. Value & Max. Value \\
+8-bit & 0 & 255 & -128 & 127 \\
+16-bit & 0 & 65535 & -32768 & 32767 \\
+32-bit & 0 & 4294967295 & -2147483648 & 2147483647 \\
+64-bit & 0 & 18446744073709551615 &  -9223372036854775808 & 9223372036854775807 \\
+\end{tabular}
+\end{table}
+ 
+\subsection{Exercise 2.2}
+
+\begin{tabular}{|c|c|p{4.2in}|}
+  \hline
+  Value & 8-bit unsigned representation \\
+  \hline
+  \hline
+  \texttt{88} & \texttt{01011000}  \\
+  \hline
+  \texttt{0} & \texttt{00000000} \\
+  \hline
+  \texttt{1} & \texttt{00000001} \\
+  \hline
+  \texttt{127} & \texttt{01111111} \\
+  \hline
+  \texttt{255} & \texttt{11111111} \\
+  \hline
+  \end{tabular}
+ 
+\subsection{Exercise 2.3}
+
+\begin{tabular}{|c|c|p{4.2in}|}
+  \hline
+  Value & 8-bit 2’s complement signed
+representation \\
+  \hline
+  \hline
+  \texttt{+88} & \texttt{10101000}  \\
+  \hline
+  \texttt{-44} & \texttt{00101100} \\
+  \hline
+  \texttt{-1} & \texttt{00000001} \\
+  \hline
+  \texttt{0} & \texttt{10000000} \\
+  \hline
+  \texttt{+1} & \texttt{10000001} \\
+  \hline
+  \texttt{-128} & \texttt{10000000} \\
+  \hline
+  \texttt{+127} & \texttt{10000001} \\
+  \hline
+  \end{tabular}
+ 
+\newpage
+
+\subsection{Exercise 2.4}
+
+\subsubsection{32-bit Normalized Form}
+
+\begin{itemize}
+    \item{Min Positive: N(min) = 1.1755E-38}
+    \item{Max Positive: N(max) = 3.403E38}
+    \item{Min Negative: N(min) = -1.1755E-38}
+    \item{Max Negative: N(max) = -3.403E38}
+\end{itemize}
+
+\subsubsection{32-bit Denormalized Form}
+
+\begin{itemize}
+    \item{Min Positive: N(min) = 1.4013E-45}
+    \item{Max Positive: N(max) = 1.1755E-38}
+    \item{Min Negative: N(min) = -1.4013E-45}
+    \item{Max Negative: N(max) = -1.1755E-38}
+\end{itemize}
+
+\subsubsection{64-bit Normalized Form}
+
+\begin{itemize}
+    \item{Min Positive: N(min) = 2.225E-308}
+    \item{Max Positive: N(max) = 1.798E308}
+    \item{Min Negative: N(min) = -2.225E-308}
+    \item{Max Negative: N(max) = -1.798E308}
+\end{itemize}
+
+\subsubsection{64-bit Denormalized Form}
+
+\begin{itemize}
+    \item{Min Positive: N(min) = 4.9407E-324}
+    \item{Max Positive: N(max) = 2.225E-308}
+    \item{Min Negative: N(min) = -4.9407E-324}
+    \item{Max Negative: N(max) = -2.225E-308}
+\end{itemize}
+
+\newpage
+
+\section{Exercise 4}
+
+Output using single precision:
+\begin{verbatim}
+    5.500000
+    5.545455
+    5.590164
+    5.633431
+    5.674649
+    5.713329
+    5.749121
+    5.781811
+    5.811315
+    5.837664
+   
+\end{verbatim}
+
+Output using double precision :
+\begin{verbatim}
+    5.500000
+    5.545455
+    5.545455
+    5.590164
+    5.633431
+    5.674649
+    5.713329
+    5.749121
+    5.781811
+    5.811315
+    5.837664
+    5.861078
+    5.883543
+    5.935957
+    6.534422
+    15.413043
+    67.472398
+    97.137151
+    99.824694
+    99.989540
+
+\end{verbatim}
+
+Explanation of Output:
+    \paragraph{To investigate the difference between the single precision and double precision, I ran the sequence script using ./seq -d for the double precision. In contrast to using the sinlge precision which normally has 10 outputs, the double precision prints 20, those same 10 plus 10 more. From the lab instruction, we know that this sequence is supposed to converge to 6 but if we use the single precision, we haven't ran enough iterations to quite prove this convergence. When ran with double precision the output shows that it gets very close to 6 after 14 iterations and then begins to increase past 6 very quickly. This means the sequence is converging to 6. The iterations 15-20 simply have overshot the convergence and become irrelevant to the monotonically-increasing sequence.}
+
+\end{document}
