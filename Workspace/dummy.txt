@@ -1,6 +1,5 @@
 The MASTER User is tasked with filling in any empty spaces or entries and incorporating all the text and information given into the MASTER SCRIPT denoted by Block 0, Block 1, Block 2, Block 3, Block 4, and Block 5.  The purpose of this MASTER SCRIPT is to produce a STATEMENT OF PURPOSE for Yahriel Salinas-Reyes' PhD Application to Harvard University.  
 
-
 Harvard Application Overview
 ----
 [0] Home
@@ -42,20 +41,21 @@ Other
 Describe the sub-area you are interested in
 ** __ **
 
+Academic History
+----
 Academic Honors
 List academic honors you have received:
 1. The Ronald E. McNair Postbaccalaureate Achievement Program Scholar & The Barry Goldwater Scholarship and Excellence in Education Foundation Finalist
 2. The Boeing Research in Excellence and Technology Fellowship Program (RETF) Scholar & Micro-g Neutral Buoyancy Experiment Design Teams (NExT) Challenge Competition Finalist
-3. The Summer Undergraduate Research Fellowship Program (SURF) Scholar at Stanford University & California Institute of Technology
+3. The Summer Undergraduate Research Fellowship Program (SURF) Scholar at Stanford University & California Institute of Technology, Program Coordinator & Mentor of ISU's The Department of Aerospace Engineering’s LAUNCH-UAS undergraduate research program
 4. The Louis Stokes Alliances for Minority Participation (LSAMP) Fellowship Program Scholar & Undergraduate Research Certificate Recipient  Awarded by Iowa State University's IINSPIRE-LSAMP Partnership
 5. The FIRST Robotics Competion (FRC) Worlds Championship Rookie Inspiration and Rookie All-Star Awards (International-Level Award) &The Youth Leaderhip Community Award Recieved From The Iowa Department of Human Rights: State of Iowa Youth Advisroy Council (SIYAC)
-
 Applications to Other Universities and Programs
 Other universities to which you are applying (include name and program):
 1. MIT - HST MEMP PhD Program
 2. Stanford University - Neuroscience and Biomedical Data Science/Informatics
 3. Caltech - Computation and Neural Systems
-
+4. UC Berkeley - Bioengineering
 
 Other Harvard Schools to which you are applying:
 Harvard Medical School
@@ -79,8 +79,91 @@ Yes
 Do you have any published articles, books, and other materials?
 Yes 
 
+====
+Identifying faculty mentors for your application is an important step, and it's crucial to choose individuals whose expertise aligns with your research interests or academic goals. Here are some tips on how to identify potential mentors:
+
+Research Interests:
+
+Look for faculty members whose research interests align closely with yours. This can include specific topics, methodologies, or theoretical approaches.
+Check the faculty profiles on the university's website or academic department pages. Many universities provide detailed information about faculty members' research areas.
+Publications and Achievements:
+
+Consider faculty members who have a strong publication record in the areas you're interested in. Look for recent publications, conference presentations, and any notable achievements.
+Reviewing a potential mentor's body of work can also give you insights into their research focus and the impact of their contributions.
+Collaborations and Networks:
+
+Explore whether the faculty members collaborate with researchers in other departments or institutions. Collaborative efforts can enrich your research experience and provide additional resources.
+Consider mentors who are well-connected in academic networks related to your field. Networking is essential for expanding your research opportunities.
+Teaching and Mentorship Philosophy:
+
+Look for mentors whose teaching and mentorship philosophies align with your learning style and academic preferences. Some faculty members may prioritize hands-on research, while others may emphasize a more structured classroom approach.
+Availability and Commitment:
+
+Consider the availability of potential mentors. Some faculty members may have heavy teaching loads or other commitments that could affect their availability to mentor you effectively.
+Reach out to them or their current mentees if possible to gauge their level of commitment and support for graduate students.
+Compatibility and Communication:
+
+Ensure that you feel comfortable communicating with the potential mentors. Effective communication is crucial for a successful mentor-mentee relationship.
+Attend department seminars, workshops, or events where you can interact with faculty members and get a sense of their personalities and communication styles.
+Once you've identified potential mentors, it's essential to reach out to them. Craft a concise and thoughtful email expressing your interest in their work, outlining your research goals, and explaining why you believe they would be a good fit as your mentor. Be prepared to discuss your background, research interests, and how you see yourself contributing to their research group.
+
+Remember that a strong mentorship is a two-way street, and finding the right fit is crucial for your academic and research success. Good luck with your application!
+====
+Faculty
+----
+List Harvard faculty members whose research fields seem closest to your own interests. To help identify faculty in your degree program of interest, please visit the program's website.
+Department 1: HST
+Faculty of Interest 1
+Last Name   Heldt
+First Name  Thomas
+Faculty of Interest 2
+Last Name   Sontag
+First Name  David
+Faculty of Interest 3
+Last Name	Spector
+First Name	Myron
+
+List Harvard faculty members whose research fields seem closest to your own interests. To help identify faculty in your degree program of interest, please visit the program's website.
+Department 1: Medical 
+Faculty of Interest 1 
+Last Name   Breakefield
+First Name  Xandra
+Faculty of Interest 2
+Last Name   Cepko
+First Name  Constance L.
+Faculty of Interest 3
+Last Name	Chen
+First Name	Zheng-Yi
+----
+Department 1: https://hst.mit.edu/academic-programs/memp
+Department 2: https://www.hms.harvard.edu/md_phd/
+====
+----
+Applying to Harvard: https://gsas.harvard.edu/apply/applying-degree-programs/completing-your-application/statement-purpose-personal-statement-and
+Applying to Bioastronautics Program: https://hst.mit.edu/academic-programs/memp/bioastronautics-training-program
+Applying to Harvard Medical School: https://www.hms.harvard.edu/md_phd/program/index.html
+----
+Other Resources and Helpful Links:
+https://scholar.harvard.edu/files/yuhuawang/files/writing_statement_of_purpose_for_graduate_school_application_2021_yuhua_wang_0.pdf
+https://www.hsph.harvard.edu/career-services/wp-content/uploads/sites/36/2016/06/Writing-a-Graduate-School-Application-Essay-Guide_Nov-20151.pdf
+https://bemoacademicconsulting.com/blog/harvard-grad-school-personal-statement-examples
+https://www.gse.harvard.edu/sites/default/files/2023-09/Statement-of-Purpose.pdf
+https://www.azent.com/expert-tips/sop-harvard-university
+
+
+
+
+
+====
 Statement of Purpose
 The statement of purpose is very important to programs when deciding whether to admit a candidate. Your statement should be focused, informative, and convey your research interests and qualifications. You should describe your reasons and motivations for pursuing a graduate degree in your chosen degree program, noting the experiences that shaped your research ambitions, indicating briefly your career objectives, and concisely stating your past work in your intended field of study and in related fields. Your degree program of interest may have specific guidance or requirements for the statement of purpose, so be sure to review the degree program page for more information. Unless otherwise noted, your statement should not exceed 1,000 words.
+--
+Personal Statement
+A core part of the Harvard Griffin GSAS mission is to identify and attract the most promising students to form a dynamic and diverse community. We are committed to educating individuals who reflect the growing diversity of perspectives and life experiences represented in society today and who will contribute to our commitment to sustain a welcoming, supportive, and inclusive environment. Please share how your experiences or activities will advance our mission and commitment. (No longer than 500 words)
+====
+
+
+
 
 
 STATEMENT OF PURPOSE: 
