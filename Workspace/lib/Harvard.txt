@@ -1,20 +1,3 @@
-Application 1: Division of Medical Sciences
-Application 2: Biophysics
-Application 3: Engineering and Applied Sciences (SEAS): Applied Mathematics
-
-
-Most interested
-Computational Neuroscience
-
-Interested
-Modeling Physical/Biological Phenomena and Systems
-
-Somewhat interested
-Other
-Describe the sub-area you are interested in
-** __ **
-
-====
 Harvard Application Overview
 ----
 [0] Home
@@ -40,7 +23,22 @@ Harvard Application Overview
 [20] Signature
 [21] Application Fee
 [22] Review and Submit
-----
+
+Application 1: Division of Medical Sciences
+Application 2: Biophysics
+Application 3: Engineering and Applied Sciences (SEAS): Applied Mathematics
+
+Most interested
+Computational Neuroscience
+
+Interested
+Modeling Physical/Biological Phenomena and Systems
+
+Somewhat interested
+Other
+Describe the sub-area you are interested in
+** __ **
+
 Academic History
 ----
 Academic Honors
@@ -64,7 +62,6 @@ Indicate if you are applying to, or currently affiliated with, either of the fol
 MD-PhD (with Harvard Medical School)
 Academic Background (Required)
 
-
 If you consider anything about your academic record or career path to be atypical, please explain. Account for time periods of three months or more involving military service, travel, family responsibilities, etc. not covered in preceding questions.
 - 1200 characters remaining
 
@@ -76,12 +73,10 @@ Please describe any projects that required your independent work and/or laborato
 
 Do you have any undergraduate research experience?
 Yes
-No
 
 Do you have any published articles, books, and other materials?
-Yes
-No
-----
+Yes 
+
 ====
 Identifying faculty mentors for your application is an important step, and it's crucial to choose individuals whose expertise aligns with your research interests or academic goals. Here are some tips on how to identify potential mentors:
 
@@ -141,6 +136,17 @@ First Name	Zheng-Yi
 Department 1: https://hst.mit.edu/academic-programs/memp
 Department 2: https://www.hms.harvard.edu/md_phd/
 ====
+----
+Applying to Harvard: https://gsas.harvard.edu/apply/applying-degree-programs/completing-your-application/statement-purpose-personal-statement-and
+Applying to Bioastronautics Program: https://hst.mit.edu/academic-programs/memp/bioastronautics-training-program
+Applying to Harvard Medical School: https://www.hms.harvard.edu/md_phd/program/index.html
+----
+Other Resources and Helpful Links:
+https://scholar.harvard.edu/files/yuhuawang/files/writing_statement_of_purpose_for_graduate_school_application_2021_yuhua_wang_0.pdf
+https://www.hsph.harvard.edu/career-services/wp-content/uploads/sites/36/2016/06/Writing-a-Graduate-School-Application-Essay-Guide_Nov-20151.pdf
+https://bemoacademicconsulting.com/blog/harvard-grad-school-personal-statement-examples
+https://www.gse.harvard.edu/sites/default/files/2023-09/Statement-of-Purpose.pdf
+https://www.azent.com/expert-tips/sop-harvard-university
 
 
 

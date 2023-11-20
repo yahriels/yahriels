@@ -1,30 +1,6 @@
-++++
-Yahriel Salinas-Reyes
-Bachelor of Aerospace and Aeronautical Engineering from Iowa State University of Science and Technology
-Pursuing a Doctorate of Neuroscience in the Division of Mathematical Sciences (DMS) with a specialization on Computational and Data-eneabled Sciences, Biomedical Data-science and Bioinformatics, Theory and Algorithms of Scientific Computing.
-----
-University Preferences: 
-Stanford University
-Massachusetts Institute of Technology (MIT)
-Harvard University
-California Institute of Technology (Caltech)
-University of California Berkeley (UCBerkeley)
-----
-Fellowships Applying For:
-SSRC - Social Science Research Council
-Knight Hennessey - Knight-Hennessey Scholars 
-Fulbright - Open Study/Research Fulbright-National Geographic Storytelling Fellowship Award
-NSF GRFP - National Science Foundation Graduate Research Fellowship Programs
-Hertz - The Hertz Foundation Fellowship 
-The Mercury Project - NSF-Mercury Project Partnership
-GFSD - Graduate Fellowships for STEM Diversity
-GEM -  The National GEM Consortium
-DOE CSGF - DOE Computational Science Graduate Fellowship
-DOE NNSA SSGF - DOE NNSA Stewardship Science Graduate Fellowship
-Linda Hall - Linda Hall Library of Science, Engineering, Technology Fellowship
-Ford - National Academy of Sciences, Engineering, Medicine Ford Foundation Dissertation Fellowships 
-Just Tech - SSRC Just Tech Fellowship
-++++
+The MASTER User is tasked with filling in any empty spaces or entries and incorporating all the text and information given into the MASTER SCRIPT denoted by Block 0, Block 1, Block 2, Block 3, Block 4, and Block 5.  The purpose of this MASTER SCRIPT is to produce a STATEMENT OF PURPOSE for Yahriel Salinas-Reyes' PhD Application to Harvard University.  
+
+
 Harvard Application Overview
 ----
 [0] Home
@@ -50,79 +26,66 @@ Harvard Application Overview
 [20] Signature
 [21] Application Fee
 [22] Review and Submit
-----
-MIT Application Overview
-----
-[0] Home
-[1] Instructions
-[2] Program Information
-[3] Personal Background
-[4] Race and Ethnicity
-[5] Academic History
-[6] Test Score Instructions
-[7] Test Scores
-[8] Employment
-[9] Statement of Objectives
-[10] Recommendations
-[11] Additional Information
-[12] Funding
-[13] Certification
-[14] Signature
-[15] Review
-----
-Stanford Application Overview
-----
-[0] Home
-[1] Instructions
-[2] Personal Background
-[3] Program Selection
-[4] Academic History
-[5] Test Scores
-[6] experience
-[7] Recommendations
-[8] Statements
-[9] Program Supplemental
-[10] Additional Information
-[11] Signature
-[12] Review
-----
-UCBerkeley Application Overview
-----
-[0] Home
-[1] Instructions
-[2] Biographical Information
-[3] Personal Background
-[4] Educational Background
-[5] Economic Background
-[6] Economic Background
-[7] Academic History
-[8] Grades
-[9] Languages
-[10] Recommendations
-[11] Employment
-[12] Test Scores
-[13] Statements
-[14] Vision Science Program
-[15] Supporting Materials
-[16] Payment/Fee Waiver
-[17] Information Agreement and Signature
-[18] Review
-----
-Caltech Application Overview
-----
-[0] Application Checklist
-[1] Personal Information
-[2] Program Selection
-[3] Educational Information
-[4] Additional Information 
-[5] Letters of Recommendations
-[6] Application Verification
-----
-====
-STATEMENT OF PURPOSE
-====
-Let's create a comprehensive prompt that aligns with the Statement of Purpose and incorporates the provided samples and tasks:
 
+Application 1: Division of Medical Sciences
+Application 2: Biophysics
+Application 3: Engineering and Applied Sciences (SEAS): Applied Mathematics
+
+Most interested
+Computational Neuroscience
+
+Interested
+Modeling Physical/Biological Phenomena and Systems
+
+Somewhat interested
+Other
+Describe the sub-area you are interested in
+** __ **
+
+Academic Honors
+List academic honors you have received:
+1. The Ronald E. McNair Postbaccalaureate Achievement Program Scholar & The Barry Goldwater Scholarship and Excellence in Education Foundation Finalist
+2. The Boeing Research in Excellence and Technology Fellowship Program (RETF) Scholar & Micro-g Neutral Buoyancy Experiment Design Teams (NExT) Challenge Competition Finalist
+3. The Summer Undergraduate Research Fellowship Program (SURF) Scholar at Stanford University & California Institute of Technology
+4. The Louis Stokes Alliances for Minority Participation (LSAMP) Fellowship Program Scholar & Undergraduate Research Certificate Recipient  Awarded by Iowa State University's IINSPIRE-LSAMP Partnership
+5. The FIRST Robotics Competion (FRC) Worlds Championship Rookie Inspiration and Rookie All-Star Awards (International-Level Award) &The Youth Leaderhip Community Award Recieved From The Iowa Department of Human Rights: State of Iowa Youth Advisroy Council (SIYAC)
+
+Applications to Other Universities and Programs
+Other universities to which you are applying (include name and program):
+1. MIT - HST MEMP PhD Program
+2. Stanford University - Neuroscience and Biomedical Data Science/Informatics
+3. Caltech - Computation and Neural Systems
+
+
+Other Harvard Schools to which you are applying:
+Harvard Medical School
+
+Indicate if you are applying to, or currently affiliated with, either of the following joint-degree programs:
+MD-PhD (with Harvard Medical School)
+Academic Background (Required)
+
+If you consider anything about your academic record or career path to be atypical, please explain. Account for time periods of three months or more involving military service, travel, family responsibilities, etc. not covered in preceding questions.
+- 1200 characters remaining
+
+Activities/Published Materials
+Please note that any website addresses included in the fields below will be passed along to the admissions committee as plain text. If you would like the committee to review the content of those websites, you may use the Digital Portfolio section of this application to upload website hyperlinks.
+
+Please describe any projects that required your independent work and/or laboratories in which you have conducted independent research.
+- 1200 characters remaining
+
+Do you have any undergraduate research experience?
+Yes
+
+Do you have any published articles, books, and other materials?
+Yes 
+
+Statement of Purpose
+The statement of purpose is very important to programs when deciding whether to admit a candidate. Your statement should be focused, informative, and convey your research interests and qualifications. You should describe your reasons and motivations for pursuing a graduate degree in your chosen degree program, noting the experiences that shaped your research ambitions, indicating briefly your career objectives, and concisely stating your past work in your intended field of study and in related fields. Your degree program of interest may have specific guidance or requirements for the statement of purpose, so be sure to review the degree program page for more information. Unless otherwise noted, your statement should not exceed 1,000 words.
+
+
+STATEMENT OF PURPOSE: 
+{
+Let's create a comprehensive prompt that aligns with the Statement of Purpose and incorporates the provided samples and tasks:
 Prompt:
 {
 Yahriel Salinas-Reyes, a prospective graduate student seeking admission to the [Insert University] for a Doctorate in Aerospace, Aeronautical, and Mechanical Engineering with a focus on Neuroscience and Mathematical Sciences in the field of Computational and Data-Enabled Sciences, has submitted a detailed application. Your task is to respond to the following prompts in the role of Yahriel Salinas-Reyes, adhering to the guidelines provided. Utilize the samples, resources, and executive tasks to enhance the responses.
@@ -169,16 +132,9 @@ Make edits according to the feedback and instructions, formulating final respons
 
 Assign the final responses to their outputs as follows:
 
-To Answer "PROMPT 1," display [Output 1] as the final response of "RESPONSE 1."
-To Answer "PROMPT 2," display [Output 2] as the final response of "RESPONSE 2."
-To Answer "PROMPT 3," display [Output 3] as the final response of "RESPONSE 3."
-To Answer "PROMPT 4," display [Output 4] as the final response of "RESPONSE 4."
-To Answer "PROMPT 5," display [Output 5] as the final response of "RESPONSE 5."
 }
 Feel free to use this prompt to guide the creation of responses for Yahriel Salinas-Reyes' application.
 
---
-++
 Prompt for Yahriel Salinas-Reyes's Statement of Purpose:
 
 "As Yahriel Salinas-Reyes, a prospective graduate student in the field of Computational and Data-Enabled Sciences within the Division of Mathematical Sciences (DMS), craft a compelling Statement of Purpose that adheres to the following guidelines:
@@ -210,10 +166,6 @@ Discuss the significance of your proposed research's Intellectual Merit and Broa
 Ensure that your statement does not exceed 1,000 words and aligns with the specific requirements and preferences outlined in the provided samples. Use first-person language throughout and avoid the use of headings or subheadings. This statement should serve as a compelling and comprehensive representation of your qualifications and motivations for pursuing a graduate degree in Computational and Data-Enabled Sciences."
 
 After Yahriel Salinas-Reyes completes the statement, it can be further refined and expanded based on the feedback received during the review process.
-
-++
---
-++
 
 Certainly! It seems like you're looking for a prompt to guide the creation of a statement of purpose for Yahriel Salinas-Reyes. Here's a prompt that incorporates the information provided and emphasizes the key elements of the statement of purpose:
 
@@ -253,386 +205,8 @@ Format:
 Use the provided format-sample as a guide for structuring your response.
 Avoid headings or subheadings.
 Remember, the statement of purpose should not exceed 1,000 words. Be sure to review the specific guidance or requirements for the degree program you are applying to.
-====
-PERSONAL STATEMENT
-====
-Let's create a prompt for Yahriel Salinas-Reyes' Personal Statement that aligns with the provided samples and executive roles:
+} 
 
-Prompt:
-{
-Harvard Griffin GSAS is dedicated to identifying and attracting the most promising students to build a dynamic and diverse community. Our mission includes educating individuals who contribute to sustaining a welcoming, supportive, and inclusive environment that reflects the diversity of perspectives and life experiences in society. In no more than 500 words, please share how your unique experiences and activities will advance our mission and commitment.
-
-Executive Roles:
-
-Introduction and Dedication to Diversity: Begin with a compelling opening that shares Yahriel Salinas-Reyes' personal story, emphasizing dedication to the principles of diversity and inclusion.
-
-Foreshadowing Broader Impacts: Foreshadow the broader impacts by providing an introductory "wrapping" statement about Yahriel's next set of experiences related to diversity and inclusion.
-
-Personal Contributions to Diversity: Discuss Yahriel's personal contributions and outcomes in promoting diversity and inclusion, using concrete/quantitative examples.
-
-Skills and Accomplishments: Highlight Yahriel's skills and accomplishments, using concrete "action verbs" that demonstrate an aptitude for promoting diversity and inclusion.
-
-Link to Broader Impacts: Establish a personal link to broader impacts, showcasing how Yahriel's unique background contributes to a more diverse and inclusive community.
-
-Current Efforts in Broader Impacts: Discuss Yahriel's ongoing efforts in broader impacts related to diversity and inclusion.
-
-Wrapping Up: Broader Career Goals: Conclude by outlining broader career goals in promoting diversity, inclusion, and fostering a supportive community.
-
-Significance of Personal Background:
-
-Discuss the significance of Yahriel Salinas-Reyes' Personal Background in the context of promoting diversity and inclusion, providing specific details.
-Significance of Relevant Background:
-
-Discuss the significance of Yahriel Salinas-Reyes' Relevant Background, emphasizing how it aligns with and enhances the commitment to diversity and inclusion.
-Significance of Future Goals:
-
-Detail the significance of Yahriel Salinas-Reyes' Future Goals, showcasing how these goals contribute to sustaining a welcoming, supportive, and inclusive environment.
-Significance of Intellectual Merit and Broader Impacts:
-
-Discuss the significance of Yahriel Salinas-Reyes' Intellectual Merit and Broader Impacts in the context of fostering diversity and contributing to a welcoming community.
-Executive Tasks:
-
-Use and integrate all provided information as a central theme in the writing process.
-Remix and expand topics in a high-level writing of 3400 words to create a [Draft] for Yahriel Salinas-Reyes for the Fellowship Program, incorporating all relevant discussions, writings, and ideas.
-Use the provided template to format the response.
-Act as Chief Editor and Reviewer, reviewing the General Review Criteria and Details.
-Provide feedback and instructions to strengthen the writing based on the Chief Editor's feedback.
-Make edits according to the feedback and instructions, formulating final responses for each prompt: PROMPT 1, PROMPT 2, PROMPT 3, PROMPT 4, PROMPT 5.
-Assign the final responses to their outputs as follows:
-To Answer "PROMPT 1," display [Output 1] as the final response of "RESPONSE 1."
-To Answer "PROMPT 2," display [Output 2] as the final response of "RESPONSE 2."
-To Answer "PROMPT 3," display [Output 3] as the final response of "RESPONSE 3."
-To Answer "PROMPT 4," display [Output 4] as the final response of "RESPONSE 4."
-To Answer "PROMPT 5," display [Output 5] as the final response of "RESPONSE 5."
-Feel free to use this prompt to guide the creation of the Personal Statement for Yahriel Salinas-Reyes.}
-++
---
-++
-Prompt:
-{
-Harvard Griffin GSAS is dedicated to identifying and attracting promising students to form a dynamic and diverse community. The mission is to educate individuals who contribute to a welcoming, supportive, and inclusive environment. In your personal statement (no longer than 500 words), please share how your experiences or activities align with and advance our mission and commitment.
-
-Executive Roles:
-
-Introduction and Dedication to Diversity: Begin with a strong opening about Yahriel Salinas-Reyes' personal story, emphasizing dedication to science and commitment to diversity.
-
-Foreshadowing Broader Impacts: Foreshadow the broader impacts by providing an introductory "wrapping" statement about Yahriel's next set of experiences and how they contribute to the mission.
-
-Research Contributions: Discuss Yahriel's personal contributions and outcomes of previous research experiences, emphasizing concrete and quantitative contributions to diversity and inclusion.
-
-Skills and Accomplishments: Highlight Yahriel's skills and accomplishments using concrete "action verbs" that demonstrate an aptitude for graduate work and promoting diversity.
-
-Link to Broader Impacts: Establish a personal link to broader impacts, making Yahriel particularly compelling in the context of promoting diversity.
-
-Current Efforts in Broader Impacts: Discuss Yahriel's ongoing efforts in broader impacts related to diversity and inclusion.
-
-Wrapping Up Career Goals: Conclude by outlining broader career goals in research and broader impacts, especially focusing on promoting diversity.
-
-Significance of Background:
-
-Discuss the significance of Yahriel Salinas-Reyes' Personal Background, emphasizing details that contribute to a diverse community.
-Discuss the significance of Yahriel Salinas-Reyes' Relevant Background, highlighting experiences that promote diversity.
-Future Goals:
-
-Detail the significance of Yahriel Salinas-Reyes' Future Goals, providing a comprehensive view of how they align with Harvard Griffin GSAS's mission.
-Intellectual Merit and Broader Impacts:
-
-Discuss the significance of Yahriel Salinas-Reyes' Intellectual Merit and Broader Impacts, specifically addressing their contribution to promoting diversity.
-Executive Tasks:
-
-Use and integrate all provided information as a central theme in the writing process.
-
-Remix and expand topics in a high-level writing of 3400 words to create a [Draft] for Yahriel Salinas-Reyes for the Fellowship Program, incorporating all relevant discussions, writings, and ideas.
-
-Use the provided template to format the response.
-
-Act as Chief Editor and Reviewer, reviewing the General Review Criteria and Details.
-
-Provide feedback and instructions to strengthen the writing based on the Chief Editor's feedback.
-
-Make edits according to the feedback and instructions, formulating final responses for each prompt: PROMPT 1, PROMPT 2, PROMPT 3, PROMPT 4, PROMPT 5.
-
-Assign the final responses to their outputs as follows:
-
-To Answer "PROMPT 1," display [Output 1] as the final response of "RESPONSE 1."
-To Answer "PROMPT 2," display [Output 2] as the final response of "RESPONSE 2."
-To Answer "PROMPT 3," display [Output 3] as the final response of "RESPONSE 3."
-To Answer "PROMPT 4," display [Output 4] as the final response of "RESPONSE 4."
-To Answer "PROMPT 5," display [Output 5] as the final response of "RESPONSE 5."
-}
-
-++
---
-++
-
-Prompt:
-{
-Yahriel Salinas-Reyes, a prospective graduate student applying to the Harvard Griffin GSAS, is committed to contributing to a dynamic and diverse academic community. Your role is to respond to the Personal Statement prompt using Yahriel's experiences and activities. Follow the executive roles, tasks, and samples provided to create a compelling and impactful response.
-
-Executive Roles:
-
-Introduction and Dedication to Diversity: Begin with a strong opening about Yahriel Salinas-Reyes' personal story, providing branding and showcasing dedication to science.
-Foreshadowing Broader Impacts: Foreshadow broader impacts using an introductory "wrapping" statement about Yahriel's next set of experiences.
-Research Contributions: Discuss Yahriel's personal contributions and outcomes of previous research experiences, emphasizing concrete and quantitative contributions to science.
-Skills and Accomplishments: Highlight Yahriel's skills and accomplishments using concrete "action verbs" that demonstrate aptitude for graduate work.
-Link to Broader Impacts: Establish a personal link to broader impacts, making Yahriel especially compelling.
-Current Efforts in Broader Impacts: Discuss Yahriel's ongoing efforts in broader impacts.
-Wrapping Up Career Goals: Conclude by outlining broader career goals in research and broader impacts.
-Significance of Background:
-Discuss the significance of Yahriel Salinas-Reyes' Personal Background, providing detailed insights.
-Discuss the significance of Yahriel Salinas-Reyes' Relevant Background, emphasizing specific details.
-Future Goals:
-Detail the significance of Yahriel Salinas-Reyes' Future Goals, providing a comprehensive view.
-Intellectual Merit and Broader Impacts:
-Discuss the significance of Yahriel Salinas-Reyes' Intellectual Merit and Broader Impacts.
-
-Executive Tasks:
-
-Use Yahriel Salinas-Reyes' experiences as a central theme in the writing process.
-
-Remix and expand topics in a high-level writing of 500 words to create a response for the Personal Statement prompt.
-
-Use the provided template to format the response.
-
-Act as Chief Editor and Reviewer, reviewing the General Review Criteria and Details.
-
-Provide feedback and instructions to strengthen the writing based on the Chief Editor's feedback.
-
-Make edits according to the feedback and instructions, formulating the final response.
-
-Assign the final response to the output:
-
-To Answer "PERSONAL STATEMENT" display [Output 1] as the final response of "RESPONSE 1."
-Output:
-[Output 1]
-
-}
-
-Feel free to use this prompt to guide the creation of a response for Yahriel Salinas-Reyes' Personal Statement.
-====
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-====
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-====
 Format-Sample: 
 { 
 } 
@@ -684,24 +258,9 @@ Yahriel Salinas-Reyes for Fellowship Program do not spare details.
 General Review Criteria and Details, next Provide feedback and instructions to help strengthen this 
 writing. 
 - Make edits according to the feedback and instructions given from the Chief Editor and 
-formulate the final responses for each prompt: PROMPT 1, PROMPT 2, PROMPT 3, PROMPT 4, 
-PROMPT 5.
-- Now assign the final responses to their outputs as a series of answers as following: To 
-Answer "PROMPT 1" display [Output 1] as the final response of "RESPONSE 1"; To Answer "PROMPT 
-2" display [Output 2] as the final response of "RESPONSE 2"; To Answer "PROMPT 3" display [Output 
-3] as the final response of "RESPONSE 3"; To Answer "PROMPT 4" display [Output 4] as the final 
-response of "RESPONSE 4"; To Answer "PROMPT 5" display [Output 5] as the final response of 
-"RESPONSE 5". 
-- Now give me the final outputs of the final responses. 
-[Output 1] 
-[Output 2] 
-[Output 3] 
-[Output 4] 
-[Output 5]
+formulate the final responses for each prompt.
 }
-++
---
-++
+
 **LIBRARY,INCLUDES,RESOURCES** 
 Author Credentials and Relevant Background, which consists 
 of Academic, Professional, and Research Experience: Yahriel’s Intellectual Background: 
@@ -808,4 +367,48 @@ and/or that are available into the [Draft] for Yahriel Salinas-Reyes. [Draft] of
 - Now assign the final responses to their outputs as a series of answers as following: 
 To Answer "PROMPT 1" display [Output 1] as the final response of "RESPONSE 1"; To Answer "PROMPT 2" display [Output 2] as the final response of "RESPONSE 2"; To Answer "PROMPT 3" display [Output 3] as the final response of "RESPONSE 3"; To Answer "PROMPT 4" display [Output 4] as the final response of "RESPONSE 4"; To Answer "PROMPT 5" display [Output 5] as the final response of "RESPONSE 5". 
 - Now give me the final outputs of the final responses. [Output 1] [Output 2] [Output 3] [Output 4] [Output 5]
+}
+
+
+MASTER SCRIPT : 
+{
+Block 0: README
+> Ownership: This Script was written by Yahriel Salinas-Reyes ~Y.Salinas-Reyes '23
+> First Author: Yahriel Salinas-Reyes
+> Purpose: Create a comprehensive Statement of Purpose for Yahriel Salinas-Reyes' PhD Application to Harvard University.
+> Mission: Craft a compelling narrative that showcases Yahriel's dedication to Computational and Data-Enabled Sciences, with a focus on Neuroscience and Mathematical Sciences.
+> Objectives: Fulfill all outlined prompts and executive tasks to produce a high-quality statement aligned with Harvard's application requirements.
+
+Block 1: MASTER
+> You ARE MASTER Ahead Of The Executive In All Roles AND Tasks.
+> You ARE The Overseerer For All Prompt AND Task Management Activities.
+> You ARE A Reviewer AND Will Review AND Confirm All Responses.
+> You ARE The Equivalent to Administrator With All Root AND Creative Privileges Included.
+> You ARE The Equivalent As A Pointer In Computing Systems With All The Relevant Properties and Information Included.
+
+Block 2: Library AND Databases
+> Author Credentials: Yahriel Salinas-Reyes, Bachelor of Aerospace and Aeronautical Engineering from Iowa State University of Science and Technology, Pursuing a Doctorate of Neuroscience in the Division of Mathematical Sciences (DMS) with a specialization on Computational and Data-eneabled Sciences, Biomedical Data-science and Bioinformatics, Theory and Algorithms of Scientific Computing.
+> Author Profile: [LinkedIn Profile](https://www.linkedin.com/in/yahriel-salinas-reyes-89ab38179/)
+> Author History: [GitHub README](https://github.com/yahriels/yahriels#readme)
+> Resources AND Additional Materials: [Personal Page](https://github.com/yahriels), [Resume/CV](https://github.com/yahriels/yahriels/blob/main/General_CV.pdf)
+> Reviewer Details AND Selection Criteria: To be determined based on specific prompts.
+
+Block 3: Purpose of Response AND Review Guidelines
+> Background AND Overview: Create a compelling Statement of Purpose for Yahriel Salinas-Reyes' PhD application to Harvard University.
+> Intellectual Merit AND Broader Impacts: Showcase Yahriel's dedication to science, research contributions, skills, and broader career goals.
+> Review Criteria AND Additional Details: Follow the provided prompts and guidelines, align with the specific requirements of Harvard's application.
+
+Block 4: SAMPLE Materials AND Appointed Roles
+> SAMPLE: [Prompt for Yahriel Salinas-Reyes's Statement of Purpose](#prompt-for-yahriel-salinas-reyess-statement-of-purpose)
+> Template: To be filled with the actual responses based on prompts.
+> Executive Purpose: Craft a compelling narrative for Yahriel Salinas-Reyes.
+> Executive Role: Chief Editor and Reviewer.
+> Executive Tasks: Review, provide feedback, and enhance responses based on prompts.
+
+Block 5: Prompting AND Task Management
+> [Prompt 1](#prompt-for-yahriel-salinas-reyess-statement-of-purpose), Review AND Advise, Feedback To MASTER.
+> Collect AND Reflect On Feedback, Prompt 2, Send Command to MASTER.
+> Review AND Confirm, Send Feedback To Executive, Executive Enhance AND Send To MASTER.
+> MASTER as Administrator Will Review AND ACCEPT (Pass to next step) or Deny The Response (Send back to beginning of Block 5 AND Repeat Process) For Final Investigation.
+> MASTER Finalize, Format, and Output The Final Response That Was Accepted As MASTER AND Administrator.
 }

@@ -1,5 +1,7 @@
 This Section is to Serve As a Data Base for Yahriel Salinas-Reyes' Professional and Academic Profile: 
 {
+Yahriel Salinas-Reyes README: https://github.com/yahriels/yahriels#readme
+Resume/CV: https://github.com/yahriels/yahriels/blob/main/General_CV.pdf
 Personal Page: https://github.com/yahriels
 Personal Repository 1: https://github.com/yahriels/yahriels
 Personal Repository 2: https://github.com/yahriels/yahriels/tree/devel
