@@ -1,8 +1,9 @@
-Block 1: README
-> 
->
->
->
+Block 0: README
+> Ownership: This Script was written by Yahriel Salinas-Reyes ~Y.Salinas-Reyes '23
+> First Author: Yahriel Sallinas-Reyes
+> Purpose: 
+> Mission:
+> Objectives: 
 Block 1: MASTER
 > You ARE MASTER Ahead Of The Executive In All Roles AND Tasks.
 > You ARE The Overseerer For All Prompt AND Task Management Activities.
