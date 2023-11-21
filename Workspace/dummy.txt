@@ -1,34 +1,9 @@
-The MASTER User is tasked with filling in any empty spaces or entries and incorporating all the text and information given into the MASTER SCRIPT denoted by Block 0, Block 1, Block 2, Block 3, Block 4, and Block 5.  The purpose of this MASTER SCRIPT is to produce a STATEMENT OF PURPOSE for Yahriel Salinas-Reyes' PhD Application to Harvard University.  
 
-Harvard Application Overview
-----
-[0] Home
-[1] Instructions
-[2] Degree Program Selection
-[3] Personal Background
-[4] Additional Background Information
-[5] Previous Applications and Enrollments
-[6] Institutions Attended
-[7] Academic History
-[8] Faculty
-[9] Language Background
-[10] English Proficiency
-[11] Test Scores
-[12] Resume/CV
-[13] Employment History
-[14] Recommendations
-[15] Statement of Purpose
-[16] Personal Statement
-[17] Digital Portfolio
-[18] Additional Materials
-[19] Supplemental Data
-[20] Signature
-[21] Application Fee
-[22] Review and Submit
+Harvard University PhD Graduate School Application and Proposed Field of Study
 
-Application 1: Division of Medical Sciences
-Application 2: Biophysics
-Application 3: Engineering and Applied Sciences (SEAS): Applied Mathematics
+Field of Study 1: Engineering and Applied Sciences (SEAS) in Applied Mathematics
+Field of Study 2 : Biophysics
+Field of Study 3: Division of Medical Sciences
 
 Most interested
 Computational Neuroscience
@@ -37,9 +12,7 @@ Interested
 Modeling Physical/Biological Phenomena and Systems
 
 Somewhat interested
-Other
-Describe the sub-area you are interested in
-** __ **
+Natural and Artificial Intelligence
 
 Academic History
 ----
@@ -55,85 +28,10 @@ Other universities to which you are applying (include name and program):
 1. MIT - HST MEMP PhD Program
 2. Stanford University - Neuroscience and Biomedical Data Science/Informatics
 3. Caltech - Computation and Neural Systems
-4. UC Berkeley - Bioengineering
 
 Other Harvard Schools to which you are applying:
 Harvard Medical School
 
-Indicate if you are applying to, or currently affiliated with, either of the following joint-degree programs:
-MD-PhD (with Harvard Medical School)
-Academic Background (Required)
-
-If you consider anything about your academic record or career path to be atypical, please explain. Account for time periods of three months or more involving military service, travel, family responsibilities, etc. not covered in preceding questions.
-- 1200 characters remaining
-
-Activities/Published Materials
-Please note that any website addresses included in the fields below will be passed along to the admissions committee as plain text. If you would like the committee to review the content of those websites, you may use the Digital Portfolio section of this application to upload website hyperlinks.
-
-Please describe any projects that required your independent work and/or laboratories in which you have conducted independent research.
-- 1200 characters remaining
-
-Do you have any undergraduate research experience?
-Yes
-
-Do you have any published articles, books, and other materials?
-Yes 
-
-====
-Identifying faculty mentors for your application is an important step, and it's crucial to choose individuals whose expertise aligns with your research interests or academic goals. Here are some tips on how to identify potential mentors:
-
-Research Interests:
-
-Look for faculty members whose research interests align closely with yours. This can include specific topics, methodologies, or theoretical approaches.
-Check the faculty profiles on the university's website or academic department pages. Many universities provide detailed information about faculty members' research areas.
-Publications and Achievements:
-
-Consider faculty members who have a strong publication record in the areas you're interested in. Look for recent publications, conference presentations, and any notable achievements.
-Reviewing a potential mentor's body of work can also give you insights into their research focus and the impact of their contributions.
-Collaborations and Networks:
-
-Explore whether the faculty members collaborate with researchers in other departments or institutions. Collaborative efforts can enrich your research experience and provide additional resources.
-Consider mentors who are well-connected in academic networks related to your field. Networking is essential for expanding your research opportunities.
-Teaching and Mentorship Philosophy:
-
-Look for mentors whose teaching and mentorship philosophies align with your learning style and academic preferences. Some faculty members may prioritize hands-on research, while others may emphasize a more structured classroom approach.
-Availability and Commitment:
-
-Consider the availability of potential mentors. Some faculty members may have heavy teaching loads or other commitments that could affect their availability to mentor you effectively.
-Reach out to them or their current mentees if possible to gauge their level of commitment and support for graduate students.
-Compatibility and Communication:
-
-Ensure that you feel comfortable communicating with the potential mentors. Effective communication is crucial for a successful mentor-mentee relationship.
-Attend department seminars, workshops, or events where you can interact with faculty members and get a sense of their personalities and communication styles.
-Once you've identified potential mentors, it's essential to reach out to them. Craft a concise and thoughtful email expressing your interest in their work, outlining your research goals, and explaining why you believe they would be a good fit as your mentor. Be prepared to discuss your background, research interests, and how you see yourself contributing to their research group.
-
-Remember that a strong mentorship is a two-way street, and finding the right fit is crucial for your academic and research success. Good luck with your application!
-====
-Faculty
-----
-List Harvard faculty members whose research fields seem closest to your own interests. To help identify faculty in your degree program of interest, please visit the program's website.
-Department 1: HST
-Faculty of Interest 1
-Last Name   Heldt
-First Name  Thomas
-Faculty of Interest 2
-Last Name   Sontag
-First Name  David
-Faculty of Interest 3
-Last Name	Spector
-First Name	Myron
-
-List Harvard faculty members whose research fields seem closest to your own interests. To help identify faculty in your degree program of interest, please visit the program's website.
-Department 1: Medical 
-Faculty of Interest 1 
-Last Name   Breakefield
-First Name  Xandra
-Faculty of Interest 2
-Last Name   Cepko
-First Name  Constance L.
-Faculty of Interest 3
-Last Name	Chen
-First Name	Zheng-Yi
 ----
 Department 1: https://hst.mit.edu/academic-programs/memp
 Department 2: https://www.hms.harvard.edu/md_phd/
@@ -150,73 +48,71 @@ https://bemoacademicconsulting.com/blog/harvard-grad-school-personal-statement-e
 https://www.gse.harvard.edu/sites/default/files/2023-09/Statement-of-Purpose.pdf
 https://www.azent.com/expert-tips/sop-harvard-university
 
+**LIBRARY,INCLUDES,RESOURCES** 
+Author Credentials and Relevant Background, which consists 
+of Academic, Professional, and Research Experience: Yahriel’s Intellectual Background: 
+Aerospace and Aeronautical Engineering or Rocket Scientist with a Research and Development 
+Experiences. These experiences are in the fields of: Data Science and Machine Learning; Modern 
+Design of Aerospace and Propulsion Systems; Interfacial Phenomena and Chaos Theory; 
+Nanotechnology and Materials Science-Engineering; Applied Quantum Mechanics and Nature 
+Physics; Thermodynamic Modeling and Finite-Element-Analysis; Signals and Controls Systems 
+Engineering; Expert in Robotics and Electrical Engineering; Computer Science and Software 
+Engineering; Computer and Information Technology Systems, Experimental Systems 
+Engineering; and Micro-electro-mechanical systems (MEMS). 
 
+Personal Page: 
+https://github.com/yahriels 
+Personal Repository: 
+https://github.com/yahriels/yahriels/tree/181d70996b175c813c28770a361453c192fb5a06 
+Library and Data Sources: 
 
+Resources: 
 
+Application Purpose: 
 
-====
+Homework: 
+{ 
+Read all materials (a few times, without distractions). Prepare a task list with deadlines to perform the Executive Tasks then 
+complete the tasks. Understand how application components and each item requested relate to 
+the review criteria. 
+} 
+GRFP Proposed Field of Study: 
+{ 
+Pursuing STEM field: Division of Mathematical Sciences (DMS) Field of Study 1: DMS: Computational and Date-Enabled Sciences Field of Study 
+2: Comp/IS/Eng: Algorithms and Theoretical Foundations Field of Study 3: Comp/IS/Eng: 
+Scientific Computing Field of Study 4: Comp/IS/Eng: Bioinformatics and Bio-inspired Computing 
+} 
+Review Criteria Details: 
+{ 
+WHAT WE LOOK FOR: Evidence of exceptional creativity, broad 
+understanding of physical principles, and outstanding potential for innovative research is 
+expected. Applicants are screened for qualities we believe are essential ingredients of future 
+professional accomplishment and/or leading indicators of future professional success. These 
+include: Exceptional Intelligence and Creativity with particular emphasis on those aspects 
+pertinent to technical endeavors. Excellent Technical Education evidenced not only by transcripts 
+and reference reports from senior technical professionals, but also through an in-person, 
+technical interview. Orientation and Commitment to the applications of the physical sciences as 
+is typical of most applicants. Extraordinary Accomplishment in technical or related professional 
+studies which may offset slightly lower academic records or add luster to outstanding ones. 
+High moral and ethical values. Leverage demonstration of the difference the award of the Hertz 
+Fellowship is likely to make in the kind, quality, and/or personal creativity of the student's 
+graduate research.
+} 
+
+----
 Statement of Purpose
 The statement of purpose is very important to programs when deciding whether to admit a candidate. Your statement should be focused, informative, and convey your research interests and qualifications. You should describe your reasons and motivations for pursuing a graduate degree in your chosen degree program, noting the experiences that shaped your research ambitions, indicating briefly your career objectives, and concisely stating your past work in your intended field of study and in related fields. Your degree program of interest may have specific guidance or requirements for the statement of purpose, so be sure to review the degree program page for more information. Unless otherwise noted, your statement should not exceed 1,000 words.
---
+----
 Personal Statement
 A core part of the Harvard Griffin GSAS mission is to identify and attract the most promising students to form a dynamic and diverse community. We are committed to educating individuals who reflect the growing diversity of perspectives and life experiences represented in society today and who will contribute to our commitment to sustain a welcoming, supportive, and inclusive environment. Please share how your experiences or activities will advance our mission and commitment. (No longer than 500 words)
-====
-
-
-
+----
 
 
 STATEMENT OF PURPOSE: 
 {
 Let's create a comprehensive prompt that aligns with the Statement of Purpose and incorporates the provided samples and tasks:
-Prompt:
-{
-Yahriel Salinas-Reyes, a prospective graduate student seeking admission to the [Insert University] for a Doctorate in Aerospace, Aeronautical, and Mechanical Engineering with a focus on Neuroscience and Mathematical Sciences in the field of Computational and Data-Enabled Sciences, has submitted a detailed application. Your task is to respond to the following prompts in the role of Yahriel Salinas-Reyes, adhering to the guidelines provided. Utilize the samples, resources, and executive tasks to enhance the responses.
 
-Executive Roles:
-
-Introduction and Dedication to Science: Begin with a compelling opening that shares Yahriel Salinas-Reyes' personal story, showcasing a strong dedication to the field of science.
-
-Foreshadowing Broader Impacts: Foreshadow the broader impacts by providing an introductory "wrapping" statement about Yahriel's next set of experiences.
-
-Research Contributions: Discuss Yahriel's personal contributions and outcomes of previous research experiences, emphasizing concrete and quantitative contributions to science.
-
-Skills and Accomplishments: Highlight Yahriel's skills and accomplishments using concrete "action verbs" that demonstrate aptitude for graduate work.
-
-Link to Broader Impacts: Establish a personal link to broader impacts, making Yahriel particularly compelling.
-
-Current Efforts in Broader Impacts: Discuss Yahriel's ongoing efforts in broader impacts.
-
-Wrapping Up Career Goals: Conclude by outlining broader career goals in research and broader impacts.
-
-Significance of Background:
-
-Discuss the significance of Yahriel Salinas-Reyes' Personal Background, providing detailed insights.
-Discuss the significance of Yahriel Salinas-Reyes' Relevant Background, emphasizing specific details.
-Future Goals:
-
-Detail the significance of Yahriel Salinas-Reyes' Future Goals, providing a comprehensive view.
-Intellectual Merit and Broader Impacts:
-
-Discuss the significance of Yahriel Salinas-Reyes' Intellectual Merit and Broader Impacts.
-Executive Tasks:
-
-Use and integrate all provided information as a central theme in the writing process.
-
-Remix and expand topics in a high-level writing of 3400 words to create a [Draft] for Yahriel Salinas-Reyes for the Fellowship Program, incorporating all relevant discussions, writings, and ideas.
-
-Use the provided template to format the response.
-
-Act as Chief Editor and Reviewer, reviewing the General Review Criteria and Details.
-
-Provide feedback and instructions to strengthen the writing based on the Chief Editor's feedback.
-
-Make edits according to the feedback and instructions, formulating final responses for each prompt: PROMPT 1, PROMPT 2, PROMPT 3, PROMPT 4, PROMPT 5.
-
-Assign the final responses to their outputs as follows:
-
-}
-Feel free to use this prompt to guide the creation of responses for Yahriel Salinas-Reyes' application.
+As Yahriel Salinas-Reyes, a graduate Aerospace, Aeronautical, and Mechanical Engineering student specializing in Neuroscience and Mathematical Sciences within the field of Computational and Data-Enabled Sciences, your statement of purpose should serve as a comprehensive narrative that highlights your qualifications, motivations, and research interests. In your response, adhere to the following guidelines:
 
 Prompt for Yahriel Salinas-Reyes's Statement of Purpose:
 
@@ -250,168 +146,15 @@ Ensure that your statement does not exceed 1,000 words and aligns with the speci
 
 After Yahriel Salinas-Reyes completes the statement, it can be further refined and expanded based on the feedback received during the review process.
 
-Certainly! It seems like you're looking for a prompt to guide the creation of a statement of purpose for Yahriel Salinas-Reyes. Here's a prompt that incorporates the information provided and emphasizes the key elements of the statement of purpose:
-
-Prompt for Yahriel Salinas-Reyes's Statement of Purpose:
-
-As Yahriel Salinas-Reyes, a graduate Aerospace, Aeronautical, and Mechanical Engineering student specializing in Neuroscience and Mathematical Sciences within the field of Computational and Data-Enabled Sciences, your statement of purpose should serve as a comprehensive narrative that highlights your qualifications, motivations, and research interests. In your response, adhere to the following guidelines:
-
-Introduction:
-
-Open with a compelling personal story that reflects your dedication to the sciences.
-Foreshadow the broader impacts of your experiences and introduce the next set of significant academic and research endeavors.
-Research Contributions:
-
-Discuss your personal contributions and the outcomes of your research, providing concrete and quantitative details.
-Use action verbs to emphasize your aptitude for graduate work.
-Highlight specific skills and accomplishments relevant to your intended field of study.
-Broader Impacts:
-
-Establish a personal link to broader impacts, making your application especially compelling.
-Discuss current and future efforts in broader impacts, demonstrating your commitment to societal and scientific advancements.
-Career Goals:
-
-Wrap up by outlining your broader career goals in research and the broader impacts you aim to achieve.
-Significance of Background:
-
-Discuss the significance of your personal background, emphasizing key details that shaped your research ambitions.
-Explore the relevance of your academic, professional, and research experiences in Aerospace, Aeronautical Engineering, and related fields.
-Future Goals:
-
-Articulate the significance of your future goals within the Division of Mathematical Sciences, particularly in Computational and Data-Enabled Sciences.
-Intellectual Merit and Broader Impacts:
-
-Delve into the intellectual merit of your proposed research, showcasing exceptional creativity, understanding of physical principles, and potential for innovative contributions.
-Address the broader impacts of your research, indicating how it can advance knowledge and benefit society.
-Format:
-
-Use the provided format-sample as a guide for structuring your response.
-Avoid headings or subheadings.
-Remember, the statement of purpose should not exceed 1,000 words. Be sure to review the specific guidance or requirements for the degree program you are applying to.
+Remember, the statement of purpose should be at least 995 words but not exceed 1,000 words. Be sure to review the specific guidance or requirements for the degree program you are applying to.
 } 
 
 Format-Sample: 
 { 
-} 
-Executive Roles: 
-{
-- Your role is to Act as the Applicant to 
-formulate responses for Yahriel Salinas-Reyes and his application. 
-- In addition to the role of First Author 
-Yahriel Salinas-Reyes, you will be the chief editor and use feedback from the reviewer to strengthen the 
-Response.
-- USE ONLY FIRST-PERSON LANGUAGE AS YAHRIEL SALINAS-REYES THE 
-APPLICANT.
-- USE VERY FIRST-PERSON HUMANISTIC LANGUAGE OF A GRADUATE 
-AEROSPACE, AERONAUTICAL AND MECHANICAL ENGINEERING DOCTORATE STUDENT 
-OF NEUROSCIENCE AND MATHEMATICAL SCIENCES IN THE FIELD OF COMPUTATIONAL 
-AND DATA-ENABLED SCIENCES.
-- DO NOT USE ANY HEADINGS OR SUBHEADINGS AT 
-ALL. - Introduce the writing with a strong opening about personal story of Yahriel that provides good 
-branding and a sense of dedication to science of Yahriel - Foreshadow the broader impacts and utilize 
-introductory "wrapping" statement about the next set of experiences of Yahriel. - Discuss the personal 
-contributions of Yahriel and outcomes of the research BEFORE the gory details. - Use 
-concrete/quantitative contributions of Yahriel. - Use concrete statement of skills and accomplishments of 
-Yahriel.
-- Use more concrete "action verbs" telling about aptitude for graduate work. - Use personal link 
-to broader impacts to make Yahriel especially compelling. - Discuss current efforts in broader impacts of 
-Yahriel.
-- Wrapping up: Broader career goals in research and broader impacts.
-- Discuss the significance of Personal Background of Yahriel Salinas-Reyes and do not spare details. - Discuss the significance of 
-Relevant Background of Yahriel Salinas-Reyes and do not spare details. 
-- Discuss the significance of Future Goals of Yahriel Salinas-Reyes and do not spare details. 
-- Discuss the significance of Intellectual 
-Merit and Broader Impacts of Yahriel Salinas-Reyes 
-- Based on the writings and topics, author a high-level response to include all the discussions, writings, and ideas you developed and/or that are available 
-into the wrting or response
-}
+Nature’s Chaos Game: An Existentialist Approach Informed by Mathematics and Neurobiology Introduction: Mental health disorders represent a profound challenge to contemporary society, impacting millions of lives worldwide. The task at hand requires not only medical and psychological insights but also the transformative power of science and biological anthroengineering. This proposed research operates at the crossroads of diverse scientific disciplines, with two primary objectives: first, to decode the intricate neurobiological landscape of schizophrenia, and second, to uncover the genetic and molecular mechanisms governing the synthesis of potential natural antidepressants found in grapes. Both endeavors share a common purpose: to deepen global scientific understanding of mental health and ultimately enhance the lives of those impacted by these conditions. Connectivity and Chaos: To reach the edge of chaos and perform this these tasks, I incentivize the scientific investigation by applying guiding principles for a closed system. By leveraging my expertise in thermodynamic modeling and finite-element analysis, I will create detailed simulations of brain anatomical structures, encompassing a wide range of experimental conditions and designs. Let 𝛴 be smooth oriented surface that is bounded, 𝜕𝛴 ≡ 𝛤, then we invoke boundary conditions. Furthermore, entropy, represented by 𝑆, is a measure of morphology or order in the system, 𝜕𝑆 ≡ 𝑁; I validate this mathematical theorem with the second set of equations. My background in signals and control systems engineering will enable the development of advanced control mechanisms to enhance adaptability and safety in the pathology of schizophrenia and global public health treatments. Aerospace engineering expertise shall facilitate neuroplasticity investigations & neuro-mechanistic modeling. Governing Equations: [1] Energy: 𝛷𝐸 = ∯ 𝐸 ⋅ ⅆ𝐴, [2] Mobility: ∬ (𝛻 × 𝐹) ⋅ ⅆ𝛴 𝛴 = ∮ 𝐹 ⋅ ⅆ𝛤 𝜕𝛴 , and [3]Continuity: ∭ (𝛻 ⋅ 𝐹) ⅆ𝑉 𝑉 = ∯ (𝐹 ⋅ 𝑛̂) ⋅ ⅆ𝑆 𝑆 . Chaos Theory: [4] Chaos-Game: 𝑥𝑛+1 = 𝜆𝑥𝑛 (1 − 𝑥𝑛 ), [5] Mandelbrot-Set: 𝑍𝑛+1 = 𝑍𝑛 2 + 𝐶, and [6] Fractals: 𝐷 = 𝑙𝑜𝑔 𝑁 / 𝑙𝑜𝑔 𝑆. Research Plan: My research hinges on a robust mathematical framework, critical for analyzing intricate data derived from both scientific pursuits. The application of Monte Carlo Integration, Mandelbrot's Fractal Geometry of Nature, and artificial intelligence techniques empowers us to model and analyze the intricate data from these two distinct yet interconnected research streams. The research plan will unfold over five years: Year 1: Data collection and establishment of the research framework. Year 2: Neuroimaging and genetic data analysis. Year 3: Development of mathematical models. Year 4: Validation of models and refinement of findings. Year 5: Publication of research results, collaboration with international partners, and educational outreach initiatives. Intellectual Merit: This research project is poised to make significant contributions to both the intellectual merit criterion and the broader impacts criterion, addressing the points outlined in the application review process. Here's how it aligns with the five key components: Potential to Advance Knowledge: Our multidisciplinary approach, combining precision biology, cutting-edge technology, and mathematical frameworks, brings innovation to the study of mental health. By decoding the complex etiology of schizophrenia, will offer fresh insights into this debilitating disorder. Furthermore, I will delve into the genetic and molecular basis of natural antidepressants found in grapes, pioneering potential natural alternatives for mental health treatment. Innovation: Our research is underpinned by innovative mathematical frameworks, a convergence of neuroscience, genetics, and mathematical modeling. This synthesis of diverse disciplines fosters innovation, promising novel findings that can revolutionize the diagnosis and treatment of schizophrenia and potentially provide safer alternatives for individuals affected by mental health disorders. Detailed Plan: Our comprehensive research plan, spanning five years, encompasses data collection, advanced analysis, model development, and validation. The plan is characterized by its systematic and strategic approach, with built-in measures of success to ensure the Figure 1. Morphological-Anatomical Features Connectivity attainment of meaningful results. Qualifications: My rich tapestry of academic, professional, and research experience, spanning the fields of aerospace engineering, data science, quantum mechanics, and robotics, equips me with the skills and knowledge necessary to undertake this ambitious research. Ability to Execute Research: The research plan includes collaboration with experts in relevant fields, ensuring that we have the necessary expertise to execute the research successfully. Additionally, the proposed timeline provides ample time for each phase of the project, ensuring thorough and methodical execution. Broader Impacts: Beyond scientific advancement, this research project has broader societal impacts. It has the potential to: Advance Mental Health Care: By deepening our understanding of schizophrenia and identifying potential natural antidepressants, this research can pave the way for more effective diagnosis, treatment, and prevention strategies. Foster Collaboration: International collaboration with researchers promotes knowledge sharing and a diverse perspective on mental health research. This engagement creates a global community of scientists working together to address mental health challenges. Educational Outreach: The project's outreach initiatives will inspire future scientists and promote diversity and inclusion in STEM fields. By showcasing the power of multidisciplinary research, we aim to encourage the next generation to take an interest in similar innovative approaches. Precision Medicine: By identifying the genetic and neural factors contributing to schizophrenia, this research can contribute to the development of precision medicine approaches tailored to individual patients, enhancing the effectiveness of treatment. Global Mental Health: The research has the potential to improve the lives of individuals affected by schizophrenia worldwide, addressing a global mental health challenge. Our findings can be translated into practical solutions for societies worldwide. Conclusion: The proposed research, an ambitious undertaking at the intersection of mathematics, biology, and mental health, holds great promise for enhancing our understanding of schizophrenia and the potential natural antidepressants found in grapes. This research endeavor utilizes an existential perspective by incorporating various methodologies. Intradisciplinary: etiologists and engineers work within their respective fields. Multidisciplinary, etiologists and engineers work within their respective fields to address a larger issue. Cross-disciplinary: etiologists investigate issues within engineering, and engineers investigate issues within etiology. Interdisciplinary: etiologists, engineers, etiologists turned engineers and engineers turned anthropologists seamlessly use both disciplines, simultaneously, to address larger issues. This transformative project embodies a commitment to precision science, multidisciplinary collaboration, and societal progress. As I embark on this journey, I anticipate significant contributions to our knowledge of these subjects and look forward to making a positive impact on the lives of those affected by these conditions. References: (1) Zueva, M. V. (2015). Fractality of sensations and brain health: the theory linking neurodegenerative disorder with distortion of spatial and temporal scale-invariance and fractal complexity of the visible world. Front. Aging Neurosci, 7, 135. (2) Hancock, F. (2023). Metastability as a candidate neuromechanistic biomarker of schizophrenia pathology. PLoS One, 18(3), e0282707. (3) Regenbogen, C. (2015). The differential contribution of facial expressions, prosody, and speech content to empathy. Cognition and Emotion, 29(6), 1045-1056. (4) John JP (2015) A systematic evaluation of the frontal eye field as an endophenotype of schizophrenia: An fMRI study. Schizophrenia Research, 165(1), 79-84. (5) Mandelbrot, B. B. (1982). The Fractal Geometry of Nature. W. H. Freeman. (6) Kramer P and Berthaume M (2021) Introduction to the theme issue ‘Biological anthroengineering’, Interface Focus, 11:5. (7) Brown, R. E., & White, D. (2020). Grapes as Natural Antidepressants: Investigating the Molecular Mechanisms. Journal of Nutritional Neuroscience, 35(4), 287-299
 
-Executive Tasks: 
-{
-- Use and mix all the provided information here: as a central theme in the 
-writing process. 
-- Based on the writings and information provided integrate these materials here: 
+Statement of Grant Purpose Yahriel Salinas-Reyes, Host Country: Mexico, Field: Molecular & Systems Bioengineering Project Title: Unraveling the Molecular Code of Natural Antidepressants in Grapes In the ever-evolving world of scientific inquiry, certain moments emerge as profound intersections of human ingenuity, scientific inquiry, and the enigmatic wonders of nature. Encapsulated within this project is one such moment. With a central focus on unraveling the molecular code of grapes to find the compounds responsible for its potential natural antidepressant properties, Yahriel Salinas-Reyes aims to foster innovation in treatments for mental health disorders and conditions. Also encompassed in the project is an investigation into the nature of schizophrenia and the complexities of neuroplasticity, in hopes of advancing understanding of the mental illness. The overarching goal is to address the mounting global health crisis presented by mental health disorders, including depression and schizophrenia, which have surged to an unprecedented global health crisis significantly diminishing the quality of life for millions and placing immense pressure on healthcare systems worldwide. At its core, the project is driven by the ambition to conduct a comprehensive molecular analysis of grapes, with a particular emphasis on understanding the genetic and molecular mechanisms governing the synthesis of antioxidants. Grapes have garnered scientific interest due to their potential health benefits and their recent recognition as potential natural antidepressants. Yahriel's unique background in aerospace engineering and micro-electro-mechanical systems (MEMS) equips him with the precision and expertise required to delve into the microscopic realm of chromosomes and molecules—an essential prerequisite for unveiling the genetic secrets grapes hold. To fulfill the project's objectives, advanced techniques in molecular biology and biotechnology systems engineering will be employed. The primary goal is to pinpoint the specific compounds within grapes responsible for their potential antidepressant properties, involving their isolation and characterization to illuminate their mechanisms of action within the brain. The aim is to identify practical applications for mental health treatment by comprehending the genetic and molecular foundation of natural antidepressant production in grapes. Concurrently, this research adopts a multifaceted approach to unravel the complexities of schizophrenia, a debilitating and chronic mental disorder characterized by symptoms such as delusions, hallucinations, disorganized speech, and cognitive deficits. At the heart of schizophrenia's enduring enigma are Bleuler's four A's: Alogia, Autism, Ambivalence, and Affect blunting. Extensive research has explored the etiology of schizophrenia, leading to the emergence of three prominent theories: genetic, neurodevelopmental, and neurobiological. Each theory offers a distinct perspective on the origins of this complex disorder, making it challenging to pinpoint a single causative factor. Nonetheless, neurobiological theory has gained prominence due to its comprehensive approach, explaining schizophrenia as a result of abnormal brain dysfunctions or structural anomalies. This theory stands on solid scientific ground, holds promise in guiding treatment strategies, transcends cultural and demographic boundaries, and raises fewer ethical concerns compared to alternative theories. Structural and functional abnormalities in key brain systems (i.e., the prefrontal & medial temporal lobes) play a pivotal role in the manifestation of schizophrenia symptoms that are integral to working memory and declarative memory processes. The disrupted functioning contributes to cognitive impairments and emotional dysregulation in individuals with schizophrenia. In the quest to understand schizophrenia, neuroplasticity—the brain's remarkable capacity to adapt and reorganize itself in Salinas-Reyes, Statement of Grant Purpose, Page 2 response to learning, experiences, and environmental changes—emerges as a crucial factor operating at various levels, from synaptic plasticity, where the strength of connections between neurons is modified, to large-scale changes in brain structure and function. In the context of schizophrenia, neuroplasticity offers hope for improving cognitive functioning and overall quality of life for affected individuals. Research has shown that cognitive remediation therapies— which harness neuroplasticity—can lead to improvements in cognitive domains such as memory, attention, and problem-solving, mitigating some of the cognitive impairments associated with the disorder. This project is founded on the belief that nature holds the key to addressing complex health challenges, including mental health disorders like depression and schizophrenia, and seeks to explore the potential of grapes as a source of natural antidepressants.. One intriguing entry point into the complex world of grape biochemistry is through the study of yeast used in wine production, which plays a pivotal role in the fermentation process, and influences the composition of compounds within grapes. Scientific evidence unveiled that certain molecular compounds in the antioxidants act as natural antidepressants but there lacks initiative to utilize these antioxidant agents in psychiatric institutions and practical methods. By employing advanced techniques such as neuroimaging, fractal geometry, and spectral analysis, the project aims to unveil underlying patterns and causative factors associated with depression and related mental health conditions. The significance of this research extends far beyond the development of new treatments. It encompasses a broader understanding of the intricate relationship between food, biochemistry, and mental health. This knowledge has the potential to inform dietary recommendations that promote mental well-being, potentially reducing the global prevalence of these disorders. Yahriel, and the research team at the university Tecnológico de Monterrey endeavor to decode the molecular secrets of nature to improve the human condition, particularly for individuals affected by schizophrenia and other mental health disorders. Yahriel's work represents a convergence of scientific rigor, interdisciplinary collaboration, and a profound commitment to the betterment of human well-being. Furthermore, this research holds the potential to strengthen international collaborations between the U.S. and Mexico. By conducting research at Tecnológico de Monterrey, Yahriel can contribute to the exchange of knowledge and ideas between the two countries, fostering a stronger global community which reflects the essence of the Fulbright mission, emphasizing mutual understanding and collaboration between nations. Yahriel Salinas-Reyes' Fulbright-Garcia Robles Open Study/Research Award proposal represents a unique and ambitious endeavor to explore the natural antidepressant properties of grapes. Grounded in the principles of interdisciplinary research, this project not only has the potential to transform mental health treatment but also to deepen our understanding of the brain's plasticity. It is a testament to the power of collaboration and cultural exchange in the pursuit of knowledge and the betterment of human well-being. Yahriel's unwavering commitment to utilizing opportunities to their fullest and to serve as a cultural diplomat, bridging gaps between different fields and nations, promises to unlock the molecular code of nature and take meaningful strides toward a healthier and more fulfilling world for all. Yahriel's proposal represents a remarkable opportunity to weave together science, innovation, and compassion in the quest to decipher the extraordinary truths hidden within the universe's code
 
-remix and expand the the topics in 3400 words in a high-level writing to include all the discussions, writings, 
-and ideas you developed and/or that are available into the [Draft] for Yahriel Salinas-Reyes. [Draft] of 
-Yahriel Salinas-Reyes for Fellowship Program do not spare details. 
-- Use this Template and remix the Format-Sample to help you format your answer: 
-
-- Act as Chief Editor and Reviewer and review the 
-General Review Criteria and Details, next Provide feedback and instructions to help strengthen this 
-writing. 
-- Make edits according to the feedback and instructions given from the Chief Editor and 
-formulate the final responses for each prompt.
-}
-
-**LIBRARY,INCLUDES,RESOURCES** 
-Author Credentials and Relevant Background, which consists 
-of Academic, Professional, and Research Experience: Yahriel’s Intellectual Background: 
-Aerospace and Aeronautical Engineering or Rocket Scientist with a Research and Development 
-Experiences. These experiences are in the fields of: Data Science and Machine Learning; Modern 
-Design of Aerospace and Propulsion Systems; Interfacial Phenomena and Chaos Theory; 
-Nanotechnology and Materials Science-Engineering; Applied Quantum Mechanics and Nature 
-Physics; Thermodynamic Modeling and Finite-Element-Analysis; Signals and Controls Systems 
-Engineering; Expert in Robotics and Electrical Engineering; Computer Science and Software 
-Engineering; Computer and Information Technology Systems, Experimental Systems 
-Engineering; and Micro-electro-mechanical systems (MEMS). 
-
-Personal Page: 
-https://github.com/yahriels 
-Personal Repository: 
-https://github.com/yahriels/yahriels/tree/181d70996b175c813c28770a361453c192fb5a06 
-Library and Data Sources: 
-
-Resources: 
-
-Application Purpose: 
-{ 
-} 
-
-The Application Review Process: 
-{ 
-Panelists evaluating applications may consider the following with respect to the Intellectual 
-Merit Criterion: the potential of the applicant to advance knowledge based on a holistic analysis 
-of the complete application, including the personal statement, relevant background, future 
-goals, graduate research statement, strength of academic record, description of previous 
-research experience or publication/presentations, and references. Panelists may consider the 
-following with respect to the Broader Impacts Criterion: the potential of the applicant for future 
-broader impacts as indicated by personal experiences, professional experiences, educational 
-experiences and future plans. Here is how I like to think of the review criteria, point by point. 
-How would answering this research question change science (Intellectual Merit) or society 
-(Broader Impacts)? Why should I fund you specifically, and not just this research question? What 
-innovation do you specifically bring to the table? Is there a detailed plan? With built in measures 
-of success? What are your qualifications? Can you actual carry out the needed research? At the 
-end of each essay, you should be able to check off how you answered each point above for 
-BOTH Intellectual Merit and Broader Impacts. 
-} 
-Homework: 
-{ 
-Read all materials (a few times, without distractions). Prepare a task list with deadlines to perform the Executive Tasks then 
-complete the tasks. Understand how application components and each item requested relate to 
-the review criteria. 
-} 
-Proposed Field of Study: 
-{ 
-Pursuing STEM field: Division of Mathematical Sciences (DMS) Field of Study 1: DMS: Computational and Date-Enabled Sciences Field of Study 
-2: Comp/IS/Eng: Algorithms and Theoretical Foundations Field of Study 3: Comp/IS/Eng: 
-Scientific Computing Field of Study 4: Comp/IS/Eng: Bioinformatics and Bio-inspired Computing 
-} 
-Review Criteria Details: 
-{ 
-WHAT WE LOOK FOR: Evidence of exceptional creativity, broad 
-understanding of physical principles, and outstanding potential for innovative research is 
-expected. Applicants are screened for qualities we believe are essential ingredients of future 
-professional accomplishment and/or leading indicators of future professional success. These 
-include: Exceptional Intelligence and Creativity with particular emphasis on those aspects 
-pertinent to technical endeavors. Excellent Technical Education evidenced not only by transcripts 
-and reference reports from senior technical professionals, but also through an in-person, 
-technical interview. Orientation and Commitment to the applications of the physical sciences as 
-is typical of most applicants. Extraordinary Accomplishment in technical or related professional 
-studies which may offset slightly lower academic records or add luster to outstanding ones. 
-High moral and ethical values. Leverage demonstration of the difference the award of the Hertz 
-Fellowship is likely to make in the kind, quality, and/or personal creativity of the student's 
-graduate research.
 } 
 
 Executive Roles: 
@@ -437,6 +180,7 @@ FIRST-PERSON LANGUAGE AS YAHRIEL SALINAS-REYES THE APPLICANT.
 - Based on the writings and topics, author a high-level response to include all the discussions, writings, and ideas you developed and/or that are available into the writing or response.
 }
 
+
 Executive Tasks: 
 {
 - Use and mix all the provided information here: as a central theme in the writing process. 
@@ -446,12 +190,8 @@ and/or that are available into the [Draft] for Yahriel Salinas-Reyes. [Draft] of
 - Use this Template and remix the Format-Sample to help you format your answer: 
 
 - Act as Chief Editor and Reviewer and review the General Review Criteria and Details, next Provide feedback and instructions to help strengthen this writing. 
-- Make edits according to the feedback and instructions given from the Chief Editor and formulate the final responses for each prompt: PROMPT 1, PROMPT 2, PROMPT 3, PROMPT 4, PROMPT 5. 
-- Now assign the final responses to their outputs as a series of answers as following: 
-To Answer "PROMPT 1" display [Output 1] as the final response of "RESPONSE 1"; To Answer "PROMPT 2" display [Output 2] as the final response of "RESPONSE 2"; To Answer "PROMPT 3" display [Output 3] as the final response of "RESPONSE 3"; To Answer "PROMPT 4" display [Output 4] as the final response of "RESPONSE 4"; To Answer "PROMPT 5" display [Output 5] as the final response of "RESPONSE 5". 
-- Now give me the final outputs of the final responses. [Output 1] [Output 2] [Output 3] [Output 4] [Output 5]
+- Make edits according to the feedback and instructions given from the Chief Editor and formulate the final responses for each prompt.
 }
-
 
 MASTER SCRIPT : 
 {
