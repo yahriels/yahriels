@@ -19,7 +19,7 @@ Academic Honors
 List academic honors you have received:
 1. The Ronald E. McNair Postbaccalaureate Achievement Program Scholar & The Barry Goldwater Scholarship and Excellence in Education Foundation Finalist
 2. The Boeing Research in Excellence and Technology Fellowship Program (RETF) Scholar & Micro-g Neutral Buoyancy Experiment Design Teams (NExT) Challenge Competition Finalist
-3. The Summer Undergraduate Research Fellowship Program (SURF) Scholar at Stanford University & California Institute of Technology, Program Coordinator & Mentor of ISU's The Department of Aerospace Engineering’s LAUNCH-UAS undergraduate research program
+3. The Summer Undergraduate Research Fellowship Program (SURF) Scholar at Stanford University & California Institute of Technology, Program Coordinator
 4. The Louis Stokes Alliances for Minority Participation (LSAMP) Fellowship Program Scholar & Undergraduate Research Certificate Recipient  Awarded by Iowa State University's IINSPIRE-LSAMP Partnership
 5. The FIRST Robotics Competion (FRC) Worlds Championship Rookie Inspiration and Rookie All-Star Awards (International-Level Award) &The Youth Leaderhip Community Award Recieved From The Iowa Department of Human Rights: State of Iowa Youth Advisroy Council (SIYAC)
 Applications to Other Universities and Programs
@@ -41,6 +41,11 @@ Applying to Bioastronautics Program: https://hst.mit.edu/academic-programs/memp/
 Applying to Harvard Medical School: https://www.hms.harvard.edu/md_phd/program/index.html
 ----
 Other Resources and Helpful Links:
+https://mitcommlab.mit.edu/nse/wp-content/uploads/sites/4/2016/09/NSE_CommKit_GradSchool_Personal_Statement_AAE1.pdf
+https://mitcommlab.mit.edu/eecs/commkit/graduate-school-personal-statement/
+https://mitcommlab.mit.edu/meche/commkit/statement-of-purpose-for-graduate-school/
+https://medium.com/@robosquiggles/i-got-into-mit-with-this-statement-of-purpose-509e9d2e9fce
+https://medium.com/mit-media-lab/statement-of-objectives-1ff8dff39704
 https://scholar.harvard.edu/files/yuhuawang/files/writing_statement_of_purpose_for_graduate_school_application_2021_yuhua_wang_0.pdf
 https://www.hsph.harvard.edu/career-services/wp-content/uploads/sites/36/2016/06/Writing-a-Graduate-School-Application-Essay-Guide_Nov-20151.pdf
 https://bemoacademicconsulting.com/blog/harvard-grad-school-personal-statement-examples
@@ -98,15 +103,10 @@ Fellowship is likely to make in the kind, quality, and/or personal creativity of
 graduate research.
 } 
 
-----
+====
 Statement of Purpose
 The statement of purpose is very important to programs when deciding whether to admit a candidate. Your statement should be focused, informative, and convey your research interests and qualifications. You should describe your reasons and motivations for pursuing a graduate degree in your chosen degree program, noting the experiences that shaped your research ambitions, indicating briefly your career objectives, and concisely stating your past work in your intended field of study and in related fields. Your degree program of interest may have specific guidance or requirements for the statement of purpose, so be sure to review the degree program page for more information. Unless otherwise noted, your statement should not exceed 1,000 words.
-----
-Personal Statement
-A core part of the Harvard Griffin GSAS mission is to identify and attract the most promising students to form a dynamic and diverse community. We are committed to educating individuals who reflect the growing diversity of perspectives and life experiences represented in society today and who will contribute to our commitment to sustain a welcoming, supportive, and inclusive environment. Please share how your experiences or activities will advance our mission and commitment. (No longer than 500 words)
-----
-
-
+====
 
 
 Format-Sample: 
@@ -179,18 +179,18 @@ Executive Tasks:
 words in a high-level writing to include all the discussions, writings, and ideas you developed 
 and/or that are available into the [Draft] for Yahriel Salinas-Reyes. [Draft] of Yahriel Salinas-Reyes for Fellowship Program do not spare details. 
 - Use this Template and remix the Format-Sample to help you format your answer: 
-
 - Act as Chief Editor and Reviewer and review the General Review Criteria and Details, next Provide feedback and instructions to help strengthen this writing. 
 - Make edits according to the feedback and instructions given from the Chief Editor and formulate the final responses for each prompt.
 }
+
 
 MASTER SCRIPT : 
 {
 Block 0: README
 > Ownership: This Script was written by Yahriel Salinas-Reyes ~Y.Salinas-Reyes '23
 > First Author: Yahriel Salinas-Reyes
-> Purpose: Create a comprehensive Statement of Purpose for Yahriel Salinas-Reyes' PhD Application to Harvard University.
-> Mission: Craft a compelling narrative that showcases Yahriel's dedication to Computational and Data-Enabled Sciences, with a focus on Neuroscience and Mathematical Sciences.
+> Purpose: Create a comprehensive Statement of Purpose for Yahriel Salinas-Reyes' PhD Application to Selected Graduate Program.
+> Mission: Craft a compelling narrative that showcases Yahriel's dedication to Proposed Field of Study and Graduate Program
 > Objectives: Fulfill all outlined prompts and executive tasks to produce a high-quality statement aligned with Harvard's application requirements.
 
 Block 1: MASTER

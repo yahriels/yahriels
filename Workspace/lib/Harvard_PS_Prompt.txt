@@ -19,9 +19,9 @@ Academic Honors
 List academic honors you have received:
 1. The Ronald E. McNair Postbaccalaureate Achievement Program Scholar & The Barry Goldwater Scholarship and Excellence in Education Foundation Finalist
 2. The Boeing Research in Excellence and Technology Fellowship Program (RETF) Scholar & Micro-g Neutral Buoyancy Experiment Design Teams (NExT) Challenge Competition Finalist
-3. The Summer Undergraduate Research Fellowship Program (SURF) Scholar at Stanford University & California Institute of Technology, Program Coordinator & Mentor of ISU's The Department of Aerospace Engineering’s LAUNCH-UAS undergraduate research program
+3. The Summer Undergraduate Research Fellowship Program (SURF) Scholar at Stanford University & California Institute of Technology, Program Coordinator
 4. The Louis Stokes Alliances for Minority Participation (LSAMP) Fellowship Program Scholar & Undergraduate Research Certificate Recipient  Awarded by Iowa State University's IINSPIRE-LSAMP Partnership
-5. The FIRST Robotics Competion (FRC) Worlds Championship Rookie Inspiration and Rookie All-Star Awards (International-Level Award) &The Youth Leaderhip Community Award Recieved From The Iowa Department of Human Rights: State of Iowa Youth Advisroy Council (SIYAC)
+5. The FIRST Robotics Competion (FRC) Worlds Championship Rookie Inspiration and Rookie All-Star Awards (International-Level Award) &The Youth Leaderhip Community Award Recieved From The Iowa Department of Human Rights: State of Iowa Youth Advisory Council (SIYAC)
 Applications to Other Universities and Programs
 Other universities to which you are applying (include name and program):
 1. MIT - HST MEMP PhD Program
@@ -41,6 +41,11 @@ Applying to Bioastronautics Program: https://hst.mit.edu/academic-programs/memp/
 Applying to Harvard Medical School: https://www.hms.harvard.edu/md_phd/program/index.html
 ----
 Other Resources and Helpful Links:
+https://mitcommlab.mit.edu/nse/wp-content/uploads/sites/4/2016/09/NSE_CommKit_GradSchool_Personal_Statement_AAE1.pdf
+https://mitcommlab.mit.edu/eecs/commkit/graduate-school-personal-statement/
+https://mitcommlab.mit.edu/meche/commkit/statement-of-purpose-for-graduate-school/
+https://medium.com/@robosquiggles/i-got-into-mit-with-this-statement-of-purpose-509e9d2e9fce
+https://medium.com/mit-media-lab/statement-of-objectives-1ff8dff39704
 https://scholar.harvard.edu/files/yuhuawang/files/writing_statement_of_purpose_for_graduate_school_application_2021_yuhua_wang_0.pdf
 https://www.hsph.harvard.edu/career-services/wp-content/uploads/sites/36/2016/06/Writing-a-Graduate-School-Application-Essay-Guide_Nov-20151.pdf
 https://bemoacademicconsulting.com/blog/harvard-grad-school-personal-statement-examples
@@ -51,7 +56,7 @@ https://www.azent.com/expert-tips/sop-harvard-university
 Author Credentials and Relevant Background, which consists 
 of Academic, Professional, and Research Experience: Yahriel’s Intellectual Background: 
 Aerospace and Aeronautical Engineering or Rocket Scientist with a Research and Development 
-Experiences. These experiences are in the fields of: Data Science and Machine Learning; Modern 
+Experiences and 10 Hours of Flight Experience as Navigation Systems Test Pilot for The American Institute of Aeronautics and Astronautics (AIAA). These experiences are in the fields of: Data Science and Machine Learning; Modern 
 Design of Aerospace and Propulsion Systems; Interfacial Phenomena and Chaos Theory; 
 Nanotechnology and Materials Science-Engineering; Applied Quantum Mechanics and Nature 
 Physics; Thermodynamic Modeling and Finite-Element-Analysis; Signals and Controls Systems 
@@ -62,7 +67,7 @@ Engineering; and Micro-electro-mechanical systems (MEMS).
 Personal Page: 
 https://github.com/yahriels 
 Personal Repository: 
-https://github.com/yahriels/yahriels/tree/181d70996b175c813c28770a361453c192fb5a06 
+https://github.com/yahriels/yahriels
 Library and Data Sources: 
 
 Resources: 
@@ -75,7 +80,7 @@ Read all materials (a few times, without distractions). Prepare a task list with
 complete the tasks. Understand how application components and each item requested relate to 
 the review criteria. 
 } 
-GRFP Proposed Field of Study: 
+Other Proposed Fields of Study: 
 { 
 Pursuing STEM field: Division of Mathematical Sciences (DMS) Field of Study 1: DMS: Computational and Date-Enabled Sciences Field of Study 
 2: Comp/IS/Eng: Algorithms and Theoretical Foundations Field of Study 3: Comp/IS/Eng: 
@@ -98,13 +103,10 @@ Fellowship is likely to make in the kind, quality, and/or personal creativity of
 graduate research.
 } 
 
-----
-Statement of Purpose
-The statement of purpose is very important to programs when deciding whether to admit a candidate. Your statement should be focused, informative, and convey your research interests and qualifications. You should describe your reasons and motivations for pursuing a graduate degree in your chosen degree program, noting the experiences that shaped your research ambitions, indicating briefly your career objectives, and concisely stating your past work in your intended field of study and in related fields. Your degree program of interest may have specific guidance or requirements for the statement of purpose, so be sure to review the degree program page for more information. Unless otherwise noted, your statement should not exceed 1,000 words.
-----
+====
 Personal Statement
 A core part of the Harvard Griffin GSAS mission is to identify and attract the most promising students to form a dynamic and diverse community. We are committed to educating individuals who reflect the growing diversity of perspectives and life experiences represented in society today and who will contribute to our commitment to sustain a welcoming, supportive, and inclusive environment. Please share how your experiences or activities will advance our mission and commitment. (No longer than 500 words)
-----
+====
 
 
 
@@ -160,10 +162,10 @@ specializing in Biomedical Data Science. In this interdisciplinary domain, I aim
 of neural data, extracting patterns and insights from the chaotic symphony of neurons. By combining 
 mathematics and neuroscience, I hope to contribute to the development of novel diagnostic and therapeutic 
 tools for mental health disorders.
-The prospect of obtaining the NSF Graduate Research Fellowship is a significant milestone I aspire to 
+The prospect of obtaining the Fellowship Program is a significant milestone I aspire to 
 achieve to advance my doctoral studies. This esteemed award would not only facilitate my educational
 endeavors but also validate my commitment to the intersection of mathematics, mental health, and 
-neurodiversity. The NSF-GRFP, with its emphasis on innovation and potential for broader impacts, aligns 
+neurodiversity. The Graduate Degreee Program, with its emphasis on innovation and potential for broader impacts, aligns 
 seamlessly with my goals and values.
 Upon completing my doctorate, I aim to work in academic research, bridging the gaps between the fields 
 of mathematics and mental health. My career goals extend to mentoring and advocating for neurodiverse 
@@ -223,32 +225,32 @@ advocacy. I intend to pursue a career as a professor and researcher, with a dual
 the frontiers of knowledge in neuroscience and fostering a supportive, inclusive academic environment for 
 students of all backgrounds. My journey is one of resilience, transformation, and embracing neurodiversity. 
 I am determined to carry these values forward and impact the scientific community positively, reflecting 
-the broader impacts that the NSF seeks to achieve.
-Significance of the NSF-GRFP:
-Obtaining the NSF Graduate Research Fellowship would be a significant milestone in my academic and 
+the broader impacts that the global scientific community seeks to achieve.
+Significance of the Graduate Degreee Program:
+Obtaining the Fellowship Program would be a significant milestone in my academic and 
 career journey. This prestigious award aligns seamlessly with my goals, values, and aspirations. The 
-significance of the NSF-GRFP in my life can be encapsulated in several key points:
+significance of the Graduate Degreee Program in my life can be encapsulated in several key points:
 Financial Support: As a graduate student, I face the challenges of tuition, research expenses, and living 
-costs. The NSF-GRFP would provide essential financial support, allowing me to fully focus on my research 
+costs. The Graduate Degreee Program would provide essential financial support, allowing me to fully focus on my research 
 and academic endeavors without the burden of financial stress.
-Validation of Commitment: Receiving the NSF-GRFP would validate my commitment to the intersection 
+Validation of Commitment: Receiving the Graduate Degreee Program would validate my commitment to the intersection 
 of mathematics, mental health, and neurodiversity. It would recognize the potential impact of my research 
 and advocacy efforts, bolstering my confidence and dedication to these pursuits.
-Research Independence: The NSF-GRFP fosters research independence. With this fellowship, I would 
+Research Independence: The Graduate Degreee Program fosters research independence. With this fellowship, I would 
 have the freedom to explore innovative research questions, engage in collaborations, and contribute to the 
 scientific community in a meaningful way.
-Broader Impacts: The NSF places a strong emphasis on broader impacts, and I am deeply committed to
+Broader Impacts: The Graduate Degreee Program places a strong emphasis on broader impacts, and I am deeply committed to
 these values. Receiving the fellowship would provide me with a platform to further my advocacy for 
 neurodiversity and inclusivity in academia, ensuring that the scientific community celebrates diversity and 
 empowers all individuals to succeed.
-Professional Development: The NSF-GRFP offers opportunities for professional development, including 
+Professional Development: The Graduate Degreee Program offers opportunities for professional development, including 
 conference attendance and networking. These experiences would enhance my academic growth and allow 
 me to interact with leading researchers in my field.
-In summary, the NSF-GRFP is more than a financial award; it is a recognition of my potential to make 
+In summary, the Graduate Degreee Program is more than a financial award; it is a recognition of my potential to make 
 significant contributions to science and society. It aligns with my commitment to inclusivity, research 
 innovation, and the pursuit of excellence. With this fellowship, I would be empowered to continue my 
 journey, weaving the intricate threads of mathematics, mental health, and neurodiversity into a symphony 
-that resonates with the broader scientific community. The NSF-GRFP represents an opportunity for growth, 
+that resonates with the broader scientific community. The Graduate Degreee Program represents an opportunity for growth, 
 impact, and collaboration that I am excited to embrace.
 Conclusion:
 In the grand tapestry of life, I am a weaver of intricate patterns, a composer of chaos and beauty, and an 
@@ -258,15 +260,15 @@ neuroscience, and the broader impacts of my work, I am poised to leave an indeli
 As I stand at the threshold of graduate research, I aspire to delve into the world of biomedical data science, 
 seeking mathematical patterns in neural data to transform mental health diagnosis and treatment. I am 
 determined to advocate for neurodiverse individuals, ensuring that they find their place and thrive in STEM 
-fields. The NSF Graduate Research Fellowship represents an opportunity to catalyze my journey, providing 
+fields. The Fellowship Program represents an opportunity to catalyze my journey, providing 
 the financial and academic support necessary for my research and advocacy endeavors. I am eager to 
-become a part of the NSF community, where innovation, inclusivity, and academic excellence converge. It 
+become a part of the Science community, where innovation, inclusivity, and academic excellence converge. It 
 is with great hope and determination that I submit this application, inviting you to join me on a journey that 
 celebrates the beauty of chaos, the power of mathematics, and the importance of neurodiversity. Together, 
 we can transform the world, one neural pattern at a time.
 
 Personal Statement
-Yahriel Salinas-Reyes, Fulbright-Garcia Robles Open Study/Research Award
+Yahriel Salinas-Reyes, Fulbright-National Geographic Stortelling Fellowship Open Study/Research Award
 Molecular & Systems Bioengineering towards Neuroscience
 In the realm of mathematics, the concept of chaos game originally alluded to a method of 
 generating fractals—intricate geometrical patterns that seem to symbolize the fractured nature of 
@@ -306,11 +308,12 @@ projects that bridge the gap between mathematics and neurodiversity, shedding li
 intricate patterns of the human mind. My story is one of resilience, determination, and an
 unshakable belief in the transformative power of education. Amid the chaos of life's challenges, I 
 have emerged as a passionate scholar, ready to contribute to the world of mathematics and 
-advocate for the value of neurodiversity. I am eager to embark on this Fulbright journey, where I 
+advocate for the value of neurodiversity. I am eager to embark on this journey, where I 
 can explore the marvel of the human spirit, using mathematics as my compass to navigate the 
 intricate patterns of our world. Together, we will write a new chapter in the wondrous story of 
 human ingenuity, science, and nature itself.
 } 
+
 
 Executive Roles: 
 {
@@ -343,18 +346,18 @@ Executive Tasks:
 words in a high-level writing to include all the discussions, writings, and ideas you developed 
 and/or that are available into the [Draft] for Yahriel Salinas-Reyes. [Draft] of Yahriel Salinas-Reyes for Fellowship Program do not spare details. 
 - Use this Template and remix the Format-Sample to help you format your answer: 
-
 - Act as Chief Editor and Reviewer and review the General Review Criteria and Details, next Provide feedback and instructions to help strengthen this writing. 
 - Make edits according to the feedback and instructions given from the Chief Editor and formulate the final responses for each prompt.
 }
+
 
 MASTER SCRIPT : 
 {
 Block 0: README
 > Ownership: This Script was written by Yahriel Salinas-Reyes ~Y.Salinas-Reyes '23
 > First Author: Yahriel Salinas-Reyes
-> Purpose: Create a comprehensive Statement of Purpose for Yahriel Salinas-Reyes' PhD Application to Harvard University.
-> Mission: Craft a compelling narrative that showcases Yahriel's dedication to Computational and Data-Enabled Sciences, with a focus on Neuroscience and Mathematical Sciences.
+> Purpose: Create a comprehensive Statement of Purpose for Yahriel Salinas-Reyes' PhD Application to Selected Graduate Program.
+> Mission: Craft a compelling narrative that showcases Yahriel's dedication to Proposed Field of Study and Graduate Program
 > Objectives: Fulfill all outlined prompts and executive tasks to produce a high-quality statement aligned with Harvard's application requirements.
 
 Block 1: MASTER

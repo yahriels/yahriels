@@ -1,23 +1,11 @@
-Massachussetts Institute of Technology PhD Graduate School Application MIT-WHOI Joint Program in Oceanography and Proposed Field of Study in Applied Ocean Science and Engineering
+UC Berkeley PhD Graduate School Application for The Computational Precision Health (joint UCSF) JtPhD Program
 
-Program
-MIT-WHOI Joint Program in Oceanography - Applied Ocean Science and Engineering
+Intended Program of Study
+Admit Term:
+Fall 2024
 
-Degree Objective
-Doctoral
-
-Thank you for your interest in the Massachusetts Institute of Technology (MIT) - Woods Hole Oceanographic Institution (WHOI) Joint Program in Oceanography/Applied Ocean Science and Engineering.
-For detailed application instructions for the MIT-WHOI Joint Program, please visit: https://mit.whoi.edu/admissions/apply/how-to-apply/. 
-
-Entry Semester
-Summer 2024
-
-First Choice of Research Discipline
-Applied Ocean Science and Engineering (AOSE)
-
-Preferred MIT Department
-Aeronautics and Astronautics
-Mechanical Engineering
+Select Program:
+Computational Precision Health (joint UCSF) JtPhD
 
 Academic History
 ----
@@ -37,16 +25,14 @@ Other universities to which you are applying (include name and program):
 Other Schools to which you are applying:
 Health Sciences and Technology (Harvard-MIT Joint Program)
 
-
-
 ----
-Department 1: https://aeroastro.mit.edu/
-Department 2: https://meche.mit.edu/
+Department 1: https://grad.berkeley.edu/program/computational-precision-health-jt-phd-joint-ucsf/
+Department 2: https://computationalhealth.berkeley.edu/admissions/
 ====
 ----
-Applying to MIT-WHOI Program: https://mit.whoi.edu/admissions/program-description/
-Applying to MIT Joint Program: https://mit.whoi.edu/academics/fields/aope/
-Applying to Bioastronautics Program: https://hst.mit.edu/academic-programs/memp/bioastronautics-training-program
+Applying to Computational Precision Health Jt PhD (joint UCSF): https://grad.berkeley.edu/program/computational-precision-health-jt-phd-joint-ucsf/
+Applying to Computational Health: https://computationalhealth.berkeley.edu/phd-program/
+Applying to Berkeley Research Field: https://computationalhealth.berkeley.edu/research/
 ----
 Other Resources and Helpful Links:
 https://mitcommlab.mit.edu/nse/wp-content/uploads/sites/4/2016/09/NSE_CommKit_GradSchool_Personal_Statement_AAE1.pdf
@@ -112,15 +98,38 @@ graduate research.
 } 
 
 ====
-Statement of Objectives
-Please explain why you are a good candidate for the MIT-WHOI Joint Program in the field you have chosen. You should describe why you wish to attend graduate school, what you would like to study, and any research or work experience you have. Describe how your lived experiences have shaped and guided your approach to study and research.  This is a good place to mention research areas of specific faculty that most interest you. The Admissions Committee will welcome any factors you wish to bring to its attention concerning your academic and work experience to date
-The recommended length is 1.5-2.5 pages single-spaced.
---
-Faculty: Please select up to 6 faculty you are interested in working with in the Joint Program. 
-{
-https://mit.whoi.edu/academics/fields/aope/aope-faculty/
-}
+Statement of Purpose
+Please describe your aptitude and motivation for graduate study in your area of specialization, including your preparation for this field of study, your academic plans or research interests, and your future career goals. Please be specific about why UC Berkeley would be a good intellectual fit for you.
+----
+Personal History Statement
+Please describe how your personal background and experiences influenced your decision to pursue a graduate degree. In this section, you may also include any relevant information on the following:
+How you have overcome barriers to access higher education
+How you have come to understand the barriers faced by others
+Your academic service to advance equitable access to higher education for women, racial minorities and individuals from other groups that have been historically underrepresented in higher education
+Your research focusing on underserved populations or related issues of inequality
+Your leadership among such groups
+The Personal History Statement should not duplicate the Statement of Purpose.
 ====
+
+==
+Academic or Professional History
+--
+Please upload a recent version of your Resume or your Curriculum Vitae.
+Resume/Curriculum Vitae:
+
+--
+Sampling of Relevant Written Work
+Please upload a sample of written work that is relevant to your application (e.g. seminar paper, report, magazine/newspaper article, book excerpt).
+Writing Sample:
+
+--
+Publications and Presentations
+Publications/Presentations:
+Provide a list of publications and/or presentations related to your academic or professional background (include the PubMed ID if applicable). Please enter your most recent citation first.
+--
+Honors and Awards
+Enter honors and awards relevant to your application to graduate study.
+==
 
 Format-Sample: 
 { 
@@ -184,6 +193,7 @@ FIRST-PERSON LANGUAGE AS YAHRIEL SALINAS-REYES THE APPLICANT.
 - Based on the writings and topics, author a high-level response to include all the discussions, writings, and ideas you developed and/or that are available into the writing or response.
 }
 
+
 Executive Tasks: 
 {
 - Use and mix all the provided information here: as a central theme in the writing process. 
@@ -194,6 +204,7 @@ and/or that are available into the [Draft] for Yahriel Salinas-Reyes. [Draft] of
 - Act as Chief Editor and Reviewer and review the General Review Criteria and Details, next Provide feedback and instructions to help strengthen this writing. 
 - Make edits according to the feedback and instructions given from the Chief Editor and formulate the final responses for each prompt.
 }
+
 
 MASTER SCRIPT : 
 {

@@ -18,4 +18,145 @@ Biomedical Data Science (PhD)
 Entry Term
 
 Autumn 2024-2025
---
+----
+Research Experience
+If you have prior research experience, provide details about each experience below. List experiences in order of significance to you, with the most meaningful experience listed first.
+
+You may list up to six experiences in this section. If you wish to share more, include this information in your resume/CV at the bottom of this page.
+Organization Name	Principal Investigator	Dates of Experience
+Add Research Experience
+Have you participated in any Stanford summer research or graduate preview programs? Select all that apply.
+Summer Undergraduate Research Fellowship (SURF) in Engineering
+What year(s) did you participate?
+2021
+
+----
+Publications/Presentations/Posters
+If applicable, list any publications you have authored or presentations/posters you have delivered in order of significance to you, with the most meaningful listed first.
+
+You may list up to five publications/presentations/posters on this page. If you wish to share more, include this information in your resume/CV at the bottom of this page.
+Title	Type
+Add Publication/Presentation/Poster
+----
+Awards & Honors
+If applicable, list any awards or honors you have received.
+
+You may list up to six awards in this section. If you wish to share more, include this information in your resume/CV at the bottom of this page.
+Award/Honor	Date Received
+Add Award/Honor
+----
+Work Experience
+If you have prior work experience, provide details about each experience below. Experiences may include internships, part-time and full-time employment.
+
+You may list up to six experiences in this section. If you wish to share more, include this information in your resume/CV at the bottom of this page.
+Organization Name	Dates of Experience
+Add Work Experience
+----
+Resume/CV
+Upload your current resume/CV.
+----
+====
+Statement of Purpose
+Because each Home Program requires significant original research activities in fulfillment of the requirements for the PhD degree, the admissions committees are interested in obtaining as much information as possible about your previous research experiences. Those who already have such experience are in a better position to know whether they are truly interested in performing laboratory research as part of a graduate program. Please include specific information about your research experience in your Statement of Purpose. You may also use the Statement to amplify your comments about your choice of Home Program(s), and how your past experiences and current interests are related to your choice.
+The Statement of Purpose should not exceed two pages in length, single-spaced, and font size 12. Make sure to set your computer to Western European or other English-language settings. We cannot guarantee the ability to access your statement if it is submitted in other fonts. *
+----
+Enriching the Learning Community
+Stanford University welcomes graduate applications from individuals with a broad range of experiences, interests, and backgrounds who would contribute to our community of scholars. We invite you to share the lived experiences, demonstrated values, perspectives, and/or activities that shape you as a scholar and would help you to make a distinctive contribution to Stanford University. 
+Your statement should not exceed 500 words in length.
+Limit of 500 words remaining
+====
+Faculty:
+{
+https://biosciences.stanford.edu/faculty/biosciences-faculty-database/
+}
+====
+Program Supplemental
+The questions on this page are tailored to the program you selected earlier in the application:
+
+Neurosciences (PhD)
+Biomedical Data Science (PhD)
+
+If you intend to apply to a different program, please return to the Program Selection page to update your response.
+
+Required fields are indicated with *
+
+Neurosciences Interest
+Select the Neurosciences area that you have the most interest in.
+
+Systems Neurosciences
+Faculty Interests
+Please provide a rank-ordered list of eight to twelve Biosciences faculty of interest to you. The majority should be in your primary home program.
+Learn more about Biosciences faculty
+Faculty Member 1
+
+Angelo, Robert
+Faculty Member 2
+
+Barna, Maria
+Faculty Member 3
+
+Herschlag, Daniel
+Faculty Member 4
+
+Boothroyd, John
+Faculty Member 5
+
+Palmer, Theo
+Faculty Member 6
+
+Tibshirani, Robert
+Faculty Member 7
+
+Adams, Alyce
+Faculty Member 8
+
+Bejerano, Gill
+Faculty Member 9
+
+Zia, Roseanna
+Faculty Member 10
+
+Ferrara, Katherine
+Faculty Member 11
+
+Lorch, Yahli
+Faculty Member 12
+
+Solomon, Edward
+If you are interested in working with faculty members not listed above, you may include their names (Last, First) below.
+100 characters remaining
+Total Months of Research Experience
+We ask applicants to report the total months of all current/prior full-time research experience. This value should reflect the months of summer research experience or full-time research experience following college. For those with part-time, academic-year research experience for academic credit, convert the part-time experience to full-time for reporting (e.g., 15 hours/week for 8 months = 3 months). Do not include labs associated with a course (e.g., organic chemistry course with lab).
+1. Below we have calculated a preliminary total based on the experiences you listed on the Research Experience page.
+Organization	Dates	Hours/Week	Duration in Months	Total Months Calculated
+1	01/2021–04/2020	34	-9	-8
+Total Months Calculated from Research Experience Page	-8
+2. If you participated in additional research experiences that meet the above criteria and are not listed on the Research Experience page, include the additional months below. Feel free to use this Research Experience Calculator (Excel spreadsheet) to help determine your months of research experience.
+Additional Months of Research Experience (if applicable)
+3. The below total is read-only and will be updated automatically to reflect the sum of the totals from steps 1 and 2 above. To adjust the total, update the value you entered above for Additional Months of Research.
+Total Months of Research Experience
+-8
+Describe an Interesting Biological or Biomedical Problem
+Please describe one unsolved biological or biomedical problem that you find interesting and explain why. It does not have to be related to your significant research project or any of your prior work. Your answer is not binding.
+Schizophrenia's profound impact on individuals and society has drawn me into its captivating realm. This intricate mental disorder, which disrupts perception, thinking, and behavior, holds immense significance for both science and psychiatry, affecting millions globally. Understanding it has far-reaching implications.
+
+Scientifically, unraveling schizophrenia involves studying genetics, neurobiology, and environmental factors. This multidisciplinary approach combines genetics, neuroscience, psychology, and computational modeling to gain insights and develop better tools and treatments. Recent technological advancements, like fMRI and PET scans, visualize brain abnormalities, aiding biomarker identification.
+
+Beyond the scientific realm, schizophrenia exerts a profound societal impact. Individuals grappling with schizophrenia encounter formidable personal and professional challenges, while their families and communities extend vital support and care. 
+
+In conclusion, schizophrenia presents an enthralling and formidable avenue for scientific exploration with profound implications for psychiatry. My expertise in data analysis, collaborative research, and dedication to mentorship align seamlessly with the skills essential to make a substantial impact in this field and underscore my capacity to apply rigorous analytical techniques to intricate problems. This aptitude is poised to play a pivotal role in investigating the intricate biological and genetic facets of schizophrenia.
+4 characters remaining
+Foundations of Graduate Study
+Responses to the following questions are only expected for those applying to Biomedical Data Science and/or the Immunology Computational and Systems Track, but others may respond as well.
+
+For each of the following areas, please describe your experience, as acquired through coursework, research, or other projects, or your plans for obtaining or expanding such experience, ideally before starting your PhD.
+Multivariate Mathematics (including Calculus and Linear Algebra)
+Multivariate Mathematics: Throughout my undergraduate studies in Aerospace Engineering, I completed rigorous coursework in Calculus and Linear Algebra. These courses provided me with a solid understanding of multivariate mathematics, including concepts such as vector calculus, partial derivatives, and matrix operations. Additionally, I have applied these mathematical principles in various research projects, such as my work on the design of multi-function 3D piezoelectric devices for aeronautical applications. This experience has allowed me to develop a practical understanding of how multivariate mathematics can be applied to real-world engineering problems.
+85 characters remaining
+Probability and Statistics
+Probability and Statistics: I have a strong background in probability and statistics, which I have acquired through both coursework and research. In my undergraduate studies, I completed advanced courses in probability theory and statistical analysis. I have also applied these concepts in my research projects, such as my work on characterizing damping mechanisms in piezoelectric wind-energy harvesters. I have experience in data collection, analysis, and interpretation, and I am proficient in statistical software packages such as R and Python. I am confident in my ability to apply statistical methods to analyze complex data sets and draw meaningful conclusions.
+82 characters remaining
+Computation (including fundamentals of computer science and software engineering)
+Computation: I have a solid foundation in the fundamentals of computer science and software engineering. In addition to coursework in programming languages such as C++ and Java, I have practical experience in coding through my research projects. I have utilized computational fluid dynamics (CFD) simulations, developed data capture systems, and assisted graduate students with computer technology capabilities. I am proficient in MATLAB, Python, and other programming languages commonly used in scientific research. My experience in computation has allowed me to effectively analyze and visualize data, as well as develop computational models to solve complex engineering problems.
+68 characters remaining
+=====
