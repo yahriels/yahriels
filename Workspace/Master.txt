@@ -4,8 +4,8 @@ MASTER SCRIPT :
 Block 0: README
 > Ownership: This Script was written by Yahriel Salinas-Reyes ~Y.Salinas-Reyes '23
 > First Author: Yahriel Salinas-Reyes
-> Purpose: Create a comprehensive Statement of Purpose for Yahriel Salinas-Reyes' PhD Application to Harvard University.
-> Mission: Craft a compelling narrative that showcases Yahriel's dedication to Computational and Data-Enabled Sciences, with a focus on Neuroscience and Mathematical Sciences.
+> Purpose: Create a comprehensive Statement of Purpose for Yahriel Salinas-Reyes' PhD Application to Selected Graduate Program.
+> Mission: Craft a compelling narrative that showcases Yahriel's dedication to Proposed Field of Study and Graduate Program
 > Objectives: Fulfill all outlined prompts and executive tasks to produce a high-quality statement aligned with Harvard's application requirements.
 
 Block 1: MASTER
