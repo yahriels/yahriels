@@ -1,6 +1,25 @@
 Massachussetts Institute of Technology PhD Graduate School Application MIT-WHOI Joint Program in Oceanography and Proposed Field of Study in Applied Ocean Science and Engineering
 
+Program
 
+MIT-WHOI Joint Program in Oceanography - Applied Ocean Science and Engineering
+Degree Objective
+
+Doctoral
+Thank you for your interest in the Massachusetts Institute of Technology (MIT) - Woods Hole Oceanographic Institution (WHOI) Joint Program in Oceanography/Applied Ocean Science and Engineering.
+
+For detailed application instructions for the MIT-WHOI Joint Program, please visit: https://mit.whoi.edu/admissions/apply/how-to-apply/. 
+
+Entry Semester
+
+Summer 2024
+First Choice of Research Discipline
+
+Applied Ocean Science and Engineering (AOSE)
+
+Preferred MIT Department
+Aeronautics and Astronautics
+Mechanical Engineering
 
 Academic History
 ----
@@ -13,23 +32,30 @@ List academic honors you have received:
 5. The FIRST Robotics Competion (FRC) Worlds Championship Rookie Inspiration and Rookie All-Star Awards (International-Level Award) &The Youth Leaderhip Community Award Recieved From The Iowa Department of Human Rights: State of Iowa Youth Advisroy Council (SIYAC)
 Applications to Other Universities and Programs
 Other universities to which you are applying (include name and program):
-1. MIT - HST MEMP PhD Program
+1. MIT-Harvard Health Sciences and Technology (Harvard-MIT Joint Program)
 2. Stanford University - Neuroscience and Biomedical Data Science/Informatics
 3. Caltech - Computation and Neural Systems
 
-Other Harvard Schools to which you are applying:
-Harvard Medical School
+Other Schools to which you are applying:
+Health Sciences and Technology (Harvard-MIT Joint Program)
+
+
 
 ----
-Department 1: https://hst.mit.edu/academic-programs/memp
-Department 2: https://www.hms.harvard.edu/md_phd/
+Department 1: https://aeroastro.mit.edu/
+Department 2: https://meche.mit.edu/
 ====
 ----
-Applying to Harvard: https://gsas.harvard.edu/apply/applying-degree-programs/completing-your-application/statement-purpose-personal-statement-and
+Applying to MIT-WHOI Program: https://mit.whoi.edu/admissions/program-description/
+Applying to MIT Joint Program: https://mit.whoi.edu/academics/fields/aope/
 Applying to Bioastronautics Program: https://hst.mit.edu/academic-programs/memp/bioastronautics-training-program
-Applying to Harvard Medical School: https://www.hms.harvard.edu/md_phd/program/index.html
 ----
 Other Resources and Helpful Links:
+https://mitcommlab.mit.edu/nse/wp-content/uploads/sites/4/2016/09/NSE_CommKit_GradSchool_Personal_Statement_AAE1.pdf
+https://mitcommlab.mit.edu/eecs/commkit/graduate-school-personal-statement/
+https://mitcommlab.mit.edu/meche/commkit/statement-of-purpose-for-graduate-school/
+https://medium.com/@robosquiggles/i-got-into-mit-with-this-statement-of-purpose-509e9d2e9fce
+https://medium.com/mit-media-lab/statement-of-objectives-1ff8dff39704
 https://scholar.harvard.edu/files/yuhuawang/files/writing_statement_of_purpose_for_graduate_school_application_2021_yuhua_wang_0.pdf
 https://www.hsph.harvard.edu/career-services/wp-content/uploads/sites/36/2016/06/Writing-a-Graduate-School-Application-Essay-Guide_Nov-20151.pdf
 https://bemoacademicconsulting.com/blog/harvard-grad-school-personal-statement-examples
@@ -40,7 +66,7 @@ https://www.azent.com/expert-tips/sop-harvard-university
 Author Credentials and Relevant Background, which consists 
 of Academic, Professional, and Research Experience: Yahriel’s Intellectual Background: 
 Aerospace and Aeronautical Engineering or Rocket Scientist with a Research and Development 
-Experiences. These experiences are in the fields of: Data Science and Machine Learning; Modern 
+Experiences and 10 Hours of Flight Experience as Navigation Systems Test Pilot for The American Institute of Aeronautics and Astronautics (AIAA). These experiences are in the fields of: Data Science and Machine Learning; Modern 
 Design of Aerospace and Propulsion Systems; Interfacial Phenomena and Chaos Theory; 
 Nanotechnology and Materials Science-Engineering; Applied Quantum Mechanics and Nature 
 Physics; Thermodynamic Modeling and Finite-Element-Analysis; Signals and Controls Systems 
@@ -51,7 +77,7 @@ Engineering; and Micro-electro-mechanical systems (MEMS).
 Personal Page: 
 https://github.com/yahriels 
 Personal Repository: 
-https://github.com/yahriels/yahriels/tree/181d70996b175c813c28770a361453c192fb5a06 
+https://github.com/yahriels/yahriels
 Library and Data Sources: 
 
 Resources: 
@@ -64,7 +90,7 @@ Read all materials (a few times, without distractions). Prepare a task list with
 complete the tasks. Understand how application components and each item requested relate to 
 the review criteria. 
 } 
-GRFP Proposed Field of Study: 
+Other Proposed Fields of Study: 
 { 
 Pursuing STEM field: Division of Mathematical Sciences (DMS) Field of Study 1: DMS: Computational and Date-Enabled Sciences Field of Study 
 2: Comp/IS/Eng: Algorithms and Theoretical Foundations Field of Study 3: Comp/IS/Eng: 
@@ -94,11 +120,9 @@ The recommended length is 1.5-2.5 pages single-spaced.
 --
 Faculty: Please select up to 6 faculty you are interested in working with in the Joint Program. 
 {
-
+https://mit.whoi.edu/academics/fields/aope/aope-faculty/
 }
 ====
-
-
 
 Format-Sample: 
 { 
@@ -128,7 +152,6 @@ FIRST-PERSON LANGUAGE AS YAHRIEL SALINAS-REYES THE APPLICANT.
 - Based on the writings and topics, author a high-level response to include all the discussions, writings, and ideas you developed and/or that are available into the writing or response.
 }
 
-
 Executive Tasks: 
 {
 - Use and mix all the provided information here: as a central theme in the writing process. 
@@ -136,7 +159,6 @@ Executive Tasks:
 words in a high-level writing to include all the discussions, writings, and ideas you developed 
 and/or that are available into the [Draft] for Yahriel Salinas-Reyes. [Draft] of Yahriel Salinas-Reyes for Fellowship Program do not spare details. 
 - Use this Template and remix the Format-Sample to help you format your answer: 
-
 - Act as Chief Editor and Reviewer and review the General Review Criteria and Details, next Provide feedback and instructions to help strengthen this writing. 
 - Make edits according to the feedback and instructions given from the Chief Editor and formulate the final responses for each prompt.
 }
