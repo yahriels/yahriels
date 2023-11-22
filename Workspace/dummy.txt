@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Massachussetts Institute of Technology PhD Graduate School Application MIT-WHOI Joint Program in Oceanography and Proposed Field of Study in Applied Ocean Science and Engineering
 
 Program
@@ -5,6 +6,14 @@ MIT-WHOI Joint Program in Oceanography - Applied Ocean Science and Engineering
 
 Degree Objective
 Doctoral
+=======
+
+Harvard University PhD Graduate School Application and Proposed Field of Study
+
+Field of Study 1: Engineering and Applied Sciences (SEAS) in Applied Mathematics
+Field of Study 2 : Biophysics
+Field of Study 3: Division of Medical Sciences
+>>>>>>> refs/remotes/origin/main
 
 Thank you for your interest in the Massachusetts Institute of Technology (MIT) - Woods Hole Oceanographic Institution (WHOI) Joint Program in Oceanography/Applied Ocean Science and Engineering.
 For detailed application instructions for the MIT-WHOI Joint Program, please visit: https://mit.whoi.edu/admissions/apply/how-to-apply/. 
@@ -12,12 +21,17 @@ For detailed application instructions for the MIT-WHOI Joint Program, please vis
 Entry Semester
 Summer 2024
 
+<<<<<<< HEAD
 First Choice of Research Discipline
 Applied Ocean Science and Engineering (AOSE)
 
 Preferred MIT Department
 Aeronautics and Astronautics
 Mechanical Engineering
+=======
+Somewhat interested
+Natural and Artificial Intelligence
+>>>>>>> refs/remotes/origin/main
 
 Academic History
 ----
@@ -37,11 +51,17 @@ Other universities to which you are applying (include name and program):
 Other Schools to which you are applying:
 Health Sciences and Technology (Harvard-MIT Joint Program)
 
+<<<<<<< HEAD
 
 
 ----
 Department 1: https://aeroastro.mit.edu/
 Department 2: https://meche.mit.edu/
+=======
+----
+Department 1: https://hst.mit.edu/academic-programs/memp
+Department 2: https://www.hms.harvard.edu/md_phd/
+>>>>>>> refs/remotes/origin/main
 ====
 ----
 Applying to MIT-WHOI Program: https://mit.whoi.edu/admissions/program-description/
@@ -64,7 +84,11 @@ https://www.azent.com/expert-tips/sop-harvard-university
 Author Credentials and Relevant Background, which consists 
 of Academic, Professional, and Research Experience: Yahriel’s Intellectual Background: 
 Aerospace and Aeronautical Engineering or Rocket Scientist with a Research and Development 
+<<<<<<< HEAD
 Experiences and 10 Hours of Flight Experience as Navigation Systems Test Pilot for The American Institute of Aeronautics and Astronautics (AIAA). These experiences are in the fields of: Data Science and Machine Learning; Modern 
+=======
+Experiences. These experiences are in the fields of: Data Science and Machine Learning; Modern 
+>>>>>>> refs/remotes/origin/main
 Design of Aerospace and Propulsion Systems; Interfacial Phenomena and Chaos Theory; 
 Nanotechnology and Materials Science-Engineering; Applied Quantum Mechanics and Nature 
 Physics; Thermodynamic Modeling and Finite-Element-Analysis; Signals and Controls Systems 
@@ -75,7 +99,11 @@ Engineering; and Micro-electro-mechanical systems (MEMS).
 Personal Page: 
 https://github.com/yahriels 
 Personal Repository: 
+<<<<<<< HEAD
 https://github.com/yahriels/yahriels
+=======
+https://github.com/yahriels/yahriels/tree/181d70996b175c813c28770a361453c192fb5a06 
+>>>>>>> refs/remotes/origin/main
 Library and Data Sources: 
 
 Resources: 
@@ -88,7 +116,11 @@ Read all materials (a few times, without distractions). Prepare a task list with
 complete the tasks. Understand how application components and each item requested relate to 
 the review criteria. 
 } 
+<<<<<<< HEAD
 Other Proposed Fields of Study: 
+=======
+GRFP Proposed Field of Study: 
+>>>>>>> refs/remotes/origin/main
 { 
 Pursuing STEM field: Division of Mathematical Sciences (DMS) Field of Study 1: DMS: Computational and Date-Enabled Sciences Field of Study 
 2: Comp/IS/Eng: Algorithms and Theoretical Foundations Field of Study 3: Comp/IS/Eng: 
@@ -109,6 +141,67 @@ studies which may offset slightly lower academic records or add luster to outsta
 High moral and ethical values. Leverage demonstration of the difference the award of the Hertz 
 Fellowship is likely to make in the kind, quality, and/or personal creativity of the student's 
 graduate research.
+<<<<<<< HEAD
+=======
+} 
+
+----
+Statement of Purpose
+The statement of purpose is very important to programs when deciding whether to admit a candidate. Your statement should be focused, informative, and convey your research interests and qualifications. You should describe your reasons and motivations for pursuing a graduate degree in your chosen degree program, noting the experiences that shaped your research ambitions, indicating briefly your career objectives, and concisely stating your past work in your intended field of study and in related fields. Your degree program of interest may have specific guidance or requirements for the statement of purpose, so be sure to review the degree program page for more information. Unless otherwise noted, your statement should not exceed 1,000 words.
+----
+Personal Statement
+A core part of the Harvard Griffin GSAS mission is to identify and attract the most promising students to form a dynamic and diverse community. We are committed to educating individuals who reflect the growing diversity of perspectives and life experiences represented in society today and who will contribute to our commitment to sustain a welcoming, supportive, and inclusive environment. Please share how your experiences or activities will advance our mission and commitment. (No longer than 500 words)
+----
+
+
+STATEMENT OF PURPOSE: 
+{
+Let's create a comprehensive prompt that aligns with the Statement of Purpose and incorporates the provided samples and tasks:
+
+As Yahriel Salinas-Reyes, a graduate Aerospace, Aeronautical, and Mechanical Engineering student specializing in Neuroscience and Mathematical Sciences within the field of Computational and Data-Enabled Sciences, your statement of purpose should serve as a comprehensive narrative that highlights your qualifications, motivations, and research interests. In your response, adhere to the following guidelines:
+
+Prompt for Yahriel Salinas-Reyes's Statement of Purpose:
+
+"As Yahriel Salinas-Reyes, a prospective graduate student in the field of Computational and Data-Enabled Sciences within the Division of Mathematical Sciences (DMS), craft a compelling Statement of Purpose that adheres to the following guidelines:
+
+Introduction (Approx. 200 words):
+
+Open with a captivating personal story that highlights your dedication to the field of Computational and Data-Enabled Sciences.
+Foreshadow the broader impacts of your experiences and research ambitions.
+Research Contributions and Outcomes (Approx. 400 words):
+
+Share your personal contributions and outcomes of your research endeavors, emphasizing quantitative and concrete achievements.
+Utilize action verbs to express your aptitude for graduate work in Aerospace, Aeronautical, and Mechanical Engineering, Neuroscience, and Mathematical Sciences.
+Skills and Accomplishments (Approx. 300 words):
+
+Provide a concrete statement of your skills and accomplishments, showcasing your expertise in various fields, including Data Science, Machine Learning, Robotics, and more.
+Broader Impacts (Approx. 300 words):
+
+Establish a personal link to broader impacts, making yourself particularly compelling to the reviewing panel.
+Discuss current efforts in broader impacts and hint at future contributions.
+Broader Career Goals (Approx. 200 words):
+
+Wrap up the statement by outlining your broader career goals in research and broader impacts, tying them back to your personal story and experiences.
+Significance of Backgrounds and Goals (Approx. 400 words):
+
+Delve into the significance of your Personal Background, Relevant Background, and Future Goals, providing rich details about each.
+Intellectual Merit and Broader Impacts (Approx. 300 words):
+
+Discuss the significance of your proposed research's Intellectual Merit and Broader Impacts, considering the potential advancements in knowledge and societal contributions.
+Ensure that your statement does not exceed 1,000 words and aligns with the specific requirements and preferences outlined in the provided samples. Use first-person language throughout and avoid the use of headings or subheadings. This statement should serve as a compelling and comprehensive representation of your qualifications and motivations for pursuing a graduate degree in Computational and Data-Enabled Sciences."
+
+After Yahriel Salinas-Reyes completes the statement, it can be further refined and expanded based on the feedback received during the review process.
+
+Remember, the statement of purpose should be at least 995 words but not exceed 1,000 words. Be sure to review the specific guidance or requirements for the degree program you are applying to.
+} 
+
+Format-Sample: 
+{ 
+Nature’s Chaos Game: An Existentialist Approach Informed by Mathematics and Neurobiology Introduction: Mental health disorders represent a profound challenge to contemporary society, impacting millions of lives worldwide. The task at hand requires not only medical and psychological insights but also the transformative power of science and biological anthroengineering. This proposed research operates at the crossroads of diverse scientific disciplines, with two primary objectives: first, to decode the intricate neurobiological landscape of schizophrenia, and second, to uncover the genetic and molecular mechanisms governing the synthesis of potential natural antidepressants found in grapes. Both endeavors share a common purpose: to deepen global scientific understanding of mental health and ultimately enhance the lives of those impacted by these conditions. Connectivity and Chaos: To reach the edge of chaos and perform this these tasks, I incentivize the scientific investigation by applying guiding principles for a closed system. By leveraging my expertise in thermodynamic modeling and finite-element analysis, I will create detailed simulations of brain anatomical structures, encompassing a wide range of experimental conditions and designs. Let 𝛴 be smooth oriented surface that is bounded, 𝜕𝛴 ≡ 𝛤, then we invoke boundary conditions. Furthermore, entropy, represented by 𝑆, is a measure of morphology or order in the system, 𝜕𝑆 ≡ 𝑁; I validate this mathematical theorem with the second set of equations. My background in signals and control systems engineering will enable the development of advanced control mechanisms to enhance adaptability and safety in the pathology of schizophrenia and global public health treatments. Aerospace engineering expertise shall facilitate neuroplasticity investigations & neuro-mechanistic modeling. Governing Equations: [1] Energy: 𝛷𝐸 = ∯ 𝐸 ⋅ ⅆ𝐴, [2] Mobility: ∬ (𝛻 × 𝐹) ⋅ ⅆ𝛴 𝛴 = ∮ 𝐹 ⋅ ⅆ𝛤 𝜕𝛴 , and [3]Continuity: ∭ (𝛻 ⋅ 𝐹) ⅆ𝑉 𝑉 = ∯ (𝐹 ⋅ 𝑛̂) ⋅ ⅆ𝑆 𝑆 . Chaos Theory: [4] Chaos-Game: 𝑥𝑛+1 = 𝜆𝑥𝑛 (1 − 𝑥𝑛 ), [5] Mandelbrot-Set: 𝑍𝑛+1 = 𝑍𝑛 2 + 𝐶, and [6] Fractals: 𝐷 = 𝑙𝑜𝑔 𝑁 / 𝑙𝑜𝑔 𝑆. Research Plan: My research hinges on a robust mathematical framework, critical for analyzing intricate data derived from both scientific pursuits. The application of Monte Carlo Integration, Mandelbrot's Fractal Geometry of Nature, and artificial intelligence techniques empowers us to model and analyze the intricate data from these two distinct yet interconnected research streams. The research plan will unfold over five years: Year 1: Data collection and establishment of the research framework. Year 2: Neuroimaging and genetic data analysis. Year 3: Development of mathematical models. Year 4: Validation of models and refinement of findings. Year 5: Publication of research results, collaboration with international partners, and educational outreach initiatives. Intellectual Merit: This research project is poised to make significant contributions to both the intellectual merit criterion and the broader impacts criterion, addressing the points outlined in the application review process. Here's how it aligns with the five key components: Potential to Advance Knowledge: Our multidisciplinary approach, combining precision biology, cutting-edge technology, and mathematical frameworks, brings innovation to the study of mental health. By decoding the complex etiology of schizophrenia, will offer fresh insights into this debilitating disorder. Furthermore, I will delve into the genetic and molecular basis of natural antidepressants found in grapes, pioneering potential natural alternatives for mental health treatment. Innovation: Our research is underpinned by innovative mathematical frameworks, a convergence of neuroscience, genetics, and mathematical modeling. This synthesis of diverse disciplines fosters innovation, promising novel findings that can revolutionize the diagnosis and treatment of schizophrenia and potentially provide safer alternatives for individuals affected by mental health disorders. Detailed Plan: Our comprehensive research plan, spanning five years, encompasses data collection, advanced analysis, model development, and validation. The plan is characterized by its systematic and strategic approach, with built-in measures of success to ensure the Figure 1. Morphological-Anatomical Features Connectivity attainment of meaningful results. Qualifications: My rich tapestry of academic, professional, and research experience, spanning the fields of aerospace engineering, data science, quantum mechanics, and robotics, equips me with the skills and knowledge necessary to undertake this ambitious research. Ability to Execute Research: The research plan includes collaboration with experts in relevant fields, ensuring that we have the necessary expertise to execute the research successfully. Additionally, the proposed timeline provides ample time for each phase of the project, ensuring thorough and methodical execution. Broader Impacts: Beyond scientific advancement, this research project has broader societal impacts. It has the potential to: Advance Mental Health Care: By deepening our understanding of schizophrenia and identifying potential natural antidepressants, this research can pave the way for more effective diagnosis, treatment, and prevention strategies. Foster Collaboration: International collaboration with researchers promotes knowledge sharing and a diverse perspective on mental health research. This engagement creates a global community of scientists working together to address mental health challenges. Educational Outreach: The project's outreach initiatives will inspire future scientists and promote diversity and inclusion in STEM fields. By showcasing the power of multidisciplinary research, we aim to encourage the next generation to take an interest in similar innovative approaches. Precision Medicine: By identifying the genetic and neural factors contributing to schizophrenia, this research can contribute to the development of precision medicine approaches tailored to individual patients, enhancing the effectiveness of treatment. Global Mental Health: The research has the potential to improve the lives of individuals affected by schizophrenia worldwide, addressing a global mental health challenge. Our findings can be translated into practical solutions for societies worldwide. Conclusion: The proposed research, an ambitious undertaking at the intersection of mathematics, biology, and mental health, holds great promise for enhancing our understanding of schizophrenia and the potential natural antidepressants found in grapes. This research endeavor utilizes an existential perspective by incorporating various methodologies. Intradisciplinary: etiologists and engineers work within their respective fields. Multidisciplinary, etiologists and engineers work within their respective fields to address a larger issue. Cross-disciplinary: etiologists investigate issues within engineering, and engineers investigate issues within etiology. Interdisciplinary: etiologists, engineers, etiologists turned engineers and engineers turned anthropologists seamlessly use both disciplines, simultaneously, to address larger issues. This transformative project embodies a commitment to precision science, multidisciplinary collaboration, and societal progress. As I embark on this journey, I anticipate significant contributions to our knowledge of these subjects and look forward to making a positive impact on the lives of those affected by these conditions. References: (1) Zueva, M. V. (2015). Fractality of sensations and brain health: the theory linking neurodegenerative disorder with distortion of spatial and temporal scale-invariance and fractal complexity of the visible world. Front. Aging Neurosci, 7, 135. (2) Hancock, F. (2023). Metastability as a candidate neuromechanistic biomarker of schizophrenia pathology. PLoS One, 18(3), e0282707. (3) Regenbogen, C. (2015). The differential contribution of facial expressions, prosody, and speech content to empathy. Cognition and Emotion, 29(6), 1045-1056. (4) John JP (2015) A systematic evaluation of the frontal eye field as an endophenotype of schizophrenia: An fMRI study. Schizophrenia Research, 165(1), 79-84. (5) Mandelbrot, B. B. (1982). The Fractal Geometry of Nature. W. H. Freeman. (6) Kramer P and Berthaume M (2021) Introduction to the theme issue ‘Biological anthroengineering’, Interface Focus, 11:5. (7) Brown, R. E., & White, D. (2020). Grapes as Natural Antidepressants: Investigating the Molecular Mechanisms. Journal of Nutritional Neuroscience, 35(4), 287-299
+
+Statement of Grant Purpose Yahriel Salinas-Reyes, Host Country: Mexico, Field: Molecular & Systems Bioengineering Project Title: Unraveling the Molecular Code of Natural Antidepressants in Grapes In the ever-evolving world of scientific inquiry, certain moments emerge as profound intersections of human ingenuity, scientific inquiry, and the enigmatic wonders of nature. Encapsulated within this project is one such moment. With a central focus on unraveling the molecular code of grapes to find the compounds responsible for its potential natural antidepressant properties, Yahriel Salinas-Reyes aims to foster innovation in treatments for mental health disorders and conditions. Also encompassed in the project is an investigation into the nature of schizophrenia and the complexities of neuroplasticity, in hopes of advancing understanding of the mental illness. The overarching goal is to address the mounting global health crisis presented by mental health disorders, including depression and schizophrenia, which have surged to an unprecedented global health crisis significantly diminishing the quality of life for millions and placing immense pressure on healthcare systems worldwide. At its core, the project is driven by the ambition to conduct a comprehensive molecular analysis of grapes, with a particular emphasis on understanding the genetic and molecular mechanisms governing the synthesis of antioxidants. Grapes have garnered scientific interest due to their potential health benefits and their recent recognition as potential natural antidepressants. Yahriel's unique background in aerospace engineering and micro-electro-mechanical systems (MEMS) equips him with the precision and expertise required to delve into the microscopic realm of chromosomes and molecules—an essential prerequisite for unveiling the genetic secrets grapes hold. To fulfill the project's objectives, advanced techniques in molecular biology and biotechnology systems engineering will be employed. The primary goal is to pinpoint the specific compounds within grapes responsible for their potential antidepressant properties, involving their isolation and characterization to illuminate their mechanisms of action within the brain. The aim is to identify practical applications for mental health treatment by comprehending the genetic and molecular foundation of natural antidepressant production in grapes. Concurrently, this research adopts a multifaceted approach to unravel the complexities of schizophrenia, a debilitating and chronic mental disorder characterized by symptoms such as delusions, hallucinations, disorganized speech, and cognitive deficits. At the heart of schizophrenia's enduring enigma are Bleuler's four A's: Alogia, Autism, Ambivalence, and Affect blunting. Extensive research has explored the etiology of schizophrenia, leading to the emergence of three prominent theories: genetic, neurodevelopmental, and neurobiological. Each theory offers a distinct perspective on the origins of this complex disorder, making it challenging to pinpoint a single causative factor. Nonetheless, neurobiological theory has gained prominence due to its comprehensive approach, explaining schizophrenia as a result of abnormal brain dysfunctions or structural anomalies. This theory stands on solid scientific ground, holds promise in guiding treatment strategies, transcends cultural and demographic boundaries, and raises fewer ethical concerns compared to alternative theories. Structural and functional abnormalities in key brain systems (i.e., the prefrontal & medial temporal lobes) play a pivotal role in the manifestation of schizophrenia symptoms that are integral to working memory and declarative memory processes. The disrupted functioning contributes to cognitive impairments and emotional dysregulation in individuals with schizophrenia. In the quest to understand schizophrenia, neuroplasticity—the brain's remarkable capacity to adapt and reorganize itself in Salinas-Reyes, Statement of Grant Purpose, Page 2 response to learning, experiences, and environmental changes—emerges as a crucial factor operating at various levels, from synaptic plasticity, where the strength of connections between neurons is modified, to large-scale changes in brain structure and function. In the context of schizophrenia, neuroplasticity offers hope for improving cognitive functioning and overall quality of life for affected individuals. Research has shown that cognitive remediation therapies— which harness neuroplasticity—can lead to improvements in cognitive domains such as memory, attention, and problem-solving, mitigating some of the cognitive impairments associated with the disorder. This project is founded on the belief that nature holds the key to addressing complex health challenges, including mental health disorders like depression and schizophrenia, and seeks to explore the potential of grapes as a source of natural antidepressants.. One intriguing entry point into the complex world of grape biochemistry is through the study of yeast used in wine production, which plays a pivotal role in the fermentation process, and influences the composition of compounds within grapes. Scientific evidence unveiled that certain molecular compounds in the antioxidants act as natural antidepressants but there lacks initiative to utilize these antioxidant agents in psychiatric institutions and practical methods. By employing advanced techniques such as neuroimaging, fractal geometry, and spectral analysis, the project aims to unveil underlying patterns and causative factors associated with depression and related mental health conditions. The significance of this research extends far beyond the development of new treatments. It encompasses a broader understanding of the intricate relationship between food, biochemistry, and mental health. This knowledge has the potential to inform dietary recommendations that promote mental well-being, potentially reducing the global prevalence of these disorders. Yahriel, and the research team at the university Tecnológico de Monterrey endeavor to decode the molecular secrets of nature to improve the human condition, particularly for individuals affected by schizophrenia and other mental health disorders. Yahriel's work represents a convergence of scientific rigor, interdisciplinary collaboration, and a profound commitment to the betterment of human well-being. Furthermore, this research holds the potential to strengthen international collaborations between the U.S. and Mexico. By conducting research at Tecnológico de Monterrey, Yahriel can contribute to the exchange of knowledge and ideas between the two countries, fostering a stronger global community which reflects the essence of the Fulbright mission, emphasizing mutual understanding and collaboration between nations. Yahriel Salinas-Reyes' Fulbright-Garcia Robles Open Study/Research Award proposal represents a unique and ambitious endeavor to explore the natural antidepressant properties of grapes. Grounded in the principles of interdisciplinary research, this project not only has the potential to transform mental health treatment but also to deepen our understanding of the brain's plasticity. It is a testament to the power of collaboration and cultural exchange in the pursuit of knowledge and the betterment of human well-being. Yahriel's unwavering commitment to utilizing opportunities to their fullest and to serve as a cultural diplomat, bridging gaps between different fields and nations, promises to unlock the molecular code of nature and take meaningful strides toward a healthier and more fulfilling world for all. Yahriel's proposal represents a remarkable opportunity to weave together science, innovation, and compassion in the quest to decipher the extraordinary truths hidden within the universe's code
+
+>>>>>>> refs/remotes/origin/main
 } 
 
 ====
@@ -149,6 +242,7 @@ FIRST-PERSON LANGUAGE AS YAHRIEL SALINAS-REYES THE APPLICANT.
 - Discuss the significance of Intellectual Merit and Broader Impacts of Yahriel Salinas-Reyes 
 - Based on the writings and topics, author a high-level response to include all the discussions, writings, and ideas you developed and/or that are available into the writing or response.
 }
+
 
 Executive Tasks: 
 {
