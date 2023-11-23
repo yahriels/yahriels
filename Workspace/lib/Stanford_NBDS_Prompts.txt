@@ -169,7 +169,8 @@ https://github.com/yahriels
 Personal Repository: 
 https://github.com/yahriels/yahriels
 Library and Data Sources: 
-
+> Author History: [GitHub README](https://github.com/yahriels/yahriels#readme)
+> Resources AND Additional Materials: [Personal Page](https://github.com/yahriels), [Resume/CV](https://github.com/yahriels/yahriels/blob/main/General_CV.pdf) [Experiences](https://github.com/yahriels/yahriels/blob/main/Experiences.pdf) [Workspace](https://github.com/yahriels/yahriels/tree/main/Workspace)
 Resources: 
 
 Application Purpose: 
@@ -303,7 +304,7 @@ Block 2: Library AND Databases
 > Author Credentials: Yahriel Salinas-Reyes, Bachelor of Aerospace and Aeronautical Engineering from Iowa State University of Science and Technology, Pursuing a Doctorate of Neuroscience in the Division of Mathematical Sciences (DMS) with a specialization on Computational and Data-eneabled Sciences, Biomedical Data-science and Bioinformatics, Theory and Algorithms of Scientific Computing.
 > Author Profile: [LinkedIn Profile](https://www.linkedin.com/in/yahriel-salinas-reyes-89ab38179/)
 > Author History: [GitHub README](https://github.com/yahriels/yahriels#readme)
-> Resources AND Additional Materials: [Personal Page](https://github.com/yahriels), [Resume/CV](https://github.com/yahriels/yahriels/blob/main/General_CV.pdf)
+> Resources AND Additional Materials: [Personal Page](https://github.com/yahriels), [Resume/CV](https://github.com/yahriels/yahriels/blob/main/General_CV.pdf) [Experiences](https://github.com/yahriels/yahriels/blob/main/Experiences.pdf) [Workspace](https://github.com/yahriels/yahriels/tree/main/Workspace)
 > Reviewer Details AND Selection Criteria: To be determined based on specific prompts.
 
 Block 3: Purpose of Response AND Review Guidelines
