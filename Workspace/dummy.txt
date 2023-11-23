@@ -1,41 +1,144 @@
+Stanford University PhD Graduate School Application for Neurosciences and Biomedical Data Science PhD Programs.
 
-Academic History
-----
-Academic Honors
-List academic honors you have received:
-1. The Ronald E. McNair Postbaccalaureate Achievement Program Scholar & The Barry Goldwater Scholarship and Excellence in Education Foundation Finalist
-2. The Boeing Research in Excellence and Technology Fellowship Program (RETF) Scholar & Micro-g Neutral Buoyancy Experiment Design Teams (NExT) Challenge Competition Finalist
-3. The Summer Undergraduate Research Fellowship Program (SURF) Scholar at Stanford University & California Institute of Technology
-4. The Louis Stokes Alliances for Minority Participation (LSAMP) Fellowship Program Scholar & Undergraduate Research Certificate Recipient Awarded by Iowa State University's IINSPIRE-LSAMP Partnership
-6. Iowa State University Engineering Student Council: The Order of The Engineer, Undergraduate Seniors and Graduate students planning to graduate in Fall 2023, the Engineering Student Council will host the Order of the Engineer for graduating engineering students, where they can take an oath of ethics in their engineering careers. Each participant will also receive a ring to commemorate their commitment. This is conducted during your final semester of enrollment for graduating engineering students and graduate students. The Order of the Engineer was initiated in the United States to foster a spirit of pride and responsibility in the engineering profession, bridge the gap between training and experience, and present a visible symbol identifying the engineer to the public. Order of the Engineer fosters the understanding that being a licensed professional engineer means more than just holding a certificate and possessing technical competence. It is a commitment to hold the public health, safety, and welfare above all other considerations.
-5. The FIRST Robotics Competion (FRC) Worlds Championship Rookie Inspiration and Rookie All-Star Awards (International-Level Award) &The Youth Leaderhip Community Award Recieved From The Iowa Department of Human Rights: State of Iowa Youth Advisroy Council (SIYAC)
-Applications to Other Universities and Programs
-Other universities to which you are applying (include name and program):
-1. MIT-Harvard Health Sciences and Technology (Harvard-MIT Joint Program)
-2. Stanford University - Neuroscience and Biomedical Data Science/Informatics
-3. Caltech - Computation and Neural Systems
+Degree Program
+Neurosciences (PhD)
+The program you selected is one of the 14 Home Programs offered under Biosciences.
 
-Other Schools to which you are applying:
-Health Sciences and Technology (Harvard-MIT Joint Program)
+The Stanford Biosciences is an umbrella program that provides a single application and unified graduate training across a range of disciplines in biology and biomedical research. The Biosciences program encourages students to explore research opportunities, carry out rotations, and choose dissertation research in any of the 14 Home Programs. Each student is admitted to a particular Home Program, which then provides a primary academic base. Your program selection should be based on the alignment of your interests with a program's faculty, and the specifics of the program curriculum. Regardless of your Home Program, you have full access to faculty in all of the other Home Programs for laboratory rotations and potential thesis work.
+You are able to select one alternative Home Program. Only select a program if you have a genuine interest. Including a poorly matched program will not necessarily increase your chances of being accepted.
+Biomedical Data Science (PhD)
+Entry Term
+
+Autumn 2024-2025
 ----
-Academic Option 1
-Academic Option 2
-Academic Option 3
-Academic Option 4
-CMS Faculty #1
-CMS Faculty #2
-CMS Faculty #3
-Primary Area of Special Interest
-Secondary Area of Special Interest, if applicable
-Final Degree Objective
+Research Experience
+If you have prior research experience, provide details about each experience below. List experiences in order of significance to you, with the most meaningful experience listed first.
+
+You may list up to six experiences in this section. If you wish to share more, include this information in your resume/CV at the bottom of this page.
+Organization Name	Principal Investigator	Dates of Experience
+Add Research Experience
+Have you participated in any Stanford summer research or graduate preview programs? Select all that apply.
+Summer Undergraduate Research Fellowship (SURF) in Engineering
+What year(s) did you participate?
+2021
+
 ----
-Department 1: https://grad.berkeley.edu/program/computational-precision-health-jt-phd-joint-ucsf/
-Department 2: https://computationalhealth.berkeley.edu/admissions/
+Publications/Presentations/Posters
+If applicable, list any publications you have authored or presentations/posters you have delivered in order of significance to you, with the most meaningful listed first.
+
+You may list up to five publications/presentations/posters on this page. If you wish to share more, include this information in your resume/CV at the bottom of this page.
+Title	Type
+Add Publication/Presentation/Poster
+----
+Awards & Honors
+If applicable, list any awards or honors you have received.
+
+You may list up to six awards in this section. If you wish to share more, include this information in your resume/CV at the bottom of this page.
+Award/Honor	Date Received
+Add Award/Honor
+----
+Work Experience
+If you have prior work experience, provide details about each experience below. Experiences may include internships, part-time and full-time employment.
+
+You may list up to six experiences in this section. If you wish to share more, include this information in your resume/CV at the bottom of this page.
+Organization Name	Dates of Experience
+Add Work Experience
+----
+Resume/CV
+Upload your current resume/CV.
+----
+
 ====
+Department 1: https://biosciences.stanford.edu/
+Department 2: https://med.stanford.edu/
+====
+Applying to Neurosciences Program: https://med.stanford.edu/nbc/overview.html 
+Applying to Biomedical Data Science Program: https://dbds.stanford.edu/biomedical-data-science-graduate-program-overview/
+Applying to Bioengineering: https://bioengineering.stanford.edu/
+====
+Statement of Purpose
+Because each Home Program requires significant original research activities in fulfillment of the requirements for the PhD degree, the admissions committees are interested in obtaining as much information as possible about your previous research experiences. Those who already have such experience are in a better position to know whether they are truly interested in performing laboratory research as part of a graduate program. Please include specific information about your research experience in your Statement of Purpose. You may also use the Statement to amplify your comments about your choice of Home Program(s), and how your past experiences and current interests are related to your choice.
+The Statement of Purpose should not exceed two pages in length, single-spaced, and font size 12. Make sure to set your computer to Western European or other English-language settings. We cannot guarantee the ability to access your statement if it is submitted in other fonts. *
 ----
-Applying to Computational Precision Health Jt PhD (joint UCSF): https://grad.berkeley.edu/program/computational-precision-health-jt-phd-joint-ucsf/
-Applying to Computational Health: https://computationalhealth.berkeley.edu/phd-program/
-Applying to Berkeley Research Field: https://computationalhealth.berkeley.edu/research/
+Enriching the Learning Community
+Stanford University welcomes graduate applications from individuals with a broad range of experiences, interests, and backgrounds who would contribute to our community of scholars. We invite you to share the lived experiences, demonstrated values, perspectives, and/or activities that shape you as a scholar and would help you to make a distinctive contribution to Stanford University. 
+Your statement should not exceed 500 words in length.
+Limit of 500 words remaining
+====
+Faculty:
+{
+https://psychology.stanford.edu/researchdepartment-areas/neuroscience
+}
+====
+Program Supplemental
+The questions on this page are tailored to the program you selected earlier in the application:
+
+Neurosciences (PhD)
+Biomedical Data Science (PhD)
+
+If you intend to apply to a different program, please return to the Program Selection page to update your response.
+
+Required fields are indicated with *
+
+Neurosciences Interest
+Select the Neurosciences area that you have the most interest in.
+
+Systems Neurosciences
+Faculty Interests
+Please provide a rank-ordered list of eight to twelve Biosciences faculty of interest to you. The majority should be in your primary home program.
+Learn more about Biosciences faculty
+Faculty Member 1
+
+Faculty Member 2
+
+Faculty Member 3
+
+Faculty Member 4
+
+Faculty Member 5
+
+Faculty Member 6
+
+Faculty Member 7
+
+Faculty Member 8
+
+Faculty Member 9
+
+Faculty Member 10
+
+Faculty Member 11
+
+Faculty Member 12
+
+If you are interested in working with faculty members not listed above, you may include their names (Last, First) below.
+100 characters remaining
+----
+Describe an Interesting Biological or Biomedical Problem
+Please describe one unsolved biological or biomedical problem that you find interesting and explain why. It does not have to be related to your significant research project or any of your prior work. Your answer is not binding.
+Schizophrenia's profound impact on individuals and society has drawn me into its captivating realm. This intricate mental disorder, which disrupts perception, thinking, and behavior, holds immense significance for both science and psychiatry, affecting millions globally. Understanding it has far-reaching implications.
+
+Scientifically, unraveling schizophrenia involves studying genetics, neurobiology, and environmental factors. This multidisciplinary approach combines genetics, neuroscience, psychology, and computational modeling to gain insights and develop better tools and treatments. Recent technological advancements, like fMRI and PET scans, visualize brain abnormalities, aiding biomarker identification.
+
+Beyond the scientific realm, schizophrenia exerts a profound societal impact. Individuals grappling with schizophrenia encounter formidable personal and professional challenges, while their families and communities extend vital support and care. 
+
+In conclusion, schizophrenia presents an enthralling and formidable avenue for scientific exploration with profound implications for psychiatry. My expertise in data analysis, collaborative research, and dedication to mentorship align seamlessly with the skills essential to make a substantial impact in this field and underscore my capacity to apply rigorous analytical techniques to intricate problems. This aptitude is poised to play a pivotal role in investigating the intricate biological and genetic facets of schizophrenia.
+4 characters remaining
+Foundations of Graduate Study
+Responses to the following questions are only expected for those applying to Biomedical Data Science and/or the Immunology Computational and Systems Track, but others may respond as well.
+
+For each of the following areas, please describe your experience, as acquired through coursework, research, or other projects, or your plans for obtaining or expanding such experience, ideally before starting your PhD.
+Multivariate Mathematics (including Calculus and Linear Algebra)
+Multivariate Mathematics: Throughout my undergraduate studies in Aerospace Engineering, I completed rigorous coursework in Calculus and Linear Algebra. These courses provided me with a solid understanding of multivariate mathematics, including concepts such as vector calculus, partial derivatives, and matrix operations. Additionally, I have applied these mathematical principles in various research projects, such as my work on the design of multi-function 3D piezoelectric devices for aeronautical applications. This experience has allowed me to develop a practical understanding of how multivariate mathematics can be applied to real-world engineering problems.
+85 characters remaining
+Probability and Statistics
+Probability and Statistics: I have a strong background in probability and statistics, which I have acquired through both coursework and research. In my undergraduate studies, I completed advanced courses in probability theory and statistical analysis. I have also applied these concepts in my research projects, such as my work on characterizing damping mechanisms in piezoelectric wind-energy harvesters. I have experience in data collection, analysis, and interpretation, and I am proficient in statistical software packages such as R and Python. I am confident in my ability to apply statistical methods to analyze complex data sets and draw meaningful conclusions.
+82 characters remaining
+Computation (including fundamentals of computer science and software engineering)
+Computation: I have a solid foundation in the fundamentals of computer science and software engineering. In addition to coursework in programming languages such as C++ and Java, I have practical experience in coding through my research projects. I have utilized computational fluid dynamics (CFD) simulations, developed data capture systems, and assisted graduate students with computer technology capabilities. I am proficient in MATLAB, Python, and other programming languages commonly used in scientific research. My experience in computation has allowed me to effectively analyze and visualize data, as well as develop computational models to solve complex engineering problems.
+68 characters remaining
+=====
+
 ----
 Other Resources and Helpful Links:
 https://mitcommlab.mit.edu/nse/wp-content/uploads/sites/4/2016/09/NSE_CommKit_GradSchool_Personal_Statement_AAE1.pdf
@@ -99,40 +202,6 @@ High moral and ethical values. Leverage demonstration of the difference the awar
 Fellowship is likely to make in the kind, quality, and/or personal creativity of the student's 
 graduate research.
 } 
-
-====
-Statement of Purpose
-Please describe your aptitude and motivation for graduate study in your area of specialization, including your preparation for this field of study, your academic plans or research interests, and your future career goals. Please be specific about why UC Berkeley would be a good intellectual fit for you.
-----
-Personal History Statement
-Please describe how your personal background and experiences influenced your decision to pursue a graduate degree. In this section, you may also include any relevant information on the following:
-How you have overcome barriers to access higher education
-How you have come to understand the barriers faced by others
-Your academic service to advance equitable access to higher education for women, racial minorities and individuals from other groups that have been historically underrepresented in higher education
-Your research focusing on underserved populations or related issues of inequality
-Your leadership among such groups
-The Personal History Statement should not duplicate the Statement of Purpose.
-====
-
-==
-Academic or Professional History
---
-Please upload a recent version of your Resume or your Curriculum Vitae.
-Resume/Curriculum Vitae:
-
---
-Sampling of Relevant Written Work
-Please upload a sample of written work that is relevant to your application (e.g. seminar paper, report, magazine/newspaper article, book excerpt).
-Writing Sample:
-
---
-Publications and Presentations
-Publications/Presentations:
-Provide a list of publications and/or presentations related to your academic or professional background (include the PubMed ID if applicable). Please enter your most recent citation first.
---
-Honors and Awards
-Enter honors and awards relevant to your application to graduate study.
-==
 
 Format-Sample: 
 { 
