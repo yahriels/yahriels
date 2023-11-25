@@ -1,5 +1,6 @@
 
-Resume Building Resource Links:
+To Rebuild Yahriel's Resume Using These Building Resources:
+{
 https://www.kickresume.com/en/help-center/aerospace-engineer-resume-samples/
 https://www.jobhero.com/resume/examples/engineering/aerospace-engineer\
 https://www.myperfectresume.com/resume/examples/aviation/aeronautical-engineer
@@ -129,5 +130,5 @@ Annual Base in $U.S.
 Annual Bonus in $U.S.
 Hours/Week	
 Description	
-
 ----
+}
