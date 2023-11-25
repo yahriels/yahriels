@@ -44,16 +44,7 @@ https://www.gse.harvard.edu/sites/default/files/2023-09/Statement-of-Purpose.pdf
 https://www.azent.com/expert-tips/sop-harvard-university
 
 **LIBRARY,INCLUDES,RESOURCES** 
-Author Credentials and Relevant Background, which consists 
-of Academic, Professional, and Research Experience: Yahriel’s Intellectual Background: 
-Aerospace and Aeronautical Engineering or Rocket Scientist with a Research and Development 
-Experiences and 10 Hours of Flight Experience as Navigation Systems Test Pilot for The American Institute of Aeronautics and Astronautics (AIAA). These experiences are in the fields of: Data Science and Machine Learning; Modern 
-Design of Aerospace and Propulsion Systems; Interfacial Phenomena and Chaos Theory; 
-Nanotechnology and Materials Science-Engineering; Applied Quantum Mechanics and Nature 
-Physics; Thermodynamic Modeling and Finite-Element-Analysis; Signals and Controls Systems 
-Engineering; Expert in Robotics and Electrical Engineering; Computer Science and Software 
-Engineering; Computer and Information Technology Systems, Experimental Systems 
-Engineering; and Micro-electro-mechanical systems (MEMS). 
+
 
 Personal Page: 
 https://github.com/yahriels 

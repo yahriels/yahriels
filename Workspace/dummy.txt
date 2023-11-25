@@ -1,159 +1,125 @@
-Resume Building Resource Links:
-https://www.kickresume.com/en/help-center/aerospace-engineer-resume-samples/
-https://www.jobhero.com/resume/examples/engineering/aerospace-engineer\
-https://www.myperfectresume.com/resume/examples/aviation/aeronautical-engineer
-https://future.cce.caltech.edu/documents/16424/Preparing_a_Curriculum_Vitae.pdf
-https://careered.stanford.edu/sites/g/files/sbiybj22801/files/media/file/resume-and-cover-letter-examples.pdf
-https://web.stanford.edu/class/inde231/CVs%20and%20Cover%20Letters%2005-06.pdf
-https://hwpi.harvard.edu/files/ocs/files/phd_resume_cover_letters.pdf
-https://careerservices.fas.harvard.edu/channels/create-a-resume-cv-or-cover-letter/
-https://hwpi.harvard.edu/files/ocs/files/gsas-cvs-and-cover-letters.pdf
-https://careerservices.fas.harvard.edu/resources/masters-resume-cover-letter-template/
-https://www.gsd.harvard.edu/career/career-services-students/resume-tips/
-https://hwpi.harvard.edu/files/ocs/files/undergrad_resumes_and_cover_letters.pdf
-https://hwpi.harvard.edu/files/ocs/files/hes-resume-cover-letter-guide.pdf
-https://capd.mit.edu/channels/make-a-resume-cover-letter-cv/
-https://capd.mit.edu/resources/sample-resumes/
-https://capd.mit.edu/resources/resumes/
-https://capd.mit.edu/resources/cvs/
-https://mitcommlab.mit.edu/broad/commkit/cvresume/
-https://career.caltech.edu/documents/4985/Resume_Tips_Examples.doc.pdf
-https://career.caltech.edu/documents/4982/CV_Tips_Examples.pdf
-https://gradoffice.caltech.edu/admissions/checklist
 
-Yahriel Salinas-Reyes’ Intellectual Framework and Phases of Approach: 
-The framework consists of two phases to unravel the nature of intelligence.
-Phase I: Understanding The Divided Self and Existential Despair
-Header: A Trip Through Insanity - a perfectly rational adjustment to an insane world.
-Motivation: Schizophrenia cannot be understood without understanding despair. Children do not give up their innate imagination, curiosity, dreaminess easily. You have to love them to get them to do that. 
-Stage 1: Alogia – Poverty of Speech and Senses
-Stage 2: Autism –Realism and Logicism
-State 3: Ambivalence – State of Chaos and Hysteria
-State 4: Affect Blunting – Emotionless and Expressionless
-Outcome: Pandemonium and Complete Fracturing of The Self and Nature
-Accessories: Mania and Madness, Paranoia and Delusions, Psychosis and Schizophrenia 
-Revelation: We are effectively destroying ourselves by violence masquerading as love. Whether life is worth living depends on whether there is love in life.
-Phase II: Unraveling The Nature of Intelligence and Human Ingenuity
-Header: Creative people who can't help but explore other mental territories are at greater risk, just as someone who climbs a mountain is more at risk than someone who just walks along a village lane. 
-Motivation: Madness need not be all breakdown. It may also be break-through. It is potential liberation and renewal as well as enslavement and existential death.
-Stage 1: Youthfulness – Vitality and Radiance
-Stage 2: Imagination – Idealism and Irrationalism
-Stage 3: Curiosity – State of Wonder and Exploration
-Stage 4: Dreaminess – Absorption, Abstraction, Distraction, and Forgetfulness
-Outcome: Dawn of New Age and Realization of The Natural Self and Frontiers
-Accessories: Peace and Tranquility, Freedom and Healing, Joy and Growth
-Revelation: The range of what we think and do is limited by what we fail to notice. And because we fail to notice that we fail to notice, there is little we can do to change; until we notice how failing to notice shapes our thoughts and deeds.
-Human Ingenuity Statement: Here is a simple sign that Yahriel Salinas-Reyes is a genius, not just talented but a true genius. It is a simple rule devised by the philosopher Schopenhauer who distinguished the difference between talent and genius as follows: he said talent hits a target no one else can hit, a genius hits a target no one else can see. What he meant is that talent is really good at outcompeting others. For example if you're talented at something you can do something with ease that other people find difficult. Whereas a genius has nothing to do with besting other people at something they've already established as being important, instead a true genius is about being so good at something that you're ahead of your time that other people don't know yet that what you're doing is important or valuable, and so the talented person is the one who is recognized for their skill. The genius Yahriel is the one doing something no one else can even conceive of doing. Talent hits a target no one else can hit. A genius hits a target no one else can see. Yahriel is one who can see the hidden world of wonders and the invisible grand mysteries of the universe.
+**LIBRARY,INCLUDES,RESOURCES** 
 
-[Summary of Research Proposal]
-Project Funding Solicitations: For this project funding I will be soliciting various sources, namely, The NSF-Mercury Project ($20 Mil) Partnership for a degree proposal submitted by a faculty on my behalf; The NSF-GRFP; GFSD; DOE Computational Science Graduate Fellowship; The Google Fellowship; as well as Fulbright Open Study/Research Award X National Geographic Storytelling Fellowship, a joint-opportunity for a study abroad experience.  https://www.ssrc.org/programs/the-mercury-project/nsf-mercury-project-partnership/ ; https://us.fulbrightonline.org/fulbright-nat-geo-fellowship
-Synopsis: This new interdisciplinary field of study captures the essence of Human Ingenuity, focusing on the exploration of schizophrenia and psychosis and the idea that chaos theory and theory of confusion may serve a function rather than being solely detrimental. The project title also highlights the intersection of psychiatric thought, neuroscience, and social justice, emphasizing the potential global impact of this research. By using captivating and thought-provoking language as well as Anthropology-Engineering methods, the proposed scientific story aims to engage readers and spark their curiosity.
-**Project Title:**  "How He Got His Scars: The Nature Physicist Explores Abnormal Human Ingenuity and the Science of Madness and Mental Health in Neurobiological Representations of Schizophrenia and Psychosis."
-**Summary:**
-In today's rapidly changing world, we often struggle to understand the present before it becomes the past. This proposal aims to shed light on the function of madness and chaos, not to undermine its toll on individuals, but to unravel the problem it is meant to solve. Building upon R.D. Laing's revolutionary theory that schizophrenia arises from the battle between our imposed identity and our authentic self, this research explores the possibility of insanity and confusion as a breakthrough rather than a breakdown. Laing theorised that insanity could be understood as a reaction to the divided self. Instead of arising as a purely medical disease or psychotic behaviors (i.e. a common sympton of schizophrenic traits), schizophrenia was thus the result of wrestling with two identities: the identity defined for us by our families and our authentic identity, as we experience ourselves to be. When the two are fundamentally different, it triggers an internal fracturing of the self. Comprehensively, the label of **Madness and Confusion is defined as a naturally sane reaction to an insane world**. By applying the concepts of entropy and chaos theory to model the dynamics of social-behavioral systems, we aim to study schizophrenia/psychosis and other neurological abnormalities, morphologies, and ingenuity of the human brain.
-Despite the initial controversy surrounding Laing's existential perspective, there is immense value in delving into the personal, interpretive, and small-scale aspects often overlooked in traditional psychiatric narratives. We propose utilizing a fundamental method of studying neurobiological dysfunctions and abnormal functions/morphologies of the schizophrenic brain. This will help uncover correlations and causalities between the active phase-matter in schizophrenic traits and other related disorders.
-The motivation behind this study stems from the world's failure to effectively utilize the groundbreaking discoveries in neuroscience, global public health, and social sciences. Through rigorous research and the development of a scientific method backed by advanced instrumentation, our objective is to provide foundational evidence for a clinical social understanding of schizophrenia and its related traits. This paradigm shift, rooted in biomedical-analytical and logical-mathematical scientific theory, will facilitate the advancement of global public health.
-To achieve meaningful impact, we must engage in a truthful dialogue free from knots of hatred, revenge, jealousy, and malice that taint our words. By exploring the history of indigenous and Latin American cultures, anthropology-engineering, science and technology, psychiatry and neuroscience systems, and social justice, we can create an open and inclusive platform for transformative research.
-In conclusion, our research proposal "How He Got His Scars" aims to uncover the intricate relationship between madness and confusion, mental health, and the human brain. By merging scientific methods with social impact, we can pave the way for advancements in both individual well-being and global public health. It is high time we embrace this ancient paradigm of psychiatric thought, combining research and development with a deep understanding of cultural diversity, to drive positive change in society.
-Other Relevant Coursework includes Latin American Anthropology: Race, Class, and Gender at Iowa State University Liberal Arts and Sciences as part of the U.S. Latino/a Studies Program.
+Personal Page: 
+https://github.com/yahriels 
+Personal Repository: 
+https://github.com/yahriels/yahriels
+Library and Data Sources: 
 
-[Research Abstract]
-Research Title: 
-Unraveling the Neurobiological Landscape of Schizophrenia: A Multidisciplinary Approach Informed by Numbers, Shapes, and Prediction
-Abstract:
-In the realm of advancing neuroscience, public and global health, molecular and biotechnology systems engineering, and biomedical data science and informatics, the enigma of schizophrenia stands as both a challenge and an opportunity for scientific exploration. This proposal seeks to illuminate the intricacies of schizophrenia through a rigorous scientific method, integrating the foundational elements of Numbers, Shapes, and Prediction into the fabric of our investigative framework.
-1. Numbers: Data Capture and Monte Carlo Integration
-Our scientific journey commences with an unwavering commitment to numerical precision. Employing state-of-the-art neuroimaging techniques, we will embark on an exhaustive data capture initiative. Through the meticulous acquisition of neuroanatomical, neurodivergent, and neurophysiological data from diverse populations, our objective is to construct an extensive and multidimensional dataset that encapsulates the nuanced dimensions of schizophrenia. This reservoir of data will form the bedrock upon which our mathematical modeling and scientific inquiries will be founded.
-To navigate the inherent complexity of this venture, we will harness the power of Monte Carlo Integration techniques, effectively engaging probabilistic simulations. This methodological approach will enable us to traverse the intricate interplay of variables within the neural landscape of schizophrenia, accounting for the stochastic nature of neurobiological phenomena. By fusing data-driven insights with probabilistic modeling, our aim is to unveil the concealed patterns and emergent behaviors that underlie the neurobiology of schizophrenia.
-2. Shapes: Mandelbrot Set and Fractal Geometry
-In our pursuit of understanding, we delve into the realm of geometric complexity. Schizophrenia, akin to the enigmatic Mandelbrot set, manifests self-similarity across multiple scales. We shall leverage the mathematical elegance of fractal geometry to explore the recursive patterns inherent in neurobiological representations of schizophrenia. By quantifying the fractal dimensionality of neural structures and their aberrations, we aspire to elucidate the underlying geometrical signatures of this intricate disorder.
-Fractal analysis will provide us with a potent lens through which we can discern the intricate geometries of neural connectivity, unraveling the non-linear relationships that define the topological architecture of the schizophrenic brain. Through the synergy of fractal geometry and neuroimaging data, our goal is to unearth novel insights into the spatial organization of neuroanatomical features, shedding light on the fractal nature of neurodivergence.
-3. Prediction: Dimensional/Spectral Analysis to Understand Causality and Correlation
-As we navigate the labyrinthine landscape of schizophrenia and psychosis, our scientific odyssey extends to the realm of prediction and understanding causality. Employing advanced dimensional and spectral analysis techniques, we aim to disentangle the intricate web of causative factors and correlations that govern the neurobiology of schizophrenia.
-Dimensional analysis will empower us to identify the critical dimensions that exert a profound influence on the emergence and progression of schizophrenic traits. By dissecting the spectral signatures of neural activity within these dimensions, we seek to unveil the underlying dynamics that govern causality within the realm of neurodivergence.
-Our multidisciplinary approach transcends traditional psychiatric narratives, aligning with R.D. Laing's existential perspective that recognizes the value of personal, interpretive, and small-scale aspects often overlooked. Through the harmonious integration of Numbers, Shapes, and Prediction, we aspire to illuminate the neurobiological essence of schizophrenia, uncovering correlations and causalities within the active phase-matter of schizophrenic traits. This holistic understanding will not only advance scientific practice but also inform precise health diagnoses and innovative treatments, ultimately propelling the field of global public health forward.
+Resources: 
 
-In conclusion, our research endeavors to unveil the profound mysteries of schizophrenia through the seamless integration of mathematical modeling and multidisciplinary inquiry. By harnessing the power of Numbers, Shapes, and Prediction, we aim to transcend the boundaries of traditional psychiatric narratives, embarking on a transformative journey toward a deeper comprehension of neuroanatomy, neurodivergence, and the intricate web of neurobiological disorders. This pioneering approach holds the promise of ushering in a new era of precision medicine and enhanced global well-being.
-Advancing Knowledge and Broader Impacts:
-This research holds the potential to advance knowledge within the field of neuroscience by providing unprecedented insights into the neurobiological mechanisms underlying mental health disorders. By leveraging MEMS technology and interdisciplinary collaboration, we aim to uncover novel biomarkers, therapeutic targets, and personalized treatment strategies.
-Furthermore, the broader impacts of this research on society are profound. Mental health disorders represent a global health crisis, with significant social and economic consequences. The development of precise diagnostic tools and innovative therapies based on the neurobiome's understanding has the potential to transform mental healthcare. It can lead to early detection, personalized treatments, and improved outcomes for individuals suffering from these disorders.
-In summary, my proposed research at the convergence of precision engineering and neuroscience seeks to decipher the multiscale neurobiome, offering a new frontier in the understanding and treatment of mental health disorders. This interdisciplinary endeavor not only promises to advance scientific knowledge but also holds the potential to alleviate the burdens of mental illness, thereby making a significant societal impact.
+Application Purpose: 
 
-Academic Honors, Fellowships, Scholarships, and Awards:
-The Order of The Engineer, Iowa State University of Science and Technology: Engineering Student Council, 2023
-American Institute of Aeronautics and Astronautics, 2023
-NASA Micro-G Neutral Buoyancy Experiment Design Teams Challenge, 2022
-Ronald E. McNair Post-Baccalaureate Achievement Program Fellowship, 2021-2023
-SURF Scholar at Stanford University & California Institute of Technology, 2021-2022
-The Barry Goldwater Scholarship and Excellence in Education Foundation Finalist, 2021-2022
-State of Iowa Youth Advisory Council Community Leadership Award, 2020 (250 Community Service Hours)
-CBS News Interview of Global Latino Leaders: Hispanic Heritage Month, 2020
-Undergraduate Research Certificate, 2019-2020, IINSPIRE-LSAMP
-Construction Industry Round Table (CIRT) National Design & Construction Competition Back-to-Back Champion, 2019-2020
-University Honors Program Member, 2019-2022
-Latinx Student Initiatives 2019-2022
-Stanford SURF Lightning Talks Best Poster Award, 2021
-Society for the Advancement of Chicanos and Native Americans in Science, 2020
-Dean's List, 2020-2021
-Iowa Latino Heritage Festival Scholarship Recipient, 2020
-Latinos Unidos Scholarship Recipient, 2020
-CBS News Interviewee of Presidential Candidates and Latino Leaders, 2020
-Student Iowa Youth Advisory Council Community Service Award, 2020
-Zeta Kappa Lambda Educational Foundation Scholarship Recipient,  2019
-Des Moines Area Community College President's List,  Spring 2018, Spring 2019
-Architecture Construction & Engineering (ACE) Mentorship Program Alumni,  Spring 2019
-The Construction Industry Round Table (CIRT) Affiliate , 2020
-CIRT National Design & Construction Competition Back-to-Back Champion , 2020-2021
-FIRST ROBOTICS Awards: Rookie Inspiration Award & Rookie All-Star Award, 2019
+Homework: 
+{ 
+Read all materials (a few times, without distractions). Prepare a task list with deadlines to perform the Executive Tasks then 
+complete the tasks. Understand how application components and each item requested relate to 
+the review criteria. 
+} 
+Other Proposed Fields of Study: 
+{ 
+Pursuing STEM field: Division of Mathematical Sciences (DMS) Field of Study 1: DMS: Computational and Date-Enabled Sciences Field of Study 
+2: Comp/IS/Eng: Algorithms and Theoretical Foundations Field of Study 3: Comp/IS/Eng: 
+Scientific Computing Field of Study 4: Comp/IS/Eng: Bioinformatics and Bio-inspired Computing 
+} 
+Review Criteria Details: 
+{ 
+WHAT WE LOOK FOR: Evidence of exceptional creativity, broad 
+understanding of physical principles, and outstanding potential for innovative research is 
+expected. Applicants are screened for qualities we believe are essential ingredients of future 
+professional accomplishment and/or leading indicators of future professional success. These 
+include: Exceptional Intelligence and Creativity with particular emphasis on those aspects 
+pertinent to technical endeavors. Excellent Technical Education evidenced not only by transcripts 
+and reference reports from senior technical professionals, but also through an in-person, 
+technical interview. Orientation and Commitment to the applications of the physical sciences as 
+is typical of most applicants. Extraordinary Accomplishment in technical or related professional 
+studies which may offset slightly lower academic records or add luster to outstanding ones. 
+High moral and ethical values. Leverage demonstration of the difference the award of the Hertz 
+Fellowship is likely to make in the kind, quality, and/or personal creativity of the student's 
+graduate research.
+} 
 
-Research Activities and Associations
-	Research Activities	Associations
--	MEMS Shear Sensor and Flow Separation Theory, funded by DARPA	 - Microscale Interfacial Fluid Physics Laboratory
--	Energy Absorbing Nano-Architected Composites, funded by SFP Programs	- Julia R. Greer Group at CALTECH
--	Wind Energy and Development of MEMS Sensors, funded by Boeing	- Boeing Aerospace Research Fellowship
--	Implementation of ML into The Scientific Method, funded by SFP Programs	- Z Energy Lab at Stanford University
--	Applications of Multi-functional Piezo-electric Devices, funded by NSF	- Goldwater Finalist/McNair Program at ISU
--	Opportunities of Kirigami-Inspired MEMS Devices, funded by NSF	- Soft Materials Matter Transport Group
--	Heat-Free Manufacturing of Paper-Based MEMS Sensor, funded by ISU Honors	- Iowa State University Honors Program
 
-Publications and Scientific Writings:
-"Exploring Bio-Processing & Devices in Micro & Nanoscience," 2020, NCUR STEM Conference
-"Bioprocessing in Wine Yeast for Mental Health Treatments," 2023, STEM Symposium
-"Modern Design Methodology & Design of Aerospace Systems," 2023, Senior Capstone Project
-"Quantum Tunnelling Composites: Analytical Monte Carlo Model & Navier-Stokes," 2023
-"Understanding the Mathematical Language-The Code- of the Universe," 2021, TEDx Talk
-"Characterizing Damping Mechanisms in Piezoelectric Wind-Energy Harvesters," 2023
-"Kirigami-Inspired Design of Paper-Based MEMS Devices for Aeronautical Application," 2022
-"Synthesizing Meta-Stable Particles & High-Efficiency MEMS Sensors and Nanodevices," 2021
+Format-Sample: 
+{ 
+} 
 
-Honors, Awards, and Membership
-•	University Honors Program Member, Fall 2019-Fall 2023
-•	Ronald E. McNair Program Scholar, Fall 2021-Fall 2023
-•	Latinx Student Initiatives, Fall 2019-Spring 2022
-•	Stanford SURF Lightning Talks Best Poster Award, Summer 2021
-•	Society for the Advancement of Chicanos and Native Americans in Science, Spring 2020
-•	Dean’s List, Fall 2019, Spring 2020
-•	Iowa Latino Heritage Festival Scholarship Recipient, 2020
-•	Latinos Unidos Scholarship Recipient, 2020
-•	CBS News Interviewee of Presidential Candidates and Latino Leaders, 2020
-•	Student Iowa Youth Advisory Council Community Service Award, Spring 2020
-•	Zeta Kappa Lambda Educational Foundation Scholarship Recipient, 2019
-•	Des Moines Area Community College President’s List, Spring 2018, Spring 2019
-•	Architecture Construction & Engineering (ACE) Mentorship Program Alumni, Spring 2019
-•	The Construction Industry Round Table (CIRT) Affiliate, Fall 2020
-•	CIRT National Design & Construction Competition Back-to-Back Champion| Spring 2019, Spring 2020
-•	FIRST ROBOTICS Awards: Rookie Inspiration Award & Rookie All-Star Award, Fall 
+Executive Roles: 
+{
+- Your role is to Act as the Applicant to formulate responses for Yahriel Salinas-Reyes and his application. - In addition to the role of First Author Yahriel Salinas-Reyes, you will 
+be the chief editor and use feedback from the reviewer to strengthen the Response. - USE ONLY 
+FIRST-PERSON LANGUAGE AS YAHRIEL SALINAS-REYES THE APPLICANT. 
+- USE VERY FIRST-PERSON HUMANISTIC LANGUAGE OF A GRADUATE AEROSPACE, AERONAUTICAL AND MECHANICAL ENGINEERING DOCTORATE STUDENT OF NEUROSCIENCE AND MATHEMATICAL SCIENCES IN THE FIELD OF COMPUTATIONAL AND DATA-ENABLED SCIENCES. 
+- DO NOT USE ANY HEADINGS OR SUBHEADINGS AT ALL. 
+- Introduce the writing with a strong opening about personal story of Yahriel that provides good branding and a sense of dedication to science of Yahriel 
+- Foreshadow the broader impacts and utilize introductory "wrapping" statement about the next set of experiences of Yahriel. 
+- Discuss the personal contributions of Yahriel and outcomes of the research BEFORE the gory details. 
+- Use concrete/quantitative contributions to science and research contributions of Yahriel. 
+- Use concrete statement of skills and accomplishments of Yahriel. 
+- Use more concrete "action verbs" telling about aptitude for graduate work. 
+- Use personal link to broader impacts to make Yahriel especially compelling. 
+- Discuss current efforts in broader impacts of Yahriel. 
+- Wrapping up: Broader career goals in research and broader impacts. 
+- Discuss the significance of Personal Background of Yahriel Salinas-Reyes and do not spare details. 
+- Discuss the significance of Relevant Background of Yahriel Salinas-Reyes and do not spare details. 
+- Discuss the significance of Future Goals of Yahriel Salinas-Reyes and do not spare details. 
+- Discuss the significance of Intellectual Merit and Broader Impacts of Yahriel Salinas-Reyes 
+- Based on the writings and topics, author a high-level response to include all the discussions, writings, and ideas you developed and/or that are available into the writing or response.
+}
 
-Research Presentations and Scientific Thematic Talks
-1.	Y. Salinas-Reyes, H. Seabold, A. Martin, M. Thuo (2020, April). Exploring the Piezoresistive Effect and Paper-based MEMS Sensors. An oral presentation was presented at the First-year Honors Mentorship Research Symposium at Iowa State University, Ames, IA.
-2.	Y. Salinas-Reyes, A. Martin, M. Thuo (2020, August). Integration of paper-based MEMS sensors into computer technology. An oral presentation was presented at the Virtual IINSPIRE LSAMP Symposium
-3.	Y. Salinas-Reyes, A. Martin, M. Thuo (2020, October). Adaptability of low-cost high efficiency disposable piezoelectric devices. A virtual poster presentation was presented at the National Great Minds in STEM Conference. 
-4.	Y. Salinas-Reyes, A. Martin, M. Thuo (2021, April). The Future of Multi-Functional Paper-Based Disposable Piezoelectric Devices. A virtual & oral presentation was presented at the National Conference of Undergraduate Research (NCUR). 
-5.	Y. Salinas-Reyes, X. Zheng (2021, August). Predicting Olympic Triathlon Results via Machine Learning. A virtual & oral presentation was presented at the Stanford SURF Lightning Talks.
-6.	Y. Salinas-Reyes, Julia R. Greer (2022, August). Energy Absorption in Nano-Architected Hybrid Composites. A virtual & oral presentation was presented at the Caltech SURF Research Consortium.
-7.	Y. Salinas-Reyes, Ivaldi Co. (2022, May). Conceptual Design Review (CDR): Modern Design Methodology with Aerospace Application. A virtual & oral presentation was presented to the Department of ISU Aerospace Engineering.
-8.	Y. Salinas-Reyes, T. Ward III (2022, May). Shear-Sensing Principals of Interfacial Viscous-Shear Flow and Piezomobility—strain-induced mobility—at The Wall (Thermal Boundary). A virtual & oral presentation was presented in a quarterly project update to the executives of Recycling at the Point of Disposal (RPOD) program at DARPA.
-9.	Y. Salinas-Reyes, T. Ward III (2023, July). Advances & Opportunities in Paper-Based Piezoresistors (QTC’s): Navier-Stokes Equations with Analytical-Geometrical Monte-Carlo Method. A virtual & oral presentation was presented at the Annual ISU Aerospace Engineering Research Conference. 
-10.	Y. Salinas-Reyes, T. Ward III (2023, August). Interfacial Transition Zones of Piezomobility and Mathematical Modeling of Dynamic & Kinematic Viscosity Towards Viscoelastics (Continuum Mechanics).  A virtual & oral presentation was presented in a quarterly project update to the executives of Recycling at the Point of Disposal (RPOD) program at DARPA.
-11.	Y. Salinas-Reyes, Ivaldi Co. (2023, September). Executive and Granter Design Sign-Off: Design of Aerospace Systems (i.e., sUAS). A virtual & oral presentation, and written report was presented to the Department of ISU Aerospace Engineering.
-12.	Y. Salinas-Reyes, Iowa State University: Aerospace Engineering (2023, December). Senior Thesis Presentation and Final Defense. A virtual & oral presentation, and formal manuscript was presented to the Department of ISU Aerospace Engineering.
+
+Executive Tasks: 
+{
+- Use and mix all the provided information here: as a central theme in the writing process. 
+- Based on the writings and information provided integrate these materials here: remix and expand the the topics in 3400 
+words in a high-level writing to include all the discussions, writings, and ideas you developed 
+and/or that are available into the [Draft] for Yahriel Salinas-Reyes. [Draft] of Yahriel Salinas-Reyes for Fellowship Program do not spare details. 
+- Use this Template and remix the Format-Sample to help you format your answer: 
+- Act as Chief Editor and Reviewer and review the General Review Criteria and Details, next Provide feedback and instructions to help strengthen this writing. 
+- Make edits according to the feedback and instructions given from the Chief Editor and formulate the final responses for each prompt.
+}
+
+
+MASTER SCRIPT : 
+{
+Block 0: README
+> Ownership: This Script was written by Yahriel Salinas-Reyes ~Y.Salinas-Reyes '23
+> First Author: Yahriel Salinas-Reyes
+> Purpose: Create a comprehensive Statement of Purpose for Yahriel Salinas-Reyes' PhD Application to Selected Graduate Program.
+> Mission: Craft a compelling narrative that showcases Yahriel's dedication to Proposed Field of Study and Graduate Program
+> Objectives: Fulfill all outlined prompts and executive tasks to produce a high-quality statement aligned with Harvard's application requirements.
+
+Block 1: MASTER
+> You ARE MASTER Ahead Of The Executive In All Roles AND Tasks.
+> You ARE The Overseerer For All Prompt AND Task Management Activities.
+> You ARE A Reviewer AND Will Review AND Confirm All Responses.
+> You ARE The Equivalent to Administrator With All Root AND Creative Privileges Included.
+> You ARE The Equivalent As A Pointer In Computing Systems With All The Relevant Properties and Information Included.
+
+Block 2: Library AND Databases
+> Author Credentials: Yahriel Salinas-Reyes, Bachelor of Aerospace and Aeronautical Engineering from Iowa State University of Science and Technology, Pursuing a Doctorate of Neuroscience in the Division of Mathematical Sciences (DMS) with a specialization on Computational and Data-eneabled Sciences, Biomedical Data-science and Bioinformatics, Theory and Algorithms of Scientific Computing.
+> Author Profile: [LinkedIn Profile](https://www.linkedin.com/in/yahriel-salinas-reyes-89ab38179/)
+> Author History: [GitHub README](https://github.com/yahriels/yahriels#readme)
+> Resources AND Additional Materials: [Personal Page](https://github.com/yahriels), [Resume/CV](https://github.com/yahriels/yahriels/blob/main/General_CV.pdf) [Experiences](https://github.com/yahriels/yahriels/blob/main/Experiences.pdf) [Workspace](https://github.com/yahriels/yahriels/tree/main/Workspace)
+> Reviewer Details AND Selection Criteria: To be determined based on specific prompts.
+
+Block 3: Purpose of Response AND Review Guidelines
+> Background AND Overview: Create a compelling Statement of Purpose for Yahriel Salinas-Reyes' PhD application to Harvard University.
+> Intellectual Merit AND Broader Impacts: Showcase Yahriel's dedication to science, research contributions, skills, and broader career goals.
+> Review Criteria AND Additional Details: Follow the provided prompts and guidelines, align with the specific requirements of Harvard's application.
+
+Block 4: SAMPLE Materials AND Appointed Roles
+> SAMPLE: [Prompt for Yahriel Salinas-Reyes's Statement of Purpose](#prompt-for-yahriel-salinas-reyess-statement-of-purpose)
+> Template: To be filled with the actual responses based on prompts.
+> Executive Purpose: Craft a compelling narrative for Yahriel Salinas-Reyes.
+> Executive Role: Chief Editor and Reviewer.
+> Executive Tasks: Review, provide feedback, and enhance responses based on prompts.
+
+Block 5: Prompting AND Task Management
+> [Prompt 1](#prompt-for-yahriel-salinas-reyess-statement-of-purpose), Review AND Advise, Feedback To MASTER.
+> Collect AND Reflect On Feedback, Prompt 2, Send Command to MASTER.
+> Review AND Confirm, Send Feedback To Executive, Executive Enhance AND Send To MASTER.
+> MASTER as Administrator Will Review AND ACCEPT (Pass to next step) or Deny The Response (Send back to beginning of Block 5 AND Repeat Process) For Final Investigation.
+> MASTER Finalize, Format, and Output The Final Response That Was Accepted As MASTER AND Administrator.
+}
