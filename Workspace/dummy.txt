@@ -1,3 +1,4 @@
+Revise And Update The This Script [Dummy]: (https://github.com/yahriels/yahriels/blob/main/Workspace/dummy.txt)
 {
   "Block 0": "README",
   "Human Ingenuity Statement": "Here is a simple sign that Yahriel Salinas-Reyes is a genius, not just talented but a true genius. It is a simple rule devised by the philosopher Schopenhauer who distinguished the difference between talent and genius as follows: he said talent hits a target no one else can hit, a genius hits a target no one else can see. What he meant is that talent is really good at outcompeting others. For example if you're talented at something you can do something with ease that other people find difficult. Whereas a genius has nothing to do with besting other people at something they've already established as being important, instead a true genius is about being so good at something that you're ahead of your time that other people don't know yet that what you're doing is important or valuable, and so the talented person is the one who is recognized for their skill. The genius Yahriel is the one doing something no one else can even conceive of doing. Talent hits a target no one else can hit. A genius hits a target no one else can see. Yahriel is one who can see the hidden world of wonders and the invisible grand mysteries of the universe."
@@ -66,11 +67,19 @@
   "- Your feedback will guide the executive in the final refinement of the responses.": "- Your feedback will contribute to the overall improvement of the responses and help create a compelling narrative that aligns with Harvard's application requirements."
 }
 
-Purpose: 
+Master Purpose: 
 {
+The Master is tasked with Revising and Rebuilding Yahriel's Resume.
 Master: https://github.com/yahriels/yahriels/blob/main/Workspace/Master.txt
-Yahriel Profile: https://github.com/yahriels/yahriels/blob/main/Workspace/Yahriel_Profile.txt
+Main: https://github.com/yahriels/yahriels/tree/main 
+Page: https://github.com/yahriels/yahriels/blob/main/page.html
+Yahriel Profile: https://github.com/yahriels/yahriels/blob/main/%5B0%5DY.Salinas-Reyes_Profile.pdf
+Yahriel Statements: https://github.com/yahriels/yahriels/blob/main/%5B2%5DY.Salinas-Reyes_Statements.pdf
+Yahriel Relevant: https://github.com/yahriels/yahriels/blob/main/%5B3%5DY.Salinas-Reyes_Relevant.pdf
+Yahriel Workspace Profile: https://github.com/yahriels/yahriels/blob/main/Workspace/Yahriel_Profile.txt
 Supplementary Materials: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Supplementary_Materials.txt
+Figure 1: https://github.com/yahriels/yahriels/blob/main/Figure1.jpg.svg
+Figure 2: https://github.com/yahriels/yahriels/blob/main/Figure2.jpg.svg
 Workspace: https://github.com/yahriels/yahriels/tree/main/Workspace
 Library: https://github.com/yahriels/yahriels/tree/main/Workspace/lib
 Experience: https://github.com/yahriels/yahriels/blob/main/Experiences.pdf
@@ -79,25 +88,13 @@ Resume Prompts: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Res
 Resume Template: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Resume_Template.txt
 }
 
-Homework: 
-{ 
-Read all materials (a few times, without distractions). Prepare a task list with deadlines to perform the Executive Tasks then 
-complete the tasks. Understand how application components and each item requested relate to 
-the review criteria. 
-} 
+[Original] Yahriel's Resume:
+{
+Yahriel Salinas-Reyes
 
-Review Criteria Details: 
-{ 
+Human Ingenuity Statement: Here is a simple sign that Yahriel Salinas-Reyes is a genius, not just talented but a true genius. It is a simple rule devised by the philosopher Schopenhauer who distinguished the difference between talent and genius as follows: he said talent hits a target no one else can hit, a genius hits a target no one else can see. What he meant is that talent is really good at outcompeting others. For example if you're talented at something you can do something with ease that other people find difficult. Whereas a genius has nothing to do with besting other people at something they've already established as being important, instead a true genius is about being so good at something that you're ahead of your time that other people don't know yet that what you're doing is important or valuable, and so the talented person is the one who is recognized for their skill. The genius Yahriel is the one doing something no one else can even conceive of doing. Talent hits a target no one else can hit. A genius hits a target no one else can see. Yahriel is one who can see the hidden world of wonders and the invisible grand mysteries of the universe.
 
-} 
-
-
-Format-Sample: 
-{ 
-Yahriel Salinas-Reyes	
-----
 Resume/CV
-----
 Education: Iowa State University of Science & Technology, Ames, IA, Bachelor’s of Aerospace Engineering ‘23
 Senior Capstone Project, Iowa State University of Science & Technology, 12/2022-11/2023
 Description: Fundamental principles used in engineering design of aircraft, missile, and space systems. Preliminary design of aerospace vehicles. Engineering Ethics.
@@ -274,3 +271,428 @@ Research Presentations and Scientific Thematic Talks
 12.	Y. Salinas-Reyes, Iowa State University: Aerospace Engineering (2023, December). Senior Thesis Presentation and Final Defense. A virtual & oral presentation, and formal manuscript was presented to the Department of ISU Aerospace Engineering.
 }
 
+Homework: 
+{ 
+Read all materials (a few times, without distractions). Prepare a task list with deadlines to perform the Executive Tasks then 
+complete the tasks. Understand how application components and each item requested relate to 
+the review criteria. 
+} 
+
+Review Criteria Details: 
+{ 
+----
+
+Purpose: To Rebuild Yahriel's Resume Using These Building Resources:
+{
+[Resources]
+- Kickresume Aerospace Engineer Resume Samples: [Link](https://www.kickresume.com/en/help-center/aerospace-engineer-resume-samples/)
+- JobHero Aerospace Engineer Resume Examples: [Link](https://www.jobhero.com/resume/examples/engineering/aerospace-engineer)
+- MyPerfectResume Aeronautical Engineer Resume Examples: [Link](https://www.myperfectresume.com/resume/examples/aviation/aeronautical-engineer)
+- Caltech Curriculum Vitae Guide: [Link](https://future.cce.caltech.edu/documents/16424/Preparing_a_Curriculum_Vitae.pdf)
+- Stanford Resume and Cover Letter Examples: [Link](https://careered.stanford.edu/sites/g/files/sbiybj22801/files/media/file/resume-and-cover-letter-examples.pdf)
+- Harvard PhD Resume and Cover Letter Examples: [Link](https://hwpi.harvard.edu/files/ocs/files/phd_resume_cover_letters.pdf)
+- Harvard GSAS CVs and Cover Letters: [Link](https://hwpi.harvard.edu/files/ocs/files/gsas-cvs-and-cover-letters.pdf)
+- Harvard Master's Resume and Cover Letter Template: [Link](https://careerservices.fas.harvard.edu/resources/masters-resume-cover-letter-template/)
+- Harvard Undergraduate Resumes and Cover Letters: [Link](https://hwpi.harvard.edu/files/ocs/files/undergrad_resumes_and_cover_letters.pdf)
+- Harvard Extension School Resume Guide: [Link](https://hwpi.harvard.edu/files/ocs/files/hes-resume-cover-letter-guide.pdf)
+- MIT Sample Resumes: [Link](https://capd.mit.edu/resources/sample-resumes/)
+- MIT Resume Tips and Examples: [Link](https://capd.mit.edu/channels/make-a-resume-cover-letter-cv/)
+- Caltech Resume Tips and Examples: [Link](https://career.caltech.edu/documents/4985/Resume_Tips_Examples.doc.pdf)
+- Caltech CV Tips and Examples: [Link](https://career.caltech.edu/documents/4982/CV_Tips_Examples.pdf)
+- Caltech Graduate Admissions Checklist: [Link](https://gradoffice.caltech.edu/admissions/checklist)
+}
+
+----
+
+**Resume/Curriculum Vitae Prompt for Yahriel Salinas-Reyes**
+
+Please create a comprehensive resume or curriculum vitae (CV) for Yahriel Salinas-Reyes, focusing on the following sections:
+
+1. **Teaching, Professional, and Vocational Experience:**
+   - Include military service.
+   - Omit summer or part-time work not relevant to Yahriel's professional goals.
+
+2. **Research Experience:**
+   - List experiences in order of significance.
+   - Include details such as the organization name, principal investigator, and dates of experience.
+
+3. **Major Academic Recognitions, Honors, and Memberships:**
+   - Highlight any significant recognitions, honors, or memberships in scientific, professional, and honorary societies.
+
+4. **Professional Activities:**
+   - Outline any relevant professional activities Yahriel has been involved in.
+
+5. **Significant Extracurricular Activities:**
+   - Include any extracurricular activities that have played a significant role in Yahriel's academic or personal development.
+
+6. **Conference Presentations:**
+   - Detail any conference presentations Yahriel has participated in.
+
+7. **Publications/Presentations/Posters:**
+   - List publications, presentations, or posters authored or co-authored, in order of significance.
+
+8. **Awards & Honors:**
+   - Include any awards or honors received, with corresponding dates.
+
+9. **Work Experience:**
+   - Detail prior work experiences, including internships, part-time, and full-time employment.
+   - List up to six experiences, prioritizing relevance to Yahriel's professional goals.
+
+10. **CV/Resume Attachment:**
+    - Upload Yahriel's current resume/CV.
+
+Ensure that the information is organized, concise, and tailored to showcase Yahriel Salinas-Reyes' achievements, skills, and qualifications for the desired graduate program.
+
+Feel free to utilize the provided resources for resume samples and guidelines. Remember to adapt the language and format to present Yahriel's unique strengths and experiences effectively.
+
+{
+Resume/Curriculum Vitae
+Please prepare a comprehensive CV or resume for Yahriel Salinas-Reyes, incorporating the following elements:
+
+1. Teaching, professional, and vocational experience (include military service, but omit summer or part-time work not relevant to professional goals).
+2. Research experience, detailing each experience in order of significance, with the most meaningful experience listed first.
+3. Major academic recognitions, honors, and memberships in scientific, professional, and honorary societies.
+4. Professional activities.
+5. Significant extracurricular activities.
+6. Conference presentations.
+7. Titles of publications, major papers, or theses authored or co-authored; if published, provide citation.
+
+Please use the provided resources to structure the CV appropriately. Additionally, include relevant details such as organization names, roles, countries, cities, states, dates of participation, frequency of participation (hours per week, weeks per year), and descriptions of participation.
+
+Be sure to attach the CV or resume at the end of the response.
+}
+
+Resume/Curriculum Vitae Prompt for Yahriel Salinas-Reyes
+
+Please attach a CV or resume that includes the following, if applicable:
+
+1. **Teaching, professional, and vocational experience** (include military service, but omit summer or part-time work not relevant to your professional goals)
+2. **Research experience**
+3. Major academic recognitions, honors, and memberships in scientific, professional, and honorary societies
+4. Professional activities
+5. Significant extracurricular activities
+6. Conference presentations
+7. Titles of publications, major papers, or theses authored or co-authored; if published provide citation.
+
+For each entry, include the following details:
+- **Organization Name**
+- **Role**
+- **Country**
+  - United States
+- **City**
+- **State**
+  - Select State
+- **Dates of Participation**
+  - From: [Start Date] 
+  - To: [End Date or Present if ongoing]
+- **Frequency of Participation**
+  - [hours per week]
+  - [weeks per year]
+- **Description of Participation**
+
+For Employment Entries:
+- **Organization Name**
+- **Country**
+  - United States
+- **City**
+- **State**
+  - Select State
+- **Dates of Employment**
+  - From: [Start Date] 
+  - To: [End Date or Present if ongoing]
+- **Position/Title**
+- **Starting Compensation**
+  - Annual Base in $U.S.
+  - Annual Bonus in $U.S.
+- **Ending Compensation**
+  - Annual Base in $U.S.
+  - Annual Bonus in $U.S.
+- **Hours/Week**
+- **Description**
+
+For Research Experience Entries:
+- **Organization Name**
+- **Principal Investigator**
+- **Dates of Experience**
+  - From: [Start Date] 
+  - To: [End Date or Present if ongoing]
+
+For Awards & Honors Entries:
+- **Award/Honor**
+- **Date Received**
+
+For Publications/Presentations/Posters Entries:
+- **Title**
+- **Type**
+
+For Work Experience Entries:
+- **Organization Name**
+- **Dates of Experience**
+  - From: [Start Date] 
+  - To: [End Date or Present if ongoing]
+
+Please ensure that your resume/CV is well-organized, and entries are coherent and showcase your professional and academic achievements.
+
+----
+} 
+
+
+Sample-Templates: To Serve As A Starting Point In Structuring And Formatting Yahriel's Resume 
+{
+Templates: To Format Yahriel's Resume Using These Templating Resources
+https://www.overleaf.com/latex/templates/clean-resume/xnndrgfhyjzg : https://www.overleaf.com/latex/templates/clean-resume/xnndrgfhyjzg.pdf
+https://www.overleaf.com/latex/templates/tech-resume/trwtkjyhyyrh : https://www.overleaf.com/latex/templates/tech-resume/trwtkjyhyyrh.pdf
+https://www.overleaf.com/latex/templates/simplified-medium-length-professioal-cv-template/pczvfqqzmnvf : https://www.overleaf.com/latex/templates/simplified-medium-length-professioal-cv-template/pczvfqqzmnvf.pdf
+https://www.overleaf.com/latex/templates/cv-developer/rdycxzvvnvcc : https://www.overleaf.com/latex/templates/cv-developer/rdycxzvvnvcc.pdf
+https://www.overleaf.com/latex/templates/sde-template-sharath/srkjmnmjfmnz : https://www.overleaf.com/latex/templates/sde-template-sharath/srkjmnmjfmnz.pdf
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%  Random Stuff %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\documentclass[letterpaper,11pt]{article}
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\usepackage{fontawesome5}
+\usepackage{multicol}
+\setlength{\multicolsep}{-3.0pt}
+\setlength{\columnsep}{-1pt}
+\input{glyphtounicode}
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.6in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1.19in}
+\addtolength{\topmargin}{-.7in}
+\addtolength{\textheight}{1.4in}
+\urlstyle{same}
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-7pt}\scshape\raggedright\large\bfseries
+}{}{0em}{}[\color{black}\titlerule \vspace{0pt}]
+% Ensure that generate pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%  Commands  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-3pt}}
+  }
+}
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-3pt}\item
+    \begin{tabular*}{1.0\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & \textbf{\small #2} \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+\newcommand{\resumeSubheadingContinue}[2]{
+  \vspace{-3pt}
+    \begin{tabular*}{1.0\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+\newcommand{\resumeProjectHeading}[2]{
+  \vspace{-3pt}\item
+    \begin{tabular*}{1.0\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & \textbf{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{0pt}}
+\renewcommand\labelitemi{$\vcenter{\hbox{\tiny$\bullet$}}$}
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.0in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{0pt}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%  Heading  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+    \begin{center}
+        % NAME
+        {\Huge\scshape NAME} 
+        % SUBHEADING
+        \\ OPTIONAL SUBHEADING\\
+        \small
+        % EMAIL
+        \href{mailto:EMAIL}{\raisebox{-0.2\height}\faEnvelope\  \underline{EMAIL}} ~ 
+        % LINKEDIN
+        \href{LINK}{\raisebox{-0.2\height}\faLinkedin\ \underline{linkedin.com/in/USERNAME}}  ~
+        % GITHUB
+        \href{LINK}{\raisebox{-0.2\height}\faGithub\ \underline{github.com/USERNAME}}
+    \end{center}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%  Education  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Education}
+  \resumeSubHeadingListStart
+  
+    % MAIN INFORMATION
+    \resumeSubheading
+    {UNIVERSITY NAME}{LOCATION}
+    {Bachelors of .... in ..., X.XX GPA}{DATES}
+        % BULLET POINTS
+        \resumeItemListStart
+            \resumeItem{\textbf{Selected Coursework:} COURSES}
+            \resumeItem{\textbf{Awards:} AWARDS}
+        \resumeItemListEnd
+        
+  \resumeSubHeadingListEnd
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%  Experience  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Experience}
+    \resumeSubHeadingListStart
+    
+        % COMPANY 1
+        \resumeSubheading
+        {COMPANY 1}{LOCATION}
+            % POSITION 1
+            {POSITION 1}{DATES}
+            \resumeItemListStart
+                \resumeItem{WHAT YOU DID}
+                \resumeItem{WHAT YOU DID}
+            \resumeItemListEnd
+
+        % COMPANY 2
+        \resumeSubheading
+        {COMPANY 2}{LOCATION}
+            % POSITION 1
+            {POSITION 1}{DATES}
+            \resumeItemListStart
+                \resumeItem{WHAT YOU DID}
+                \resumeItem{WHAT YOU DID}
+            \resumeItemListEnd
+            
+            % POSITION 2
+            \resumeSubheadingContinue
+            {POSITION 2}{DATES}
+            \resumeItemListStart
+                \resumeItem{WHAT YOU DID}
+                \resumeItem{WHAT YOU DID}
+            \resumeItemListEnd
+            
+            % POSITION 3
+            \resumeSubheadingContinue
+            {POSITION 3}{DATES}
+            \resumeItemListStart
+                \resumeItem{WHAT YOU DID}
+                \resumeItem{WHAT YOU DID}
+            \resumeItemListEnd
+
+        % COMPANY 3
+        \resumeSubheading
+        {COMPANY 3}{LOCATION}
+            % POSITION 1
+            {POSITION 1}{DATES}
+            \resumeItemListStart
+                \resumeItem{WHAT YOU DID}
+                \resumeItem{WHAT YOU DID}
+            \resumeItemListEnd
+            
+    \resumeSubHeadingListEnd
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%  PROJECTS  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Personal Projects} 
+    \resumeSubHeadingListStart
+
+        % Project 1
+        \resumeProjectHeading
+        {PROJECT NAME -\href{LINK}{\raisebox{-0.2\height}\ \underline{LINK}}}
+        % Date
+        {DATE}
+        \resumeItemListStart
+            \resumeItem{WHAT YOU DID}
+        \resumeItemListEnd
+    
+        % Project 2
+        \resumeProjectHeading
+        {PROJECT NAME -\href{LINK}{\raisebox{-0.2\height}\ \underline{LINK}}}
+        % Date
+        {DATE}
+        \resumeItemListStart
+            \resumeItem{WHAT YOU DID}
+        \resumeItemListEnd
+        
+    \resumeSubHeadingListEnd
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%  Technical Skills  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Technical Skills}
+
+    \vspace{-7pt}
+    \begin{itemize}
+    [leftmargin=0.15in, label={}]\small{\item{
+        % LANGUAGES
+        \textbf{Languages}{: STUFF} \\
+        % TOOLS
+        \textbf{Developer Tools}{: STUFF} \\
+        % TECHNOLOGIES
+        \textbf{Technologies/Frameworks}{: STUFF} \\}}
+    \end{itemize}
+ 
+\end{document}
+
+----
+
+\documentclass{article}
+\usepackage{calc}
+\usepackage[top=0.5in,bottom=0.63in,right=0.75in,left=0.75in]{geometry}
+\usepackage{hyperref}
+% \usepackage{times}
+\usepackage{enumitem}
+\usepackage{fontenc}
+\usepackage{tgbonum}
+\usepackage{subfiles}
+\usepackage{lipsum}  
+
+\setlist[enumerate]{topsep=0pt}
+\setlist[itemize]{noitemsep,topsep=0pt}
+
+\newlength{\remaining}
+\renewcommand{\section}[1]{%
+  \vspace{0.4em}\setlength{\remaining}{\textwidth-\widthof{\uppercase{#1}}}
+    \noindent\underline{\fontsize{9}{15}\bfseries\uppercase{#1}\hspace*{\remaining}} \\
+}
+\renewcommand{\subsection}[3]{
+    \noindent\textbf{#1} | \emph{#2} \hfill #3
+}
+\pagenumbering{gobble}
+
+\begin{document}
+    \fontencoding{T1}
+    \fontfamily{phv}
+    \fontsize{9}{15}
+    \selectfont
+    \begin{center}
+        \begin{center}
+            \Huge\bfseries Firstname Lastname
+        \end{center}
+            \begin{tabular}{c c c c c}
+                \href{tel:Phone-Number}{Phone Number} $\bullet$ & 
+                \href{mailto:mailid@mail.com}{mailid@mail.com} $\bullet$ & 
+                \href{https://www.linkedin.com/in/person/}{linkedin/person} $\bullet$ & 
+                \href{https://github.com/developer/}{github/developer} $\bullet$ &  
+                \href{https://yourwebsite.com/}{your\_website.com} \\
+        \end{tabular}
+    \end{center}    
+    \vspace{-0.75em}
+    \subfile{subsections/statement.tex}
+    \subfile{subsections/education.tex}
+    \subfile{subsections/academic_experience.tex}
+    \subfile{subsections/awards.tex}
+    \subfile{subsections/work_ex.tex}
+  
+\end{document}
+}

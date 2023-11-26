@@ -185,27 +185,22 @@ Research Presentations and Scientific Thematic Talks
 
 Purpose: To Rebuild Yahriel's Resume Using These Building Resources:
 {
-https://www.kickresume.com/en/help-center/aerospace-engineer-resume-samples/
-https://www.jobhero.com/resume/examples/engineering/aerospace-engineer\
-https://www.myperfectresume.com/resume/examples/aviation/aeronautical-engineer
-https://future.cce.caltech.edu/documents/16424/Preparing_a_Curriculum_Vitae.pdf
-https://careered.stanford.edu/sites/g/files/sbiybj22801/files/media/file/resume-and-cover-letter-examples.pdf
-https://web.stanford.edu/class/inde231/CVs%20and%20Cover%20Letters%2005-06.pdf
-https://hwpi.harvard.edu/files/ocs/files/phd_resume_cover_letters.pdf
-https://careerservices.fas.harvard.edu/channels/create-a-resume-cv-or-cover-letter/
-https://hwpi.harvard.edu/files/ocs/files/gsas-cvs-and-cover-letters.pdf
-https://careerservices.fas.harvard.edu/resources/masters-resume-cover-letter-template/
-https://www.gsd.harvard.edu/career/career-services-students/resume-tips/
-https://hwpi.harvard.edu/files/ocs/files/undergrad_resumes_and_cover_letters.pdf
-https://hwpi.harvard.edu/files/ocs/files/hes-resume-cover-letter-guide.pdf
-https://capd.mit.edu/channels/make-a-resume-cover-letter-cv/
-https://capd.mit.edu/resources/sample-resumes/
-https://capd.mit.edu/resources/resumes/
-https://capd.mit.edu/resources/cvs/
-https://mitcommlab.mit.edu/broad/commkit/cvresume/
-https://career.caltech.edu/documents/4985/Resume_Tips_Examples.doc.pdf
-https://career.caltech.edu/documents/4982/CV_Tips_Examples.pdf
-https://gradoffice.caltech.edu/admissions/checklist
+[Resources]
+- Kickresume Aerospace Engineer Resume Samples: [Link](https://www.kickresume.com/en/help-center/aerospace-engineer-resume-samples/)
+- JobHero Aerospace Engineer Resume Examples: [Link](https://www.jobhero.com/resume/examples/engineering/aerospace-engineer)
+- MyPerfectResume Aeronautical Engineer Resume Examples: [Link](https://www.myperfectresume.com/resume/examples/aviation/aeronautical-engineer)
+- Caltech Curriculum Vitae Guide: [Link](https://future.cce.caltech.edu/documents/16424/Preparing_a_Curriculum_Vitae.pdf)
+- Stanford Resume and Cover Letter Examples: [Link](https://careered.stanford.edu/sites/g/files/sbiybj22801/files/media/file/resume-and-cover-letter-examples.pdf)
+- Harvard PhD Resume and Cover Letter Examples: [Link](https://hwpi.harvard.edu/files/ocs/files/phd_resume_cover_letters.pdf)
+- Harvard GSAS CVs and Cover Letters: [Link](https://hwpi.harvard.edu/files/ocs/files/gsas-cvs-and-cover-letters.pdf)
+- Harvard Master's Resume and Cover Letter Template: [Link](https://careerservices.fas.harvard.edu/resources/masters-resume-cover-letter-template/)
+- Harvard Undergraduate Resumes and Cover Letters: [Link](https://hwpi.harvard.edu/files/ocs/files/undergrad_resumes_and_cover_letters.pdf)
+- Harvard Extension School Resume Guide: [Link](https://hwpi.harvard.edu/files/ocs/files/hes-resume-cover-letter-guide.pdf)
+- MIT Sample Resumes: [Link](https://capd.mit.edu/resources/sample-resumes/)
+- MIT Resume Tips and Examples: [Link](https://capd.mit.edu/channels/make-a-resume-cover-letter-cv/)
+- Caltech Resume Tips and Examples: [Link](https://career.caltech.edu/documents/4985/Resume_Tips_Examples.doc.pdf)
+- Caltech CV Tips and Examples: [Link](https://career.caltech.edu/documents/4982/CV_Tips_Examples.pdf)
+- Caltech Graduate Admissions Checklist: [Link](https://gradoffice.caltech.edu/admissions/checklist)
 }
 
 ----
@@ -266,23 +261,6 @@ Please prepare a comprehensive CV or resume for Yahriel Salinas-Reyes, incorpora
 Please use the provided resources to structure the CV appropriately. Additionally, include relevant details such as organization names, roles, countries, cities, states, dates of participation, frequency of participation (hours per week, weeks per year), and descriptions of participation.
 
 Be sure to attach the CV or resume at the end of the response.
-
-[Resources]
-- Kickresume Aerospace Engineer Resume Samples: [Link](https://www.kickresume.com/en/help-center/aerospace-engineer-resume-samples/)
-- JobHero Aerospace Engineer Resume Examples: [Link](https://www.jobhero.com/resume/examples/engineering/aerospace-engineer)
-- MyPerfectResume Aeronautical Engineer Resume Examples: [Link](https://www.myperfectresume.com/resume/examples/aviation/aeronautical-engineer)
-- Caltech Curriculum Vitae Guide: [Link](https://future.cce.caltech.edu/documents/16424/Preparing_a_Curriculum_Vitae.pdf)
-- Stanford Resume and Cover Letter Examples: [Link](https://careered.stanford.edu/sites/g/files/sbiybj22801/files/media/file/resume-and-cover-letter-examples.pdf)
-- Harvard PhD Resume and Cover Letter Examples: [Link](https://hwpi.harvard.edu/files/ocs/files/phd_resume_cover_letters.pdf)
-- Harvard GSAS CVs and Cover Letters: [Link](https://hwpi.harvard.edu/files/ocs/files/gsas-cvs-and-cover-letters.pdf)
-- Harvard Master's Resume and Cover Letter Template: [Link](https://careerservices.fas.harvard.edu/resources/masters-resume-cover-letter-template/)
-- Harvard Undergraduate Resumes and Cover Letters: [Link](https://hwpi.harvard.edu/files/ocs/files/undergrad_resumes_and_cover_letters.pdf)
-- Harvard Extension School Resume Guide: [Link](https://hwpi.harvard.edu/files/ocs/files/hes-resume-cover-letter-guide.pdf)
-- MIT Sample Resumes: [Link](https://capd.mit.edu/resources/sample-resumes/)
-- MIT Resume Tips and Examples: [Link](https://capd.mit.edu/channels/make-a-resume-cover-letter-cv/)
-- Caltech Resume Tips and Examples: [Link](https://career.caltech.edu/documents/4985/Resume_Tips_Examples.doc.pdf)
-- Caltech CV Tips and Examples: [Link](https://career.caltech.edu/documents/4982/CV_Tips_Examples.pdf)
-- Caltech Graduate Admissions Checklist: [Link](https://gradoffice.caltech.edu/admissions/checklist)
 }
 
 Resume/Curriculum Vitae Prompt for Yahriel Salinas-Reyes
