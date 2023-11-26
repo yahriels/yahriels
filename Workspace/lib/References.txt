@@ -1,3 +1,165 @@
+[Graduate Programs (Deadlines)]
+----
+Stanford Application (due dec. 1)
+
+MIT Application (due dec. 15: WHOI) 
+
+MIT Application (due dec. 1: HST)
+
+Caltech Application (due dec. 15)
+
+UC Berkeley (due dec. 11)
+
+Harvard (due dec. 15) 
+====
+
+[Stanford - 4 Recommenders]
+1. Dr. Martin Thuo
+2. Dr. Thomas Ward
+3. Dr. Xiaolin Zheng/Dr. José Guillermo González Valdez (Pepe)
+4. Dr. Lequetia Ancar
+----
+Prefix	
+First Name	
+Last Name	
+Organization	
+Position/Title	
+Relationship	
+Telephone	
+Email	
+Note: Use your recommender's institutional or corporate email address. Submissions from anonymous email addresses (Gmail, Hotmail, Yahoo) may be subject to additional review.
+Personal message to recommender	
+----
+Prefix	
+First Name	
+Last Name	
+Organization	
+Position/Title	
+Relationship	
+Telephone	
+Email	
+Note: Use your recommender's institutional or corporate email address. Submissions from anonymous email addresses (Gmail, Hotmail, Yahoo) may be subject to additional review.
+Personal message to recommender	
+----
+Prefix	
+First Name	
+Last Name	
+Organization	
+Position/Title	
+Relationship	
+Telephone	
+Email	
+Note: Use your recommender's institutional or corporate email address. Submissions from anonymous email addresses (Gmail, Hotmail, Yahoo) may be subject to additional review.
+Personal message to recommender	
+----
+Prefix	
+First Name	
+Last Name	
+Organization	
+Position/Title	
+Relationship	
+Telephone	
+Email	
+Note: Use your recommender's institutional or corporate email address. Submissions from anonymous email addresses (Gmail, Hotmail, Yahoo) may be subject to additional review.
+Personal message to recommender	
+====
+[Harvard - 3 Recommenders]
+1. Dr. Martin Thuo
+2. Dr. Thomas Ward III
+3. Dr. Lequetia Ancar
+----
+First Name	
+Last Name	
+Organization	
+Position/Title	
+Relationship	
+Telephone	
+Email	
+----
+First Name	
+Last Name	
+Organization	
+Position/Title	
+Relationship	
+Telephone	
+Email	
+----
+First Name	
+Last Name	
+Organization	
+Position/Title	
+Relationship	
+Telephone	
+Email	
+====
+[MIT - 5 Recommenders]
+1. Dr. Martin Thuo
+2. Dr. Thomas Ward III
+3. Dr. Lequetia Ancar
+4. Dr. José Guillermo González Valdez (Pepe)
+5. **EXTRA SPOT**
+----
+Reference Type	
+Prefix	
+First Name	
+Last Name	
+Organization	
+Position/Title	
+Relationship	
+Phone Number	
+Email Address	
+Personal message to recommender	
+----
+Reference Type	
+Prefix	
+First Name	
+Last Name	
+Organization	
+Position/Title	
+Relationship	
+Phone Number	
+Email Address	
+Personal message to recommender	
+----
+Reference Type	
+Prefix	
+First Name	
+Last Name	
+Organization	
+Position/Title	
+Relationship	
+Phone Number	
+Email Address	
+Personal message to recommender	
+----
+Reference Type	
+Prefix	
+First Name	
+Last Name	
+Organization	
+Position/Title	
+Relationship	
+Phone Number	
+Email Address	
+Personal message to recommender	
+----
+Reference Type	
+Prefix	
+First Name	
+Last Name	
+Organization	
+Position/Title	
+Relationship	
+Phone Number	
+Email Address	
+Personal message to recommender	
+====
+[UC Berkeley - 5 Recommenders]
+1. Dr. Martin Thuo
+2. Dr. Thomas Ward III
+3. Dr. Lequetia Ancar
+4. Dr. Andrew Martin
+5. **EXTRA SPOT**
 ----
 Prefix	
 First Name	
@@ -11,38 +173,60 @@ Personal Message to Recommender
 500 characters remaining
 Your personal message will be included in the email notification to this recommender, and it will also be displayed on the recommendation form.
 ----
-First Name	
-Last Name	
-Organization	
-Position/Title	
-Relationship	
-Telephone	
-Email	
-----
-Reference Type	
 Prefix	
 First Name	
 Last Name	
 Organization	
 Position/Title	
-Relationship	
-Phone Number	
-Email Address	
-Personal message to recommender	
+Recommender's Relationship To You	
+Telephone	
+Email	
+Personal Message to Recommender	
+500 characters remaining
+Your personal message will be included in the email notification to this recommender, and it will also be displayed on the recommendation form.
 ----
-
 Prefix	
 First Name	
 Last Name	
 Organization	
 Position/Title	
-Relationship	
+Recommender's Relationship To You	
 Telephone	
 Email	
-Note: Use your recommender's institutional or corporate email address. Submissions from anonymous email addresses (Gmail, Hotmail, Yahoo) may be subject to additional review.
-Personal message to recommender	
+Personal Message to Recommender	
+500 characters remaining
+Your personal message will be included in the email notification to this recommender, and it will also be displayed on the recommendation form.
 ----
-Recommender 1
+Prefix	
+First Name	
+Last Name	
+Organization	
+Position/Title	
+Recommender's Relationship To You	
+Telephone	
+Email	
+Personal Message to Recommender	
+500 characters remaining
+Your personal message will be included in the email notification to this recommender, and it will also be displayed on the recommendation form.
+----
+Prefix	
+First Name	
+Last Name	
+Organization	
+Position/Title	
+Recommender's Relationship To You	
+Telephone	
+Email	
+Personal Message to Recommender	
+500 characters remaining
+Your personal message will be included in the email notification to this recommender, and it will also be displayed on the recommendation form.
+====
+[Caltech - 3 Recommenders]
+1. Dr. Martin Thuo
+2. Dr. Thomas Ward
+3. Dr. Julia R. Greer
+----
+Recommender
 First Name
 Last Name
 Institution/Organization
@@ -50,6 +234,36 @@ Salutation
  
 Title and/or Position
 Email
-
-Submit Recommendation Request
 ----
+Recommender
+First Name
+Last Name
+Institution/Organization
+Salutation
+ 
+Title and/or Position
+Email
+----
+Recommender
+First Name
+Last Name
+Institution/Organization
+Salutation
+ 
+Title and/or Position
+Email
+====
+[List Of Recommenders]
+----
+Dr. Martin Thuo
+Dr. Thomas Ward III
+Dr. Lequetia Ancar
+Dr. Julia R. Greer
+Dr. Xiaolin Zheng
+Dr. José Guillermo González Valdez (Pepe)
+Dr. Maximilian Viatori
+Dr. Andrew Martin
+Carl S McNair
+====
+
+

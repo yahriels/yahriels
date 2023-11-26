@@ -1,5 +1,189 @@
+[Original] Yahriel's Resume:
+{
+Yahriel Salinas-Reyes
 
-To Rebuild Yahriel's Resume Using These Building Resources:
+Human Ingenuity Statement: Here is a simple sign that Yahriel Salinas-Reyes is a genius, not just talented but a true genius. It is a simple rule devised by the philosopher Schopenhauer who distinguished the difference between talent and genius as follows: he said talent hits a target no one else can hit, a genius hits a target no one else can see. What he meant is that talent is really good at outcompeting others. For example if you're talented at something you can do something with ease that other people find difficult. Whereas a genius has nothing to do with besting other people at something they've already established as being important, instead a true genius is about being so good at something that you're ahead of your time that other people don't know yet that what you're doing is important or valuable, and so the talented person is the one who is recognized for their skill. The genius Yahriel is the one doing something no one else can even conceive of doing. Talent hits a target no one else can hit. A genius hits a target no one else can see. Yahriel is one who can see the hidden world of wonders and the invisible grand mysteries of the universe.
+
+Resume/CV
+Education: Iowa State University of Science & Technology, Ames, IA, Bachelor’s of Aerospace Engineering ‘23
+Senior Capstone Project, Iowa State University of Science & Technology, 12/2022-11/2023
+Description: Fundamental principles used in engineering design of aircraft, missile, and space systems. Preliminary design of aerospace vehicles. Engineering Ethics.
+Target Objective: “Modern Design Methodology with Aerospace Application & Design of Aerospace Systems”
+•	Design and production of sUAS consisting of a "mothership" aircraft that deploys two expendable "drone" aircraft capable of delivering a small, versatile payload for industry partners DoD and NATO. 
+•	Implemented machine vision systems, industrial controls, automatic identification & data capture, and responsible for providing data-driven decisions as the signals & control systems/electronics lead.
+•	Utilized systems engineering and aerospace techniques to optimize aircraft design features, dynamic & static stability, and aerodynamic performance of the small, unmanned aircraft system (sUAS). 
+Learning Outcomes: Upon completion, the individual will have reliably demonstrated the ability to:
+•	Apply the engineering design process with regards to aerospace vehicles.
+•	Utilize necessary tools in the engineering design process including computer modeling/simulation and experimentation to help develop the design.
+•	Function effectively on a small team by establishing leaders and member roles, project goals, and a timeline all in a collaborative and inclusive setting.
+•	Communicate effectively in formal and informal settings through written and/or oral means.
+Relevant Topics and Courses/Curriculum
+- Thermodynamics, Flight Dynamics & Controls, Astro-aeronautics, Aerospace & Propulsion Systems
+- Applied Mechanics & Physics, Materials Science & Engineering, Engineering & Polymeric Chemistry
+- Numerical & Graphical Techniques, Advanced Computing, Engineering Statistics, Multi-Variable Calculus
+- Classical Physics, Mechanics of Materials, Engineering Statics, Dynamics & Differential Equations
+- Machine-Learning/Data-Science, Computer Science & Information Tech. Systems, Software Engineering
+- Technical Communication & Proposal Writing, Scientific Manuscript Writing, Literary Analysis & Review
+Relevant Software Experience and Technical Skills
+- SQL, Windows OS, Linux OS, AWS Services, Java, C/C++/C# Programming, Python, MATLAB & Simulink, SAS
+- CAD & FEA, ANSYS/ABAQUS, Systems & Reverse Engineering, Internet of Things, Design of Experiments
+The Order of The Engineer
+the Engineering Student Council will host the Order of the Engineer for graduating engineering students, where they can take an oath of ethics in their engineering careers. Each participant will also receive a ring to commemorate their commitment. This is conducted during your final semester of enrollment for graduating engineering students and graduate students. 
+The Order of the Engineer was initiated in the United States to foster a spirit of pride and responsibility in the engineering profession, bridge the gap between training and experience, and present a visible symbol identifying the engineer to the public.
+Order of the Engineer fosters the understanding that being a licensed professional engineer means more than just holding a certificate and possessing technical competence. It is a commitment to hold the public health, safety, and welfare above all other considerations.
+Academic Honors
+List academic honors you have received:
+1. The Order of The Engineer, The Engineering Student Council at The Iowa State University
+2. The Ronald E. McNair Postbaccalaureate Achievement Program Scholar & The Barry Goldwater Scholarship and Excellence in Education Foundation Finalist
+3. The Boeing Research in Excellence and Technology Fellowship Program (RETF) Scholar & Micro-g Neutral Buoyancy Experiment Design Teams (NExT) Challenge Competition Finalist
+4. The Summer Undergraduate Research Fellowship Program (SURF) Scholar at Stanford University & California Institute of Technology, Program Coordinator
+5. The Louis Stokes Alliances for Minority Participation (LSAMP) Fellowship Program Scholar & Undergraduate Research Certificate Recipient  Awarded by Iowa State University's IINSPIRE-LSAMP Partnership
+6. The FIRST Robotics Competion (FRC) Worlds Championship Rookie Inspiration and Rookie All-Star Awards (International-Level Award) &The Youth Leaderhip Community Award Recieved From The Iowa Department of Human Rights: State of Iowa Youth Advisroy Council (SIYAC)
+Research and Development Experience
+Undergraduate Research Assistant, DARPA - Microscale & Interfacial Fluid Physics Lab, 08/2021-08/2023
+Faculty mentor Dr. Thomas Ward II, Associate Professor, Department of Aerospace Engineering, ISU
+•	Research Project: “Experimental Techniques for Flow Separation Detection and Chemical Sintering”
+•	Operated as Experimental Engineer and composed an SOP for experiments and heavy machinery.
+•	Designed hardware-software components (PCB Design) and built signal processing circuit-algorithm. 
+•	Manufactured MEMS nanocomposite and developed computations to model shear-viscosity at the thermal boundary for the Navier-Stokes Equations
+California Institute of Technology Summer Undergraduate Research Fellow, Greer Group, 05/2022-08/2022
+Faculty mentor Dr. Julia Greer, Assoc. Prof. of Materials Science, A. Mechanics, & Medical Sciences, Caltech
+•	Research Project: “Hybrid Nanocomposites: Semi-Empirical Method of Viscoelastic Behavior”
+•	Created nanocomposite with architectural features to achieve mechanical property enhancements.
+•	Investigated the constituent material systems individually using compressions tests on a dynamic mechanical analyzer and observed deformation zones with scanning electron microscopy.
+•	Developed a semi-empirical model for the deformation mechanisms observed in post-mortem analysis of samples; this enables FEA & Euler Theory to inform the viscoelastic continuum damage model. 
+McNair Scholar, Ronald E. McNair Post-Baccalaureate Achievement Program, 09/2021-05/2022
+Faculty mentor Dr. Ashley Garrin, Director of Ronald E. McNair Program, Graduate College, ISU
+•	Research Project: “Sociological Differences in Graduate School Motivation of Minority Identities”
+•	Constructed an experimental framework, completed literature synthesis, conducted interviews of program mentors, analyzed and interpreted results in a technical manner.
+•	Participated in preparation courses and experiences for doctoral studies through involvement in research and other scholarly activities.
+Undergraduate Researcher, Systems Engineer, Soft Matter Material Transport Group, 08/2019-05/2022
+Faculty mentor Dr. Martin Thuo, Associate Professor, Department of Materials Science and Engineering, ISU
+•	Research Project: “Design of Multi-Function 3D Piezo-electric Devices for Aeronautical Applications”
+•	Explored tunability, sensitivity, utility of paper-based devices with various configurations, optimized device design using engineering methods, created self-automated calibration & data capture system.
+•	Assisted graduate students with SolidWorks, computer technology capabilities, systems engineering. 
+•	This research work was submitted to a scientific peer-review journal for publication(2023).
+Research Fellow, Boeing Undergraduate Research Excellence in Engineering Internship, 08/2021-08/2022
+Faculty mentor Dr. Thomas Ward II, Associate Professor, Department of Aerospace Engineering, ISU
+•	Research Project: “Characterizing Damping Mechanisms in Piezoelectric Wind-Energy Harvesters”
+•	Designed and fabricated green technology low-cost force sensor, explored pathways for aeronautical data collection via aerospace engineering techniques, submitted monthly progress reports to Boeing.
+•	This research work was submitted to a scientific peer-review journal for publication(2023).
+Stanford University Summer Undergraduate Research Fellow, Zheng Research Group, 05/2021-08/2021
+Faculty mentor Dr. Xiaolin Zheng, Associate Professor, Mechanical Engineering, Stanford University
+•	Research Project: “Insights of Machine-Learning(ML) Techniques for Scientific Methods & Prediction”
+•	Conducted literary analysis and literary review of ML methods, Data & Computational Science, and adapted ML methods to scientific methods by developing a bottom-up regression-prediction model. 
+•	Cross-validated various mathematical-kernels(SVM, Random-Forest, etc.) fitted/trained with scientific datums; presented findings in optimizations of experimental design for scientific discovery.
+Undergraduate Research Certificate Recipient,IINSPIRE-LSAMP(NSF) Scholars Program| 08/2019-09/2020
+Faculty mentor Dr. Martin Thuo, Associate Professor, Department of Materials Science and Engineering, ISU
+•	Research Project: “Synthesizing Meta-stable Particles and High-Efficiency Paper-Based MEMS Sensors”
+•	Synthesized undercooled, core-shell liquid metal particles(FM particles), designed experiments to investigate intrinsic properties of FM Particles and MEMS, explored modern applications of research.
+•	Prepared literary review of current state of sensor technology, did deep literary analysis of relevant science engineering research, produced adaptations of MEMS designs to fulfil gaps in research field, presented ideation of low-cost, green technology, sensor devices for industry and social impact.
+Additional Professional and Leadership Experiences
+Design Team Lead,NASA Micro-G Neutral Buoyancy Experiment Design Teams Challenge,08/2021-12/2022
+•	Completed and assigned weekly tasks to design, build, and test a tool or device that addresses an authentic, current space exploration challenge; specifically, Extravehicular activity(EVA).
+•	Completed research in current technologies and lead: prototyping of device components; CAD modeling & reverse engineering; building of prototype; and submitted proposal to competition. 
+•	Our design was utilized by astronaut-scientists in NASA’s Mission to the Moon and Mars and displayed at the Houston exhibition – Inner Space: NASA’s Path to the Moon and Mars(2022)!
+Information Technology Specialist, Iowa State University of Science & Technology, 08/2019-05/2023
+•	Held responsibilities for the implementation, monitoring, and maintenance of IT computer systems.
+•	Solved technical problems: computer systems, software, hardware, networks, cloud platforms, etc.
+•	Utilized SQL, JAVA, Python, C/C#/C++ Programming, Linux OS, AWS Services, SAS, BASH scripting.
+Community Engagement, Public Relations & Policy, and Social Work
+Residential Advisor and Honors Community Leader, Department of Residence, 08/2020-05/2022
+•	Engaged students & nurtured healthy-positive experiences for the resident community; moderated meetings to address concerns; directed multi-lingual health & resource programming for college.  
+Youth-Lobbyist,Iowa Department of Human Rights: State of Iowa Youth Advisory Council, 06/2018-12/2021
+•	Acted as chair/program-coordinator of the Violence-Prevention & Diversity-Education Program.
+•	Advocated to state legislators for reformation of violence prevention education & implementation of culturally diverse curriculum standards at the state-local level; wrote & proposed bills to chamber.
+•	Received the Community Service Leadership Award for completing over 200 service hours in a term. 
+Stewardship and Service
+Community Leader & Multi-lingual Ambassador/Educator, CultureAll  Educational Nonprofit, Fall 2023
+•	Assisted in organizing events to engage local educators and institutional leaders at the state and local level, provided developmental and networking opportunities for young professionals, volunteered at local events to provide diversity education to communities or groups in need.
+Community Honors Leader, Iowa State University Honors Program, Fall 2020-Spring 2022
+•	Provided professional and research development resources to the Honors Program and its honors students, acted as mentor to honors students while the Honors Residential Advisor.
+Coordinator of Violence Prevention & Educational Coverage, Iowa Non-Profits, Spring 2020-Summer 2020
+•	Utilized skills and experience in community social work to lead interns in creating mental health resources/content in multiple languages; distributed resources and content to local youth of color during the pandemic and rise in violence of 2020. 
+Latinx Forum Panelist & Multi-lingual Advocate, Association of Iowa Latinx Professionals, Fall 2020
+•	Shared my professional experience and pathway as a First-Generation College Student, answered questions about professional development and experiences, provided personal developmental content and resources for Latinx leaders.
+Workshop Presenter, National White Privilege Conference, Spring 2020
+•	Developed and presented a workshop “How to engage students of color in higher education” at the White Privilege Conference to national leaders to share my knowledge and resources. 
+Academic Honors, Fellowships, Scholarships, and Awards:
+The Order of The Engineer, Iowa State University of Science and Technology: Engineering Student Council, 2023
+American Institute of Aeronautics and Astronautics, 2023
+NASA Micro-G Neutral Buoyancy Experiment Design Teams Challenge, 2022
+Ronald E. McNair Post-Baccalaureate Achievement Program Fellowship, 2021-2023
+SURF Scholar at Stanford University & California Institute of Technology, 2021-2022
+The Barry Goldwater Scholarship and Excellence in Education Foundation Finalist, 2021-2022
+State of Iowa Youth Advisory Council Community Leadership Award, 2020 (250 Community Service Hours)
+CBS News Interview of Global Latino Leaders: Hispanic Heritage Month, 2020
+Undergraduate Research Certificate, 2019-2020, IINSPIRE-LSAMP
+Construction Industry Round Table (CIRT) National Design & Construction Competition Back-to-Back Champion, 2019-2020
+University Honors Program Member, 2019-2022
+Latinx Student Initiatives 2019-2022
+Stanford SURF Lightning Talks Best Poster Award, 2021
+Society for the Advancement of Chicanos and Native Americans in Science, 2020
+Dean's List, 2020-2021
+Iowa Latino Heritage Festival Scholarship Recipient, 2020
+Latinos Unidos Scholarship Recipient, 2020
+CBS News Interviewee of Presidential Candidates and Latino Leaders, 2020
+Student Iowa Youth Advisory Council Community Service Award, 2020
+Zeta Kappa Lambda Educational Foundation Scholarship Recipient,  2019
+Des Moines Area Community College President's List,  Spring 2018, Spring 2019
+Architecture Construction & Engineering (ACE) Mentorship Program Alumni,  Spring 2019
+The Construction Industry Round Table (CIRT) Affiliate , 2020
+CIRT National Design & Construction Competition Back-to-Back Champion , 2020-2021
+FIRST ROBOTICS Awards: Rookie Inspiration Award & Rookie All-Star Award, 2019
+Research Activities and Associations
+	Research Activities	Associations
+-	MEMS Shear Sensor and Flow Separation Theory, funded by DARPA	 - Microscale Interfacial Fluid Physics Laboratory
+-	Energy Absorbing Nano-Architected Composites, funded by SFP Programs	- Julia R. Greer Group at CALTECH
+-	Wind Energy and Development of MEMS Sensors, funded by Boeing	- Boeing Aerospace Research Fellowship
+-	Implementation of ML into The Scientific Method, funded by SFP Programs	- Z Energy Lab at Stanford University
+-	Applications of Multi-functional Piezo-electric Devices, funded by NSF	- Goldwater Finalist/McNair Program at ISU
+-	Opportunities of Kirigami-Inspired MEMS Devices, funded by NSF	- Soft Materials Matter Transport Group
+-	Heat-Free Manufacturing of Paper-Based MEMS Sensor, funded by ISU Honors	- Iowa State University Honors Program
+Publications and Scientific Writings:
+"Exploring Bio-Processing & Devices in Micro & Nanoscience," 2020, NCUR STEM Conference
+"Bioprocessing in Wine Yeast for Mental Health Treatments," 2023, STEM Symposium
+"Modern Design Methodology & Design of Aerospace Systems," 2023, Senior Capstone Project
+"Quantum Tunnelling Composites: Analytical Monte Carlo Model & Navier-Stokes," 2023
+"Understanding the Mathematical Language-The Code- of the Universe," 2021, TEDx Talk
+"Characterizing Damping Mechanisms in Piezoelectric Wind-Energy Harvesters," 2023
+"Kirigami-Inspired Design of Paper-Based MEMS Devices for Aeronautical Application," 2022
+"Synthesizing Meta-Stable Particles & High-Efficiency MEMS Sensors and Nanodevices," 2021
+Honors, Awards, and Membership
+•	University Honors Program Member, Fall 2019-Fall 2023
+•	Ronald E. McNair Program Scholar, Fall 2021-Fall 2023
+•	Latinx Student Initiatives, Fall 2019-Spring 2022
+•	Stanford SURF Lightning Talks Best Poster Award, Summer 2021
+•	Society for the Advancement of Chicanos and Native Americans in Science, Spring 2020
+•	Dean’s List, Fall 2019, Spring 2020
+•	Iowa Latino Heritage Festival Scholarship Recipient, 2020
+•	Latinos Unidos Scholarship Recipient, 2020
+•	CBS News Interviewee of Presidential Candidates and Latino Leaders, 2020
+•	Student Iowa Youth Advisory Council Community Service Award, Spring 2020
+•	Zeta Kappa Lambda Educational Foundation Scholarship Recipient, 2019
+•	Des Moines Area Community College President’s List, Spring 2018, Spring 2019
+•	Architecture Construction & Engineering (ACE) Mentorship Program Alumni, Spring 2019
+•	The Construction Industry Round Table (CIRT) Affiliate, Fall 2020
+•	CIRT National Design & Construction Competition Back-to-Back Champion| Spring 2019, Spring 2020
+•	FIRST ROBOTICS Awards: Rookie Inspiration Award & Rookie All-Star Award, Fall 
+Research Presentations and Scientific Thematic Talks
+1.	Y. Salinas-Reyes, H. Seabold, A. Martin, M. Thuo (2020, April). Exploring the Piezoresistive Effect and Paper-based MEMS Sensors. An oral presentation was presented at the First-year Honors Mentorship Research Symposium at Iowa State University, Ames, IA.
+2.	Y. Salinas-Reyes, A. Martin, M. Thuo (2020, August). Integration of paper-based MEMS sensors into computer technology. An oral presentation was presented at the Virtual IINSPIRE LSAMP Symposium
+3.	Y. Salinas-Reyes, A. Martin, M. Thuo (2020, October). Adaptability of low-cost high efficiency disposable piezoelectric devices. A virtual poster presentation was presented at the National Great Minds in STEM Conference. 
+4.	Y. Salinas-Reyes, A. Martin, M. Thuo (2021, April). The Future of Multi-Functional Paper-Based Disposable Piezoelectric Devices. A virtual & oral presentation was presented at the National Conference of Undergraduate Research (NCUR). 
+5.	Y. Salinas-Reyes, X. Zheng (2021, August). Predicting Olympic Triathlon Results via Machine Learning. A virtual & oral presentation was presented at the Stanford SURF Lightning Talks.
+6.	Y. Salinas-Reyes, Julia R. Greer (2022, August). Energy Absorption in Nano-Architected Hybrid Composites. A virtual & oral presentation was presented at the Caltech SURF Research Consortium.
+7.	Y. Salinas-Reyes, Ivaldi Co. (2022, May). Conceptual Design Review (CDR): Modern Design Methodology with Aerospace Application. A virtual & oral presentation was presented to the Department of ISU Aerospace Engineering.
+8.	Y. Salinas-Reyes, T. Ward III (2022, May). Shear-Sensing Principals of Interfacial Viscous-Shear Flow and Piezomobility—strain-induced mobility—at The Wall (Thermal Boundary). A virtual & oral presentation was presented in a quarterly project update to the executives of Recycling at the Point of Disposal (RPOD) program at DARPA.
+9.	Y. Salinas-Reyes, T. Ward III (2023, July). Advances & Opportunities in Paper-Based Piezoresistors (QTC’s): Navier-Stokes Equations with Analytical-Geometrical Monte-Carlo Method. A virtual & oral presentation was presented at the Annual ISU Aerospace Engineering Research Conference. 
+10.	Y. Salinas-Reyes, T. Ward III (2023, August). Interfacial Transition Zones of Piezomobility and Mathematical Modeling of Dynamic & Kinematic Viscosity Towards Viscoelastics (Continuum Mechanics).  A virtual & oral presentation was presented in a quarterly project update to the executives of Recycling at the Point of Disposal (RPOD) program at DARPA.
+11.	Y. Salinas-Reyes, Ivaldi Co. (2023, September). Executive and Granter Design Sign-Off: Design of Aerospace Systems (i.e., sUAS). A virtual & oral presentation, and written report was presented to the Department of ISU Aerospace Engineering.
+12.	Y. Salinas-Reyes, Iowa State University: Aerospace Engineering (2023, December). Senior Thesis Presentation and Final Defense. A virtual & oral presentation, and formal manuscript was presented to the Department of ISU Aerospace Engineering.
+}
+
+----
+
+Purpose: To Rebuild Yahriel's Resume Using These Building Resources:
 {
 https://www.kickresume.com/en/help-center/aerospace-engineer-resume-samples/
 https://www.jobhero.com/resume/examples/engineering/aerospace-engineer\
@@ -22,113 +206,937 @@ https://mitcommlab.mit.edu/broad/commkit/cvresume/
 https://career.caltech.edu/documents/4985/Resume_Tips_Examples.doc.pdf
 https://career.caltech.edu/documents/4982/CV_Tips_Examples.pdf
 https://gradoffice.caltech.edu/admissions/checklist
+}
 
 ----
+
+**Resume/Curriculum Vitae Prompt for Yahriel Salinas-Reyes**
+
+Please create a comprehensive resume or curriculum vitae (CV) for Yahriel Salinas-Reyes, focusing on the following sections:
+
+1. **Teaching, Professional, and Vocational Experience:**
+   - Include military service.
+   - Omit summer or part-time work not relevant to Yahriel's professional goals.
+
+2. **Research Experience:**
+   - List experiences in order of significance.
+   - Include details such as the organization name, principal investigator, and dates of experience.
+
+3. **Major Academic Recognitions, Honors, and Memberships:**
+   - Highlight any significant recognitions, honors, or memberships in scientific, professional, and honorary societies.
+
+4. **Professional Activities:**
+   - Outline any relevant professional activities Yahriel has been involved in.
+
+5. **Significant Extracurricular Activities:**
+   - Include any extracurricular activities that have played a significant role in Yahriel's academic or personal development.
+
+6. **Conference Presentations:**
+   - Detail any conference presentations Yahriel has participated in.
+
+7. **Publications/Presentations/Posters:**
+   - List publications, presentations, or posters authored or co-authored, in order of significance.
+
+8. **Awards & Honors:**
+   - Include any awards or honors received, with corresponding dates.
+
+9. **Work Experience:**
+   - Detail prior work experiences, including internships, part-time, and full-time employment.
+   - List up to six experiences, prioritizing relevance to Yahriel's professional goals.
+
+10. **CV/Resume Attachment:**
+    - Upload Yahriel's current resume/CV.
+
+Ensure that the information is organized, concise, and tailored to showcase Yahriel Salinas-Reyes' achievements, skills, and qualifications for the desired graduate program.
+
+Feel free to utilize the provided resources for resume samples and guidelines. Remember to adapt the language and format to present Yahriel's unique strengths and experiences effectively.
+
+{
 Resume/Curriculum Vitae
+Please prepare a comprehensive CV or resume for Yahriel Salinas-Reyes, incorporating the following elements:
+
+1. Teaching, professional, and vocational experience (include military service, but omit summer or part-time work not relevant to professional goals).
+2. Research experience, detailing each experience in order of significance, with the most meaningful experience listed first.
+3. Major academic recognitions, honors, and memberships in scientific, professional, and honorary societies.
+4. Professional activities.
+5. Significant extracurricular activities.
+6. Conference presentations.
+7. Titles of publications, major papers, or theses authored or co-authored; if published, provide citation.
+
+Please use the provided resources to structure the CV appropriately. Additionally, include relevant details such as organization names, roles, countries, cities, states, dates of participation, frequency of participation (hours per week, weeks per year), and descriptions of participation.
+
+Be sure to attach the CV or resume at the end of the response.
+
+[Resources]
+- Kickresume Aerospace Engineer Resume Samples: [Link](https://www.kickresume.com/en/help-center/aerospace-engineer-resume-samples/)
+- JobHero Aerospace Engineer Resume Examples: [Link](https://www.jobhero.com/resume/examples/engineering/aerospace-engineer)
+- MyPerfectResume Aeronautical Engineer Resume Examples: [Link](https://www.myperfectresume.com/resume/examples/aviation/aeronautical-engineer)
+- Caltech Curriculum Vitae Guide: [Link](https://future.cce.caltech.edu/documents/16424/Preparing_a_Curriculum_Vitae.pdf)
+- Stanford Resume and Cover Letter Examples: [Link](https://careered.stanford.edu/sites/g/files/sbiybj22801/files/media/file/resume-and-cover-letter-examples.pdf)
+- Harvard PhD Resume and Cover Letter Examples: [Link](https://hwpi.harvard.edu/files/ocs/files/phd_resume_cover_letters.pdf)
+- Harvard GSAS CVs and Cover Letters: [Link](https://hwpi.harvard.edu/files/ocs/files/gsas-cvs-and-cover-letters.pdf)
+- Harvard Master's Resume and Cover Letter Template: [Link](https://careerservices.fas.harvard.edu/resources/masters-resume-cover-letter-template/)
+- Harvard Undergraduate Resumes and Cover Letters: [Link](https://hwpi.harvard.edu/files/ocs/files/undergrad_resumes_and_cover_letters.pdf)
+- Harvard Extension School Resume Guide: [Link](https://hwpi.harvard.edu/files/ocs/files/hes-resume-cover-letter-guide.pdf)
+- MIT Sample Resumes: [Link](https://capd.mit.edu/resources/sample-resumes/)
+- MIT Resume Tips and Examples: [Link](https://capd.mit.edu/channels/make-a-resume-cover-letter-cv/)
+- Caltech Resume Tips and Examples: [Link](https://career.caltech.edu/documents/4985/Resume_Tips_Examples.doc.pdf)
+- Caltech CV Tips and Examples: [Link](https://career.caltech.edu/documents/4982/CV_Tips_Examples.pdf)
+- Caltech Graduate Admissions Checklist: [Link](https://gradoffice.caltech.edu/admissions/checklist)
+}
+
+Resume/Curriculum Vitae Prompt for Yahriel Salinas-Reyes
+
 Please attach a CV or resume that includes the following, if applicable:
 
-Teaching, professional, and vocational experience (include military service, but omit summer or part-time work not relevant to your professional goals)
-Research experience
-Major academic recognitions, honors, and memberships in scientific, professional and honorary societies
-Professional activities
-Significant extracurricular activities
-Conference presentations
-Titles of publications, major papers, or theses authored or co-authored; if published provide citation.
+1. **Teaching, professional, and vocational experience** (include military service, but omit summer or part-time work not relevant to your professional goals)
+2. **Research experience**
+3. Major academic recognitions, honors, and memberships in scientific, professional, and honorary societies
+4. Professional activities
+5. Significant extracurricular activities
+6. Conference presentations
+7. Titles of publications, major papers, or theses authored or co-authored; if published provide citation.
+
+For each entry, include the following details:
+- **Organization Name**
+- **Role**
+- **Country**
+  - United States
+- **City**
+- **State**
+  - Select State
+- **Dates of Participation**
+  - From: [Start Date] 
+  - To: [End Date or Present if ongoing]
+- **Frequency of Participation**
+  - [hours per week]
+  - [weeks per year]
+- **Description of Participation**
+
+For Employment Entries:
+- **Organization Name**
+- **Country**
+  - United States
+- **City**
+- **State**
+  - Select State
+- **Dates of Employment**
+  - From: [Start Date] 
+  - To: [End Date or Present if ongoing]
+- **Position/Title**
+- **Starting Compensation**
+  - Annual Base in $U.S.
+  - Annual Bonus in $U.S.
+- **Ending Compensation**
+  - Annual Base in $U.S.
+  - Annual Bonus in $U.S.
+- **Hours/Week**
+- **Description**
+
+For Research Experience Entries:
+- **Organization Name**
+- **Principal Investigator**
+- **Dates of Experience**
+  - From: [Start Date] 
+  - To: [End Date or Present if ongoing]
+
+For Awards & Honors Entries:
+- **Award/Honor**
+- **Date Received**
+
+For Publications/Presentations/Posters Entries:
+- **Title**
+- **Type**
+
+For Work Experience Entries:
+- **Organization Name**
+- **Dates of Experience**
+  - From: [Start Date] 
+  - To: [End Date or Present if ongoing]
+
+Please ensure that your resume/CV is well-organized, and entries are coherent and showcase your professional and academic achievements.
+
 ----
-Organization Name	
-Role	
-Country	
-United States
-City	
-State	
-Select State
-Dates of Participation	
 
-to
-Present
-
-Frequency of Participation	
-hours per week
-weeks per year
-Description of Participation	
-----
-Edit Employer Entry
-Organization Name	
-
-Country	
-United States
-City	
-Des Moines
-State	
-Iowa
-Dates of Employment	
-
-
-to
-Present
-
-Description	
+Templates: To Format Yahriel's Resume Using These Templating Resources
+{
+https://www.overleaf.com/latex/templates/clean-resume/xnndrgfhyjzg : https://www.overleaf.com/latex/templates/clean-resume/xnndrgfhyjzg.pdf
+https://www.overleaf.com/latex/templates/tech-resume/trwtkjyhyyrh : https://www.overleaf.com/latex/templates/tech-resume/trwtkjyhyyrh.pdf
+https://www.overleaf.com/latex/templates/simplified-medium-length-professioal-cv-template/pczvfqqzmnvf : https://www.overleaf.com/latex/templates/simplified-medium-length-professioal-cv-template/pczvfqqzmnvf.pdf
+https://www.overleaf.com/latex/templates/cv-developer/rdycxzvvnvcc : https://www.overleaf.com/latex/templates/cv-developer/rdycxzvvnvcc.pdf
+https://www.overleaf.com/latex/templates/sde-template-sharath/srkjmnmjfmnz : https://www.overleaf.com/latex/templates/sde-template-sharath/srkjmnmjfmnz.pdf
+}
 
 ----
-Research Experience
-If you have prior research experience, provide details about each experience below. List experiences in order of significance to you, with the most meaningful experience listed first.
 
-You may list up to six experiences in this section. If you wish to share more, include this information in your resume/CV at the bottom of this page.
-Organization Name	Principal Investigator	Dates of Experience
-Add Research Experience
-Have you participated in any Stanford summer research or graduate preview programs? Select all that apply.
-Summer Undergraduate Research Fellowship (SURF) in Engineering
-What year(s) did you participate?
-2021
+Sample Templates: To Serve As A Starting Point In Structuring And Formatting Yahriel's Resume
+{
+\documentclass[10pt]{article}
+\usepackage[a4paper,bottom = 0.6in,left = 0.75in,right = 0.75in,top = 1cm]{geometry}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{array}
+\usepackage{enumitem}
+\usepackage{wrapfig}
+\usepackage{microtype}
+\usepackage{titlesec}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{url}
+\usepackage{enumitem}
+\usepackage{palatino}
+\usepackage{tabularx}
+\fontfamily{SansSerif}
+\usepackage{fontawesome5}
+\usepackage[hidelinks]{hyperref}
+\usepackage{textcomp}
 
-Publications/Presentations/Posters
-If applicable, list any publications you have authored or presentations/posters you have delivered in order of significance to you, with the most meaningful listed first.
+\usepackage{verbatim}
+\usepackage{makecell}
+\usepackage{pbox}
 
-You may list up to five publications/presentations/posters on this page. If you wish to share more, include this information in your resume/CV at the bottom of this page.
-Title	Type
-Add Publication/Presentation/Poster
+%for color
+\usepackage[usenames, dvipsnames]{color}
+\definecolor{myblue}{RGB}{10,0,254}
 
-Awards & Honors
-If applicable, list any awards or honors you have received.
+% Adjusting the margins
+\enlargethispage{2\baselineskip} % you can adjust the number based on your content's fit in the page
 
-You may list up to six awards in this section. If you wish to share more, include this information in your resume/CV at the bottom of this page.
-Award/Honor	Date Received
-Add Award/Honor
+\newcommand{\xfilll}[2][1ex]{
+\dimen0=#2\advance\dimen0 by #1
+\leaders\hrule height \dimen0 depth -#1\hfill}
+\titleformat{\section}{\large\scshape\raggedright}{}{0em}{}
+\renewcommand\labelitemi{\raisebox{0.4ex}{\tiny$\bullet$}}
+\renewcommand{\labelitemii}{$\cdot$}
+\pagenumbering{gobble}
 
-Work Experience
-If you have prior work experience, provide details about each experience below. Experiences may include internships, part-time and full-time employment.
 
-You may list up to six experiences in this section. If you wish to share more, include this information in your resume/CV at the bottom of this page.
-Organization Name	Dates of Experience
-Add Work Experience
+\usepackage[T1]{fontenc}
+\usepackage
+%[ansinew]
+[utf8]
+{inputenc}
 
-Resume/CV
-Upload your current resume/CV.
-----
-Organization Name	
-Country	
-United States
-City	
-State	
-Select State
-Telephone	
-Dates of Employment	
+\usepackage{color}
+\definecolor{mygrey}{gray}{0.99}
+\textheight=10in
+\raggedbottom
 
-to
-Present
+\setlength{\tabcolsep}{0in}
+\newcommand{\isep}{-2 pt}
+\newcommand{\lsep}{-0.5cm}
+\newcommand{\psep}{-0.6cm}
+\renewcommand{\labelitemii}{$\circ$}
 
-Position/Title	
-Starting Compensation	
+\pagestyle{empty}
+%-----------------------------------------------------------
+%Custom commands
+\newcommand{\resitem}[1]{\item[{\color[RGB]{10,0,254}$\bullet$}] #1 \vspace{-2pt}}
+\newcommand{\resheading}[1]{{\small \colorbox{mygrey}{\begin{minipage}{0.99\textwidth}{\textbf{#1 \vphantom{p\^{E}}}}\end{minipage}}}}
+\newcommand{\ressubheading}[3]{
+\begin{tabular*}{8.62in}{l @{\extracolsep{\fill}} r}
+	\textsc{{\textbf{#1}}} & \textsc{\textit{[#2]}} \\
+\end{tabular*}\vspace{-8pt}}
 
-Annual Base in $U.S.	
 
-Annual Bonus in $U.S.
-Ending Compensation	
+\begin{document}
+\begin{table}
+    \begin{center}
+    {\Huge \scshape Firstname Lastname} \\ \vspace{1pt}
+    SOFTWARE ENGINEER \\ \vspace{1pt}
+    \small \raisebox{-0.1\height}\faPhone\ +1-234-567-890 ~ \href{mailto:yourmail@gmail.com}{\raisebox{-0.2\height}\faEnvelope\  \underline{yourmail@gmail.com}} ~ 
+    \href{https://linkedin.com/in/yourid}{\raisebox{-0.2\height}\faLinkedin\ \underline{/yourid}}  ~
+    \href{https://github.com/yourid}{\raisebox{-0.2\height}\faGithub\ \underline{/yourid}} ~
+    \href{https://websiteurl.com}{\raisebox{-0.2\height}\faGlobe\ \underline{/websiteurl.com}}
+    \vspace{-8pt}
+\end{center}
+\end{table}    
 
-Annual Base in $U.S.	
+\setlength{\tabcolsep}{15pt} % decrease the value if the content is overfitting
+\begin{table}
+\centering
+\begin{tabular}{lllll}
+\toprule
+\textbf{Examination} & \textbf{Majors}   & \textbf{Institute}    & \textbf{Year}     & \textbf{CPI/\%} \\ 
+\toprule
+Graduation & Field & Institute Name  & 2020-2024   & 7.6\\ 
+Intermediate & Field & Institute Name  & 2018-2020   & 83.23    \\ 
+Matriculation & Field  & Institute Name  & 2006-2018   & 90.80   \\
+\bottomrule \\[-0.75cm]
+\end{tabular}
+\end{table}
+% \fi 
+\vspace{-8pt}
 
-Annual Bonus in $U.S.
-Hours/Week	
-Description	
-----
+%%% SHORT SUMMARY %%%
+\section*{{ \LARGE \color{myblue} Summary}\xfilll[0pt]{0.5pt}}
+\vspace{-15pt}
+\vspace{1.5mm}
+Describe your professional self in a few lines
+\vspace{-8pt}
+
+%%%% SCHOLASTIC ACHIEVEMENTS %%%%
+% \section*{{\LARGE \color{myblue}Scholastic Achievements}\xfilll[0pt]{0.5pt}}
+% \vspace{-15pt}
+% \vspace{1.5mm}
+
+% \begin{itemize}[itemsep = -0.70 mm, leftmargin=*]
+% \item[{\color[RGB]{10,0,254}$\bullet$}] \noindent Pursuing a \textbf{Minor} in Industrial Design Center(IDC)                         
+% \item[{\color[RGB]{10,0,254}$\bullet$}] \noindent Ranked in the top \textbf{3 \%} among \textbf{0.2 million} candidates in JEE Advanced 2017 \hfill {\ \small [April'17]}
+% \item[{\color[RGB]{10,0,254}$\bullet$}] \noindent Ranked in the top \textbf{1 \%} among \textbf{1.5 million} candidates in JEE Mains 2017 \hfill {\ \small [June'17]}
+% \item[{\color[RGB]{10,0,254}$\bullet$}] \noindent Secured the \textbf{1st position} in intra-state Talent Search Contest among \textbf{0.1 million} students conducted by \textbf{Navodaya Educational Society And Welfare Committee, Bhopal}\hfill {\ \small [July'15]} 
+% \item[{\color[RGB]{10,0,254}$\bullet$}] \noindent Awarded \textbf{SBI Scholar} Fellowship which is given to meritorious children of SBI staff \hfill {\ \small [July'17]}
+
+% \end{itemize}
+% \vspace{-15pt}
+% \vspace{-7pt}
+
+%%%% PROFESSIONAL EXPERIENCE %%%%
+\section*{{\LARGE \color{myblue}Professional Experience}\xfilll[0pt]{0.5pt}}
+\vspace{-15pt}
+\vspace{1.5mm}
+
+%\begin{itemize}[itemsep = -0.75 mm, leftmargin=*]
+\textbf{\large Role}| \normalfont{Company Name 1} \hfill { \small Sep 2023 - Oct 2023}
+\\[-0.5cm]
+% \emph{Awarded Letter of Recommendation for excellent performance during the internship period } 
+\\[-0.6cm]	
+	\begin{itemize}[itemsep = -0.75 mm, leftmargin=*]
+	\item[{\color[RGB]{10,0,254}$\bullet$}] \noindent Your item 1
+	\item[{\color[RGB]{10,0,254}$\bullet$}] \noindent Your item 2
+        \end{itemize} 
+\textbf{\large Role}| \normalfont{Company Name 2} \hfill { \small Sep 2023 - Oct 2023}
+\\[-0.5cm]
+% \emph{Awarded Letter of Recommendation for excellent performance during the internship period } 
+\\[-0.6cm]	
+	\begin{itemize}[itemsep = -0.75 mm, leftmargin=*]
+	\item[{\color[RGB]{10,0,254}$\bullet$}] \noindent Your item 1
+	\item[{\color[RGB]{10,0,254}$\bullet$}] \noindent Your item 2
+        \end{itemize} 
+\vspace{-15pt}
+
+%%% SKILLS %%%
+\section*{{\LARGE \color{myblue}Technical Skills}\xfilll[0pt]{0.5pt}}
+
+\vspace{-22pt}
+\setlength{\tabcolsep}{9pt}
+\begin{table}[h]
+
+\begin{tabular}{lllll}
+
+\textbf{Programming} & C, JavaScript, R, Solidity, SQL \\ 
+\textbf{Development} & Bootstrap, ExpressJS, Handlebars, NodeJS, ReactJS \\ 
+\textbf{Design} & Figma, Illustrator, Photoshop, Wordpress \\ 
+\textbf{Tools} & Git, GitHub, MySQL, VSCode
+
+\end{tabular}
+\end{table}
+% \fi 
+
+\vspace{-20pt}
+% \fi 
+
+
+
+
+%%% PROJECTS %%%
+\section*{{ \LARGE \color{myblue} Projects}\xfilll[0pt]{0.5pt}}
+\vspace{-13pt}
+\vspace{1.5mm}
+
+{\LARGE \textcolor{black}{Development}}
+\vspace{-6.5pt}
+\par\noindent\hrulefill % Add a horizontal line
+\\[0.15cm]
+\textbf{\large Project Name 1}| \normalfont{MongoDB, ExpressJS, ReactJS, NodeJS} \hfill {\ \small Ongoing}
+\\[0.05cm]
+\emph{Organzation Name} \hfill {\ \small (Expected by Oct '23)} 
+\\[-0.6cm]
+	\begin{itemize}[itemsep = -0.75 mm, leftmargin=*]
+	\item[{\color[RGB]{10,0,254}$\bullet$}] \noindent Describe your project here 1.
+	\item[{\color[RGB]{10,0,254}$\bullet$}] \noindent Describe your project here 2.
+	\end{itemize} 	
+\textbf{\large Project Name 2}| \normalfont{Flutter, Ethereum, Solidity} \hfill {\ \small Jan 2023}
+\\[0.05cm]
+\emph{Organzation Name} \hfill {{\href{https://www.yourprojectlink.com}{\underline{Project Link} }} 
+\\[-0.6cm]
+	\begin{itemize}[itemsep = -0.75 mm, leftmargin=*]
+	\item[{\color[RGB]{10,0,254}$\bullet$}] \noindent Describe your project here 1.
+	\item[{\color[RGB]{10,0,254}$\bullet$}] \noindent Describe your project here 2.
+	\end{itemize} 	
+ {\LARGE \textcolor{black}{Machine Learning}}
+\vspace{-6.5pt}
+\par\noindent\hrulefill % Add a horizontal line
+\\[0.15cm]
+ \textbf{\large Project Name 3}| \normalfont{Python, Keras, Tensorflow} \hfill {\ \small Aug 2022 - Sep 2022}
+\\[0.05cm]
+\emph{Organzation Name} \hfill {{\href{https://www.yourprojectlink.com}{\underline{Project Link} }}
+\\[-0.6cm]
+	\begin{itemize}[itemsep = -0.75 mm, leftmargin=*]
+	\item[{\color[RGB]{10,0,254}$\bullet$}] \noindent Describe your project here 1.
+	\item[{\color[RGB]{10,0,254}$\bullet$}] \noindent Describe your project here 2.
+	\end{itemize} 	
+\vspace{-15pt}
+
+%%% PUBLICATIONS %%%
+\section*{{\LARGE \color{myblue}Publications}\xfilll[0pt]{0.5pt}}
+\vspace{-8pt}
+\textbf{\large{Title of Publication}} \hfill {\ \small Mar 2022}
+\\[0.05cm]
+\emph{Name of Publishing Organization} \hfill{\small ISBN: 123-456-789-0}
+\\[-0.6cm]
+\begin{itemize}[itemsep = -0.75 mm, leftmargin=*]
+    \item[{\color[RGB]{10,0,254}$\bullet$}] \noindent Your item 1.
+    \item[{\color[RGB]{10,0,254}$\bullet$}] \noindent Your item 2.
+\end{itemize}
+\textbf{\large{Title of Publication}} \hfill {\ \small Mar 2022}
+\\[0.05cm]
+\emph{Name of Publishing Organization} \hfill{\small ISBN: 123-456-789-0}
+\\[-0.6cm]
+\begin{itemize}[itemsep = -0.75 mm, leftmargin=*]
+    \item[{\color[RGB]{10,0,254}$\bullet$}] \noindent Your item 1.
+    \item[{\color[RGB]{10,0,254}$\bullet$}] \noindent Your item 2.
+\end{itemize}
+
+%%% COURSES %%%
+
+\section*{{\LARGE \color{myblue}Key Courses Undertaken}\xfilll[0pt]{0.5pt}}
+\vspace{-15pt}
+\vspace{1.5mm}
+
+\textbf{\large Mathematics and Statistics}
+\\[-0.6cm]
+\begin{itemize}[itemsep = -0.75 mm, leftmargin=*]
+	\item[{\color[RGB]{10,0,254}$\bullet$}] \noindent Calculus, Probability and Random Processes, Basics of Statistics, Data Preprocessing for Regression Analysis, Regression Models, Classification Models, Support Vector Machines, Ensemble Techniques, Artificial Neural Networks
+	\end{itemize}
+\textbf{\large Computer Science}
+\\[-0.6cm]
+\begin{itemize}[itemsep = -0.75 mm, leftmargin=*]
+	\item[{\color[RGB]{10,0,254}$\bullet$}] \noindent Structured Programming Approach, Data Structures and Algorithms, Operating Systems, Computer Networks
+	\end{itemize}
+\vspace{-15pt}
+
+
+%%% POSITIONS OF RESPONSIBILITY %%%
+ \section*{{\LARGE \color{myblue}Positions of Responsibility}\xfilll[0pt]{0.5pt}}
+\vspace{-15pt}
+\vspace{1.5mm}
+
+\textbf{\large{Position}}} \hfill {\ \small Feb 2022 - Present}
+\\[0.05cm]
+\emph{Name of Organization}
+\\[-0.6cm]
+\begin{itemize}[itemsep = -0.75 mm, leftmargin=*]
+    \item[{\color[RGB]{10,0,254}$\bullet$}] \noindent Your item 1.
+	\item[{\color[RGB]{10,0,254}$\bullet$}] \noindent Your item 2.
+	\end{itemize}
+\textbf{\large{Position}} \hfill {\ \small Feb 2022 - Present}
+\\[0.05cm]
+\emph{Name of Organization}
+\\[-0.6cm]
+\begin{itemize}[itemsep = -0.75 mm, leftmargin=*]
+    \item[{\color[RGB]{10,0,254}$\bullet$}] \noindent Your item 1.
+	\item[{\color[RGB]{10,0,254}$\bullet$}] \noindent Your item 2.
+	\end{itemize}
+ \textbf{\large{Position}} \hfill {\ \small Feb 2022 - Present}
+\\[0.05cm]
+\emph{Name of Organization}
+\\[-0.6cm]
+\begin{itemize}[itemsep = -0.75 mm, leftmargin=*]
+    \item[{\color[RGB]{10,0,254}$\bullet$}] \noindent Your item 1.
+	\item[{\color[RGB]{10,0,254}$\bullet$}] \noindent Your item 2.
+	\end{itemize}
+
+
+%%% PUBLICATIONS %%%
+\section*{{\LARGE \color{myblue}Publications}\xfilll[0pt]{0.5pt}}
+\vspace{-8pt}
+\textbf{\large{Title of Publication}} \hfill {\ \small Mar 2022}
+\\[0.05cm]
+\emph{Name of Publishing Organization} \hfill{\small ISBN: 123-456-789-0}
+\\[-0.6cm]
+\begin{itemize}[itemsep = -0.75 mm, leftmargin=*]
+    \item[{\color[RGB]{10,0,254}$\bullet$}] \noindent Your item 1.
+    \item[{\color[RGB]{10,0,254}$\bullet$}] \noindent Your item 2.
+\end{itemize}
+
+
+%%% ACHIEVEMENTS %%%
+\section*{{\LARGE \color{myblue}Achievements \& Certifications}\xfilll[0pt]{0.5pt}}
+\vspace{-15pt}
+\vspace{1.5mm}
+
+\begin{itemize}[itemsep = -0.75 mm, leftmargin=*]
+\item[{\color[RGB]{10,0,254}$\bullet$}] \noindent Achievement 1.
+\item[{\color[RGB]{10,0,254}$\bullet$}] \noindent Achievement 2.
+\item[{\color[RGB]{10,0,254}$\bullet$}] \noindent Achievement 3.
+\end{itemize}
+
+\end{document}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Developer CV
+% LaTeX Class
+% Version 2.0 (12/10/23)
+%
+% This class originates from:
+% http://www.LaTeXTemplates.com
+%
+% Authors:
+% Omar Roldan
+% Based on a template by  Jan Vorisek (jan@vorisek.me)
+% Based on a template by Jan Küster (info@jankuester.com)
+% Modified for LaTeX Templates by Vel (vel@LaTeXTemplates.com)
+%
+% License:
+% The MIT License (see included LICENSE file)
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%----------------------------------------------------------------------------------------
+%	PACKAGES AND OTHER DOCUMENT CONFIGURATIONS
+%----------------------------------------------------------------------------------------
+
+\documentclass[9pt]{developercv} % Default font size, values from 8-12pt are recommended
+\usepackage{multicol}
+\setlength{\columnsep}{0mm}
+%----------------------------------------------------------------------------------------
+\usepackage{lipsum}  
+
+
+\begin{document}
+
+%----------------------------------------------------------------------------------------
+%	TITLE AND CONTACT INFORMATION
+%----------------------------------------------------------------------------------------
+
+\begin{minipage}[t]{0.5\textwidth} 
+	\vspace{-\baselineskip} % Required for vertically aligning minipages
+	
+	{ \fontsize{16}{20} \textcolor{black}{\textbf{\MakeUppercase{Your Name Here}}}} % First name
+	
+	\vspace{6pt}
+	
+	{\Large Developer $\sim$ Engineer} % Career or current job title
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.2\textwidth} % 20% of the page width for the first row of icons
+	\vspace{-\baselineskip} % Required for vertically aligning minipages
+	
+	% The first parameter is the FontAwesome icon name, the second is the box size and the third is the text
+	\icon{Globe}{11}{\href{http://www.google.com}{portafolio.com}}\\ 
+    \icon{Phone}{11}{11 1111 1111}\\
+    \icon{MapMarker}{11}{City, Country}\\
+	
+\end{minipage}
+\begin{minipage}[t]{0.27\textwidth} % 27% of the page width for the second row of icons
+	\vspace{-\baselineskip} % Required for vertically aligning minipages
+	
+	\icon{Envelope}{11}{\href{mailto:email@example.com}{email.email@example.com}}\\	
+    \icon{Github}{11}{\href{https://github.com/uma-dev}{github.com/uma-dev}}\\
+    \icon{LinkedinSquare}{11}{\href{https://www.linkedin.com}{/in/your-personal-url}}\\    
+    
+\end{minipage}
+
+
+%----------------------------------------------------------------------------------------
+%	INTRODUCTION, SKILLS AND TECHNOLOGIES
+%----------------------------------------------------------------------------------------
+
+\begin{minipage}[t]{0.46\textwidth}
+    \cvsect{Summary}
+	\vspace{-6pt}
+ 
+    %Dummy text
+	\lipsum[1][1-5] \\
+\end{minipage}
+\hfill % Whitespace between
+\begin{minipage}[t]{0.465\textwidth}
+    \cvsect{Skills}
+    \vspace{-6pt}
+    
+    \begin{minipage}[t]{0.2\textwidth}
+        \textbf{Languages:}
+    \end{minipage}
+    \hfill
+    \begin{minipage}[t]{0.73\textwidth}
+      Java, SQL, Python, JavaScript, HTML, C++, C.  
+    \end{minipage}
+    \vspace{4mm}
+    
+    \begin{minipage}[t]{0.2\textwidth}
+        \textbf{Technologies:}
+    \end{minipage}
+    \hfill
+    \begin{minipage}[t]{0.73\textwidth}
+      GCP, Docker, Kubernetes, Spark, Hadoop, Hive.
+    \end{minipage}
+    
+\end{minipage}
+
+%----------------------------------------------------------------------------------------
+%	Projects
+%----------------------------------------------------------------------------------------
+\cvsect{Projects}
+\begin{entrylist}
+    \entry
+		{Technology}
+		{My project 1}
+		{github.com link}
+		{%Dummy text 
+        \lipsum[1][1-3]}
+    \entry
+		{Technology}
+		{My project 2}
+		{github.com link}
+		{%Dummy text 
+        \lipsum[1][1-3]}
+	\entry
+		{Technology}
+		{My project 3}
+		{github.com link}
+		{%Dummy text 
+        \lipsum[1][1-3]}
+    \entry
+		{Technology}
+		{My project 4}
+		{github.com link}
+		{%Dummy text 
+        \lipsum[1][1-3]}
+\end{entrylist}
+
+%----------------------------------------------------------------------------------------
+%	EDUCATION
+%----------------------------------------------------------------------------------------
+\vspace{-10 pt}
+\cvsect{Education}
+\begin{entrylist}
+    \entry
+		{3/2023 - x/2023}
+		{\lipsum[1][1] }
+		{School}
+		{Enrolled, part time program for development}
+    \entry
+		{x/2023 - x/2023}
+		{Professional Certificate}
+		{School}
+		{\lipsum[1][1]}
+	\entry
+		{x/2023 - x/2023}
+		{Certificate}
+		{School}
+		{\lipsum[1][2]}
+	\entry
+		{x/2023 - x/2023}
+		{Engineer}
+		{School}
+		{\lipsum[1][2]}
+\end{entrylist}
+
+%----------------------------------------------------------------------------------------
+%	EXPERIENCE
+%----------------------------------------------------------------------------------------
+\vspace{-10 pt}
+\cvsect{Experience}
+\begin{entrylist}
+	\entry
+        {x/2023 -- x/2023}
+		{\lipsum[1][1]}
+		{Company}
+		{\vspace{-10pt}
+        \begin{itemize}[noitemsep,topsep=0pt,parsep=0pt,partopsep=0pt, leftmargin=-1pt]
+            \item \lipsum[1][1-2]
+            \item \lipsum[1][3-4]
+        \end{itemize} 
+        \texttt{SQL} \slashsep \texttt{Excel}}
+	\entry
+		{x/2023 -- x/2023}
+		{\lipsum[1][1]}
+		{Company}
+		{\vspace{-10pt}
+        \begin{itemize}[noitemsep,topsep=0pt,parsep=0pt,partopsep=0pt, leftmargin=-1pt]
+            \item \lipsum[1][1-2]
+            \item \lipsum[1][3-4]
+        \end{itemize} 
+        \texttt{SQL} \slashsep \texttt{Excel}}
+	\entry
+		{x/2023 -- x/2023 \\\footnotesize{scholarship holder}}
+		{\lipsum[1][1]}
+		{Company}
+		{\vspace{-10pt}
+        \begin{itemize}[noitemsep,topsep=0pt,parsep=0pt,partopsep=0pt, leftmargin=-1pt]
+            \item \lipsum[1][1-2]
+            \item \lipsum[1][3-4]
+        \end{itemize} 
+        \texttt{SQL} \slashsep \texttt{Excel}}
+\end{entrylist}
+
+%----------------------------------------------------------------------------------------
+%	LANGUAGES
+%----------------------------------------------------------------------------------------
+\vspace{-10 pt}
+	\cvsect{Languages}
+    \vspace{-6pt}
+    
+    \hspace{26mm} \textbf{English} - B2+, \textbf{ Spanish} - native
+
+%----------------------------------------------------------------------------------------
+
+\end{document}
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%  Random Stuff %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\documentclass[letterpaper,11pt]{article}
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\usepackage{fontawesome5}
+\usepackage{multicol}
+\setlength{\multicolsep}{-3.0pt}
+\setlength{\columnsep}{-1pt}
+\input{glyphtounicode}
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.6in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1.19in}
+\addtolength{\topmargin}{-.7in}
+\addtolength{\textheight}{1.4in}
+\urlstyle{same}
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-7pt}\scshape\raggedright\large\bfseries
+}{}{0em}{}[\color{black}\titlerule \vspace{0pt}]
+% Ensure that generate pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%  Commands  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-3pt}}
+  }
+}
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-3pt}\item
+    \begin{tabular*}{1.0\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & \textbf{\small #2} \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+\newcommand{\resumeSubheadingContinue}[2]{
+  \vspace{-3pt}
+    \begin{tabular*}{1.0\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+\newcommand{\resumeProjectHeading}[2]{
+  \vspace{-3pt}\item
+    \begin{tabular*}{1.0\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & \textbf{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{0pt}}
+\renewcommand\labelitemi{$\vcenter{\hbox{\tiny$\bullet$}}$}
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.0in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{0pt}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%  Heading  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+    \begin{center}
+        % NAME
+        {\Huge\scshape NAME} 
+        % SUBHEADING
+        \\ OPTIONAL SUBHEADING\\
+        \small
+        % EMAIL
+        \href{mailto:EMAIL}{\raisebox{-0.2\height}\faEnvelope\  \underline{EMAIL}} ~ 
+        % LINKEDIN
+        \href{LINK}{\raisebox{-0.2\height}\faLinkedin\ \underline{linkedin.com/in/USERNAME}}  ~
+        % GITHUB
+        \href{LINK}{\raisebox{-0.2\height}\faGithub\ \underline{github.com/USERNAME}}
+    \end{center}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%  Education  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Education}
+  \resumeSubHeadingListStart
+  
+    % MAIN INFORMATION
+    \resumeSubheading
+    {UNIVERSITY NAME}{LOCATION}
+    {Bachelors of .... in ..., X.XX GPA}{DATES}
+        % BULLET POINTS
+        \resumeItemListStart
+            \resumeItem{\textbf{Selected Coursework:} COURSES}
+            \resumeItem{\textbf{Awards:} AWARDS}
+        \resumeItemListEnd
+        
+  \resumeSubHeadingListEnd
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%  Experience  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Experience}
+    \resumeSubHeadingListStart
+    
+        % COMPANY 1
+        \resumeSubheading
+        {COMPANY 1}{LOCATION}
+            % POSITION 1
+            {POSITION 1}{DATES}
+            \resumeItemListStart
+                \resumeItem{WHAT YOU DID}
+                \resumeItem{WHAT YOU DID}
+            \resumeItemListEnd
+
+        % COMPANY 2
+        \resumeSubheading
+        {COMPANY 2}{LOCATION}
+            % POSITION 1
+            {POSITION 1}{DATES}
+            \resumeItemListStart
+                \resumeItem{WHAT YOU DID}
+                \resumeItem{WHAT YOU DID}
+            \resumeItemListEnd
+            
+            % POSITION 2
+            \resumeSubheadingContinue
+            {POSITION 2}{DATES}
+            \resumeItemListStart
+                \resumeItem{WHAT YOU DID}
+                \resumeItem{WHAT YOU DID}
+            \resumeItemListEnd
+            
+            % POSITION 3
+            \resumeSubheadingContinue
+            {POSITION 3}{DATES}
+            \resumeItemListStart
+                \resumeItem{WHAT YOU DID}
+                \resumeItem{WHAT YOU DID}
+            \resumeItemListEnd
+
+        % COMPANY 3
+        \resumeSubheading
+        {COMPANY 3}{LOCATION}
+            % POSITION 1
+            {POSITION 1}{DATES}
+            \resumeItemListStart
+                \resumeItem{WHAT YOU DID}
+                \resumeItem{WHAT YOU DID}
+            \resumeItemListEnd
+            
+    \resumeSubHeadingListEnd
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%  PROJECTS  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Personal Projects} 
+    \resumeSubHeadingListStart
+
+        % Project 1
+        \resumeProjectHeading
+        {PROJECT NAME -\href{LINK}{\raisebox{-0.2\height}\ \underline{LINK}}}
+        % Date
+        {DATE}
+        \resumeItemListStart
+            \resumeItem{WHAT YOU DID}
+        \resumeItemListEnd
+    
+        % Project 2
+        \resumeProjectHeading
+        {PROJECT NAME -\href{LINK}{\raisebox{-0.2\height}\ \underline{LINK}}}
+        % Date
+        {DATE}
+        \resumeItemListStart
+            \resumeItem{WHAT YOU DID}
+        \resumeItemListEnd
+        
+    \resumeSubHeadingListEnd
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%  Technical Skills  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Technical Skills}
+
+    \vspace{-7pt}
+    \begin{itemize}
+    [leftmargin=0.15in, label={}]\small{\item{
+        % LANGUAGES
+        \textbf{Languages}{: STUFF} \\
+        % TOOLS
+        \textbf{Developer Tools}{: STUFF} \\
+        % TECHNOLOGIES
+        \textbf{Technologies/Frameworks}{: STUFF} \\}}
+    \end{itemize}
+ 
+\end{document}
+
+
+
+\documentclass{article}
+\usepackage{calc}
+\usepackage[top=0.5in,bottom=0.63in,right=0.75in,left=0.75in]{geometry}
+\usepackage{hyperref}
+% \usepackage{times}
+\usepackage{enumitem}
+\usepackage{fontenc}
+\usepackage{tgbonum}
+\usepackage{subfiles}
+\usepackage{lipsum}  
+
+\setlist[enumerate]{topsep=0pt}
+\setlist[itemize]{noitemsep,topsep=0pt}
+
+\newlength{\remaining}
+\renewcommand{\section}[1]{%
+  \vspace{0.4em}\setlength{\remaining}{\textwidth-\widthof{\uppercase{#1}}}
+    \noindent\underline{\fontsize{9}{15}\bfseries\uppercase{#1}\hspace*{\remaining}} \\
+}
+\renewcommand{\subsection}[3]{
+    \noindent\textbf{#1} | \emph{#2} \hfill #3
+}
+\pagenumbering{gobble}
+
+\begin{document}
+    \fontencoding{T1}
+    \fontfamily{phv}
+    \fontsize{9}{15}
+    \selectfont
+    \begin{center}
+        \begin{center}
+            \Huge\bfseries Firstname Lastname
+        \end{center}
+            \begin{tabular}{c c c c c}
+                \href{tel:Phone-Number}{Phone Number} $\bullet$ & 
+                \href{mailto:mailid@mail.com}{mailid@mail.com} $\bullet$ & 
+                \href{https://www.linkedin.com/in/person/}{linkedin/person} $\bullet$ & 
+                \href{https://github.com/developer/}{github/developer} $\bullet$ &  
+                \href{https://yourwebsite.com/}{your\_website.com} \\
+        \end{tabular}
+    \end{center}    
+    \vspace{-0.75em}
+    \subfile{subsections/statement.tex}
+    \subfile{subsections/education.tex}
+    \subfile{subsections/academic_experience.tex}
+    \subfile{subsections/awards.tex}
+    \subfile{subsections/work_ex.tex}
+  
+\end{document}
+
+}
 }
