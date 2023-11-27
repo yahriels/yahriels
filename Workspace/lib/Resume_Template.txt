@@ -1,3 +1,79 @@
+[Your Name]
+[Your Address]
+[Your Email] | [Your Phone Number] | [LinkedIn Profile]
+
+---
+
+## Education
+**Doctorate of Neuroscience in the Division of Mathematical Sciences (DMS)**
+*Pursuing, [University Name], [Expected Graduation Date]*
+
+**Bachelor of Aerospace and Aeronautical Engineering**
+*[University Name of Science and Technology], [Graduation Year]*
+
+---
+
+## Professional Experience
+### DARPA - Microscale & Interfacial Fluid Physics Lab, Undergraduate Research Assistant
+*08/2021-08/2023*
+- Conducted research on "Experimental Techniques for Flow Separation Detection and Chemical Sintering."
+- Designed hardware-software components and built signal processing circuit-algorithm.
+- Developed computations to model shear viscosity for the Navier-Stokes Equations.
+
+### California Institute of Technology Summer Undergraduate Research Fellow, Greer Group
+*05/2022-08/2022*
+- Conducted research on "Hybrid Nanocomposites: Semi-Empirical Method of Viscoelastic Behavior."
+- Created nanocomposite with architectural features for mechanical property enhancements.
+- Developed a semi-empirical model for deformation mechanisms.
+
+[Continue with other relevant research experiences...]
+
+---
+
+## Skills
+- Programming: Java, C/C++/C#, Python, MATLAB & Simulink, SAS
+- Software: CAD & FEA, ANSYS/ABAQUS, Systems & Reverse Engineering, IoT
+- Operating Systems: Windows, Linux
+- Cloud: AWS Services
+- Other: SQL
+
+---
+
+## Honors and Awards
+- The Order of The Engineer
+- Ronald E. McNair Postbaccalaureate Achievement Program Scholar
+- The Boeing Research in Excellence and Technology Fellowship Program (RETF) Scholar
+
+[Continue listing relevant honors and awards...]
+
+---
+
+## Community Engagement
+- Residential Advisor and Honors Community Leader, [Department of Residence]
+- Youth-Lobbyist, Iowa Department of Human Rights: State of Iowa Youth Advisory Council
+
+[Continue listing relevant community engagement experiences...]
+
+---
+
+## Publications and Scientific Writings
+- "Exploring Bio-Processing & Devices in Micro & Nanoscience," 2020, NCUR STEM Conference
+- "Bioprocessing in Wine Yeast for Mental Health Treatments," 2023, STEM Symposium
+
+[Continue listing publications and presentations...]
+
+---
+
+## Additional Information
+- [GitHub Profile](https://github.com/yahriels)
+- [LinkedIn Profile](https://www.linkedin.com/in/yahriel-salinas-reyes-89ab38179/)
+- [Personal Page](https://github.com/yahriels)
+
+---
+
+*Note: This is a sample structure, and you can customize it further based on Yahriel's preferences and specific details.*
+
+----
 Yahriel Salinas-Reyes	
 ----
 Resume/CV
