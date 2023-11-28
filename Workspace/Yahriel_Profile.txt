@@ -1,74 +1,130 @@
-This Section is to Serve As a Data Base for Yahriel Salinas-Reyes' Professional and Academic Profile: 
+Master User: 
 {
-Yahriel Salinas-Reyes README: https://github.com/yahriels/yahriels#readme
-Resume/CV: https://github.com/yahriels/yahriels/blob/main/General_CV.pdf
-Personal Page: https://github.com/yahriels
-Personal Repository 1: https://github.com/yahriels/yahriels
-Personal Repository 2: https://github.com/yahriels/yahriels/tree/devel
-MEMS Repository 1: https://github.com/yahriels/MEMS-23
-MEMS Repository 2: https://github.com/yahriels/MEMS-23/tree/devel
-LinkedIn: https://www.linkedin.com/in/yahriel-salinas-reyes-89ab38179/
-Extra Link 1: https://myemail.constantcontact.com/Fall-2021-McNair-Newsletter.html?soid=1114936827194&aid=68gZBh85cfs
-Extra Link 2: https://biokansas.org/programs/scientific-writing/
+Master: https://github.com/yahriels/yahriels/blob/main/Workspace/Master.txt
+Main: https://github.com/yahriels/yahriels/tree/main 
+Page: https://github.com/yahriels/yahriels/blob/main/page.html
+Yahriel Profile: https://github.com/yahriels/yahriels/blob/main/%5B0%5DY.Salinas-Reyes_Profile.pdf
+Yahriel Statements: https://github.com/yahriels/yahriels/blob/main/%5B2%5DY.Salinas-Reyes_Statements.pdf
+Yahriel Relevant: https://github.com/yahriels/yahriels/blob/main/%5B3%5DY.Salinas-Reyes_Relevant.pdf
+Yahriel Workspace Profile: https://github.com/yahriels/yahriels/blob/main/Workspace/Yahriel_Profile.txt
+Supplementary Materials: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Supplementary_Materials.txt
+Figure 1: https://github.com/yahriels/yahriels/blob/main/Figure1.jpg.svg
+Figure 2: https://github.com/yahriels/yahriels/blob/main/Figure2.jpg.svg
+Workspace: https://github.com/yahriels/yahriels/tree/main/Workspace
+Library: https://github.com/yahriels/yahriels/tree/main/Workspace/lib
+Experience: https://github.com/yahriels/yahriels/blob/main/Experiences.pdf
+Dummy: https://github.com/yahriels/yahriels/blob/main/Workspace/dummy.txt
+Resume Prompts: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Resume_Prompts.txt
+Resume Template: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Resume_Template.txt
+}
 
-Yahriel Salinas-Reyes’ Intellectual Framework and Phases of Approach: 
-The framework consists of two phases to unravel the nature of intelligence.
-Phase I: Understanding The Divided Self and Existential Despair
-Header: A Trip Through Insanity - a perfectly rational adjustment to an insane world.
-Motivation: Schizophrenia cannot be understood without understanding despair. Children do not give up their innate imagination, curiosity, dreaminess easily. You have to love them to get them to do that. 
-Stage 1: Alogia – Poverty of Speech and Senses
-Stage 2: Autism –Realism and Logicism
-State 3: Ambivalence – State of Chaos and Hysteria
-State 4: Affect Blunting – Emotionless and Expressionless
-Outcome: Pandemonium and Complete Fracturing of The Self and Nature
-Accessories: Mania and Madness, Paranoia and Delusions, Psychosis and Schizophrenia 
-Revelation: We are effectively destroying ourselves by violence masquerading as love. Whether life is worth living depends on whether there is love in life.
-Phase II: Unraveling The Nature of Intelligence and Human Ingenuity
-Header: Creative people who can't help but explore other mental territories are at greater risk, just as someone who climbs a mountain is more at risk than someone who just walks along a village lane. 
-Motivation: Madness need not be all breakdown. It may also be break-through. It is potential liberation and renewal as well as enslavement and existential death.
-Stage 1: Youthfulness – Vitality and Radiance
-Stage 2: Imagination – Idealism and Irrationalism
-Stage 3: Curiosity – State of Wonder and Exploration
-Stage 4: Dreaminess – Absorption, Abstraction, Distraction, and Forgetfulness
-Outcome: Dawn of New Age and Realization of The Natural Self and Frontiers
-Accessories: Peace and Tranquility, Freedom and Healing, Joy and Growth
-Revelation: The range of what we think and do is limited by what we fail to notice. And because we fail to notice that we fail to notice, there is little we can do to change; until we notice how failing to notice shapes our thoughts and deeds.
+[Original] Yahriel's Resume:
+{
+Yahriel Salinas-Reyes
+
 Human Ingenuity Statement: Here is a simple sign that Yahriel Salinas-Reyes is a genius, not just talented but a true genius. It is a simple rule devised by the philosopher Schopenhauer who distinguished the difference between talent and genius as follows: he said talent hits a target no one else can hit, a genius hits a target no one else can see. What he meant is that talent is really good at outcompeting others. For example if you're talented at something you can do something with ease that other people find difficult. Whereas a genius has nothing to do with besting other people at something they've already established as being important, instead a true genius is about being so good at something that you're ahead of your time that other people don't know yet that what you're doing is important or valuable, and so the talented person is the one who is recognized for their skill. The genius Yahriel is the one doing something no one else can even conceive of doing. Talent hits a target no one else can hit. A genius hits a target no one else can see. Yahriel is one who can see the hidden world of wonders and the invisible grand mysteries of the universe.
 
-[Summary of Research Proposal]
-Project Funding Solicitations: For this project funding I will be soliciting various sources, namely, The NSF-Mercury Project ($20 Mil) Partnership for a degree proposal submitted by a faculty on my behalf; The NSF-GRFP; GFSD; DOE Computational Science Graduate Fellowship; The Google Fellowship; as well as Fulbright Open Study/Research Award X National Geographic Storytelling Fellowship, a joint-opportunity for a study abroad experience.  https://www.ssrc.org/programs/the-mercury-project/nsf-mercury-project-partnership/ ; https://us.fulbrightonline.org/fulbright-nat-geo-fellowship
-Synopsis: This new interdisciplinary field of study captures the essence of Human Ingenuity, focusing on the exploration of schizophrenia and psychosis and the idea that chaos theory and theory of confusion may serve a function rather than being solely detrimental. The project title also highlights the intersection of psychiatric thought, neuroscience, and social justice, emphasizing the potential global impact of this research. By using captivating and thought-provoking language as well as Anthropology-Engineering methods, the proposed scientific story aims to engage readers and spark their curiosity.
-**Project Title:**  "How He Got His Scars: The Nature Physicist Explores Abnormal Human Ingenuity and the Science of Madness and Mental Health in Neurobiological Representations of Schizophrenia and Psychosis."
-**Summary:**
-In today's rapidly changing world, we often struggle to understand the present before it becomes the past. This proposal aims to shed light on the function of madness and chaos, not to undermine its toll on individuals, but to unravel the problem it is meant to solve. Building upon R.D. Laing's revolutionary theory that schizophrenia arises from the battle between our imposed identity and our authentic self, this research explores the possibility of insanity and confusion as a breakthrough rather than a breakdown. Laing theorised that insanity could be understood as a reaction to the divided self. Instead of arising as a purely medical disease or psychotic behaviors (i.e. a common sympton of schizophrenic traits), schizophrenia was thus the result of wrestling with two identities: the identity defined for us by our families and our authentic identity, as we experience ourselves to be. When the two are fundamentally different, it triggers an internal fracturing of the self. Comprehensively, the label of **Madness and Confusion is defined as a naturally sane reaction to an insane world**. By applying the concepts of entropy and chaos theory to model the dynamics of social-behavioral systems, we aim to study schizophrenia/psychosis and other neurological abnormalities, morphologies, and ingenuity of the human brain.
-Despite the initial controversy surrounding Laing's existential perspective, there is immense value in delving into the personal, interpretive, and small-scale aspects often overlooked in traditional psychiatric narratives. We propose utilizing a fundamental method of studying neurobiological dysfunctions and abnormal functions/morphologies of the schizophrenic brain. This will help uncover correlations and causalities between the active phase-matter in schizophrenic traits and other related disorders.
-The motivation behind this study stems from the world's failure to effectively utilize the groundbreaking discoveries in neuroscience, global public health, and social sciences. Through rigorous research and the development of a scientific method backed by advanced instrumentation, our objective is to provide foundational evidence for a clinical social understanding of schizophrenia and its related traits. This paradigm shift, rooted in biomedical-analytical and logical-mathematical scientific theory, will facilitate the advancement of global public health.
-To achieve meaningful impact, we must engage in a truthful dialogue free from knots of hatred, revenge, jealousy, and malice that taint our words. By exploring the history of indigenous and Latin American cultures, anthropology-engineering, science and technology, psychiatry and neuroscience systems, and social justice, we can create an open and inclusive platform for transformative research.
-In conclusion, our research proposal "How He Got His Scars" aims to uncover the intricate relationship between madness and confusion, mental health, and the human brain. By merging scientific methods with social impact, we can pave the way for advancements in both individual well-being and global public health. It is high time we embrace this ancient paradigm of psychiatric thought, combining research and development with a deep understanding of cultural diversity, to drive positive change in society.
-Other Relevant Coursework includes Latin American Anthropology: Race, Class, and Gender at Iowa State University Liberal Arts and Sciences as part of the U.S. Latino/a Studies Program.
-
-[Research Abstract]
-Research Title: 
-Unraveling the Neurobiological Landscape of Schizophrenia: A Multidisciplinary Approach Informed by Numbers, Shapes, and Prediction
-Abstract:
-In the realm of advancing neuroscience, public and global health, molecular and biotechnology systems engineering, and biomedical data science and informatics, the enigma of schizophrenia stands as both a challenge and an opportunity for scientific exploration. This proposal seeks to illuminate the intricacies of schizophrenia through a rigorous scientific method, integrating the foundational elements of Numbers, Shapes, and Prediction into the fabric of our investigative framework.
-1. Numbers: Data Capture and Monte Carlo Integration
-Our scientific journey commences with an unwavering commitment to numerical precision. Employing state-of-the-art neuroimaging techniques, we will embark on an exhaustive data capture initiative. Through the meticulous acquisition of neuroanatomical, neurodivergent, and neurophysiological data from diverse populations, our objective is to construct an extensive and multidimensional dataset that encapsulates the nuanced dimensions of schizophrenia. This reservoir of data will form the bedrock upon which our mathematical modeling and scientific inquiries will be founded.
-To navigate the inherent complexity of this venture, we will harness the power of Monte Carlo Integration techniques, effectively engaging probabilistic simulations. This methodological approach will enable us to traverse the intricate interplay of variables within the neural landscape of schizophrenia, accounting for the stochastic nature of neurobiological phenomena. By fusing data-driven insights with probabilistic modeling, our aim is to unveil the concealed patterns and emergent behaviors that underlie the neurobiology of schizophrenia.
-2. Shapes: Mandelbrot Set and Fractal Geometry
-In our pursuit of understanding, we delve into the realm of geometric complexity. Schizophrenia, akin to the enigmatic Mandelbrot set, manifests self-similarity across multiple scales. We shall leverage the mathematical elegance of fractal geometry to explore the recursive patterns inherent in neurobiological representations of schizophrenia. By quantifying the fractal dimensionality of neural structures and their aberrations, we aspire to elucidate the underlying geometrical signatures of this intricate disorder.
-Fractal analysis will provide us with a potent lens through which we can discern the intricate geometries of neural connectivity, unraveling the non-linear relationships that define the topological architecture of the schizophrenic brain. Through the synergy of fractal geometry and neuroimaging data, our goal is to unearth novel insights into the spatial organization of neuroanatomical features, shedding light on the fractal nature of neurodivergence.
-3. Prediction: Dimensional/Spectral Analysis to Understand Causality and Correlation
-As we navigate the labyrinthine landscape of schizophrenia and psychosis, our scientific odyssey extends to the realm of prediction and understanding causality. Employing advanced dimensional and spectral analysis techniques, we aim to disentangle the intricate web of causative factors and correlations that govern the neurobiology of schizophrenia.
-Dimensional analysis will empower us to identify the critical dimensions that exert a profound influence on the emergence and progression of schizophrenic traits. By dissecting the spectral signatures of neural activity within these dimensions, we seek to unveil the underlying dynamics that govern causality within the realm of neurodivergence.
-Our multidisciplinary approach transcends traditional psychiatric narratives, aligning with R.D. Laing's existential perspective that recognizes the value of personal, interpretive, and small-scale aspects often overlooked. Through the harmonious integration of Numbers, Shapes, and Prediction, we aspire to illuminate the neurobiological essence of schizophrenia, uncovering correlations and causalities within the active phase-matter of schizophrenic traits. This holistic understanding will not only advance scientific practice but also inform precise health diagnoses and innovative treatments, ultimately propelling the field of global public health forward.
-
-In conclusion, our research endeavors to unveil the profound mysteries of schizophrenia through the seamless integration of mathematical modeling and multidisciplinary inquiry. By harnessing the power of Numbers, Shapes, and Prediction, we aim to transcend the boundaries of traditional psychiatric narratives, embarking on a transformative journey toward a deeper comprehension of neuroanatomy, neurodivergence, and the intricate web of neurobiological disorders. This pioneering approach holds the promise of ushering in a new era of precision medicine and enhanced global well-being.
-Advancing Knowledge and Broader Impacts:
-This research holds the potential to advance knowledge within the field of neuroscience by providing unprecedented insights into the neurobiological mechanisms underlying mental health disorders. By leveraging MEMS technology and interdisciplinary collaboration, we aim to uncover novel biomarkers, therapeutic targets, and personalized treatment strategies.
-Furthermore, the broader impacts of this research on society are profound. Mental health disorders represent a global health crisis, with significant social and economic consequences. The development of precise diagnostic tools and innovative therapies based on the neurobiome's understanding has the potential to transform mental healthcare. It can lead to early detection, personalized treatments, and improved outcomes for individuals suffering from these disorders.
-In summary, my proposed research at the convergence of precision engineering and neuroscience seeks to decipher the multiscale neurobiome, offering a new frontier in the understanding and treatment of mental health disorders. This interdisciplinary endeavor not only promises to advance scientific knowledge but also holds the potential to alleviate the burdens of mental illness, thereby making a significant societal impact.
-
+Resume/CV
+Education: Iowa State University of Science & Technology, Ames, IA, Bachelor’s of Aerospace Engineering ‘23
+Senior Capstone Project, Iowa State University of Science & Technology, 12/2022-11/2023
+Description: Fundamental principles used in engineering design of aircraft, missile, and space systems. Preliminary design of aerospace vehicles. Engineering Ethics.
+Target Objective: “Modern Design Methodology with Aerospace Application & Design of Aerospace Systems”
+•	Design and production of sUAS consisting of a "mothership" aircraft that deploys two expendable "drone" aircraft capable of delivering a small, versatile payload for industry partners DoD and NATO. 
+•	Implemented machine vision systems, industrial controls, automatic identification & data capture, and responsible for providing data-driven decisions as the signals & control systems/electronics lead.
+•	Utilized systems engineering and aerospace techniques to optimize aircraft design features, dynamic & static stability, and aerodynamic performance of the small, unmanned aircraft system (sUAS). 
+Learning Outcomes: Upon completion, the individual will have reliably demonstrated the ability to:
+•	Apply the engineering design process with regards to aerospace vehicles.
+•	Utilize necessary tools in the engineering design process including computer modeling/simulation and experimentation to help develop the design.
+•	Function effectively on a small team by establishing leaders and member roles, project goals, and a timeline all in a collaborative and inclusive setting.
+•	Communicate effectively in formal and informal settings through written and/or oral means.
+Relevant Topics and Courses/Curriculum
+- Thermodynamics, Flight Dynamics & Controls, Astro-aeronautics, Aerospace & Propulsion Systems
+- Applied Mechanics & Physics, Materials Science & Engineering, Engineering & Polymeric Chemistry
+- Numerical & Graphical Techniques, Advanced Computing, Engineering Statistics, Multi-Variable Calculus
+- Classical Physics, Mechanics of Materials, Engineering Statics, Dynamics & Differential Equations
+- Machine-Learning/Data-Science, Computer Science & Information Tech. Systems, Software Engineering
+- Technical Communication & Proposal Writing, Scientific Manuscript Writing, Literary Analysis & Review
+Relevant Software Experience and Technical Skills
+- SQL, Windows OS, Linux OS, AWS Services, Java, C/C++/C# Programming, Python, MATLAB & Simulink, SAS
+- CAD & FEA, ANSYS/ABAQUS, Systems & Reverse Engineering, Internet of Things, Design of Experiments
+The Order of The Engineer
+the Engineering Student Council will host the Order of the Engineer for graduating engineering students, where they can take an oath of ethics in their engineering careers. Each participant will also receive a ring to commemorate their commitment. This is conducted during your final semester of enrollment for graduating engineering students and graduate students. 
+The Order of the Engineer was initiated in the United States to foster a spirit of pride and responsibility in the engineering profession, bridge the gap between training and experience, and present a visible symbol identifying the engineer to the public.
+Order of the Engineer fosters the understanding that being a licensed professional engineer means more than just holding a certificate and possessing technical competence. It is a commitment to hold the public health, safety, and welfare above all other considerations.
+Academic Honors
+List academic honors you have received:
+1. The Order of The Engineer, The Engineering Student Council at The Iowa State University
+2. The Ronald E. McNair Postbaccalaureate Achievement Program Scholar & The Barry Goldwater Scholarship and Excellence in Education Foundation Finalist
+3. The Boeing Research in Excellence and Technology Fellowship Program (RETF) Scholar & Micro-g Neutral Buoyancy Experiment Design Teams (NExT) Challenge Competition Finalist
+4. The Summer Undergraduate Research Fellowship Program (SURF) Scholar at Stanford University & California Institute of Technology, Program Coordinator
+5. The Louis Stokes Alliances for Minority Participation (LSAMP) Fellowship Program Scholar & Undergraduate Research Certificate Recipient  Awarded by Iowa State University's IINSPIRE-LSAMP Partnership
+6. The FIRST Robotics Competion (FRC) Worlds Championship Rookie Inspiration and Rookie All-Star Awards (International-Level Award) &The Youth Leaderhip Community Award Recieved From The Iowa Department of Human Rights: State of Iowa Youth Advisroy Council (SIYAC)
+Research and Development Experience
+Undergraduate Research Assistant, DARPA - Microscale & Interfacial Fluid Physics Lab, 08/2021-08/2023
+Faculty mentor Dr. Thomas Ward II, Associate Professor, Department of Aerospace Engineering, ISU
+•	Research Project: “Experimental Techniques for Flow Separation Detection and Chemical Sintering”
+•	Operated as Experimental Engineer and composed an SOP for experiments and heavy machinery.
+•	Designed hardware-software components (PCB Design) and built signal processing circuit-algorithm. 
+•	Manufactured MEMS nanocomposite and developed computations to model shear-viscosity at the thermal boundary for the Navier-Stokes Equations
+California Institute of Technology Summer Undergraduate Research Fellow, Greer Group, 05/2022-08/2022
+Faculty mentor Dr. Julia Greer, Assoc. Prof. of Materials Science, A. Mechanics, & Medical Sciences, Caltech
+•	Research Project: “Hybrid Nanocomposites: Semi-Empirical Method of Viscoelastic Behavior”
+•	Created nanocomposite with architectural features to achieve mechanical property enhancements.
+•	Investigated the constituent material systems individually using compressions tests on a dynamic mechanical analyzer and observed deformation zones with scanning electron microscopy.
+•	Developed a semi-empirical model for the deformation mechanisms observed in post-mortem analysis of samples; this enables FEA & Euler Theory to inform the viscoelastic continuum damage model. 
+McNair Scholar, Ronald E. McNair Post-Baccalaureate Achievement Program, 09/2021-05/2022
+Faculty mentor Dr. Ashley Garrin, Director of Ronald E. McNair Program, Graduate College, ISU
+•	Research Project: “Sociological Differences in Graduate School Motivation of Minority Identities”
+•	Constructed an experimental framework, completed literature synthesis, conducted interviews of program mentors, analyzed and interpreted results in a technical manner.
+•	Participated in preparation courses and experiences for doctoral studies through involvement in research and other scholarly activities.
+Undergraduate Researcher, Systems Engineer, Soft Matter Material Transport Group, 08/2019-05/2022
+Faculty mentor Dr. Martin Thuo, Associate Professor, Department of Materials Science and Engineering, ISU
+•	Research Project: “Design of Multi-Function 3D Piezo-electric Devices for Aeronautical Applications”
+•	Explored tunability, sensitivity, utility of paper-based devices with various configurations, optimized device design using engineering methods, created self-automated calibration & data capture system.
+•	Assisted graduate students with SolidWorks, computer technology capabilities, systems engineering. 
+•	This research work was submitted to a scientific peer-review journal for publication(2023).
+Research Fellow, Boeing Undergraduate Research Excellence in Engineering Internship, 08/2021-08/2022
+Faculty mentor Dr. Thomas Ward II, Associate Professor, Department of Aerospace Engineering, ISU
+•	Research Project: “Characterizing Damping Mechanisms in Piezoelectric Wind-Energy Harvesters”
+•	Designed and fabricated green technology low-cost force sensor, explored pathways for aeronautical data collection via aerospace engineering techniques, submitted monthly progress reports to Boeing.
+•	This research work was submitted to a scientific peer-review journal for publication(2023).
+Stanford University Summer Undergraduate Research Fellow, Zheng Research Group, 05/2021-08/2021
+Faculty mentor Dr. Xiaolin Zheng, Associate Professor, Mechanical Engineering, Stanford University
+•	Research Project: “Insights of Machine-Learning(ML) Techniques for Scientific Methods & Prediction”
+•	Conducted literary analysis and literary review of ML methods, Data & Computational Science, and adapted ML methods to scientific methods by developing a bottom-up regression-prediction model. 
+•	Cross-validated various mathematical-kernels(SVM, Random-Forest, etc.) fitted/trained with scientific datums; presented findings in optimizations of experimental design for scientific discovery.
+Undergraduate Research Certificate Recipient,IINSPIRE-LSAMP(NSF) Scholars Program| 08/2019-09/2020
+Faculty mentor Dr. Martin Thuo, Associate Professor, Department of Materials Science and Engineering, ISU
+•	Research Project: “Synthesizing Meta-stable Particles and High-Efficiency Paper-Based MEMS Sensors”
+•	Synthesized undercooled, core-shell liquid metal particles(FM particles), designed experiments to investigate intrinsic properties of FM Particles and MEMS, explored modern applications of research.
+•	Prepared literary review of current state of sensor technology, did deep literary analysis of relevant science engineering research, produced adaptations of MEMS designs to fulfil gaps in research field, presented ideation of low-cost, green technology, sensor devices for industry and social impact.
+Additional Professional and Leadership Experiences
+Design Team Lead,NASA Micro-G Neutral Buoyancy Experiment Design Teams Challenge,08/2021-12/2022
+•	Completed and assigned weekly tasks to design, build, and test a tool or device that addresses an authentic, current space exploration challenge; specifically, Extravehicular activity(EVA).
+•	Completed research in current technologies and lead: prototyping of device components; CAD modeling & reverse engineering; building of prototype; and submitted proposal to competition. 
+•	Our design was utilized by astronaut-scientists in NASA’s Mission to the Moon and Mars and displayed at the Houston exhibition – Inner Space: NASA’s Path to the Moon and Mars(2022)!
+Information Technology Specialist, Iowa State University of Science & Technology, 08/2019-05/2023
+•	Held responsibilities for the implementation, monitoring, and maintenance of IT computer systems.
+•	Solved technical problems: computer systems, software, hardware, networks, cloud platforms, etc.
+•	Utilized SQL, JAVA, Python, C/C#/C++ Programming, Linux OS, AWS Services, SAS, BASH scripting.
+Community Engagement, Public Relations & Policy, and Social Work
+Residential Advisor and Honors Community Leader, Department of Residence, 08/2020-05/2022
+•	Engaged students & nurtured healthy-positive experiences for the resident community; moderated meetings to address concerns; directed multi-lingual health & resource programming for college.  
+Youth-Lobbyist,Iowa Department of Human Rights: State of Iowa Youth Advisory Council, 06/2018-12/2021
+•	Acted as chair/program-coordinator of the Violence-Prevention & Diversity-Education Program.
+•	Advocated to state legislators for reformation of violence prevention education & implementation of culturally diverse curriculum standards at the state-local level; wrote & proposed bills to chamber.
+•	Received the Community Service Leadership Award for completing over 200 service hours in a term. 
+Stewardship and Service
+Community Leader & Multi-lingual Ambassador/Educator, CultureAll  Educational Nonprofit, Fall 2023
+•	Assisted in organizing events to engage local educators and institutional leaders at the state and local level, provided developmental and networking opportunities for young professionals, volunteered at local events to provide diversity education to communities or groups in need.
+Community Honors Leader, Iowa State University Honors Program, Fall 2020-Spring 2022
+•	Provided professional and research development resources to the Honors Program and its honors students, acted as mentor to honors students while the Honors Residential Advisor.
+Coordinator of Violence Prevention & Educational Coverage, Iowa Non-Profits, Spring 2020-Summer 2020
+•	Utilized skills and experience in community social work to lead interns in creating mental health resources/content in multiple languages; distributed resources and content to local youth of color during the pandemic and rise in violence of 2020. 
+Latinx Forum Panelist & Multi-lingual Advocate, Association of Iowa Latinx Professionals, Fall 2020
+•	Shared my professional experience and pathway as a First-Generation College Student, answered questions about professional development and experiences, provided personal developmental content and resources for Latinx leaders.
+Workshop Presenter, National White Privilege Conference, Spring 2020
+•	Developed and presented a workshop “How to engage students of color in higher education” at the White Privilege Conference to national leaders to share my knowledge and resources. 
 Academic Honors, Fellowships, Scholarships, and Awards:
 The Order of The Engineer, Iowa State University of Science and Technology: Engineering Student Council, 2023
 American Institute of Aeronautics and Astronautics, 2023
@@ -95,7 +151,6 @@ Architecture Construction & Engineering (ACE) Mentorship Program Alumni,  Spring
 The Construction Industry Round Table (CIRT) Affiliate , 2020
 CIRT National Design & Construction Competition Back-to-Back Champion , 2020-2021
 FIRST ROBOTICS Awards: Rookie Inspiration Award & Rookie All-Star Award, 2019
-
 Research Activities and Associations
 	Research Activities	Associations
 -	MEMS Shear Sensor and Flow Separation Theory, funded by DARPA	 - Microscale Interfacial Fluid Physics Laboratory
@@ -105,7 +160,6 @@ Research Activities and Associations
 -	Applications of Multi-functional Piezo-electric Devices, funded by NSF	- Goldwater Finalist/McNair Program at ISU
 -	Opportunities of Kirigami-Inspired MEMS Devices, funded by NSF	- Soft Materials Matter Transport Group
 -	Heat-Free Manufacturing of Paper-Based MEMS Sensor, funded by ISU Honors	- Iowa State University Honors Program
-
 Publications and Scientific Writings:
 "Exploring Bio-Processing & Devices in Micro & Nanoscience," 2020, NCUR STEM Conference
 "Bioprocessing in Wine Yeast for Mental Health Treatments," 2023, STEM Symposium
@@ -115,7 +169,6 @@ Publications and Scientific Writings:
 "Characterizing Damping Mechanisms in Piezoelectric Wind-Energy Harvesters," 2023
 "Kirigami-Inspired Design of Paper-Based MEMS Devices for Aeronautical Application," 2022
 "Synthesizing Meta-Stable Particles & High-Efficiency MEMS Sensors and Nanodevices," 2021
-
 Honors, Awards, and Membership
 •	University Honors Program Member, Fall 2019-Fall 2023
 •	Ronald E. McNair Program Scholar, Fall 2021-Fall 2023
@@ -133,7 +186,6 @@ Honors, Awards, and Membership
 •	The Construction Industry Round Table (CIRT) Affiliate, Fall 2020
 •	CIRT National Design & Construction Competition Back-to-Back Champion| Spring 2019, Spring 2020
 •	FIRST ROBOTICS Awards: Rookie Inspiration Award & Rookie All-Star Award, Fall 
-
 Research Presentations and Scientific Thematic Talks
 1.	Y. Salinas-Reyes, H. Seabold, A. Martin, M. Thuo (2020, April). Exploring the Piezoresistive Effect and Paper-based MEMS Sensors. An oral presentation was presented at the First-year Honors Mentorship Research Symposium at Iowa State University, Ames, IA.
 2.	Y. Salinas-Reyes, A. Martin, M. Thuo (2020, August). Integration of paper-based MEMS sensors into computer technology. An oral presentation was presented at the Virtual IINSPIRE LSAMP Symposium
@@ -147,6 +199,4 @@ Research Presentations and Scientific Thematic Talks
 10.	Y. Salinas-Reyes, T. Ward III (2023, August). Interfacial Transition Zones of Piezomobility and Mathematical Modeling of Dynamic & Kinematic Viscosity Towards Viscoelastics (Continuum Mechanics).  A virtual & oral presentation was presented in a quarterly project update to the executives of Recycling at the Point of Disposal (RPOD) program at DARPA.
 11.	Y. Salinas-Reyes, Ivaldi Co. (2023, September). Executive and Granter Design Sign-Off: Design of Aerospace Systems (i.e., sUAS). A virtual & oral presentation, and written report was presented to the Department of ISU Aerospace Engineering.
 12.	Y. Salinas-Reyes, Iowa State University: Aerospace Engineering (2023, December). Senior Thesis Presentation and Final Defense. A virtual & oral presentation, and formal manuscript was presented to the Department of ISU Aerospace Engineering.
-
 }
-
