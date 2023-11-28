@@ -13,257 +13,135 @@ UC Berkeley (due dec. 11)
 Harvard (due dec. 15) 
 ====
 
-[Stanford - 4 Recommenders]
+[MIT - 3 Recommenders]
+https://oge.mit.edu/programs/harvard-mit-health-sciences-and-technology/
+https://oge.mit.edu/programs/mit-whoi-joint-program-in-oceanography-applied-ocean-science-and-engineering/
+
+[Stanford - 3 Recommenders]
 1. Dr. Martin Thuo
 2. Dr. Thomas Ward
-3. Dr. Xiaolin Zheng/Dr. José Guillermo González Valdez (Pepe)
-4. Dr. Lequetia Ancar
-----
-Prefix	
-First Name	Martin
-Last Name	Thuo
-Organization	
-Position/Title	
-Relationship	
-Telephone	
-Email	
-Note: Use your recommender's institutional or corporate email address. Submissions from anonymous email addresses (Gmail, Hotmail, Yahoo) may be subject to additional review.
-Personal message to recommender	
-----
-Prefix	
-First Name	Thomas
-Last Name	Ward
-Organization	
-Position/Title	
-Relationship	
-Telephone	
-Email	
-Note: Use your recommender's institutional or corporate email address. Submissions from anonymous email addresses (Gmail, Hotmail, Yahoo) may be subject to additional review.
-Personal message to recommender	
-----
-Prefix	
-First Name	Xiaolin 
-Last Name	Zheng
-Organization	
-Position/Title	
-Relationship	
-Telephone	
-Email	
-Note: Use your recommender's institutional or corporate email address. Submissions from anonymous email addresses (Gmail, Hotmail, Yahoo) may be subject to additional review.
-Personal message to recommender	
-----
-Prefix	
-First Name	
-Last Name	
-Organization	
-Position/Title	
-Relationship	
-Telephone	
-Email	
-Note: Use your recommender's institutional or corporate email address. Submissions from anonymous email addresses (Gmail, Hotmail, Yahoo) may be subject to additional review.
-Personal message to recommender	
-====
-[Harvard - 3 Recommenders]
-1. Dr. Martin Thuo
-2. Dr. Thomas Ward III
 3. Dr. Lequetia Ancar
+
+
 ----
+Dr.
 First Name	
+Martin
 Last Name	
+Thuo
 Organization	
+North Carolina State University
 Position/Title	
-Relationship	
-Telephone	
-Email	
-----
-First Name	
-Last Name	
-Organization	
-Position/Title	
-Relationship	
-Telephone	
-Email	
-----
-First Name	
-Last Name	
-Organization	
-Position/Title	
-Relationship	
-Telephone	
-Email	
-====
-[MIT - 5 Recommenders]
-1. Dr. Martin Thuo
-2. Dr. Thomas Ward III
-3. Dr. Lequetia Ancar
-4. Dr. José Guillermo González Valdez (Pepe)
-5. **EXTRA SPOT**
-----
-Reference Type	
-Prefix	
-First Name	Martin
-Last Name	Thuo
-Organization	
-Position/Title	
-Relationship	
-Phone Number	
-Email Address	
-Personal message to recommender	
-----
-Reference Type	
-Prefix	
-First Name	Thomas
-Last Name	Ward 
-Organization	
-Position/Title	
-Relationship	
-Phone Number	
-Email Address	
-Personal message to recommender	
-----
-Reference Type	
-Prefix	
-First Name	Lequetia
-Last Name	Ancar
-Organization	
-Position/Title	
-Relationship	
-Phone Number	
-Email Address	
-Personal message to recommender	
-----
-Reference Type	
-Prefix	
-First Name	
-Last Name	
-Organization	
-Position/Title	
-Relationship	
-Phone Number	
-Email Address	
-Personal message to recommender	
-----
-Reference Type	
-Prefix	
-First Name	
-Last Name	
-Organization	
-Position/Title	
-Relationship	
-Phone Number	
-Email Address	
-Personal message to recommender	
-====
-[UC Berkeley - 5 Recommenders]
-1. Dr. Martin Thuo
-2. Dr. Thomas Ward III
-3. Dr. Lequetia Ancar
-4. Dr. Andrew Martin
-5. **EXTRA SPOT**
-----
-Prefix	
-First Name	Martin
-Last Name	Thuo
-Organization	
-Position/Title	
+Professor Of Materials Science and Engineering
 Recommender's Relationship To You	
+Previous Research Mentor
 Telephone	
++1 617-458-2363
 Email	
+mthuo@ncsu.edu
 Personal Message to Recommender	
-500 characters remaining
-Your personal message will be included in the email notification to this recommender, and it will also be displayed on the recommendation form.
+Hello and Happy Holidays! I hope you had a good break and enjoyed some relaxation. This week I start submitting my first set of Graduate School Applications on December 1st. 
+
+My Program Selections for this School are:
+1. Neurosciences (PhD)
+2. Biomedical Data Science (PhD)
+
+For this application I am adhering to the Dec 1. Deadline. (This Friday). 
+
+Please let me know if I can help you in any way. I'll be in touch soon. 
+
+To The Moon!!
 ----
+
 Prefix	
-First Name	Thomas 
-Last Name	Ward
-Organization	
-Position/Title	
-Recommender's Relationship To You	
-Telephone	
-Email	
-Personal Message to Recommender	
-500 characters remaining
-Your personal message will be included in the email notification to this recommender, and it will also be displayed on the recommendation form.
-----
-Prefix	
-First Name	Lequetia 
-Last Name	Ancar
-Organization	
-Position/Title	
-Recommender's Relationship To You	
-Telephone	
-Email	
-Personal Message to Recommender	
-500 characters remaining
-Your personal message will be included in the email notification to this recommender, and it will also be displayed on the recommendation form.
-----
-Prefix	
+Dr.
 First Name	
+Thomas
 Last Name	
+Ward
 Organization	
+University of Virginia Engineering
 Position/Title	
+Professor of Mechanical and Aerospace Engineering
 Recommender's Relationship To You	
+Previous Research Mentor
 Telephone	
++1 434-924-3072
 Email	
+hgw8rs@virginia.edu
 Personal Message to Recommender	
-500 characters remaining
-Your personal message will be included in the email notification to this recommender, and it will also be displayed on the recommendation form.
+Hello and Happy Holidays! I hope you had a good break and enjoyed some relaxation. This week I start submitting my first set of Graduate School Applications on December 1st. 
+
+My Program Selections for this School are:
+1. Neurosciences (PhD)
+2. Biomedical Data Science (PhD)
+
+For this application I am adhering to the Dec 1. Deadline. (This Friday). 
+
+Please let me know if I can help you in any way. I'll be in touch soon. 
+
+To The Moon!!
+
 ----
+
 Prefix	
+Dr.
 First Name	
+Lequetia
 Last Name	
+Ancar
 Organization	
+Iowa State University College of Engineering
 Position/Title	
+Director of Multicultural Student Success and ESS
 Recommender's Relationship To You	
+Advisor
 Telephone	
++1 515-294-0690
 Email	
+lancar@iastate.edu
 Personal Message to Recommender	
-500 characters remaining
-Your personal message will be included in the email notification to this recommender, and it will also be displayed on the recommendation form.
-====
-[Caltech - 3 Recommenders]
-1. Dr. Martin Thuo
-2. Dr. Thomas Ward
-3. Dr. Julia R. Greer
+Hello and Happy Holidays! I hope you had a good break and enjoyed some relaxation. This week I start submitting my first set of Graduate School Applications on December 1st. 
+
+My Program Selections for this School are:
+1. Neurosciences (PhD)
+2. Biomedical Data Science (PhD)
+
+For this application I am adhering to the Dec 1. Deadline. (This Friday). 
+
+Please let me know if I can help you in any way. I'll be in touch soon. 
+
+To The Moon!!
+
 ----
-Recommender
-First Name Martin 
-Last Name Thuo
-Institution/Organization
-Salutation
- 
-Title and/or Position
-Email
-----
-Recommender
-First Name Martin
-Last Name Thuo
-Institution/Organization
-Salutation
- 
-Title and/or Position
-Email
-----
-Recommender
-First Name Julia R.
-Last Name Greer
-Institution/Organization
-Salutation
- 
-Title and/or Position
-Email
+
 ====
 [List Of Recommenders]
 ----
-Dr. Martin Thuo
-Dr. Thomas Ward III
-Dr. Lequetia Ancar
+1. Dr. Martin Thuo
+
+Profile: https://www.mse.ncsu.edu/people/mthuo/
+Web: https://www.mse.ncsu.edu/thuo/
+Connection: Research Mentor at Iowa State University
+
+2. Dr. Thomas Ward
+
+Profile: https://www.aere.iastate.edu/ward/files/2012/08/TW3-CV_DEC12.pdf
+Web: https://www.aere.iastate.edu/ward/
+Connection: Research Mentor at Iowa State University 
+
+3. Dr. Lequetia Ancar
+
+
+Profile: https://www.engineering.iastate.edu/people/profile/lancar/
+Web: https://www.engineering.iastate.edu/elt/home/past-conferences/dr-lequetia-ancar/
+Connection: https://www.engineering.iastate.edu/lead/lead-programs/
+
+====
+
+
 Dr. Julia R. Greer
-Dr. Xiaolin Zheng
 Dr. José Guillermo González Valdez (Pepe)
 Dr. Maximilian Viatori
 Dr. Andrew Martin
 Carl S McNair
-====
-
-
