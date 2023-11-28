@@ -1,28 +1,7 @@
-Application 1: MIT-WHOI Joint Program in Oceanography - Applied Ocean Science and Engineering
-Application 2: Health Sciences and Technology (Harvard-MIT Joint Program)
+Program
 
-Section	Required Field or Error
-Program Information	Please provide a two to three sentence description of your research interests
-Academic History	Upload transcript copies for all schools
-Employment	CV is required
-Written Statements	A Personal Statement is required
-Written Statements	A statement of objectives is required
-Recommendations	Details of at least three recommenders are required
+Health Sciences and Technology (Harvard-MIT Joint Program)
+Please select an area of research:
 
-
-Organization Name	
-Role	
-Country	
-United States
-City	
-State	
-Select State
-Dates of Participation	
-
-to
-Present
-
-Frequency of Participation	
-hours per week
-weeks per year
-Description of Participation	
+MEMP, with BioAstronautics Training Program
+Please provide a two to three sentence description of your research interests.
