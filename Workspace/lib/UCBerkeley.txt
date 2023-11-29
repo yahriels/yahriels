@@ -1,28 +1,8 @@
-Application: Computational Precision Health 
+Hello,
 
-Organization Name	
-Country	
-United States
-City	
-State	
-Select State
-Telephone	
-Dates of Employment	
+This application is due on December 11th from my end.
 
-to
-Present
-
-Position/Title	
-Starting Compensation	
-
-Annual Base in $U.S.	
-
-Annual Bonus in $U.S.
-Ending Compensation	
-
-Annual Base in $U.S.	
-
-Annual Bonus in $U.S.
-Hours/Week	
-Description	
-
+For this application to UC Berkeley , I am have selected the Graduate program:
+The Computational Precision Health (joint UCSF) JtPhD Program
+Department 1: https://grad.berkeley.edu/program/computational-precision-health-jt-phd-joint-ucsf/
+Department 2: https://computationalhealth.berkeley.edu/admissions/

@@ -1,106 +1,215 @@
-[Graduate Programs (Deadlines)]
-----
-Stanford Application (due dec. 1)
-
-MIT Application (due dec. 15: WHOI) 
-
-MIT Application (due dec. 1: HST)
-
-Caltech Application (due dec. 15)
-
-UC Berkeley (due dec. 11)
-
-Harvard (due dec. 15) 
-====
-
-[MIT - 3 Recommenders]
-https://oge.mit.edu/programs/harvard-mit-health-sciences-and-technology/
-https://oge.mit.edu/programs/mit-whoi-joint-program-in-oceanography-applied-ocean-science-and-engineering/
-
-[Stanford - 3 Recommenders]
-1. Dr. Martin Thuo
-2. Dr. Thomas Ward
-3. Dr. Lequetia Ancar
-
-
-----
-Dr.
-First Name	
-Martin
-Last Name	
+----	
+Martin	
 Thuo
-Organization	
 North Carolina State University
-Position/Title	
 Professor Of Materials Science and Engineering
-Recommender's Relationship To You	
-Previous Research Mentor
-Telephone	
 +1 617-458-2363
-Email	
 mthuo@ncsu.edu
-Personal Message to Recommender	
-Hello and Happy Holidays! I hope you had a good break and enjoyed some relaxation. This week I start submitting my first set of Graduate School Applications on December 1st. 
-
-My Program Selections for this School are:
-1. Neurosciences (PhD)
-2. Biomedical Data Science (PhD)
-
-For this application I am adhering to the Dec 1. Deadline. (This Friday). 
-
-Please let me know if I can help you in any way. I'll be in touch soon. 
-
-To The Moon!!
 ----
-
-Prefix	
-Dr.
-First Name	
-Thomas
-Last Name	
+Thomas	
 Ward
-Organization	
 University of Virginia Engineering
-Position/Title	
 Professor of Mechanical and Aerospace Engineering
-Recommender's Relationship To You	
-Previous Research Mentor
-Telephone	
 +1 434-924-3072
-Email	
 hgw8rs@virginia.edu
-Personal Message to Recommender	
-Hello and Happy Holidays! I hope you had a good break and enjoyed some relaxation. This week I start submitting my first set of Graduate School Applications on December 1st. 
-
-My Program Selections for this School are:
-1. Neurosciences (PhD)
-2. Biomedical Data Science (PhD)
-
-For this application I am adhering to the Dec 1. Deadline. (This Friday). 
-
-Please let me know if I can help you in any way. I'll be in touch soon. 
-
-To The Moon!!
-
-----
-
-Prefix	
-Dr.
-First Name	
-Lequetia
-Last Name	
+----		
+Lequetia	
 Ancar
-Organization	
 Iowa State University College of Engineering
 Position/Title	
 Director of Multicultural Student Success and ESS
-Recommender's Relationship To You	
-Advisor
-Telephone	
 +1 515-294-0690
-Email	
 lancar@iastate.edu
-Personal Message to Recommender	
+----
+Maximilian 
+Viatori
+Iowa State University Dept. of World Languages & Cultures (WLC)
+Professor of Anthropology and Associate Chair of WLC
++1 515-294-0681
+viatori@iastate.edu
+----
+José Guillermo
+González-Valdez
+Tecnológico de Monterrey: School of Engineering and Sciences , Molecular and Systems Bioengineering
+Director of Outreach and Research Diplomacy, 
+Supporting International Research Partnership Affiliation
++52 81 1040 9773
+jose_gonzalez@tec.mx
+----
+Hello! Can you believe it, the time for me to finally submit my PhD has come, at last!
+
+If you have availability in the next coming weeks/days, would you like to assist me with submitting a recommendation letter on my behalf? As before, I can assist you with anything you may need with writing this letter. - You will also receive an email from me soon with more information.
+----
+
+====
+To do List:
+- Create Email For Big Three: Martin, Thomas, Ancar
+- Create Email For Other Two: Viatori, Pepe
+- Create Email For Big Mom: Greer
+- Compile Materials: Resume, Fulbright Statements, NSF-GRFP Statements
+====
+
+
+
+[Email 1]
+
+Subject: Request for Letters of Recommendation - Final PhD Program Selections
+
+Dear [Recommender's Name],
+
+I trust this email finds you well. Can you believe it?! The time has finally come for me to take AN IMMENSE LEAP and put myself out into the world! I couldn't have gotten here without your esteemed guidance and support.
+
+In two weeks, December 16th, I will graduate with a Bachelor's in Aerospace Engineering from Iowa State University ('23), and I am now in the process of submitting my applications for admission to Various Prestigous PhD programs (See Graduate Programs Selections Below). Given your expertise and my admiration for your work, I am reaching out to kindly request if you would be willing to provide recommendation letters for the selected applications.
+
+During my research under your guidance, I gained invaluable insights into experimental techniques, hardware-software components, and the complexities of MEMS nanocomposites. The experience significantly shaped my academic and research journey, and I am enthusiastic about the prospect of continuing my education at the world class level and transforming the scientific world as we now it!
+
+I have thoroughly researched my intellectual interests and found interest in Health Sciences & Technology (Mental Health Innovation), especially in the intersection of the fractaliity of nature (Mandelbrot Set & Fractal Mathematics) and identifying neuroanotomical features of global mental health disorders (Neurobiology & Chaos Theory). Your pioneering spirit fueled my aspirations to pursue the greatest global health challenges in the field of neuroscience and biomedical data science.
+
+If you agree to support my application, I will provide any necessary information, including my resume, transcripts, and a summary of my proposed materials. The deadline for submission of recommendation letters vary depending on the program selection srtarting from [12/01/23 - 12/15/23].
+
+I understand the demands on your time and truly appreciate your consideration of this request. Your support will undoubtedly enhance my application, and I am confident that your endorsement will significantly contribute to my chances of acceptance into these programs.
+
+Thank you very much for your time and consideration. I look forward to the possibility of working with you again and contributing to the vibrant scientific community at the highest-level. Please let me know if I can be of assistance in any way!
+
+Best regards,
+
+Yahriel Salinas-Reyes
+
+P.S. Fun Fact: This New Years I will be in México (visiting my homeland/family for the first time), when I return to the U.S. in 2024 I will officially have triple citizenship status of the U.S., El Salvador, and México!
+
+----
+[Attachments]
+- Resume/CV & Unofficial Transcript
+- Statements & Tecnológico de Monterrey (México) Affiliation Letter
+- Creative Writings and Storytelling
+- Recommendaiton Letter Templates
+----
+
+
+[Final Graduate Programs Selections (Deadlines)]
+(A) Massachusetts Institute of Technology (**PRIORITY 1: DUE THIS FRIDAY**)
+- Deadline: Due December 1st [12/01/23]
+> Field of Study: Health Sciences and Technology (Harvard-MIT Joint Program)
+> Degree Program: Medical Engineering and Medical Physics (MEMP), with BioAstronautics Training Program
+> Description of Research Interests: My research interests center around the intersection of fractal geometry, particularly the Mandelbrot Set, and the identification of neuro-mechanistic biomarkers for mental health disorders, specifically targeting schizophrenia. I am eager to contribute to the innovative research conducted within the program and believe that the expertise and mentorship available will be invaluable as I pursue my doctoral studies in the field of neuroscience and biomedical data science.
+
+(B) Stanford University (**PRIORITY 2: DUE THIS FRIDAY**)
+- Deadline: Due December 1st [12/01/23]
+> Field of Study: Biosciences   
+> Degree Program 1: Neurosciences 
+> Degree Program 2: Biomedical Data Science
+
+(C) UC Berkeley
+- Deadline: Due December 11th [12/11/23]
+> Field of Study: Computer Science, Statistics, Engineering, Medicine, and Public Health
+> Degree Program: Computational Precision Health (joint UCSF) JtPhD Program
+
+(D) Harvard University
+- Deadline: Due December 15th [12/15/23]
+> Field of Study: Engineering and Applied Sciences (SEAS) 
+> Degree Program: Applied Mathematics (Harvard-MIT Joint Program)
+> Most interested: Computational Neuroscience; Interested: Modeling Physical/Biological Phenomena and Systems, Somewhat interested: Natural and Artificial Intelligence
+
+(E) California Institute of Technology 
+- Deadline: Due December 15th [12/15/23]
+> Field of Study: Department of Computing and Mathematical Sciences (including ACM, CDS, CMS & CS)
+> Academic Option 1: Computing and Mathematical Sciences; Academic Option 2: Applied and Computational Mathematics; Academic Option 3: Control and Dynamical Systems; Academic Option 4: Computer Science
+> Primary Area of Special Interest: Computational Biology; Synthetic Biology; Molecular Programming; Neuroscience, Secondary Area of Special Interest: Information Theory; Signal Processing; Communications
+
+(F) Massachusetts Institute of Technology-Woods Hole Oceanographic Institution (MIT-WHOI) Joint Program (**SUMMER 2023 GRADUATE ADMISSION**)
+- Deadline: Due December 15th [12/15/23]
+> Field of Study: MIT-WHOI Joint Program in Oceanography
+> Degree Program: Applied Ocean Science and Engineering (AOSE)
+> Preferred MIT Department: Aeronautics and Astronautics; Mechanical Engineering
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Extra Emails]
+----
+For this MIT Application, I have selected the Joint-Program Between MIT & Harvard. The MIT Department is: Health Sciences and Technology (HST).  I have selected HST’s Medical Engineering and Medical Physics (MEMP) PhD program.
+
+Here are some helpful links:
+https://hst.mit.edu/
+https://hst.mit.edu/academic-programs/memp
+https://oge.mit.edu/programs/harvard-mit-health-sciences-and-technology/
+https://oge.mit.edu/gpp/admissions-and-registration/partnerships-exchanges/harvard-mit-health-sciences-and-technology/
+
+
+The deadline for this application from my end is December 1st (Friday). I am not sure of the recommendation deadline date, to be safe I assume it will be December 1st also. For this Application I can submit a maximum of 5 recommendations.
+
+Again, I will follow up with another email and please let me know if I can aid in any way. My mission is to make this process and easy as possible for you!
+
+Best, 
+- Yahriel S.R.
+----
 Hello and Happy Holidays! I hope you had a good break and enjoyed some relaxation. This week I start submitting my first set of Graduate School Applications on December 1st. 
 
 My Program Selections for this School are:
@@ -112,36 +221,4 @@ For this application I am adhering to the Dec 1. Deadline. (This Friday).
 Please let me know if I can help you in any way. I'll be in touch soon. 
 
 To The Moon!!
-
 ----
-
-====
-[List Of Recommenders]
-----
-1. Dr. Martin Thuo
-
-Profile: https://www.mse.ncsu.edu/people/mthuo/
-Web: https://www.mse.ncsu.edu/thuo/
-Connection: Research Mentor at Iowa State University
-
-2. Dr. Thomas Ward
-
-Profile: https://www.aere.iastate.edu/ward/files/2012/08/TW3-CV_DEC12.pdf
-Web: https://www.aere.iastate.edu/ward/
-Connection: Research Mentor at Iowa State University 
-
-3. Dr. Lequetia Ancar
-
-
-Profile: https://www.engineering.iastate.edu/people/profile/lancar/
-Web: https://www.engineering.iastate.edu/elt/home/past-conferences/dr-lequetia-ancar/
-Connection: https://www.engineering.iastate.edu/lead/lead-programs/
-
-====
-
-
-Dr. Julia R. Greer
-Dr. José Guillermo González Valdez (Pepe)
-Dr. Maximilian Viatori
-Dr. Andrew Martin
-Carl S McNair
