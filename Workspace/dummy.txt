@@ -1,26 +1,67 @@
-Help Yahriel Salinas Answer The Prompt.
+----
+https://www.musco.com/ 
+https://www.musco.com/about-us/
+https://www.musco.com/sports-lighting/
+https://www.musco.com/large-area-lighting/
+https://www.musco.com/temporary-lighting/
+https://www.musco.com/wireless-structures/
+https://www.musco.com/facility-management/
+https://www.musco.com/news-projects/
+https://www.musco.com/careers/
+----
 
-Prompt: 
-{
-Yahriel, you are applying to the Graduate Program: Health Sciences and Technology (Harvard-MIT Joint Program); Yahriel, you selected: MEMP (Medical Engineering and Physics), with BioAstronautics Training Program
 
-Please provide a two to three sentence description of your research interests.
 
-}
+Background:  Tony Benson is a sports lighting expert who is the founder and president of Musco Sports Lighting, 
+a company specializing in the design, supply, and installation of sports lighting systems. Musco Sports Lighting is known for its innovative and industry-leading products, 
+which are designed to enhance player performance, safety, and enjoyment across a variety of sports and facilities. 
+The company has a long history of providing lighting solutions for professional, collegiate, and amateur sports organizations around the world, including the NFL, NBA, and the Olympics.  
 
-Sample Text:
-{
-For this MIT Application, I have selected the Joint-Program Between MIT & Harvard. The MIT Department is: Health Sciences and Technology (HST).  I have selected HST’s Medical Engineering and Medical Physics (MEMP) PhD program.
 
-Here are some helpful links:
-https://hst.mit.edu/
-https://hst.mit.edu/academic-programs/memp
-https://oge.mit.edu/programs/harvard-mit-health-sciences-and-technology/
-https://oge.mit.edu/gpp/admissions-and-registration/partnerships-exchanges/harvard-mit-health-sciences-and-technology/
+Des Moines Register Names Musco Lighting an Iowa Top Workplaces 2023 Award Recipient
+Oskaloosa, Iowa – Musco Lighting has been awarded a Top Workplaces 2023 honor by Iowa Top Workplaces.
 
-My Program Selections for this School are:
-1. Neurosciences (PhD)
-2. Biomedical Data Science (PhD)
 
-My interest lies at the intersection of fractal geometry (Mandelbrot Set) and identifying neuro-mechanistic biomarkers of mental health disorders (Schizophrenia). I am enthusiastic about the prospect of contributing to and learning from the innovative research conducted at the Caltech Community. Your guidance and mentorship would be invaluable as I embark on my doctoral studies in the intersection of neuroscience and biomedical data science.
-}
+“The Musco LED Lighting System at LoConte Family Field has allowed us to increase programming by extending hours for our intramural sports. Additionally, the ability to program the lights remotely is a neat feature that is especially useful at that remote property.”
+
+----
+Tony Benson
+- He likes people who are humble and people that are humble.
+- Don't overshare with things that you don't know. 
+====
+Homework
+- Research Musco and write down facts and stuff. 
+- Research Musco and point out some projects and technologies you are interested in including sustainable energy and technologies.
+- Research oskaloosa and pella and form housing plans.
+====
+Prep
+- Dress for success
+- Start with some small talk and talk about 
+- Be friendly
+====
+Cheat Sheet
+1. Degree and Professional Interests
+2. Electrical/electronics
+3. Why Musco: to design creative solutions with a transdisciplinary approach and bridging the gaps between science, real world problems, etc.
+4. Personal Touch - While I am ruthlessly logical, I am also a scientist driven by raw emotions. While I'm an Aerospace Engineer, People have often describe me with the temperment of a great artist.
+5. I'm a sports guy Being active and Creative: Predicting Olympic Triathlon Results and National CIRT Design Competition. Internet of Things
+====
+Questions for Interviewee
+1. What are your goals?
+2. Where do you see yourself in 5 years.?
+3. What is your expected compensation? I am looking to find a good fit and am open to discussing options.
+4. When are you available to start. 
+====
+Questions to Ask Interviewer
+1. What have you found to be some of the top skills for people to be successful here?
+2. What is something i would be challenged with?
+3. If hired, what are your expectations of me in the first six months?
+4. What opportunities for growth and development?
+5. What has Musco done for you?
+====
+TELL HIM THAT YOU ARE VERY INTERESTED 
+ASK FOR FEEDBACK 
+IS THERE ANYTHING I CAN DO TO MOVE MY APPLICATION FORWARD 
+HOW WOULD YOU KNOW THAT YOU MADE THE BEST DECISION 
+I AM A TRIPLE CITIZEN
+====
