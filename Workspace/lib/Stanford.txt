@@ -1,41 +1,278 @@
 
-Experience
-You are applying to: Neurosciences (PhD), Biomedical Data Science (PhD)
+Select 6 Research Experiences
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+Select 5 Publications/Presentations/Posters
+1. 
+2. 
+3. 
+4. 
+5. 
+Select 6 Awards and Honors
+1.
+2.
+3.
+4.
+5.
+6.
+Select 6 Work Experiences
+1.
+2.
+3.
+4.
+5.
+6.
 
-Required fields are indicated with *
+Template to Fill in for Yahriel's Experience:
+{
+Yahriel is applying to Stanford Univeristy Graduate Programs: Neurosciences (PhD), Biomedical Data Science (PhD)
 ----
-Research Experience
-If you have prior research experience, provide details about each experience below. List experiences in order of significance to you, with the most meaningful experience listed first.
+A. Research Experience: If you have prior research experience, provide details about each experience below. List experiences in order of significance to you, with the most meaningful experience listed first. You may list up to six experiences in this section. If you wish to share more, include this information in your resume/CV at the bottom of this page.
 
-You may list up to six experiences in this section. If you wish to share more, include this information in your resume/CV at the bottom of this page.
-Organization Name	Principal Investigator	Dates of Experience
-Add Research Experience
+Add Research Experience 1
+> Order of Significance: " "	
+Institution or Organization Name: " "	
+Country: " "
+City: " "	
+State: " "
+Start Date: " "	
+End Date: " "
+Hours per Week: " "	
+Your Title: " "
+Principal Investigator: " "	
+Description in 550 Total characters or less: " "
+
+Add Research Experience 2
+> Order of Significance: " "	
+Institution or Organization Name: " "	
+Country: " "
+City: " "	
+State: " "
+Start Date: " "	
+End Date: " "
+Hours per Week: " "	
+Your Title: " "
+Principal Investigator: " "	
+Description in 550 Total characters or less: " "
+
+Add Research Experience 3
+> Order of Significance: " "	
+Institution or Organization Name: " "	
+Country: " "
+City: " "	
+State: " "
+Start Date: " "	
+End Date: " "
+Hours per Week: " "	
+Your Title: " "
+Principal Investigator: " "	
+Description in 550 Total characters or less: " "
+
+Add Research Experience 4
+> Order of Significance: " "	
+Institution or Organization Name: " "	
+Country: " "
+City: " "	
+State: " "
+Start Date: " "	
+End Date: " "
+Hours per Week: " "	
+Your Title: " "
+Principal Investigator: " "	
+Description in 550 Total characters or less: " "
+
+Add Research Experience 5
+> Order of Significance: " "	
+Institution or Organization Name: " "	
+Country: " "
+City: " "	
+State: " "
+Start Date: " "	
+End Date: " "
+Hours per Week: " "	
+Your Title: " "
+Principal Investigator: " "	
+Description in 550 Total characters or less: " "
+
+Add Research Experience 6
+> Order of Significance: " "	
+Institution or Organization Name: " "	
+Country: " "
+City: " "	
+State: " "
+Start Date: " "	
+End Date: " "
+Hours per Week: " "	
+Your Title: " "
+Principal Investigator: " "	
+Description in 550 Total characters or less: " "
 ----
-Publications/Presentations/Posters
-If applicable, list any publications you have authored or presentations/posters you have delivered in order of significance to you, with the most meaningful listed first.
+B. Publications/Presentations/Posters: If applicable, list any publications you have authored or presentations/posters you have delivered in order of significance to you, with the most meaningful listed first. You may list up to five publications/presentations/posters on this page. If you wish to share more, include this information in your resume/CV at the bottom of this page.
 
-You may list up to five publications/presentations/posters on this page. If you wish to share more, include this information in your resume/CV at the bottom of this page.
-Title	Type
-Add Publication/Presentation/Poster
+Add Publication/Presentation/Poster 1
+> Order of Significance: " "
+Type: "Journal Article"
+Article Title: " "
+Journal Title: " "
+Peer-reviewed: " "
+All Authors (List in the same order and format as published.): " "
+Your Role: " "
+Publication Status: " "	
+
+Add Publication/Presentation/Poster 2
+> Order of Significance: " "
+Type: "Conference Article"
+Article Title: " "
+Journal Title: " "
+Peer-reviewed: " "
+All Authors (List in the same order and format as published.): " "
+Your Role: " "
+Publication Status: " "	
+
+Add Publication/Presentation/Poster 3
+> Order of Significance: " "
+Type: "Presentation"
+Article Title: " "
+Journal Title: " "
+Peer-reviewed: " "
+All Authors (List in the same order and format as published.): " "
+Your Role: " "
+Publication Status: " "	
+
+Add Publication/Presentation/Poster 4
+> Order of Significance: " "
+Type: "Poster"
+Article Title: " "
+Journal Title: " "
+Peer-reviewed: " "
+All Authors (List in the same order and format as published.): " "
+Your Role: " "
+Publication Status: " "	
+
+Add Publication/Presentation/Poster 5
+> Order of Significance: " "
+Type: "Other"
+Please specify the publication type (e.g., patent, conference proceeding, book chapter, etc.), Other Type: " "	
+Title: " "	
+Author Name(s): " "	
+Date: " "	
 ----
-Awards & Honors
-If applicable, list any awards or honors you have received.
+C. Awards & Honors: If applicable, list any awards or honors you have received. You may list up to six awards in this section. If you wish to share more, include this information in your resume/CV at the bottom of this page.
 
-You may list up to six awards in this section. If you wish to share more, include this information in your resume/CV at the bottom of this page.
-Award/Honor	Date Received
-Add Award/Honor
+Add Award/Honor 1
+> Award Name: " "
+Date Received: " "
+Description limit of 300 total character remaining: " "
+
+Add Award/Honor 2
+> Award Name: " "
+Date Received: " "
+Description limit of 300 total character remaining: " "
+
+Add Award/Honor 3
+> Award Name: " "
+Date Received: " "
+Description limit of 300 total character remaining: " "
+
+Add Award/Honor 4
+> Award Name: " "
+Date Received: " "
+Description limit of 300 total character remaining: " "
+
+Add Award/Honor 5
+> Award Name: " "
+Date Received: " "
+Description limit of 300 total character remaining: " "
+
+Add Award/Honor 6
+> Award Name: " "
+Date Received: " "
+Description limit of 300 total character remaining: " "
 ----
-Work Experience
-If you have prior work experience, provide details about each experience below. Experiences may include internships, part-time and full-time employment.
+D. Work Experience: If you have prior work experience, provide details about each experience below. Experiences may include internships, part-time and full-time employment. You may list up to six experiences in this section. If you wish to share more, include this information in your resume/CV at the bottom of this page.
 
-You may list up to six experiences in this section. If you wish to share more, include this information in your resume/CV at the bottom of this page.
-Organization Name	Dates of Experience
-Add Work Experience
+Add Work Experience 1
+> Organization Name: " "
+Country: " "
+City: " "
+State: " "
+Start Date: " "	
+End Date: " "
+Position/Title: " "	
+Industry: " "
+Hours/Week: " "
+Description limit 550 total characters remaining: " "
+Reason for Leaving limit 100 characters remaining: " "
+
+Add Work Experience 2
+> Organization Name: " "
+Country: " "
+City: " "
+State: " "
+Start Date: " "	
+End Date: " "
+Position/Title: " "	
+Industry: " "
+Hours/Week: " "
+Description limit 550 total characters remaining: " "
+Reason for Leaving limit 100 characters remaining: " "
+
+Add Work Experience 3
+> Organization Name: " "
+Country: " "
+City: " "
+State: " "
+Start Date: " "	
+End Date: " "
+Position/Title: " "	
+Industry: " "
+Hours/Week: " "
+Description limit 550 total characters remaining: " "
+Reason for Leaving limit 100 characters remaining: " "
+
+Add Work Experience 4
+> Organization Name: " "
+Country: " "
+City: " "
+State: " "
+Start Date: " "	
+End Date: " "
+Position/Title: " "	
+Industry: " "
+Hours/Week: " "
+Description limit 550 total characters remaining: " "
+Reason for Leaving limit 100 characters remaining: " "
+
+Add Work Experience 5
+> Organization Name: " "
+Country: " "
+City: " "
+State: " "
+Start Date: " "	
+End Date: " "
+Position/Title: " "	
+Industry: " "
+Hours/Week: " "
+Description limit 550 total characters remaining: " "
+Reason for Leaving limit 100 characters remaining: " "
+
+Add Work Experience 6
+> Organization Name: " "
+Country: " "
+City: " "
+State: " "
+Start Date: " "	
+End Date: " "
+Position/Title: " "	
+Industry: " "
+Hours/Week: " "
+Description limit 550 total characters remaining: " "
+Reason for Leaving limit 100 characters remaining: " "
 ----
+}
 
 
-
-6 Research Experiences
-5 Publications/Presentations/Posters
-6 Awards and Honors
-6 Work Experiences

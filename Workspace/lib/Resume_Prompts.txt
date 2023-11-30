@@ -1,3 +1,75 @@
+Help Yahriel Salinas Answer The Prompt.
+
+Yahriel is the MASTER User: 
+{
+Master: https://github.com/yahriels/yahriels/blob/main/Workspace/Master.txt
+Main: https://github.com/yahriels/yahriels/tree/main 
+Page: https://github.com/yahriels/yahriels/blob/main/page.html
+Yahriel Profile: https://github.com/yahriels/yahriels/blob/main/%5B0%5DY.Salinas-Reyes_Profile.pdf
+Yahriel Statements: https://github.com/yahriels/yahriels/blob/main/%5B2%5DY.Salinas-Reyes_Statements.pdf
+Yahriel Relevant: https://github.com/yahriels/yahriels/blob/main/%5B3%5DY.Salinas-Reyes_Relevant.pdf
+Yahriel Workspace Profile: https://github.com/yahriels/yahriels/blob/main/Workspace/Yahriel_Profile.txt
+Supplementary Materials: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Supplementary_Materials.txt
+Figure 1: https://github.com/yahriels/yahriels/blob/main/Figure1.jpg.svg
+Figure 2: https://github.com/yahriels/yahriels/blob/main/Figure2.jpg.svg
+Workspace: https://github.com/yahriels/yahriels/tree/main/Workspace
+Library: https://github.com/yahriels/yahriels/tree/main/Workspace/lib
+Experience: https://github.com/yahriels/yahriels/blob/main/Experiences.pdf
+Dummy: https://github.com/yahriels/yahriels/blob/main/Workspace/dummy.txt
+Resume Prompts: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Resume_Prompts.txt
+Resume Template: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Resume_Template.txt
+}
+
+
+
+Prompt: 
+{
+
+Review Yahriel's Experience
+Yahriel is applying to: Neurosciences (PhD), Biomedical Data Science (PhD)
+
+Required fields are indicated with *
+----
+Research Experience
+If you have prior research experience, provide details about each experience below. List experiences in order of significance to you, with the most meaningful experience listed first.
+
+You may list up to six experiences in this section. If you wish to share more, include this information in your resume/CV at the bottom of this page.
+Organization Name	Principal Investigator	Dates of Experience
+Add Research Experience
+----
+Publications/Presentations/Posters
+If applicable, list any publications you have authored or presentations/posters you have delivered in order of significance to you, with the most meaningful listed first.
+
+You may list up to five publications/presentations/posters on this page. If you wish to share more, include this information in your resume/CV at the bottom of this page.
+Title	Type
+Add Publication/Presentation/Poster
+----
+Awards & Honors
+If applicable, list any awards or honors you have received.
+
+You may list up to six awards in this section. If you wish to share more, include this information in your resume/CV at the bottom of this page.
+Award/Honor	Date Received
+Add Award/Honor
+----
+Work Experience
+If you have prior work experience, provide details about each experience below. Experiences may include internships, part-time and full-time employment.
+
+You may list up to six experiences in this section. If you wish to share more, include this information in your resume/CV at the bottom of this page.
+Organization Name	Dates of Experience
+Add Work Experience
+----
+
+Yahriel, 
+
+Please answer the following questions for each entry that is applicable or relevant in the Situation, Challenge or Task, Action (using I statements, some We statements is okay), and result format while rewriting and rebuilding [Original] Yahriel's Resume and make enhancements as needed. Do not spare any details.
+
+- Tell me about a time you had to collaborate and work on a team project
+- Tell me about a time you had to deal with an angry customer/student/coworker
+- Tell me about a time you had to use problem solving or root cause analysis
+
+}
+
+
 [Original] Yahriel's Resume:
 {
 Yahriel Salinas-Reyes
@@ -6,7 +78,7 @@ Human Ingenuity Statement: Here is a simple sign that Yahriel Salinas-Reyes is a
 
 EDUCATION
 Iowa State University of Science & Technology: Ames, IA Anticipated Graduated: December, 16th 2023
-Bachelor of Aerospace Engineering (GPA: 3.4)
+Bachelor of Aerospace Engineering (GPA: 3.3)
 • Relevant Coursework: Systems Engineering, Electrical Engineering, FEA, Robotics, Engine Analysis, Engine Design, 
 Thermodynamics, Controls, Applied Mechanics & Physics, Materials Science & Engineering, Machine-Learning, 
 Computer Science, Software Engineering, etc. 

@@ -6,7 +6,7 @@ Human Ingenuity Statement: Here is a simple sign that Yahriel Salinas-Reyes is a
 
 EDUCATION
 Iowa State University of Science & Technology: Ames, IA Anticipated Graduated: December, 16th 2023
-Bachelor of Aerospace Engineering (GPA: 3.4)
+Bachelor of Aerospace Engineering (GPA: 3.3)
 • Relevant Coursework: Systems Engineering, Electrical Engineering, FEA, Robotics, Engine Analysis, Engine Design, 
 Thermodynamics, Controls, Applied Mechanics & Physics, Materials Science & Engineering, Machine-Learning, 
 Computer Science, Software Engineering, etc. 
