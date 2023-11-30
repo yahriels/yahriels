@@ -1,24 +1,41 @@
-Describe an Interesting Biological or Biomedical Problem
-Please describe one unsolved biological or biomedical problem that you find interesting and explain why. It does not have to be related to your significant research project or any of your prior work. Your answer is not binding.
-Schizophrenia's profound impact on individuals and society has drawn me into its captivating realm. This intricate mental disorder, which disrupts perception, thinking, and behavior, holds immense significance for both science and psychiatry, affecting millions globally. Understanding it has far-reaching implications.
 
-Scientifically, unraveling schizophrenia involves studying genetics, neurobiology, and environmental factors. This multidisciplinary approach combines genetics, neuroscience, psychology, and computational modeling to gain insights and develop better tools and treatments. Recent technological advancements, like fMRI and PET scans, visualize brain abnormalities, aiding biomarker identification.
+Experience
+You are applying to: Neurosciences (PhD), Biomedical Data Science (PhD)
 
-Beyond the scientific realm, schizophrenia exerts a profound societal impact. Individuals grappling with schizophrenia encounter formidable personal and professional challenges, while their families and communities extend vital support and care. 
-
-In conclusion, schizophrenia presents an enthralling and formidable avenue for scientific exploration with profound implications for psychiatry. My expertise in data analysis, collaborative research, and dedication to mentorship align seamlessly with the skills essential to make a substantial impact in this field and underscore my capacity to apply rigorous analytical techniques to intricate problems. This aptitude is poised to play a pivotal role in investigating the intricate biological and genetic facets of schizophrenia.
-4 characters remaining
-Foundations of Graduate Study
-Responses to the following questions are only expected for those applying to Biomedical Data Science and/or the Immunology Computational and Systems Track, but others may respond as well.
-
-For each of the following areas, please describe your experience, as acquired through coursework, research, or other projects, or your plans for obtaining or expanding such experience, ideally before starting your PhD.
-Multivariate Mathematics (including Calculus and Linear Algebra)
-Multivariate Mathematics: Throughout my undergraduate studies in Aerospace Engineering, I completed rigorous coursework in Calculus and Linear Algebra. These courses provided me with a solid understanding of multivariate mathematics, including concepts such as vector calculus, partial derivatives, and matrix operations. Additionally, I have applied these mathematical principles in various research projects, such as my work on the design of multi-function 3D piezoelectric devices for aeronautical applications. This experience has allowed me to develop a practical understanding of how multivariate mathematics can be applied to real-world engineering problems.
-85 characters remaining
-Probability and Statistics
-Probability and Statistics: I have a strong background in probability and statistics, which I have acquired through both coursework and research. In my undergraduate studies, I completed advanced courses in probability theory and statistical analysis. I have also applied these concepts in my research projects, such as my work on characterizing damping mechanisms in piezoelectric wind-energy harvesters. I have experience in data collection, analysis, and interpretation, and I am proficient in statistical software packages such as R and Python. I am confident in my ability to apply statistical methods to analyze complex data sets and draw meaningful conclusions.
-82 characters remaining
-Computation (including fundamentals of computer science and software engineering)
-Computation: I have a solid foundation in the fundamentals of computer science and software engineering. In addition to coursework in programming languages such as C++ and Java, I have practical experience in coding through my research projects. I have utilized computational fluid dynamics (CFD) simulations, developed data capture systems, and assisted graduate students with computer technology capabilities. I am proficient in MATLAB, Python, and other programming languages commonly used in scientific research. My experience in computation has allowed me to effectively analyze and visualize data, as well as develop computational models to solve complex engineering problems.
-68 characters remaining
+Required fields are indicated with *
 ----
+Research Experience
+If you have prior research experience, provide details about each experience below. List experiences in order of significance to you, with the most meaningful experience listed first.
+
+You may list up to six experiences in this section. If you wish to share more, include this information in your resume/CV at the bottom of this page.
+Organization Name	Principal Investigator	Dates of Experience
+Add Research Experience
+----
+Publications/Presentations/Posters
+If applicable, list any publications you have authored or presentations/posters you have delivered in order of significance to you, with the most meaningful listed first.
+
+You may list up to five publications/presentations/posters on this page. If you wish to share more, include this information in your resume/CV at the bottom of this page.
+Title	Type
+Add Publication/Presentation/Poster
+----
+Awards & Honors
+If applicable, list any awards or honors you have received.
+
+You may list up to six awards in this section. If you wish to share more, include this information in your resume/CV at the bottom of this page.
+Award/Honor	Date Received
+Add Award/Honor
+----
+Work Experience
+If you have prior work experience, provide details about each experience below. Experiences may include internships, part-time and full-time employment.
+
+You may list up to six experiences in this section. If you wish to share more, include this information in your resume/CV at the bottom of this page.
+Organization Name	Dates of Experience
+Add Work Experience
+----
+
+
+
+6 Research Experiences
+5 Publications/Presentations/Posters
+6 Awards and Honors
+6 Work Experiences
