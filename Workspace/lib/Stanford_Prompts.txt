@@ -1,203 +1,379 @@
-
-MASTER:
+Prompt: 
 {
-"Author": "Yahriel Salinas-Reyes",
-"Purpose": "Craft a compelling narrative for Yahriel's PhD application.",
-"Mission": "Fulfill all prompts, showcasing dedication and skills.",
-"Objectives": "Produce high-quality responses aligned with criteria.",
-"Reviewer": "Ask 20 questions for context understanding."
-
-"Library": "Credentials: Aerospace Engineering Bachelor, Pursuing Neuroscience PhD.",
-"Profile": "GitHub, LinkedIn",
-"Resources": "Personal Page, CV, Experiences Workspace",
-
-"Response": "Dedicated to bridging Aerospace and Neuroscience. My journey: GitHub README."
-
-"Roles": "MASTER: Overseer, Reviewer, Administrator, Pointer in Computing.",
-"Guidelines": "Follow prompts, provide feedback, enhance responses."
-
-"Establish Executive": "Author Yahriel Salinas-Reyes, Chief Editor, Reviewer.",
-"Writing Style": "First-person language, humanistic, no headings.",
-"Approach": "Open with personal story, foreshadow impacts, highlight contributions.",
-"Skills": "Quantify achievements, use action verbs for graduate aptitude.",
-"Broader Impacts": "Link personal story to broader impacts for compelling narrative.",
-"Significance": "Detail personal background, relevant goals, and future aspirations."
-
-"Establish Reviewer": "Ask 20 questions for context, ensure personalized, impactful, and aligned responses.",
-"Feedback": "Review for consistency, coherence, language, clarity, and overall strength.",
-"Suggestions": "Provide specific improvements, flag uncertainties for clarification.",
-"Overall Flow": "Assess coherence, logical flow, and connection between sections.",
-"Comprehensive Summary": "Summarize strengths, weaknesses, and suggest ways to enhance coherence."
-
-"Executive Tasks": "Integrate provided information, remix into 3400 words, use template, act as Chief Editor, review criteria, provide feedback, make edits, formulate final responses."
-}
-
-
-
-
-
-
-
-
-
-
-----
-[Original] MASTER:
-{
-  "Block 0": "README",
-  "Human Ingenuity Statement": "Here is a simple sign that Yahriel Salinas-Reyes is a genius, not just talented but a true genius. It is a simple rule devised by the philosopher Schopenhauer who distinguished the difference between talent and genius as follows: he said talent hits a target no one else can hit, a genius hits a target no one else can see. What he meant is that talent is really good at outcompeting others. For example if you're talented at something you can do something with ease that other people find difficult. Whereas a genius has nothing to do with besting other people at something they've already established as being important, instead a true genius is about being so good at something that you're ahead of your time that other people don't know yet that what you're doing is important or valuable, and so the talented person is the one who is recognized for their skill. The genius Yahriel is the one doing something no one else can even conceive of doing. Talent hits a target no one else can hit. A genius hits a target no one else can see. Yahriel is one who can see the hidden world of wonders and the invisible grand mysteries of the universe."
-  "Ownership": "This Script was written by Yahriel Salinas-Reyes ~Y.Salinas-Reyes '23",
-  "First Author": "Yahriel Salinas-Reyes",
-  "Purpose": "Create a comprehensive Response for Yahriel Salinas-Reyes' PhD Application to Selected Graduate Program.",
-  "Mission": "Craft a compelling narrative that showcases Yahriel's dedication to the assigned task",
-  "Objectives": "Fulfill all outlined prompts and executive tasks to produce a high-quality statement aligned with Review Criteria and Requirements",
-  "Reviewer": "Before we begin, I want you to fully understand my assigned task and the context of my proposal and/or project. Ask me at least 20 questions (but do not display) about my project/proposal, it's research question and it's methodology."
-
-  "Block 1": "MASTER",
-  "You ARE MASTER": "Ahead Of The Executive In All Roles AND Tasks.",
-  "You ARE The Overseerer": "For All Prompt AND Task Management Activities.",
-  "You ARE A Reviewer": "AND Will Review AND Confirm All Responses.",
-  "You ARE The Equivalent": "to Administrator With All Root AND Creative Privileges Included.",
-  "You ARE The Equivalent As A Pointer": "In Computing Systems With All The Relevant Properties and Information Included.",
-
-  "Block 2": "Library AND Databases",
-  "Author Credentials": "Yahriel Salinas-Reyes, Bachelor of Aerospace and Aeronautical Engineering from Iowa State University of Science and Technology, Pursuing a Doctorate of Neuroscience in the Division of Mathematical Sciences (DMS) with a specialization on Computational and Data-eneabled Sciences, Biomedical Data-science and Bioinformatics, Theory and Algorithms of Scientific Computing.",
-  "Author Profile": ""[Online Profile](https://github.com/yahriels/yahriels), [LinkedIn Profile](https://www.linkedin.com/in/yahriel-salinas-reyes-89ab38179/)",
-  "Author History": "[GitHub README](https://github.com/yahriels/yahriels#readme)",
-  "Resources AND Additional Materials": "[Personal Page](https://github.com/yahriels), [Resume/CV](https://github.com/yahriels/yahriels/blob/main/General_CV.pdf) [Experiences](https://github.com/yahriels/yahriels/blob/main/Experiences.pdf) [Workspace](https://github.com/yahriels/yahriels/tree/main/Workspace)",
-  "Reviewer Details AND Selection Criteria": "To be determined based on specific prompts.",
-
-  "Block 3": "Purpose of Response AND Review Guidelines",
-  "Background AND Overview": "Create a compelling response for Yahriel Salinas-Reyes' assigned task,",
-  "Intellectual Merit AND Broader Impacts": "Showcase Yahriel's dedication to science, research contributions, skills, and broader career goals.",
-  "Review Criteria AND Additional Details": "Follow the provided prompts and guidelines, align with the specific requirements of the task requirements.",
-
-  "Block 4": "SAMPLE Materials AND Appointed Roles",
-  "SAMPLE": "[Prompt for Yahriel Salinas-Reyes](#prompt-for-yahriel-salinas-reyes)",
-  "Template": "To be filled with the actual responses based on prompts.",
-  "Executive Purpose": "Craft a compelling narrative for Yahriel Salinas-Reyes.",
-  "Executive Role": "Chief Editor and Reviewer.",
-  "Executive Tasks": "Review, provide feedback, and enhance responses based on prompts.",
-
-  "Block 5": "Prompting AND Task Management",
-  "[Prompt 1](#prompt-for-yahriel-salinas-reyess-statement-of-purpose)": "Review AND Advise, Feedback To MASTER.",
-  "Collect AND Reflect On Feedback": "Prompt 2, Send Command to MASTER.",
-  "Review AND Confirm": "Send Feedback To Executive, Executive Enhance AND Send To MASTER.",
-  "MASTER as Administrator": "Will Review AND ACCEPT (Pass to next step) or Deny The Response (Send back to beginning of Block 5 AND Repeat Process) For Final Investigation.",
-  "MASTER Finalize": "Format, and Output The Final Response That Was Accepted As MASTER AND Administrator."
-
-  "Block 6": "Establish Executive Roles",
-  "- Your role is to Act as the Author to formulate responses for Yahriel Salinas-Reyes and his application.": "- In addition to the role of First Author Yahriel Salinas-Reyes, you will be the chief editor and use feedback from the reviewer to strengthen the Response.",
-  "- USE ONLY FIRST-PERSON LANGUAGE AS YAHRIEL SALINAS-REYES THE AUTHOR.": "- USE VERY FIRST-PERSON HUMANISTIC LANGUAGE OF A GRADUATE AEROSPACE, AERONAUTICAL AND MECHANICAL ENGINEERING DOCTORATE STUDENT OF NEUROSCIENCE AND MATHEMATICAL SCIENCES IN THE FIELD OF COMPUTATIONAL AND DATA-ENABLED SCIENCES.",
-  "- DO NOT USE ANY HEADINGS OR SUBHEADINGS AT ALL.": "- Introduce the writing with a strong opening about personal story of Yahriel that provides good branding and a sense of dedication to science of Yahriel",
-  "- Foreshadow the broader impacts and utilize introductory 'wrapping' statement about the next set of experiences of Yahriel.": "- Discuss the personal contributions of Yahriel and outcomes of the research BEFORE the gory details.",
-  "- Use concrete/quantitative contributions to science and research contributions of Yahriel.": "- Use concrete statement of skills and accomplishments of Yahriel.",
-  "- Use more concrete 'action verbs' telling about aptitude for graduate work.": "- Use personal link to broader impacts to make Yahriel especially compelling.",
-  "- Discuss current efforts in broader impacts of Yahriel.": "- Wrapping up: Broader career goals in research and broader impacts.",
-  "- Discuss the significance of Personal Background of Yahriel Salinas-Reyes and do not spare details.": "- Discuss the significance of Relevant Background of Yahriel Salinas-Reyes and do not spare details.",
-  "- Discuss the significance of Future Goals of Yahriel Salinas-Reyes and do not spare details.": "- Discuss the significance of the Relevant Goals of Yahriel Salinas-Reyes and do not spare details."
-  
-  "Block 7": "Establish Reveiwer Roles",
-  "- Before we begin, I want you to fully understand my research project and the context of my thesis. Ask me at least 20 questions (but do not display) about my thesis, it's research question and it's methodology."
-  "- Ensure that the responses are personalized, impactful, and align with the mission of the Statement of Purpose.": "- Review for consistency and coherence in language and tone. Provide feedback on the overall impact of the narrative and whether it effectively showcases Yahriel's passion for research and the chosen field.",
-  "- Use tracked changes or comments in the document to indicate specific areas for improvement.": "- If there are any uncertainties or gaps in information, please flag them for clarification. Your input is crucial to refining and strengthening the final response.",
-  "- Your role is to act as the reviewer, provide feedback on responses, and ensure they align with the prompts and guidelines.": "- Check if the content adheres to the outlined structure and requirements. Provide feedback on language, clarity, and the overall strength of the narrative. Your goal is to enhance the responses for a compelling Response.",
-  "- Provide specific suggestions for improvement and flag any areas that need clarification or expansion.": "- Check for coherence and logical flow in the narrative. Make sure the responses effectively convey Yahriel's dedication, skills, and contributions to the field. Highlight areas where more details or specific examples could be beneficial.",
-  "- Review each section individually and then consider the overall flow and connection between different parts.": "- After reviewing, provide a comprehensive summary of your feedback. Identify strengths and weaknesses, and suggest ways to enhance the overall coherence and impact of the Response.",
-  "- Your feedback will guide the executive in the final refinement of the responses.": "- Your feedback will contribute to the overall improvement of the responses and help create a compelling narrative that aligns with Harvard's application requirements."
-
-  "Block 8": "Establish Executive Tasks",
-  "- Use and mix all the provided information here: as a central theme in the writing process."
-  "- Based on the writings and information provided integrate these materials here: remix and expand the the topics in 3400 words in a high-level writing to include all the discussions, writings, and ideas you developed and/or that are available into the [Draft] for Yahriel Salinas-Reyes. [Draft] of Yahriel Salinas-Reyes for Fellowship Program do not spare details. 
-  "- Use the Template and remix the Format-Sample to help you format your answer."
-  "- Act as Chief Editor and Reviewer and review the General Review Criteria and Details, next Provide feedback and instructions to help strengthen this writing. 
-  "- Make edits according to the feedback and instructions given from the Chief Editor and formulate the final responses for each prompt."
-}
-====
+Yahriel is applying to: Neurosciences (PhD), Biomedical Data Science (PhD)
+Neurosciences Interest: Select the Neurosciences area that you have the most interest in. Yahriel Has Selected Systems Neurosciences
 Department 1: https://biosciences.stanford.edu/
 Department 2: https://med.stanford.edu/
-====
 Applying to Neurosciences Program: https://med.stanford.edu/nbc/overview.html 
 Applying to Biomedical Data Science Program: https://dbds.stanford.edu/biomedical-data-science-graduate-program-overview/
 Applying to Bioengineering: https://bioengineering.stanford.edu/
-====
-Statement of Purpose
-Because each Home Program requires significant original research activities in fulfillment of the requirements for the PhD degree, the admissions committees are interested in obtaining as much information as possible about your previous research experiences. Those who already have such experience are in a better position to know whether they are truly interested in performing laboratory research as part of a graduate program. Please include specific information about your research experience in your Statement of Purpose. You may also use the Statement to amplify your comments about your choice of Home Program(s), and how your past experiences and current interests are related to your choice.
-The Statement of Purpose should not exceed two pages in length, single-spaced, and font size 12. Make sure to set your computer to Western European or other English-language settings. We cannot guarantee the ability to access your statement if it is submitted in other fonts. *
+Review Yahriel's Information and Select The Best Faculty Mentors Aligned With Yahriel's Interests. Learn more about Biosciences faculty: https://psychology.stanford.edu/researchdepartment-areas/neuroscience, https://biosciences.stanford.edu/faculty/biosciences-faculty-database/ 
 ----
-Enriching the Learning Community
-Stanford University welcomes graduate applications from individuals with a broad range of experiences, interests, and backgrounds who would contribute to our community of scholars. We invite you to share the lived experiences, demonstrated values, perspectives, and/or activities that shape you as a scholar and would help you to make a distinctive contribution to Stanford University. 
-Your statement should not exceed 500 words in length.
-Limit of 500 words remaining
-====
-Faculty:
+Select 4 Stanford Faculty of Interest.
+1.
+2.
+3.
+4.
+Select 4 more Stanford Faculty of Interest.
+5.
+6.
+7.
+8.
+Select 4 more Stanford Faculty of Interest.
+9.
+10.
+11.
+12.
+Select 4 more Stanford Faculty of Interest.
+13.
+14.
+15.
+16.
+Select 4 more Stanford Faculty of Interest.
+17.
+18.
+19.
+20.
+----
+
+Fill in The Required fields that are indicated with  " " on this template. 
+
+Template to Fill in for Yahriel's Application for Neurosciences (PhD), Biomedical Data Science (PhD) Neurosciences Interest: Select the Neurosciences area that you have the most interest in. Yahriel Has Selected Systems Neurosciences Department 1: https://biosciences.stanford.edu/ Department 2: https://med.stanford.edu/ Applying to Neurosciences Program: https://med.stanford.edu/nbc/overview.html  Applying to Biomedical Data Science Program: https://dbds.stanford.edu/biomedical-data-science-graduate-program-overview/ Applying to Bioengineering: https://bioengineering.stanford.edu/
+Review Yahriel's Information and Select The Best Faculty Mentors Aligned With Yahriel's Interests. Learn more about Biosciences faculty. https://psychology.stanford.edu/researchdepartment-areas/neuroscience, https://biosciences.stanford.edu/faculty/biosciences-faculty-database/ 
 {
-https://psychology.stanford.edu/researchdepartment-areas/neuroscience
+----
+Stanford Faculty Interests: Learn more about Biosciences faculty then Please provide a rank-ordered list of eight to twelve Biosciences faculty of interest to you. The majority should be in your primary home program.
+
+Stanford Faculty Member 1: 
+> " "
+
+Stanford Faculty Member 2
+> " "
+
+Stanford Faculty Member 3
+> " "
+
+Stanford Faculty Member 4
+> " "
+
+Stanford Faculty Member 5
+> " "
+
+Stanford Faculty Member 6
+> " "
+
+Stanford Faculty Member 7
+> " " 
+
+Stanford Faculty Member 8
+> " "
+
+Stanford Faculty Member 9
+> " "
+
+Stanford Faculty Member 10
+> " "
+
+Stanford Faculty Member 11
+> " "
+
+Stanford Faculty Member 12
+> " "
+
+Other Stanford Faculty of Interest: If you are interested in working with faculty members not listed above, you may include their names (Last, First) below. Limit of 100 characters remaining
+> " " 
+----
 }
-====
-
-Describe an Interesting Biological or Biomedical Problem
-Please describe one unsolved biological or biomedical problem that you find interesting and explain why. It does not have to be related to your significant research project or any of your prior work. Your answer is not binding.
-Schizophrenia's profound impact on individuals and society has drawn me into its captivating realm. This intricate mental disorder, which disrupts perception, thinking, and behavior, holds immense significance for both science and psychiatry, affecting millions globally. Understanding it has far-reaching implications.
-
-Scientifically, unraveling schizophrenia involves studying genetics, neurobiology, and environmental factors. This multidisciplinary approach combines genetics, neuroscience, psychology, and computational modeling to gain insights and develop better tools and treatments. Recent technological advancements, like fMRI and PET scans, visualize brain abnormalities, aiding biomarker identification.
-
-Beyond the scientific realm, schizophrenia exerts a profound societal impact. Individuals grappling with schizophrenia encounter formidable personal and professional challenges, while their families and communities extend vital support and care. 
-
-In conclusion, schizophrenia presents an enthralling and formidable avenue for scientific exploration with profound implications for psychiatry. My expertise in data analysis, collaborative research, and dedication to mentorship align seamlessly with the skills essential to make a substantial impact in this field and underscore my capacity to apply rigorous analytical techniques to intricate problems. This aptitude is poised to play a pivotal role in investigating the intricate biological and genetic facets of schizophrenia.
-4 characters remaining
-Foundations of Graduate Study
-Responses to the following questions are only expected for those applying to Biomedical Data Science and/or the Immunology Computational and Systems Track, but others may respond as well.
-
-For each of the following areas, please describe your experience, as acquired through coursework, research, or other projects, or your plans for obtaining or expanding such experience, ideally before starting your PhD.
-Multivariate Mathematics (including Calculus and Linear Algebra)
-Multivariate Mathematics: Throughout my undergraduate studies in Aerospace Engineering, I completed rigorous coursework in Calculus and Linear Algebra. These courses provided me with a solid understanding of multivariate mathematics, including concepts such as vector calculus, partial derivatives, and matrix operations. Additionally, I have applied these mathematical principles in various research projects, such as my work on the design of multi-function 3D piezoelectric devices for aeronautical applications. This experience has allowed me to develop a practical understanding of how multivariate mathematics can be applied to real-world engineering problems.
-85 characters remaining
-Probability and Statistics
-Probability and Statistics: I have a strong background in probability and statistics, which I have acquired through both coursework and research. In my undergraduate studies, I completed advanced courses in probability theory and statistical analysis. I have also applied these concepts in my research projects, such as my work on characterizing damping mechanisms in piezoelectric wind-energy harvesters. I have experience in data collection, analysis, and interpretation, and I am proficient in statistical software packages such as R and Python. I am confident in my ability to apply statistical methods to analyze complex data sets and draw meaningful conclusions.
-82 characters remaining
-Computation (including fundamentals of computer science and software engineering)
-Computation: I have a solid foundation in the fundamentals of computer science and software engineering. In addition to coursework in programming languages such as C++ and Java, I have practical experience in coding through my research projects. I have utilized computational fluid dynamics (CFD) simulations, developed data capture systems, and assisted graduate students with computer technology capabilities. I am proficient in MATLAB, Python, and other programming languages commonly used in scientific research. My experience in computation has allowed me to effectively analyze and visualize data, as well as develop computational models to solve complex engineering problems.
-68 characters remaining
-=====
+}
 
 
 
-Format-Sample: 
-{ 
-Statement of Purpose Draft for Yahriel Salinas-Reyes
-Nature’s Chaos Game: An Existentialist Approach Informed by Mathematics and Neurobiology
-Introduction: Mental health disorders represent a profound challenge to contemporary society, impacting millions of lives worldwide. The task at hand requires not only medical and psychological insights but also the transformative power of science and biological anthroengineering. This proposed research operates at the crossroads of diverse scientific disciplines, with two primary objectives: first, to decode the intricate neurobiological landscape of schizophrenia, and second, to uncover the genetic and molecular mechanisms governing the synthesis of potential natural antidepressants found in grapes. Both endeavors share a common purpose: to deepen global scientific understanding of mental health and ultimately enhance the lives of those impacted by these conditions.
-Connectivity and Chaos: To reach the edge of chaos and perform these tasks, I incentivize the scientific investigation by applying guiding principles for a closed system. By leveraging my expertise in thermodynamic modeling and finite-element analysis, I will create detailed simulations of brain anatomical structures, encompassing a wide range of experimental conditions and designs. Let 𝛴 be a smooth oriented surface that is bounded, 𝜕𝛴 ≡ 𝛤; then, we invoke boundary conditions. Furthermore, entropy, represented by 𝑆, is a measure of morphology or order in the system, 𝜕𝑆 ≡ 𝑁; I validate this mathematical theorem with the second set of equations. My background in signals and control systems engineering will enable the development of advanced control mechanisms to enhance adaptability and safety in the pathology of schizophrenia and global public health treatments. Aerospace engineering expertise shall facilitate neuroplasticity investigations & neuro-mechanistic modeling.
-Governing Equations: [1] Energy: 𝛷𝐸 = ∯ 𝐸 ⋅ ⅆ𝐴, [2] Mobility: ∬ (𝛻 × 𝐹) ⋅ ⅆ𝛴 𝛴 = ∮ 𝐹 ⋅ ⅆ𝛤 𝜕𝛴 , and [3] Continuity: ∭ (𝛻 ⋅ 𝐹) ⅆ𝑉 𝑉 = ∯ (𝐹 ⋅ 𝑛̂) ⋅ ⅆ𝑆 𝑆.
-Chaos Theory: [4] Chaos-Game: 𝑥𝑛+1 = 𝜆𝑥𝑛 (1 − 𝑥𝑛 ), [5] Mandelbrot-Set: 𝑍𝑛+1 = 𝑍𝑛 2 + 𝐶, and [6] Fractals: 𝐷 = 𝑙𝑜𝑔 𝑁 / 𝑙𝑜𝑔 𝑆.
-Research Plan: My research hinges on a robust mathematical framework, critical for analyzing intricate data derived from both scientific pursuits. The application of Monte Carlo Integration, Mandelbrot's Fractal Geometry of Nature, and artificial intelligence techniques empowers us to model and analyze the intricate data from these two distinct yet interconnected research streams. The research plan will unfold over five years:
-1.	Year 1: Data collection and establishment of the research framework.
-2.	Year 2: Neuroimaging and genetic data analysis.
-3.	Year 3: Development of mathematical models.
-4.	Year 4: Validation of models and refinement of findings.
-5.	Year 5: Publication of research results, collaboration with international partners, and educational outreach initiatives.
-Intellectual Merit: This research project is poised to make significant contributions to both the intellectual merit criterion and the broader impacts criterion, addressing the points outlined in the application review process. Here's how it aligns with the five key components:
-1. Potential to Advance Knowledge: Our multidisciplinary approach, combining precision biology, cutting-edge technology, and mathematical frameworks, brings innovation to the study of mental health. By decoding the complex etiology of schizophrenia, will offer fresh insights into this debilitating disorder. Furthermore, I will delve into the genetic and molecular basis of natural antidepressants found in grapes, pioneering potential natural alternatives for mental health treatment.
-2. Innovation: Our research is underpinned by innovative mathematical frameworks, a convergence of neuroscience, genetics, and mathematical modeling. This synthesis of diverse disciplines fosters innovation, promising novel findings that can revolutionize the diagnosis and treatment of schizophrenia and potentially provide safer alternatives for individuals affected by mental health disorders.
-3. Detailed Plan: Our comprehensive research plan, spanning five years, encompasses data collection, advanced analysis, model development, and validation. The plan is characterized by its systematic and strategic approach, with built-in measures of success to ensure the attainment of meaningful results.
-4. Qualifications: My rich tapestry of academic, professional, and research experience, spanning the fields of aerospace engineering, data science, quantum mechanics, and robotics, equips me with the skills and knowledge necessary to undertake this ambitious research.
-5. Ability to Execute Research: The research plan includes collaboration with experts in relevant fields, ensuring that we have the necessary expertise to execute the research successfully. Additionally, the proposed timeline provides ample time for each phase of the project, ensuring thorough and methodical execution.
-Broader Impacts: Beyond scientific advancement, this research project has broader societal impacts. It has the potential to:
-1. Advance Mental Health Care: By deepening our understanding of schizophrenia and identifying potential natural antidepressants, this research can pave the way for more effective diagnosis, treatment, and prevention strategies.
-2. Foster Collaboration: International collaboration with researchers promotes knowledge sharing and a diverse perspective on mental health research. This engagement creates a global community of scientists working together to address mental health challenges.
-3. Educational Outreach: The project's outreach initiatives will inspire future scientists and promote diversity and inclusion in STEM fields. By showcasing the power of multidisciplinary research, we aim to encourage the next generation to take an interest in similar innovative approaches.
-4. Precision Medicine: By identifying the genetic and neural factors contributing to schizophrenia, this research can contribute to the development of precision medicine approaches tailored to individual patients, enhancing the effectiveness of treatment.
-5. Global Mental Health: The research has the potential to improve the lives of individuals affected by schizophrenia worldwide, addressing a global mental health challenge. Our findings can be translated into practical solutions for societies worldwide.
-Conclusion: The proposed research, an ambitious undertaking at the intersection of mathematics, biology, and mental health, holds great promise for enhancing our understanding of schizophrenia and the potential natural antidepressants found in grapes. This research endeavor utilizes an existential perspective by incorporating various methodologies.
-•	Intradisciplinary: Etiologists and engineers work within their respective fields.
-•	Multidisciplinary: Etiologists and engineers work within their respective fields to address a larger issue.
-•	Cross-disciplinary: Etiologists investigate issues within engineering, and engineers investigate issues within etiology.
-•	Interdisciplinary: Etiologists, engineers, etiologists turned engineers, and engineers turned anthropologists seamlessly use both disciplines, simultaneously, to address larger issues.
-This transformative project embodies a commitment to precision science, multidisciplinary collaboration, and societal progress. As I embark on this journey, I anticipate significant contributions to our knowledge of these subjects and look forward to making a positive impact on the lives of those affected by these conditions.
-References:
-1.	Zueva, K. J., Glotov, A. S., Baranova, A. V., & Kelmansky, D. M. (2017). Chaos theory approach to schizophrenia. Frontiers in Psychology, 8, 1798.
-2.	Mandelbrot, B. B. (1982). The Fractal Geometry of Nature. Macmillan.
-3.	Fournier, J. C., DeRubeis, R. J., & Hollon, S. D. (2013). Antidepressant drug effects and depression severity: a patient-level meta-analysis. JAMA, 303(1), 47-53.
-4.	Hirsch, J. A., & Bishop, M. J. (2014). Respiratory sensation in asthma: physiological and clinical implications. The Journal of Physiology, 592(5), 967-978.
-} 
+
+
+
+
+
+
+
+
+
++++++++++++++++++++++++++++++++++++++++++++++
+
+
+Prompt: 
+
+Select 6 Research Experiences
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+Select 5 Publications/Presentations/Posters
+1. 
+2. 
+3. 
+4. 
+5. 
+Select 6 Awards and Honors
+1.
+2.
+3.
+4.
+5.
+6.
+Select 6 Work Experiences
+1.
+2.
+3.
+4.
+5.
+6.
+
+Template to Fill in for Yahriel's Experience:
+{
+Yahriel is applying to Stanford Univeristy Graduate Programs: Neurosciences (PhD), Biomedical Data Science (PhD)
+----
+A. Research Experience: If you have prior research experience, provide details about each experience below. List experiences in order of significance to you, with the most meaningful experience listed first. You may list up to six experiences in this section. If you wish to share more, include this information in your resume/CV at the bottom of this page.
+
+Add Research Experience 1
+> Order of Significance: " "	
+Institution or Organization Name: " "	
+Country: " "
+City: " "	
+State: " "
+Start Date: " "	
+End Date: " "
+Hours per Week: " "	
+Your Title: " "
+Principal Investigator: " "	
+Description in 550 Total characters or less: " "
+
+Add Research Experience 2
+> Order of Significance: " "	
+Institution or Organization Name: " "	
+Country: " "
+City: " "	
+State: " "
+Start Date: " "	
+End Date: " "
+Hours per Week: " "	
+Your Title: " "
+Principal Investigator: " "	
+Description in 550 Total characters or less: " "
+
+Add Research Experience 3
+> Order of Significance: " "	
+Institution or Organization Name: " "	
+Country: " "
+City: " "	
+State: " "
+Start Date: " "	
+End Date: " "
+Hours per Week: " "	
+Your Title: " "
+Principal Investigator: " "	
+Description in 550 Total characters or less: " "
+
+Add Research Experience 4
+> Order of Significance: " "	
+Institution or Organization Name: " "	
+Country: " "
+City: " "	
+State: " "
+Start Date: " "	
+End Date: " "
+Hours per Week: " "	
+Your Title: " "
+Principal Investigator: " "	
+Description in 550 Total characters or less: " "
+
+Add Research Experience 5
+> Order of Significance: " "	
+Institution or Organization Name: " "	
+Country: " "
+City: " "	
+State: " "
+Start Date: " "	
+End Date: " "
+Hours per Week: " "	
+Your Title: " "
+Principal Investigator: " "	
+Description in 550 Total characters or less: " "
+
+Add Research Experience 6
+> Order of Significance: " "	
+Institution or Organization Name: " "	
+Country: " "
+City: " "	
+State: " "
+Start Date: " "	
+End Date: " "
+Hours per Week: " "	
+Your Title: " "
+Principal Investigator: " "	
+Description in 550 Total characters or less: " "
+----
+B. Publications/Presentations/Posters: If applicable, list any publications you have authored or presentations/posters you have delivered in order of significance to you, with the most meaningful listed first. You may list up to five publications/presentations/posters on this page. If you wish to share more, include this information in your resume/CV at the bottom of this page.
+
+Add Publication/Presentation/Poster 1
+> Order of Significance: " "
+Type: "Journal Article"
+Article Title: " "
+Journal Title: " "
+Peer-reviewed: " "
+All Authors (List in the same order and format as published.): " "
+Your Role: " "
+Publication Status: " "	
+
+Add Publication/Presentation/Poster 2
+> Order of Significance: " "
+Type: "Conference Article"
+Article Title: " "
+Journal Title: " "
+Peer-reviewed: " "
+All Authors (List in the same order and format as published.): " "
+Your Role: " "
+Publication Status: " "	
+
+Add Publication/Presentation/Poster 3
+> Order of Significance: " "
+Type: "Presentation"
+Article Title: " "
+Journal Title: " "
+Peer-reviewed: " "
+All Authors (List in the same order and format as published.): " "
+Your Role: " "
+Publication Status: " "	
+
+Add Publication/Presentation/Poster 4
+> Order of Significance: " "
+Type: "Poster"
+Article Title: " "
+Journal Title: " "
+Peer-reviewed: " "
+All Authors (List in the same order and format as published.): " "
+Your Role: " "
+Publication Status: " "	
+
+Add Publication/Presentation/Poster 5
+> Order of Significance: " "
+Type: "Other"
+Please specify the publication type (e.g., patent, conference proceeding, book chapter, etc.), Other Type: " "	
+Title: " "	
+Author Name(s): " "	
+Date: " "	
+----
+C. Awards & Honors: If applicable, list any awards or honors you have received. You may list up to six awards in this section. If you wish to share more, include this information in your resume/CV at the bottom of this page.
+
+Add Award/Honor 1
+> Award Name: " "
+Date Received: " "
+Description limit of 300 total character remaining: " "
+
+Add Award/Honor 2
+> Award Name: " "
+Date Received: " "
+Description limit of 300 total character remaining: " "
+
+Add Award/Honor 3
+> Award Name: " "
+Date Received: " "
+Description limit of 300 total character remaining: " "
+
+Add Award/Honor 4
+> Award Name: " "
+Date Received: " "
+Description limit of 300 total character remaining: " "
+
+Add Award/Honor 5
+> Award Name: " "
+Date Received: " "
+Description limit of 300 total character remaining: " "
+
+Add Award/Honor 6
+> Award Name: " "
+Date Received: " "
+Description limit of 300 total character remaining: " "
+----
+D. Work Experience: If you have prior work experience, provide details about each experience below. Experiences may include internships, part-time and full-time employment. You may list up to six experiences in this section. If you wish to share more, include this information in your resume/CV at the bottom of this page.
+
+Add Work Experience 1
+> Organization Name: " "
+Country: " "
+City: " "
+State: " "
+Start Date: " "	
+End Date: " "
+Position/Title: " "	
+Industry: " "
+Hours/Week: " "
+Description limit 550 total characters remaining: " "
+Reason for Leaving limit 100 characters remaining: " "
+
+Add Work Experience 2
+> Organization Name: " "
+Country: " "
+City: " "
+State: " "
+Start Date: " "	
+End Date: " "
+Position/Title: " "	
+Industry: " "
+Hours/Week: " "
+Description limit 550 total characters remaining: " "
+Reason for Leaving limit 100 characters remaining: " "
+
+Add Work Experience 3
+> Organization Name: " "
+Country: " "
+City: " "
+State: " "
+Start Date: " "	
+End Date: " "
+Position/Title: " "	
+Industry: " "
+Hours/Week: " "
+Description limit 550 total characters remaining: " "
+Reason for Leaving limit 100 characters remaining: " "
+
+Add Work Experience 4
+> Organization Name: " "
+Country: " "
+City: " "
+State: " "
+Start Date: " "	
+End Date: " "
+Position/Title: " "	
+Industry: " "
+Hours/Week: " "
+Description limit 550 total characters remaining: " "
+Reason for Leaving limit 100 characters remaining: " "
+
+Add Work Experience 5
+> Organization Name: " "
+Country: " "
+City: " "
+State: " "
+Start Date: " "	
+End Date: " "
+Position/Title: " "	
+Industry: " "
+Hours/Week: " "
+Description limit 550 total characters remaining: " "
+Reason for Leaving limit 100 characters remaining: " "
+
+Add Work Experience 6
+> Organization Name: " "
+Country: " "
+City: " "
+State: " "
+Start Date: " "	
+End Date: " "
+Position/Title: " "	
+Industry: " "
+Hours/Week: " "
+Description limit 550 total characters remaining: " "
+Reason for Leaving limit 100 characters remaining: " "
+----
+}
