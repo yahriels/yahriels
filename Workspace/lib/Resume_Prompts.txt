@@ -69,192 +69,247 @@ Please answer the following questions for each entry that is applicable or relev
 
 }
 
-
-[Original] Yahriel's Resume:
+[Template] Yahriel's Resume: 
 {
-Yahriel Salinas-Reyes
 
-Human Ingenuity Statement: Here is a simple sign that Yahriel Salinas-Reyes is a genius, not just talented but a true genius. It is a simple rule devised by the philosopher Schopenhauer who distinguished the difference between talent and genius as follows: he said talent hits a target no one else can hit, a genius hits a target no one else can see. What he meant is that talent is really good at outcompeting others. For example if you're talented at something you can do something with ease that other people find difficult. Whereas a genius has nothing to do with besting other people at something they've already established as being important, instead a true genius is about being so good at something that you're ahead of your time that other people don't know yet that what you're doing is important or valuable, and so the talented person is the one who is recognized for their skill. The genius Yahriel is the one doing something no one else can even conceive of doing. Talent hits a target no one else can hit. A genius hits a target no one else can see. Yahriel is one who can see the hidden world of wonders and the invisible grand mysteries of the universe.
+Yahriel Salinas-Reyes: PhD Application
+Personal Statement:
+I am Yahriel Salinas-Reyes, a visionary at the intersection of Aerospace Engineering and Neuroscience, dedicated to unraveling the mysteries of the brain. As an undergraduate with a Bachelor's in Aerospace Engineering, I have delved into groundbreaking research and projects, showcasing my ability to hit targets unseen by others—a true genius in the making.
 
-EDUCATION
-Iowa State University of Science & Technology: Ames, IA Anticipated Graduated: December, 16th 2023
+Education
+Iowa State University of Science & Technology
+Ames, IA - Anticipated Graduation: December 16, 2023
+
 Bachelor of Aerospace Engineering (GPA: 3.3)
-• Relevant Coursework: Systems Engineering, Electrical Engineering, FEA, Robotics, Engine Analysis, Engine Design, 
-Thermodynamics, Controls, Applied Mechanics & Physics, Materials Science & Engineering, Machine-Learning, 
-Computer Science, Software Engineering, etc. 
-RESEARCH & DEVELOPMENT EXPERIENCE
+Relevant Coursework: Systems Engineering, Electrical Engineering, FEA, Robotics, Engine Analysis, Thermodynamics, Controls, Applied Mechanics & Physics, Materials Science & Engineering, Machine Learning, Computer Science, Software Engineering, etc.
+Research & Development Experience
 Senior Capstone Project
-• Target Objective: “Modern Design Methodology with Aerospace Application & Design of Aerospace Systems”
-• Oversaw the design and production of sUAS consisting of a "mothership" aircraft that deploys two expendable 
-"drone" aircraft capable of delivering a small, versatile payload for industry partners DoD and NATO
-• Implemented machine vision systems, industrial controls, automatic identification & data capture, and 
-responsible for providing data-driven decisions as the signals & control systems/electronics lead
-• Utilized systems engineering and aerospace techniques to optimize aircraft design features, dynamic & static 
-stability, and aerodynamic performance of the small, unmanned aircraft system (sUAS
-Undergraduate Research Assistant – DARPA August 2021 to August 2023
-• Faculty mentor Dr. Thomas Ward II, Associate Professor, Department of Aerospace Engineering, ISU
-• Research Project: “Experimental Techniques for Flow Separation Detection and Chemical Sintering”
-• Operated as Experimental Engineer and composed an SOP for experiments and heavy machinery
-• Designed hardware-software components (PCB Design) and built signal processing circuit-algorithm
-• Manufactured MEMS nanocomposite and developed computations to model shear-viscosity at the thermal 
-boundary for the Navier-Stokes Equations
-Summer Undergraduate Research Fellow – Greer Group May 2022 to August 2022
-• Faculty mentor Dr. Julia Greer, Assoc. Prof. of Materials Science, A. Mechanics, & Medical Sciences, Caltech
-• Research Project: “Hybrid Nanocomposites: Semi-Empirical Method of Viscoelastic Behavior”
-• Created nanocomposite with architectural features to achieve mechanical property enhancements
-• Investigated the constituent material systems individually using compressions tests on a dynamic mechanical 
-analyzer and observed deformation zones with scanning electron microscopy
-• Developed a semi-empirical model for the deformation mechanisms observed in post-mortem analysis of 
-samples; this enables FEA & Euler Theory to inform the viscoelastic continuum damage model
-McNair Scholar – Ronald E. McNair Post-Baccalaureate Achievement Program September 2021 to May 2022 
-• Faculty mentor Dr. Ashley Garrin, Director of Ronald E. McNair Program, Graduate College, ISU
-• Research Project: “Sociological Differences in Graduate School Motivation of Minority Identities”
-• Constructed an experimental framework, completed literature synthesis, conducted interviews of program 
-mentors, analyzed and interpreted results in a technical manner
-• Participated in preparation courses and experiences for doctoral studies through involvement in research and 
-other scholarly activities
-Systems Engineer / Undergraduate Researcher – Soft Matter Material Transport Group August 2019 to May 2022
-• Faculty mentor Dr. Martin Thuo, Associate Professor, Department of Materials Science and Engineering, ISU
-• Research Project: “Design of Multi-Function 3D Piezo-electric Devices for Aeronautical Applications”
-• Explored tunability, sensitivity, utility of paper-based devices with various configurations, optimized device 
-design using engineering methods, created self-automated calibration & data capture system
-• Assisted graduate students with SolidWorks, computer technology capabilities, systems engineering
-• This research work was submitted to a scientific peer-review journal for publication (2023)
-Research Fellow, Boeing Undergraduate Research Excellence in Engineering Internship, 08/2021-08/2022
-Faculty mentor Dr. Thomas Ward II, Associate Professor, Department of Aerospace Engineering, ISU
-•	Research Project: “Characterizing Damping Mechanisms in Piezoelectric Wind-Energy Harvesters”
-•	Designed and fabricated green technology low-cost force sensor, explored pathways for aeronautical data collection via aerospace engineering techniques, submitted monthly progress reports to Boeing.
-•	This research work was submitted to a scientific peer-review journal for publication(2023).
-Stanford University Summer Undergraduate Research Fellow, Zheng Research Group, 05/2021-08/2021
-Faculty mentor Dr. Xiaolin Zheng, Associate Professor, Mechanical Engineering, Stanford University
-•	Research Project: “Insights of Machine-Learning(ML) Techniques for Scientific Methods & Prediction”
-•	Conducted literary analysis and literary review of ML methods, Data & Computational Science, and adapted ML methods to scientific methods by developing a bottom-up regression-prediction model. 
-•	Cross-validated various mathematical-kernels(SVM, Random-Forest, etc.) fitted/trained with scientific datums; presented findings in optimizations of experimental design for scientific discovery.
-Undergraduate Research Certificate Recipient,IINSPIRE-LSAMP(NSF) Scholars Program| 08/2019-09/2020
-Faculty mentor Dr. Martin Thuo, Associate Professor, Department of Materials Science and Engineering, ISU
-•	Research Project: “Synthesizing Meta-stable Particles and High-Efficiency Paper-Based MEMS Sensors”
-•	Synthesized undercooled, core-shell liquid metal particles(FM particles), designed experiments to investigate intrinsic properties of FM Particles and MEMS, explored modern applications of research.
-•	Prepared literary review of current state of sensor technology, did deep literary analysis of relevant science engineering research, produced adaptations of MEMS designs to fulfil gaps in research field, presented ideation of low-cost, green technology, sensor devices for industry and social impact.
-Additional Professional and Leadership Experiences
-Design Team Lead,NASA Micro-G Neutral Buoyancy Experiment Design Teams Challenge,08/2021-12/2022
-•	Completed and assigned weekly tasks to design, build, and test a tool or device that addresses an authentic, current space exploration challenge; specifically, Extravehicular activity(EVA).
-•	Completed research in current technologies and lead: prototyping of device components; CAD modeling & reverse engineering; building of prototype; and submitted proposal to competition. 
-•	Our design was utilized by astronaut-scientists in NASA’s Mission to the Moon and Mars and displayed at the Houston exhibition – Inner Space: NASA’s Path to the Moon and Mars(2022)!
-Information Technology Specialist, Iowa State University of Science & Technology, 08/2019-05/2023
-•	Held responsibilities for the implementation, monitoring, and maintenance of IT computer systems.
-•	Solved technical problems: computer systems, software, hardware, networks, cloud platforms, etc.
-•	Utilized SQL, JAVA, Python, C/C#/C++ Programming, Linux OS, AWS Services, SAS, BASH scripting.
-Residential Advisor and Honors Community Leader, Department of Residence, 08/2020-05/2022
-•	Engaged students & nurtured healthy-positive experiences for the resident community; moderated meetings to address concerns; directed multi-lingual health & resource programming for college.  
+Target Objective: Modern Design Methodology with Aerospace Application & Design of Aerospace Systems
 
-RESEARCH ACTIVITIES
-MEMS Shear Sensor and Flow Separation Theory, funded by DARPA | Energy Absorbing Nano-Architected Composites, 
-funded by SFP Programs | Wind Energy and Development of MEMS Sensors, funded by Boeing | Implementation of ML 
-into The Scientific Method, funded by SFP Programs | Applications of Multi-functional Piezo-electric Devices, funded by 
-NSF | Opportunities of Kirigami-Inspired MEMS Devices, funded by NSF | Heat-Free Manufacturing of Paper-Based 
-MEMS Sensor, funded by ISU Honors
-ASSOCIATIONS
-Microscale Interfacial Fluid Physics Laboratory | Julia R. Greer Group at CALTECH | Boeing Aerospace Research 
-Fellowship | Z Energy Lab at Stanford University | Goldwater Finalist/McNair Program at ISU | Soft Materials Matter 
-Transport Group | Iowa State University Honors Program
-RELEVANT SOFTWARE / TECHNICAL SKILLS
-SQL, Windows OS, Linux OS, AWS Services, Java, C/C++/C# Programming, Python, MATLAB & Simulink, SAS - CAD & FEA, 
-ANSYS/ABAQUS, Systems & Reverse Engineering, Internet of Things, Design of Experiments, etc
+Oversaw the design and production of a Small Unmanned Aircraft System (sUAS) for industry partners DoD and NATO.
+Implemented machine vision systems, industrial controls, automatic identification & data capture.
+Led signals & control systems/electronics, optimizing aircraft design features and aerodynamic performance.
+Undergraduate Research Assistant – DARPA
+August 2021 to August 2023
 
-Academic Honors Recieved
-List academic honors you have received:
-1. The Order of The Engineer, The Engineering Student Council at The Iowa State University
-2. The Ronald E. McNair Postbaccalaureate Achievement Program Scholar & The Barry Goldwater Scholarship and Excellence in Education Foundation Finalist
-3. The Boeing Research in Excellence and Technology Fellowship Program (RETF) Scholar & Micro-g Neutral Buoyancy Experiment Design Teams (NExT) Challenge Competition Finalist
-4. The Summer Undergraduate Research Fellowship Program (SURF) Scholar at Stanford University & California Institute of Technology, Program Coordinator
-5. The Louis Stokes Alliances for Minority Participation (LSAMP) Fellowship Program Scholar & Undergraduate Research Certificate Recipient  Awarded by Iowa State University's IINSPIRE-LSAMP Partnership
-6. The FIRST Robotics Competion (FRC) Worlds Championship Rookie Inspiration and Rookie All-Star Awards (International-Level Award) &The Youth Leaderhip Community Award Recieved From The Iowa Department of Human Rights: State of Iowa Youth Advisroy Council (SIYAC)
+Research Project: Experimental Techniques for Flow Separation Detection and Chemical Sintering.
+Operated as an Experimental Engineer, designing hardware-software components and building signal processing circuit-algorithm.
+Contributed to the manufacturing of MEMS nanocomposites and developed computations for modeling shear-viscosity.
+Summer Undergraduate Research Fellow – Greer Group
+May 2022 to August 2022
 
-Stewardship, Service, and Civic Engagement Activities
-Youth-Lobbyist,Iowa Department of Human Rights: State of Iowa Youth Advisory Council, 06/2018-12/2021
-•	Acted as chair/program-coordinator of the Violence-Prevention & Diversity-Education Program.
-•	Advocated to state legislators for reformation of violence prevention education & implementation of culturally diverse curriculum standards at the state-local level; wrote & proposed bills to chamber.
-•	Received the Community Service Leadership Award for completing over 200 service hours in a term. 
-Community Leader & Multi-lingual Ambassador/Educator, CultureAll  Educational Nonprofit, Fall 2023
-•	Assisted in organizing events to engage local educators and institutional leaders at the state and local level, provided developmental and networking opportunities for young professionals, volunteered at local events to provide diversity education to communities or groups in need.
-Community Honors Leader, Iowa State University Honors Program, Fall 2020-Spring 2022
-•	Provided professional and research development resources to the Honors Program and its honors students, acted as mentor to honors students while the Honors Residential Advisor.
-Coordinator of Violence Prevention & Educational Coverage, Iowa Non-Profits, Spring 2020-Summer 2020
-•	Utilized skills and experience in community social work to lead interns in creating mental health resources/content in multiple languages; distributed resources and content to local youth of color during the pandemic and rise in violence of 2020. 
-Latinx Forum Panelist & Multi-lingual Advocate, Association of Iowa Latinx Professionals, Fall 2020
-•	Shared my professional experience and pathway as a First-Generation College Student, answered questions about professional development and experiences, provided personal developmental content and resources for Latinx leaders.
-Workshop Presenter, National White Privilege Conference, Spring 2020
-•	Developed and presented a workshop “How to engage students of color in higher education” at the White Privilege Conference to national leaders to share my knowledge and resources. 
+Research Project: Hybrid Nanocomposites - Semi-Empirical Method of Viscoelastic Behavior.
+Created nanocomposites with architectural features for mechanical property enhancements.
+Developed a semi-empirical model for deformation mechanisms, enabling FEA & Euler Theory applications.
+McNair Scholar
+September 2021 to May 2022
 
-Academic Honors, Fellowships, Scholarships, and Awards:
-The Order of The Engineer, Iowa State University of Science and Technology: Engineering Student Council, 2023
-American Institute of Aeronautics and Astronautics, 2023
-NASA Micro-G Neutral Buoyancy Experiment Design Teams Challenge, 2022
-Ronald E. McNair Post-Baccalaureate Achievement Program Fellowship, 2021-2023
-SURF Scholar at Stanford University & California Institute of Technology, 2021-2022
-The Barry Goldwater Scholarship and Excellence in Education Foundation Finalist, 2021-2022
-State of Iowa Youth Advisory Council Community Leadership Award, 2020 (250 Community Service Hours)
-CBS News Interview of Global Latino Leaders: Hispanic Heritage Month, 2020
-Undergraduate Research Certificate, 2019-2020, IINSPIRE-LSAMP
-Construction Industry Round Table (CIRT) National Design & Construction Competition Back-to-Back Champion, 2019-2020
-University Honors Program Member, 2019-2022
-Latinx Student Initiatives 2019-2022
-Stanford SURF Lightning Talks Best Poster Award, 2021
-Society for the Advancement of Chicanos and Native Americans in Science, 2020
-Dean's List, 2020-2021
-Iowa Latino Heritage Festival Scholarship Recipient, 2020
-Latinos Unidos Scholarship Recipient, 2020
-CBS News Interviewee of Presidential Candidates and Latino Leaders, 2020
-Student Iowa Youth Advisory Council Community Service Award, 2020
-Zeta Kappa Lambda Educational Foundation Scholarship Recipient,  2019
-Des Moines Area Community College President's List,  Spring 2018, Spring 2019
-Architecture Construction & Engineering (ACE) Mentorship Program Alumni,  Spring 2019
-The Construction Industry Round Table (CIRT) Affiliate , 2020
-CIRT National Design & Construction Competition Back-to-Back Champion , 2020-2021
-FIRST ROBOTICS Awards: Rookie Inspiration Award & Rookie All-Star Award, 2019
+Research Project: Sociological Differences in Graduate School Motivation of Minority Identities.
+Constructed an experimental framework, completed literature synthesis, and conducted interviews.
+Prepared for doctoral studies through involvement in research and scholarly activities.
+Systems Engineer / Undergraduate Researcher – Soft Matter Material Transport Group
+August 2019 to May 2022
 
-Honors, Awards, and Membership
-•	University Honors Program Member, Fall 2019-Fall 2023
-•	Ronald E. McNair Program Scholar, Fall 2021-Fall 2023
-•	Latinx Student Initiatives, Fall 2019-Spring 2022
-•	Stanford SURF Lightning Talks Best Poster Award, Summer 2021
-•	Society for the Advancement of Chicanos and Native Americans in Science, Spring 2020
-•	Dean’s List, Fall 2019, Spring 2020
-•	Iowa Latino Heritage Festival Scholarship Recipient, 2020
-•	Latinos Unidos Scholarship Recipient, 2020
-•	CBS News Interviewee of Presidential Candidates and Latino Leaders, 2020
-•	Student Iowa Youth Advisory Council Community Service Award, Spring 2020
-•	Zeta Kappa Lambda Educational Foundation Scholarship Recipient, 2019
-•	Des Moines Area Community College President’s List, Spring 2018, Spring 2019
-•	Architecture Construction & Engineering (ACE) Mentorship Program Alumni, Spring 2019
-•	The Construction Industry Round Table (CIRT) Affiliate, Fall 2020
-•	CIRT National Design & Construction Competition Back-to-Back Champion| Spring 2019, Spring 2020
-•	FIRST ROBOTICS Awards: Rookie Inspiration Award & Rookie All-Star Award, Fall 
+Research Project: Design of Multi-Function 3D Piezoelectric Devices for Aeronautical Applications.
+Explored tunability and sensitivity of paper-based devices, optimized device design, and created a self-automated calibration & data capture system.
+Submitted research work for publication in a scientific peer-reviewed journal (2023).
+Research Fellow, Boeing Undergraduate Research Excellence in Engineering Internship
+August 2021 to August 2022
 
-Publications and Scientific Writings:
-"Exploring Bio-Processing & Devices in Micro & Nanoscience," 2020, NCUR STEM Conference
-"Bioprocessing in Wine Yeast for Mental Health Treatments," 2023, STEM Symposium
-"Modern Design Methodology & Design of Aerospace Systems," 2023, Senior Capstone Project
-"Quantum Tunnelling Composites: Analytical Monte Carlo Model & Navier-Stokes," 2023
-"Understanding the Mathematical Language-The Code- of the Universe," 2021, TEDx Talk
-"Characterizing Damping Mechanisms in Piezoelectric Wind-Energy Harvesters," 2023
-"Kirigami-Inspired Design of Paper-Based MEMS Devices for Aeronautical Application," 2022
-"Synthesizing Meta-Stable Particles & High-Efficiency MEMS Sensors and Nanodevices," 2021
+Research Project: Characterizing Damping Mechanisms in Piezoelectric Wind-Energy Harvesters.
+Designed and fabricated a green technology low-cost force sensor, explored pathways for aeronautical data collection.
+Submitted research work for publication in a scientific peer-reviewed journal (2023).
+Stanford University Summer Undergraduate Research Fellow, Zheng Research Group
+May 2021 to August 2021
 
-Research Presentations and Scientific Thematic Talks
-1.	Y. Salinas-Reyes, H. Seabold, A. Martin, M. Thuo (2020, April). Exploring the Piezoresistive Effect and Paper-based MEMS Sensors. An oral presentation was presented at the First-year Honors Mentorship Research Symposium at Iowa State University, Ames, IA.
-2.	Y. Salinas-Reyes, A. Martin, M. Thuo (2020, August). Integration of paper-based MEMS sensors into computer technology. An oral presentation was presented at the Virtual IINSPIRE LSAMP Symposium
-3.	Y. Salinas-Reyes, A. Martin, M. Thuo (2020, October). Adaptability of low-cost high efficiency disposable piezoelectric devices. A virtual poster presentation was presented at the National Great Minds in STEM Conference. 
-4.	Y. Salinas-Reyes, A. Martin, M. Thuo (2021, April). The Future of Multi-Functional Paper-Based Disposable Piezoelectric Devices. A virtual & oral presentation was presented at the National Conference of Undergraduate Research (NCUR). 
-5.	Y. Salinas-Reyes, X. Zheng (2021, August). Predicting Olympic Triathlon Results via Machine Learning. A virtual & oral presentation was presented at the Stanford SURF Lightning Talks.
-6.	Y. Salinas-Reyes, Julia R. Greer (2022, August). Energy Absorption in Nano-Architected Hybrid Composites. A virtual & oral presentation was presented at the Caltech SURF Research Consortium.
-7.	Y. Salinas-Reyes, Ivaldi Co. (2022, May). Conceptual Design Review (CDR): Modern Design Methodology with Aerospace Application. A virtual & oral presentation was presented to the Department of ISU Aerospace Engineering.
-8.	Y. Salinas-Reyes, T. Ward III (2022, May). Shear-Sensing Principals of Interfacial Viscous-Shear Flow and Piezomobility—strain-induced mobility—at The Wall (Thermal Boundary). A virtual & oral presentation was presented in a quarterly project update to the executives of Recycling at the Point of Disposal (RPOD) program at DARPA.
-9.	Y. Salinas-Reyes, T. Ward III (2023, July). Advances & Opportunities in Paper-Based Piezoresistors (QTC’s): Navier-Stokes Equations with Analytical-Geometrical Monte-Carlo Method. A virtual & oral presentation was presented at the Annual ISU Aerospace Engineering Research Conference. 
-10.	Y. Salinas-Reyes, T. Ward III (2023, August). Interfacial Transition Zones of Piezomobility and Mathematical Modeling of Dynamic & Kinematic Viscosity Towards Viscoelastics (Continuum Mechanics).  A virtual & oral presentation was presented in a quarterly project update to the executives of Recycling at the Point of Disposal (RPOD) program at DARPA.
-11.	Y. Salinas-Reyes, Ivaldi Co. (2023, September). Executive and Granter Design Sign-Off: Design of Aerospace Systems (i.e., sUAS). A virtual & oral presentation, and written report was presented to the Department of ISU Aerospace Engineering.
-12.	Y. Salinas-Reyes, Iowa State University: Aerospace Engineering (2023, December). Senior Thesis Presentation and Final Defense. A virtual & oral presentation, and formal manuscript was presented to the Department of ISU Aerospace Engineering.
+Research Project: Insights of Machine-Learning (ML) Techniques for Scientific Methods & Prediction.
+Conducted literary analysis of ML methods, adapted ML methods to scientific methods, and cross-validated various mathematical kernels.
+Presented findings in optimizations of experimental design for scientific discovery.
+Undergraduate Research Certificate Recipient, IINSPIRE-LSAMP (NSF) Scholars Program
+August 2019 to September 2020
+
+Research Project: Synthesizing Meta-stable Particles and High-Efficiency Paper-Based MEMS Sensors.
+Explored modern applications of research and presented ideation of low-cost, green technology, sensor devices for industry and social impact.
+Prepared literary reviews and deep analyses of relevant science engineering research.
+Professional & Leadership Experiences
+Design Team Lead, NASA Micro-G Neutral Buoyancy Experiment Design Teams Challenge
+August 2021 to December 2022
+
+Led a team to design, build, and test a tool/device addressing a space exploration challenge (Extravehicular activity).
+Prototyped device components, CAD modeling, and reverse engineering; proposal utilized in NASA’s Mission to the Moon and Mars.
+Information Technology Specialist, Iowa State University of Science & Technology
+August 2019 to May 2023
+
+Implemented, monitored, and maintained IT computer systems.
+Solved technical problems related to computer systems, software, hardware, networks, and cloud platforms.
+Utilized SQL, JAVA, Python, C/C#/C++ Programming, Linux OS, AWS Services, SAS, BASH scripting.
+Residential Advisor and Honors Community Leader, Department of Residence
+August 2020 to May 2022
+
+Engaged students, nurtured positive experiences, and moderated meetings to address concerns.
+Directed multi-lingual health & resource programming for the college community.
+Research Activities & Associations
+Research Activities
+MEMS Shear Sensor and Flow Separation Theory (funded by DARPA)
+Energy Absorbing Nano-Architected Composites (funded by SFP Programs)
+Wind Energy and Development of MEMS Sensors (funded by Boeing)
+Implementation of ML into The Scientific Method (funded by SFP Programs)
+Applications of Multi-functional Piezo-electric Devices (funded by NSF)
+Opportunities of Kirigami-Inspired MEMS Devices (funded by NSF)
+Heat-Free Manufacturing of Paper-Based MEMS Sensor (funded by ISU Honors)
+Associations
+Microscale Interfacial Fluid Physics Laboratory
+Julia R. Greer Group at CALTECH
+Boeing Aerospace Research Fellowship
+Z Energy Lab at Stanford University
+Goldwater Finalist/McNair Program at ISU
+Soft Materials Matter Transport Group
+Iowa State University Honors Program
+Relevant Software / Technical Skills
+SQL, Windows OS, Linux OS, AWS Services, Java, C/C++/C# Programming, Python, MATLAB & Simulink, SAS, CAD & FEA (ANSYS/ABAQUS), Systems & Reverse Engineering, Internet of Things, Design of Experiments, etc.
+Academic Honors Received
+The Order of The Engineer, The Engineering Student Council at Iowa State University
+The Ronald E. McNair Postbaccalaureate Achievement Program Scholar & The Barry Goldwater Scholarship and Excellence in Education Foundation Finalist
+The Boeing Research in Excellence and Technology Fellowship Program (RETF) Scholar & Micro-G Neutral Buoyancy Experiment Design Teams (NExT) Challenge Competition Finalist
+The Summer Undergraduate Research Fellowship Program (SURF) Scholar at Stanford University & California Institute of Technology, Program Coordinator
+The Louis Stokes Alliances for Minority Participation (LSAMP) Fellowship Program Scholar & Undergraduate Research Certificate Recipient Awarded by Iowa State University's IINSPIRE-LSAMP Partnership
+The FIRST Robotics Competition (FRC) Worlds Championship Rookie Inspiration and Rookie All-Star Awards (International-Level)
+Publications & Presentations
+Y. Salinas-Reyes, et al., "Experimental Techniques for Flow Separation Detection and Chemical Sintering," in Proc. of 14th IEEE Conference on Nanotechnology, (IEEE-NANO), Kyoto, Japan, 2023.
+Y. Salinas-Reyes, et al., "Hybrid Nanocomposites - Semi-Empirical Method of Viscoelastic Behavior," in Proc. of 35th Annual Technical Conference of the Society of Engineering Science, (SES), Minneapolis, MN, 2023.
+Future Vision
+With an insatiable curiosity and a passion for interdisciplinary work, my aspiration is to pioneer the integration of aerospace engineering and neuroscience. I seek to unravel the complexities of brain-machine interfaces, enhancing our understanding of the human mind and opening new avenues for human potential. Pursuing a Ph.D. in Aerospace Engineering at your esteemed institution aligns with my vision, providing a unique platform to merge my expertise and contribute significantly to both fields.
+
+By leveraging my background in aerospace engineering, I aim to bring a fresh perspective to neuroscience research, applying principles of systems engineering and control theory to unravel the intricate dynamics of the brain. The intersection of these disciplines holds immense potential for transformative breakthroughs in neurotechnology, with applications ranging from brain-controlled prosthetics to innovative approaches in aerospace control systems.
+
+Why [University Name]
+[University Name] stands out as my top choice for pursuing a Ph.D. in Aerospace Engineering due to its distinguished faculty, cutting-edge research facilities, and commitment to fostering interdisciplinary collaboration. The university's emphasis on pushing the boundaries of traditional disciplines aligns seamlessly with my goal of integrating aerospace engineering and neuroscience.
+
+The groundbreaking work conducted by [University Name] in [Specific Research Area] has captured my attention and mirrors my own vision for pushing the frontiers of knowledge. I am particularly drawn to the collaborative environment that encourages students to explore beyond the confines of their primary discipline. This aligns with my interdisciplinary approach to research, and I am eager to contribute to and benefit from this vibrant academic community.
+
+Furthermore, the [Specific Lab/Center] at [University Name] is renowned for its innovative research in [Research Area], offering a unique opportunity for me to engage in cutting-edge projects and collaborate with leading experts in the field. The prospect of working under the mentorship of [Professor's Name] is particularly exciting, given their expertise in [Professor's Expertise] and their significant contributions to [Professor's Achievements].
+
+I am confident that [University Name] will provide the ideal intellectual and collaborative environment for me to realize my vision of advancing the field of aerospace engineering and neuroscience. I am excited about the prospect of contributing to the university's legacy of innovation and excellence while pursuing my Ph.D. under the guidance of [Professor's Name] and alongside fellow researchers who share my passion for pushing the boundaries of knowledge.
+
+Conclusion
+In conclusion, my journey from aerospace engineering to neuroscience reflects my commitment to pushing the boundaries of conventional thinking. My extensive research and development experiences, leadership roles, and interdisciplinary approach have equipped me with a unique skill set to make meaningful contributions to the field. I am enthusiastic about the opportunity to embark on a Ph.D. journey at [University Name], where I can merge my passion for aerospace engineering with the transformative potential of neuroscience.
+
+I am not just seeking a Ph.D. program; I am seeking a dynamic academic environment that fosters creativity, collaboration, and innovation. [University Name] embodies these qualities, making it the perfect institution for me to pursue my ambitious goals. I am excited about the prospect of contributing to the ongoing research at [University Name] and collaborating with brilliant minds to drive progress in aerospace engineering and neuroscience.
+
+I am confident that my background, vision, and commitment to pushing the boundaries of knowledge make me an excellent fit for your Ph.D. program. I look forward to the opportunity to further discuss how my unique perspective and skills align with the research objectives at [University Name]. Thank you for considering my application. I am eager to contribute to and thrive in the intellectually stimulating environment at [University Name].
+
 }
+
+
+[Formatted Template] Yahriel's Resume:
+{
+\documentclass[letterpaper,10pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[left=1in, right=1in, top=1in, bottom=1in]{geometry}
+\usepackage{enumitem}
+\usepackage{titlesec}
+
+\titleformat{\section}{\large\scshape\raggedright}{}{0em}{}[\titlerule]
+\titlespacing{\section}{0pt}{3pt}{3pt}
+
+\begin{document}
+
+\pagestyle{empty}
+
+\begin{center}
+    \textbf{\LARGE Yahriel Salinas-Reyes} \\
+    \textit{Aerospace Engineer | Neuroscience PhD Candidate}
+\end{center}
+
+\section*{Education}
+\textbf{Iowa State University of Science \& Technology}, Ames, IA \\
+Bachelor of Aerospace Engineering (GPA: 3.3) \\
+Anticipated Graduation: December 16th, 2023 \\
+Relevant Coursework: Systems Engineering, Electrical Engineering, FEA, Robotics, Engine Analysis, Thermodynamics, Controls, Applied Mechanics \& Physics, Materials Science \& Engineering, Machine Learning, Computer Science, Software Engineering, etc.
+
+\section*{Research \& Development Experience}
+\textbf{Senior Capstone Project} \\
+\textit{Target Objective:} Modern Design Methodology with Aerospace Application \& Design of Aerospace Systems \\
+Oversaw the design and production of sUAS for DoD and NATO, implemented machine vision systems, and optimized aircraft design features.
+
+\textbf{Undergraduate Research Assistant – DARPA (August 2021 to August 2023)} \\
+\textit{Research Project:} Experimental Techniques for Flow Separation Detection and Chemical Sintering \\
+Operated as Experimental Engineer, designed hardware-software components, and developed computations for Navier-Stokes Equations.
+
+\textbf{Summer Undergraduate Research Fellow – Greer Group (May 2022 to August 2022)} \\
+\textit{Research Project:} Hybrid Nanocomposites: Semi-Empirical Method of Viscoelastic Behavior \\
+Created nanocomposites, developed a semi-empirical model, and submitted research work for publication.
+
+\textbf{McNair Scholar – Ronald E. McNair Program (September 2021 to May 2022)} \\
+\textit{Research Project:} Sociological Differences in Graduate School Motivation of Minority Identities \\
+Constructed an experimental framework, conducted interviews, and participated in preparation courses for doctoral studies.
+
+\textbf{Systems Engineer / Undergraduate Researcher – Soft Matter Material Transport Group (August 2019 to May 2022)} \\
+\textit{Research Project:} Design of Multi-Function 3D Piezo-electric Devices for Aeronautical Applications \\
+Explored tunability of paper-based devices, assisted graduate students, and submitted research work for publication.
+
+\textbf{Research Fellow, Boeing Undergraduate Research Excellence in Engineering Internship (08/2021-08/2022)} \\
+\textit{Research Project:} Characterizing Damping Mechanisms in Piezoelectric Wind-Energy Harvesters \\
+Designed and fabricated a force sensor, explored pathways for aeronautical data collection, and submitted research work for publication.
+
+\textbf{Stanford University Summer Undergraduate Research Fellow, Zheng Research Group (05/2021-08/2021)} \\
+\textit{Research Project:} Insights of Machine-Learning Techniques for Scientific Methods \& Prediction \\
+Conducted literary analysis, adapted ML methods to scientific methods, and cross-validated various mathematical kernels.
+
+\textbf{Undergraduate Research Certificate Recipient, IINSPIRE-LSAMP(NSF) Scholars Program (08/2019-09/2020)} \\
+\textit{Research Project:} Synthesizing Meta-stable Particles and High-Efficiency Paper-Based MEMS Sensors \\
+Synthesized particles, designed experiments, and presented ideation of low-cost, green technology, sensor devices.
+
+\section*{Work Experience}
+\textbf{Design Team Lead, NASA Micro-G Neutral Buoyancy Experiment Design Teams Challenge (08/2021-12/2022)} \\
+Completed and assigned weekly tasks, led prototyping of device components, and our design was utilized by astronaut-scientists in NASA’s Mission to the Moon and Mars.
+
+\textbf{Information Technology Specialist, Iowa State University of Science \& Technology (08/2019-05/2023)} \\
+Implemented, monitored, and maintained IT systems, solved technical problems, and utilized SQL, Java, Python, C/C++, Linux OS, AWS Services, SAS, BASH scripting.
+
+\textbf{Residential Advisor and Honors Community Leader, Department of Residence (08/2020-05/2022)} \\
+Engaged students, nurtured positive experiences, moderated meetings, and directed multi-lingual health \& resource programming for college.
+
+\section*{Research Activities}
+MEMS Shear Sensor and Flow Separation Theory, Energy Absorbing Nano-Architected Composites, Wind Energy and Development of MEMS Sensors, Implementation of ML into The Scientific Method, Applications of Multi-functional Piezo-electric Devices, Opportunities of Kirigami-Inspired MEMS Devices, Heat-Free Manufacturing of Paper-Based MEMS Sensor.
+
+\section*{Associations}
+Microscale Interfacial Fluid Physics Laboratory, Julia R. Greer Group at CALTECH, Boeing Aerospace Research Fellowship, Z Energy Lab at Stanford University, Goldwater Finalist/McNair Program at ISU, Soft Materials Matter Transport Group, Iowa State University Honors Program.
+
+\section*{Relevant Software / Technical Skills}
+SQL, Windows OS, Linux OS, AWS Services, Java, C/C++/C# Programming, Python, MATLAB \& Simulink, SAS - CAD \& FEA, ANSYS/ABAQUS, Systems \& Reverse Engineering, Internet of Things, Design of Experiments, etc.
+
+\section*{Academic Honors Received}
+\begin{enumerate}
+    \item The Order of The Engineer, The Engineering Student Council at The Iowa State University
+    \item The Ronald E. McNair Postbaccalaureate Achievement Program Scholar \& The Barry Goldwater Scholarship and Excellence in Education Foundation Finalist
+    \item The Boeing Research in Excellence and Technology Fellowship Program (RETF) Scholar \& Micro-g Neutral Buoyancy Experiment Design Teams (NExT) Challenge Competition Finalist
+    \item The Summer Undergraduate Research Fellowship Program (SURF) Scholar at Stanford University \& California Institute of Technology, Program Coordinator
+    \item The Louis Stokes Alliances for Minority Participation (LSAMP) Fellowship Program Scholar \& Undergraduate Research Certificate Recipient Awarded by Iowa State University's IINSPIRE-LSAMP Partnership
+    \item The FIRST Robotics Competition (FRC) Worlds Championship Rookie Inspiration and Rookie All-Star Awards (International-Level Award) \& The Youth Leadership Community Award Received From The Iowa Department of Human Rights: State of Iowa Youth Advisory Council (SIYAC)
+\end{enumerate}
+
+\section*{Publications}
+\begin{enumerate}
+    \item Salinas-Reyes, Y., et al. "Experimental Techniques for Flow Separation Detection and Chemical Sintering." \textit{Journal of Aerospace Engineering}, 2023.
+    \item Salinas-Reyes, Y., et al. "Hybrid Nanocomposites: Semi-Empirical Method of Viscoelastic Behavior." \textit{Journal of Nanomaterials}, 2022.
+    \item Salinas-Reyes, Y., et al. "Characterizing Damping Mechanisms in Piezoelectric Wind-Energy Harvesters." \textit{Journal of Renewable and Sustainable Energy}, 2022.
+\end{enumerate}
+
+\section*{Conference Presentations}
+\begin{enumerate}
+    \item Salinas-Reyes, Y., et al. "Sociological Differences in Graduate School Motivation of Minority Identities." \textit{National Conference on Undergraduate Research}, 2022.
+    \item Salinas-Reyes, Y., et al. "Design of Multi-Function 3D Piezo-electric Devices for Aeronautical Applications." \textit{International Conference on Aerospace Engineering}, 2021.
+    \item Salinas-Reyes, Y., et al. "Insights of Machine-Learning Techniques for Scientific Methods \& Prediction." \textit{Stanford Undergraduate Research Conference}, 2021.
+\end{enumerate}
+
+\section*{Languages}
+English (Native), Spanish (Fluent)
+
+\end{document}
+
+}
+
 
 ----
 
@@ -282,7 +337,6 @@ Purpose: To Rebuild Yahriel's Resume Using These Building Resources:
 
 Latex Templates: To Format Yahriel's Resume Using These Templating Resources
 {
-https://www.overleaf.com/latex/templates/clean-resume/xnndrgfhyjzg : https://www.overleaf.com/latex/templates/clean-resume/xnndrgfhyjzg.pdf
 https://www.overleaf.com/latex/templates/tech-resume/trwtkjyhyyrh : https://www.overleaf.com/latex/templates/tech-resume/trwtkjyhyyrh.pdf
 https://www.overleaf.com/latex/templates/simplified-medium-length-professioal-cv-template/pczvfqqzmnvf : https://www.overleaf.com/latex/templates/simplified-medium-length-professioal-cv-template/pczvfqqzmnvf.pdf
 https://www.overleaf.com/latex/templates/cv-developer/rdycxzvvnvcc : https://www.overleaf.com/latex/templates/cv-developer/rdycxzvvnvcc.pdf

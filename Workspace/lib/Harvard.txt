@@ -1,98 +1,88 @@
+Massachussetts Institute of Technology PhD Graduate School Application for The Health Sciences and Technology (Harvard-MIT Joint Program)
+You are simultaneously applying for graduate study with one of our partner units at Harvard - SEAS 
 
 
-Application 1: Division of Medical Sciences
-Application 2: Biophysics
-Application 3: Engineering and Applied Sciences (SEAS): Applied Mathematics
+Homework: 
+{ 
+Read all materials (a few times, without distractions). Prepare a task list with deadlines to perform the Executive Tasks then 
+complete the tasks. Understand how application components and each item requested relate to 
+the review criteria. 
+} 
+Other Proposed Fields of Study: 
+{ 
+Pursuing STEM field: Division of Mathematical Sciences (DMS) Field of Study 1: DMS: Computational and Date-Enabled Sciences Field of Study 
+2: Comp/IS/Eng: Algorithms and Theoretical Foundations Field of Study 3: Comp/IS/Eng: 
+Scientific Computing Field of Study 4: Comp/IS/Eng: Bioinformatics and Bio-inspired Computing 
+} 
 
-Most interested
-Computational Neuroscience
+Review Criteria: 
+{
 
-Interested
-Modeling Physical/Biological Phenomena and Systems
-
-Somewhat interested
-Other
-Describe the sub-area you are interested in
-** __ **
-
-
-Other Harvard Schools to which you are applying:
-Harvard Medical School
-
-Indicate if you are applying to, or currently affiliated with, either of the following joint-degree programs:
-MD-PhD (with Harvard Medical School)
-Academic Background (Required)
-
-If you consider anything about your academic record or career path to be atypical, please explain. Account for time periods of three months or more involving military service, travel, family responsibilities, etc. not covered in preceding questions.
-- 1200 characters remaining
-
-Activities/Published Materials
-Please note that any website addresses included in the fields below will be passed along to the admissions committee as plain text. If you would like the committee to review the content of those websites, you may use the Digital Portfolio section of this application to upload website hyperlinks.
-
-Please describe any projects that required your independent work and/or laboratories in which you have conducted independent research.
-- 1200 characters remaining
-
-Do you have any undergraduate research experience?
-Yes
-
-Do you have any published articles, books, and other materials?
-Yes 
-
-====
-Identifying faculty mentors for your application is an important step, and it's crucial to choose individuals whose expertise aligns with your research interests or academic goals. Here are some tips on how to identify potential mentors:
-
-Research Interests:
-
-Look for faculty members whose research interests align closely with yours. This can include specific topics, methodologies, or theoretical approaches.
-Check the faculty profiles on the university's website or academic department pages. Many universities provide detailed information about faculty members' research areas.
-Publications and Achievements:
-
-Consider faculty members who have a strong publication record in the areas you're interested in. Look for recent publications, conference presentations, and any notable achievements.
-Reviewing a potential mentor's body of work can also give you insights into their research focus and the impact of their contributions.
-Collaborations and Networks:
-
-Explore whether the faculty members collaborate with researchers in other departments or institutions. Collaborative efforts can enrich your research experience and provide additional resources.
-Consider mentors who are well-connected in academic networks related to your field. Networking is essential for expanding your research opportunities.
-Teaching and Mentorship Philosophy:
-
-Look for mentors whose teaching and mentorship philosophies align with your learning style and academic preferences. Some faculty members may prioritize hands-on research, while others may emphasize a more structured classroom approach.
-Availability and Commitment:
-
-Consider the availability of potential mentors. Some faculty members may have heavy teaching loads or other commitments that could affect their availability to mentor you effectively.
-Reach out to them or their current mentees if possible to gauge their level of commitment and support for graduate students.
-Compatibility and Communication:
-
-Ensure that you feel comfortable communicating with the potential mentors. Effective communication is crucial for a successful mentor-mentee relationship.
-Attend department seminars, workshops, or events where you can interact with faculty members and get a sense of their personalities and communication styles.
-Once you've identified potential mentors, it's essential to reach out to them. Craft a concise and thoughtful email expressing your interest in their work, outlining your research goals, and explaining why you believe they would be a good fit as your mentor. Be prepared to discuss your background, research interests, and how you see yourself contributing to their research group.
-
-Remember that a strong mentorship is a two-way street, and finding the right fit is crucial for your academic and research success. Good luck with your application!
-====
-Faculty
+Statement of Objectives: Please give your reasons for wishing to do graduate work in HST. Explain how your background has prepared you for this graduate program. Identify the research area(s) you plan to investigate during your graduate studies, the issues and problems you wish to address, and how HST's program supports your research interests. State your long-term professional goals and specify the unique aspects of the HST program that will help you to accomplish those goals. Prepare your Statement of Objectives in whatever format clearly presents your views.
+It is not necessary to name specific professors or labs you might want to join. HST requests that candiates wait to contact professors after applications have been reviewed. If applicable, describe any specific academic or research challenges you have overcome. The Admissions Committee will welcome any factors you wish to bring to its attention concerning your academic, research, and work experiences to date.
+Recommended Length: 800-1200 words
 ----
-List Harvard faculty members whose research fields seem closest to your own interests. To help identify faculty in your degree program of interest, please visit the program's website.
-Department 1: HST
-Faculty of Interest 1
-Last Name   Heldt
-First Name  Thomas
-Faculty of Interest 2
-Last Name   Sontag
-First Name  David
-Faculty of Interest 3
-Last Name	Spector
-First Name	Myron
+Personal Statement: The HST community is composed of individuals who come from a variety of backgrounds, may have faced personal challenges, and serve as leaders in society. Please discuss how your experiences and background inspire you to work for the betterment of your communities. Your response is not limited to, but may discuss, one or more of the following: Personal challenges that you may have faced and how they acted to inhibit your scholarly growth Strategies that you may have found or implemented to cope with challenges in your life or the lives of others;
+How you have fostered justice, equity, diversity, and inclusion in the past, or how you will in the future at HST and beyond
+Recommended Length: 400-800 words
+----
 
-List Harvard faculty members whose research fields seem closest to your own interests. To help identify faculty in your degree program of interest, please visit the program's website.
-Department 1: Medical 
-Faculty of Interest 1 
-Last Name   Breakefield
-First Name  Xandra
-Faculty of Interest 2
-Last Name   Cepko
-First Name  Constance L.
-Faculty of Interest 3
-Last Name	Chen
-First Name	Zheng-Yi
+WHAT WE LOOK FOR: Evidence of exceptional creativity, broad 
+understanding of physical principles, and outstanding potential for innovative research is 
+expected. Applicants are screened for qualities we believe are essential ingredients of future 
+professional accomplishment and/or leading indicators of future professional success. These 
+include: Exceptional Intelligence and Creativity with particular emphasis on those aspects 
+pertinent to technical endeavors. Excellent Technical Education evidenced not only by transcripts 
+and reference reports from senior technical professionals, but also through an in-person, 
+technical interview. Orientation and Commitment to the applications of the physical sciences as 
+is typical of most applicants. Extraordinary Accomplishment in technical or related professional 
+studies which may offset slightly lower academic records or add luster to outstanding ones. 
+High moral and ethical values. Leverage demonstration of the difference the award of the Hertz 
+Fellowship is likely to make in the kind, quality, and/or personal creativity of the student's 
+graduate research.
+
+Statement of Purpose: The statement of purpose is very important to programs when deciding whether to admit a candidate. Your statement should be focused, informative, and convey your research interests and qualifications. You should describe your reasons and motivations for pursuing a graduate degree in your chosen degree program, noting the experiences that shaped your research ambitions, indicating briefly your career objectives, and concisely stating your past work in your intended field of study and in related fields. Your degree program of interest may have specific guidance or requirements for the statement of purpose, so be sure to review the degree program page for more information. Unless otherwise noted, your statement should not exceed 1,000 words.
+Personal Statement: A core part of the Harvard Griffin GSAS mission is to identify and attract the most promising students to form a dynamic and diverse community. We are committed to educating individuals who reflect the growing diversity of perspectives and life experiences represented in society today and who will contribute to our commitment to sustain a welcoming, supportive, and inclusive environment. Please share how your experiences or activities will advance our mission and commitment. (No longer than 500 words)
+Yahriel PhD Application to Harvard Graduate School of Arts and Sciences Engineering and Applied Sciences (SEAS): Applied Mathematics
+
+
+Program
+Health Sciences and Technology (Harvard-MIT Joint Program)
+
+Please select an area of research:
+MEMP, with BioAstronautics Training Program
+
+Please provide a two to three sentence description of your research interests.
+
+Applications to Other Universities and Programs
+Other universities to which you are applying (include name and program):
+1. MIT-Harvard Health Sciences and Technology (Harvard-MIT Joint Program)
+2. Stanford University - Neuroscience and Biomedical Data Science/Informatics
+3. Caltech - Computation and Neural Systems
+
+Other Schools to which you are applying:
+Health Sciences and Technology (Harvard-MIT Joint Program)
+
+----
+Department 1: https://hst.mit.edu/academic-programs/memp
+Department 2: https://www.hms.harvard.edu/md_phd/
+====
+----
+Applying to Bioastronautics Program: https://hst.mit.edu/academic-programs/memp/bioastronautics-training-program
+Applying to MIT Program: https://hst.mit.edu/
+Applying to MIT Joint Program: https://imes.mit.edu/
+----
+Other Resources and Helpful Links:
+https://mitcommlab.mit.edu/nse/wp-content/uploads/sites/4/2016/09/NSE_CommKit_GradSchool_Personal_Statement_AAE1.pdf
+https://mitcommlab.mit.edu/eecs/commkit/graduate-school-personal-statement/
+https://mitcommlab.mit.edu/meche/commkit/statement-of-purpose-for-graduate-school/
+https://medium.com/@robosquiggles/i-got-into-mit-with-this-statement-of-purpose-509e9d2e9fce
+https://medium.com/mit-media-lab/statement-of-objectives-1ff8dff39704
+https://scholar.harvard.edu/files/yuhuawang/files/writing_statement_of_purpose_for_graduate_school_application_2021_yuhua_wang_0.pdf
+https://www.hsph.harvard.edu/career-services/wp-content/uploads/sites/36/2016/06/Writing-a-Graduate-School-Application-Essay-Guide_Nov-20151.pdf
+https://bemoacademicconsulting.com/blog/harvard-grad-school-personal-statement-examples
+https://www.gse.harvard.edu/sites/default/files/2023-09/Statement-of-Purpose.pdf
+https://www.azent.com/expert-tips/sop-harvard-university
 ----
 Department 1: https://hst.mit.edu/academic-programs/memp
 Department 2: https://www.hms.harvard.edu/md_phd/
@@ -110,18 +100,304 @@ https://www.gse.harvard.edu/sites/default/files/2023-09/Statement-of-Purpose.pdf
 https://www.azent.com/expert-tips/sop-harvard-university
 
 https://www.linkedin.com/pulse/statement-purpose-got-me-harvard-2021-przemys%C5%82aw-stolarski/
+}
 
 
+Help Yahriel Salinas Answer The Prompt, Review The Response, Provide Feedback, Make Corrections, Enhance, and Finalize Yahriel's Best Response For To Prompt..
+
+Yahriel is the MASTER User: 
+{
+Master: https://github.com/yahriels/yahriels/blob/main/Workspace/Master.txt
+Main: https://github.com/yahriels/yahriels/tree/main 
+Page: https://github.com/yahriels/yahriels/blob/main/page.html
+Yahriel Profile: https://github.com/yahriels/yahriels/blob/main/%5B0%5DY.Salinas-Reyes_Profile.pdf
+Yahriel Statements: https://github.com/yahriels/yahriels/blob/main/%5B2%5DY.Salinas-Reyes_Statements.pdf
+Yahriel Relevant: https://github.com/yahriels/yahriels/blob/main/%5B3%5DY.Salinas-Reyes_Relevant.pdf
+Yahriel Workspace Profile: https://github.com/yahriels/yahriels/blob/main/Workspace/Yahriel_Profile.txt
+Supplementary Materials: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Supplementary_Materials.txt
+Figure 1: https://github.com/yahriels/yahriels/blob/main/Figure1.jpg.svg
+Figure 2: https://github.com/yahriels/yahriels/blob/main/Figure2.jpg.svg
+Workspace: https://github.com/yahriels/yahriels/tree/main/Workspace
+Library: https://github.com/yahriels/yahriels/tree/main/Workspace/lib
+Experience: https://github.com/yahriels/yahriels/blob/main/Experiences.pdf
+Dummy: https://github.com/yahriels/yahriels/blob/main/Workspace/dummy.txt
+Resume Prompts: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Resume_Prompts.txt
+Resume Template: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Resume_Template.txt
+}
+
+Purpose: To Rebuild Yahriel's Resume Using These Building Resources:
+{
+[Resources]
+- Harvard PhD Resume and Cover Letter Examples: [Link](https://hwpi.harvard.edu/files/ocs/files/phd_resume_cover_letters.pdf)
+- Harvard GSAS CVs and Cover Letters: [Link](https://hwpi.harvard.edu/files/ocs/files/gsas-cvs-and-cover-letters.pdf)
+- Harvard Master's Resume and Cover Letter Template: [Link](https://careerservices.fas.harvard.edu/resources/masters-resume-cover-letter-template/)
+- Harvard Undergraduate Resumes and Cover Letters: [Link](https://hwpi.harvard.edu/files/ocs/files/undergrad_resumes_and_cover_letters.pdf)
+- Harvard Extension School Resume Guide: [Link](https://hwpi.harvard.edu/files/ocs/files/hes-resume-cover-letter-guide.pdf)
+- MIT Sample Resumes: [Link](https://capd.mit.edu/resources/sample-resumes/)
+- MIT Resume Tips and Examples: [Link](https://capd.mit.edu/channels/make-a-resume-cover-letter-cv/)
+}
+
+Prompt: Perfecting Yahrie's Resume/Curriculum Vitae for Harvard PhD Application
+{
+
+Review Yahriel's Experience, Rewrite and Rebuild Yahrie's Resume For Graduate School to Give Him the Best Chance of Being Accepted Into The PhD Program at Harvard. DO NOT SPARE ANY DETAILS AND BE AS DESCRIPTIVE AS POSSIBLE
+
+Yahriel, 
+
+Please answer the following questions for each entry that is applicable or relevant in the Situation, Challenge or Task, Action (using I statements, some We statements is okay), and result format while rewriting and rebuilding [Current] Yahriel's Resume with [Format Template] Yahriel's Resume and make enhancements as needed. Do not spare any details and be as descriptive as possible.
+
+- Tell me about a time you had to collaborate and work on a team project
+- Tell me about a time you had to deal with an angry customer/student/coworker
+- Tell me about a time you had to use problem solving or root cause analysis
+
+}
+
+[Template] Yahriel's Resume: 
+{
+
+Yahriel Salinas-Reyes: PhD Application
+Personal Statement:
+I am Yahriel Salinas-Reyes, a visionary at the intersection of Aerospace Engineering and Neuroscience, dedicated to unraveling the mysteries of the brain. As an undergraduate with a Bachelor's in Aerospace Engineering, I have delved into groundbreaking research and projects, showcasing my ability to hit targets unseen by others—a true genius in the making.
+
+Education
+Iowa State University of Science & Technology
+Ames, IA - Anticipated Graduation: December 16, 2023
+
+Bachelor of Aerospace Engineering (GPA: 3.3)
+Relevant Coursework: Systems Engineering, Electrical Engineering, FEA, Robotics, Engine Analysis, Thermodynamics, Controls, Applied Mechanics & Physics, Materials Science & Engineering, Machine Learning, Computer Science, Software Engineering, etc.
+Research & Development Experience
+Senior Capstone Project
+Target Objective: Modern Design Methodology with Aerospace Application & Design of Aerospace Systems
+
+Oversaw the design and production of a Small Unmanned Aircraft System (sUAS) for industry partners DoD and NATO.
+Implemented machine vision systems, industrial controls, automatic identification & data capture.
+Led signals & control systems/electronics, optimizing aircraft design features and aerodynamic performance.
+Undergraduate Research Assistant – DARPA
+August 2021 to August 2023
+
+Research Project: Experimental Techniques for Flow Separation Detection and Chemical Sintering.
+Operated as an Experimental Engineer, designing hardware-software components and building signal processing circuit-algorithm.
+Contributed to the manufacturing of MEMS nanocomposites and developed computations for modeling shear-viscosity.
+Summer Undergraduate Research Fellow – Greer Group
+May 2022 to August 2022
+
+Research Project: Hybrid Nanocomposites - Semi-Empirical Method of Viscoelastic Behavior.
+Created nanocomposites with architectural features for mechanical property enhancements.
+Developed a semi-empirical model for deformation mechanisms, enabling FEA & Euler Theory applications.
+McNair Scholar
+September 2021 to May 2022
+
+Research Project: Sociological Differences in Graduate School Motivation of Minority Identities.
+Constructed an experimental framework, completed literature synthesis, and conducted interviews.
+Prepared for doctoral studies through involvement in research and scholarly activities.
+Systems Engineer / Undergraduate Researcher – Soft Matter Material Transport Group
+August 2019 to May 2022
+
+Research Project: Design of Multi-Function 3D Piezoelectric Devices for Aeronautical Applications.
+Explored tunability and sensitivity of paper-based devices, optimized device design, and created a self-automated calibration & data capture system.
+Submitted research work for publication in a scientific peer-reviewed journal (2023).
+Research Fellow, Boeing Undergraduate Research Excellence in Engineering Internship
+August 2021 to August 2022
+
+Research Project: Characterizing Damping Mechanisms in Piezoelectric Wind-Energy Harvesters.
+Designed and fabricated a green technology low-cost force sensor, explored pathways for aeronautical data collection.
+Submitted research work for publication in a scientific peer-reviewed journal (2023).
+Stanford University Summer Undergraduate Research Fellow, Zheng Research Group
+May 2021 to August 2021
+
+Research Project: Insights of Machine-Learning (ML) Techniques for Scientific Methods & Prediction.
+Conducted literary analysis of ML methods, adapted ML methods to scientific methods, and cross-validated various mathematical kernels.
+Presented findings in optimizations of experimental design for scientific discovery.
+Undergraduate Research Certificate Recipient, IINSPIRE-LSAMP (NSF) Scholars Program
+August 2019 to September 2020
+
+Research Project: Synthesizing Meta-stable Particles and High-Efficiency Paper-Based MEMS Sensors.
+Explored modern applications of research and presented ideation of low-cost, green technology, sensor devices for industry and social impact.
+Prepared literary reviews and deep analyses of relevant science engineering research.
+Professional & Leadership Experiences
+Design Team Lead, NASA Micro-G Neutral Buoyancy Experiment Design Teams Challenge
+August 2021 to December 2022
+
+Led a team to design, build, and test a tool/device addressing a space exploration challenge (Extravehicular activity).
+Prototyped device components, CAD modeling, and reverse engineering; proposal utilized in NASA’s Mission to the Moon and Mars.
+Information Technology Specialist, Iowa State University of Science & Technology
+August 2019 to May 2023
+
+Implemented, monitored, and maintained IT computer systems.
+Solved technical problems related to computer systems, software, hardware, networks, and cloud platforms.
+Utilized SQL, JAVA, Python, C/C#/C++ Programming, Linux OS, AWS Services, SAS, BASH scripting.
+Residential Advisor and Honors Community Leader, Department of Residence
+August 2020 to May 2022
+
+Engaged students, nurtured positive experiences, and moderated meetings to address concerns.
+Directed multi-lingual health & resource programming for the college community.
+Research Activities & Associations
+Research Activities
+MEMS Shear Sensor and Flow Separation Theory (funded by DARPA)
+Energy Absorbing Nano-Architected Composites (funded by SFP Programs)
+Wind Energy and Development of MEMS Sensors (funded by Boeing)
+Implementation of ML into The Scientific Method (funded by SFP Programs)
+Applications of Multi-functional Piezo-electric Devices (funded by NSF)
+Opportunities of Kirigami-Inspired MEMS Devices (funded by NSF)
+Heat-Free Manufacturing of Paper-Based MEMS Sensor (funded by ISU Honors)
+Associations
+Microscale Interfacial Fluid Physics Laboratory
+Julia R. Greer Group at CALTECH
+Boeing Aerospace Research Fellowship
+Z Energy Lab at Stanford University
+Goldwater Finalist/McNair Program at ISU
+Soft Materials Matter Transport Group
+Iowa State University Honors Program
+Relevant Software / Technical Skills
+SQL, Windows OS, Linux OS, AWS Services, Java, C/C++/C# Programming, Python, MATLAB & Simulink, SAS, CAD & FEA (ANSYS/ABAQUS), Systems & Reverse Engineering, Internet of Things, Design of Experiments, etc.
+Academic Honors Received
+The Order of The Engineer, The Engineering Student Council at Iowa State University
+The Ronald E. McNair Postbaccalaureate Achievement Program Scholar & The Barry Goldwater Scholarship and Excellence in Education Foundation Finalist
+The Boeing Research in Excellence and Technology Fellowship Program (RETF) Scholar & Micro-G Neutral Buoyancy Experiment Design Teams (NExT) Challenge Competition Finalist
+The Summer Undergraduate Research Fellowship Program (SURF) Scholar at Stanford University & California Institute of Technology, Program Coordinator
+The Louis Stokes Alliances for Minority Participation (LSAMP) Fellowship Program Scholar & Undergraduate Research Certificate Recipient Awarded by Iowa State University's IINSPIRE-LSAMP Partnership
+The FIRST Robotics Competition (FRC) Worlds Championship Rookie Inspiration and Rookie All-Star Awards (International-Level)
+Publications & Presentations
+Y. Salinas-Reyes, et al., "Experimental Techniques for Flow Separation Detection and Chemical Sintering," in Proc. of 14th IEEE Conference on Nanotechnology, (IEEE-NANO), Kyoto, Japan, 2023.
+Y. Salinas-Reyes, et al., "Hybrid Nanocomposites - Semi-Empirical Method of Viscoelastic Behavior," in Proc. of 35th Annual Technical Conference of the Society of Engineering Science, (SES), Minneapolis, MN, 2023.
+Future Vision
+With an insatiable curiosity and a passion for interdisciplinary work, my aspiration is to pioneer the integration of aerospace engineering and neuroscience. I seek to unravel the complexities of brain-machine interfaces, enhancing our understanding of the human mind and opening new avenues for human potential. Pursuing a Ph.D. in Aerospace Engineering at your esteemed institution aligns with my vision, providing a unique platform to merge my expertise and contribute significantly to both fields.
+
+By leveraging my background in aerospace engineering, I aim to bring a fresh perspective to neuroscience research, applying principles of systems engineering and control theory to unravel the intricate dynamics of the brain. The intersection of these disciplines holds immense potential for transformative breakthroughs in neurotechnology, with applications ranging from brain-controlled prosthetics to innovative approaches in aerospace control systems.
+
+Why [University Name]
+[University Name] stands out as my top choice for pursuing a Ph.D. in Aerospace Engineering due to its distinguished faculty, cutting-edge research facilities, and commitment to fostering interdisciplinary collaboration. The university's emphasis on pushing the boundaries of traditional disciplines aligns seamlessly with my goal of integrating aerospace engineering and neuroscience.
+
+The groundbreaking work conducted by [University Name] in [Specific Research Area] has captured my attention and mirrors my own vision for pushing the frontiers of knowledge. I am particularly drawn to the collaborative environment that encourages students to explore beyond the confines of their primary discipline. This aligns with my interdisciplinary approach to research, and I am eager to contribute to and benefit from this vibrant academic community.
+
+Furthermore, the [Specific Lab/Center] at [University Name] is renowned for its innovative research in [Research Area], offering a unique opportunity for me to engage in cutting-edge projects and collaborate with leading experts in the field. The prospect of working under the mentorship of [Professor's Name] is particularly exciting, given their expertise in [Professor's Expertise] and their significant contributions to [Professor's Achievements].
+
+I am confident that [University Name] will provide the ideal intellectual and collaborative environment for me to realize my vision of advancing the field of aerospace engineering and neuroscience. I am excited about the prospect of contributing to the university's legacy of innovation and excellence while pursuing my Ph.D. under the guidance of [Professor's Name] and alongside fellow researchers who share my passion for pushing the boundaries of knowledge.
+
+Conclusion
+In conclusion, my journey from aerospace engineering to neuroscience reflects my commitment to pushing the boundaries of conventional thinking. My extensive research and development experiences, leadership roles, and interdisciplinary approach have equipped me with a unique skill set to make meaningful contributions to the field. I am enthusiastic about the opportunity to embark on a Ph.D. journey at [University Name], where I can merge my passion for aerospace engineering with the transformative potential of neuroscience.
+
+I am not just seeking a Ph.D. program; I am seeking a dynamic academic environment that fosters creativity, collaboration, and innovation. [University Name] embodies these qualities, making it the perfect institution for me to pursue my ambitious goals. I am excited about the prospect of contributing to the ongoing research at [University Name] and collaborating with brilliant minds to drive progress in aerospace engineering and neuroscience.
+
+I am confident that my background, vision, and commitment to pushing the boundaries of knowledge make me an excellent fit for your Ph.D. program. I look forward to the opportunity to further discuss how my unique perspective and skills align with the research objectives at [University Name]. Thank you for considering my application. I am eager to contribute to and thrive in the intellectually stimulating environment at [University Name].
+
+}
 
 
-====
-Statement of Purpose
-The statement of purpose is very important to programs when deciding whether to admit a candidate. Your statement should be focused, informative, and convey your research interests and qualifications. You should describe your reasons and motivations for pursuing a graduate degree in your chosen degree program, noting the experiences that shaped your research ambitions, indicating briefly your career objectives, and concisely stating your past work in your intended field of study and in related fields. Your degree program of interest may have specific guidance or requirements for the statement of purpose, so be sure to review the degree program page for more information. Unless otherwise noted, your statement should not exceed 1,000 words.
---
-Personal Statement
-A core part of the Harvard Griffin GSAS mission is to identify and attract the most promising students to form a dynamic and diverse community. We are committed to educating individuals who reflect the growing diversity of perspectives and life experiences represented in society today and who will contribute to our commitment to sustain a welcoming, supportive, and inclusive environment. Please share how your experiences or activities will advance our mission and commitment. (No longer than 500 words)
-====
+[Formatted Template] Yahriel's Resume:
+{
+\documentclass[letterpaper,10pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[left=1in, right=1in, top=1in, bottom=1in]{geometry}
+\usepackage{enumitem}
+\usepackage{titlesec}
+
+\titleformat{\section}{\large\scshape\raggedright}{}{0em}{}[\titlerule]
+\titlespacing{\section}{0pt}{3pt}{3pt}
+
+\begin{document}
+
+\pagestyle{empty}
+
+\begin{center}
+    \textbf{\LARGE Yahriel Salinas-Reyes} \\
+    \textit{Aerospace Engineer | Neuroscience PhD Candidate}
+\end{center}
+
+\section*{Education}
+\textbf{Iowa State University of Science \& Technology}, Ames, IA \\
+Bachelor of Aerospace Engineering (GPA: 3.3) \\
+Anticipated Graduation: December 16th, 2023 \\
+Relevant Coursework: Systems Engineering, Electrical Engineering, FEA, Robotics, Engine Analysis, Thermodynamics, Controls, Applied Mechanics \& Physics, Materials Science \& Engineering, Machine Learning, Computer Science, Software Engineering, etc.
+
+\section*{Research \& Development Experience}
+\textbf{Senior Capstone Project} \\
+\textit{Target Objective:} Modern Design Methodology with Aerospace Application \& Design of Aerospace Systems \\
+Oversaw the design and production of sUAS for DoD and NATO, implemented machine vision systems, and optimized aircraft design features.
+
+\textbf{Undergraduate Research Assistant – DARPA (August 2021 to August 2023)} \\
+\textit{Research Project:} Experimental Techniques for Flow Separation Detection and Chemical Sintering \\
+Operated as Experimental Engineer, designed hardware-software components, and developed computations for Navier-Stokes Equations.
+
+\textbf{Summer Undergraduate Research Fellow – Greer Group (May 2022 to August 2022)} \\
+\textit{Research Project:} Hybrid Nanocomposites: Semi-Empirical Method of Viscoelastic Behavior \\
+Created nanocomposites, developed a semi-empirical model, and submitted research work for publication.
+
+\textbf{McNair Scholar – Ronald E. McNair Program (September 2021 to May 2022)} \\
+\textit{Research Project:} Sociological Differences in Graduate School Motivation of Minority Identities \\
+Constructed an experimental framework, conducted interviews, and participated in preparation courses for doctoral studies.
+
+\textbf{Systems Engineer / Undergraduate Researcher – Soft Matter Material Transport Group (August 2019 to May 2022)} \\
+\textit{Research Project:} Design of Multi-Function 3D Piezo-electric Devices for Aeronautical Applications \\
+Explored tunability of paper-based devices, assisted graduate students, and submitted research work for publication.
+
+\textbf{Research Fellow, Boeing Undergraduate Research Excellence in Engineering Internship (08/2021-08/2022)} \\
+\textit{Research Project:} Characterizing Damping Mechanisms in Piezoelectric Wind-Energy Harvesters \\
+Designed and fabricated a force sensor, explored pathways for aeronautical data collection, and submitted research work for publication.
+
+\textbf{Stanford University Summer Undergraduate Research Fellow, Zheng Research Group (05/2021-08/2021)} \\
+\textit{Research Project:} Insights of Machine-Learning Techniques for Scientific Methods \& Prediction \\
+Conducted literary analysis, adapted ML methods to scientific methods, and cross-validated various mathematical kernels.
+
+\textbf{Undergraduate Research Certificate Recipient, IINSPIRE-LSAMP(NSF) Scholars Program (08/2019-09/2020)} \\
+\textit{Research Project:} Synthesizing Meta-stable Particles and High-Efficiency Paper-Based MEMS Sensors \\
+Synthesized particles, designed experiments, and presented ideation of low-cost, green technology, sensor devices.
+
+\section*{Work Experience}
+\textbf{Design Team Lead, NASA Micro-G Neutral Buoyancy Experiment Design Teams Challenge (08/2021-12/2022)} \\
+Completed and assigned weekly tasks, led prototyping of device components, and our design was utilized by astronaut-scientists in NASA’s Mission to the Moon and Mars.
+
+\textbf{Information Technology Specialist, Iowa State University of Science \& Technology (08/2019-05/2023)} \\
+Implemented, monitored, and maintained IT systems, solved technical problems, and utilized SQL, Java, Python, C/C++, Linux OS, AWS Services, SAS, BASH scripting.
+
+\textbf{Residential Advisor and Honors Community Leader, Department of Residence (08/2020-05/2022)} \\
+Engaged students, nurtured positive experiences, moderated meetings, and directed multi-lingual health \& resource programming for college.
+
+\section*{Research Activities}
+MEMS Shear Sensor and Flow Separation Theory, Energy Absorbing Nano-Architected Composites, Wind Energy and Development of MEMS Sensors, Implementation of ML into The Scientific Method, Applications of Multi-functional Piezo-electric Devices, Opportunities of Kirigami-Inspired MEMS Devices, Heat-Free Manufacturing of Paper-Based MEMS Sensor.
+
+\section*{Associations}
+Microscale Interfacial Fluid Physics Laboratory, Julia R. Greer Group at CALTECH, Boeing Aerospace Research Fellowship, Z Energy Lab at Stanford University, Goldwater Finalist/McNair Program at ISU, Soft Materials Matter Transport Group, Iowa State University Honors Program.
+
+\section*{Relevant Software / Technical Skills}
+SQL, Windows OS, Linux OS, AWS Services, Java, C/C++/C# Programming, Python, MATLAB \& Simulink, SAS - CAD \& FEA, ANSYS/ABAQUS, Systems \& Reverse Engineering, Internet of Things, Design of Experiments, etc.
+
+\section*{Academic Honors Received}
+\begin{enumerate}
+    \item The Order of The Engineer, The Engineering Student Council at The Iowa State University
+    \item The Ronald E. McNair Postbaccalaureate Achievement Program Scholar \& The Barry Goldwater Scholarship and Excellence in Education Foundation Finalist
+    \item The Boeing Research in Excellence and Technology Fellowship Program (RETF) Scholar \& Micro-g Neutral Buoyancy Experiment Design Teams (NExT) Challenge Competition Finalist
+    \item The Summer Undergraduate Research Fellowship Program (SURF) Scholar at Stanford University \& California Institute of Technology, Program Coordinator
+    \item The Louis Stokes Alliances for Minority Participation (LSAMP) Fellowship Program Scholar \& Undergraduate Research Certificate Recipient Awarded by Iowa State University's IINSPIRE-LSAMP Partnership
+    \item The FIRST Robotics Competition (FRC) Worlds Championship Rookie Inspiration and Rookie All-Star Awards (International-Level Award) \& The Youth Leadership Community Award Received From The Iowa Department of Human Rights: State of Iowa Youth Advisory Council (SIYAC)
+\end{enumerate}
+
+\section*{Publications}
+\begin{enumerate}
+    \item Salinas-Reyes, Y., et al. "Experimental Techniques for Flow Separation Detection and Chemical Sintering." \textit{Journal of Aerospace Engineering}, 2023.
+    \item Salinas-Reyes, Y., et al. "Hybrid Nanocomposites: Semi-Empirical Method of Viscoelastic Behavior." \textit{Journal of Nanomaterials}, 2022.
+    \item Salinas-Reyes, Y., et al. "Characterizing Damping Mechanisms in Piezoelectric Wind-Energy Harvesters." \textit{Journal of Renewable and Sustainable Energy}, 2022.
+\end{enumerate}
+
+\section*{Conference Presentations}
+\begin{enumerate}
+    \item Salinas-Reyes, Y., et al. "Sociological Differences in Graduate School Motivation of Minority Identities." \textit{National Conference on Undergraduate Research}, 2022.
+    \item Salinas-Reyes, Y., et al. "Design of Multi-Function 3D Piezo-electric Devices for Aeronautical Applications." \textit{International Conference on Aerospace Engineering}, 2021.
+    \item Salinas-Reyes, Y., et al. "Insights of Machine-Learning Techniques for Scientific Methods \& Prediction." \textit{Stanford Undergraduate Research Conference}, 2021.
+\end{enumerate}
+
+\section*{Languages}
+English (Native), Spanish (Fluent)
+
+\end{document}
+
+}
 
 
-=
-
+Extra Latex Templates: Resources To Format Yahriel's Resume
+{
+https://www.overleaf.com/latex/templates/tech-resume/trwtkjyhyyrh : https://www.overleaf.com/latex/templates/tech-resume/trwtkjyhyyrh.pdf
+https://www.overleaf.com/latex/templates/simplified-medium-length-professioal-cv-template/pczvfqqzmnvf : https://www.overleaf.com/latex/templates/simplified-medium-length-professioal-cv-template/pczvfqqzmnvf.pdf
+https://www.overleaf.com/latex/templates/cv-developer/rdycxzvvnvcc : https://www.overleaf.com/latex/templates/cv-developer/rdycxzvvnvcc.pdf
+https://www.overleaf.com/latex/templates/sde-template-sharath/srkjmnmjfmnz : https://www.overleaf.com/latex/templates/sde-template-sharath/srkjmnmjfmnz.pdf
+}
