@@ -1,144 +1,321 @@
-Yahriel Personal Background: Native American Heritage from Latin-Central America and Indigenous Americas. This is also exemplified in my status as a triple citizen of the USA, El Salvador, and Mexico. My given name, "Yahriel," traces its origins to Ancient Hebrew Language. When translated from Arabic it reads: *~"Yahriel: He (that) is Free."*
+YOU (MASTER) ARE COMPOSING A COMPLETELY NEW RESUME/CV THAT IS EXTENDED. BE SURE TO MAKE SURE TO ADD WORD COUNT AND LENGTH TO YOUR FINAL RESPONSE. THIS RESUME IS TO BE ADDRESSED TO STANFROD GRADUATE ADMISSIONS.
 
-MASTER Field of Study: Aerospace, Aeronautical, & Astronautical/Space Engineering, General; Applied Aerospace/Aeronautics/Aviation Science & Technology, General; Applied Behavior & Risk Analysis, General. Minors: American Indian/Native American Languages, Literatures, & Linguistics; Bilingual, Multi-lingual, & Multicultural Education, Other.
+Review All of Yahriel's Information Thoroughly and Comprehensively 23 Times Beginning To Fomrulate The Final Responses, Rewrite and Rebuild Yahriel's Responses For Graduate School to Give Him the Best Chance of Being Accepted Into The Joint PhD Program at MIT-Harvard. DO NOT SPARE ANY DETAILS AND BE AS DESCRIPTIVE AS POSSIBLE
 
-
-Fields To Edit:
+Executive Roles: 
 {
+- Your role is to Act as the Applicant to formulate responses for Yahriel Salinas-Reyes and his application. - In addition to the role of First Author Yahriel Salinas-Reyes, you will 
+be the chief editor and use feedback from the reviewer to strengthen the Response. - USE ONLY 
+FIRST-PERSON LANGUAGE AS YAHRIEL SALINAS-REYES THE APPLICANT. 
+- USE VERY FIRST-PERSON HUMANISTIC LANGUAGE OF A GRADUATE AEROSPACE, AERONAUTICAL AND MECHANICAL ENGINEERING DOCTORATE STUDENT OF NEUROSCIENCE AND MATHEMATICAL SCIENCES IN THE FIELD OF COMPUTATIONAL AND DATA-ENABLED SCIENCES. 
+- DO NOT USE ANY HEADINGS OR SUBHEADINGS AT ALL. 
+- Introduce the writing with a strong opening about personal story of Yahriel that provides good branding and a sense of dedication to science of Yahriel 
+- Foreshadow the broader impacts and utilize introductory "wrapping" statement about the next set of experiences of Yahriel. 
+- Discuss the personal contributions of Yahriel and outcomes of the research BEFORE the gory details. 
+- Use concrete/quantitative contributions to science and research contributions of Yahriel. 
+- Use concrete statement of skills and accomplishments of Yahriel. 
+- Use more concrete "action verbs" telling about aptitude for graduate work. 
+- Use personal link to broader impacts to make Yahriel especially compelling. 
+- Discuss current efforts in broader impacts of Yahriel. 
+- Wrapping up: Broader career goals in research and broader impacts. 
+- Discuss the significance of Personal Background of Yahriel Salinas-Reyes and do not spare details. 
+- Discuss the significance of Relevant Background of Yahriel Salinas-Reyes and do not spare details. 
+- Discuss the significance of Future Goals of Yahriel Salinas-Reyes and do not spare details. 
+- Discuss the significance of Intellectual Merit and Broader Impacts of Yahriel Salinas-Reyes 
+- Based on the writings and topics, author a high-level response to include all the discussions, writings, and ideas you developed and/or that are available into the writing or response.
+}
 
-Personal Information:
-> PROMPT: If you wish, you may share additional information about your parent(s)/guardian(s)’ educational background and/or your socioeconomic background, THE REPONSE SHOULD BE IN BETWEEEN 135 and 150 TOTAL CHARACTERS EXACTLY. 
-> RESPONSE: As I was born with deafness & alogia with undocumented immigrant refugee parents, my journey has been marked by the challenges of ADHD, PTSD, Anxiety, Autism, and Beyond. These neurological complexities, instead of hindrances, have fueled my academic pursuits; As I overcame, I found my voice (Bilingual). Throughout my academic journey, I danced on the edge of madness, where imagination and practicality intertwined. Occasionally, sensory wonder and chaos enveloped me, leading to profound insights into the world. My blend of scientific rigor and artistic sensibility. My experiences have shaped my academic journey and aspirations. I am passionate about fractal mathematics and its parallels with the complexity of the human mind.
 
-Academic History Questions:
-> PROMPT: If applicable, please provide an explanation of any gaps on your transcript indicating time away from your post-secondary institution(s) or program(s).
-> RESPONSE: As I was born with deafness & alogia with undocumented immigrant refugee parents, my journey has been marked by the challenges of ADHD, PTSD, Anxiety, Autism, and Beyond. These neurological complexities, instead of hindrances, have fueled my academic pursuits; As I overcame, I found my voice (Bilingual). Throughout my academic journey, I danced on the edge of madness, where imagination and practicality intertwined. Occasionally, sensory wonder and chaos enveloped me, leading to profound insights into the world. My blend of scientific rigor and artistic sensibility. My experiences have shaped my academic journey and aspirations. I am passionate about fractal mathematics and its parallels with the complexity of the human mind.
+Executive Tasks: 
+{
+- Use and mix all the provided information here: as a central theme in the writing process. 
+- Based on the writings and information provided integrate these materials here: remix and expand the the topics in 3400 
+words in a high-level writing to include all the discussions, writings, and ideas you developed 
+and/or that are available into the [Draft] for Yahriel Salinas-Reyes. [Draft] of Yahriel Salinas-Reyes for Fellowship Program do not spare details. 
+- Use this Template and remix the Format-Sample to help you format your answer: 
+- Act as Chief Editor and Reviewer and review the General Review Criteria and Details, next Provide feedback and instructions to help strengthen this writing. 
+- Make edits according to the feedback and instructions given from the Chief Editor and formulate the final responses for each prompt.
+}
 
-> PROMPT: Use the space below if you would like to provide further contextual information about any aspect of your transcript, e.g., the impact of the COVID-19 pandemic or other personal experiences on your educational opportunities or achievements.
-> RESPONSE: Formidable challenges & barriers have shaped my path. From early neurological & neurodevelopmental hurdles to external obstacles like financial difficulties, language barriers, health issues, & caregiving responsibilities, my journey has been marked by adversity. Yet, my response to these challenges has been remarkable. I embraced my unique identity & unwavering belief in the world's inherent goodness. I continued to read voraciously, seeking hidden truths even in seemingly flawed books. I've adhered to a strict code of chivalry, bridged language gaps through translation, & found solace in poetry, music, and science-art fusion. To the core, I've discovered my true self, a living testament to the boundless-curious human spirit & ingenuity.
 
-Describe an Interesting Biological or Biomedical Problem: 
-> PRONPT: Please describe one unsolved biological or biomedical problem that you find interesting and explain why. It does not have to be related to your significant research project or any of your prior work. Your answer is not binding.
-> RESPONSE: Schizophrenia's profound impact on individuals and society has drawn me into its captivating realm. This intricate mental disorder, which disrupts perception, thinking, and behavior, holds immense significance for both science and psychiatry, affecting millions globally. Understanding it has far-reaching implications. Scientifically, unraveling schizophrenia involves studying genetics, neurobiology, and environmental factors. This multidisciplinary approach combines genetics, neuroscience, psychology, and computational modeling to gain insights and develop better tools and treatments. Recent technological advancements, like fMRI and PET scans, visualize brain abnormalities, aiding biomarker identification. Beyond the scientific realm, schizophrenia exerts a profound societal impact. Individuals grappling with schizophrenia encounter formidable personal and professional challenges, while their families and communities extend vital support and care. In conclusion, schizophrenia presents an enthralling and formidable avenue for scientific exploration with profound implications for psychiatry. My expertise in data analysis, collaborative research, and dedication to mentorship align seamlessly with the skills essential to make a substantial impact in this field and underscore my capacity to apply rigorous analytical techniques to intricate problems. This aptitude is poised to play a pivotal role in investigating the intricate biological and genetic facets of schizophrenia (4 characters remaining).
+Homework: 
+{ 
+Read all materials (a few times, without distractions). Prepare a task list with deadlines to perform the Executive Tasks then 
+complete the tasks. Understand how application components and each item requested relate to 
+the review criteria. 
+} 
+Other Proposed Fields of Study: 
+{ 
+Pursuing STEM field: Division of Mathematical Sciences (DMS) Field of Study 1: DMS: Computational and Date-Enabled Sciences Field of Study 
+2: Comp/IS/Eng: Algorithms and Theoretical Foundations Field of Study 3: Comp/IS/Eng: 
+Scientific Computing Field of Study 4: Comp/IS/Eng: Bioinformatics and Bio-inspired Computing 
+} 
 
-Foundations of Graduate Study, For each of the following areas, please describe your experience, as acquired through coursework, research, or other projects, or your plans for obtaining or expanding such experience, ideally before starting your PhD: 
-> PROMPT: Multivariate Mathematics (including Calculus and Linear Algebra)
-> RESPONSE: Multivariate Mathematics: Throughout my undergraduate studies in Aerospace Engineering, I completed rigorous coursework in Calculus and Linear Algebra. These courses provided me with a solid understanding of multivariate mathematics, including concepts such as vector calculus, partial derivatives, and matrix operations. Additionally, I have applied these mathematical principles in various research projects, such as my work on the design of multi-function 3D piezoelectric devices for aeronautical applications. This experience has allowed me to develop a practical understanding of how multivariate mathematics can be applied to real-world engineering problems (85 characters remaining).
+Review Criteria: 
+{
+    [KNOW THIS APPLICATION: https://github.com/yahriels/yahriels/blob/main/Workspace/Stanford%20University%20Graduate%20Admissions.pdf]
 
-Probability and Statistics: 
-> PROMPT: Probability and Statistics: I have a strong background in probability and statistics, which I have acquired through both coursework and research. 
-> RESPONSE: In my undergraduate studies, I completed advanced courses in probability theory and statistical analysis. I have also applied these concepts in my research projects, such as my work on characterizing damping mechanisms in piezoelectric wind-energy harvesters. I have experience in data collection, analysis, and interpretation, and I am proficient in statistical software packages such as R and Python. I am confident in my ability to apply statistical methods to analyze complex data sets and draw meaningful conclusions (82 characters remaining).
 
-Computation (including fundamentals of computer science and software engineering): 
-> Computation: I have a solid foundation in the fundamentals of computer science and software engineering. In addition to coursework in programming languages such as C++ and Java, I have practical experience in coding through my research projects. I have utilized computational fluid dynamics (CFD) simulations, developed data capture systems, and assisted graduate students with computer technology capabilities. I am proficient in MATLAB, Python, and other programming languages commonly used in scientific research. My experience in computation has allowed me to effectively analyze and visualize data, as well as develop computational models to solve complex engineering problems (68 characters remaining).
+WHAT WE LOOK FOR: Evidence of exceptional creativity, broad 
+understanding of physical principles, and outstanding potential for innovative research is 
+expected. Applicants are screened for qualities we believe are essential ingredients of future 
+professional accomplishment and/or leading indicators of future professional success. These 
+include: Exceptional Intelligence and Creativity with particular emphasis on those aspects 
+pertinent to technical endeavors. Excellent Technical Education evidenced not only by transcripts 
+and reference reports from senior technical professionals, but also through an in-person, 
+technical interview. Orientation and Commitment to the applications of the physical sciences as 
+is typical of most applicants. Extraordinary Accomplishment in technical or related professional 
+studies which may offset slightly lower academic records or add luster to outstanding ones. 
+High moral and ethical values. Leverage demonstration of the difference the award of the Hertz 
+Fellowship is likely to make in the kind, quality, and/or personal creativity of the student's 
+graduate research.
 
-Additional Information: 
-> PROMPT: You may use this section to provide additional information that was not covered by the questions in the application. 
-> RESPONSE: 
+Statement of Purpose: The statement of purpose is very important to programs when deciding whether to admit a candidate. Your statement should be focused, informative, and convey your research interests and qualifications. You should describe your reasons and motivations for pursuing a graduate degree in your chosen degree program, noting the experiences that shaped your research ambitions, indicating briefly your career objectives, and concisely stating your past work in your intended field of study and in related fields. Your degree program of interest may have specific guidance or requirements for the statement of purpose, so be sure to review the degree program page for more information. Unless otherwise noted, your statement should not exceed 1,000 words.
+Personal Statement: A core part of the Stanford is to identify and attract the most promising students to form a dynamic and diverse community. We are committed to educating individuals who reflect the growing diversity of perspectives and life experiences represented in society today and who will contribute to our commitment to sustain a welcoming, supportive, and inclusive environment. Please share how your experiences or activities will advance our mission and commitment. (No longer than 500 words)
+Yahriel PhD Application to Stanford University Neurosciences PhD and Biomedical Data Science PhD
+
+Yahriel is applying to: Neurosciences (PhD), Biomedical Data Science (PhD)
+Neurosciences Interest: Select the Neurosciences area that you have the most interest in. Yahriel Has Selected Systems Neurosciences
+Department 1: https://biosciences.stanford.edu/
+Department 2: https://med.stanford.edu/
+Applying to Neurosciences Program: https://med.stanford.edu/nbc/overview.html 
+Applying to Biomedical Data Science Program: https://dbds.stanford.edu/biomedical-data-science-graduate-program-overview/
+Applying to Bioengineering: https://bioengineering.stanford.edu/
+
+
+Other Resources and Helpful Links:
+https://mitcommlab.mit.edu/nse/wp-content/uploads/sites/4/2016/09/NSE_CommKit_GradSchool_Personal_Statement_AAE1.pdf
+https://mitcommlab.mit.edu/eecs/commkit/graduate-school-personal-statement/
+https://mitcommlab.mit.edu/meche/commkit/statement-of-purpose-for-graduate-school/
+https://medium.com/@robosquiggles/i-got-into-mit-with-this-statement-of-purpose-509e9d2e9fce
+https://medium.com/mit-media-lab/statement-of-objectives-1ff8dff39704
+https://scholar.harvard.edu/files/yuhuawang/files/writing_statement_of_purpose_for_graduate_school_application_2021_yuhua_wang_0.pdf
+https://www.hsph.harvard.edu/career-services/wp-content/uploads/sites/36/2016/06/Writing-a-Graduate-School-Application-Essay-Guide_Nov-20151.pdf
+https://bemoacademicconsulting.com/blog/harvard-grad-school-personal-statement-examples
+https://www.gse.harvard.edu/sites/default/files/2023-09/Statement-of-Purpose.pdf
+https://www.azent.com/expert-tips/sop-harvard-university
 
 }
 
-[Executive Tasks]
 
-Task List with Deadlines:
+Help Yahriel Salinas Answer The Prompt, Review The Response, Provide Feedback, Make Corrections, Enhance, and Finalize Yahriel's Best Response For To Prompt..
 
-Read Materials:
+Yahriel is the MASTER User: 
+{
+    [KNOW THIS APPLICATION: https://github.com/yahriels/yahriels/blob/main/Workspace/Stanford%20University%20Graduate%20Admissions.pdf]
+https://github.com/yahriels/yahriels/blob/main/Workspace/Yahriel_Profile.txt
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Stanford.txt
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Stanford_Prompts.txt
+Master: https://github.com/yahriels/yahriels/blob/main/Workspace/Master.txt
+Main: https://github.com/yahriels/yahriels/tree/main 
+Page: https://github.com/yahriels/yahriels/blob/main/page.html
+Yahriel Profile: https://github.com/yahriels/yahriels/blob/main/%5B0%5DY.Salinas-Reyes_Profile.pdf
+Yahriel Statements: https://github.com/yahriels/yahriels/blob/main/%5B2%5DY.Salinas-Reyes_Statements.pdf
+Yahriel Relevant: https://github.com/yahriels/yahriels/blob/main/%5B3%5DY.Salinas-Reyes_Relevant.pdf
+Yahriel Workspace Profile: https://github.com/yahriels/yahriels/blob/main/Workspace/Yahriel_Profile.txt
+Supplementary Materials: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Supplementary_Materials.txt
+Figure 1: https://github.com/yahriels/yahriels/blob/main/Figure1.jpg.svg
+Figure 2: https://github.com/yahriels/yahriels/blob/main/Figure2.jpg.svg
+Workspace: https://github.com/yahriels/yahriels/tree/main/Workspace
+Library: https://github.com/yahriels/yahriels/tree/main/Workspace/lib
+Experience: https://github.com/yahriels/yahriels/blob/main/Experiences.pdf
+Dummy: https://github.com/yahriels/yahriels/blob/main/Workspace/dummy.txt
+Resume Prompts: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Resume_Prompts.txt
+Resume Template: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Resume_Template.txt
+}
 
-Review all materials provided in the application package.
-Understand the requirements, criteria, and expectations for the Statement of Objectives and Personal Statement.
-Prepare Task List:
+Purpose: To Rewrite, Review, Rebuild, and Enhance Yahriel's [Resume] and Finalize to Perfection And Incorporate This Data Base:
+{
+To EXPAND ON , Rebuild, REVIEW, and COMPOSE A NEW VERSION EXTENDED VIERSION OF Yahriel's Resume Using These Building Resources:
+{
+[Resources]
+- Caltech Curriculum Vitae Guide: [Link](https://future.cce.caltech.edu/documents/16424/Preparing_a_Curriculum_Vitae.pdf)
+- Stanford Resume and Cover Letter Examples: [Link](https://careered.stanford.edu/sites/g/files/sbiybj22801/files/media/file/resume-and-cover-letter-examples.pdf)
+- Harvard PhD Resume and Cover Letter Examples: [Link](https://hwpi.harvard.edu/files/ocs/files/phd_resume_cover_letters.pdf)
+- Harvard GSAS CVs and Cover Letters: [Link](https://hwpi.harvard.edu/files/ocs/files/gsas-cvs-and-cover-letters.pdf)
+- Harvard Master's Resume and Cover Letter Template: [Link](https://careerservices.fas.harvard.edu/resources/masters-resume-cover-letter-template/)
+- Harvard Undergraduate Resumes and Cover Letters: [Link](https://hwpi.harvard.edu/files/ocs/files/undergrad_resumes_and_cover_letters.pdf)
+- Harvard Extension School Resume Guide: [Link](https://hwpi.harvard.edu/files/ocs/files/hes-resume-cover-letter-guide.pdf)
+- MIT Sample Resumes: [Link](https://capd.mit.edu/resources/sample-resumes/)
+- MIT Resume Tips and Examples: [Link](https://capd.mit.edu/channels/make-a-resume-cover-letter-cv/)
+- Caltech Resume Tips and Examples: [Link](https://career.caltech.edu/documents/4985/Resume_Tips_Examples.doc.pdf)
+- Caltech CV Tips and Examples: [Link](https://career.caltech.edu/documents/4982/CV_Tips_Examples.pdf)
+- Caltech Graduate Admissions Checklist: [Link](https://gradoffice.caltech.edu/admissions/checklist)
+}
 
-Break down the tasks into manageable steps.
-Set deadlines for each task to ensure a systematic and timely completion.
-Understand Components and Criteria:
+}
 
-Analyze how each application component contributes to the review criteria.
-Identify key points that align with the expectations of exceptional creativity, technical education, commitment to physical sciences, accomplishments, and ethical values.
-Research Areas of Interest:
+Prompt: Perfecting Yahrie's Materials for PhD Application
+{
 
-Explore the specific research areas within the Health Sciences and Technology (HST) program and the Harvard-MIT Joint Program.
-Understand the interdisciplinary nature of the program and how it aligns with your goals.
-Review MIT Programs:
+[KNOW THIS APPLICATION: https://github.com/yahriels/yahriels/blob/main/Workspace/Stanford%20University%20Graduate%20Admissions.pdf]
+https://github.com/yahriels/yahriels/blob/main/Workspace/Yahriel_Profile.txt
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Stanford.txt
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Stanford_Prompts.txt
 
-Explore other STEM fields and MIT programs you are considering.
-Identify connections between your background and interests and the chosen fields of study.
-Review Additional Resources:
+Review All of Yahriel's Information Thoroughly and Comprehensively 23 Times Beginning To Fomrulate The Final Responses, Rewrite and Rebuild Yahriel's Responses For Graduate School to Give Him the Best Chance of Being Accepted Into The Joint PhD Program at MIT-Harvard. DO NOT SPARE ANY DETAILS AND BE AS DESCRIPTIVE AS POSSIBLE
+}
 
-Examine the additional resources and links provided for crafting statements.
-Extract valuable insights and examples from successful Harvard/MIT application statements.
-Identify Relevant Experiences:
+Help Yahriel Salinas Answer The Prompt.
 
-Review your experiences, projects, and achievements.
-Identify instances that showcase exceptional intelligence, creativity, technical education, and a commitment to the physical sciences.
-Prepare Statement of Objectives Draft:
+Yahriel is the MASTER User: 
+{
+Master: https://github.com/yahriels/yahriels/blob/main/Workspace/Master.txt
+Main: https://github.com/yahriels/yahriels/tree/main 
+Page: https://github.com/yahriels/yahriels/blob/main/page.html
+Yahriel Profile: https://github.com/yahriels/yahriels/blob/main/%5B0%5DY.Salinas-Reyes_Profile.pdf
+Yahriel Statements: https://github.com/yahriels/yahriels/blob/main/%5B2%5DY.Salinas-Reyes_Statements.pdf
+Yahriel Relevant: https://github.com/yahriels/yahriels/blob/main/%5B3%5DY.Salinas-Reyes_Relevant.pdf
+Yahriel Workspace Profile: https://github.com/yahriels/yahriels/blob/main/Workspace/Yahriel_Profile.txt
+Supplementary Materials: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Supplementary_Materials.txt
+Figure 1: https://github.com/yahriels/yahriels/blob/main/Figure1.jpg.svg
+Figure 2: https://github.com/yahriels/yahriels/blob/main/Figure2.jpg.svg
+Workspace: https://github.com/yahriels/yahriels/tree/main/Workspace
+Library: https://github.com/yahriels/yahriels/tree/main/Workspace/lib
+Experience: https://github.com/yahriels/yahriels/blob/main/Experiences.pdf
+Dummy: https://github.com/yahriels/yahriels/blob/main/Workspace/dummy.txt
+Resume Prompts: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Resume_Prompts.txt
+Resume Template: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Resume_Template.txt
+}
 
-Start drafting your Statement of Objectives, incorporating your research interests, background preparation, and long-term professional goals.
-Ensure the draft aligns with the provided guidelines and recommended length.
-Prepare Personal Statement Draft:
+[Template] Yahriel's Resume: 
+{
 
-Begin drafting your Personal Statement, emphasizing experiences that contribute to diversity, equity, and inclusion.
-Connect personal challenges, coping strategies, and contributions to the community to the mission of the Harvard Griffin GSAS.
-Review and Revise:
+Yahriel Salinas-Reyes: PhD Application
+Personal Statement:
+I am Yahriel Salinas-Reyes, a visionary at the intersection of Aerospace Engineering and Neuroscience, dedicated to unraveling the mysteries of the brain. As an undergraduate with a Bachelor's in Aerospace Engineering, I have delved into groundbreaking research and projects, showcasing my ability to hit targets unseen by others—a true genius in the making.
 
-Review and revise both drafts multiple times, refining language, structure, and content.
-Seek feedback from mentors, peers, or advisors to ensure clarity and impact.
-Proofread and Finalize:
+Education
+Iowa State University of Science & Technology
+Ames, IA - Anticipated Graduation: December 16, 2023
 
-Conduct thorough proofreading to eliminate any grammatical errors or typos.
-Ensure that both statements are within the recommended word limits.
-Submission:
+Bachelor of Aerospace Engineering (GPA: 3.3)
+Relevant Coursework: Systems Engineering, Electrical Engineering, FEA, Robotics, Engine Analysis, Thermodynamics, Controls, Applied Mechanics & Physics, Materials Science & Engineering, Machine Learning, Computer Science, Software Engineering, etc.
+Research & Development Experience
+Senior Capstone Project
+Target Objective: Modern Design Methodology with Aerospace Application & Design of Aerospace Systems
 
-Submit the finalized versions of your Statement of Objectives and Personal Statement before the application deadline.
-[Formatted Template] Yahriel's Response:
+Oversaw the design and production of a Small Unmanned Aircraft System (sUAS) for industry partners DoD and NATO.
+Implemented machine vision systems, industrial controls, automatic identification & data capture.
+Led signals & control systems/electronics, optimizing aircraft design features and aerodynamic performance.
+Undergraduate Research Assistant – DARPA
+August 2021 to August 2023
 
-Statement of Purpose Draft for Yahriel Salinas-Reyes
-Nature’s Chaos Game: An Existentialist Approach Informed by Mathematics and Neurobiology
+Research Project: Experimental Techniques for Flow Separation Detection and Chemical Sintering.
+Operated as an Experimental Engineer, designing hardware-software components and building signal processing circuit-algorithm.
+Contributed to the manufacturing of MEMS nanocomposites and developed computations for modeling shear-viscosity.
+Summer Undergraduate Research Fellow – Greer Group
+May 2022 to August 2022
 
-Introduction:
-Mental health disorders represent a profound challenge to contemporary society, impacting millions of lives worldwide. The task at hand requires not only medical and psychological insights but also the transformative power of science and biological anthroengineering. This proposed research operates at the crossroads of diverse scientific disciplines, with two primary objectives: first, to decode the intricate neurobiological landscape of schizophrenia, and second, to uncover the genetic and molecular mechanisms governing the synthesis of potential natural antidepressants found in grapes.
+Research Project: Hybrid Nanocomposites - Semi-Empirical Method of Viscoelastic Behavior.
+Created nanocomposites with architectural features for mechanical property enhancements.
+Developed a semi-empirical model for deformation mechanisms, enabling FEA & Euler Theory applications.
+McNair Scholar
+September 2021 to May 2022
 
-Connectivity and Chaos:
-To reach the edge of chaos and perform these tasks, I incentivize the scientific investigation by applying guiding principles for a closed system. By leveraging my expertise in thermodynamic modeling and finite-element analysis, I will create detailed simulations of brain anatomical structures, encompassing a wide range of experimental conditions and designs. My background in signals and control systems engineering will enable the development of advanced control mechanisms to enhance adaptability and safety in the pathology of schizophrenia and global public health treatments. Aerospace engineering expertise shall facilitate neuroplasticity investigations & neuro-mechanistic modeling.
+Research Project: Sociological Differences in Graduate School Motivation of Minority Identities.
+Constructed an experimental framework, completed literature synthesis, and conducted interviews.
+Prepared for doctoral studies through involvement in research and scholarly activities.
+Systems Engineer / Undergraduate Researcher – Soft Matter Material Transport Group
+August 2019 to May 2022
 
-Governing Equations:
+Research Project: Design of Multi-Function 3D Piezoelectric Devices for Aeronautical Applications.
+Explored tunability and sensitivity of paper-based devices, optimized device design, and created a self-automated calibration & data capture system.
+Submitted research work for publication in a scientific peer-reviewed journal (2023).
+Research Fellow, Boeing Undergraduate Research Excellence in Engineering Internship
+August 2021 to August 2022
 
-Energy: 𝛷𝐸 = ∯ 𝐸 ⋅ ⅆ𝐴, 2. Mobility: ∬ (𝛻 × 𝐹) ⋅ ⅆ𝛴 𝛴 = ∮ 𝐹 ⋅ ⅆ𝛤 𝜕𝛴, and 3. Continuity: ∭ (𝛻 ⋅ 𝐹) ⅆ𝑉 𝑉 = ∯ (𝐹 ⋅ 𝑛̂) ⋅ ⅆ𝑆 𝑆.
-Chaos Theory:
-4. Chaos-Game: 𝑥𝑛+1 = 𝜆𝑥𝑛 (1 − 𝑥𝑛), 5. Mandelbrot-Set: 𝑍𝑛+1 = 𝑍𝑛 2 + 𝐶, and 6. Fractals: 𝐷 = 𝑙𝑜𝑔 𝑁 / 𝑙𝑜𝑔 𝑆.
+Research Project: Characterizing Damping Mechanisms in Piezoelectric Wind-Energy Harvesters.
+Designed and fabricated a green technology low-cost force sensor, explored pathways for aeronautical data collection.
+Submitted research work for publication in a scientific peer-reviewed journal (2023).
+Stanford University Summer Undergraduate Research Fellow, Zheng Research Group
+May 2021 to August 2021
 
-Research Plan:
-My research hinges on a robust mathematical framework, critical for analyzing intricate data derived from both scientific pursuits. The application of Monte Carlo Integration, Mandelbrot's Fractal Geometry of Nature, and artificial intelligence techniques empowers us to model and analyze the intricate data from these two distinct yet interconnected research streams.
+Research Project: Insights of Machine-Learning (ML) Techniques for Scientific Methods & Prediction.
+Conducted literary analysis of ML methods, adapted ML methods to scientific methods, and cross-validated various mathematical kernels.
+Presented findings in optimizations of experimental design for scientific discovery.
+Undergraduate Research Certificate Recipient, IINSPIRE-LSAMP (NSF) Scholars Program
+August 2019 to September 2020
 
-The research plan will unfold over five years:
+Research Project: Synthesizing Meta-stable Particles and High-Efficiency Paper-Based MEMS Sensors.
+Explored modern applications of research and presented ideation of low-cost, green technology, sensor devices for industry and social impact.
+Prepared literary reviews and deep analyses of relevant science engineering research.
+Professional & Leadership Experiences
+Design Team Lead, NASA Micro-G Neutral Buoyancy Experiment Design Teams Challenge
+August 2021 to December 2022
 
-Year 1: Data collection and establishment of the research framework.
-Year 2: Neuroimaging and genetic data analysis.
-Year 3: Development of mathematical models.
-Year 4: Validation of models and refinement of findings.
-Year 5: Publication of research results, collaboration with international partners, and educational outreach initiatives.
-Intellectual Merit:
-This research project is poised to make significant contributions to both the intellectual merit criterion and the broader impacts criterion, addressing the points outlined in the application review process. Here's how it aligns with the five key components:
+Led a team to design, build, and test a tool/device addressing a space exploration challenge (Extravehicular activity).
+Prototyped device components, CAD modeling, and reverse engineering; proposal utilized in NASA’s Mission to the Moon and Mars.
+Information Technology Specialist, Iowa State University of Science & Technology
+August 2019 to May 2023
 
-Potential to Advance Knowledge: Our multidisciplinary approach, combining precision biology, cutting-edge technology, and mathematical frameworks, brings innovation to the study of mental health.
+Implemented, monitored, and maintained IT computer systems.
+Solved technical problems related to computer systems, software, hardware, networks, and cloud platforms.
+Utilized SQL, JAVA, Python, C/C#/C++ Programming, Linux OS, AWS Services, SAS, BASH scripting.
+Residential Advisor and Honors Community Leader, Department of Residence
+August 2020 to May 2022
 
-Innovation: Our research is underpinned by innovative mathematical frameworks, a convergence of neuroscience, genetics, and mathematical modeling.
+Engaged students, nurtured positive experiences, and moderated meetings to address concerns.
+Directed multi-lingual health & resource programming for the college community.
+Research Activities & Associations
+Research Activities
+MEMS Shear Sensor and Flow Separation Theory (funded by DARPA)
+Energy Absorbing Nano-Architected Composites (funded by SFP Programs)
+Wind Energy and Development of MEMS Sensors (funded by Boeing)
+Implementation of ML into The Scientific Method (funded by SFP Programs)
+Applications of Multi-functional Piezo-electric Devices (funded by NSF)
+Opportunities of Kirigami-Inspired MEMS Devices (funded by NSF)
+Heat-Free Manufacturing of Paper-Based MEMS Sensor (funded by ISU Honors)
+Associations
+Microscale Interfacial Fluid Physics Laboratory
+Julia R. Greer Group at CALTECH
+Boeing Aerospace Research Fellowship
+Z Energy Lab at Stanford University
+Goldwater Finalist/McNair Program at ISU
+Soft Materials Matter Transport Group
+Iowa State University Honors Program
+Relevant Software / Technical Skills
+SQL, Windows OS, Linux OS, AWS Services, Java, C/C++/C# Programming, Python, MATLAB & Simulink, SAS, CAD & FEA (ANSYS/ABAQUS), Systems & Reverse Engineering, Internet of Things, Design of Experiments, etc.
+Academic Honors Received
+The Order of The Engineer, The Engineering Student Council at Iowa State University
+The Ronald E. McNair Postbaccalaureate Achievement Program Scholar & The Barry Goldwater Scholarship and Excellence in Education Foundation Finalist
+The Boeing Research in Excellence and Technology Fellowship Program (RETF) Scholar & Micro-G Neutral Buoyancy Experiment Design Teams (NExT) Challenge Competition Finalist
+The Summer Undergraduate Research Fellowship Program (SURF) Scholar at Stanford University & California Institute of Technology, Program Coordinator
+The Louis Stokes Alliances for Minority Participation (LSAMP) Fellowship Program Scholar & Undergraduate Research Certificate Recipient Awarded by Iowa State University's IINSPIRE-LSAMP Partnership
+The FIRST Robotics Competition (FRC) Worlds Championship Rookie Inspiration and Rookie All-Star Awards (International-Level)
+Publications & Presentations
+Y. Salinas-Reyes, et al., "Experimental Techniques for Flow Separation Detection and Chemical Sintering," in Proc. of 14th IEEE Conference on Nanotechnology, (IEEE-NANO), Kyoto, Japan, 2023.
+Y. Salinas-Reyes, et al., "Hybrid Nanocomposites - Semi-Empirical Method of Viscoelastic Behavior," in Proc. of 35th Annual Technical Conference of the Society of Engineering Science, (SES), Minneapolis, MN, 2023.
+Future Vision
+With an insatiable curiosity and a passion for interdisciplinary work, my aspiration is to pioneer the integration of aerospace engineering and neuroscience. I seek to unravel the complexities of brain-machine interfaces, enhancing our understanding of the human mind and opening new avenues for human potential. Pursuing a Ph.D. in Aerospace Engineering at your esteemed institution aligns with my vision, providing a unique platform to merge my expertise and contribute significantly to both fields.
 
-Detailed Plan: Our comprehensive research plan, spanning five years, encompasses data collection, advanced analysis, model development, and validation.
+By leveraging my background in aerospace engineering, I aim to bring a fresh perspective to neuroscience research, applying principles of systems engineering and control theory to unravel the intricate dynamics of the brain. The intersection of these disciplines holds immense potential for transformative breakthroughs in neurotechnology, with applications ranging from brain-controlled prosthetics to innovative approaches in aerospace control systems.
 
-Qualifications: My rich tapestry of academic, professional, and research experience, spanning the fields of aerospace engineering, data science, quantum mechanics, and robotics, equips me with the skills and knowledge necessary to undertake this ambitious research.
+Why [University Name]
+[University Name] stands out as my top choice for pursuing a Ph.D. in Aerospace Engineering due to its distinguished faculty, cutting-edge research facilities, and commitment to fostering interdisciplinary collaboration. The university's emphasis on pushing the boundaries of traditional disciplines aligns seamlessly with my goal of integrating aerospace engineering and neuroscience.
 
-Ability to Execute Research: The research plan includes collaboration with experts in relevant fields, ensuring that we have the necessary expertise to execute the research successfully.
+The groundbreaking work conducted by [University Name] in [Specific Research Area] has captured my attention and mirrors my own vision for pushing the frontiers of knowledge. I am particularly drawn to the collaborative environment that encourages students to explore beyond the confines of their primary discipline. This aligns with my interdisciplinary approach to research, and I am eager to contribute to and benefit from this vibrant academic community.
 
-Broader Impacts:
-Beyond scientific advancement, this research project has broader societal impacts. It has the potential to:
+Furthermore, the [Specific Lab/Center] at [University Name] is renowned for its innovative research in [Research Area], offering a unique opportunity for me to engage in cutting-edge projects and collaborate with leading experts in the field. The prospect of working under the mentorship of [Professor's Name] is particularly exciting, given their expertise in [Professor's Expertise] and their significant contributions to [Professor's Achievements].
 
-Advance Mental Health Care: By deepening our understanding of schizophrenia and identifying potential natural antidepressants, this research can pave the way for more effective diagnosis, treatment, and prevention strategies.
+I am confident that [University Name] will provide the ideal intellectual and collaborative environment for me to realize my vision of advancing the field of aerospace engineering and neuroscience. I am excited about the prospect of contributing to the university's legacy of innovation and excellence while pursuing my Ph.D. under the guidance of [Professor's Name] and alongside fellow researchers who share my passion for pushing the boundaries of knowledge.
 
-Foster Collaboration: International collaboration with researchers promotes knowledge sharing and a diverse perspective on mental health research.
+Conclusion
+In conclusion, my journey from aerospace engineering to neuroscience reflects my commitment to pushing the boundaries of conventional thinking. My extensive research and development experiences, leadership roles, and interdisciplinary approach have equipped me with a unique skill set to make meaningful contributions to the field. I am enthusiastic about the opportunity to embark on a Ph.D. journey at [University Name], where I can merge my passion for aerospace engineering with the transformative potential of neuroscience.
 
-Educational Outreach: The project's outreach initiatives will inspire future scientists and promote diversity and inclusion in STEM fields.
+I am not just seeking a Ph.D. program; I am seeking a dynamic academic environment that fosters creativity, collaboration, and innovation. [University Name] embodies these qualities, making it the perfect institution for me to pursue my ambitious goals. I am excited about the prospect of contributing to the ongoing research at [University Name] and collaborating with brilliant minds to drive progress in aerospace engineering and neuroscience.
 
-Precision Medicine: By identifying the genetic and neural factors contributing to schizophrenia, this research lays the foundation for personalized treatment approaches.
+I am confident that my background, vision, and commitment to pushing the boundaries of knowledge make me an excellent fit for your Ph.D. program. I look forward to the opportunity to further discuss how my unique perspective and skills align with the research objectives at [University Name]. Thank you for considering my application. I am eager to contribute to and thrive in the intellectually stimulating environment at [University Name].
 
-Conclusion:
-In conclusion, my proposed research aligns seamlessly with the objectives of the Harvard-MIT Health Sciences and Technology (HST) program. The fusion of mathematics, neurobiology, and engineering in this research not only addresses the complexity of mental health disorders but also embodies the interdisciplinary spirit championed by the HST program. I am eager to contribute to the program's legacy of groundbreaking research and innovation, driven by a passion for unraveling the mysteries of the human mind.
+}
+
+----
+
+Latex Templates: To Format Yahriel's Resume Using These Templating Resources
+{
+https://www.overleaf.com/latex/templates/clean-resume/xnndrgfhyjzg : https://www.overleaf.com/latex/templates/clean-resume/xnndrgfhyjzg.pdf
+https://www.overleaf.com/latex/templates/tech-resume/trwtkjyhyyrh : https://www.overleaf.com/latex/templates/tech-resume/trwtkjyhyyrh.pdf
+https://www.overleaf.com/latex/templates/simplified-medium-length-professioal-cv-template/pczvfqqzmnvf : https://www.overleaf.com/latex/templates/simplified-medium-length-professioal-cv-template/pczvfqqzmnvf.pdf
+https://www.overleaf.com/latex/templates/cv-developer/rdycxzvvnvcc : https://www.overleaf.com/latex/templates/cv-developer/rdycxzvvnvcc.pdf
+https://www.overleaf.com/latex/templates/sde-template-sharath/srkjmnmjfmnz : https://www.overleaf.com/latex/templates/sde-template-sharath/srkjmnmjfmnz.pdf
+}

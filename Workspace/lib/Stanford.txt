@@ -1,3 +1,148 @@
+Yahriel Personal Background: Native American Heritage from Latin-Central America and Indigenous Americas. This is also exemplified in my status as a triple citizen of the USA, El Salvador, and Mexico. My given name, "Yahriel," traces its origins to Ancient Hebrew Language. When translated from Arabic it reads: *~"Yahriel: He (that) is Free."*
+
+MASTER Field of Study: Aerospace, Aeronautical, & Astronautical/Space Engineering, General; Applied Aerospace/Aeronautics/Aviation Science & Technology, General; Applied Behavior & Risk Analysis, General. Minors: American Indian/Native American Languages, Literatures, & Linguistics; Bilingual, Multi-lingual, & Multicultural Education, Other.
+
+
+Fields To Edit:
+{
+
+Personal Information:
+> PROMPT: If you wish, you may share additional information about your parent(s)/guardian(s)’ educational background and/or your socioeconomic background, THE REPONSE SHOULD BE IN BETWEEEN 135 and 150 TOTAL CHARACTERS EXACTLY. 
+> RESPONSE: As I was born with deafness & alogia with undocumented immigrant refugee parents, my journey has been marked by the challenges of ADHD, PTSD, Anxiety, Autism, and Beyond. These neurological complexities, instead of hindrances, have fueled my academic pursuits; As I overcame, I found my voice (Bilingual). Throughout my academic journey, I danced on the edge of madness, where imagination and practicality intertwined. Occasionally, sensory wonder and chaos enveloped me, leading to profound insights into the world. My blend of scientific rigor and artistic sensibility. My experiences have shaped my academic journey and aspirations. I am passionate about fractal mathematics and its parallels with the complexity of the human mind.
+
+Academic History Questions:
+> PROMPT: If applicable, please provide an explanation of any gaps on your transcript indicating time away from your post-secondary institution(s) or program(s).
+> RESPONSE: As I was born with deafness & alogia with undocumented immigrant refugee parents, my journey has been marked by the challenges of ADHD, PTSD, Anxiety, Autism, and Beyond. These neurological complexities, instead of hindrances, have fueled my academic pursuits; As I overcame, I found my voice (Bilingual). Throughout my academic journey, I danced on the edge of madness, where imagination and practicality intertwined. Occasionally, sensory wonder and chaos enveloped me, leading to profound insights into the world. My blend of scientific rigor and artistic sensibility. My experiences have shaped my academic journey and aspirations. I am passionate about fractal mathematics and its parallels with the complexity of the human mind.
+
+> PROMPT: Use the space below if you would like to provide further contextual information about any aspect of your transcript, e.g., the impact of the COVID-19 pandemic or other personal experiences on your educational opportunities or achievements.
+> RESPONSE: Formidable challenges & barriers have shaped my path. From early neurological & neurodevelopmental hurdles to external obstacles like financial difficulties, language barriers, health issues, & caregiving responsibilities, my journey has been marked by adversity. Yet, my response to these challenges has been remarkable. I embraced my unique identity & unwavering belief in the world's inherent goodness. I continued to read voraciously, seeking hidden truths even in seemingly flawed books. I've adhered to a strict code of chivalry, bridged language gaps through translation, & found solace in poetry, music, and science-art fusion. To the core, I've discovered my true self, a living testament to the boundless-curious human spirit & ingenuity.
+
+Describe an Interesting Biological or Biomedical Problem: 
+> PRONPT: Please describe one unsolved biological or biomedical problem that you find interesting and explain why. It does not have to be related to your significant research project or any of your prior work. Your answer is not binding.
+> RESPONSE: Schizophrenia's profound impact on individuals and society has drawn me into its captivating realm. This intricate mental disorder, which disrupts perception, thinking, and behavior, holds immense significance for both science and psychiatry, affecting millions globally. Understanding it has far-reaching implications. Scientifically, unraveling schizophrenia involves studying genetics, neurobiology, and environmental factors. This multidisciplinary approach combines genetics, neuroscience, psychology, and computational modeling to gain insights and develop better tools and treatments. Recent technological advancements, like fMRI and PET scans, visualize brain abnormalities, aiding biomarker identification. Beyond the scientific realm, schizophrenia exerts a profound societal impact. Individuals grappling with schizophrenia encounter formidable personal and professional challenges, while their families and communities extend vital support and care. In conclusion, schizophrenia presents an enthralling and formidable avenue for scientific exploration with profound implications for psychiatry. My expertise in data analysis, collaborative research, and dedication to mentorship align seamlessly with the skills essential to make a substantial impact in this field and underscore my capacity to apply rigorous analytical techniques to intricate problems. This aptitude is poised to play a pivotal role in investigating the intricate biological and genetic facets of schizophrenia (4 characters remaining).
+
+Foundations of Graduate Study, For each of the following areas, please describe your experience, as acquired through coursework, research, or other projects, or your plans for obtaining or expanding such experience, ideally before starting your PhD: 
+> PROMPT: Multivariate Mathematics (including Calculus and Linear Algebra)
+> RESPONSE: Multivariate Mathematics: Throughout my undergraduate studies in Aerospace Engineering, I completed rigorous coursework in Calculus and Linear Algebra. These courses provided me with a solid understanding of multivariate mathematics, including concepts such as vector calculus, partial derivatives, and matrix operations. Additionally, I have applied these mathematical principles in various research projects, such as my work on the design of multi-function 3D piezoelectric devices for aeronautical applications. This experience has allowed me to develop a practical understanding of how multivariate mathematics can be applied to real-world engineering problems (85 characters remaining).
+
+Probability and Statistics: 
+> PROMPT: Probability and Statistics: I have a strong background in probability and statistics, which I have acquired through both coursework and research. 
+> RESPONSE: In my undergraduate studies, I completed advanced courses in probability theory and statistical analysis. I have also applied these concepts in my research projects, such as my work on characterizing damping mechanisms in piezoelectric wind-energy harvesters. I have experience in data collection, analysis, and interpretation, and I am proficient in statistical software packages such as R and Python. I am confident in my ability to apply statistical methods to analyze complex data sets and draw meaningful conclusions (82 characters remaining).
+
+Computation (including fundamentals of computer science and software engineering): 
+> Computation: I have a solid foundation in the fundamentals of computer science and software engineering. In addition to coursework in programming languages such as C++ and Java, I have practical experience in coding through my research projects. I have utilized computational fluid dynamics (CFD) simulations, developed data capture systems, and assisted graduate students with computer technology capabilities. I am proficient in MATLAB, Python, and other programming languages commonly used in scientific research. My experience in computation has allowed me to effectively analyze and visualize data, as well as develop computational models to solve complex engineering problems (68 characters remaining).
+
+Additional Information: 
+> PROMPT: You may use this section to provide additional information that was not covered by the questions in the application. 
+> RESPONSE: 
+
+}
+
+[Executive Tasks]
+
+Task List with Deadlines:
+
+Read Materials:
+
+Review all materials provided in the application package.
+Understand the requirements, criteria, and expectations for the Statement of Objectives and Personal Statement.
+Prepare Task List:
+
+Break down the tasks into manageable steps.
+Set deadlines for each task to ensure a systematic and timely completion.
+Understand Components and Criteria:
+
+Analyze how each application component contributes to the review criteria.
+Identify key points that align with the expectations of exceptional creativity, technical education, commitment to physical sciences, accomplishments, and ethical values.
+Research Areas of Interest:
+
+Explore the specific research areas within the Health Sciences and Technology (HST) program and the Harvard-MIT Joint Program.
+Understand the interdisciplinary nature of the program and how it aligns with your goals.
+Review MIT Programs:
+
+Explore other STEM fields and MIT programs you are considering.
+Identify connections between your background and interests and the chosen fields of study.
+Review Additional Resources:
+
+Examine the additional resources and links provided for crafting statements.
+Extract valuable insights and examples from successful Harvard/MIT application statements.
+Identify Relevant Experiences:
+
+Review your experiences, projects, and achievements.
+Identify instances that showcase exceptional intelligence, creativity, technical education, and a commitment to the physical sciences.
+Prepare Statement of Objectives Draft:
+
+Start drafting your Statement of Objectives, incorporating your research interests, background preparation, and long-term professional goals.
+Ensure the draft aligns with the provided guidelines and recommended length.
+Prepare Personal Statement Draft:
+
+Begin drafting your Personal Statement, emphasizing experiences that contribute to diversity, equity, and inclusion.
+Connect personal challenges, coping strategies, and contributions to the community to the mission of the Harvard Griffin GSAS.
+Review and Revise:
+
+Review and revise both drafts multiple times, refining language, structure, and content.
+Seek feedback from mentors, peers, or advisors to ensure clarity and impact.
+Proofread and Finalize:
+
+Conduct thorough proofreading to eliminate any grammatical errors or typos.
+Ensure that both statements are within the recommended word limits.
+Submission:
+
+Submit the finalized versions of your Statement of Objectives and Personal Statement before the application deadline.
+[Formatted Template] Yahriel's Response:
+
+Statement of Purpose Draft for Yahriel Salinas-Reyes
+Nature’s Chaos Game: An Existentialist Approach Informed by Mathematics and Neurobiology
+
+Introduction:
+Mental health disorders represent a profound challenge to contemporary society, impacting millions of lives worldwide. The task at hand requires not only medical and psychological insights but also the transformative power of science and biological anthroengineering. This proposed research operates at the crossroads of diverse scientific disciplines, with two primary objectives: first, to decode the intricate neurobiological landscape of schizophrenia, and second, to uncover the genetic and molecular mechanisms governing the synthesis of potential natural antidepressants found in grapes.
+
+Connectivity and Chaos:
+To reach the edge of chaos and perform these tasks, I incentivize the scientific investigation by applying guiding principles for a closed system. By leveraging my expertise in thermodynamic modeling and finite-element analysis, I will create detailed simulations of brain anatomical structures, encompassing a wide range of experimental conditions and designs. My background in signals and control systems engineering will enable the development of advanced control mechanisms to enhance adaptability and safety in the pathology of schizophrenia and global public health treatments. Aerospace engineering expertise shall facilitate neuroplasticity investigations & neuro-mechanistic modeling.
+
+Governing Equations:
+
+Energy: 𝛷𝐸 = ∯ 𝐸 ⋅ ⅆ𝐴, 2. Mobility: ∬ (𝛻 × 𝐹) ⋅ ⅆ𝛴 𝛴 = ∮ 𝐹 ⋅ ⅆ𝛤 𝜕𝛴, and 3. Continuity: ∭ (𝛻 ⋅ 𝐹) ⅆ𝑉 𝑉 = ∯ (𝐹 ⋅ 𝑛̂) ⋅ ⅆ𝑆 𝑆.
+Chaos Theory:
+4. Chaos-Game: 𝑥𝑛+1 = 𝜆𝑥𝑛 (1 − 𝑥𝑛), 5. Mandelbrot-Set: 𝑍𝑛+1 = 𝑍𝑛 2 + 𝐶, and 6. Fractals: 𝐷 = 𝑙𝑜𝑔 𝑁 / 𝑙𝑜𝑔 𝑆.
+
+Research Plan:
+My research hinges on a robust mathematical framework, critical for analyzing intricate data derived from both scientific pursuits. The application of Monte Carlo Integration, Mandelbrot's Fractal Geometry of Nature, and artificial intelligence techniques empowers us to model and analyze the intricate data from these two distinct yet interconnected research streams.
+
+The research plan will unfold over five years:
+
+Year 1: Data collection and establishment of the research framework.
+Year 2: Neuroimaging and genetic data analysis.
+Year 3: Development of mathematical models.
+Year 4: Validation of models and refinement of findings.
+Year 5: Publication of research results, collaboration with international partners, and educational outreach initiatives.
+Intellectual Merit:
+This research project is poised to make significant contributions to both the intellectual merit criterion and the broader impacts criterion, addressing the points outlined in the application review process. Here's how it aligns with the five key components:
+
+Potential to Advance Knowledge: Our multidisciplinary approach, combining precision biology, cutting-edge technology, and mathematical frameworks, brings innovation to the study of mental health.
+
+Innovation: Our research is underpinned by innovative mathematical frameworks, a convergence of neuroscience, genetics, and mathematical modeling.
+
+Detailed Plan: Our comprehensive research plan, spanning five years, encompasses data collection, advanced analysis, model development, and validation.
+
+Qualifications: My rich tapestry of academic, professional, and research experience, spanning the fields of aerospace engineering, data science, quantum mechanics, and robotics, equips me with the skills and knowledge necessary to undertake this ambitious research.
+
+Ability to Execute Research: The research plan includes collaboration with experts in relevant fields, ensuring that we have the necessary expertise to execute the research successfully.
+
+Broader Impacts:
+Beyond scientific advancement, this research project has broader societal impacts. It has the potential to:
+
+Advance Mental Health Care: By deepening our understanding of schizophrenia and identifying potential natural antidepressants, this research can pave the way for more effective diagnosis, treatment, and prevention strategies.
+
+Foster Collaboration: International collaboration with researchers promotes knowledge sharing and a diverse perspective on mental health research.
+
+Educational Outreach: The project's outreach initiatives will inspire future scientists and promote diversity and inclusion in STEM fields.
+
+Precision Medicine: By identifying the genetic and neural factors contributing to schizophrenia, this research lays the foundation for personalized treatment approaches.
+
+Conclusion:
+In conclusion, my proposed research aligns seamlessly with the objectives of the Harvard-MIT Health Sciences and Technology (HST) program. The fusion of mathematics, neurobiology, and engineering in this research not only addresses the complexity of mental health disorders but also embodies the interdisciplinary spirit championed by the HST program. I am eager to contribute to the program's legacy of groundbreaking research and innovation, driven by a passion for unraveling the mysteries of the human mind.
+
 
 Yahriel Salinas-Reyes: PhD Application
 Personal Statement:
