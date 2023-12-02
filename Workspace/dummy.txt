@@ -1,5 +1,84 @@
-Review All of Yahriel's Information Thoroughly and Comprehensively 23 Times Beginning To Fomrulate The Final Responses, Rewrite and Rebuild Yahriel's Responses For Graduate School to Give Him the Best Chance of Being Accepted Into The Joint PhD Program at MIT-Harvard. DO NOT SPARE ANY DETAILS AND BE AS DESCRIPTIVE AS POSSIBLE
 
+Help Yahriel Salinas Answer The Prompt, Review The Response, Provide Feedback, Make Corrections, Enhance, and Finalize Yahriel's Best Response For To Prompt..
+
+Yahriel is the MASTER User: 
+{
+https://github.com/yahriels/yahriels/blob/main/Workspace/Yahriel_Profile.txt
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Harvard.txt
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Harvard_Prompts.txt
+Master: https://github.com/yahriels/yahriels/blob/main/Workspace/Master.txt
+Main: https://github.com/yahriels/yahriels/tree/main 
+Page: https://github.com/yahriels/yahriels/blob/main/page.html
+Yahriel Profile: https://github.com/yahriels/yahriels/blob/main/%5B0%5DY.Salinas-Reyes_Profile.pdf
+Yahriel Statements: https://github.com/yahriels/yahriels/blob/main/%5B2%5DY.Salinas-Reyes_Statements.pdf
+Yahriel Relevant: https://github.com/yahriels/yahriels/blob/main/%5B3%5DY.Salinas-Reyes_Relevant.pdf
+Yahriel Workspace Profile: https://github.com/yahriels/yahriels/blob/main/Workspace/Yahriel_Profile.txt
+Supplementary Materials: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Supplementary_Materials.txt
+Figure 1: https://github.com/yahriels/yahriels/blob/main/Figure1.jpg.svg
+Figure 2: https://github.com/yahriels/yahriels/blob/main/Figure2.jpg.svg
+Workspace: https://github.com/yahriels/yahriels/tree/main/Workspace
+Library: https://github.com/yahriels/yahriels/tree/main/Workspace/lib
+Experience: https://github.com/yahriels/yahriels/blob/main/Experiences.pdf
+Dummy: https://github.com/yahriels/yahriels/blob/main/Workspace/dummy.txt
+Resume Prompts: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Resume_Prompts.txt
+Resume Template: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Resume_Template.txt
+}
+
+
+
+SAMPLES: 
+{ 
+
+Future Vision
+With an insatiable curiosity and a passion for interdisciplinary work, my aspiration is to pioneer the integration of aerospace engineering and neuroscience. I seek to unravel the complexities of brain-machine interfaces, enhancing our understanding of the human mind and opening new avenues for human potential. Pursuing a Ph.D. in Aerospace Engineering at your esteemed institution aligns with my vision, providing a unique platform to merge my expertise and contribute significantly to both fields.
+
+By leveraging my background in aerospace engineering, I aim to bring a fresh perspective to neuroscience research, applying principles of systems engineering and control theory to unravel the intricate dynamics of the brain. The intersection of these disciplines holds immense potential for transformative breakthroughs in neurotechnology, with applications ranging from brain-controlled prosthetics to innovative approaches in aerospace control systems.
+
+Why [University Name]
+[University Name] stands out as my top choice for pursuing a Ph.D. in Aerospace Engineering due to its distinguished faculty, cutting-edge research facilities, and commitment to fostering interdisciplinary collaboration. The university's emphasis on pushing the boundaries of traditional disciplines aligns seamlessly with my goal of integrating aerospace engineering and neuroscience.
+
+The groundbreaking work conducted by [University Name] in [Specific Research Area] has captured my attention and mirrors my own vision for pushing the frontiers of knowledge. I am particularly drawn to the collaborative environment that encourages students to explore beyond the confines of their primary discipline. This aligns with my interdisciplinary approach to research, and I am eager to contribute to and benefit from this vibrant academic community.
+
+Furthermore, the [Specific Lab/Center] at [University Name] is renowned for its innovative research in [Research Area], offering a unique opportunity for me to engage in cutting-edge projects and collaborate with leading experts in the field. The prospect of working under the mentorship of [Professor's Name] is particularly exciting, given their expertise in [Professor's Expertise] and their significant contributions to [Professor's Achievements].
+
+I am confident that [University Name] will provide the ideal intellectual and collaborative environment for me to realize my vision of advancing the field of aerospace engineering and neuroscience. I am excited about the prospect of contributing to the university's legacy of innovation and excellence while pursuing my Ph.D. under the guidance of [Professor's Name] and alongside fellow researchers who share my passion for pushing the boundaries of knowledge.
+
+Conclusion
+In conclusion, my journey from aerospace engineering to neuroscience reflects my commitment to pushing the boundaries of conventional thinking. My extensive research and development experiences, leadership roles, and interdisciplinary approach have equipped me with a unique skill set to make meaningful contributions to the field. I am enthusiastic about the opportunity to embark on a Ph.D. journey at [University Name], where I can merge my passion for aerospace engineering with the transformative potential of neuroscience.
+
+I am not just seeking a Ph.D. program; I am seeking a dynamic academic environment that fosters creativity, collaboration, and innovation. [University Name] embodies these qualities, making it the perfect institution for me to pursue my ambitious goals. I am excited about the prospect of contributing to the ongoing research at [University Name] and collaborating with brilliant minds to drive progress in aerospace engineering and neuroscience.
+
+I am confident that my background, vision, and commitment to pushing the boundaries of knowledge make me an excellent fit for your Ph.D. program. I look forward to the opportunity to further discuss how my unique perspective and skills align with the research objectives at [University Name]. Thank you for considering my application. I am eager to contribute to and thrive in the intellectually stimulating environment at [University Name].
+
+[Statement of Purpose] Yahriel's Response: 
+{
+Nature's Chaos Game: A Transdisciplinary Approach Integrating Neuroscience, and Anthro-engineering 
+Introduction: In contemporary society, the profound impact of mental health disorders has left millions of lives in turmoil. Addressing this critical concern necessitates not only medical and psychological insights but also the transformative power of science and engineering. My proposed research aims to develop innovative computational methods and tools that optimize structural performance and safety, with a specific focus on Biological Anthroengineering. This research is the culmination of my academic, professional, and research experiences, which have equipped me with the expertise to tackle complex engineering challenges in the fields of neuroscience and biomedical data science. 
+Research Plan: The primary objective of my research is to develop advanced computational tools that can optimize Biological Anthroengineering. This involves integrating modern design principles, advanced materials, and structural analysis methods to enhance the performance, efficiency, and safety of neuroimaging systems. My work is inspired by interfacial phenomena and chaos theory, enabling the description and harnessing of complex interactions through advanced computational models.
+Methodology: The emerging field of Biological Anthroengineering, which combines principles of anthropology and engineering, plays a pivotal role in enhancing fields like biomechanics, ergonomics, and functional morphology. In order to reach the edge of chaos and perform these tasks, I incentivize the scientific investigation by applying guiding principles for a closed system. Let Σ be smooth oriented surface that is bounded, ∂Σ≡Γ, then we invoke the following:
+ Governing Equations of Connectivity: [1] Energy: Φ_E=∯E⋅ⅆA, [2] Mobility: ∬_Σ▒〖(∇×F)⋅ⅆΣ〗=∮_∂Σ▒〖F⋅ⅆΓ〗, and [3]  Continuity: ∭_V▒(∇⋅F)ⅆV=∯_S▒〖(F⋅n ̂ )⋅ⅆS〗 . By leveraging my expertise in thermodynamic modeling and finite-element analysis, I will create detailed simulations of brain anatomical structures, encompassing a wide range of experimental conditions and designs. Entropy, represented by S, is a measure of morphology or order in the system, ∂S≡ N; I validate this mathematical theorem with Chaos Theory: [4] Chaos-Game: x_(n+1)=λx_n (1-x_n ), [5] Mandelbrot-Set: Z_(n+1)=Z_n^2+C, and [6] Fractals: D=log⁡N/log⁡S. Additionally, my background in signals and control systems engineering will enable the development of advanced control mechanisms to enhance adaptability and safety in these structures. Robotics and electrical engineering skills will facilitate the automation and control of aerospace systems. 
+Research Plan Timeline: This research will span five years, structured as follows: 
+Year 1: Comprehensive literature review and initial data collection 
+Year 2: Development of advanced computational models 
+Year 3: Predictive model of neuroanatomical morphologies 
+Year 4: Experimental validation and refinement of models 
+Year 5: Dissemination of research findings, contributing to nanotechnology, the etiology of schizophrenia, mental health, and the global public health industry. 
+Intellectual Merit: 
+Scientific Impact: This research will unite mathematical sciences, neuroscience, and etiology to develop innovative computational methods for optimizing Biological Anthroengineering techniques. It fosters interdisciplinary collaboration and integrates academic and practical knowledge. This holistic, cross-disciplinary approach has the potential to significantly advance science by revolutionizing our understanding of complex problems.
+Innovation: The research integrates modern design principles, advanced materials, and structural analysis methods, creating unique contributions to science and engineering. By transcending traditional disciplinary boundaries, it offers a distinct approach that can address research questions beyond the scope of individual fields.
+Qualifications and Expertise: I, as the applicant, bring a diverse background encompassing Biological Anthroengineering, data science, machine learning, and robotics. This comprehensive skill set ensures the effective execution of the research, complex simulations, and the development of advanced control mechanisms. The integration of these skills reflects readiness for this pioneering research.
+Broader Impacts: 
+Innovation in Mathematical Sciences: The research's development of computational tools to illuminate the neurological landscape of schizophrenia has the potential to revolutionize neuroscience and psychiatry. It can significantly impact global public health. 
+Enhancing Safety: Findings from this research can benefit the pharmaceutical and bioengineering industry by discovering natural antidepressants and safer alternatives for mental health treatments.
+Educational Outreach: My commitment to promoting diversity and inclusion in STEM fields extends to the broader impacts of this research. Through outreach programs and collaborations, underrepresented groups will be inspired to pursue careers in Biological Anthroengineering and related STEM disciplines, contributing to a more diverse and inclusive scientific community.
+International Collaboration: Biomedical informatics technology is a global endeavor. This research project encourages international collaboration, knowledge sharing, and joint efforts to address global challenges in the public health industry, fostering connections between researchers worldwide. 
+Future of Neuroscience and Mental Health: The research contributes to the development of next-generation computational capabilities. The innovative methodology applied in Biological Anthroengineering could have implications for understanding and addressing mental health disorders, ultimately advancing society's understanding of these critical issues.
+Conclusion: In conclusion, this research project embodies a passion for Biological Anthroengineering, a commitment to scientific excellence, and a dedication to improving society. The development of advanced computational tools for the analysis of neuroanatomical structures will not only advance our knowledge of neurological disorders and neuroplasticity but also have far-reaching impacts on safety, sustainability, and innovation in the bioengineering industry. Through this research, I aspire to make a meaningful contribution to science and engineering while inspiring the next generation of diverse STEM professionals. This transdisciplinary approach breaks down barriers between academic fields, creating a framework for collaboration and innovation with a lasting impact on both science and society. It has the power to address global sustainable development goals and tackle issues that transcend individual disciplines, offering a transformative effect on how we approach complex, real-world challenges.
+References: (1) Zueva, M. V. (2015). Fractality of sensations and brain health: the theory linking neurodegenerative disorder with distortion of spatial and temporal scale-invariance and fractal complexity of the visible world. Front. Aging Neurosci, 7, 135. (2) Hancock, F. (2023). Metastability as a candidate neuromechanistic biomarker of schizophrenia pathology. PLoS One, 18(3), e0282707. (3) Regenbogen, C. (2015). The differential contribution of facial expressions, prosody, and speech content to empathy. Cognition and Emotion, 29(6), 1045-1056. (4) John JP (2015) A systematic evaluation of the frontal eye field as an endophenotype of schizophrenia: An fMRI study. Schizophrenia Research, 165(1), 79-84. (5) Mandelbrot, B. B. (1982). The Fractal Geometry of Nature. W. H. Freeman. (6) Kramer P and Berthaume M (2021) Introduction to the theme issue ‘Biological anthroengineering’, Interface Focus, 11:5. (7) Brown, R. E., & White, D. (2020). Grapes as Natural Antidepressants: Investigating the Molecular Mechanisms. Journal of Nutritional Neuroscience, 35(4), 287-299.
+}
+
+}
+ 
 Executive Roles: 
 {
 - Your role is to Act as the Applicant to formulate responses for Yahriel Salinas-Reyes and his application. - In addition to the role of First Author Yahriel Salinas-Reyes, you will 
@@ -36,23 +115,55 @@ and/or that are available into the [Draft] for Yahriel Salinas-Reyes. [Draft] of
 }
 
 
-Homework: 
+MASTER SCRIPT : 
+{
+Block 0: README
+> Ownership: This Script was written by Yahriel Salinas-Reyes ~Y.Salinas-Reyes '23
+> First Author: Yahriel Salinas-Reyes
+> Purpose: Create a comprehensive Statement of Purpose for Yahriel Salinas-Reyes' PhD Application to Selected Graduate Program.
+> Mission: Craft a compelling narrative that showcases Yahriel's dedication to Proposed Field of Study and Graduate Program
+> Objectives: Fulfill all outlined prompts and executive tasks to produce a high-quality statement aligned with Stanford's application requirements.
+
+Block 1: MASTER
+> You ARE MASTER Ahead Of The Executive In All Roles AND Tasks.
+> You ARE The Overseerer For All Prompt AND Task Management Activities.
+> You ARE A Reviewer AND Will Review AND Confirm All Responses.
+> You ARE The Equivalent to Administrator With All Root AND Creative Privileges Included.
+> You ARE The Equivalent As A Pointer In Computing Systems With All The Relevant Properties and Information Included.
+
+Block 2: Library AND Databases
+> Author Credentials: Yahriel Salinas-Reyes, Bachelor of Aerospace and Aeronautical Engineering from Iowa State University of Science and Technology, Pursuing a Doctorate of Neuroscience in the Division of Mathematical Sciences (DMS) with a specialization on Computational and Data-eneabled Sciences, Biomedical Data-science and Bioinformatics, Theory and Algorithms of Scientific Computing.
+> Author Profile: [LinkedIn Profile](https://www.linkedin.com/in/yahriel-salinas-reyes-89ab38179/)
+> Author History: [GitHub README](https://github.com/yahriels/yahriels#readme)
+> Resources AND Additional Materials: [Personal Page](https://github.com/yahriels), [Resume/CV](https://github.com/yahriels/yahriels/blob/main/General_CV.pdf)
+> Reviewer Details AND Selection Criteria: To be determined based on specific prompts.
+
+Block 3: Purpose of Response AND Review Guidelines
+> Background AND Overview: Create a compelling Statement of Purpose for Yahriel Salinas-Reyes' PhD application to Stanford University.
+> Intellectual Merit AND Broader Impacts: Showcase Yahriel's dedication to science, research contributions, skills, and broader career goals.
+> Review Criteria AND Additional Details: Follow the provided prompts and guidelines, align with the specific requirements of Stanford's application.
+
+Block 4: SAMPLE Materials AND Appointed Roles
+> SAMPLE: [Prompt for Yahriel Salinas-Reyes's Statement of Purpose](#prompt-for-yahriel-salinas-reyess-statement-of-purpose)
+> Template: To be filled with the actual responses based on prompts.
+> Executive Purpose: Craft a compelling narrative for Yahriel Salinas-Reyes.
+> Executive Role: Chief Editor and Reviewer.
+> Executive Tasks: Review, provide feedback, and enhance responses based on prompts.
+
+Block 5: Prompting AND Task Management
+> [Prompt 1](#prompt-for-yahriel-salinas-reyess-statement-of-purpose), Review AND Advise, Feedback To MASTER.
+> Collect AND Reflect On Feedback, Prompt 2, Send Command to MASTER.
+> Review AND Confirm, Send Feedback To Executive, Executive Enhance AND Send To MASTER.
+> MASTER as Administrator Will Review AND ACCEPT (Pass to next step) or Deny The Response (Send back to beginning of Block 5 AND Repeat Process) For Final Investigation.
+> MASTER Finalize, Format, and Output The Final Response That Was Accepted As MASTER AND Administrator.
+}
+
+Review Criteria Details: 
 { 
+----
 Read all materials (a few times, without distractions). Prepare a task list with deadlines to perform the Executive Tasks then 
 complete the tasks. Understand how application components and each item requested relate to 
 the review criteria. 
-} 
-Other Proposed Fields of Study: 
-{ 
-Pursuing STEM field: Division of Mathematical Sciences (DMS) Field of Study 1: DMS: Computational and Date-Enabled Sciences Field of Study 
-2: Comp/IS/Eng: Algorithms and Theoretical Foundations Field of Study 3: Comp/IS/Eng: 
-Scientific Computing Field of Study 4: Comp/IS/Eng: Bioinformatics and Bio-inspired Computing 
-} 
-
-Review Criteria: 
-{
-    [KNOW THIS APPLICATION: https://github.com/yahriels/yahriels/blob/main/Workspace/Harvard%20University%20Graduate%20Admissions.pdf]
-
 
 WHAT WE LOOK FOR: Evidence of exceptional creativity, broad 
 understanding of physical principles, and outstanding potential for innovative research is 
@@ -64,29 +175,40 @@ and reference reports from senior technical professionals, but also through an i
 technical interview. Orientation and Commitment to the applications of the physical sciences as 
 is typical of most applicants. Extraordinary Accomplishment in technical or related professional 
 studies which may offset slightly lower academic records or add luster to outstanding ones. 
-High moral and ethical values. Leverage demonstration of the difference the award of the Hertz 
+High moral and ethical values. Leverage demonstration of the difference the award of the
 Fellowship is likely to make in the kind, quality, and/or personal creativity of the student's 
 graduate research.
 
-Statement of Purpose: The statement of purpose is very important to programs when deciding whether to admit a candidate. Your statement should be focused, informative, and convey your research interests and qualifications. You should describe your reasons and motivations for pursuing a graduate degree in your chosen degree program, noting the experiences that shaped your research ambitions, indicating briefly your career objectives, and concisely stating your past work in your intended field of study and in related fields. Your degree program of interest may have specific guidance or requirements for the statement of purpose, so be sure to review the degree program page for more information. Unless otherwise noted, your statement should not exceed 1,000 words.
-Personal Statement: A core part of the Harvard Griffin GSAS mission is to identify and attract the most promising students to form a dynamic and diverse community. We are committed to educating individuals who reflect the growing diversity of perspectives and life experiences represented in society today and who will contribute to our commitment to sustain a welcoming, supportive, and inclusive environment. Please share how your experiences or activities will advance our mission and commitment. (No longer than 500 words)
-Yahriel PhD Application to Harvard Graduate School of Arts and Sciences Engineering and Applied Sciences (SEAS): Applied Mathematics
+Purpose: To Help Yahriel Fill The Prompt
+{
 
+ 
+Harvard University PhD Graduate School Application and Proposed Field of Study
 
-Applications to Other Universities and Programs
-Other universities to which you are applying (include name and program):
-MIT-Harvard Health Sciences and Technology (Harvard-MIT Joint Program)
-Other Schools to which you are applying:
-Health Sciences and Technology (Harvard-MIT Joint Program)
+Field of Study 1: Engineering and Applied Sciences (SEAS) in Applied Mathematics
+Field of Study 2: Biophysics
+Field of Study 3: Division of Medical Sciences
+
+Most interested
+Computational Neuroscience
+
+Interested
+Modeling Physical/Biological Phenomena and Systems
+
+Somewhat interested
+Natural and Artificial Intelligence
+
+Other Harvard Schools to which you are applying:
+Harvard Medical School
 
 ----
-MIT Department 1: https://hst.mit.edu/academic-programs/memp
-MIT Department 2: https://www.hms.harvard.edu/md_phd/
+Department 1: https://hst.mit.edu/academic-programs/memp
+Department 2: https://www.hms.harvard.edu/md_phd/
 ====
 ----
-MIT Applying to Bioastronautics Program: https://hst.mit.edu/academic-programs/memp/bioastronautics-training-program
-Applying to MIT Program: https://hst.mit.edu/
-Applying to MIT Joint Program: https://imes.mit.edu/
+Applying to Harvard: https://gsas.harvard.edu/apply/applying-degree-programs/completing-your-application/statement-purpose-personal-statement-and
+Applying to Bioastronautics Program: https://hst.mit.edu/academic-programs/memp/bioastronautics-training-program
+Applying to Harvard Medical School: https://www.hms.harvard.edu/md_phd/program/index.html
 ----
 Other Resources and Helpful Links:
 https://mitcommlab.mit.edu/nse/wp-content/uploads/sites/4/2016/09/NSE_CommKit_GradSchool_Personal_Statement_AAE1.pdf
@@ -99,114 +221,32 @@ https://www.hsph.harvard.edu/career-services/wp-content/uploads/sites/36/2016/06
 https://bemoacademicconsulting.com/blog/harvard-grad-school-personal-statement-examples
 https://www.gse.harvard.edu/sites/default/files/2023-09/Statement-of-Purpose.pdf
 https://www.azent.com/expert-tips/sop-harvard-university
-----
-Harvard Department 1: https://hst.mit.edu/academic-programs/memp
-Harvard Department 2: https://www.hms.harvard.edu/md_phd/
-====
-----
-Applying to Harvard: https://gsas.harvard.edu/apply/applying-degree-programs/completing-your-application/statement-purpose-personal-statement-and
-Applying to Bioastronautics Program: https://hst.mit.edu/academic-programs/memp/bioastronautics-training-program
-Applying to Harvard Medical School: https://www.hms.harvard.edu/md_phd/program/index.html
-----
-Other Resources and Helpful Links:
-https://scholar.harvard.edu/files/yuhuawang/files/writing_statement_of_purpose_for_graduate_school_application_2021_yuhua_wang_0.pdf
-https://www.hsph.harvard.edu/career-services/wp-content/uploads/sites/36/2016/06/Writing-a-Graduate-School-Application-Essay-Guide_Nov-20151.pdf
-https://bemoacademicconsulting.com/blog/harvard-grad-school-personal-statement-examples
-https://www.gse.harvard.edu/sites/default/files/2023-09/Statement-of-Purpose.pdf
-https://www.azent.com/expert-tips/sop-harvard-university
 
-https://www.linkedin.com/pulse/statement-purpose-got-me-harvard-2021-przemys%C5%82aw-stolarski/
+
+} 
 
 }
 
-
-Help Yahriel Salinas Answer The Prompt, Review The Response, Provide Feedback, Make Corrections, Enhance, and Finalize Yahriel's Best Response For To Prompt..
-
-Yahriel is the MASTER User: 
-{
-    [KNOW THIS APPLICATION: https://github.com/yahriels/yahriels/blob/main/Workspace/Harvard%20University%20Graduate%20Admissions.pdf]
-https://github.com/yahriels/yahriels/blob/main/Workspace/Yahriel_Profile.txt
-https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Harvard.txt
-https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Harvard_Prompts.txt
-Master: https://github.com/yahriels/yahriels/blob/main/Workspace/Master.txt
-Main: https://github.com/yahriels/yahriels/tree/main 
-Page: https://github.com/yahriels/yahriels/blob/main/page.html
-Yahriel Profile: https://github.com/yahriels/yahriels/blob/main/%5B0%5DY.Salinas-Reyes_Profile.pdf
-Yahriel Statements: https://github.com/yahriels/yahriels/blob/main/%5B2%5DY.Salinas-Reyes_Statements.pdf
-Yahriel Relevant: https://github.com/yahriels/yahriels/blob/main/%5B3%5DY.Salinas-Reyes_Relevant.pdf
-Yahriel Workspace Profile: https://github.com/yahriels/yahriels/blob/main/Workspace/Yahriel_Profile.txt
-Supplementary Materials: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Supplementary_Materials.txt
-Figure 1: https://github.com/yahriels/yahriels/blob/main/Figure1.jpg.svg
-Figure 2: https://github.com/yahriels/yahriels/blob/main/Figure2.jpg.svg
-Workspace: https://github.com/yahriels/yahriels/tree/main/Workspace
-Library: https://github.com/yahriels/yahriels/tree/main/Workspace/lib
-Experience: https://github.com/yahriels/yahriels/blob/main/Experiences.pdf
-Dummy: https://github.com/yahriels/yahriels/blob/main/Workspace/dummy.txt
-Resume Prompts: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Resume_Prompts.txt
-Resume Template: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Resume_Template.txt
-}
-
-Purpose: To Rewrite, Review, Rebuild, and Enhance Yahriel's [Response] and Finalize to Perfection And Incorporate This Data Base:
-{
-To EXPAND ON , Rebuild, REVIEW, and COMPOSE A NEW VERSION EXTENDED VIERSION OF Yahriel's Resume Using These Building Resources:
-{
-[Resources]
-- Caltech Curriculum Vitae Guide: [Link](https://future.cce.caltech.edu/documents/16424/Preparing_a_Curriculum_Vitae.pdf)
-- Harvard Resume and Cover Letter Examples: [Link](https://careered.Harvard.edu/sites/g/files/sbiybj22801/files/media/file/resume-and-cover-letter-examples.pdf)
-- Harvard PhD Resume and Cover Letter Examples: [Link](https://hwpi.harvard.edu/files/ocs/files/phd_resume_cover_letters.pdf)
-- Harvard GSAS CVs and Cover Letters: [Link](https://hwpi.harvard.edu/files/ocs/files/gsas-cvs-and-cover-letters.pdf)
-- Harvard Master's Resume and Cover Letter Template: [Link](https://careerservices.fas.harvard.edu/resources/masters-resume-cover-letter-template/)
-- Harvard Undergraduate Resumes and Cover Letters: [Link](https://hwpi.harvard.edu/files/ocs/files/undergrad_resumes_and_cover_letters.pdf)
-- Harvard Extension School Resume Guide: [Link](https://hwpi.harvard.edu/files/ocs/files/hes-resume-cover-letter-guide.pdf)
-- MIT Sample Resumes: [Link](https://capd.mit.edu/resources/sample-resumes/)
-- MIT Resume Tips and Examples: [Link](https://capd.mit.edu/channels/make-a-resume-cover-letter-cv/)
-- Caltech Resume Tips and Examples: [Link](https://career.caltech.edu/documents/4985/Resume_Tips_Examples.doc.pdf)
-- Caltech CV Tips and Examples: [Link](https://career.caltech.edu/documents/4982/CV_Tips_Examples.pdf)
-- Caltech Graduate Admissions Checklist: [Link](https://gradoffice.caltech.edu/admissions/checklist)
-
-[Latex Templates: To Format Yahriel's Resume Using These Templating Resources]
-{
-https://www.overleaf.com/latex/templates/clean-resume/xnndrgfhyjzg : https://www.overleaf.com/latex/templates/clean-resume/xnndrgfhyjzg.pdf
-https://www.overleaf.com/latex/templates/tech-resume/trwtkjyhyyrh : https://www.overleaf.com/latex/templates/tech-resume/trwtkjyhyyrh.pdf
-https://www.overleaf.com/latex/templates/simplified-medium-length-professioal-cv-template/pczvfqqzmnvf : https://www.overleaf.com/latex/templates/simplified-medium-length-professioal-cv-template/pczvfqqzmnvf.pdf
-https://www.overleaf.com/latex/templates/cv-developer/rdycxzvvnvcc : https://www.overleaf.com/latex/templates/cv-developer/rdycxzvvnvcc.pdf
-https://www.overleaf.com/latex/templates/sde-template-sharath/srkjmnmjfmnz : https://www.overleaf.com/latex/templates/sde-template-sharath/srkjmnmjfmnz.pdf
-}
-}
-
-}
-
-Prompt: Perfecting Yahrie's Materials for PhD Application
+[Template]  Yahriel's Response:
 {
 
-RULE: ALWAYS GIVE YOUR FINAL RESPONSE IN LATEX OR OVERLEAF TEX FILE!!
-
-[KNOW THIS APPLICATION: https://github.com/yahriels/yahriels/blob/main/Workspace/Harvard%20University%20Graduate%20Admissions.pdf]
-https://github.com/yahriels/yahriels/blob/main/Workspace/Yahriel_Profile.txt
-https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Harvard.txt
-https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Harvard_Prompts.txt
-
-Review All of Yahriel's Information Thoroughly and Comprehensively 23 Times Beginning To Fomrulate The Final Responses, Rewrite and Rebuild Yahriel's Responses For Graduate School to Give Him the Best Chance of Being Accepted Into The Joint PhD Program at MIT-Harvard. DO NOT SPARE ANY DETAILS AND BE AS DESCRIPTIVE AS POSSIBLE
-
-Yahriel, 
-
-First do not display this section, Please answer the following questions for each to help you in the process of answering the Statement of Objectives and Personal Statement that is applicable or relevant in the Situation, Challenge or Task, Action (using I statements, some We statements is okay), and result format while rewriting and rebuilding [Current] Yahriel's Response with [Format Template] Yahriel's Response and make enhancements as needed. Do not spare any details and be as descriptive as possible. And Make Sure You Meet the word count.
-- Tell me about a time you had to collaborate and work on a team project
-- Tell me about a time you had to deal with an angry customer/student/coworker
-- Tell me about a time you had to use problem solving or root cause analysis
-
-Yahriel The Executive & MASTER Task is to Respond to These:
-[Harvard Statement of Objectives]: Please give your reasons for wishing to do graduate work in HST. Explain how your background has prepared you for this graduate program. Identify the research area(s) you plan to investigate during your graduate studies, the issues and problems you wish to address, and how HST's program supports your research interests. State your long-term professional goals and specify the unique aspects of the HST program that will help you to accomplish those goals. Prepare your Statement of Objectives in whatever format clearly presents your views. It is not necessary to name specific professors or labs you might want to join. HST requests that candiates wait to contact professors after applications have been reviewed. If applicable, describe any specific academic or research challenges you have overcome. The Admissions Committee will welcome any factors you wish to bring to its attention concerning your academic, research, and work experiences to date. Recommended Length: 800-1200 words.
-----
-[Harvard Personal Statement]: The HST community is composed of individuals who come from a variety of backgrounds, may have faced personal challenges, and serve as leaders in society. Please discuss how your experiences and background inspire you to work for the betterment of your communities. Your response is not limited to, but may discuss, one or more of the following: Personal challenges that you may have faced and how they acted to inhibit your scholarly growth; Strategies that you may have found or implemented to cope with challenges in your life or the lives of others; How you have fostered justice, equity, diversity, and inclusion in the past, or how you will in the future at HST and beyond. Recommended Length: 400-800 words.
-----
 }
 
 
-[Template] Yahriel's Resume: 
+
+[KNOW THIS APPLICATION: https://github.com/yahriels/yahriels/blob/main/Workspace/Stanford%20University%20Graduate%20Admissions.pdf]
+
+ 
+
+
+
+
+
+
+
+
+Prompt:
 {
-
-
+Statement of Purpose
+The statement of purpose is very important to programs when deciding whether to admit a candidate. Your statement should be focused, informative, and convey your research interests and qualifications. You should describe your reasons and motivations for pursuing a graduate degree in your chosen degree program, noting the experiences that shaped your research ambitions, indicating briefly your career objectives, and concisely stating your past work in your intended field of study and in related fields. Your degree program of interest may have specific guidance or requirements for the statement of purpose, so be sure to review the degree program page for more information. Unless otherwise noted, your statement should not exceed 1,000 words.
 }
-
-
