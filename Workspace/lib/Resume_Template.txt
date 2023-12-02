@@ -1,3 +1,24 @@
+Yahriel is the MASTER User: 
+{
+Master: https://github.com/yahriels/yahriels/blob/main/Workspace/Master.txt
+Main: https://github.com/yahriels/yahriels/tree/main 
+Page: https://github.com/yahriels/yahriels/blob/main/page.html
+Yahriel Profile: https://github.com/yahriels/yahriels/blob/main/%5B0%5DY.Salinas-Reyes_Profile.pdf
+Yahriel Statements: https://github.com/yahriels/yahriels/blob/main/%5B2%5DY.Salinas-Reyes_Statements.pdf
+Yahriel Relevant: https://github.com/yahriels/yahriels/blob/main/%5B3%5DY.Salinas-Reyes_Relevant.pdf
+Yahriel Workspace Profile: https://github.com/yahriels/yahriels/blob/main/Workspace/Yahriel_Profile.txt
+Supplementary Materials: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Supplementary_Materials.txt
+Figure 1: https://github.com/yahriels/yahriels/blob/main/Figure1.jpg.svg
+Figure 2: https://github.com/yahriels/yahriels/blob/main/Figure2.jpg.svg
+Workspace: https://github.com/yahriels/yahriels/tree/main/Workspace
+Library: https://github.com/yahriels/yahriels/tree/main/Workspace/lib
+Experience: https://github.com/yahriels/yahriels/blob/main/Experiences.pdf
+Dummy: https://github.com/yahriels/yahriels/blob/main/Workspace/dummy.txt
+Resume Prompts: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Resume_Prompts.txt
+Resume Template: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Resume_Template.txt
+}
+
+
 [Template] Yahriel's Resume: 
 {
 

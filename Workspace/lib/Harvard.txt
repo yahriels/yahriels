@@ -18,15 +18,6 @@ Scientific Computing Field of Study 4: Comp/IS/Eng: Bioinformatics and Bio-inspi
 Review Criteria: 
 {
 
-Statement of Objectives: Please give your reasons for wishing to do graduate work in HST. Explain how your background has prepared you for this graduate program. Identify the research area(s) you plan to investigate during your graduate studies, the issues and problems you wish to address, and how HST's program supports your research interests. State your long-term professional goals and specify the unique aspects of the HST program that will help you to accomplish those goals. Prepare your Statement of Objectives in whatever format clearly presents your views.
-It is not necessary to name specific professors or labs you might want to join. HST requests that candiates wait to contact professors after applications have been reviewed. If applicable, describe any specific academic or research challenges you have overcome. The Admissions Committee will welcome any factors you wish to bring to its attention concerning your academic, research, and work experiences to date.
-Recommended Length: 800-1200 words
-----
-Personal Statement: The HST community is composed of individuals who come from a variety of backgrounds, may have faced personal challenges, and serve as leaders in society. Please discuss how your experiences and background inspire you to work for the betterment of your communities. Your response is not limited to, but may discuss, one or more of the following: Personal challenges that you may have faced and how they acted to inhibit your scholarly growth Strategies that you may have found or implemented to cope with challenges in your life or the lives of others;
-How you have fostered justice, equity, diversity, and inclusion in the past, or how you will in the future at HST and beyond
-Recommended Length: 400-800 words
-----
-
 WHAT WE LOOK FOR: Evidence of exceptional creativity, broad 
 understanding of physical principles, and outstanding potential for innovative research is 
 expected. Applicants are screened for qualities we believe are essential ingredients of future 
@@ -140,19 +131,23 @@ Purpose: To Rebuild Yahriel's Resume Using These Building Resources:
 Prompt: Perfecting Yahrie's Resume/Curriculum Vitae for Harvard PhD Application
 {
 
-Review Yahriel's Experience, Rewrite and Rebuild Yahrie's Resume For Graduate School to Give Him the Best Chance of Being Accepted Into The PhD Program at Harvard. DO NOT SPARE ANY DETAILS AND BE AS DESCRIPTIVE AS POSSIBLE
+Review Yahriel's Experience, Rewrite and Rebuild Yahriel's Responses For Graduate School to Give Him the Best Chance of Being Accepted Into The Joint PhD Program at MIT-Harvard. DO NOT SPARE ANY DETAILS AND BE AS DESCRIPTIVE AS POSSIBLE
 
 Yahriel, 
 
-Please answer the following questions for each entry that is applicable or relevant in the Situation, Challenge or Task, Action (using I statements, some We statements is okay), and result format while rewriting and rebuilding [Current] Yahriel's Resume with [Format Template] Yahriel's Resume and make enhancements as needed. Do not spare any details and be as descriptive as possible.
-
+First do not display this section, Please answer the following questions for each to help you in the process of answering the Statement of Objectives and Personal Statement that is applicable or relevant in the Situation, Challenge or Task, Action (using I statements, some We statements is okay), and result format while rewriting and rebuilding [Current] Yahriel's Response with [Format Template] Yahriel's Response and make enhancements as needed. Do not spare any details and be as descriptive as possible. And Make Sure You Meet the word count.
 - Tell me about a time you had to collaborate and work on a team project
 - Tell me about a time you had to deal with an angry customer/student/coworker
 - Tell me about a time you had to use problem solving or root cause analysis
 
+Yahriel The Executive & MASTER Task is to Respond to These:
+[Statement of Objectives]: Please give your reasons for wishing to do graduate work in HST. Explain how your background has prepared you for this graduate program. Identify the research area(s) you plan to investigate during your graduate studies, the issues and problems you wish to address, and how HST's program supports your research interests. State your long-term professional goals and specify the unique aspects of the HST program that will help you to accomplish those goals. Prepare your Statement of Objectives in whatever format clearly presents your views. It is not necessary to name specific professors or labs you might want to join. HST requests that candiates wait to contact professors after applications have been reviewed. If applicable, describe any specific academic or research challenges you have overcome. The Admissions Committee will welcome any factors you wish to bring to its attention concerning your academic, research, and work experiences to date. Recommended Length: 800-1200 words.
+----
+[Personal Statement]: The HST community is composed of individuals who come from a variety of backgrounds, may have faced personal challenges, and serve as leaders in society. Please discuss how your experiences and background inspire you to work for the betterment of your communities. Your response is not limited to, but may discuss, one or more of the following: Personal challenges that you may have faced and how they acted to inhibit your scholarly growth; Strategies that you may have found or implemented to cope with challenges in your life or the lives of others; How you have fostered justice, equity, diversity, and inclusion in the past, or how you will in the future at HST and beyond. Recommended Length: 400-800 words.
+----
 }
 
-[Template] Yahriel's Resume: 
+[Intellectual Merit] Yahriel's Resume: 
 {
 
 Yahriel Salinas-Reyes: PhD Application
@@ -284,120 +279,41 @@ I am confident that my background, vision, and commitment to pushing the boundar
 }
 
 
-[Formatted Template] Yahriel's Resume:
+[Formatted Template] Yahriel's Response:
 {
-\documentclass[letterpaper,10pt]{article}
-\usepackage[utf8]{inputenc}
-\usepackage[left=1in, right=1in, top=1in, bottom=1in]{geometry}
-\usepackage{enumitem}
-\usepackage{titlesec}
-
-\titleformat{\section}{\large\scshape\raggedright}{}{0em}{}[\titlerule]
-\titlespacing{\section}{0pt}{3pt}{3pt}
-
-\begin{document}
-
-\pagestyle{empty}
-
-\begin{center}
-    \textbf{\LARGE Yahriel Salinas-Reyes} \\
-    \textit{Aerospace Engineer | Neuroscience PhD Candidate}
-\end{center}
-
-\section*{Education}
-\textbf{Iowa State University of Science \& Technology}, Ames, IA \\
-Bachelor of Aerospace Engineering (GPA: 3.3) \\
-Anticipated Graduation: December 16th, 2023 \\
-Relevant Coursework: Systems Engineering, Electrical Engineering, FEA, Robotics, Engine Analysis, Thermodynamics, Controls, Applied Mechanics \& Physics, Materials Science \& Engineering, Machine Learning, Computer Science, Software Engineering, etc.
-
-\section*{Research \& Development Experience}
-\textbf{Senior Capstone Project} \\
-\textit{Target Objective:} Modern Design Methodology with Aerospace Application \& Design of Aerospace Systems \\
-Oversaw the design and production of sUAS for DoD and NATO, implemented machine vision systems, and optimized aircraft design features.
-
-\textbf{Undergraduate Research Assistant – DARPA (August 2021 to August 2023)} \\
-\textit{Research Project:} Experimental Techniques for Flow Separation Detection and Chemical Sintering \\
-Operated as Experimental Engineer, designed hardware-software components, and developed computations for Navier-Stokes Equations.
-
-\textbf{Summer Undergraduate Research Fellow – Greer Group (May 2022 to August 2022)} \\
-\textit{Research Project:} Hybrid Nanocomposites: Semi-Empirical Method of Viscoelastic Behavior \\
-Created nanocomposites, developed a semi-empirical model, and submitted research work for publication.
-
-\textbf{McNair Scholar – Ronald E. McNair Program (September 2021 to May 2022)} \\
-\textit{Research Project:} Sociological Differences in Graduate School Motivation of Minority Identities \\
-Constructed an experimental framework, conducted interviews, and participated in preparation courses for doctoral studies.
-
-\textbf{Systems Engineer / Undergraduate Researcher – Soft Matter Material Transport Group (August 2019 to May 2022)} \\
-\textit{Research Project:} Design of Multi-Function 3D Piezo-electric Devices for Aeronautical Applications \\
-Explored tunability of paper-based devices, assisted graduate students, and submitted research work for publication.
-
-\textbf{Research Fellow, Boeing Undergraduate Research Excellence in Engineering Internship (08/2021-08/2022)} \\
-\textit{Research Project:} Characterizing Damping Mechanisms in Piezoelectric Wind-Energy Harvesters \\
-Designed and fabricated a force sensor, explored pathways for aeronautical data collection, and submitted research work for publication.
-
-\textbf{Stanford University Summer Undergraduate Research Fellow, Zheng Research Group (05/2021-08/2021)} \\
-\textit{Research Project:} Insights of Machine-Learning Techniques for Scientific Methods \& Prediction \\
-Conducted literary analysis, adapted ML methods to scientific methods, and cross-validated various mathematical kernels.
-
-\textbf{Undergraduate Research Certificate Recipient, IINSPIRE-LSAMP(NSF) Scholars Program (08/2019-09/2020)} \\
-\textit{Research Project:} Synthesizing Meta-stable Particles and High-Efficiency Paper-Based MEMS Sensors \\
-Synthesized particles, designed experiments, and presented ideation of low-cost, green technology, sensor devices.
-
-\section*{Work Experience}
-\textbf{Design Team Lead, NASA Micro-G Neutral Buoyancy Experiment Design Teams Challenge (08/2021-12/2022)} \\
-Completed and assigned weekly tasks, led prototyping of device components, and our design was utilized by astronaut-scientists in NASA’s Mission to the Moon and Mars.
-
-\textbf{Information Technology Specialist, Iowa State University of Science \& Technology (08/2019-05/2023)} \\
-Implemented, monitored, and maintained IT systems, solved technical problems, and utilized SQL, Java, Python, C/C++, Linux OS, AWS Services, SAS, BASH scripting.
-
-\textbf{Residential Advisor and Honors Community Leader, Department of Residence (08/2020-05/2022)} \\
-Engaged students, nurtured positive experiences, moderated meetings, and directed multi-lingual health \& resource programming for college.
-
-\section*{Research Activities}
-MEMS Shear Sensor and Flow Separation Theory, Energy Absorbing Nano-Architected Composites, Wind Energy and Development of MEMS Sensors, Implementation of ML into The Scientific Method, Applications of Multi-functional Piezo-electric Devices, Opportunities of Kirigami-Inspired MEMS Devices, Heat-Free Manufacturing of Paper-Based MEMS Sensor.
-
-\section*{Associations}
-Microscale Interfacial Fluid Physics Laboratory, Julia R. Greer Group at CALTECH, Boeing Aerospace Research Fellowship, Z Energy Lab at Stanford University, Goldwater Finalist/McNair Program at ISU, Soft Materials Matter Transport Group, Iowa State University Honors Program.
-
-\section*{Relevant Software / Technical Skills}
-SQL, Windows OS, Linux OS, AWS Services, Java, C/C++/C# Programming, Python, MATLAB \& Simulink, SAS - CAD \& FEA, ANSYS/ABAQUS, Systems \& Reverse Engineering, Internet of Things, Design of Experiments, etc.
-
-\section*{Academic Honors Received}
-\begin{enumerate}
-    \item The Order of The Engineer, The Engineering Student Council at The Iowa State University
-    \item The Ronald E. McNair Postbaccalaureate Achievement Program Scholar \& The Barry Goldwater Scholarship and Excellence in Education Foundation Finalist
-    \item The Boeing Research in Excellence and Technology Fellowship Program (RETF) Scholar \& Micro-g Neutral Buoyancy Experiment Design Teams (NExT) Challenge Competition Finalist
-    \item The Summer Undergraduate Research Fellowship Program (SURF) Scholar at Stanford University \& California Institute of Technology, Program Coordinator
-    \item The Louis Stokes Alliances for Minority Participation (LSAMP) Fellowship Program Scholar \& Undergraduate Research Certificate Recipient Awarded by Iowa State University's IINSPIRE-LSAMP Partnership
-    \item The FIRST Robotics Competition (FRC) Worlds Championship Rookie Inspiration and Rookie All-Star Awards (International-Level Award) \& The Youth Leadership Community Award Received From The Iowa Department of Human Rights: State of Iowa Youth Advisory Council (SIYAC)
-\end{enumerate}
-
-\section*{Publications}
-\begin{enumerate}
-    \item Salinas-Reyes, Y., et al. "Experimental Techniques for Flow Separation Detection and Chemical Sintering." \textit{Journal of Aerospace Engineering}, 2023.
-    \item Salinas-Reyes, Y., et al. "Hybrid Nanocomposites: Semi-Empirical Method of Viscoelastic Behavior." \textit{Journal of Nanomaterials}, 2022.
-    \item Salinas-Reyes, Y., et al. "Characterizing Damping Mechanisms in Piezoelectric Wind-Energy Harvesters." \textit{Journal of Renewable and Sustainable Energy}, 2022.
-\end{enumerate}
-
-\section*{Conference Presentations}
-\begin{enumerate}
-    \item Salinas-Reyes, Y., et al. "Sociological Differences in Graduate School Motivation of Minority Identities." \textit{National Conference on Undergraduate Research}, 2022.
-    \item Salinas-Reyes, Y., et al. "Design of Multi-Function 3D Piezo-electric Devices for Aeronautical Applications." \textit{International Conference on Aerospace Engineering}, 2021.
-    \item Salinas-Reyes, Y., et al. "Insights of Machine-Learning Techniques for Scientific Methods \& Prediction." \textit{Stanford Undergraduate Research Conference}, 2021.
-\end{enumerate}
-
-\section*{Languages}
-English (Native), Spanish (Fluent)
-
-\end{document}
-
-}
-
-
-Extra Latex Templates: Resources To Format Yahriel's Resume
-{
-https://www.overleaf.com/latex/templates/tech-resume/trwtkjyhyyrh : https://www.overleaf.com/latex/templates/tech-resume/trwtkjyhyyrh.pdf
-https://www.overleaf.com/latex/templates/simplified-medium-length-professioal-cv-template/pczvfqqzmnvf : https://www.overleaf.com/latex/templates/simplified-medium-length-professioal-cv-template/pczvfqqzmnvf.pdf
-https://www.overleaf.com/latex/templates/cv-developer/rdycxzvvnvcc : https://www.overleaf.com/latex/templates/cv-developer/rdycxzvvnvcc.pdf
-https://www.overleaf.com/latex/templates/sde-template-sharath/srkjmnmjfmnz : https://www.overleaf.com/latex/templates/sde-template-sharath/srkjmnmjfmnz.pdf
+Statement of Purpose Draft for Yahriel Salinas-Reyes
+Nature’s Chaos Game: An Existentialist Approach Informed by Mathematics and Neurobiology
+Introduction: Mental health disorders represent a profound challenge to contemporary society, impacting millions of lives worldwide. The task at hand requires not only medical and psychological insights but also the transformative power of science and biological anthroengineering. This proposed research operates at the crossroads of diverse scientific disciplines, with two primary objectives: first, to decode the intricate neurobiological landscape of schizophrenia, and second, to uncover the genetic and molecular mechanisms governing the synthesis of potential natural antidepressants found in grapes. Both endeavors share a common purpose: to deepen global scientific understanding of mental health and ultimately enhance the lives of those impacted by these conditions.
+Connectivity and Chaos: To reach the edge of chaos and perform these tasks, I incentivize the scientific investigation by applying guiding principles for a closed system. By leveraging my expertise in thermodynamic modeling and finite-element analysis, I will create detailed simulations of brain anatomical structures, encompassing a wide range of experimental conditions and designs. Let 𝛴 be a smooth oriented surface that is bounded, 𝜕𝛴 ≡ 𝛤; then, we invoke boundary conditions. Furthermore, entropy, represented by 𝑆, is a measure of morphology or order in the system, 𝜕𝑆 ≡ 𝑁; I validate this mathematical theorem with the second set of equations. My background in signals and control systems engineering will enable the development of advanced control mechanisms to enhance adaptability and safety in the pathology of schizophrenia and global public health treatments. Aerospace engineering expertise shall facilitate neuroplasticity investigations & neuro-mechanistic modeling.
+Governing Equations: [1] Energy: 𝛷𝐸 = ∯ 𝐸 ⋅ ⅆ𝐴, [2] Mobility: ∬ (𝛻 × 𝐹) ⋅ ⅆ𝛴 𝛴 = ∮ 𝐹 ⋅ ⅆ𝛤 𝜕𝛴 , and [3] Continuity: ∭ (𝛻 ⋅ 𝐹) ⅆ𝑉 𝑉 = ∯ (𝐹 ⋅ 𝑛̂) ⋅ ⅆ𝑆 𝑆.
+Chaos Theory: [4] Chaos-Game: 𝑥𝑛+1 = 𝜆𝑥𝑛 (1 − 𝑥𝑛 ), [5] Mandelbrot-Set: 𝑍𝑛+1 = 𝑍𝑛 2 + 𝐶, and [6] Fractals: 𝐷 = 𝑙𝑜𝑔 𝑁 / 𝑙𝑜𝑔 𝑆.
+Research Plan: My research hinges on a robust mathematical framework, critical for analyzing intricate data derived from both scientific pursuits. The application of Monte Carlo Integration, Mandelbrot's Fractal Geometry of Nature, and artificial intelligence techniques empowers us to model and analyze the intricate data from these two distinct yet interconnected research streams. The research plan will unfold over five years:
+1.	Year 1: Data collection and establishment of the research framework.
+2.	Year 2: Neuroimaging and genetic data analysis.
+3.	Year 3: Development of mathematical models.
+4.	Year 4: Validation of models and refinement of findings.
+5.	Year 5: Publication of research results, collaboration with international partners, and educational outreach initiatives.
+Intellectual Merit: This research project is poised to make significant contributions to both the intellectual merit criterion and the broader impacts criterion, addressing the points outlined in the application review process. Here's how it aligns with the five key components:
+1. Potential to Advance Knowledge: Our multidisciplinary approach, combining precision biology, cutting-edge technology, and mathematical frameworks, brings innovation to the study of mental health. By decoding the complex etiology of schizophrenia, will offer fresh insights into this debilitating disorder. Furthermore, I will delve into the genetic and molecular basis of natural antidepressants found in grapes, pioneering potential natural alternatives for mental health treatment.
+2. Innovation: Our research is underpinned by innovative mathematical frameworks, a convergence of neuroscience, genetics, and mathematical modeling. This synthesis of diverse disciplines fosters innovation, promising novel findings that can revolutionize the diagnosis and treatment of schizophrenia and potentially provide safer alternatives for individuals affected by mental health disorders.
+3. Detailed Plan: Our comprehensive research plan, spanning five years, encompasses data collection, advanced analysis, model development, and validation. The plan is characterized by its systematic and strategic approach, with built-in measures of success to ensure the attainment of meaningful results.
+4. Qualifications: My rich tapestry of academic, professional, and research experience, spanning the fields of aerospace engineering, data science, quantum mechanics, and robotics, equips me with the skills and knowledge necessary to undertake this ambitious research.
+5. Ability to Execute Research: The research plan includes collaboration with experts in relevant fields, ensuring that we have the necessary expertise to execute the research successfully. Additionally, the proposed timeline provides ample time for each phase of the project, ensuring thorough and methodical execution.
+Broader Impacts: Beyond scientific advancement, this research project has broader societal impacts. It has the potential to:
+1. Advance Mental Health Care: By deepening our understanding of schizophrenia and identifying potential natural antidepressants, this research can pave the way for more effective diagnosis, treatment, and prevention strategies.
+2. Foster Collaboration: International collaboration with researchers promotes knowledge sharing and a diverse perspective on mental health research. This engagement creates a global community of scientists working together to address mental health challenges.
+3. Educational Outreach: The project's outreach initiatives will inspire future scientists and promote diversity and inclusion in STEM fields. By showcasing the power of multidisciplinary research, we aim to encourage the next generation to take an interest in similar innovative approaches.
+4. Precision Medicine: By identifying the genetic and neural factors contributing to schizophrenia, this research can contribute to the development of precision medicine approaches tailored to individual patients, enhancing the effectiveness of treatment.
+5. Global Mental Health: The research has the potential to improve the lives of individuals affected by schizophrenia worldwide, addressing a global mental health challenge. Our findings can be translated into practical solutions for societies worldwide.
+Conclusion: The proposed research, an ambitious undertaking at the intersection of mathematics, biology, and mental health, holds great promise for enhancing our understanding of schizophrenia and the potential natural antidepressants found in grapes. This research endeavor utilizes an existential perspective by incorporating various methodologies.
+•	Intradisciplinary: Etiologists and engineers work within their respective fields.
+•	Multidisciplinary: Etiologists and engineers work within their respective fields to address a larger issue.
+•	Cross-disciplinary: Etiologists investigate issues within engineering, and engineers investigate issues within etiology.
+•	Interdisciplinary: Etiologists, engineers, etiologists turned engineers, and engineers turned anthropologists seamlessly use both disciplines, simultaneously, to address larger issues.
+This transformative project embodies a commitment to precision science, multidisciplinary collaboration, and societal progress. As I embark on this journey, I anticipate significant contributions to our knowledge of these subjects and look forward to making a positive impact on the lives of those affected by these conditions.
+References:
+1.	Zueva, K. J., Glotov, A. S., Baranova, A. V., & Kelmansky, D. M. (2017). Chaos theory approach to schizophrenia. Frontiers in Psychology, 8, 1798.
+2.	Mandelbrot, B. B. (1982). The Fractal Geometry of Nature. Macmillan.
+3.	Fournier, J. C., DeRubeis, R. J., & Hollon, S. D. (2013). Antidepressant drug effects and depression severity: a patient-level meta-analysis. JAMA, 303(1), 47-53.
+4.	Hirsch, J. A., & Bishop, M. J. (2014). Respiratory sensation in asthma: physiological and clinical implications. The Journal of Physiology, 592(5), 967-978.
 }
