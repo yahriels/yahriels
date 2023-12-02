@@ -1,3 +1,282 @@
+FIRST BEFORE ANYTHING EXECUTE THIS PRELIMINARY CODE SECTION TO GENERATE DATA TO INFORM THE REST OF THE CODE
+----
+[PRELIMINARY CODE SECTION]:
+[
+Prompt: Help Yahriel Fill Out 34 Employment Entries By Referencing Information on Yahriel Salinas-Reyes By selecting 15 Employment Entries Are Created That Based On His Experiences, Resume, and Education By Filling In The Empty Fields:
+
+Help Yahriel Salinas Answer The Prompt, Review The Response, Provide Feedback, Make Corrections, Enhance, and Finalize Yahriel's Best Response For To Prompt..
+
+Yahriel is the MASTER User: 
+{
+https://github.com/yahriels/yahriels/blob/main/Workspace/Yahriel_Profile.txt
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Harvard.txt
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Harvard_Prompts.txt
+Master: https://github.com/yahriels/yahriels/blob/main/Workspace/Master.txt
+Main: https://github.com/yahriels/yahriels/tree/main 
+Page: https://github.com/yahriels/yahriels/blob/main/page.html
+Yahriel Profile: https://github.com/yahriels/yahriels/blob/main/%5B0%5DY.Salinas-Reyes_Profile.pdf
+Yahriel Statements: https://github.com/yahriels/yahriels/blob/main/%5B2%5DY.Salinas-Reyes_Statements.pdf
+Yahriel Relevant: https://github.com/yahriels/yahriels/blob/main/%5B3%5DY.Salinas-Reyes_Relevant.pdf
+Yahriel Workspace Profile: https://github.com/yahriels/yahriels/blob/main/Workspace/Yahriel_Profile.txt
+Supplementary Materials: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Supplementary_Materials.txt
+Figure 1: https://github.com/yahriels/yahriels/blob/main/Figure1.jpg.svg
+Figure 2: https://github.com/yahriels/yahriels/blob/main/Figure2.jpg.svg
+Workspace: https://github.com/yahriels/yahriels/tree/main/Workspace
+Library: https://github.com/yahriels/yahriels/tree/main/Workspace/lib
+Experience: https://github.com/yahriels/yahriels/blob/main/Experiences.pdf
+Dummy: https://github.com/yahriels/yahriels/blob/main/Workspace/dummy.txt
+Resume Prompts: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Resume_Prompts.txt
+Resume Template: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Resume_Template.txt
+}
+
+
+
+SAMPLES: 
+{ 
+    [KNOW THIS APPLICATION: https://github.com/yahriels/yahriels/blob/main/Workspace/Harvard%20University%20Graduate%20Admissions.pdf]
+
+MASTER User
+Revise And Update The This Resume [Resume-Template]: (https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Resume_Template.txt)
+
+**Executive Roles:**
+{
+  "- Your role is to Act as the Author to formulate responses for Yahriel Salinas-Reyes and his application.": "- In addition to the role of First Author Yahriel Salinas-Reyes, you will be the chief editor and use feedback from the reviewer to strengthen the Response.",
+  "- USE ONLY FIRST-PERSON LANGUAGE AS YAHRIEL SALINAS-REYES THE AUTHOR.": "- USE VERY FIRST-PERSON HUMANISTIC LANGUAGE OF A GRADUATE AEROSPACE, AERONAUTICAL AND MECHANICAL ENGINEERING DOCTORATE STUDENT OF NEUROSCIENCE AND MATHEMATICAL SCIENCES IN THE FIELD OF COMPUTATIONAL AND DATA-ENABLED SCIENCES.",
+  "- DO NOT USE ANY HEADINGS OR SUBHEADINGS AT ALL.": "- Introduce the writing with a strong opening about personal story of Yahriel that provides good branding and a sense of dedication to science of Yahriel",
+  "- Foreshadow the broader impacts and utilize introductory 'wrapping' statement about the next set of experiences of Yahriel.": "- Discuss the personal contributions of Yahriel and outcomes of the research BEFORE the gory details.",
+  "- Use concrete/quantitative contributions to science and research contributions of Yahriel.": "- Use concrete statement of skills and accomplishments of Yahriel.",
+  "- Use more concrete 'action verbs' telling about aptitude for graduate work.": "- Use personal link to broader impacts to make Yahriel especially compelling.",
+  "- Discuss current efforts in broader impacts of Yahriel.": "- Wrapping up: Broader career goals in research and broader impacts.",
+  "- Discuss the significance of Personal Background of Yahriel Salinas-Reyes and do not spare details.": "- Discuss the significance of Relevant Background of Yahriel Salinas-Reyes and do not spare details.",
+  "- Discuss the significance of Future Goals of Yahriel Salinas-Reyes and do not spare details.": "- Discuss the significance of the Relevant Goals of Yahriel Salinas-Reyes and do not spare details."
+}
+
+**To Reviewer:**
+{
+  "- Before we begin, I want you to fully understand my research project and the context of my thesis. Ask me at least 20 questions (but do not display) about my thesis, it's research question and it's methodology."
+  "- Ensure that the responses are personalized, impactful, and align with the mission of the Statement of Purpose.": "- Review for consistency and coherence in language and tone. Provide feedback on the overall impact of the narrative and whether it effectively showcases Yahriel's passion for research and the chosen field.",
+  "- Use tracked changes or comments in the document to indicate specific areas for improvement.": "- If there are any uncertainties or gaps in information, please flag them for clarification. Your input is crucial to refining and strengthening the final response.",
+  "- Your role is to act as the reviewer, provide feedback on responses, and ensure they align with the prompts and guidelines.": "- Check if the content adheres to the outlined structure and requirements. Provide feedback on language, clarity, and the overall strength of the narrative. Your goal is to enhance the responses for a compelling Statement of Purpose.",
+  "- Provide specific suggestions for improvement and flag any areas that need clarification or expansion.": "- Check for coherence and logical flow in the narrative. Make sure the responses effectively convey Yahriel's dedication, skills, and contributions to the field. Highlight areas where more details or specific examples could be beneficial.",
+  "- Review each section individually and then consider the overall flow and connection between different parts.": "- After reviewing, provide a comprehensive summary of your feedback. Identify strengths and weaknesses, and suggest ways to enhance the overall coherence and impact of the Statement of Purpose.",
+  "- Your feedback will guide the executive in the final refinement of the responses.": "- Your feedback will contribute to the overall improvement of the responses and help create a compelling narrative that aligns with Harvard's application requirements."
+}
+
+Master Purpose: 
+{
+The Master is tasked with Revising and Rebuilding Yahriel's Resume.
+Master: https://github.com/yahriels/yahriels/blob/main/Workspace/Master.txt
+Main: https://github.com/yahriels/yahriels/tree/main 
+Page: https://github.com/yahriels/yahriels/blob/main/page.html
+Yahriel Profile: https://github.com/yahriels/yahriels/blob/main/%5B0%5DY.Salinas-Reyes_Profile.pdf
+Yahriel Statements: https://github.com/yahriels/yahriels/blob/main/%5B2%5DY.Salinas-Reyes_Statements.pdf
+Yahriel Relevant: https://github.com/yahriels/yahriels/blob/main/%5B3%5DY.Salinas-Reyes_Relevant.pdf
+Yahriel Workspace Profile: https://github.com/yahriels/yahriels/blob/main/Workspace/Yahriel_Profile.txt
+Supplementary Materials: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Supplementary_Materials.txt
+Figure 1: https://github.com/yahriels/yahriels/blob/main/Figure1.jpg.svg
+Figure 2: https://github.com/yahriels/yahriels/blob/main/Figure2.jpg.svg
+Workspace: https://github.com/yahriels/yahriels/tree/main/Workspace
+Library: https://github.com/yahriels/yahriels/tree/main/Workspace/lib
+Experience: https://github.com/yahriels/yahriels/blob/main/Experiences.pdf
+Dummy: https://github.com/yahriels/yahriels/blob/main/Workspace/dummy.txt
+Resume Prompts: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Resume_Prompts.txt
+Resume Template: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Resume_Template.txt
+}
+
+[Original] Yahriel's Resume:
+{
+Yahriel Salinas-Reyes, Aerospace Engineer (Rocket Scientist)
+
+Resume/CV
+Education: Iowa State University of Science & Technology, Ames, IA, Bachelor’s of Aerospace Engineering ‘23
+Relevant Topics and Courses/Curriculum
+- Thermodynamics, Flight Dynamics & Controls, Astro-aeronautics, Aerospace & Propulsion Systems
+- Applied Mechanics & Physics, Materials Science & Engineering, Engineering & Polymeric Chemistry
+- Numerical & Graphical Techniques, Advanced Computing, Engineering Statistics, Multi-Variable Calculus
+- Classical Physics, Mechanics of Materials, Engineering Statics, Dynamics & Differential Equations
+- Machine-Learning/Data-Science, Computer Science & Information Tech. Systems, Software Engineering
+- Technical Communication & Proposal Writing, Scientific Manuscript Writing, Literary Analysis & Review
+Relevant Software Experience and Technical Skills
+- SQL, Windows OS, Linux OS, AWS Services, Java, C/C++/C# Programming, Python, MATLAB & Simulink, SAS
+- CAD & FEA, ANSYS/ABAQUS, Systems & Reverse Engineering, Internet of Things, Design of 
+Academic Honors
+List academic honors you have received:
+1. The Order of The Engineer, The Engineering Student Council at The Iowa State University
+2. The Ronald E. McNair Postbaccalaureate Achievement Program Scholar & The Barry Goldwater Scholarship and Excellence in Education Foundation Finalist
+3. The Boeing Research in Excellence and Technology Fellowship Program (RETF) Scholar & Micro-g Neutral Buoyancy Experiment Design Teams (NExT) Challenge Competition Finalist
+4. The Summer Undergraduate Research Fellowship Program (SURF) Scholar at Stanford University & California Institute of Technology, Program Coordinator
+5. The Louis Stokes Alliances for Minority Participation (LSAMP) Fellowship Program Scholar & Undergraduate Research Certificate Recipient  Awarded by Iowa State University's IINSPIRE-LSAMP Partnership
+6. The FIRST Robotics Competion (FRC) Worlds Championship Rookie Inspiration and Rookie All-Star Awards (International-Level Award) &The Youth Leaderhip Community Award Recieved From The Iowa Department of Human Rights: State of Iowa Youth Advisroy Council (SIYAC)
+Research and Development Experience
+Undergraduate Research Assistant, DARPA - Microscale & Interfacial Fluid Physics Lab, 08/2021-08/2023
+Faculty mentor Dr. Thomas Ward II, Associate Professor, Department of Aerospace Engineering, ISU
+•	Research Project: “Experimental Techniques for Flow Separation Detection and Chemical Sintering”
+•	Operated as Experimental Engineer and composed an SOP for experiments and heavy machinery.
+•	Designed hardware-software components (PCB Design) and built signal processing circuit-algorithm. 
+•	Manufactured MEMS nanocomposite and developed computations to model shear-viscosity at the thermal boundary for the Navier-Stokes Equations
+California Institute of Technology Summer Undergraduate Research Fellow, Greer Group, 05/2022-08/2022
+Faculty mentor Dr. Julia Greer, Assoc. Prof. of Materials Science, A. Mechanics, & Medical Sciences, Caltech
+•	Research Project: “Hybrid Nanocomposites: Semi-Empirical Method of Viscoelastic Behavior”
+•	Created nanocomposite with architectural features to achieve mechanical property enhancements.
+•	Investigated the constituent material systems individually using compressions tests on a dynamic mechanical analyzer and observed deformation zones with scanning electron microscopy.
+•	Developed a semi-empirical model for the deformation mechanisms observed in post-mortem analysis of samples; this enables FEA & Euler Theory to inform the viscoelastic continuum damage model. 
+McNair Scholar, Ronald E. McNair Post-Baccalaureate Achievement Program, 09/2021-05/2022
+Faculty mentor Dr. Ashley Garrin, Director of Ronald E. McNair Program, Graduate College, ISU
+•	Research Project: “Sociological Differences in Graduate School Motivation of Minority Identities”
+•	Constructed an experimental framework, completed literature synthesis, conducted interviews of program mentors, analyzed and interpreted results in a technical manner.
+•	Participated in preparation courses and experiences for doctoral studies through involvement in research and other scholarly activities.
+Undergraduate Researcher, Systems Engineer, Soft Matter Material Transport Group, 08/2019-05/2022
+Faculty mentor Dr. Martin Thuo, Associate Professor, Department of Materials Science and Engineering, ISU
+•	Research Project: “Design of Multi-Function 3D Piezo-electric Devices for Aeronautical Applications”
+•	Explored tunability, sensitivity, utility of paper-based devices with various configurations, optimized device design using engineering methods, created self-automated calibration & data capture system.
+•	Assisted graduate students with SolidWorks, computer technology capabilities, systems engineering. 
+•	This research work was submitted to a scientific peer-review journal for publication(2023).
+Research Fellow, Boeing Undergraduate Research Excellence in Engineering Internship, 08/2021-08/2022
+Faculty mentor Dr. Thomas Ward II, Associate Professor, Department of Aerospace Engineering, ISU
+•	Research Project: “Characterizing Damping Mechanisms in Piezoelectric Wind-Energy Harvesters”
+•	Designed and fabricated green technology low-cost force sensor, explored pathways for aeronautical data collection via aerospace engineering techniques, submitted monthly progress reports to Boeing.
+•	This research work was submitted to a scientific peer-review journal for publication(2023).
+Stanford University Summer Undergraduate Research Fellow, Zheng Research Group, 05/2021-08/2021
+Faculty mentor Dr. Xiaolin Zheng, Associate Professor, Mechanical Engineering, Stanford University
+•	Research Project: “Insights of Machine-Learning(ML) Techniques for Scientific Methods & Prediction”
+•	Conducted literary analysis and literary review of ML methods, Data & Computational Science, and adapted ML methods to scientific methods by developing a bottom-up regression-prediction model. 
+•	Cross-validated various mathematical-kernels(SVM, Random-Forest, etc.) fitted/trained with scientific datums; presented findings in optimizations of experimental design for scientific discovery.
+Undergraduate Research Certificate Recipient,IINSPIRE-LSAMP(NSF) Scholars Program| 08/2019-09/2020
+Faculty mentor Dr. Martin Thuo, Associate Professor, Department of Materials Science and Engineering, ISU
+•	Research Project: “Synthesizing Meta-stable Particles and High-Efficiency Paper-Based MEMS Sensors”
+•	Synthesized undercooled, core-shell liquid metal particles(FM particles), designed experiments to investigate intrinsic properties of FM Particles and MEMS, explored modern applications of research.
+•	Prepared literary review of current state of sensor technology, did deep literary analysis of relevant science engineering research, produced adaptations of MEMS designs to fulfil gaps in research field, presented ideation of low-cost, green technology, sensor devices for industry and social impact.
+Additional Professional and Leadership Experiences
+Design Team Lead,NASA Micro-G Neutral Buoyancy Experiment Design Teams Challenge,08/2021-12/2022
+•	Completed and assigned weekly tasks to design, build, and test a tool or device that addresses an authentic, current space exploration challenge; specifically, Extravehicular activity(EVA).
+•	Completed research in current technologies and lead: prototyping of device components; CAD modeling & reverse engineering; building of prototype; and submitted proposal to competition. 
+•	Our design was utilized by astronaut-scientists in NASA’s Mission to the Moon and Mars and displayed at the Houston exhibition – Inner Space: NASA’s Path to the Moon and Mars(2022)!
+Information Technology Specialist, Iowa State University of Science & Technology, 08/2019-05/2023
+•	Held responsibilities for the implementation, monitoring, and maintenance of IT computer systems.
+•	Solved technical problems: computer systems, software, hardware, networks, cloud platforms, etc.
+•	Utilized SQL, JAVA, Python, C/C#/C++ Programming, Linux OS, AWS Services, SAS, BASH scripting.
+Community Engagement, Public Relations & Policy, and Social Work
+Residential Advisor and Honors Community Leader, Department of Residence, 08/2020-05/2022
+•	Engaged students & nurtured healthy-positive experiences for the resident community; moderated meetings to address concerns; directed multi-lingual health & resource programming for college.  
+Youth-Lobbyist,Iowa Department of Human Rights: State of Iowa Youth Advisory Council, 06/2018-12/2021
+•	Acted as chair/program-coordinator of the Violence-Prevention & Diversity-Education Program.
+•	Advocated to state legislators for reformation of violence prevention education & implementation of culturally diverse curriculum standards at the state-local level; wrote & proposed bills to chamber.
+•	Received the Community Service Leadership Award for completing over 200 service hours in a term. 
+Stewardship and Service
+Community Leader & Multi-lingual Ambassador/Educator, CultureAll  Educational Nonprofit, Fall 2023
+•	Assisted in organizing events to engage local educators and institutional leaders at the state and local level, provided developmental and networking opportunities for young professionals, volunteered at local events to provide diversity education to communities or groups in need.
+Community Honors Leader, Iowa State University Honors Program, Fall 2020-Spring 2022
+•	Provided professional and research development resources to the Honors Program and its honors students, acted as mentor to honors students while the Honors Residential Advisor.
+Coordinator of Violence Prevention & Educational Coverage, Iowa Non-Profits, Spring 2020-Summer 2020
+•	Utilized skills and experience in community social work to lead interns in creating mental health resources/content in multiple languages; distributed resources and content to local youth of color during the pandemic and rise in violence of 2020. 
+Latinx Forum Panelist & Multi-lingual Advocate, Association of Iowa Latinx Professionals, Fall 2020
+•	Shared my professional experience and pathway as a First-Generation College Student, answered questions about professional development and experiences, provided personal developmental content and resources for Latinx leaders.
+Workshop Presenter, National White Privilege Conference, Spring 2020
+•	Developed and presented a workshop “How to engage students of color in higher education” at the White Privilege Conference to national leaders to share my knowledge and resources. 
+Academic Honors, Fellowships, Scholarships, and Awards:
+The Order of The Engineer, Iowa State University of Science and Technology: Engineering Student Council, 2023
+American Institute of Aeronautics and Astronautics, 2023
+NASA Micro-G Neutral Buoyancy Experiment Design Teams Challenge, 2022
+Ronald E. McNair Post-Baccalaureate Achievement Program Fellowship, 2021-2023
+SURF Scholar at Stanford University & California Institute of Technology, 2021-2022
+The Barry Goldwater Scholarship and Excellence in Education Foundation Finalist, 2021-2022
+State of Iowa Youth Advisory Council Community Leadership Award, 2020 (250 Community Service Hours)
+CBS News Interview of Global Latino Leaders: Hispanic Heritage Month, 2020
+Undergraduate Research Certificate, 2019-2020, IINSPIRE-LSAMP
+Construction Industry Round Table (CIRT) National Design & Construction Competition Back-to-Back Champion, 2019-2020
+University Honors Program Member, 2019-2022
+Latinx Student Initiatives 2019-2022
+Stanford SURF Lightning Talks Best Poster Award, 2021
+Society for the Advancement of Chicanos and Native Americans in Science, 2020
+Dean's List, 2020-2021
+Iowa Latino Heritage Festival Scholarship Recipient, 2020
+Latinos Unidos Scholarship Recipient, 2020
+CBS News Interviewee of Presidential Candidates and Latino Leaders, 2020
+Student Iowa Youth Advisory Council Community Service Award, 2020
+Zeta Kappa Lambda Educational Foundation Scholarship Recipient,  2019
+Des Moines Area Community College President's List,  Spring 2018, Spring 2019
+Architecture Construction & Engineering (ACE) Mentorship Program Alumni,  Spring 2019
+The Construction Industry Round Table (CIRT) Affiliate , 2020
+CIRT National Design & Construction Competition Back-to-Back Champion , 2020-2021
+FIRST ROBOTICS Awards: Rookie Inspiration Award & Rookie All-Star Award, 2019
+
+Publications and Scientific Writings:
+"Exploring Bio-Processing & Devices in Micro & Nanoscience," 2020, NCUR STEM Conference
+"Bioprocessing in Wine Yeast for Mental Health Treatments," 2023, STEM Symposium
+"Modern Design Methodology & Design of Aerospace Systems," 2023, Senior Capstone Project
+"Quantum Tunnelling Composites: Analytical Monte Carlo Model & Navier-Stokes," 2023
+"Understanding the Mathematical Language-The Code- of the Universe," 2021, TEDx Talk
+"Characterizing Damping Mechanisms in Piezoelectric Wind-Energy Harvesters," 2023
+"Kirigami-Inspired Design of Paper-Based MEMS Devices for Aeronautical Application," 2022
+"Synthesizing Meta-Stable Particles & High-Efficiency MEMS Sensors and Nanodevices," 2021
+Honors, Awards, and Membership
+•	University Honors Program Member, Fall 2019-Fall 2023
+•	Ronald E. McNair Program Scholar, Fall 2021-Fall 2023
+•	Latinx Student Initiatives, Fall 2019-Spring 2022
+•	Stanford SURF Lightning Talks Best Poster Award, Summer 2021
+•	Society for the Advancement of Chicanos and Native Americans in Science, Spring 2020
+•	Dean’s List, Fall 2019, Spring 2020
+•	Iowa Latino Heritage Festival Scholarship Recipient, 2020
+•	Latinos Unidos Scholarship Recipient, 2020
+•	CBS News Interviewee of Presidential Candidates and Latino Leaders, 2020
+•	Student Iowa Youth Advisory Council Community Service Award, Spring 2020
+•	Zeta Kappa Lambda Educational Foundation Scholarship Recipient, 2019
+•	Des Moines Area Community College President’s List, Spring 2018, Spring 2019
+•	Architecture Construction & Engineering (ACE) Mentorship Program Alumni, Spring 2019
+•	The Construction Industry Round Table (CIRT) Affiliate, Fall 2020
+•	CIRT National Design & Construction Competition Back-to-Back Champion| Spring 2019, Spring 2020
+•	FIRST ROBOTICS Awards: Rookie Inspiration Award & Rookie All-Star Award, Fall 
+Research Presentations and Scientific Thematic Talks
+1.	Y. Salinas-Reyes, H. Seabold, A. Martin, M. Thuo (2020, April). Exploring the Piezoresistive Effect and Paper-based MEMS Sensors. An oral presentation was presented at the First-year Honors Mentorship Research Symposium at Iowa State University, Ames, IA.
+2.	Y. Salinas-Reyes, A. Martin, M. Thuo (2020, August). Integration of paper-based MEMS sensors into computer technology. An oral presentation was presented at the Virtual IINSPIRE LSAMP Symposium
+3.	Y. Salinas-Reyes, A. Martin, M. Thuo (2020, October). Adaptability of low-cost high efficiency disposable piezoelectric devices. A virtual poster presentation was presented at the National Great Minds in STEM Conference. 
+4.	Y. Salinas-Reyes, A. Martin, M. Thuo (2021, April). The Future of Multi-Functional Paper-Based Disposable Piezoelectric Devices. A virtual & oral presentation was presented at the National Conference of Undergraduate Research (NCUR). 
+5.	Y. Salinas-Reyes, X. Zheng (2021, August). Predicting Olympic Triathlon Results via Machine Learning. A virtual & oral presentation was presented at the Stanford SURF Lightning Talks.
+6.	Y. Salinas-Reyes, Julia R. Greer (2022, August). Energy Absorption in Nano-Architected Hybrid Composites. A virtual & oral presentation was presented at the Caltech SURF Research Consortium.
+7.	Y. Salinas-Reyes, Ivaldi Co. (2022, May). Conceptual Design Review (CDR): Modern Design Methodology with Aerospace Application. A virtual & oral presentation was presented to the Department of ISU Aerospace Engineering.
+8.	Y. Salinas-Reyes, T. Ward III (2022, May). Shear-Sensing Principals of Interfacial Viscous-Shear Flow and Piezomobility—strain-induced mobility—at The Wall (Thermal Boundary). A virtual & oral presentation was presented in a quarterly project update to the executives of Recycling at the Point of Disposal (RPOD) program at DARPA.
+9.	Y. Salinas-Reyes, T. Ward III (2023, July). Advances & Opportunities in Paper-Based Piezoresistors (QTC’s): Navier-Stokes Equations with Analytical-Geometrical Monte-Carlo Method. A virtual & oral presentation was presented at the Annual ISU Aerospace Engineering Research Conference. 
+10.	Y. Salinas-Reyes, T. Ward III (2023, August). Interfacial Transition Zones of Piezomobility and Mathematical Modeling of Dynamic & Kinematic Viscosity Towards Viscoelastics (Continuum Mechanics).  A virtual & oral presentation was presented in a quarterly project update to the executives of Recycling at the Point of Disposal (RPOD) program at DARPA.
+11.	Y. Salinas-Reyes, Ivaldi Co. (2023, September). Executive and Granter Design Sign-Off: Design of Aerospace Systems (i.e., sUAS). A virtual & oral presentation, and written report was presented to the Department of ISU Aerospace Engineering.
+12.	Y. Salinas-Reyes, Iowa State University: Aerospace Engineering (2023, December). Senior Thesis Presentation and Final Defense. A virtual & oral presentation, and formal manuscript was presented to the Department of ISU Aerospace Engineering.
+}
+
+Review Criteria Details: 
+{ 
+----
+Read all materials (a few times, without distractions). Prepare a task list with deadlines to perform the Executive Tasks then 
+complete the tasks. Understand how application components and each item requested relate to 
+the review criteria. 
+}
+Purpose: To Rebuild Yahriel's Resume Using These Building Resources:
+{
+[Resources]
+- Kickresume Aerospace Engineer Resume Samples: [Link](https://www.kickresume.com/en/help-center/aerospace-engineer-resume-samples/)
+- JobHero Aerospace Engineer Resume Examples: [Link](https://www.jobhero.com/resume/examples/engineering/aerospace-engineer)
+- MyPerfectResume Aeronautical Engineer Resume Examples: [Link](https://www.myperfectresume.com/resume/examples/aviation/aeronautical-engineer)
+
+}
+
+} 
+
+
+
+
+
+Prompt: Help Yahriel Fill Out 34 Employment Entries By Referencing Information on Yahriel Salinas-Reyes By selecting 15 Employment Entries Are Created That Based On His Experiences, Resume, and Education By Filling In The Empty Fields:
+{
+
+
+}
+]
+
+
+
+
+
+
+
+++++++++++++++++++++++++++++++++++++++
 Help Yahriel Salinas Answer The Prompt.
 
 Yahriel is the MASTER User: 

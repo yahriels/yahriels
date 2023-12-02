@@ -1,7 +1,5 @@
 
-Review All of Yahriel's Information Thoroughly and Comprehensively 23 Times Beginning To Fomrulate The Final Responses, Rewrite and Rebuild Yahriel's Responses For Graduate School to Give Him the Best Chance of Being Accepted Into The Joint PhD Program at MIT-Harvard. DO NOT SPARE ANY DETAILS AND BE AS DESCRIPTIVE AS POSSIBLE
-
-
+Review All of Yahriel's Information Thoroughly and Comprehensively 23 Times Beginning To Fomrulate The Final Responses, Rewrite and Rebuild Yahriel's Responses For Graduate School to Give Him the Best Chance of Being Accepted Into The Joint PhD Program at MIT-Stanford. DO NOT SPARE ANY DETAILS AND BE AS DESCRIPTIVE AS POSSIBLE
 
 Homework: 
 { 
@@ -48,17 +46,6 @@ Applying to Biomedical Data Science Program: https://dbds.stanford.edu/biomedica
 Applying to Bioengineering: https://bioengineering.stanford.edu/
 
 
-Other Resources and Helpful Links:
-https://mitcommlab.mit.edu/nse/wp-content/uploads/sites/4/2016/09/NSE_CommKit_GradSchool_Personal_Statement_AAE1.pdf
-https://mitcommlab.mit.edu/eecs/commkit/graduate-school-personal-statement/
-https://mitcommlab.mit.edu/meche/commkit/statement-of-purpose-for-graduate-school/
-https://medium.com/@robosquiggles/i-got-into-mit-with-this-statement-of-purpose-509e9d2e9fce
-https://medium.com/mit-media-lab/statement-of-objectives-1ff8dff39704
-https://scholar.harvard.edu/files/yuhuawang/files/writing_statement_of_purpose_for_graduate_school_application_2021_yuhua_wang_0.pdf
-https://www.hsph.harvard.edu/career-services/wp-content/uploads/sites/36/2016/06/Writing-a-Graduate-School-Application-Essay-Guide_Nov-20151.pdf
-https://bemoacademicconsulting.com/blog/harvard-grad-school-personal-statement-examples
-https://www.gse.harvard.edu/sites/default/files/2023-09/Statement-of-Purpose.pdf
-https://www.azent.com/expert-tips/sop-harvard-university
 
 }
 
@@ -89,8 +76,10 @@ Resume Prompts: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Res
 Resume Template: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Resume_Template.txt
 }
 
-Purpose: To Rewrite, Review, Rebuild, and Enhance Yahriel's [Statement of Purpose] and [Personal Statement] and Finalize to Perfection And Incorporate This Data Base:
+Purpose: To Rewrite, Review, Rebuild, and Enhance Yahriel's Responses and Finalize to Perfection And Incorporate This Data Base:
 {
+
+
 
 }
 
@@ -102,90 +91,73 @@ https://github.com/yahriels/yahriels/blob/main/Workspace/Yahriel_Profile.txt
 https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Stanford.txt
 https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Stanford_Prompts.txt
 
-Review All of Yahriel's Information Thoroughly and Comprehensively 23 Times Beginning To Fomrulate The Final Responses, Rewrite and Rebuild Yahriel's Responses For Graduate School to Give Him the Best Chance of Being Accepted Into The Joint PhD Program at MIT-Harvard. DO NOT SPARE ANY DETAILS AND BE AS DESCRIPTIVE AS POSSIBLE
+Review All of Yahriel's Information Thoroughly and Comprehensively 23 Times Beginning To Fomrulate The Final Responses, Rewrite and Rebuild Yahriel's Responses For Graduate School to Give Him the Best Chance of Being Accepted Into The Joint PhD Program at Stanford. DO NOT SPARE ANY DETAILS AND BE AS DESCRIPTIVE AS POSSIBLE
 
 
-Yahriel
- The Executive & MASTER Task is to Respond to These:
-[Statement of Objectives]: Because each Home Program requires significant original research activities in fulfillment of the requirements for the PhD degree, the admissions committees are interested in obtaining as much information as possible about your previous research experiences. Those who already have such experience are in a better position to know whether they are truly interested in performing laboratory research as part of a graduate program. Please include specific information about your research experience in your Statement of Purpose. You may also use the Statement to amplify your comments about your choice of Home Program(s), and how your past experiences and current interests are related to your choice. The Statement of Purpose should not exceed two pages in length, single-spaced, and font size 12.  
-----
-[Personal Statement]: Enriching the Learning Community Stanford University welcomes graduate applications from individuals with a broad range of experiences, interests, and backgrounds who would contribute to our community of scholars. We invite you to share the lived experiences, demonstrated values, perspectives, and/or activities that shape you as a scholar and would help you to make a distinctive contribution to Stanford University. Your statement should not exceed 500 words in length Exactly.
-----
+Yahriel, Edit the Fields
+
+Fields To Edit:
+{
+
+Personal Information:
+> PROMPT: If you wish, you may share additional information about your parent(s)/guardian(s)’ educational background and/or your socioeconomic background, THE REPONSE SHOULD BE IN BETWEEEN 135 and 150 TOTAL CHARACTERS EXACTLY. 
+> RESPONSE: As I was born with deafness & alogia with undocumented immigrant refugee parents, my journey has been marked by the challenges of ADHD, PTSD, Anxiety, Autism, and Beyond. These neurological complexities, instead of hindrances, have fueled my academic pursuits; As I overcame, I found my voice (Bilingual). Throughout my academic journey, I danced on the edge of madness, where imagination and practicality intertwined. Occasionally, sensory wonder and chaos enveloped me, leading to profound insights into the world. My blend of scientific rigor and artistic sensibility. My experiences have shaped my academic journey and aspirations. I am passionate about fractal mathematics and its parallels with the complexity of the human mind.
+
+Academic History Questions:
+> PROMPT: If applicable, please provide an explanation of any gaps on your transcript indicating time away from your post-secondary institution(s) or program(s).
+> RESPONSE: As I was born with deafness & alogia with undocumented immigrant refugee parents, my journey has been marked by the challenges of ADHD, PTSD, Anxiety, Autism, and Beyond. These neurological complexities, instead of hindrances, have fueled my academic pursuits; As I overcame, I found my voice (Bilingual). Throughout my academic journey, I danced on the edge of madness, where imagination and practicality intertwined. Occasionally, sensory wonder and chaos enveloped me, leading to profound insights into the world. My blend of scientific rigor and artistic sensibility. My experiences have shaped my academic journey and aspirations. I am passionate about fractal mathematics and its parallels with the complexity of the human mind.
+
+> PROMPT: Use the space below if you would like to provide further contextual information about any aspect of your transcript, e.g., the impact of the COVID-19 pandemic or other personal experiences on your educational opportunities or achievements.
+> RESPONSE: Formidable challenges & barriers have shaped my path. From early neurological & neurodevelopmental hurdles to external obstacles like financial difficulties, language barriers, health issues, & caregiving responsibilities, my journey has been marked by adversity. Yet, my response to these challenges has been remarkable. I embraced my unique identity & unwavering belief in the world's inherent goodness. I continued to read voraciously, seeking hidden truths even in seemingly flawed books. I've adhered to a strict code of chivalry, bridged language gaps through translation, & found solace in poetry, music, and science-art fusion. To the core, I've discovered my true self, a living testament to the boundless-curious human spirit & ingenuity.
+
+Describe an Interesting Biological or Biomedical Problem: 
+> PRONPT: Please describe one unsolved biological or biomedical problem that you find interesting and explain why. It does not have to be related to your significant research project or any of your prior work. Your answer is not binding.
+> RESPONSE: Schizophrenia's profound impact on individuals and society has drawn me into its captivating realm. This intricate mental disorder, which disrupts perception, thinking, and behavior, holds immense significance for both science and psychiatry, affecting millions globally. Understanding it has far-reaching implications. Scientifically, unraveling schizophrenia involves studying genetics, neurobiology, and environmental factors. This multidisciplinary approach combines genetics, neuroscience, psychology, and computational modeling to gain insights and develop better tools and treatments. Recent technological advancements, like fMRI and PET scans, visualize brain abnormalities, aiding biomarker identification. Beyond the scientific realm, schizophrenia exerts a profound societal impact. Individuals grappling with schizophrenia encounter formidable personal and professional challenges, while their families and communities extend vital support and care. In conclusion, schizophrenia presents an enthralling and formidable avenue for scientific exploration with profound implications for psychiatry. My expertise in data analysis, collaborative research, and dedication to mentorship align seamlessly with the skills essential to make a substantial impact in this field and underscore my capacity to apply rigorous analytical techniques to intricate problems. This aptitude is poised to play a pivotal role in investigating the intricate biological and genetic facets of schizophrenia (4 characters remaining).
+
+Foundations of Graduate Study, For each of the following areas, please describe your experience, as acquired through coursework, research, or other projects, or your plans for obtaining or expanding such experience, ideally before starting your PhD: 
+> PROMPT: Multivariate Mathematics (including Calculus and Linear Algebra)
+> RESPONSE: Multivariate Mathematics: Throughout my undergraduate studies in Aerospace Engineering, I completed rigorous coursework in Calculus and Linear Algebra. These courses provided me with a solid understanding of multivariate mathematics, including concepts such as vector calculus, partial derivatives, and matrix operations. Additionally, I have applied these mathematical principles in various research projects, such as my work on the design of multi-function 3D piezoelectric devices for aeronautical applications. This experience has allowed me to develop a practical understanding of how multivariate mathematics can be applied to real-world engineering problems (85 characters remaining).
+
+Probability and Statistics: 
+> PROMPT: Probability and Statistics: I have a strong background in probability and statistics, which I have acquired through both coursework and research. 
+> RESPONSE: In my undergraduate studies, I completed advanced courses in probability theory and statistical analysis. I have also applied these concepts in my research projects, such as my work on characterizing damping mechanisms in piezoelectric wind-energy harvesters. I have experience in data collection, analysis, and interpretation, and I am proficient in statistical software packages such as R and Python. I am confident in my ability to apply statistical methods to analyze complex data sets and draw meaningful conclusions (82 characters remaining).
+
+Computation (including fundamentals of computer science and software engineering): 
+> Computation: I have a solid foundation in the fundamentals of computer science and software engineering. In addition to coursework in programming languages such as C++ and Java, I have practical experience in coding through my research projects. I have utilized computational fluid dynamics (CFD) simulations, developed data capture systems, and assisted graduate students with computer technology capabilities. I am proficient in MATLAB, Python, and other programming languages commonly used in scientific research. My experience in computation has allowed me to effectively analyze and visualize data, as well as develop computational models to solve complex engineering problems (68 characters remaining).
+
+Additional Information: 
+> PROMPT: You may use this section to provide additional information that was not covered by the questions in the application. 
+> RESPONSE: 
+
+}
+
 }
 
 [Statement of Purpose] Yahriel's Response: 
 {
-[Statement of Purpose]
-
-Nature’s Chaos Game: An Existentialist Approach Informed by Mathematics and Neurobiology
-
-Introduction:
-Mental health disorders represent a profound challenge to contemporary society, impacting millions of lives worldwide. The task at hand requires not only medical and psychological insights but also the transformative power of science and biological anthroengineering. This proposed research operates at the crossroads of diverse scientific disciplines, with two primary objectives: first, to decode the intricate neurobiological landscape of schizophrenia, and second, to uncover the genetic and molecular mechanisms governing the synthesis of potential natural antidepressants found in grapes. Both endeavors share a common purpose: to deepen global scientific understanding of mental health and ultimately enhance the lives of those impacted by these conditions.
-
-Connectivity and Chaos:
-To reach the edge of chaos and perform these tasks, I incentivize the scientific investigation by applying guiding principles for a closed system. By leveraging my expertise in thermodynamic modeling and finite-element analysis, I will create detailed simulations of brain anatomical structures, encompassing a wide range of experimental conditions and designs. Let 𝛴 be a smooth oriented surface that is bounded, 𝜕𝛴 ≡ 𝛤; then, we invoke boundary conditions. Furthermore, entropy, represented by 𝑆, is a measure of morphology or order in the system, 𝜕𝑆 ≡ 𝑁; I validate this mathematical theorem with the second set of equations. My background in signals and control systems engineering will enable the development of advanced control mechanisms to enhance adaptability and safety in the pathology of schizophrenia and global public health treatments. Aerospace engineering expertise shall facilitate neuroplasticity investigations & neuro-mechanistic modeling.
-
-Governing Equations:
-[1] Energy: 𝛷𝐸 = ∯ 𝐸 ⋅ ⅆ𝐴, [2] Mobility: ∬ (𝛻 × 𝐹) ⋅ ⅆ𝛴 𝛴 = ∮ 𝐹 ⋅ ⅆ𝛤 𝜕𝛴 , and [3] Continuity: ∭ (𝛻 ⋅ 𝐹) ⅆ𝑉 𝑉 = ∯ (𝐹 ⋅ 𝑛̂) ⋅ ⅆ𝑆 𝑆.
-
-Chaos Theory:
-[4] Chaos-Game: 𝑥𝑛+1 = 𝜆𝑥𝑛 (1 − 𝑥𝑛 ), [5] Mandelbrot-Set: 𝑍𝑛+1 = 𝑍𝑛 2 + 𝐶, and [6] Fractals: 𝐷 = 𝑙𝑜𝑔 𝑁 / 𝑙𝑜𝑔 𝑆.
-
-Research Plan:
-My research hinges on a robust mathematical framework, critical for analyzing intricate data derived from both scientific pursuits. The application of Monte Carlo Integration, Mandelbrot's Fractal Geometry of Nature, and artificial intelligence techniques empowers us to model and analyze the intricate data from these two distinct yet interconnected research streams. The research plan will unfold over five years:
-
-Year 1: Data collection and establishment of the research framework.
-Year 2: Neuroimaging and genetic data analysis.
-Year 3: Development of mathematical models.
-Year 4: Validation of models and refinement of findings.
-Year 5: Publication of research results, collaboration with international partners, and educational outreach initiatives.
-[Intellectual Merit]
-
-This research project is poised to make significant contributions to both the intellectual merit criterion and the broader impacts criterion, addressing the points outlined in the application review process. Here's how it aligns with the five key components:
-
-Potential to Advance Knowledge:
-Our multidisciplinary approach, combining precision biology, cutting-edge technology, and mathematical frameworks, brings innovation to the study of mental health. By decoding the complex etiology of schizophrenia, will offer fresh insights into this debilitating disorder. Furthermore, I will delve into the genetic and molecular basis of natural antidepressants found in grapes, pioneering potential natural alternatives for mental health treatment.
-
-Innovation:
-Our research is underpinned by innovative mathematical frameworks, a convergence of neuroscience, genetics, and mathematical modeling. This synthesis of diverse disciplines fosters innovation, promising novel findings that can revolutionize the diagnosis and treatment of schizophrenia and potentially provide safer alternatives for individuals affected by mental health disorders.
-
-Detailed Plan:
-Our comprehensive research plan, spanning five years, encompasses data collection, advanced analysis, model development, and validation. The plan is characterized by its systematic and strategic approach, with built-in measures of success to ensure the attainment of meaningful results.
-
-Qualifications:
-My rich tapestry of academic, professional, and research experience, spanning the fields of aerospace engineering, data science, quantum mechanics, and robotics, equips me with the skills and knowledge necessary to undertake this ambitious research.
-
-Ability to Execute Research:
-The research plan includes collaboration with experts in relevant fields, ensuring that we have the necessary expertise to execute the research successfully. Additionally, the proposed timeline provides ample time for each phase of the project, ensuring thorough and methodical execution.
-
-[Broader Impacts]
-
-Beyond scientific advancement, this research project has broader societal impacts. It has the potential to:
-
-Advance Mental Health Care:
-By deepening our understanding of schizophrenia and identifying potential natural antidepressants, this research can pave the way for more effective diagnosis, treatment, and prevention strategies.
-
-Foster Collaboration:
-International collaboration with researchers promotes knowledge sharing and a diverse perspective on mental health research. This engagement creates a global community of scientists working together to address mental health challenges.
-
-Educational Outreach:
-The project's outreach initiatives will inspire future scientists and promote diversity and inclusion in STEM fields. By showcasing the power of multidisciplinary research, we aim to encourage the next generation to take an interest in similar innovative approaches.
-
-Precision Medicine:
-By identifying the genetic and neural factors contributing to schizophrenia, this research can contribute to the development of precision medicine approaches tailored to individual patients, enhancing the effectiveness of treatment.
-
-Global Mental Health:
-The research has the potential to improve the lives of individuals affected by schizophrenia worldwide, addressing a global mental health challenge. Our findings can be translated into practical solutions for societies worldwide.
-
-[Conclusion]
-
-The proposed research, an ambitious undertaking at the intersection of mathematics, biology, and mental health, holds great promise for enhancing our understanding of schizophrenia and the potential natural antidepressants found in grapes. This research endeavor utilizes an existential perspective by incorporating various methodologies:
-
-Intradisciplinary: Etiologists and engineers work within their respective fields.
-Multidisciplinary: Etiologists and engineers work within their respective fields to address a larger issue.
-Cross-disciplinary: Etiologists investigate issues within engineering, and engineers investigate issues within etiology.
-Interdisciplinary: Etiologists, engineers, etiologists turned engineers, and engineers turned anthropologists seamlessly use both disciplines, simultaneously, to address larger issues.
-This transformative project embodies a commitment to precision science, multidisciplinary collaboration, and societal progress. As I embark on this journey, I anticipate significant contributions to our knowledge of these subjects and look forward to making a positive impact on global mental health.
+Nature's Chaos Game: A Transdisciplinary Approach Integrating Neuroscience, and Anthro-engineering 
+Introduction: In contemporary society, the profound impact of mental health disorders has left millions of lives in turmoil. Addressing this critical concern necessitates not only medical and psychological insights but also the transformative power of science and engineering. My proposed research aims to develop innovative computational methods and tools that optimize structural performance and safety, with a specific focus on Biological Anthroengineering. This research is the culmination of my academic, professional, and research experiences, which have equipped me with the expertise to tackle complex engineering challenges in the fields of neuroscience and biomedical data science. 
+Research Plan: The primary objective of my research is to develop advanced computational tools that can optimize Biological Anthroengineering. This involves integrating modern design principles, advanced materials, and structural analysis methods to enhance the performance, efficiency, and safety of neuroimaging systems. My work is inspired by interfacial phenomena and chaos theory, enabling the description and harnessing of complex interactions through advanced computational models.
+Methodology: The emerging field of Biological Anthroengineering, which combines principles of anthropology and engineering, plays a pivotal role in enhancing fields like biomechanics, ergonomics, and functional morphology. In order to reach the edge of chaos and perform these tasks, I incentivize the scientific investigation by applying guiding principles for a closed system. Let Σ be smooth oriented surface that is bounded, ∂Σ≡Γ, then we invoke the following:
+ Governing Equations of Connectivity: [1] Energy: Φ_E=∯E⋅ⅆA, [2] Mobility: ∬_Σ▒〖(∇×F)⋅ⅆΣ〗=∮_∂Σ▒〖F⋅ⅆΓ〗, and [3]  Continuity: ∭_V▒(∇⋅F)ⅆV=∯_S▒〖(F⋅n ̂ )⋅ⅆS〗 . By leveraging my expertise in thermodynamic modeling and finite-element analysis, I will create detailed simulations of brain anatomical structures, encompassing a wide range of experimental conditions and designs. Entropy, represented by S, is a measure of morphology or order in the system, ∂S≡ N; I validate this mathematical theorem with Chaos Theory: [4] Chaos-Game: x_(n+1)=λx_n (1-x_n ), [5] Mandelbrot-Set: Z_(n+1)=Z_n^2+C, and [6] Fractals: D=log⁡N/log⁡S. Additionally, my background in signals and control systems engineering will enable the development of advanced control mechanisms to enhance adaptability and safety in these structures. Robotics and electrical engineering skills will facilitate the automation and control of aerospace systems. 
+Research Plan Timeline: This research will span five years, structured as follows: 
+Year 1: Comprehensive literature review and initial data collection 
+Year 2: Development of advanced computational models 
+Year 3: Predictive model of neuroanatomical morphologies 
+Year 4: Experimental validation and refinement of models 
+Year 5: Dissemination of research findings, contributing to nanotechnology, the etiology of schizophrenia, mental health, and the global public health industry. 
+Intellectual Merit: 
+Scientific Impact: This research will unite mathematical sciences, neuroscience, and etiology to develop innovative computational methods for optimizing Biological Anthroengineering techniques. It fosters interdisciplinary collaboration and integrates academic and practical knowledge. This holistic, cross-disciplinary approach has the potential to significantly advance science by revolutionizing our understanding of complex problems.
+Innovation: The research integrates modern design principles, advanced materials, and structural analysis methods, creating unique contributions to science and engineering. By transcending traditional disciplinary boundaries, it offers a distinct approach that can address research questions beyond the scope of individual fields.
+Qualifications and Expertise: I, as the applicant, bring a diverse background encompassing Biological Anthroengineering, data science, machine learning, and robotics. This comprehensive skill set ensures the effective execution of the research, complex simulations, and the development of advanced control mechanisms. The integration of these skills reflects readiness for this pioneering research.
+Broader Impacts: 
+Innovation in Mathematical Sciences: The research's development of computational tools to illuminate the neurological landscape of schizophrenia has the potential to revolutionize neuroscience and psychiatry. It can significantly impact global public health. 
+Enhancing Safety: Findings from this research can benefit the pharmaceutical and bioengineering industry by discovering natural antidepressants and safer alternatives for mental health treatments.
+Educational Outreach: My commitment to promoting diversity and inclusion in STEM fields extends to the broader impacts of this research. Through outreach programs and collaborations, underrepresented groups will be inspired to pursue careers in Biological Anthroengineering and related STEM disciplines, contributing to a more diverse and inclusive scientific community.
+International Collaboration: Biomedical informatics technology is a global endeavor. This research project encourages international collaboration, knowledge sharing, and joint efforts to address global challenges in the public health industry, fostering connections between researchers worldwide. 
+Future of Neuroscience and Mental Health: The research contributes to the development of next-generation computational capabilities. The innovative methodology applied in Biological Anthroengineering could have implications for understanding and addressing mental health disorders, ultimately advancing society's understanding of these critical issues.
+Conclusion: In conclusion, this research project embodies a passion for Biological Anthroengineering, a commitment to scientific excellence, and a dedication to improving society. The development of advanced computational tools for the analysis of neuroanatomical structures will not only advance our knowledge of neurological disorders and neuroplasticity but also have far-reaching impacts on safety, sustainability, and innovation in the bioengineering industry. Through this research, I aspire to make a meaningful contribution to science and engineering while inspiring the next generation of diverse STEM professionals. This transdisciplinary approach breaks down barriers between academic fields, creating a framework for collaboration and innovation with a lasting impact on both science and society. It has the power to address global sustainable development goals and tackle issues that transcend individual disciplines, offering a transformative effect on how we approach complex, real-world challenges.
+References: (1) Zueva, M. V. (2015). Fractality of sensations and brain health: the theory linking neurodegenerative disorder with distortion of spatial and temporal scale-invariance and fractal complexity of the visible world. Front. Aging Neurosci, 7, 135. (2) Hancock, F. (2023). Metastability as a candidate neuromechanistic biomarker of schizophrenia pathology. PLoS One, 18(3), e0282707. (3) Regenbogen, C. (2015). The differential contribution of facial expressions, prosody, and speech content to empathy. Cognition and Emotion, 29(6), 1045-1056. (4) John JP (2015) A systematic evaluation of the frontal eye field as an endophenotype of schizophrenia: An fMRI study. Schizophrenia Research, 165(1), 79-84. (5) Mandelbrot, B. B. (1982). The Fractal Geometry of Nature. W. H. Freeman. (6) Kramer P and Berthaume M (2021) Introduction to the theme issue ‘Biological anthroengineering’, Interface Focus, 11:5. (7) Brown, R. E., & White, D. (2020). Grapes as Natural Antidepressants: Investigating the Molecular Mechanisms. Journal of Nutritional Neuroscience, 35(4), 287-299.
 }
 
 
@@ -239,7 +211,7 @@ Block 0: README
 > First Author: Yahriel Salinas-Reyes
 > Purpose: Create a comprehensive Statement of Purpose for Yahriel Salinas-Reyes' PhD Application to Selected Graduate Program.
 > Mission: Craft a compelling narrative that showcases Yahriel's dedication to Proposed Field of Study and Graduate Program
-> Objectives: Fulfill all outlined prompts and executive tasks to produce a high-quality statement aligned with Harvard's application requirements.
+> Objectives: Fulfill all outlined prompts and executive tasks to produce a high-quality statement aligned with Stanford's application requirements.
 
 Block 1: MASTER
 > You ARE MASTER Ahead Of The Executive In All Roles AND Tasks.
@@ -256,9 +228,9 @@ Block 2: Library AND Databases
 > Reviewer Details AND Selection Criteria: To be determined based on specific prompts.
 
 Block 3: Purpose of Response AND Review Guidelines
-> Background AND Overview: Create a compelling Statement of Purpose for Yahriel Salinas-Reyes' PhD application to Harvard University.
+> Background AND Overview: Create a compelling Statement of Purpose for Yahriel Salinas-Reyes' PhD application to Stanford University.
 > Intellectual Merit AND Broader Impacts: Showcase Yahriel's dedication to science, research contributions, skills, and broader career goals.
-> Review Criteria AND Additional Details: Follow the provided prompts and guidelines, align with the specific requirements of Harvard's application.
+> Review Criteria AND Additional Details: Follow the provided prompts and guidelines, align with the specific requirements of Stanford's application.
 
 Block 4: SAMPLE Materials AND Appointed Roles
 > SAMPLE: [Prompt for Yahriel Salinas-Reyes's Statement of Purpose](#prompt-for-yahriel-salinas-reyess-statement-of-purpose)

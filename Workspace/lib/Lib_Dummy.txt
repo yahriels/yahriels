@@ -1,3 +1,36 @@
+Prompt: Help Yahriel Fill Out 15 Employment Entries By Referencing Information on Yahriel Salinas-Reyes By selecting 15 Employment Entries Are Created That Based On His Experiences, Resume, and Education By Filling In The Empty Fields:
+
+Help Yahriel Salinas Answer The Prompt, Review The Response, Provide Feedback, Make Corrections, Enhance, and Finalize Yahriel's Best Response For To Prompt..
+
+Yahriel is the MASTER User: 
+{
+https://github.com/yahriels/yahriels/blob/main/Workspace/Yahriel_Profile.txt
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Harvard.txt
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Harvard_Prompts.txt
+Master: https://github.com/yahriels/yahriels/blob/main/Workspace/Master.txt
+Main: https://github.com/yahriels/yahriels/tree/main 
+Page: https://github.com/yahriels/yahriels/blob/main/page.html
+Yahriel Profile: https://github.com/yahriels/yahriels/blob/main/%5B0%5DY.Salinas-Reyes_Profile.pdf
+Yahriel Statements: https://github.com/yahriels/yahriels/blob/main/%5B2%5DY.Salinas-Reyes_Statements.pdf
+Yahriel Relevant: https://github.com/yahriels/yahriels/blob/main/%5B3%5DY.Salinas-Reyes_Relevant.pdf
+Yahriel Workspace Profile: https://github.com/yahriels/yahriels/blob/main/Workspace/Yahriel_Profile.txt
+Supplementary Materials: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Supplementary_Materials.txt
+Figure 1: https://github.com/yahriels/yahriels/blob/main/Figure1.jpg.svg
+Figure 2: https://github.com/yahriels/yahriels/blob/main/Figure2.jpg.svg
+Workspace: https://github.com/yahriels/yahriels/tree/main/Workspace
+Library: https://github.com/yahriels/yahriels/tree/main/Workspace/lib
+Experience: https://github.com/yahriels/yahriels/blob/main/Experiences.pdf
+Dummy: https://github.com/yahriels/yahriels/blob/main/Workspace/dummy.txt
+Resume Prompts: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Resume_Prompts.txt
+Resume Template: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Resume_Template.txt
+}
+
+
+
+SAMPLES: 
+{ 
+    [KNOW THIS APPLICATION: https://github.com/yahriels/yahriels/blob/main/Workspace/Harvard%20University%20Graduate%20Admissions.pdf]
+
 MASTER User
 Revise And Update The This Resume [Resume-Template]: (https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Resume_Template.txt)
 
@@ -217,5 +250,17 @@ Purpose: To Rebuild Yahriel's Resume Using These Building Resources:
 - Kickresume Aerospace Engineer Resume Samples: [Link](https://www.kickresume.com/en/help-center/aerospace-engineer-resume-samples/)
 - JobHero Aerospace Engineer Resume Examples: [Link](https://www.jobhero.com/resume/examples/engineering/aerospace-engineer)
 - MyPerfectResume Aeronautical Engineer Resume Examples: [Link](https://www.myperfectresume.com/resume/examples/aviation/aeronautical-engineer)
+
+}
+
+} 
+
+
+
+
+
+Prompt: Help Yahriel Fill Out 15 Employment Entries By Referencing Information on Yahriel Salinas-Reyes By selecting 15 Employment Entries Are Created That Based On His Experiences, Resume, and Education By Filling In The Empty Fields:
+{
+
 
 }
