@@ -1,1149 +1,305 @@
-First	Last	Research
-Monther	Abu-Remaileh
-We study subcellular metabolism in health and disease.
-Alyce	Adams
-Research summary unavailable
-Nima	Aghaeepour
-Research summary unavailable
-Raag	Airan
-We develop technologies for noninvasive intervention upon the nervous system.
-Fernando	Alarid Escudero
-Research summary unavailable
-Ash	Alizadeh
-Systems immunology & Oncogenomics of B-cell lymphomas
-Nicolas	Altemose
-Long-read DNA sequencing; chromatin dynamics; centromeres; repetitive DNA
-Russ	Altman
-Informatics to understand drug/gene interactions
-Manuel	Amieva
-Interactions between bacterial pathogens and the host epithelium
-Katrin	Andreasson
-Mechanisms underlying maladaptive neuroinflammation in neurological diseases
-Lay Teng	Ang
-Research summary unavailable
-Michael	Angelo
-Research summary unavailable
-Justin	Annes
-The ANNES LABORATORY of Molecular Endocrinology: Leveraging Chemical...
-Steven	Artandi
-Origins of cancer, telomerase function and regulation
-Euan	Ashley
-Precision health
-Laura	Attardi
-p53 pathways in development, cancer, and disease
-Rosa	Bacchetta
-In the coming years, I plan to further determine the genetic and...
-Stephen	Baccus
-Neural circuits and neural coding; retinal visual processing
-Mike	Baiocchi
-Research summary unavailable
-Julie	Baker
-Trophoblast evolution, biology and disease
-Laurence	Baker
-Much of my current research examines the impacts of changing...
-Jennifer	Bando
-Mucosal immunology, innate lymphocytes
-Maria	Barna
-Regulation of Development by RNA, Ribosomes, & Landscapes of Cell Interactions
-Christopher	Barnes
-We combine structural biology and immunology to study human health and disease
-Annelise	Barron
-Biophysical mechanisms of human host defense peptides
-Michael	Bassik
-Developing new genetic screening tools to identify cancer drug targets
-Mohsen	Bayati
-Large-scale data analysis and data-driven healthcare
-Philip	Beachy
-Biology and mechanism of Hedgehog signaling; tissue regeneration and neoplasia
-Beth	Beadle
-Research summary unavailable
-Laren	Becker
-Research summary unavailable
-Corinne	Beinat
-The focus of my research is to develop novel imaging and treatment...
-Gill	Bejerano
-large effect variants, cryptogenomics, healthcare records ML, risk and economics
-Sean	Bendall
-Single cell proteomic analysis of developing human systems
-Eran	Bendavid
-My research interests involve understanding the relationship between...
-Jade	Benjamin-Chung
-Interventions to prevent environmentally-mediated infectious diseases
-Dominique	Bergmann
-Cell fate, stem-cell behaviors, and cell polarity in plant epidermal lineages
-Joseph	Berry
-Research summary unavailable
-Alice	Bertaina
-Dr. Bertaina is a highly experienced clinician and will play a key...
-Carolyn	Bertozzi
-Research summary unavailable
-Ami	Bhatt
-How do microbes impact human health? We use genomics to unpack this mystery...
-Jayanta	Bhattacharya
-Research summary unavailable
-Devaki	Bhaya
-Research summary unavailable
-Nidhi	Bhutani
-DNA demethylation, Mechanisms of reprogramming, Musculoskeletal regeneration
-Lacramioara	Bintu
-Research summary unavailable
-Helen	Blau
-Regenerative medicine & stem cells, nuclear reprogramming, cell fate plasticity
-Catherine	Blish
-NK cells, HIV, influenza, EBV, CMV, immune regulation during pregnancy
-Barbara	Block
-Thermal physiology, open ocean predators, ecological physiology and tuna biology
-Steven	Block
-Single molecule biophysics using optical trapping and fluorescence
-Fernando	Boada
-Research summary unavailable
-Kwabena	Boahen
-Boahen founded and directs Stanford’s Brains in Silicon Lab
-Alistair	Boettiger
-How does nanoscale 3D chromatin structure affect gene expression in development?
-Matthew	Bogyo
-Small molecules to study cancer, inflammation and infectious disease
-Paul	Bollyky
-Chronic bacterial infections
-Melissa	Bondy
-Principal Investigator, Discovery, Biology and Risk of Inherited...
-John	Boothroyd
-Cell and molecular analysis of Toxoplasma's interaction with the host
-Steven	Boxer
-Biophysical studies of protein structure and function
-Onn	Brandman
-How cells sense and respond to stress.
-Jennifer	Brophy
-Synthetic biology in plants and their associated microbes
-Anne	Brunet
-Genetic and epigenetic regulation of aging
-Axel	Brunger
-Molecular mechanisms of neurotransmitter release
-Zev	Bryant
-Molecular motors: analysis and design of structure and function
-Paul	Buckmaster
-Hippocampal circuitry, mechanisms of temporal lobe epilepsy
-Marion	Buckwalter
-Stroke recovery, post-stroke dementia, glial cells
-Carlos	Bustamante
-Research summary unavailable
-Mark	Buyyounouski
-Patient-centered and artificial intelligence-augmented medical decision making
-David	Camarillo
-Research summary unavailable
-MaryAnn	Campion
-Research summary unavailable
-Andres	Cardenas
-Research summary unavailable
-Jan	Carette
-Genetic screens in human cells to study host-pathogen interactions
-Lynette	Cegelski
-Chemical and Structural Microbiology; Antibiotics; Solids NMR; Chemical Biology
-Charles	Chan
-Dr. Chan is a dual-fellowship trained orthopaedic surgeon who...
-David	Chan
-Research summary unavailable
-Howard	Chang
-Genome regulation by long noncoding RNAs
-Akshay	Chaudhari
-Dr. Chaudhari is interested in the application of artificial...
-Ovijit	Chaudhuri
-Cell migration, division, morphogenesis and mechanotransduction in 3D matrices
-James	Chen
-Chemical and developmental biology
-Jonathan	Chen
-Data-Mining Electronic Medical Records, Medical Decision Making, AI/ML
-Lu	Chen
-synaptic function and plasticity, dendritic integration, fragile-X syndrome,
-Xiaoke	Chen
-Brain circuits mediating motivated behaviors; pain, addiction and depression.
-E.J.	Chichilnisky
-Functional circuitry of the retina and design of retinal prostheses
-Yueh-Hsiu	Chien
-Antigen recognition and function of lymphocytes in health and disease 
-Gheorghe	Chistol
-Research in my laboratory is aimed at understanding how eukaryotes...
-Wah	Chiu
-Cryo-electron microscopy and tomography and their biological applications
-Danny	Chou
-Peptide and protein engineering for probe and therapeutics development
-Gilbert	Chu
-DNA repair, immune diversity, blood ammonia, and education to serve human health
-Steven	Chu
-Optical, ultrasound imaging in biology, biomedicine; batteries, electrochemistry
-Katrin	Chua
-Chromatin regulation and nuclear signaling in cancer and aging
-Karlene	Cimprich
-Maintenance of genome stability and cancer biology
-Thomas	Clandinin
-Genetic approaches to circuit structure and function
-Michael	Clarke
-Molecular regulation of self renewal in normal stem cells and cancer
-Jennifer	Cochran
-Protein engineering to develop research tools and clinical therapeutics
-Todd	Coleman
-Research summary unavailable
-Le	Cong
-Research summary unavailable
-Steven	Corsello
-Cancer therapeutics and functional genomics
-Markus	Covert
-Combining experiment & computational modeling to accelerate biological discovery
-Gerald	Crabtree
-Mechanisms and genetics of chromatin regulation in development and disease
-Jonas	Cremer
-Quantitative microbial physiology and microbe host interactions
-Bianxiao	Cui
-Biophysics of neurons
-Christina	Curtis
-predictive biomarkers, tumor evolution, disease forecasting
-Martha	Cyert
-Chemical and systems biology of Ca2+ dependent phosphatase signaling networks
-Agnieszka	Czechowicz
-Stem cell biology, transplantation, cancer, genetic disease, bone marrow failure
-Jeremy	Dahl
-Ultrasonic beamforming, imaging methods, systems, and devices.
-Hongjie	Dai
-Research summary unavailable
-Gretchen	Daily
-Land use, biodiversity dynamics, ecosystem services
-Roxana	Daneshjou
-Research summary unavailable
-Bruce	Daniel
-Research summary unavailable
-Kyle	Daniels
-Research summary unavailable
-Barnabas	Daru
-Research summary unavailable
-Rhiju	Das
-RNA/RNP modeling and design
-Laura	Dassama
-Research summary unavailable
-Mark	Davis
-T cell recognition and human immunology
-Ronald	Davis
-Technology development of DNA seq, RNA, protein & drug analysis in medicine
-Karl	Deisseroth
-Novel optical tools to probe neural circuits in health and disease
-Scott	Delp
-Research summary unavailable
-Utkan	Demirci
-Research summary unavailable
-Mark	Denny
-Biomechanics, ecology, and ecological physiology
-Manisha	Desai
-Research summary unavailable
-Tushar	Desai
-Lung stem cells, organoids, cancer, fibrosis, acute lung injury, cystic fibrosis
-Maximilian	Diehn
-Cancer stem cell biology, cancer genomics, biomarkers
-Jun	Ding
-Cellular and circuit mechanisms underlying movement control and motor behavior
-Jose	Dinneny
-Cellular and developmental basis of plant responses to the environment.
-Rodolfo	Dirzo
-Evolutionary ecology of species interactions and conservation science
-Scott	Dixon
-Investigating cell death using chemical biology and functional genomics
-Dylan	Dodd
-Harnessing the gut microbiome to treat human disease.
-Sebastian	Doniach
-Study of changes in conformation of proteins and RNA using x-ray scattering
-Ron	Dror
-My lab’s research focuses on computational biology, with an emphasis...
-Shaul	Druckmann
-Study the computational operation of neural circuits by theory and data analysis
-Justin	Du Bois
-Research summary unavailable
-Jeffrey	Dukes
-Research summary unavailable
-Laramie	Duncan
-Research summary unavailable
-Alexander	Dunn
-Understanding the physical principles that shape living cells
-Gozde	Durmus
-Dr. Durmus' research focuses on applying micro/nano-technologies to...
-Elizabeth	Egan
-Elucidating the role of the host erythrocyte in Plasmodium falciparum malaria
-David	Ehrhardt
-Research summary unavailable
-Shirit	Einav
-High-resolution dissection of the virus-host interplay and disease pathogenesis
-Drew	Endy
-Foundations and frontiers of synthetic biology; bio-strategy and policy
-Barbara	Engelhardt
-Research summary unavailable
-Edgar	Engleman
-Immune mechanisms in disease pathogenesis and treatment
-Jesse	Engreitz
-Mapping the regulatory genome to identify genetic mechanisms of heart diseases
-Daniel	Ennis
-Research summary unavailable
-Neir	Eshel
-Research summary unavailable
-Ryann	Fame
-Research summary unavailable
-Jessica	Feldman
-Cell patterning and cytoskeletal organization during development
-Marcus	Feldman
-Human genetic and cultural evolution, mathematical biology, demography of China
-Liang	Feng
-Structure, dynamics and function of membrane transport proteins and enzymes
-Katherine	Ferrara
-Research summary unavailable
-James	Ferrell
-Cell cycle regulation and systems biology
-Chris	Field
-Climate-change science, global ecology, global carbon cycle, ecosystem ecology
-Andrew	Fire
-RNA-based regulation, somatic diversity
-Michael	Fischbach
-Microbiome chemistry, genetics, computation; cell/gene therapy delivery
-Daniel	Fisher
-Evolutionary & ecological dynamics & diversity, microbial, expt'l, & cancer
-James	Ford
-Mammalian DNA repair and cancer genomics
-Polly	Fordyce
-High-throughput and quantitative biochemistry, biophysics, & single-cell assays
-Hunter	Fraser
-The evolution of complex traits
-Richard	Frock
-Mechanisms of DNA double-strand break repair and chromosomal translocations
-Judith	Frydman
-Protein folding, protein quality control, amyloid and misfolding diseases
-Tadashi	Fukami
-Community ecology
-Margaret	Fuller
-Self-renewal, proliferation and differentiation in adult stem cell lineages
-Lawrence	Fung
-Dr. Lawrence Fung an assistant professor in the Department of...
-Stephen	Galli
-The development of mast cells and basophils, and their roles in health & disease
-Surya	Ganguli
-Theoretical / computational neuroscience
-Alex	Gao
-Harnessing microbial genetic diversity
-Xiaojing	Gao
-control human cells for basic research and therapies using synthetic biology
-Christopher	Garcia
-Receptor signaling and structure
-Justin	Gardner
-Linking human cortical activity to perception and cognition
-Matthias	Garten
-Research summary unavailable
-Chuck	Gawad
-Research summary unavailable
-Andrew	Gentles
-Computational systems biology
-Paul	George
-CONDUCTIVE POLYMER SCAFFOLDS FOR STEM CELL-ENHANCED STROKE...
-Olivier	Gevaert
-Computational biology for multi-scale data fusion in biomedicine
-Pejman	Ghanouni
-Research summary unavailable
-William	Giardino
-The Giardino Laboratory: Circuits and Systems Neuroscience
-Erin	Gibson
-circadian control of glia in health and disease
-Casey	Gifford
-Research summary unavailable
-William	Gilly
-Ion channels in excitable cells; Locomotion and chromogenic behavior in squid
-Lisa	Giocomo
-Cellular and molecular mechanisms of spatial learning and navigation
-Aaron	Gitler
-Mechanisms of human neurodegenerative diseases
-Jeffrey	Glenn
-Molecular virology, novel antiviral strategies, and liver tissue engineering
-Gary	Glover
-fMRI acquisition/analysis, experimental design methods
-Anna	Gloyn
-Genetic discovery and molecular mechanisms for diabetes
-Lauren	Goins
-Hematopoiesis, HSCs, Drosophila, cell cycle, immunity, stress, AML, signaling
-Garry	Gold
-Research summary unavailable
-Jeffrey	Goldberg
-Lab research on molecular mechanisms of survival and regeneration in...
-Jeremy	Goldhaber-Fiebert
-Research summary unavailable
-Mary	Goldstein
-health information technology for quality improvement & medical-decision-making
-Andrea	Goldstein-Piekarski
-Research summary unavailable
-Natalia	Gomez-Ospina
-Biochemical correction of lysosomal storage disorders using genome editing
-Benjamin	Good
-Research summary unavailable
-Miriam	Goodman
-Sensory transduction, sensorimotor integration in C. elegans
-Steven	Goodman
-Research summary unavailable
-Deborah	Gordon
-collective behavior, social insects, population and behavioral genetics
-Ian	Gotlib
-Cognitive, neural, and genetic aspects of depression in children and adults
-Or	Gozani
-Role of chromatin signaling in nuclear programming and disease regulation
-Edward	Graves
-Molecular imaging of cancer radiation biology and the tumor microenvironment
-Nathanael	Gray
-Research summary unavailable
-Hank	Greely
-Ethical, legal, and social issues in the Biosciences
-William	Greenleaf
-Exploring and quantifying the physical genome.
-Michael	Greicius
-Research summary unavailable
-Kalanit	Grill-Spector
-Neural correlates of visual perception
-Kevin	Grimes
-Research summary unavailable
-James	Gross
-Emotion regulation in healthy and clinical populations
-Arthur	Grossman
-How photosynthetic organisms perceive and respond to their environment
-Xuejun	Gu
-Research summary unavailable
-Corinna	Haberland
-Research summary unavailable
-Elizabeth	Hadly
-Animal response to past, present & future climatic change
-Summer	Han
-My current research focuses on understanding the genetic and...
-Andrea	Hanson-Kahn
-Research summary unavailable
-Pehr	Harbury
-chemical evolution, in situ structural biology, next-gen molecular profiling
-Brian	Hargreaves
-Research summary unavailable
-Keren	Haroush
-Neural circuits of dynamic social interactions and social decision making
-Trevor	Hastie
-Statistical models with applications in biology, medicine and industry
-Zihuai	He
-Statistical genetics and other omics to study Alzheimer's disease.
-John	Hegarty
-Research summary unavailable
-H	Heller
-Neurobiology of sleep and circadian rhythms, memory, and thermoregulation
-Stefan	Heller
-Development & regeneration of cochlear and vestibular sensory hair cells
-V.	Henderson
-Neuroepidemiology; human cognition in aging and neurodegenerative dementia
-Tina	Hernandez-Boussard
-My background and expertise is in the field of computational biology,...
-Rogelio	Hernandez-Lopez
-Understanding and engineering biomedical relevant cellular behaviors
-Daniel	Herschlag
-RNA and protein enzymes; RNA folding; cellular behavior of RNA/protein complexes
-Leonore	Herzenberg
-Development and function of B cell subpopulations, FACS
-Shaul	Hestrin
-Neocortical Circuits, in vivo neuronal activity and behavior
-Mark	Hlatky
-Outcomes research, comparative effectiveness, and economic evaluation
-Hadi	Hosseini
-Our lab’s research portfolio crosses multiple disciplines including...
-Michael	Howitt
-Our lab is broadly interested in how intestinal microbes shape our...
-Dimitre	Hristov
-Research summary unavailable
-Ann	Hsing
-Research Focus • Epidemiology of prostate, hepatobiliary, and...
-Kerwyn	Huang
-Cell shape detection, determination, and maintenance in bacteria
-Possu	Huang
-Protein design: molecular engineering, method development and novel therapeutics
-Ting-Ting	Huang
-Redox balance and tissue regeneration under pathogenic conditions
-John	Huguenard
-Oscillations/synchronization of neural networks; epilepsy
-Ruth	Huttenhain
-Research summary unavailable
-Mary	Hynes
-Research summary unavailable
-Andrei	Iagaru
-Research summary unavailable
-John	Ioannidis
-My work is trying to optimize the chances of getting more reliable,...
-Peter	Jackson
-Signaling via primary cilia and metabolism linked to human disease and cancer
-Christine	Jacobs-Wagner
-Research summary unavailable
-Prasanna	Jagannathan
-Research summary unavailable
-Sidd	Jaiswal
-Aging of the hematopoietic and immune systems
-Michelle	James
-The primary aim of my lab is to enable early detection and precision...
-Theodore	Jardetzky
-Structural biology of allergy and infectious disease
-Daniel	Jarosz
-Protein conformational switches in evolution, disease, and development
-Livnat	Jerby
-Reprogramming immune responses across molecular and cellular modalities.
-Michael	Jewett
-Research summary unavailable
-Esther	John
-Epidemiology of breast and prostate cancer in racial/ethnic minority populations
-Iain	Johnstone
-Empirical bias/shrinkage estimation; non-parametric, smoothing;...
-Shamit	Kachru
-I am a broadly interested theoretical physicist.
-Anusha	Kalbasi
-Research summary unavailable
-Julia	Kaltschmidt
-Neural circuit formation underlying locomotion, sexual function and gut motility
-Michael	Kapiloff
-Dr. Michael S. Kapiloff is a faculty member in the Departments of...
-Julie	Kauer
-Research summary unavailable
-Mark	Kay
-Gene therapy and non-coding RNA biology
-Corey	Keller
-The overarching goal of Dr. Keller’s Laboratory, the Laboratory for...
-Purvesh	Khatri
-Research summary unavailable
-Paul	Khavari
-Genome regulation in stem cell differentiation and cancer
-Chaitan	Khosla
-Antibiotic biosynthesis and engineering; chemical foundations of inflammation
-Butrus	Khuri-Yakub
-Research summary unavailable
-Peter	Kim
-Viral membrane fusion and its inhibition by drugs and antibodies.
-Seung	Kim
-Research summary unavailable
-Seung	Kim
-Pancreas development, islet biology and disease mechanisms
-Abby	King
-My interests include the applications of behavioral theory and social...
-David	Kingsley
-Genetics and genomics of evolutionary change in sticklebacks, mice, and humans
-Karla	Kirkegaard
-Understanding RNA virus replication to thwart drug resistance and disease
-Richard	Klein
-Human biological and behavioral evolution
-Teri	Klein
-Pharmacogenomics, PGx clinical implementation, genome annotations-drug response
-Juliet	Knowles
-Epilepsy affects ~1% of all children and is defined by recurrent,...
-Brian	Knutson
-Neural basis of emotion, applied to mental health and decision making
-Brian	Kobilka
-Structural basis of G protein coupled receptor signal transduction
-Feliks	Kogan
-My research is focused on the development and clinical translation of...
-Silvana	Konermann
-Research summary unavailable
-Eric	Kool
-Chemistry of RNA and DNA; transcriptomics; DNA repair; fluorescent probes
-Ron	Kopito
-Protein quality control
-Roger	Kornberg
-The molecular basis of transcription, from chromatin to mRNA
-Sheri	Krams
-NK Cell Biology, microRNAs, Exosomes, CyTOF, Transplantation
-Mark	Krasnow
-Genetic/molecular dissection of lung development, stem cells, cancer & breathing
-Ellen	Kuhl
-I am a Professor of Mechanical Engineering, Bioengineering...
-Anshul	Kundaje
-Integrative analysis of functional genomic data with a focus on gene regulation
-Calvin	Kuo
-Organoid modeling of cancer and immunotherapy, GI stem cells, angiogenesis
-Allison	Kurian
-Cancer genetics, precision oncology and quality of care at the population level
-Curtis	Langlotz
-machine learning, deep neural networks, computer vision, language processing
-Tobias	Lanz
-Research summary unavailable
-Quynh-Thu	Le
-Detecting and targeting hypoxia in head and neck/lung cancers
-Carolyn	Lee
-Research summary unavailable
-Jin Hyung	Lee
-In vivo visualization and control of neural circuits
-Marc	Levenston
-Research summary unavailable
-Craig	Levin
-In vivo molecular imaging: Novel instrumentation and algorithms
-Michael	Levitt
-Computational biology writ large. Recent focus on COVID-19 Coronavirus Epidemic
-Ronald	Levy
-The immune system and cancer
-David	Lewis
-T cell responses of neonates
-Richard	Lewis
-Mechanisms and functions of store-operated calcium channels
-Jin	Li
-RNA editing: from biology to therapy
-Lingyin	Li
-Research summary unavailable
-Ruijiang	Li
-Our lab is focused on the development and application of novel...
-Michael	Lim
-Research summary unavailable
-Michael	Lin
-Protein-based technologies for investigating and controlling biology in vivo
-Scott	Linderman
-Research summary unavailable
-Jan	Liphardt
-Research summary unavailable
-Joseph	Lipsick
-Cancer Genetics and Epigenetics
-Wu	Liu
-Radiation therapy physics
-Andreas	Loening
-Sequence and contrast agent development for body MR and PET/MR.
-Kyle	Loh
-Research summary unavailable
-Jonathan	Long
-Research summary unavailable
-Sharon	Long
-Biochemistry, genetics and cell biology of plant-bacterial symbiosis
-Michael	Longaker
-Biology of wound healing, scars, keloids, & the stem cell biology of bone growth
-Billy	Loo
-Next-gen radiotherapy technology & biology research, advanced lung cancer care
-Yahli	Lorch
-Research summary unavailable
-Irene	Lorenzo Llorente
-Research summary unavailable
-Christopher	Lowe
-Evolution and development, specifically the evolution of the deuterostomes
-Sydney	Lu
-Research summary unavailable
-Ying	Lu
-Research summary unavailable
-Emma	Lundberg
-Research summary unavailable
-Liqun	Luo
-Organization and Assembly of Neural Circuits
-M	MacIver
-Neuropharmacology and mechanisms of action for CNS active drugs.
-Crystal	Mackall
-We focus on developing immune based therapeutics for the treatment of cancer.
-Daniel	Madison
-Synaptic Plasticity in synapses between individual neuron pairs.
-Merritt	Maduke
-Molecular mechanisms of ion channels and transporters
-Holden	Maecker
-Immune profiling: T cell response signatures to chronic pathogens and cancer
-Ravindra	Majeti
-Characterization and targeting of leukemia stem cells in hematologic cancers
-Yvonne	Maldonado
-The research I have conducted has been focused on epidemiologic...
-Robert	Malenka
-Synaptic plasticity
-Parag	Mallick
-Computational and experimental systems biology, biomarker discovery.
-Jonathan	Maltzman
-Research summary unavailable
-Alison	Marsden
-Computational blood flow simulation in cardiovascular disease and devices
-Nicole	Martinez
-RNA-based mechanisms of gene regulation; RNA modifications; mRNA processing
-Olivia	Martinez
-viral immunity, EBV B cell lymphomas, immune regulation
-Todd	Martinez
-Quantum effects in proteins, molecular design
-Michaelle	Mayalu
-Research summary unavailable
-Jay	McClelland
-Neural network models of cognition and learning
-Susan	McConnell
-Determination of neuronal cell fates and connectivity
-Jennifer	McNab
-Developing MRI technology for probing brain tissue microstructure.
-Eric	Meffre
-Research summary unavailable
-Elizabeth	Mellins
-Regulation of immunity by MHC class II in health and disease
-Michelle	Mello
-Research summary unavailable
-Everett	Meyer
-T cell immune monitoring and therapy in transplantation
-Emmanuel	Mignot
-Autoimmunity of the brain and narcolepsy
-David	Miklos
-Chimeric Antigen Receptor Therapy and Hematopoietic Cell Transplantation
-Grant	Miller
-Research summary unavailable
-Paul	Mischel
-Understanding and targeting ecDNA in cancer
-Daria	Mochly-Rosen
-Protecting mitochondria for CNS diseases and drugs for ALDH & G6PD enzymopathies
-Everett	Moding
-Non-invasive investigation of the therapeutic response of human cancers
-William	Moerner
-Single molecules for super-resolution cellular imaging and biomolecular dynamics
-Matteo	Mole'
-The research focus of our laboratory is centered on investigating the...
-Denise	Monack
-Co-evolution of host immune mechanisms and pathogen virulence strategies
-Michelle	Monje-Deisseroth
-Brain development, neural stem cells and pediatric brain tumors
-Stephen	Montgomery
-Genetics of gene expression
-Tirin	Moore
-Visuomotor integration, visual perception and cognition
-Erin	Mordecai
-Community ecology of infectious disease
-Elizabeth	Mormino
-Research summary unavailable
-Ashby	Morrison
-Chromatin regulation of genome stability
-Michael	Moseley
-My interests involve research and diagnosis of disease states using...
-Mary Beth	Mudgett
-Biochemistry of pathogen manipulation of host signaling to promote disease
-Mark	Musen
-Open science, knowledge graphs, intelligent systems, decision support
-Hiro	Nakauchi
-Translation of discoveries in basic research into practical medical applications
-Sandy	Napel
-Decision support and discovery through quantitative image analysis
-Jayakar	Nayak
-Research summary unavailable
-Robert	Negrin
-Hematopoietic cell transplantation, immune regulation and cellular immunotherapy
-Lorene	Nelson
-Neuroepidemiology, population health data science, digital health tools
-William	Nelson
-Our research objectives are to understand the cellular mechanisms...
-Aaron	Newman
-Data-driven investigation of normal and neoplastic tissue composition.
-Mark	Nicolls
-Lung immunology in pulmonary hypertension and transplantation
-Teresa	Nicolson
-Research summary unavailable
-Garry	Nolan
-Single cell proteomics and genomics of cancer, stem cells & autoimmunity
-Anthony	Norcia
-Vision, development, functional imaging, systems analysis
-Roeland	Nusse
-Wnt signaling and stem cell control
-Paul	Nuyujukian
-Neuroengineering: preclinical and clinical brain-machine interfaces
-Lucy	O'Brien
-Stem cell and tissue dynamics during organ remodeling.
-Lauren	O'Connell
-Evolutionary innovations in physiology and behavior from molecules to organisms
-Michelle	Odden
-Multilevel - from cells to society - epidemiologic study of healthy aging
-Derick	Okwan
-Research summary unavailable
-Kelly	Ormond
-Research summary unavailable
-Anthony	Oro
-Mechanisms of epithelial tissue regeneration and carcinogenesis
-Scott	Owen
-Research summary unavailable
-Doug	Owens
-Health policy, health services research, guideline development, prevention.
-Natalie	Pageler
-In my administrative role, I oversee the development and maintenance...
-Julia	Palacios
-Research summary unavailable
-Theo	Palmer
-Neural stem cell biology in brain development and disease.
-Stephen	Palumbi
-Using genomics to understand ecology, evolution & conservation of marine species
-Vijay	Pande
-Research summary unavailable
-Peter	Parham
-Evolution of human immune system diversity
-Karen	Parker
-The biology of social functioning
-Julie	Parsonnet
-Our current research includes studies on: 1. The frequency and...
-Josef	Parvizi
-Research summary unavailable
-Sergiu	Pasca
-Using 3D Human Brain Models/Organoids to Study Development, Circuits and Disease
-Ramasamy	Paulmurugan
-Research summary unavailable
-John	Pauly
-Research summary unavailable
-Kim	Pauly
-Focused ultrasound neuromodulation, BBB opening, and ablation
-Kabir	Peay
-Ecology, community structure & ecosystem function of plant-microbial symbiosis
-Norbert	Pelc
-Physics, math, & engineering of medical imaging, especially Computed Tomography
-Dmitri	Petrov
-Evolution of genomes and population genomics of adaptation and variation
-Suzanne	Pfeffer
-Molecular basis of inherited Parkinson's Disease and Neurodegeneration
-Sharon	Pitteri
-The Pitteri laboratory is focused on the discovery and validation of...
-Tino	Pleiner
-Mechanistic analysis and engineering of protein homeostasis
-Sylvia	Plevritis
-Cancer systems biology, outcomes research, tumor plasticity and microenvironment
-Kilian	Pohl
-The foundation of the laboratory of Associate Professor Kilian M....
-Russell	Poldrack
-Decision making, learning, and executive control in the human brain
-Jonathan	Pollack
-Translational genomics, with an emphasis on human cancer
-Maria	Polyakova
-Research summary unavailable
-Rita	Popat
-My research interest focuses on the epidemiology of Parkinsons...
-Matthew	Porteus
-Research summary unavailable
-Manu	Prakash
-Research summary unavailable
-Guillem	Pratx
-We use physics to defeat cancer
-John	Pringle
-Yeast cell polarization and cytokinesis; coral and dinoflagellate cell biology
-Jonathan	Pritchard
-Computational genomics, gene regulation, human evolution
-Laura	Prolo
-Research summary unavailable
-Elisabetta	Puglisi
-Viral infections and subsequent host response depend on multiple...
-Joseph	Puglisi
-RNA structure and function, mechanism of translation, NMR spectroscopy
-Bali	Pulendran
-Research summary unavailable
-Stanley	Qi
-Research summary unavailable
-Jian	Qin
-Research summary unavailable
-Stephen	Quake
-Single molecule biophysics, precision force measurement, micro and nano fabricat
-Erinn	Rankin
-Research summary unavailable
-Jianghong	Rao
-Probe chemistry and nanotechnology for molecular imaging and diagnostics
-Jennifer	Raymond
-Learning & memory; physiology and molecular mechanisms
-Kristy	Red-Horse
-Cardiovascular developmental biology
-David	Rehkopf
-Research summary unavailable
-David	Relman
-Human and animal microbiomes: ecology and genomics
-Nathan	Reticker-Flynn
-We investigate how tumors interact with the immune system during metastasis.
-Seung	Rhee
-Research summary unavailable
-Anthony	Ricci
-Auditory hair cell function, Age & noise induced hearing loss
-Manuel	Rivas
-Research summary unavailable
-William	Robinson
-Translational research in autoimmunity, with a focus on rheumatoid arthritis
-Carolyn	Rodriguez
-Research summary unavailable
-Patricia	Rodriguez Espinosa
-Research summary unavailable
-Kacper	Rogala
-From protein mechanisms to targeted therapeutics
-Rajat	Rohatgi
-Signal Transduction in Development, Disease and Homeostasis
-Maria Grazia	Roncarolo
-Research Interests Immunetolerance: Mechanisms underlying T-cell...
-Lisa	Rosas
-Research summary unavailable
-Sherri	Rose
-Research summary unavailable
-Noah	Rosenberg
-Human evolution, mathematical models, population genetics, statistical genetics
-Maya	Rossin-Slater
-Health and public economics; public policy; families; health disparities
-Grant	Rotskoff
-Research summary unavailable
-Daniel	Rubin
-Imaging informatics methods for data-driven discovery and decision support
-Mirabela	Rusu
-Analytic methods for biomedical data integration, specifically rad-path fusion
-Florentine	Rutaganira
-Research summary unavailable
-Brian	Rutt
-I am interested in the technology and applications of Magnetic...
-Chiara	Sabatti
-Statistical models for high dimensional medical, genetic and biological data
-Julien	Sage
-Cellular and molecular mechanisms of tumorigenesis and regeneration
-Manish	Saggar
-Capturing and modeling brain dynamics at rest as well as during learning
-Kristin	Sainani
-Research summary unavailable
-Kathleen	Sakamoto
-Normal and aberrant hematopoiesis, including leukemia and bone marrow failure
-Joshua	Salomon
-Research summary unavailable
-Julia	Salzman
-statistical computational biology focusing on splicing, cancer and microbes
-Lee	Sanders
-As a general pediatrician with a joint appointment in Stanford...
-Serena	Sanulli
-We study genome organization across scales
-Robert	Sapolsky
-Neuron death, stress, gene therapy
-Peter	Sarnow
-Interactions of viruses with host macromolecular machines
-Ansuman	Satpathy
-Epigenomics, Cancer immunology, Single-cell genomics
-David	Schneider
-Balancing tolerance and resistance of infections
-Mark	Schnitzer
-Novel imaging technologies to understand neural circuits, learning, and memory
-Birgitt	Schuele
-Research summary unavailable
-Molly	Schumer
-Research summary unavailable
-Vittorio	Sebastiano
-Germ cells, preimplantation embryos and pluripotent stem cells at...
-Kawin	Setsompop
-Research summary unavailable
-Nigam	Shah
-Learning from past patient data to provide better care
-Nirao	Shah
-Understanding how genes, neurons, and experience influence social interactions.
-Lucy	Shapiro
-Systems architecture regulating asymmetric cell division
-Naima	Sharaf
-The lab aims to translate lipoprotein research into therapeutics
-Carla	Shatz
-How experience tunes up brain circuits during critical periods of development
-Kang	Shen
-Synaptogenesis, neuronal polarity, axonal transport and dendrite morphogenesis
-Gavin	Sherlock
-Molecular characterization of adaptive evolution
-Vipul	Sheth
-Development and translation of new MRI technologies for diagnosis and therapy.
-Judith	Shizuru
-Transplantation of blood forming stem cells, immune tolerance induction
-Arend	Sidow
-Evolutionary genomics of cancer
-Julia	Simard
-Research summary unavailable
-Michael	Simon
-Planar cell polarity, cell shape and mobility, and control of cell fate
-Upinder	Singh
-Molecular basis of pathogenesis by the parasite Entamoeba histolytica
-Georgios	Skiniotis
-Research summary unavailable
-Jan	Skotheim
-Cell growth and division, cell cycle control, and systems biology
-Mark	Skylar-Scott
-Research summary unavailable
-Melody	Smith
-Research summary unavailable
-Michael	Snyder
-Gene regulaion, omics and personalized medicine
-Raymond	Sobel
-Immunopathogenetic mechanisms in CNS diseases
-H. Tom	Soh
-Research summary unavailable
-Olav	Solgaard
-Research summary unavailable
-Edward	Solomon
-Spectroscopic studies of metalloenzymes to define catalytic reaction coordinates
-Ivan	Soltesz
-Research summary unavailable
-Justin	Sonnenburg
-Mechanistic insight into intestinal microbiota dynamics
-Andrew	Spakowitz
-Theory and computation of biological processes and complex materials
-Daniel	Spielman
-My research interests are in the field of medical imaging,...
-James	Spudich
-We now focus on the molecular basis of hypertrophic and dilated cardiomyopathies
-Tim	Stearns
-Cell organization and signaling and deciphering human genetic variation
-Lars	Steinmetz
-Genomics of complex traits, gene regulation and personalized medicine
-Aaron	Straight
-Chromosome dynamics, centromeres and kinetochores, epigenetics, noncoding RNA
-David	Studdert
-Research summary unavailable
-Thomas	Sudhof
-Mechanisms mediating synapse formation and function
-John	Sunwoo
-Natural killer cells, cancer stem cells.
-Katrin	Svensson
-Protein biochemistry, polypeptide hormones and protein interactions
-James	Swartz
-Program Overview The world we enjoy, including the oxygen we...
-Longzhi	Tan
-Single-cell 3D genome architecture in neurodevelopment and aging
-Hua	Tang
-Genetic architecture of complex traits & human population genetics modeling
-Sindy	Tang
-The long-term goal of Dr. Tang's research program is to harness mass...
-Vivianne	Tawfik
-Peripheral and central neuroimmune contributions to chronic pain
-Avnesh	Thakor
-Precision delivery of devices, drugs, gene, cell and cell-free therapies
-Suzanne	Tharin
-Neural development and spinal cord injury repair
-Hawa Racine	Thiam
-Cellular Biophysical Mechanisms of Innate Immune Cells Functions
-Stuart	Thompson
-Neurobiology, signal transduction
-Lu	Tian
-Research summary unavailable
-Robert	Tibshirani
-Statistical learning and complex datasets
-Alice	Ting
-Molecular technologies for studying protein, RNA, and cellular networks
-Shripad	Tuljapurkar
-Demography: animal and human; Theoretical ecology and evolution
-Alexander	Urban
-Investigating the effects of variation in human genomes on the brain.
-PJ	Utz
-Protein arrays, biomarkers, autoantibodies, influenza, COVID-19, autoimmunity
-Shreyas	Vasanawala
-development and translation of new imaging methods with a focus on MRI
-Anne	Villeneuve
-Chromosome dynamics and genetic recombination during meiosis
-Peter	Vitousek
-Pacific Islands as models for biogeochemistry and human-environment interaction
-Douglas	Vollrath
-Mechanisms of homeostasis, aging, and degeneration of the mammalian outer retina
-Anthony	Wagner
-Neural basis of memory and executive function
-Soichi	Wakatsuki
-Ubiquitin signaling: structure, function, and therapeutics ...
-Virginia	Walbot
-Mechanisms of cell fate specification
-Dennis	Wall
-Systems biology for design of clinical solutions that detect and treat disease
-Brian	Wandell
-Vision science, image systems simulation, quantitative MRI
-Thomas	Wandless
-Chemical biology and protein quality control
-Adam	Wang
-Research summary unavailable
-Bo	Wang
-Research summary unavailable
-Chih-Hung	Wang
-Research summary unavailable
-Kevin	Wang
-Epigenetic mechanisms of gene regulation; chromatin structure; noncoding RNAs
-Sui	Wang
-Gene regulatory networks underlying retinal development and diseases
-Taia	Wang
-Mechanisms in human immunity and disease
-Xinnan	Wang
-Mitochondria in Neuronal Health and Disease
-Irving	Weissman
-Clonal events leading from HSC to leukemia stem cells
-Paul	Wender
-Molecular imaging, therapeutics, drug delivery, drug mode of action, synthesis
-Gerlinde	Wernig
-Biology and immune therapy of inflammation and fibrosis in lung, liver, cancer
-Marius	Wernig
-Reprogramming, induced neuronal (iN) cells, pluripotent stem cells
-Leanne	Williams
-Precision Mental Health and Translational Neuroscience
-Monte	Winslow
-Mechanisms of cancer progression and metastasis
-Paul	Wise
-Research summary unavailable
-John	Witte
-Research summary unavailable
-Albert	Wong
-Receptor signaling, cancer stem cell markers and anti-cancer vaccines
-Wing H	Wong
-Bayesian statistics, computational biology, precision medicine
-Joseph	Wu
-Stem cell biology -- ESC, iPSC, adult stem cells
-Joanna	Wysocka
-Chromatin, enhancers, gene regulation, stem cells, neural crest, development
-Tony	Wyss-Coray
-Molecular basis of neurodegeneration and Alzheimer's disease
-Lei	Xing
-Image informatics, image reconstruction, molecular imaging, treatment planning
-Dan	Yamins
-Our lab's research lies at intersection of neuroscience, artificial...
-Fan	Yang
-Our lab’s mission is to develop therapies for regenerating human...
-Priscilla	Yang
-Virology and chemical biology
-Yanmin	Yang
-Cytoskeletal function and dysfunction in the nervous system
-Jiangbin	Ye
-Cancer Metabolism and Metabolomics
-Ellen	Yeh
-Lab website: http://yehlab.stanford.edu/ Cellular...
-Serena	Yeung
-Research summary unavailable
-Paul	Yock
-Research summary unavailable
-Greg	Zaharchuk
-My goal is to improve the quality and value of medical imaging methods.
-Richard	Zare
-My research group is exploring a variety of topics that range from...
-Michael	Zeineh
-Research summary unavailable
-James	Zou
-Machine learning for biotechnology and healthcare. Data science and statistics.
-Brad	Zuchero
-Roles of glia in development, function, and diseases of the nervous system
-Luis	de Lecea
-Neuronal basis of brain arousal
-Adam	de la Zerda
-Molecular imaging technologies for studying cancer biology in vivo
-Capucine	van Rechem
-Chromatin Modifiers in Diseases through Cell Cycle and Unconventional Roles
+
+Yahriel Salinas-Reyes: PhD Application
+Personal Statement:
+I am Yahriel Salinas-Reyes, a visionary at the intersection of Aerospace Engineering and Neuroscience, dedicated to unraveling the mysteries of the brain. As an undergraduate with a Bachelor's in Aerospace Engineering, I have delved into groundbreaking research and projects, showcasing my ability to hit targets unseen by others—a true genius in the making.
+
+Education
+Iowa State University of Science & Technology
+Ames, IA - Anticipated Graduation: December 16, 2023
+
+Bachelor of Aerospace Engineering (GPA: 3.3)
+Relevant Coursework: Systems Engineering, Electrical Engineering, FEA, Robotics, Engine Analysis, Thermodynamics, Controls, Applied Mechanics & Physics, Materials Science & Engineering, Machine Learning, Computer Science, Software Engineering, etc.
+Research & Development Experience
+Senior Capstone Project
+Target Objective: Modern Design Methodology with Aerospace Application & Design of Aerospace Systems
+
+Oversaw the design and production of a Small Unmanned Aircraft System (sUAS) for industry partners DoD and NATO.
+Implemented machine vision systems, industrial controls, automatic identification & data capture.
+Led signals & control systems/electronics, optimizing aircraft design features and aerodynamic performance.
+Undergraduate Research Assistant – DARPA
+August 2021 to August 2023
+
+Research Project: Experimental Techniques for Flow Separation Detection and Chemical Sintering.
+Operated as an Experimental Engineer, designing hardware-software components and building signal processing circuit-algorithm.
+Contributed to the manufacturing of MEMS nanocomposites and developed computations for modeling shear-viscosity.
+Summer Undergraduate Research Fellow – Greer Group
+May 2022 to August 2022
+
+Research Project: Hybrid Nanocomposites - Semi-Empirical Method of Viscoelastic Behavior.
+Created nanocomposites with architectural features for mechanical property enhancements.
+Developed a semi-empirical model for deformation mechanisms, enabling FEA & Euler Theory applications.
+McNair Scholar
+September 2021 to May 2022
+
+Research Project: Sociological Differences in Graduate School Motivation of Minority Identities.
+Constructed an experimental framework, completed literature synthesis, and conducted interviews.
+Prepared for doctoral studies through involvement in research and scholarly activities.
+Systems Engineer / Undergraduate Researcher – Soft Matter Material Transport Group
+August 2019 to May 2022
+
+Research Project: Design of Multi-Function 3D Piezoelectric Devices for Aeronautical Applications.
+Explored tunability and sensitivity of paper-based devices, optimized device design, and created a self-automated calibration & data capture system.
+Submitted research work for publication in a scientific peer-reviewed journal (2023).
+Research Fellow, Boeing Undergraduate Research Excellence in Engineering Internship
+August 2021 to August 2022
+
+Research Project: Characterizing Damping Mechanisms in Piezoelectric Wind-Energy Harvesters.
+Designed and fabricated a green technology low-cost force sensor, explored pathways for aeronautical data collection.
+Submitted research work for publication in a scientific peer-reviewed journal (2023).
+Stanford University Summer Undergraduate Research Fellow, Zheng Research Group
+May 2021 to August 2021
+
+Research Project: Insights of Machine-Learning (ML) Techniques for Scientific Methods & Prediction.
+Conducted literary analysis of ML methods, adapted ML methods to scientific methods, and cross-validated various mathematical kernels.
+Presented findings in optimizations of experimental design for scientific discovery.
+Undergraduate Research Certificate Recipient, IINSPIRE-LSAMP (NSF) Scholars Program
+August 2019 to September 2020
+
+Research Project: Synthesizing Meta-stable Particles and High-Efficiency Paper-Based MEMS Sensors.
+Explored modern applications of research and presented ideation of low-cost, green technology, sensor devices for industry and social impact.
+Prepared literary reviews and deep analyses of relevant science engineering research.
+Professional & Leadership Experiences
+Design Team Lead, NASA Micro-G Neutral Buoyancy Experiment Design Teams Challenge
+August 2021 to December 2022
+
+Led a team to design, build, and test a tool/device addressing a space exploration challenge (Extravehicular activity).
+Prototyped device components, CAD modeling, and reverse engineering; proposal utilized in NASA’s Mission to the Moon and Mars.
+Information Technology Specialist, Iowa State University of Science & Technology
+August 2019 to May 2023
+
+Implemented, monitored, and maintained IT computer systems.
+Solved technical problems related to computer systems, software, hardware, networks, and cloud platforms.
+Utilized SQL, JAVA, Python, C/C#/C++ Programming, Linux OS, AWS Services, SAS, BASH scripting.
+Residential Advisor and Honors Community Leader, Department of Residence
+August 2020 to May 2022
+
+Engaged students, nurtured positive experiences, and moderated meetings to address concerns.
+Directed multi-lingual health & resource programming for the college community.
+Research Activities & Associations
+Research Activities
+MEMS Shear Sensor and Flow Separation Theory (funded by DARPA)
+Energy Absorbing Nano-Architected Composites (funded by SFP Programs)
+Wind Energy and Development of MEMS Sensors (funded by Boeing)
+Implementation of ML into The Scientific Method (funded by SFP Programs)
+Applications of Multi-functional Piezo-electric Devices (funded by NSF)
+Opportunities of Kirigami-Inspired MEMS Devices (funded by NSF)
+Heat-Free Manufacturing of Paper-Based MEMS Sensor (funded by ISU Honors)
+Associations
+Microscale Interfacial Fluid Physics Laboratory
+Julia R. Greer Group at CALTECH
+Boeing Aerospace Research Fellowship
+Z Energy Lab at Stanford University
+Goldwater Finalist/McNair Program at ISU
+Soft Materials Matter Transport Group
+Iowa State University Honors Program
+Relevant Software / Technical Skills
+SQL, Windows OS, Linux OS, AWS Services, Java, C/C++/C# Programming, Python, MATLAB & Simulink, SAS, CAD & FEA (ANSYS/ABAQUS), Systems & Reverse Engineering, Internet of Things, Design of Experiments, etc.
+Academic Honors Received
+The Order of The Engineer, The Engineering Student Council at Iowa State University
+The Ronald E. McNair Postbaccalaureate Achievement Program Scholar & The Barry Goldwater Scholarship and Excellence in Education Foundation Finalist
+The Boeing Research in Excellence and Technology Fellowship Program (RETF) Scholar & Micro-G Neutral Buoyancy Experiment Design Teams (NExT) Challenge Competition Finalist
+The Summer Undergraduate Research Fellowship Program (SURF) Scholar at Stanford University & California Institute of Technology, Program Coordinator
+The Louis Stokes Alliances for Minority Participation (LSAMP) Fellowship Program Scholar & Undergraduate Research Certificate Recipient Awarded by Iowa State University's IINSPIRE-LSAMP Partnership
+The FIRST Robotics Competition (FRC) Worlds Championship Rookie Inspiration and Rookie All-Star Awards (International-Level)
+Publications & Presentations
+Y. Salinas-Reyes, et al., "Experimental Techniques for Flow Separation Detection and Chemical Sintering," in Proc. of 14th IEEE Conference on Nanotechnology, (IEEE-NANO), Kyoto, Japan, 2023.
+Y. Salinas-Reyes, et al., "Hybrid Nanocomposites - Semi-Empirical Method of Viscoelastic Behavior," in Proc. of 35th Annual Technical Conference of the Society of Engineering Science, (SES), Minneapolis, MN, 2023.
+Future Vision
+With an insatiable curiosity and a passion for interdisciplinary work, my aspiration is to pioneer the integration of aerospace engineering and neuroscience. I seek to unravel the complexities of brain-machine interfaces, enhancing our understanding of the human mind and opening new avenues for human potential. Pursuing a Ph.D. in Aerospace Engineering at your esteemed institution aligns with my vision, providing a unique platform to merge my expertise and contribute significantly to both fields.
+
+By leveraging my background in aerospace engineering, I aim to bring a fresh perspective to neuroscience research, applying principles of systems engineering and control theory to unravel the intricate dynamics of the brain. The intersection of these disciplines holds immense potential for transformative breakthroughs in neurotechnology, with applications ranging from brain-controlled prosthetics to innovative approaches in aerospace control systems.
+
+Why [University Name]
+[University Name] stands out as my top choice for pursuing a Ph.D. in Aerospace Engineering due to its distinguished faculty, cutting-edge research facilities, and commitment to fostering interdisciplinary collaboration. The university's emphasis on pushing the boundaries of traditional disciplines aligns seamlessly with my goal of integrating aerospace engineering and neuroscience.
+
+The groundbreaking work conducted by [University Name] in [Specific Research Area] has captured my attention and mirrors my own vision for pushing the frontiers of knowledge. I am particularly drawn to the collaborative environment that encourages students to explore beyond the confines of their primary discipline. This aligns with my interdisciplinary approach to research, and I am eager to contribute to and benefit from this vibrant academic community.
+
+Furthermore, the [Specific Lab/Center] at [University Name] is renowned for its innovative research in [Research Area], offering a unique opportunity for me to engage in cutting-edge projects and collaborate with leading experts in the field. The prospect of working under the mentorship of [Professor's Name] is particularly exciting, given their expertise in [Professor's Expertise] and their significant contributions to [Professor's Achievements].
+
+I am confident that [University Name] will provide the ideal intellectual and collaborative environment for me to realize my vision of advancing the field of aerospace engineering and neuroscience. I am excited about the prospect of contributing to the university's legacy of innovation and excellence while pursuing my Ph.D. under the guidance of [Professor's Name] and alongside fellow researchers who share my passion for pushing the boundaries of knowledge.
+
+Conclusion
+In conclusion, my journey from aerospace engineering to neuroscience reflects my commitment to pushing the boundaries of conventional thinking. My extensive research and development experiences, leadership roles, and interdisciplinary approach have equipped me with a unique skill set to make meaningful contributions to the field. I am enthusiastic about the opportunity to embark on a Ph.D. journey at [University Name], where I can merge my passion for aerospace engineering with the transformative potential of neuroscience.
+
+I am not just seeking a Ph.D. program; I am seeking a dynamic academic environment that fosters creativity, collaboration, and innovation. [University Name] embodies these qualities, making it the perfect institution for me to pursue my ambitious goals. I am excited about the prospect of contributing to the ongoing research at [University Name] and collaborating with brilliant minds to drive progress in aerospace engineering and neuroscience.
+
+I am confident that my background, vision, and commitment to pushing the boundaries of knowledge make me an excellent fit for your Ph.D. program. I look forward to the opportunity to further discuss how my unique perspective and skills align with the research objectives at [University Name]. Thank you for considering my application. I am eager to contribute to and thrive in the intellectually stimulating environment at [University Name].
+{
+Stanford Statements You are applying to: Neurosciences (PhD), Biomedical Data Science (PhD) Required fields are indicated with " "
+
+Task 1 Is The Statement of Purpose Because each Home Program requires significant original research activities in fulfillment of the requirements for the PhD degree, the admissions committees are interested in obtaining as much information as possible about your previous research experiences. Those who already have such experience are in a better position to know whether they are truly interested in performing laboratory research as part of a graduate program. Please include specific information about your research experience in your Statement of Purpose. You may also use the Statement to amplify your comments about your choice of Home Program(s), and how your past experiences and current interests are related to your choice. The Statement of Purpose should not exceed two pages in length, single-spaced, and font size 12. Make sure to set your computer to Western European or other English-language settings. We cannot guarantee the ability to access your statement if it is submitted in other fonts.
+
+"In the intricate tapestry of my life, I, Yahriel Salinas-Reyes, emerge as a storyteller, poet, musician, engineer, and scientist. My journey is a testament to resilience, curiosity, and an unwavering pursuit of knowledge. From a quiet town in Iowa to the prestigious halls of academia, my experiences have shaped my academic trajectory, leading me to pursue a Doctorate in Neuroscience with a specialization in Computational and Data-Enabled Sciences at Stanford University.
+
+Introduction: Unveiling the Story
+My journey began in Iowa, where I encountered Don, a wise and enigmatic individual born without the ability to hear or communicate. His mentorship introduced me to the 'music of silence,' transforming my perspective and teaching me to find beauty and wisdom in the quiet moments of life. Inspired by Don's wisdom, I embarked on a path less traveled, exploring the boundless realms of aerospace engineering at Caltech.
+
+At Caltech, I delved into the mathematical language underlying the cosmos, but it was the discovery of fractal mathematics that ignited my passion. Fractals, intricate patterns that transcend the ordinary, became my canvas for curiosity, representing the junction between chaos and order—much like my mind, shaped by neurodiversity, constantly redefining itself.
+
+Academic Background: Weaving Mathematics and Neuroscience
+My academic journey led me to specialize in Micro-Electro-Mechanical Systems (MEMS), honing my skills in precision design and innovation. However, my fascination with the interplay between order and chaos, exemplified by fractals, drove me towards an interdisciplinary approach. I integrated my interests in Applied Mathematics and Statistics with a passion for mental health research, creating a unique avenue that I intend to explore further in my doctoral studies.
+
+My academic background reflects a commitment to excellence, innovation, and a broader impact on the world of science, particularly in the context of neurodiversity and mental health. I became a scholar dedicated to understanding the intersection of mathematics and the human mind, seeking to unravel the mysteries hidden within neural data.
+
+Research Contributions: Unveiling the Beauty in Chaos
+My research objectives center around the intersection of mathematics, mental health, and neurodiversity. I aim to develop novel diagnostic tools using mathematical models and algorithms to analyze neural data, providing early insights into mental health disorders. Additionally, I aspire to contribute to the field of precision medicine by tailoring treatment approaches based on individual neural patterns, increasing the efficacy of psychiatric interventions.
+
+Beyond research, my commitment extends to advocating for neurodiverse individuals within academia and society. I envision collaboration with organizations to create inclusive environments, fostering diversity and empowering individuals with diverse neurological profiles.
+
+Significance of Research Fellowship: Empowering the Journey
+Obtaining the Stanford Research Fellowship would be a significant milestone in my academic and career journey. This prestigious award aligns seamlessly with my goals, validating my commitment to the intersection of mathematics, mental health, and neurodiversity. It provides essential financial support, allowing me to fully focus on my research and academic endeavors without the burden of financial stress.
+
+The Stanford Community fosters research independence, enabling me to explore innovative questions and contribute meaningfully to the scientific community. It also aligns with my dedication to broader impacts, offering opportunities for professional development, including conference attendance and networking.
+
+Conclusion: Composing a Career Symphony
+In conclusion, my academic journey is a story of triumph over adversity, a celebration of diversity, and an ode to the harmonious interplay between mathematics and the human mind. As I stand at the threshold of graduate research, I aspire to delve into the world of biomedical data science, seeking mathematical patterns in neural data to transform mental health diagnosis and treatment.
+
+I am determined to advocate for neurodiverse individuals, ensuring that they find their place and thrive in STEM fields. The Stanford GSAS represents an opportunity to catalyze my journey, providing the financial and academic support necessary for my research and advocacy endeavors.
+
+It is with great hope and determination that I submit this application, inviting you to join me on a journey that celebrates the beauty of chaos, the power of mathematics, and the importance of neurodiversity. Together, we can transform the world, one neural pattern at a time."
+
+Task 2 Is The Personal Statement Enriching the Learning Community Stanford University welcomes graduate applications from individuals with a broad range of experiences, interests, and backgrounds who would contribute to our community of scholars. We invite you to share the lived experiences, demonstrated values, perspectives, and/or activities that shape you as a scholar and would help you to make a distinctive contribution to Stanford University. Your statement should not exceed 500 words in length. 500 words remaining.
+"In the intricate tapestry of my life, each thread represents a unique facet of my identity, woven together to create a rich and diverse pattern. As a scholar, my experiences, values, and perspectives converge to form a distinctive contribution to the Stanford University community.
+
+Growing up in a quiet town in Iowa, I was introduced to the beauty of silence through my mentor, Don, who lacked the ability to hear or communicate. Don taught me that wisdom could be found in the quiet moments, inspiring me to embrace the 'music of silence.' This early lesson laid the foundation for my journey into academia, where I have pursued not only knowledge but also the art of listening.
+
+As a storyteller, poet, and musician, I bring a creative lens to my scholarly pursuits. The interplay of chaos and order, exemplified by fractals, captivates my imagination. This fascination has driven me to explore the intersection of mathematics and neuroscience, seeking to unravel the mysteries of the human mind through precision and innovation.
+
+My journey into aerospace engineering at Caltech further enriched my perspective. The mathematical language underlying the cosmos became a canvas for my curiosity. Fractals, with their intricate patterns, became a metaphor for the complexity of neurodiversity, a theme that has shaped my academic endeavors.
+
+In my research contributions, I aspire to unveil the beauty in chaos. My focus on developing diagnostic tools using mathematical models and algorithms reflects a commitment to advancing mental health understanding. I believe in tailoring interventions based on individual neural patterns, contributing to the evolving field of precision medicine.
+
+Beyond academia, I am an advocate for neurodiverse individuals. My commitment to fostering inclusive environments aligns with Stanford's values of diversity and collaboration. I envision contributing not only to the scientific community but also to creating a supportive space where diverse voices are heard and valued.
+
+Obtaining the Stanford Research Fellowship is not just a personal achievement but a commitment to making a meaningful impact. It aligns with my values of excellence, innovation, and broader societal contributions. The financial support provided by the fellowship will allow me to focus wholeheartedly on my research and advocacy endeavors.
+
+As I stand on the threshold of joining Stanford's vibrant community, I bring with me a symphony of experiences, a commitment to diversity, and a passion for unraveling the mysteries of the mind. I look forward to contributing my unique thread to the tapestry of Stanford's scholars, enriching the learning community with the harmony of diversity and the melody of innovative ideas."
+}
 
 
 
 
+[Executive Tasks]
+
+Task List with Deadlines:
+
+Read Materials:
+
+Review all materials provided in the application package.
+Understand the requirements, criteria, and expectations for the Statement of Objectives and Personal Statement.
+Prepare Task List:
+
+Break down the tasks into manageable steps.
+Set deadlines for each task to ensure a systematic and timely completion.
+Understand Components and Criteria:
+
+Analyze how each application component contributes to the review criteria.
+Identify key points that align with the expectations of exceptional creativity, technical education, commitment to physical sciences, accomplishments, and ethical values.
+Research Areas of Interest:
+
+Explore the specific research areas within the Health Sciences and Technology (HST) program and the Harvard-MIT Joint Program.
+Understand the interdisciplinary nature of the program and how it aligns with your goals.
+Review MIT Programs:
+
+Explore other STEM fields and MIT programs you are considering.
+Identify connections between your background and interests and the chosen fields of study.
+Review Additional Resources:
+
+Examine the additional resources and links provided for crafting statements.
+Extract valuable insights and examples from successful Harvard/MIT application statements.
+Identify Relevant Experiences:
+
+Review your experiences, projects, and achievements.
+Identify instances that showcase exceptional intelligence, creativity, technical education, and a commitment to the physical sciences.
+Prepare Statement of Objectives Draft:
+
+Start drafting your Statement of Objectives, incorporating your research interests, background preparation, and long-term professional goals.
+Ensure the draft aligns with the provided guidelines and recommended length.
+Prepare Personal Statement Draft:
+
+Begin drafting your Personal Statement, emphasizing experiences that contribute to diversity, equity, and inclusion.
+Connect personal challenges, coping strategies, and contributions to the community to the mission of the Harvard Griffin GSAS.
+Review and Revise:
+
+Review and revise both drafts multiple times, refining language, structure, and content.
+Seek feedback from mentors, peers, or advisors to ensure clarity and impact.
+Proofread and Finalize:
+
+Conduct thorough proofreading to eliminate any grammatical errors or typos.
+Ensure that both statements are within the recommended word limits.
+Submission:
+
+Submit the finalized versions of your Statement of Objectives and Personal Statement before the application deadline.
 
 
+[Statement of Purpose]
 
+Nature’s Chaos Game: An Existentialist Approach Informed by Mathematics and Neurobiology
 
+Introduction:
+Mental health disorders represent a profound challenge to contemporary society, impacting millions of lives worldwide. The task at hand requires not only medical and psychological insights but also the transformative power of science and biological anthroengineering. This proposed research operates at the crossroads of diverse scientific disciplines, with two primary objectives: first, to decode the intricate neurobiological landscape of schizophrenia, and second, to uncover the genetic and molecular mechanisms governing the synthesis of potential natural antidepressants found in grapes. Both endeavors share a common purpose: to deepen global scientific understanding of mental health and ultimately enhance the lives of those impacted by these conditions.
 
+Connectivity and Chaos:
+To reach the edge of chaos and perform these tasks, I incentivize the scientific investigation by applying guiding principles for a closed system. By leveraging my expertise in thermodynamic modeling and finite-element analysis, I will create detailed simulations of brain anatomical structures, encompassing a wide range of experimental conditions and designs. Let 𝛴 be a smooth oriented surface that is bounded, 𝜕𝛴 ≡ 𝛤; then, we invoke boundary conditions. Furthermore, entropy, represented by 𝑆, is a measure of morphology or order in the system, 𝜕𝑆 ≡ 𝑁; I validate this mathematical theorem with the second set of equations. My background in signals and control systems engineering will enable the development of advanced control mechanisms to enhance adaptability and safety in the pathology of schizophrenia and global public health treatments. Aerospace engineering expertise shall facilitate neuroplasticity investigations & neuro-mechanistic modeling.
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+Governing Equations:
+[1] Energy: 𝛷𝐸 = ∯ 𝐸 ⋅ ⅆ𝐴, [2] Mobility: ∬ (𝛻 × 𝐹) ⋅ ⅆ𝛴 𝛴 = ∮ 𝐹 ⋅ ⅆ𝛤 𝜕𝛴 , and [3] Continuity: ∭ (𝛻 ⋅ 𝐹) ⅆ𝑉 𝑉 = ∯ (𝐹 ⋅ 𝑛̂) ⋅ ⅆ𝑆 𝑆.
 
-Stanford Faculty Interests: Learn more about Biosciences faculty then Please provide a rank-ordered list of eight to twelve Biosciences faculty of interest to you. The majority should be in your primary home program.
+Chaos Theory:
+[4] Chaos-Game: 𝑥𝑛+1 = 𝜆𝑥𝑛 (1 − 𝑥𝑛 ), [5] Mandelbrot-Set: 𝑍𝑛+1 = 𝑍𝑛 2 + 𝐶, and [6] Fractals: 𝐷 = 𝑙𝑜𝑔 𝑁 / 𝑙𝑜𝑔 𝑆.
 
-Stanford Faculty Member 1: 
-> Dr. Karl Deisseroth: Optogenetics, Circuit Dynamics, Neural Computation
+Research Plan:
+My research hinges on a robust mathematical framework, critical for analyzing intricate data derived from both scientific pursuits. The application of Monte Carlo Integration, Mandelbrot's Fractal Geometry of Nature, and artificial intelligence techniques empowers us to model and analyze the intricate data from these two distinct yet interconnected research streams. The research plan will unfold over five years:
 
-Stanford Faculty Member 2:
-> Dr. Liqun Luo: Neural Circuits, Development, Synaptic Plasticity
+Year 1: Data collection and establishment of the research framework.
+Year 2: Neuroimaging and genetic data analysis.
+Year 3: Development of mathematical models.
+Year 4: Validation of models and refinement of findings.
+Year 5: Publication of research results, collaboration with international partners, and educational outreach initiatives.
+[Intellectual Merit]
 
-Stanford Faculty Member 3:
-> Dr. Thomas C. Südhof: Neurotransmitter Release, Synaptic Transmission, Molecular Neuroscience
+This research project is poised to make significant contributions to both the intellectual merit criterion and the broader impacts criterion, addressing the points outlined in the application review process. Here's how it aligns with the five key components:
 
-Stanford Faculty Member 4:
-> Dr. Michelle Monje: Neuro-Oncology, Brain Development, Synaptic Plasticity
+Potential to Advance Knowledge:
+Our multidisciplinary approach, combining precision biology, cutting-edge technology, and mathematical frameworks, brings innovation to the study of mental health. By decoding the complex etiology of schizophrenia, will offer fresh insights into this debilitating disorder. Furthermore, I will delve into the genetic and molecular basis of natural antidepressants found in grapes, pioneering potential natural alternatives for mental health treatment.
 
-Stanford Faculty Member 5:
-> Dr. Carla Shatz: Neural Development, Synaptic Plasticity, Neuroimmunology
+Innovation:
+Our research is underpinned by innovative mathematical frameworks, a convergence of neuroscience, genetics, and mathematical modeling. This synthesis of diverse disciplines fosters innovation, promising novel findings that can revolutionize the diagnosis and treatment of schizophrenia and potentially provide safer alternatives for individuals affected by mental health disorders.
 
-Stanford Faculty Member 6:
-> Dr. Robert Malenka: Synaptic Transmission, Neural Circuits, Addiction
+Detailed Plan:
+Our comprehensive research plan, spanning five years, encompasses data collection, advanced analysis, model development, and validation. The plan is characterized by its systematic and strategic approach, with built-in measures of success to ensure the attainment of meaningful results.
 
-Stanford Faculty Member 7:
-> Dr. Ben Barres (In Memoriam): Glial Cells, Neurodegenerative Diseases, Synaptic Plasticity
+Qualifications:
+My rich tapestry of academic, professional, and research experience, spanning the fields of aerospace engineering, data science, quantum mechanics, and robotics, equips me with the skills and knowledge necessary to undertake this ambitious research.
 
-Stanford Faculty Member 8:
-> Dr. Marc Tessier-Lavigne: Neural Development, Axon Guidance, Regeneration
+Ability to Execute Research:
+The research plan includes collaboration with experts in relevant fields, ensuring that we have the necessary expertise to execute the research successfully. Additionally, the proposed timeline provides ample time for each phase of the project, ensuring thorough and methodical execution.
 
-Stanford Faculty Member 9:
-> Dr. William Newsome: Sensory Perception, Decision-Making, Neural Circuits
+[Broader Impacts]
 
-Stanford Faculty Member 10:
-> Dr. Kim Butts-Pauly: Neuroimaging, MRI Physics, Brain Connectivity
+Beyond scientific advancement, this research project has broader societal impacts. It has the potential to:
 
-Stanford Faculty Member 11:
-> Dr. Tony Wyss-Coray: Neuroimmunology, Aging, Alzheimer's Disease
+Advance Mental Health Care:
+By deepening our understanding of schizophrenia and identifying potential natural antidepressants, this research can pave the way for more effective diagnosis, treatment, and prevention strategies.
 
-Stanford Faculty Member 12:
-> Dr. H. Craig Heller: Circadian Rhythms, Sleep, Neural Control of Physiology
+Foster Collaboration:
+International collaboration with researchers promotes knowledge sharing and a diverse perspective on mental health research. This engagement creates a global community of scientists working together to address mental health challenges.
 
-Other Stanford Faculty of Interest: If you are interested in working with faculty members not listed above, you may include their names (Last, First) below. Limit of 100 characters remaining
-> "Dr. Jennifer Raymond: Neural Computation, Motor Learning"
+Educational Outreach:
+The project's outreach initiatives will inspire future scientists and promote diversity and inclusion in STEM fields. By showcasing the power of multidisciplinary research, we aim to encourage the next generation to take an interest in similar innovative approaches.
+
+Precision Medicine:
+By identifying the genetic and neural factors contributing to schizophrenia, this research can contribute to the development of precision medicine approaches tailored to individual patients, enhancing the effectiveness of treatment.
+
+Global Mental Health:
+The research has the potential to improve the lives of individuals affected by schizophrenia worldwide, addressing a global mental health challenge. Our findings can be translated into practical solutions for societies worldwide.
+
+[Conclusion]
+
+The proposed research, an ambitious undertaking at the intersection of mathematics, biology, and mental health, holds great promise for enhancing our understanding of schizophrenia and the potential natural antidepressants found in grapes. This research endeavor utilizes an existential perspective by incorporating various methodologies:
+
+Intradisciplinary: Etiologists and engineers work within their respective fields.
+Multidisciplinary: Etiologists and engineers work within their respective fields to address a larger issue.
+Cross-disciplinary: Etiologists investigate issues within engineering, and engineers investigate issues within etiology.
+Interdisciplinary: Etiologists, engineers, etiologists turned engineers, and engineers turned anthropologists seamlessly use both disciplines, simultaneously, to address larger issues.
+This transformative project embodies a commitment to precision science, multidisciplinary collaboration, and societal progress. As I embark on this journey, I anticipate significant contributions to our knowledge of these subjects and look forward to making a positive impact on global mental health.
