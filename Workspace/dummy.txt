@@ -50,33 +50,32 @@ I am not just seeking a Ph.D. program; I am seeking a dynamic academic environme
 
 I am confident that my background, vision, and commitment to pushing the boundaries of knowledge make me an excellent fit for your Ph.D. program. I look forward to the opportunity to further discuss how my unique perspective and skills align with the research objectives at [University Name]. Thank you for considering my application. I am eager to contribute to and thrive in the intellectually stimulating environment at [University Name].
 
-[Statement of Purpose] Yahriel's Response: 
-{
-Nature's Chaos Game: A Transdisciplinary Approach Integrating Neuroscience, and Anthro-engineering 
-Introduction: In contemporary society, the profound impact of mental health disorders has left millions of lives in turmoil. Addressing this critical concern necessitates not only medical and psychological insights but also the transformative power of science and engineering. My proposed research aims to develop innovative computational methods and tools that optimize structural performance and safety, with a specific focus on Biological Anthroengineering. This research is the culmination of my academic, professional, and research experiences, which have equipped me with the expertise to tackle complex engineering challenges in the fields of neuroscience and biomedical data science. 
-Research Plan: The primary objective of my research is to develop advanced computational tools that can optimize Biological Anthroengineering. This involves integrating modern design principles, advanced materials, and structural analysis methods to enhance the performance, efficiency, and safety of neuroimaging systems. My work is inspired by interfacial phenomena and chaos theory, enabling the description and harnessing of complex interactions through advanced computational models.
-Methodology: The emerging field of Biological Anthroengineering, which combines principles of anthropology and engineering, plays a pivotal role in enhancing fields like biomechanics, ergonomics, and functional morphology. In order to reach the edge of chaos and perform these tasks, I incentivize the scientific investigation by applying guiding principles for a closed system. Let Σ be smooth oriented surface that is bounded, ∂Σ≡Γ, then we invoke the following:
- Governing Equations of Connectivity: [1] Energy: Φ_E=∯E⋅ⅆA, [2] Mobility: ∬_Σ▒〖(∇×F)⋅ⅆΣ〗=∮_∂Σ▒〖F⋅ⅆΓ〗, and [3]  Continuity: ∭_V▒(∇⋅F)ⅆV=∯_S▒〖(F⋅n ̂ )⋅ⅆS〗 . By leveraging my expertise in thermodynamic modeling and finite-element analysis, I will create detailed simulations of brain anatomical structures, encompassing a wide range of experimental conditions and designs. Entropy, represented by S, is a measure of morphology or order in the system, ∂S≡ N; I validate this mathematical theorem with Chaos Theory: [4] Chaos-Game: x_(n+1)=λx_n (1-x_n ), [5] Mandelbrot-Set: Z_(n+1)=Z_n^2+C, and [6] Fractals: D=log⁡N/log⁡S. Additionally, my background in signals and control systems engineering will enable the development of advanced control mechanisms to enhance adaptability and safety in these structures. Robotics and electrical engineering skills will facilitate the automation and control of aerospace systems. 
-Research Plan Timeline: This research will span five years, structured as follows: 
-Year 1: Comprehensive literature review and initial data collection 
-Year 2: Development of advanced computational models 
-Year 3: Predictive model of neuroanatomical morphologies 
-Year 4: Experimental validation and refinement of models 
-Year 5: Dissemination of research findings, contributing to nanotechnology, the etiology of schizophrenia, mental health, and the global public health industry. 
-Intellectual Merit: 
-Scientific Impact: This research will unite mathematical sciences, neuroscience, and etiology to develop innovative computational methods for optimizing Biological Anthroengineering techniques. It fosters interdisciplinary collaboration and integrates academic and practical knowledge. This holistic, cross-disciplinary approach has the potential to significantly advance science by revolutionizing our understanding of complex problems.
-Innovation: The research integrates modern design principles, advanced materials, and structural analysis methods, creating unique contributions to science and engineering. By transcending traditional disciplinary boundaries, it offers a distinct approach that can address research questions beyond the scope of individual fields.
-Qualifications and Expertise: I, as the applicant, bring a diverse background encompassing Biological Anthroengineering, data science, machine learning, and robotics. This comprehensive skill set ensures the effective execution of the research, complex simulations, and the development of advanced control mechanisms. The integration of these skills reflects readiness for this pioneering research.
-Broader Impacts: 
-Innovation in Mathematical Sciences: The research's development of computational tools to illuminate the neurological landscape of schizophrenia has the potential to revolutionize neuroscience and psychiatry. It can significantly impact global public health. 
-Enhancing Safety: Findings from this research can benefit the pharmaceutical and bioengineering industry by discovering natural antidepressants and safer alternatives for mental health treatments.
-Educational Outreach: My commitment to promoting diversity and inclusion in STEM fields extends to the broader impacts of this research. Through outreach programs and collaborations, underrepresented groups will be inspired to pursue careers in Biological Anthroengineering and related STEM disciplines, contributing to a more diverse and inclusive scientific community.
-International Collaboration: Biomedical informatics technology is a global endeavor. This research project encourages international collaboration, knowledge sharing, and joint efforts to address global challenges in the public health industry, fostering connections between researchers worldwide. 
-Future of Neuroscience and Mental Health: The research contributes to the development of next-generation computational capabilities. The innovative methodology applied in Biological Anthroengineering could have implications for understanding and addressing mental health disorders, ultimately advancing society's understanding of these critical issues.
-Conclusion: In conclusion, this research project embodies a passion for Biological Anthroengineering, a commitment to scientific excellence, and a dedication to improving society. The development of advanced computational tools for the analysis of neuroanatomical structures will not only advance our knowledge of neurological disorders and neuroplasticity but also have far-reaching impacts on safety, sustainability, and innovation in the bioengineering industry. Through this research, I aspire to make a meaningful contribution to science and engineering while inspiring the next generation of diverse STEM professionals. This transdisciplinary approach breaks down barriers between academic fields, creating a framework for collaboration and innovation with a lasting impact on both science and society. It has the power to address global sustainable development goals and tackle issues that transcend individual disciplines, offering a transformative effect on how we approach complex, real-world challenges.
-References: (1) Zueva, M. V. (2015). Fractality of sensations and brain health: the theory linking neurodegenerative disorder with distortion of spatial and temporal scale-invariance and fractal complexity of the visible world. Front. Aging Neurosci, 7, 135. (2) Hancock, F. (2023). Metastability as a candidate neuromechanistic biomarker of schizophrenia pathology. PLoS One, 18(3), e0282707. (3) Regenbogen, C. (2015). The differential contribution of facial expressions, prosody, and speech content to empathy. Cognition and Emotion, 29(6), 1045-1056. (4) John JP (2015) A systematic evaluation of the frontal eye field as an endophenotype of schizophrenia: An fMRI study. Schizophrenia Research, 165(1), 79-84. (5) Mandelbrot, B. B. (1982). The Fractal Geometry of Nature. W. H. Freeman. (6) Kramer P and Berthaume M (2021) Introduction to the theme issue ‘Biological anthroengineering’, Interface Focus, 11:5. (7) Brown, R. E., & White, D. (2020). Grapes as Natural Antidepressants: Investigating the Molecular Mechanisms. Journal of Nutritional Neuroscience, 35(4), 287-299.
-}
+Yahriel Salinas-Reyes: My Journey as a New American
+As a New American, my journey has been defined by resilience, ambition, and a relentless pursuit of knowledge. My experiences as an immigrant have not only shaped who I am but have also driven me to achieve remarkable milestones in the fields of aerospace and aeronautical engineering, rocket science, and data-enabled sciences. I am Yahriel Salinas-Reyes, and I believe that my story is a testament to the power of determination and the potential for broader impacts on both science and society.
 
+	Micro-electro-mechanical systems (MEMS): I researched MEMS devices and their applications in aerospace, contributing to advancements in sensor technology.
+My commitment to expanding the frontiers of knowledge is further reflected in my academic achievements. My academic transcript attests to my dedication and rigorous pursuit of excellence. My involvement in research projects and my contributions to various publications and presentations showcase my drive to advance aerospace and aeronautical sciences.
+Beyond my academic and professional accomplishments, I am deeply committed to making a lasting impact on society. I firmly believe in the power of science and technology to transform lives and address critical challenges. My experiences as a New American have shaped my broader impact goals, and I am actively working to make a difference in my community.
+Currently, I am involved in initiatives to promote STEM education and mentor underrepresented students who aspire to pursue careers in aerospace and data-enabled sciences. I aim to inspire the next generation of scientists and engineers, especially those from diverse backgrounds, to pursue their passions and contribute to the advancement of knowledge.
+My journey as a New American has given me a unique perspective and a sense of responsibility. I am not only driven by my personal accomplishments but also by the broader impact I can make on society. I am dedicated to using my skills, knowledge, and experiences to advance the field of aerospace and aeronautical engineering and to inspire future generations to follow their dreams.
+In my pursuit of a graduate education, I seek to further expand my horizons and engage in cutting-edge research. I am committed to advancing knowledge and contributing to the broader impacts on society through my work in the Division of Mathematical Sciences (DMS) in the fields of Computational and Data-Enabled Sciences, Algorithms and Theoretical Foundations, Scientific Computing, and Bioinformatics. I believe that the interdisciplinary nature of these fields aligns perfectly with my multifaceted background and will allow me to make a significant contribution to the scientific community.
+w American has been defined by a relentless pursuit of knowledge, a dedication to broader impacts, and a commitment to pushing the boundaries of science. I am ready to take on the challenges and opportunities that graduate studies in DMS offer, and I am eager to make a meaningful difference in the world through my work in computational and data-enabled sciences, algorithms, scientific computing, and bioinformatics.
+Essay One (word limit: 1,000 words)
+As a Global Scholar with triple citizenship (U.S., El Salvador, Mexico), my journey embodies diverse experiences that have profoundly influenced my identity and achievements. As a first-generation student and the child of undocumented immigrants, these experiences have significantly shaped my path as a dedicated graduate student pursuing a doctorate in Aerospace, Aeronautical, and Mechanical o, against all odds, pursued a passion for Aerospace and Aeronautical Engineering, embarking on a journey into the marvels of rocket science and research and development. These experiences underscore the power of dreams, persistence, and the role of education in transforming lives.
+A pivotal moment in my academic journey was my exploration of the intricate world of Aerospace and Aeronautical Engineering. What might seem like science fiction to many became my reality. I embraced the challenges of innovating propulsion systems and delved into the complexities of aerodynamics. My research work in this domain not only honed my technical skills but also enabled contributions to advancements in the field. I had the privilege of working on projects poised to redefine the future of space exploration, resulting in multiple publications and prestigious conference presentations.
+Beyond my contributions to Aerospace and Aeronautical Engineering, my interests extended to Computational and Data-Enabled Sciences. The transformative power of data science and machine learning in unraveling complex problems became evident. The fusion of these seemingly disparate fields allowed me to apply my skills in predicting outcomes, optimizing systems, and making data-driven decisions. Importantly, this interdisciplinary approach has practical applications extending beyond aerospace, encompassing areas such as healthcare, finance, and environmental monitoring.
+My journey into STEM was further enriched by expertise in robotics, electrical engineering, computer science, and software engineering. Actively seeking opportunities to expand my skill set provided a holistic understanding of the technical 
+While my technical background is extensive and diverse, my commitment to broader impacts is unwavering. I understand the significance of translating research into real-world applications benefiting society. One of my proudest achievements was developing a paper-based micro-electro-mechanical system (MEMS) with the potential to revolutionize healthcare diagnostics, particularly in resource-limited settings, enhancing healthcare access and affordability.
+Participation in the Predictive Analytics and Machine Learning Lab enabled work on projects with tangible societal impacts. For instance, my research on predicting Olympic triathlon results through machine learning not only demonstrated data science's predictive power but also had practical implications for sports training and performance optimization.
+Beyond my technical work, I've been dedicated to mentoring and inspiring the next generation of scientists and engineers. Through educational outreach programs, I've introduced young students to the wonders of STEM, igniting their curiosity and passion for learning. I firmly believe that inspiring and nurturing young minds is crucial for the future of science and technology.
+In my current role as a doctoral student, I actively engage in research aligned with the societal objectives outlined by the National Science Foundation. My research in the field of Computational and Data-Enabled Sciences is intellectually stimulating and holds the potential to address pressing societal challenges. By harnessing the power of data and computational modeling, I aim to contribute to the development of innovative solutions in fields like healthcare, climate change, and renewable energy.
+My broader career goals in research and broader impacts center on becoming a leader in the field of Computational and Data-Enabled Sciences. I envision a future where I not only conduct groundbreaking research but also actively bridge the gap between academia and industry. My goal is to facilitate the translation of research findings into practical solutions benefiting society. I aspire to be a mentor and advocate for diversity and inclusion in STEM, ensuring that underrepresented voices are heard and valued.
+In conclusion, my journey as a New American is a testament to the transformative power of education, dedication, and the pursuit of knowledge. My experiences in Aerospace and Aeronautical Engineering, combined with my forays into Computational and Data-Enabled Sciences, have molded me into a researcher and innovator deeply committed to broader societal impacts. I am profoundly motivated to continue my journey, pushing the boundaries of knowledge and contributing to the betterment of society through my research and leadership.
+ct in my chosen research domain. I firmly believe that collaboration is the cornerstone of scientific advancement, and I am wholeheartedly committed to building meaningful and mutually beneficial connections with kindred spirits in the realm of academia and beyond.
+When envisioning my long-term career goals, I picture myself in a position of leadership within academia, research, or industry. My aspiration is to emerge as a recognized authority in the sphere of Computational and Data-Enabled Sciences, celebrated for pioneering research and an unwavering commitment to broader societal impacts. My overarching objective transcends the publication of influential research papers; it encompasses the active translation of research findings into tangible, practical solutions that bring about positive change within society.
+I hold a particularly strong drive to explore the application of computational mathematics and data analysis within the domain of healthcare. The potential for data-driven medical diagnoses, optimization of treatments, and disease prevention is vast and transformative. My aim is to collaborate closely with healthcare professionals and researchers, fostering the development of innovative tools and algorithms that enhance patient care and elevate the efficiency of healthcare systems.
+Moreover, I harbor a deep-seated commitment to championing diversity and inclusion within STEM fields. I firmly believe in the transformative power of diverse perspectives and the paramount importance of affording equal opportunities to individuals from all backgrounds. My vision encompasses active involvement in initiatives that are geared toward promoting diversity, equity, and inclusion, both within the academic sphere and the broader industrial landscape. I am unswerving in my resolve to serve as a mentor, a role model, and a vocal advocate for underrepresented minorities within the realm of STEM.
+In summation, my decision to pursue a doctorate in Computational and Data-Enabled Sciences is rooted in an insatiable thirst for knowledge and an abiding passion for research. The selection of this specific graduate program and institution is informed by my commitment to honing my skills, immersing myself in interdisciplinary research, and collaborating closely with distinguished faculty members. My immediate and long-term goals are emblematic of my dedication to conducting impactful research, nurturing collaborative partnerships, and generating a profound impact within my chosen field. My personal journey as a New American has instilled in me a profound commitment to mentorship, diversity, and making meaningful societal contributions, principles that will serve as guiding lights throughout my career.
 }
  
 Executive Roles: 
@@ -183,32 +182,33 @@ Purpose: To Help Yahriel Fill The Prompt
 {
 
  
-Harvard University PhD Graduate School Application and Proposed Field of Study
+assachussetts Institute of Technology PhD Graduate School Application for The Health Sciences and Technology (Harvard-MIT Joint Program)
 
-Field of Study 1: Engineering and Applied Sciences (SEAS) in Applied Mathematics
-Field of Study 2: Biophysics
-Field of Study 3: Division of Medical Sciences
+Program
+Health Sciences and Technology (Harvard-MIT Joint Program)
 
-Most interested
-Computational Neuroscience
+Please select an area of research:
+MEMP, with BioAstronautics Training Program
 
-Interested
-Modeling Physical/Biological Phenomena and Systems
+Please provide a two to three sentence description of your research interests.
 
-Somewhat interested
-Natural and Artificial Intelligence
+Applications to Other Universities and Programs
+Other universities to which you are applying (include name and program):
+1. MIT-Harvard Health Sciences and Technology (Harvard-MIT Joint Program)
+2. Stanford University - Neuroscience and Biomedical Data Science/Informatics
+3. Caltech - Computation and Neural Systems
 
-Other Harvard Schools to which you are applying:
-Harvard Medical School
+Other Schools to which you are applying:
+Health Sciences and Technology (Harvard-MIT Joint Program)
 
 ----
 Department 1: https://hst.mit.edu/academic-programs/memp
 Department 2: https://www.hms.harvard.edu/md_phd/
 ====
 ----
-Applying to Harvard: https://gsas.harvard.edu/apply/applying-degree-programs/completing-your-application/statement-purpose-personal-statement-and
 Applying to Bioastronautics Program: https://hst.mit.edu/academic-programs/memp/bioastronautics-training-program
-Applying to Harvard Medical School: https://www.hms.harvard.edu/md_phd/program/index.html
+Applying to MIT Program: https://hst.mit.edu/
+Applying to MIT Joint Program: https://imes.mit.edu/
 ----
 Other Resources and Helpful Links:
 https://mitcommlab.mit.edu/nse/wp-content/uploads/sites/4/2016/09/NSE_CommKit_GradSchool_Personal_Statement_AAE1.pdf
@@ -247,6 +247,9 @@ https://www.azent.com/expert-tips/sop-harvard-university
 
 Prompt:
 {
-Statement of Purpose
-The statement of purpose is very important to programs when deciding whether to admit a candidate. Your statement should be focused, informative, and convey your research interests and qualifications. You should describe your reasons and motivations for pursuing a graduate degree in your chosen degree program, noting the experiences that shaped your research ambitions, indicating briefly your career objectives, and concisely stating your past work in your intended field of study and in related fields. Your degree program of interest may have specific guidance or requirements for the statement of purpose, so be sure to review the degree program page for more information. Unless otherwise noted, your statement should not exceed 1,000 words.
+The HST community is composed of individuals who come from a variety of backgrounds, may have faced personal challenges, and serve as leaders in society. Please discuss how your experiences and background inspire you to work for the betterment of your communities. Your response is not limited to, but may discuss, one or more of the following:
+Personal challenges that you may have faced and how they acted to inhibit your scholarly growth;
+Strategies that you may have found or implemented to cope with challenges in your life or the lives of others;
+How you have fostered justice, equity, diversity, and inclusion in the past, or how you will in the future at HST and beyond
+Recommended Length: 400-800 words eXACTLY.
 }
