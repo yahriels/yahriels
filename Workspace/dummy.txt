@@ -25,57 +25,9 @@ Resume Template: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Re
 }
 
 
-
 SAMPLES: 
 { 
 
-Future Vision
-With an insatiable curiosity and a passion for interdisciplinary work, my aspiration is to pioneer the integration of aerospace engineering and neuroscience. I seek to unravel the complexities of brain-machine interfaces, enhancing our understanding of the human mind and opening new avenues for human potential. Pursuing a Ph.D. in Aerospace Engineering at your esteemed institution aligns with my vision, providing a unique platform to merge my expertise and contribute significantly to both fields.
-
-By leveraging my background in aerospace engineering, I aim to bring a fresh perspective to neuroscience research, applying principles of systems engineering and control theory to unravel the intricate dynamics of the brain. The intersection of these disciplines holds immense potential for transformative breakthroughs in neurotechnology, with applications ranging from brain-controlled prosthetics to innovative approaches in aerospace control systems.
-
-Why [University Name]
-[University Name] stands out as my top choice for pursuing a Ph.D. in Aerospace Engineering due to its distinguished faculty, cutting-edge research facilities, and commitment to fostering interdisciplinary collaboration. The university's emphasis on pushing the boundaries of traditional disciplines aligns seamlessly with my goal of integrating aerospace engineering and neuroscience.
-
-The groundbreaking work conducted by [University Name] in [Specific Research Area] has captured my attention and mirrors my own vision for pushing the frontiers of knowledge. I am particularly drawn to the collaborative environment that encourages students to explore beyond the confines of their primary discipline. This aligns with my interdisciplinary approach to research, and I am eager to contribute to and benefit from this vibrant academic community.
-
-Furthermore, the [Specific Lab/Center] at [University Name] is renowned for its innovative research in [Research Area], offering a unique opportunity for me to engage in cutting-edge projects and collaborate with leading experts in the field. The prospect of working under the mentorship of [Professor's Name] is particularly exciting, given their expertise in [Professor's Expertise] and their significant contributions to [Professor's Achievements].
-
-I am confident that [University Name] will provide the ideal intellectual and collaborative environment for me to realize my vision of advancing the field of aerospace engineering and neuroscience. I am excited about the prospect of contributing to the university's legacy of innovation and excellence while pursuing my Ph.D. under the guidance of [Professor's Name] and alongside fellow researchers who share my passion for pushing the boundaries of knowledge.
-
-Conclusion
-In conclusion, my journey from aerospace engineering to neuroscience reflects my commitment to pushing the boundaries of conventional thinking. My extensive research and development experiences, leadership roles, and interdisciplinary approach have equipped me with a unique skill set to make meaningful contributions to the field. I am enthusiastic about the opportunity to embark on a Ph.D. journey at [University Name], where I can merge my passion for aerospace engineering with the transformative potential of neuroscience.
-
-I am not just seeking a Ph.D. program; I am seeking a dynamic academic environment that fosters creativity, collaboration, and innovation. [University Name] embodies these qualities, making it the perfect institution for me to pursue my ambitious goals. I am excited about the prospect of contributing to the ongoing research at [University Name] and collaborating with brilliant minds to drive progress in aerospace engineering and neuroscience.
-
-I am confident that my background, vision, and commitment to pushing the boundaries of knowledge make me an excellent fit for your Ph.D. program. I look forward to the opportunity to further discuss how my unique perspective and skills align with the research objectives at [University Name]. Thank you for considering my application. I am eager to contribute to and thrive in the intellectually stimulating environment at [University Name].
-
-Yahriel Salinas-Reyes: My Journey as a New American
-As a New American, my journey has been defined by resilience, ambition, and a relentless pursuit of knowledge. My experiences as an immigrant have not only shaped who I am but have also driven me to achieve remarkable milestones in the fields of aerospace and aeronautical engineering, rocket science, and data-enabled sciences. I am Yahriel Salinas-Reyes, and I believe that my story is a testament to the power of determination and the potential for broader impacts on both science and society.
-
-	Micro-electro-mechanical systems (MEMS): I researched MEMS devices and their applications in aerospace, contributing to advancements in sensor technology.
-My commitment to expanding the frontiers of knowledge is further reflected in my academic achievements. My academic transcript attests to my dedication and rigorous pursuit of excellence. My involvement in research projects and my contributions to various publications and presentations showcase my drive to advance aerospace and aeronautical sciences.
-Beyond my academic and professional accomplishments, I am deeply committed to making a lasting impact on society. I firmly believe in the power of science and technology to transform lives and address critical challenges. My experiences as a New American have shaped my broader impact goals, and I am actively working to make a difference in my community.
-Currently, I am involved in initiatives to promote STEM education and mentor underrepresented students who aspire to pursue careers in aerospace and data-enabled sciences. I aim to inspire the next generation of scientists and engineers, especially those from diverse backgrounds, to pursue their passions and contribute to the advancement of knowledge.
-My journey as a New American has given me a unique perspective and a sense of responsibility. I am not only driven by my personal accomplishments but also by the broader impact I can make on society. I am dedicated to using my skills, knowledge, and experiences to advance the field of aerospace and aeronautical engineering and to inspire future generations to follow their dreams.
-In my pursuit of a graduate education, I seek to further expand my horizons and engage in cutting-edge research. I am committed to advancing knowledge and contributing to the broader impacts on society through my work in the Division of Mathematical Sciences (DMS) in the fields of Computational and Data-Enabled Sciences, Algorithms and Theoretical Foundations, Scientific Computing, and Bioinformatics. I believe that the interdisciplinary nature of these fields aligns perfectly with my multifaceted background and will allow me to make a significant contribution to the scientific community.
-w American has been defined by a relentless pursuit of knowledge, a dedication to broader impacts, and a commitment to pushing the boundaries of science. I am ready to take on the challenges and opportunities that graduate studies in DMS offer, and I am eager to make a meaningful difference in the world through my work in computational and data-enabled sciences, algorithms, scientific computing, and bioinformatics.
-Essay One (word limit: 1,000 words)
-As a Global Scholar with triple citizenship (U.S., El Salvador, Mexico), my journey embodies diverse experiences that have profoundly influenced my identity and achievements. As a first-generation student and the child of undocumented immigrants, these experiences have significantly shaped my path as a dedicated graduate student pursuing a doctorate in Aerospace, Aeronautical, and Mechanical o, against all odds, pursued a passion for Aerospace and Aeronautical Engineering, embarking on a journey into the marvels of rocket science and research and development. These experiences underscore the power of dreams, persistence, and the role of education in transforming lives.
-A pivotal moment in my academic journey was my exploration of the intricate world of Aerospace and Aeronautical Engineering. What might seem like science fiction to many became my reality. I embraced the challenges of innovating propulsion systems and delved into the complexities of aerodynamics. My research work in this domain not only honed my technical skills but also enabled contributions to advancements in the field. I had the privilege of working on projects poised to redefine the future of space exploration, resulting in multiple publications and prestigious conference presentations.
-Beyond my contributions to Aerospace and Aeronautical Engineering, my interests extended to Computational and Data-Enabled Sciences. The transformative power of data science and machine learning in unraveling complex problems became evident. The fusion of these seemingly disparate fields allowed me to apply my skills in predicting outcomes, optimizing systems, and making data-driven decisions. Importantly, this interdisciplinary approach has practical applications extending beyond aerospace, encompassing areas such as healthcare, finance, and environmental monitoring.
-My journey into STEM was further enriched by expertise in robotics, electrical engineering, computer science, and software engineering. Actively seeking opportunities to expand my skill set provided a holistic understanding of the technical 
-While my technical background is extensive and diverse, my commitment to broader impacts is unwavering. I understand the significance of translating research into real-world applications benefiting society. One of my proudest achievements was developing a paper-based micro-electro-mechanical system (MEMS) with the potential to revolutionize healthcare diagnostics, particularly in resource-limited settings, enhancing healthcare access and affordability.
-Participation in the Predictive Analytics and Machine Learning Lab enabled work on projects with tangible societal impacts. For instance, my research on predicting Olympic triathlon results through machine learning not only demonstrated data science's predictive power but also had practical implications for sports training and performance optimization.
-Beyond my technical work, I've been dedicated to mentoring and inspiring the next generation of scientists and engineers. Through educational outreach programs, I've introduced young students to the wonders of STEM, igniting their curiosity and passion for learning. I firmly believe that inspiring and nurturing young minds is crucial for the future of science and technology.
-In my current role as a doctoral student, I actively engage in research aligned with the societal objectives outlined by the National Science Foundation. My research in the field of Computational and Data-Enabled Sciences is intellectually stimulating and holds the potential to address pressing societal challenges. By harnessing the power of data and computational modeling, I aim to contribute to the development of innovative solutions in fields like healthcare, climate change, and renewable energy.
-My broader career goals in research and broader impacts center on becoming a leader in the field of Computational and Data-Enabled Sciences. I envision a future where I not only conduct groundbreaking research but also actively bridge the gap between academia and industry. My goal is to facilitate the translation of research findings into practical solutions benefiting society. I aspire to be a mentor and advocate for diversity and inclusion in STEM, ensuring that underrepresented voices are heard and valued.
-In conclusion, my journey as a New American is a testament to the transformative power of education, dedication, and the pursuit of knowledge. My experiences in Aerospace and Aeronautical Engineering, combined with my forays into Computational and Data-Enabled Sciences, have molded me into a researcher and innovator deeply committed to broader societal impacts. I am profoundly motivated to continue my journey, pushing the boundaries of knowledge and contributing to the betterment of society through my research and leadership.
-ct in my chosen research domain. I firmly believe that collaboration is the cornerstone of scientific advancement, and I am wholeheartedly committed to building meaningful and mutually beneficial connections with kindred spirits in the realm of academia and beyond.
-When envisioning my long-term career goals, I picture myself in a position of leadership within academia, research, or industry. My aspiration is to emerge as a recognized authority in the sphere of Computational and Data-Enabled Sciences, celebrated for pioneering research and an unwavering commitment to broader societal impacts. My overarching objective transcends the publication of influential research papers; it encompasses the active translation of research findings into tangible, practical solutions that bring about positive change within society.
-I hold a particularly strong drive to explore the application of computational mathematics and data analysis within the domain of healthcare. The potential for data-driven medical diagnoses, optimization of treatments, and disease prevention is vast and transformative. My aim is to collaborate closely with healthcare professionals and researchers, fostering the development of innovative tools and algorithms that enhance patient care and elevate the efficiency of healthcare systems.
-Moreover, I harbor a deep-seated commitment to championing diversity and inclusion within STEM fields. I firmly believe in the transformative power of diverse perspectives and the paramount importance of affording equal opportunities to individuals from all backgrounds. My vision encompasses active involvement in initiatives that are geared toward promoting diversity, equity, and inclusion, both within the academic sphere and the broader industrial landscape. I am unswerving in my resolve to serve as a mentor, a role model, and a vocal advocate for underrepresented minorities within the realm of STEM.
-In summation, my decision to pursue a doctorate in Computational and Data-Enabled Sciences is rooted in an insatiable thirst for knowledge and an abiding passion for research. The selection of this specific graduate program and institution is informed by my commitment to honing my skills, immersing myself in interdisciplinary research, and collaborating closely with distinguished faculty members. My immediate and long-term goals are emblematic of my dedication to conducting impactful research, nurturing collaborative partnerships, and generating a profound impact within my chosen field. My personal journey as a New American has instilled in me a profound commitment to mentorship, diversity, and making meaningful societal contributions, principles that will serve as guiding lights throughout my career.
 }
  
 Executive Roles: 
@@ -182,13 +134,13 @@ Purpose: To Help Yahriel Fill The Prompt
 {
 
  
-assachussetts Institute of Technology PhD Graduate School Application for The Health Sciences and Technology (Harvard-MIT Joint Program)
+Yahriel Salinas-Reyes PhD Graduate School Application
 
 Program
-Health Sciences and Technology (Harvard-MIT Joint Program)
+
 
 Please select an area of research:
-MEMP, with BioAstronautics Training Program
+
 
 Please provide a two to three sentence description of your research interests.
 
@@ -199,18 +151,21 @@ Other universities to which you are applying (include name and program):
 3. Caltech - Computation and Neural Systems
 
 Other Schools to which you are applying:
-Health Sciences and Technology (Harvard-MIT Joint Program)
+
 
 ----
-Department 1: https://hst.mit.edu/academic-programs/memp
-Department 2: https://www.hms.harvard.edu/md_phd/
+Department 1: 
+Department 2: 
 ====
 ----
-Applying to Bioastronautics Program: https://hst.mit.edu/academic-programs/memp/bioastronautics-training-program
-Applying to MIT Program: https://hst.mit.edu/
-Applying to MIT Joint Program: https://imes.mit.edu/
+Applying to Program: 
+Applying to Program: 
+Applying to Program: 
 ----
 Other Resources and Helpful Links:
+https://us.fulbrightonline.org/fulbright-nat-geo-fellowship
+https://www.ssrc.org/programs/the-mercury-project/nsf-mercury-project-partnership/
+https://us.fulbrightonline.org/applicants/types-of-awards/fulbright-national-geographic-award
 https://mitcommlab.mit.edu/nse/wp-content/uploads/sites/4/2016/09/NSE_CommKit_GradSchool_Personal_Statement_AAE1.pdf
 https://mitcommlab.mit.edu/eecs/commkit/graduate-school-personal-statement/
 https://mitcommlab.mit.edu/meche/commkit/statement-of-purpose-for-graduate-school/
@@ -222,7 +177,6 @@ https://bemoacademicconsulting.com/blog/harvard-grad-school-personal-statement-e
 https://www.gse.harvard.edu/sites/default/files/2023-09/Statement-of-Purpose.pdf
 https://www.azent.com/expert-tips/sop-harvard-university
 
-
 } 
 
 }
@@ -233,7 +187,6 @@ https://www.azent.com/expert-tips/sop-harvard-university
 }
 
 
-
 [KNOW THIS APPLICATION: https://github.com/yahriels/yahriels/blob/main/Workspace/Stanford%20University%20Graduate%20Admissions.pdf]
 
  
@@ -242,14 +195,7 @@ https://www.azent.com/expert-tips/sop-harvard-university
 
 
 
-
-
-
 Prompt:
 {
-The HST community is composed of individuals who come from a variety of backgrounds, may have faced personal challenges, and serve as leaders in society. Please discuss how your experiences and background inspire you to work for the betterment of your communities. Your response is not limited to, but may discuss, one or more of the following:
-Personal challenges that you may have faced and how they acted to inhibit your scholarly growth;
-Strategies that you may have found or implemented to cope with challenges in your life or the lives of others;
-How you have fostered justice, equity, diversity, and inclusion in the past, or how you will in the future at HST and beyond
-Recommended Length: 400-800 words eXACTLY.
+
 }

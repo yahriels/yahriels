@@ -23,11 +23,11 @@ Control and Dynamical Systems
 Academic Option 4
 Computer Science
 CMS Faculty #1
-Peter Schroeder
+https://www.cms.caltech.edu/people/faculty: 
 CMS Faculty #2
-Alan H. Barr
+https://www.cms.caltech.edu/people/faculty: 
 CMS Faculty #3
-Joel A. Tropp
+https://www.cms.caltech.edu/people/faculty: 
 Primary Area of Special Interest
 Computational Biology; Synthetic Biology; Molecular Programming; Neuroscience
 Secondary Area of Special Interest, if applicable
@@ -55,28 +55,4 @@ Caltech has an ambitious mission to expand human knowledge and benefit society t
 Program Participation and Outreach
 Data from the following questions on program participation, national organization membership, and conference attendance will not be made available to the admissions committee or used for admission purposes. However, if you choose to share this data with us it will be used, in aggregate, so we can learn more about the composition of our applicant pool.
 
-I am/was a participant in the following programs (select all that apply):Cal-Bridge
-Caltech SURF
-Fulbright
-McNair
-National Name Exchange
-Other, please specify
-What program do/did you participate in?
-Louis Stokes Alliances for Minority Participation
-
-I am/was a member of one of the following national organizations (select all that apply):National Society of Black Engineers (NSBE)
-Society for Advancement of Hispanics/Chicanos and Native Americans in Science (SACNAS)
-Society of Hispanic Professional Engineers (SHPE)
-Other, please specify
-What national organization are/were you a member of?
-Louis Stokes Alliances for Minority Participation 
-
-I have attended the following conference(s) (select all that apply):ABRCMS - Annual Biomedical Research Conference for Minority Students
-MAES - Latinos in Science and Engineering
-McNair
-NSBE - National Society of Black Engineers
-SACNAS - Society for Advancement of Hispanics/Chicanos and Native Americans in Science
-Other, please specify
-What conference did you attend?
-National Conference of Undergraduate Research
 ----

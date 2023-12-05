@@ -1,8 +1,93 @@
-Hello,
+Major Field:
 
-This application is due on December 11th from my end.
+Statements: 
 
-For this application to UC Berkeley , I am have selected the Graduate program:
-The Computational Precision Health (joint UCSF) JtPhD Program
-Department 1: https://grad.berkeley.edu/program/computational-precision-health-jt-phd-joint-ucsf/
-Department 2: https://computationalhealth.berkeley.edu/admissions/
+Add Courses: 
+
+Add Research Experinces:
+
+Add Relevant Courses
+
+Add Employment History:
+----
+Organization Name	
+Country	
+United States
+City	
+State	
+Select State
+Telephone	
+Dates of Employment	
+
+to
+Present
+
+Position/Title	
+Starting Compensation	
+
+Annual Base in $U.S.	
+
+Annual Bonus in $U.S.
+Ending Compensation	
+
+Annual Base in $U.S.	
+
+Annual Bonus in $U.S.
+Hours/Week	
+
+Description
+----
+
+Faculty: https://computationalhealth.berkeley.edu/new-faculty/
+
+Faculty Adviser
+Select the faculty you wish to work with and whose research best reflects your interests. To learn more about our CPH faculty, please see our website.
+Faculty Preference #1
+Faculty Preference #2
+Faculty Preference #3
+Briefly tell us why you would prefer these faculty members?
+Which member(s) of the UCSF or UC Berkeley faculty or staff have you contacted with regard to your application?
+
+
+----
+Statement and Materials:
+
+
+
+
+
+
+
+
+
+
+
+
+
+----
+
+Foreign Language and Area Studies (FLAS) Fellowship
+Foreign Language and Area Studies (FLAS) Fellowships provide funding to students to encourage the study of critical and less commonly taught foreign languages in combination with area studies, international studies or international aspects of professional studies. The purpose of the FLAS program is to promote the training of students who intend to make their careers in college or university teaching, government service, or other employment where knowledge of foreign languages and cultures is essential. 
+
+If you are recommended for admission, your FLAS selection and essay will be forwarded to the specific area studies center that oversees the competition for the language you propose to study.
+
+I want to be considered for a FLAS Fellowship
+To be considered, you need to complete all fields below.
+
+Proposed geographical area of study: (Note: The Center for African Studies and Center for Middle Eastern Studies are currently not accepting applications)
+
+Latin America
+Proposed language of study:
+
+Nahuatl
+
+Proposed level of language study:
+First Year
+Second Year
+Third Year
+Fourth Year
+Fifth Year and Beyond
+Provide a statement indicating what relevance the study of the language of application has to the preparation for your chosen career.  Limit your statement to two pages.
+The following files have been uploaded:
+
+----
