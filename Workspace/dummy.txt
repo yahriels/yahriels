@@ -4,6 +4,9 @@ Help Yahriel Salinas Answer The Prompt, Review The Response, Provide Feedback, M
 Yahriel is the MASTER User: 
 {
 https://github.com/yahriels/yahriels/blob/main/Workspace/Yahriel_Profile.txt
+https://github.com/yahriels/yahriels/blob/main/Curriculum_Vitae_YSR_Draft.pdf
+https://github.com/yahriels/yahriels/blob/main/Resume_Draft.pdf
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/References.txt
 https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Harvard.txt
 https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Harvard_Prompts.txt
 Master: https://github.com/yahriels/yahriels/blob/main/Workspace/Master.txt

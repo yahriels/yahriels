@@ -1,4 +1,3 @@
-Major Field:
 
 Statements: 
 
@@ -6,36 +5,24 @@ Add Courses:
 
 Add Research Experinces:
 
-Add Relevant Courses
 
 Add Employment History:
 ----
-Organization Name	
-Country	
-United States
-City	
-State	
-Select State
-Telephone	
-Dates of Employment	
-
-to
-Present
-
-Position/Title	
-Starting Compensation	
-
-Annual Base in $U.S.	
-
-Annual Bonus in $U.S.
-Ending Compensation	
-
-Annual Base in $U.S.	
-
-Annual Bonus in $U.S.
-Hours/Week	
-
-Description
+> Organization Name	
+> Country	
+> City	
+> State	
+> Telephone	
+> Dates of Employment
+> Position/Title	
+> Starting Compensation	
+- Annual Base in $U.S.	
+- Annual Bonus in $U.S.
+> Ending Compensation
+- Annual Base in $U.S.	
+- Annual Bonus in $U.S.
+> Hours/Week	
+> Description
 ----
 
 Faculty: https://computationalhealth.berkeley.edu/new-faculty/

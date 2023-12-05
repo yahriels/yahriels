@@ -1,4 +1,229 @@
+\documentclass[letterpaper,10pt]{article}
+\usepackage[left=1in, right=1in, top=1in, bottom=1in]{geometry}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{xcolor}
+\usepackage{hyperref}
 
+\definecolor{darkblue}{rgb}{0.0, 0.0, 0.55}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=darkblue,
+    filecolor=magenta,
+    urlcolor=blue,
+}
+
+\titleformat{\section}{\large\bfseries\color{darkblue}}{}{0em}{}[\titlerule]
+\setlength{\parindent}{0pt}
+\setlist[itemize]{left=0.5in}
+
+\begin{document}
+
+\begin{center}
+    \textbf{\LARGE [Graduate Program] PhD Application}
+\end{center}
+
+\pagestyle{empty}
+
+\begin{center}
+    \textbf{\LARGE Yahriel Salinas-Reyes} \\
+    \textit{Aerospace Engineer | [Graduate Degree Program] PhD Candidate}
+\end{center}
+
+
+\section*{Personal Statement:}
+I am Yahriel Salinas-Reyes, a visionary at the intersection of Aerospace Engineering and Neuroscience, dedicated to unraveling the mysteries of the brain. As an undergraduate with a Bachelor's in Aerospace Engineering, I have delved into groundbreaking research and projects, showcasing my ability to hit targets unseen by others—a true genius in the making.
+
+\section*{The Order of The Engineer}
+\textbf{ORDER OF THE ENGINEER}
+The "Order of the Engineer" is a fellowship of professionals dedicated to the practice, teaching, or administration of engineering. Initiation includes a commitment to the "Obligation" on the reverse of the card and acceptance of a stainless steel ring worn on the little finger of the working hand. Only those meeting high standards of professional engineering training or experience are invited, and the Obligation is voluntarily received for life. \\
+
+\textbf{OBLIGATION OF AN ENGINEER}
+I am an Engineer. In my profession I take deep pride. To it I owe solemn obligations.
+As an Engineer, I pledge to practice integrity and fair dealing, tolerance and respect; and to uphold devotion to the standards and the dignity of my profession, conscious always that my skill carries with it the obligation to serve humanity by making the best use of the Earth's precious wealth.
+As an Engineer, I shall participate in none but honest enterprises. When needed, my skill and knowledge shall be given without reservation for the public good. In the performance of duty and in fidelity to my profession, I shall give my utmost. \\
+
+\textbf{SIGNIFICANCE OF THE RING}
+The ring serves as a visual symbol attesting to the wearer's calling and symbolizing the unity of the profession in benefiting humanity. Made of stainless steel, it signifies the strength of the profession. The order, inspired by the Canadian organization with its 'iron ring' legacy, was organized by members of the Ohio Society of Professional Engineers, holding its first ceremony at Cleveland State University on June 4, 1970.
+The "Obligation of an Engineer" emphasizes pride in the engineering profession, pledging integrity, fair dealing, tolerance, and respect. Engineers commit to upholding the standards and dignity of their profession, recognizing the obligation to serve humanity responsibly.
+The "Significance of the Ring" at Iowa State University underscores the Order's purpose: fostering pride and dedication among engineers. The ceremony signifies the commitment to uphold the engineering profession's standards and dignity. The engineer's desire to apply the Golden Rule becomes the yardstick of professionalism, emphasizing giving over self-interest.
+The Engineer's Ring, a symbol of the desire to be a giver, publicly avows dedication to the profession and the public it serves. After accepting the obligation, engineers wear the ring as a reminder of their commitment, symbolizing their dedication every time they sign plans, contract documents, or design specifications.
+
+
+
+\section*{Education:}
+\textbf{Iowa State University of Science \& Technology} \\
+Ames, IA - Anticipated Graduation: December 16, 2023 \\
+Bachelor of Aerospace Engineering (GPA: 3.3)
+
+Relevant Coursework: Systems Engineering, Electrical Engineering, FEA, Robotics, Engine Analysis, Thermodynamics, Controls, Applied Mechanics \& Physics, Materials Science \& Engineering, Machine Learning, Computer Science, Software Engineering, etc.
+
+\section*{Research \& Development Experience:}
+
+\textbf{Senior Capstone Project:} \\
+Target Objective: Modern Design Methodology with Aerospace Application \& Design of Aerospace Systems
+\begin{itemize}
+    \item Oversaw the design and production of a Small Unmanned Aircraft System (sUAS) for industry partners DoD and NATO.
+    \item Implemented machine vision systems, industrial controls, automatic identification \& data capture.
+    \item Led signals \& control systems/electronics, optimizing aircraft design features and aerodynamic performance.
+\end{itemize}
+
+\textbf{Undergraduate Research Assistant – DARPA:} \\
+August 2021 to August 2023
+\begin{itemize}
+    \item Conducted research on Experimental Techniques for Flow Separation Detection and Chemical Sintering.
+    \item Operated as an Experimental Engineer, designing hardware-software components and building signal processing circuit-algorithm.
+    \item Contributed to the manufacturing of MEMS nanocomposites and developed computations for modeling shear-viscosity.
+\end{itemize}
+
+\textbf{Summer Undergraduate Research Fellow – Greer Group:} \\
+May 2022 to August 2022
+\begin{itemize}
+    \item Conducted research on Hybrid Nanocomposites - Semi-Empirical Method of Viscoelastic Behavior.
+    \item Created nanocomposites with architectural features for mechanical property enhancements.
+    \item Developed a semi-empirical model for deformation mechanisms, enabling FEA \& Euler Theory applications.
+\end{itemize}
+
+\textbf{McNair Scholar:} \\
+September 2021 to May 2022
+\begin{itemize}
+    \item Investigated Sociological Differences in Graduate School Motivation of Minority Identities.
+    \item Constructed an experimental framework, completed literature synthesis, and conducted interviews.
+    \item Prepared for doctoral studies through involvement in research and scholarly activities.
+\end{itemize}
+
+\textbf{Systems Engineer / Undergraduate Researcher – Soft Matter Material Transport Group:} \\
+August 2019 to May 2022
+\begin{itemize}
+    \item Researched the Design of Multi-Function 3D Piezoelectric Devices for Aeronautical Applications.
+    \item Explored tunability and sensitivity of paper-based devices, optimized device design, and created a self-automated calibration \& data capture system.
+    \item Submitted research work for publication in a scientific peer-reviewed journal (2023).
+\end{itemize}
+
+\textbf{Research Fellow, Boeing Undergraduate Research Excellence in Engineering Internship:} \\
+August 2021 to August 2022
+\begin{itemize}
+    \item Investigated Characterizing Damping Mechanisms in Piezoelectric Wind-Energy Harvesters.
+    \item Designed and fabricated a green technology low-cost force sensor, explored pathways for aeronautical data collection.
+    \item Submitted research work for publication in a scientific peer-reviewed journal (2023).
+\end{itemize}
+
+\textbf{Stanford University Summer Undergraduate Research Fellow, Zheng Research Group:} \\
+May 2021 to August 2021
+\begin{itemize}
+    \item Researched Insights of Machine-Learning (ML) Techniques for Scientific Methods \& Prediction.
+    \item Conducted literary analysis of ML methods, adapted ML methods to scientific methods, and cross-validated various mathematical kernels.
+    \item Presented findings in optimizations of experimental design for scientific discovery.
+\end{itemize}
+
+\textbf{Undergraduate Research Certificate Recipient, IINSPIRE-LSAMP (NSF) Scholars Program:} \\
+August 2019 to September 2020
+\begin{itemize}
+    \item Investigated Synthesizing Meta-stable Particles and High-Efficiency Paper-Based MEMS Sensors.
+    \item Explored modern applications of research and presented ideation of low-cost, green technology, sensor devices for industry and social impact.
+    \item Prepared literary reviews and deep analyses of relevant science engineering research.
+\end{itemize}
+
+\section*{Professional \& Leadership Experiences:}
+
+\textbf{Design Team Lead, NASA Micro-G Neutral Buoyancy Experiment Design Teams Challenge:} \\
+August 2021 to December 2022
+\begin{itemize}
+    \item Led a team to design, build, and test a tool/device addressing a space exploration challenge (Extravehicular activity).
+    \item Prototyped device components, CAD modeling, and reverse engineering; proposal utilized in NASA’s Mission to the Moon and Mars.
+\end{itemize}
+
+\textbf{Information Technology Specialist, Iowa State University of Science \& Technology:} \\
+August 2019 to May 2023
+\begin{itemize}
+    \item Implemented, monitored, and maintained IT computer systems.
+    \item Solved technical problems related to computer systems, software, hardware, networks, and cloud platforms.
+    \item Utilized SQL, JAVA, Python, C/C#/C++ Programming, Linux OS, AWS Services, SAS, BASH scripting.
+\end{itemize}
+
+\textbf{Residential Advisor and Honors Community Leader, Department of Residence:} \\
+August 2020 to May 2022
+\begin{itemize}
+    \item Engaged students, nurtured positive experiences, and moderated meetings to address concerns.
+    \item Directed multi-lingual health \& resource programming for the college community.
+\end{itemize}
+
+
+\section*{Research Activities}
+MEMS Shear Sensor and Flow Separation Theory, Energy Absorbing Nano-Architected Composites, Wind Energy and Development of MEMS Sensors, Implementation of ML into The Scientific Method, Applications of Multi-functional Piezo-electric Devices, Opportunities of Kirigami-Inspired MEMS Devices, Heat-Free Manufacturing of Paper-Based MEMS Sensor.
+
+\section*{Associations}
+Microscale Interfacial Fluid Physics Laboratory, Julia R. Greer Group at CALTECH, Boeing Aerospace Research Fellowship, Z Energy Lab at Stanford University, Goldwater Finalist/McNair Program at ISU, Soft Materials Matter Transport Group, Iowa State University Neuroscience Lab, Scientific Ethics Committee at Iowa State University, Materials Matters International, AIAA, SHPE, and OSEHRA.
+
+
+\section*{Relevant Software / Technical Skills}
+SQL, Windows OS, Linux OS, AWS Services, Java, C/C++/C# Programming, Python, MATLAB & Simulink, SAS, CAD & FEA (ANSYS/ABAQUS), Systems & Reverse Engineering, Internet of Things, Design of Experiments, etc.
+
+\section*{Academic Honors Received}
+The Order of The Engineer, The Ronald E. McNair Postbaccalaureate Achievement Program Scholar and The Barry Goldwater Scholarship and Excellence in Education Foundation Finalist, The Boeing Research in Excellence and Technology Fellowship Program (RETF) Scholar & Micro-G Neutral Buoyancy Experiment Design Teams (NExT) Challenge Competition Finalist, The Summer Undergraduate Research Fellowship Program (SURF) at Stanford University, The NASA Research Laboratory Design Teams Challenge, The Institute of Research Excellence in Materials Science.
+
+\section*{Certifications}
+\begin{itemize}[left=0pt]
+\item \textbf{Certified Systems Engineer} - International Council on Systems Engineering (INCOSE)
+\item \textbf{Certified Robotics Developer} - Robotics Certification Board (RCB)
+\item \textbf{Certified Aerospace Professional} - American Institute of Aeronautics and Astronautics (AIAA)
+\item \textbf{Certified Big Data Professional} - Big Data Certification Institute (BDCI)
+\end{itemize}
+
+\section*{Professional Memberships}
+\begin{itemize}[left=0pt]
+\item \textbf{Member, American Institute of Aeronautics and Astronautics (AIAA)}
+\item \textbf{Member, Institute of Electrical and Electronics Engineers (IEEE)}
+\item \textbf{Member, International Council on Systems Engineering (INCOSE)}
+\item \textbf{Member, Society of Automotive Engineers (SAE)}
+\end{itemize}
+
+\section*{Skills:}
+\textbf{Programming:} MATLAB, Python, C/C++, Java, BASH, SQL, HTML, CSS, JavaScript
+
+\textbf{Software:} SolidWorks, ANSYS, AutoCAD, CATIA, LabVIEW, TensorFlow, Simulink
+
+\textbf{Languages:} English (Fluent), Spanish (Fluent), American Sign Language (Conversational)
+
+
+\section*{Publications}
+\begin{enumerate}[label={[\arabic*]}]
+    \item Author, "Multi-Function 3D Piezoelectric Devices for Aeronautical Applications," \textit{Journal of Materials Science}, 2023 (Under Review).
+    \item Author, "Experimental Techniques for Flow Separation Detection and Chemical Sintering," Journal of Aerospace Science and Technology.
+     \item Author, "Characterizing Damping Mechanisms in Piezoelectric Wind-Energy Harvesters," \textit{Journal of Renewable Energy}, 2023 (Under Review).
+    \item Author, "Hybrid Nanocomposites: Semi-Empirical Method of Viscoelastic Behavior," Journal of Materials Science.
+    \item Author, "Characterizing Damping Mechanisms in Piezoelectric Wind-Energy Harvesters," Journal of Renewable Energy.
+\end{enumerate}
+
+\section*{Conferences}
+\begin{enumerate}[label={[\arabic*]}]
+    \item Presenter, AIAA SciTech Forum (2023): "Experimental Techniques for Flow Separation Detection and Chemical Sintering."
+    \item Presenter, Materials Research Society Annual Meeting (2022): "Hybrid Nanocomposites: Semi-Empirical Method of Viscoelastic Behavior."
+\end{enumerate}
+\section*{Future Vision}
+With an insatiable curiosity and a passion for interdisciplinary work, my aspiration is to pioneer the integration of aerospace engineering and neuroscience. Pursuing a Ph.D. in Aerospace Engineering at [Graduate School Selection] aligns with my vision, providing a unique platform to merge my expertise and contribute significantly to both fields.
+
+By leveraging my background in aerospace engineering, I aim to bring a fresh perspective to neuroscience research, applying principles of systems engineering and control theory to unravel the intricate dynamics of the brain. The intersection of these disciplines holds immense potential for transformative breakthroughs in neurotechnology.
+
+
+\section*{Why [Graduate Program]}
+[Graduate School Selection] stands out as my top choice due to its distinguished faculty, cutting-edge research facilities, and commitment to fostering interdisciplinary collaboration. The university's emphasis on pushing the boundaries of traditional disciplines aligns seamlessly with my goal of integrating aerospace engineering and neuroscience.
+
+The groundbreaking work conducted by [Graduate Program], and [Research and Intellectual Interests] resonates with my research interests. I am particularly drawn to the collaborative nature of research at [Graduate School Selection], where diverse perspectives converge to address complex challenges. The opportunity to engage with leading experts in both aerospace engineering and neuroscience is a unique advantage that will propel my research to new heights.
+
+In conclusion, I am enthusiastic about the prospect of contributing to the vibrant academic community at [Graduate School Selection] and driving innovation at the intersection of aerospace engineering and neuroscience. I am confident that the collaborative and interdisciplinary environment at [Graduate School Selection] will provide the ideal foundation for me to pursue groundbreaking research and make lasting contributions to both fields.
+
+
+\section*{Conclusion:}
+I am excited about the opportunity to pursue a Ph.D. in [Graduate Program Selection], combining my passion for aerospace technology with cutting-edge neuroscience research. My unique interdisciplinary background, complemented by extensive research and leadership experiences, positions me as an ideal candidate for your program. I look forward to the possibility of contributing to innovative research at [Graduate Degree Program]. Thank you for considering my application.
+
+\end{document}
+
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++
 Help Yahriel Salinas Answer The Prompt.
 
 Yahriel is the MASTER User: 
