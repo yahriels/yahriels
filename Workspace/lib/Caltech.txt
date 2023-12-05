@@ -23,11 +23,11 @@ Control and Dynamical Systems
 Academic Option 4
 Computer Science
 CMS Faculty #1
-https://www.cms.caltech.edu/people/faculty: 
+Erik Winfree
 CMS Faculty #2
-https://www.cms.caltech.edu/people/faculty: 
+Christopher Umans
 CMS Faculty #3
-https://www.cms.caltech.edu/people/faculty: 
+Niles A. Pierce
 Primary Area of Special Interest
 Computational Biology; Synthetic Biology; Molecular Programming; Neuroscience
 Secondary Area of Special Interest, if applicable

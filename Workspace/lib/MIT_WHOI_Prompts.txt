@@ -25,10 +25,6 @@ Other universities to which you are applying (include name and program):
 2. Stanford University - Neuroscience and Biomedical Data Science/Informatics
 3. Caltech - Computation and Neural Systems
 
-Other Schools to which you are applying:
-Health Sciences and Technology (Harvard-MIT Joint Program)
-
-
 
 ----
 Department 1: https://aeroastro.mit.edu/
@@ -37,7 +33,7 @@ Department 2: https://meche.mit.edu/
 ----
 Applying to MIT-WHOI Program: https://mit.whoi.edu/admissions/program-description/
 Applying to MIT Joint Program: https://mit.whoi.edu/academics/fields/aope/
-Applying to Bioastronautics Program: https://hst.mit.edu/academic-programs/memp/bioastronautics-training-program
+Applying to MIT-WHOI: https://mit.whoi.edu/
 ----
 Other Resources and Helpful Links:
 https://mitcommlab.mit.edu/nse/wp-content/uploads/sites/4/2016/09/NSE_CommKit_GradSchool_Personal_Statement_AAE1.pdf

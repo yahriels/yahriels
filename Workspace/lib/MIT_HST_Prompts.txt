@@ -1,30 +1,25 @@
-Massachussetts Institute of Technology PhD Graduate School Application for The Health Sciences and Technology (Harvard-MIT Joint Program)
+Massachussetts Institute of Technology PhD Graduate School Application 
 
 Program
-Health Sciences and Technology (Harvard-MIT Joint Program)
+
 
 Please select an area of research:
-MEMP, with BioAstronautics Training Program
+
 
 Please provide a two to three sentence description of your research interests.
 
 Applications to Other Universities and Programs
-Other universities to which you are applying (include name and program):
-1. MIT-Harvard Health Sciences and Technology (Harvard-MIT Joint Program)
-2. Stanford University - Neuroscience and Biomedical Data Science/Informatics
-3. Caltech - Computation and Neural Systems
 
 Other Schools to which you are applying:
-Health Sciences and Technology (Harvard-MIT Joint Program)
 
 ----
-Department 1: https://hst.mit.edu/academic-programs/memp
-Department 2: https://www.hms.harvard.edu/md_phd/
+Department 1: 
+Department 2: 
 ====
 ----
-Applying to Bioastronautics Program: https://hst.mit.edu/academic-programs/memp/bioastronautics-training-program
-Applying to MIT Program: https://hst.mit.edu/
-Applying to MIT Joint Program: https://imes.mit.edu/
+Applying to MIT-HASTS Program: https://hasts.mit.edu/program/
+Applying to MIT-HASTS: https://hasts.mit.edu/
+Applying to MIT History, Anthropology, and Science, Technology, and Society (HASTS) Program: https://hasts.mit.edu/about/
 ----
 Other Resources and Helpful Links:
 https://mitcommlab.mit.edu/nse/wp-content/uploads/sites/4/2016/09/NSE_CommKit_GradSchool_Personal_Statement_AAE1.pdf

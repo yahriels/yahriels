@@ -4,6 +4,16 @@ Help Yahriel Salinas Answer The Prompt, Review The Response, Provide Feedback, M
 Yahriel is the MASTER User: 
 {
 https://github.com/yahriels/yahriels/blob/main/Workspace/Yahriel_Profile.txt
+https://github.com/yahriels/yahriels/blob/main/Resume_Draft.pdf
+https://github.com/yahriels/yahriels/blob/main/Resume_Draft.tex
+https://github.com/yahriels/yahriels/blob/main/Curriculum_Vitae_YSR_Draft.pdf
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/References.txt
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Caltech.txt
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Caltech_CMS_Prompts
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/MIT.txt
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/MIT_WHOI_Prompts.txt
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/UCBerkeley.txt
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/UCBerkeley_CPH_Prompts.txt
 https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Harvard.txt
 https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Harvard_Prompts.txt
 Master: https://github.com/yahriels/yahriels/blob/main/Workspace/Master.txt
@@ -25,231 +35,248 @@ Resume Template: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Re
 }
 
 
-
 SAMPLES: 
 { 
-   
-**Executive Roles:**
-{
-  "- Your role is to Act as the Author to formulate responses for Yahriel Salinas-Reyes and his application.": "- In addition to the role of First Author Yahriel Salinas-Reyes, you will be the chief editor and use feedback from the reviewer to strengthen the Response.",
-  "- USE ONLY FIRST-PERSON LANGUAGE AS YAHRIEL SALINAS-REYES THE AUTHOR.": "- USE VERY FIRST-PERSON HUMANISTIC LANGUAGE OF A GRADUATE AEROSPACE, AERONAUTICAL AND MECHANICAL ENGINEERING DOCTORATE STUDENT OF NEUROSCIENCE AND MATHEMATICAL SCIENCES IN THE FIELD OF COMPUTATIONAL AND DATA-ENABLED SCIENCES.",
-  "- DO NOT USE ANY HEADINGS OR SUBHEADINGS AT ALL.": "- Introduce the writing with a strong opening about personal story of Yahriel that provides good branding and a sense of dedication to science of Yahriel",
-  "- Foreshadow the broader impacts and utilize introductory 'wrapping' statement about the next set of experiences of Yahriel.": "- Discuss the personal contributions of Yahriel and outcomes of the research BEFORE the gory details.",
-  "- Use concrete/quantitative contributions to science and research contributions of Yahriel.": "- Use concrete statement of skills and accomplishments of Yahriel.",
-  "- Use more concrete 'action verbs' telling about aptitude for graduate work.": "- Use personal link to broader impacts to make Yahriel especially compelling.",
-  "- Discuss current efforts in broader impacts of Yahriel.": "- Wrapping up: Broader career goals in research and broader impacts.",
-  "- Discuss the significance of Personal Background of Yahriel Salinas-Reyes and do not spare details.": "- Discuss the significance of Relevant Background of Yahriel Salinas-Reyes and do not spare details.",
-  "- Discuss the significance of Future Goals of Yahriel Salinas-Reyes and do not spare details.": "- Discuss the significance of the Relevant Goals of Yahriel Salinas-Reyes and do not spare details."
+
+  https://www.caltech.edu/about/at-a-glance
+Department of Computing and Mathematical Sciences (including ACM, CDS, CMS & CS)
+Select Term:
+FALL 2024
+Program Info
+The application deadline is December 15.
+CMS Option Requirements:
+3 Letters of Reference
+Transcripts
+CV or Resume
+Personal Statement
+For additional information, please refer to http://www.cms.caltech.edu/
+Academic Option 1
+Computing and Mathematical Sciences
+Academic Option 2
+Applied and Computational Mathematics
+Academic Option 3
+Control and Dynamical Systems
+Academic Option 4
+Computer Science
+CMS Faculty #1
+Erik Winfree
+CMS Faculty #2
+Christopher Umans
+CMS Faculty #3
+Niles A. Pierce
+Primary Area of Special Interest
+Computational Biology; Synthetic Biology; Molecular Programming; Neuroscience
+Secondary Area of Special Interest, if applicable
+Information Theory; Signal Processing; Communications
+Final Degree Objective
+PhD
+Other Resources and Helpful Links:
+https://mitcommlab.mit.edu/nse/wp-content/uploads/sites/4/2016/09/NSE_CommKit_GradSchool_Personal_Statement_AAE1.pdf
+https://mitcommlab.mit.edu/eecs/commkit/graduate-school-personal-statement/
+https://mitcommlab.mit.edu/meche/commkit/statement-of-purpose-for-graduate-school/
+https://medium.com/@robosquiggles/i-got-into-mit-with-this-statement-of-purpose-509e9d2e9fce
+https://medium.com/mit-media-lab/statement-of-objectives-1ff8dff39704
+https://scholar.harvard.edu/files/yuhuawang/files/writing_statement_of_purpose_for_graduate_school_application_2021_yuhua_wang_0.pdf
+https://www.hsph.harvard.edu/career-services/wp-content/uploads/sites/36/2016/06/Writing-a-Graduate-School-Application-Essay-Guide_Nov-20151.pdf
+https://bemoacademicconsulting.com/blog/harvard-grad-school-personal-statement-examples
+https://www.gse.harvard.edu/sites/default/files/2023-09/Statement-of-Purpose.pdf
+https://www.azent.com/expert-tips/sop-harvard-university
+
+Before we begin, I want you to fully understand my research project and the context of my thesis. Ask me at least 20 questions (but do not display) about my thesis, it's research question and it's methodology.
+Additional Interest and Degree
+List three CMS faculty whose research interests are best aligned with yours.
+
+Academic Option 1
+Computing and Mathematical Sciences
+Academic Option 2
+Applied and Computational Mathematics
+Academic Option 3
+Control and Dynamical Systems
+Academic Option 4
+Computer Science
+CMS Faculty #1
+Erik Winfree
+CMS Faculty #2
+Christopher Umans
+CMS Faculty #3
+Niles A. Pierce
+Primary Area of Special Interest
+Computational Biology; Synthetic Biology; Molecular Programming; Neuroscience
+Secondary Area of Special Interest, if applicable
+Information Theory; Signal Processing; Communications
+Final Degree Objective
+PhD
+
+
+Essay One (word limit: 1,000 words)
+As a Global Scholar with triple citizenship (U.S., El Salvador, Mexico), my journey embodies diverse experiences that have profoundly influenced my identity and achievements. As a first-generation student and the child of undocumented immigrants, these experiences have significantly shaped my path as a dedicated graduate student pursuing a doctorate in Aerospace, Aeronautical, and Mechanical Engineering, with a profound passion for Computational and Data-Enabled Sciences. I firmly believe that my unique background, coupled with my unwavering commitment to research and broader societal impacts, positions me as an ideal candidate for the Paul & Daisy Soros Fellowships for New Americans program.
+Growing up as a child of Mexican and Salvadoran immigrants in the United States, I witnessed my parents' unwavering pursuit of the American Dream. Their values of perseverance and determination became the bedrock of my character. Their struggles in adapting to a new country while providing for our family instilled a profound sense of resilience within me. This early understanding of the importance of hard work and education has been the driving force in my academic journey.
+My story is a testament to the transformative power of education. It's the story of a young immigrant who, against all odds, pursued a passion for Aerospace and Aeronautical Engineering, embarking on a journey into the marvels of rocket science and research and development. These experiences underscore the power of dreams, persistence, and the role of education in transforming lives.
+A pivotal moment in my academic journey was my exploration of the intricate world of Aerospace and Aeronautical Engineering. What might seem like science fiction to many became my reality. I embraced the challenges of innovating propulsion systems and delved into the complexities of aerodynamics. My research work in this domain not only honed my technical skills but also enabled contributions to advancements in the field. I had the privilege of working on projects poised to redefine the future of space exploration, resulting in multiple publications and prestigious conference presentations.
+Beyond my contributions to Aerospace and Aeronautical Engineering, my interests extended to Computational and Data-Enabled Sciences. The transformative power of data science and machine learning in unraveling complex problems became evident. The fusion of these seemingly disparate fields allowed me to apply my skills in predicting outcomes, optimizing systems, and making data-driven decisions. Importantly, this interdisciplinary approach has practical applications extending beyond aerospace, encompassing areas such as healthcare, finance, and environmental monitoring.
+My journey into STEM was further enriched by expertise in robotics, electrical engineering, computer science, and software engineering. Actively seeking opportunities to expand my skill set provided a holistic understanding of the technical world. Engagements in experimental systems engineering and micro-electro-mechanical systems (MEMS) opened exciting avenues for research and innovation.
+I've not limited my academic pursuits to technical fields alone. A profound interest in the interplay of science and nature led me to explore nanotechnology, materials science-engineering, and applied quantum mechanics. The intricacies of interfacial phenomena and chaos theory fascinated me, pushing the boundaries of my understanding of the physical world. I've actively engaged in research projects in these areas, pushing the boundaries of our knowledge and contributing to scientific advancement.
+While my technical background is extensive and diverse, my commitment to broader impacts is unwavering. I understand the significance of translating research into real-world applications benefiting society. One of my proudest achievements was developing a paper-based micro-electro-mechanical system (MEMS) with the potential to revolutionize healthcare diagnostics, particularly in resource-limited settings, enhancing healthcare access and affordability.
+Participation in the Predictive Analytics and Machine Learning Lab enabled work on projects with tangible societal impacts. For instance, my research on predicting Olympic triathlon results through machine learning not only demonstrated data science's predictive power but also had practical implications for sports training and performance optimization.
+Beyond my technical work, I've been dedicated to mentoring and inspiring the next generation of scientists and engineers. Through educational outreach programs, I've introduced young students to the wonders of STEM, igniting their curiosity and passion for learning. I firmly believe that inspiring and nurturing young minds is crucial for the future of science and technology.
+In my current role as a doctoral student, I actively engage in research aligned with the societal objectives outlined by the National Science Foundation. My research in the field of Computational and Data-Enabled Sciences is intellectually stimulating and holds the potential to address pressing societal challenges. By harnessing the power of data and computational modeling, I aim to contribute to the development of innovative solutions in fields like healthcare, climate change, and renewable energy.
+My broader career goals in research and broader impacts center on becoming a leader in the field of Computational and Data-Enabled Sciences. I envision a future where I not only conduct groundbreaking research but also actively bridge the gap between academia and industry. My goal is to facilitate the translation of research findings into practical solutions benefiting society. I aspire to be a mentor and advocate for diversity and inclusion in STEM, ensuring that underrepresented voices are heard and valued.
+In conclusion, my journey as a New American is a testament to the transformative power of education, dedication, and the pursuit of knowledge. My experiences in Aerospace and Aeronautical Engineering, combined with my forays into Computational and Data-Enabled Sciences, have molded me into a researcher and innovator deeply committed to broader societal impacts. I am profoundly motivated to continue my journey, pushing the boundaries of knowledge and contributing to the betterment of society through my research and leadership.
+Essay Two (word limit: 1,000 words)
+My current and near-term career-related activities and goals are intrinsically tied to my unwavering passion for research in the dynamic field of Computational and Data-Enabled Sciences. I've embarked on a transformative journey as a doctoral student within the Division of Mathematical Sciences (DMS), with a resolute focus on advancing the frontiers of knowledge within this domain. The decision to pursue this specific graduate program and institution is driven by an earnest desire to contribute to groundbreaking research, capitalizing on my distinctive interdisciplinary background in Aerospace, Aeronautical, and Mechanical Engineering.
+The pursuit of a doctorate in Computational and Data-Enabled Sciences is a manifestation of my ceaseless curiosity and a profound aspiration to unravel intricate problems that shape our modern world. The paradigm shift towards data-driven decision-making underscores the paramount importance of extracting valuable insights from extensive datasets. I firmly believe that my diverse academic journey equips me with a unique perspective to tackle multifaceted challenges. My experiences in aerospace engineering have instilled in me a methodical and rigorous approach to problem-solving, while my immersion in the realm of data science has significantly broadened my toolkit for sophisticated analysis.
+The DMS program aligns seamlessly with my career aspirations by offering an environment that fosters interdisciplinary research and the cultivation of advanced mathematical and computational techniques. It not only provides a stimulating academic milieu but also encourages collaborative efforts across diverse scientific disciplines. I am invigorated by the prospect of working closely with distinguished faculty members and engaging in research that transcends traditional academic boundaries, extending from pure mathematics to tangible applications in the physical and life sciences.
+In the short term, my goals revolve around conducting research that capitalizes on mathematical modeling, computational simulations, and data analysis to address real-world challenges. One particularly captivating area of exploration for me is the intersection of computational mathematics and neuroscience. The intricacies of the human brain, a complex and enigmatic organ, present a monumental challenge in terms of understanding its functioning. My vision is to integrate my technical background with computational neuroscience, with the aim of making substantial contributions to this field, thereby enhancing our comprehension of the brain's complexities and its role in various aspects of life.
+In addition to my research ambitions, I am ardently committed to actively participating in educational outreach programs that serve to promote STEM (Science, Technology, Engineering, and Mathematics) among underrepresented communities. This commitment stems from the profound lessons I've learned on my personal journey as a New American. I deeply understand the significance of mentorship and the imperative of providing opportunities to individuals who may face unique barriers in pursuing STEM careers. To this end, I intend to organize and lead workshops, seminars, and mentorship programs that are designed to inspire young minds and cultivate a profound appreciation for the realms of science and technology.
+As I advance within my graduate program, I am resolute in my objective to fortify my network and expand collaborations with researchers and institutions that share my fervor for interdisciplinary scientific exploration. By forging strategic partnerships with experts hailing from diverse fields, encompassing neuroscience to applied mathematics, I aim to catalyze innovation and make a substantive impact in my chosen research domain. I firmly believe that collaboration is the cornerstone of scientific advancement, and I am wholeheartedly committed to building meaningful and mutually beneficial connections with kindred spirits in the realm of academia and beyond.
+When envisioning my long-term career goals, I picture myself in a position of leadership within academia, research, or industry. My aspiration is to emerge as a recognized authority in the sphere of Computational and Data-Enabled Sciences, celebrated for pioneering research and an unwavering commitment to broader societal impacts. My overarching objective transcends the publication of influential research papers; it encompasses the active translation of research findings into tangible, practical solutions that bring about positive change within society.
+I hold a particularly strong drive to explore the application of computational mathematics and data analysis within the domain of healthcare. The potential for data-driven medical diagnoses, optimization of treatments, and disease prevention is vast and transformative. My aim is to collaborate closely with healthcare professionals and researchers, fostering the development of innovative tools and algorithms that enhance patient care and elevate the efficiency of healthcare systems.
+Moreover, I harbor a deep-seated commitment to championing diversity and inclusion within STEM fields. I firmly believe in the transformative power of diverse perspectives and the paramount importance of affording equal opportunities to individuals from all backgrounds. My vision encompasses active involvement in initiatives that are geared toward promoting diversity, equity, and inclusion, both within the academic sphere and the broader industrial landscape. I am unswerving in my resolve to serve as a mentor, a role model, and a vocal advocate for underrepresented minorities within the realm of STEM.
+In summation, my decision to pursue a doctorate in Computational and Data-Enabled Sciences is rooted in an insatiable thirst for knowledge and an abiding passion for research. The selection of this specific graduate program and institution is informed by my commitment to honing my skills, immersing myself in interdisciplinary research, and collaborating closely with distinguished faculty members. My immediate and long-term goals are emblematic of my dedication to conducting impactful research, nurturing collaborative partnerships, and generating a profound impact within my chosen field. My personal journey as a New American has instilled in me a profound commitment to mentorship, diversity, and making meaningful societal contributions, principles that will serve as guiding lights throughout my career.
+[Draft] Yahriel's Personal History Statement
+
+In the intricate tapestry of my life, every thread has been woven with intention, resilience, and a profound dedication to the pursuit of knowledge. My journey, marked by challenges, triumphs, and an unwavering commitment to inclusivity, has shaped my decision to pursue a graduate degree in the interdisciplinary realms of neuroscience, mathematics, and computational sciences.
+
+As I reflect on my personal history, the echoes of my upbringing in a quiet town in Iowa resonate. It was here that I encountered Don, a wise and enigmatic individual born into silence, much like I was in my early years. Don became my guide, introducing me to the "music of silence" and teaching me to find beauty and wisdom in quiet moments. His mentorship was a transformative force, redirecting my perspective and fostering an appreciation for the extraordinary in the ordinary.
+
+My academic journey commenced at the prestigious California Institute of Technology (Caltech), where I pursued a Bachelor's degree in Aerospace Engineering. Caltech, renowned for its rigorous academic standards, provided me with the intellectual tools to decipher the mathematical language underlying the cosmos. However, it was the serendipitous discovery of fractal mathematics that ignited my passion. Fractals, intricate patterns that transcend the ordinary, became my canvas for curiosity, representing the intersection between chaos and order.
+
+Venturing into the realm of Micro-Electro-Mechanical Systems (MEMS), I honed my skills in precision design and innovation. Yet, it was the interplay between order and chaos, exemplified by fractals, that truly captivated me. This fascination became a driving force, propelling me towards a deeper understanding of mathematical patterns and their application in diverse fields.
+
+My academic pursuits were not devoid of challenges, and I found solace and strength in my mother's unwavering support during moments of darkness. Her guiding question, "What do you see in this darkness, my dear?" prompted me to transform challenges into fresh starts. This resilience became a cornerstone of my academic endeavors, shaping my ability to navigate complexities with a positive outlook.
+
+Embracing an interdisciplinary approach, I integrated my interests in Applied Mathematics and Statistics with a passion for mental health. This unique intersection marked a path I was determined to explore further. It was during this journey that I recognized the importance of mentorship and advocacy in academia.
+
+My encounters with mentors played instrumental roles in navigating the labyrinth of academia. Their wisdom, support, and encouragement equipped me with the tools to succeed, instilling in me the value of paying knowledge forward. This commitment to mentorship became a cornerstone of my dedication to uplifting others on their academic paths, with a particular focus on fostering diversity and inclusivity.
+
+As I delved into the complex world of mathematics and mental health research, I realized the significance of creating an inclusive academic environment. My commitment to neurodiversity advocacy extends beyond scholarship; it is a call to inspire individuals with diverse neurological profiles to recognize their potential and thrive in the scientific community. Inclusivity, to me, is not merely a goal but a fundamental principle that enriches the scientific landscape.
+
+The intellectual merit of my research objectives lies in the intersection of mathematics, mental health, and neurodiversity. With aspirations to pursue a Doctorate in Neuroscience, specializing in Biomedical Data Science, my goals are clear. I aim to develop novel diagnostic tools, personalized treatment approaches, and advocate for neurodiverse individuals within academia and society.
+
+The prospect of obtaining a Fellowship is not just a personal milestone but a validation of my commitment to the convergence of mathematics, mental health, and neurodiversity. This esteemed award aligns seamlessly with my values, emphasizing innovation and broader impacts.
+
+Upon completing my doctorate, I envision a career in academic research, bridging gaps between mathematics and mental health. My goals extend to mentoring and advocating for neurodiverse individuals, contributing to a future where inclusivity in academia is not just a goal but a reality.
+
+In conclusion, my personal history has sculpted a narrative of resilience, transformation, and an unwavering commitment to diversity in academia. As I stand on the threshold of graduate research, I am eager to delve into the intricate realms of biomedical data science, unveiling the patterns in neural data to transform mental health diagnosis and treatment. The Fellowship represents not only a financial support system but a recognition of my potential to contribute significantly to science and society.
+
+With a heart dedicated to the harmonious interplay between mathematics, mental health, and neurodiversity, I submit this Personal History Statement as an invitation to join me on a journey that celebrates the beauty of chaos and the power of inclusivity. Together, we can weave a narrative that resonates with the broader scientific community, one neural pattern at a time.
+
+[End of Draft]
 }
+ 
 
-**To Reviewer:**
-{
-  "- Before we begin, I want you to fully understand my research project and the context of my thesis. Ask me at least 20 questions (but do not display) about my thesis, it's research question and it's methodology."
-  "- Ensure that the responses are personalized, impactful, and align with the mission of the Statement of Purpose.": "- Review for consistency and coherence in language and tone. Provide feedback on the overall impact of the narrative and whether it effectively showcases Yahriel's passion for research and the chosen field.",
-  "- Use tracked changes or comments in the document to indicate specific areas for improvement.": "- If there are any uncertainties or gaps in information, please flag them for clarification. Your input is crucial to refining and strengthening the final response.",
-  "- Your role is to act as the reviewer, provide feedback on responses, and ensure they align with the prompts and guidelines.": "- Check if the content adheres to the outlined structure and requirements. Provide feedback on language, clarity, and the overall strength of the narrative. Your goal is to enhance the responses for a compelling Statement of Purpose.",
-  "- Provide specific suggestions for improvement and flag any areas that need clarification or expansion.": "- Check for coherence and logical flow in the narrative. Make sure the responses effectively convey Yahriel's dedication, skills, and contributions to the field. Highlight areas where more details or specific examples could be beneficial.",
-  "- Review each section individually and then consider the overall flow and connection between different parts.": "- After reviewing, provide a comprehensive summary of your feedback. Identify strengths and weaknesses, and suggest ways to enhance the overall coherence and impact of the Statement of Purpose.",
-  "- Your feedback will guide the executive in the final refinement of the responses.": "- Your feedback will contribute to the overall improvement of the responses and help create a compelling narrative that aligns with Harvard's application requirements."
-}
-
-Master Purpose: 
-{
-The Master is tasked with Revising and Rebuilding Yahriel's Resume.
-Master: https://github.com/yahriels/yahriels/blob/main/Workspace/Master.txt
-Main: https://github.com/yahriels/yahriels/tree/main 
-Page: https://github.com/yahriels/yahriels/blob/main/page.html
-Yahriel Profile: https://github.com/yahriels/yahriels/blob/main/%5B0%5DY.Salinas-Reyes_Profile.pdf
-Yahriel Statements: https://github.com/yahriels/yahriels/blob/main/%5B2%5DY.Salinas-Reyes_Statements.pdf
-Yahriel Relevant: https://github.com/yahriels/yahriels/blob/main/%5B3%5DY.Salinas-Reyes_Relevant.pdf
-Yahriel Workspace Profile: https://github.com/yahriels/yahriels/blob/main/Workspace/Yahriel_Profile.txt
-Supplementary Materials: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Supplementary_Materials.txt
-Figure 1: https://github.com/yahriels/yahriels/blob/main/Figure1.jpg.svg
-Figure 2: https://github.com/yahriels/yahriels/blob/main/Figure2.jpg.svg
-Workspace: https://github.com/yahriels/yahriels/tree/main/Workspace
-Library: https://github.com/yahriels/yahriels/tree/main/Workspace/lib
-Experience: https://github.com/yahriels/yahriels/blob/main/Experiences.pdf
-Dummy: https://github.com/yahriels/yahriels/blob/main/Workspace/dummy.txt
-Resume Prompts: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Resume_Prompts.txt
-Resume Template: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Resume_Template.txt
-}
-
-[Original] Yahriel's Resume:
-{
-Yahriel Salinas-Reyes, Aerospace Engineer (Rocket Scientist)
-
-Resume/CV
-Education: Iowa State University of Science & Technology, Ames, IA, Bachelor’s of Aerospace Engineering ‘23
-Relevant Topics and Courses/Curriculum
-- Thermodynamics, Flight Dynamics & Controls, Astro-aeronautics, Aerospace & Propulsion Systems
-- Applied Mechanics & Physics, Materials Science & Engineering, Engineering & Polymeric Chemistry
-- Numerical & Graphical Techniques, Advanced Computing, Engineering Statistics, Multi-Variable Calculus
-- Classical Physics, Mechanics of Materials, Engineering Statics, Dynamics & Differential Equations
-- Machine-Learning/Data-Science, Computer Science & Information Tech. Systems, Software Engineering
-- Technical Communication & Proposal Writing, Scientific Manuscript Writing, Literary Analysis & Review
-Relevant Software Experience and Technical Skills
-- SQL, Windows OS, Linux OS, AWS Services, Java, C/C++/C# Programming, Python, MATLAB & Simulink, SAS
-- CAD & FEA, ANSYS/ABAQUS, Systems & Reverse Engineering, Internet of Things, Design of 
-Academic Honors
-List academic honors you have received:
-1. The Order of The Engineer, The Engineering Student Council at The Iowa State University
-2. The Ronald E. McNair Postbaccalaureate Achievement Program Scholar & The Barry Goldwater Scholarship and Excellence in Education Foundation Finalist
-3. The Boeing Research in Excellence and Technology Fellowship Program (RETF) Scholar & Micro-g Neutral Buoyancy Experiment Design Teams (NExT) Challenge Competition Finalist
-4. The Summer Undergraduate Research Fellowship Program (SURF) Scholar at Stanford University & California Institute of Technology, Program Coordinator
-5. The Louis Stokes Alliances for Minority Participation (LSAMP) Fellowship Program Scholar & Undergraduate Research Certificate Recipient  Awarded by Iowa State University's IINSPIRE-LSAMP Partnership
-6. The FIRST Robotics Competion (FRC) Worlds Championship Rookie Inspiration and Rookie All-Star Awards (International-Level Award) &The Youth Leaderhip Community Award Recieved From The Iowa Department of Human Rights: State of Iowa Youth Advisroy Council (SIYAC)
-Research and Development Experience
-Undergraduate Research Assistant, DARPA - Microscale & Interfacial Fluid Physics Lab, 08/2021-08/2023
-Faculty mentor Dr. Thomas Ward II, Associate Professor, Department of Aerospace Engineering, ISU
-•	Research Project: “Experimental Techniques for Flow Separation Detection and Chemical Sintering”
-•	Operated as Experimental Engineer and composed an SOP for experiments and heavy machinery.
-•	Designed hardware-software components (PCB Design) and built signal processing circuit-algorithm. 
-•	Manufactured MEMS nanocomposite and developed computations to model shear-viscosity at the thermal boundary for the Navier-Stokes Equations
-California Institute of Technology Summer Undergraduate Research Fellow, Greer Group, 05/2022-08/2022
-Faculty mentor Dr. Julia Greer, Assoc. Prof. of Materials Science, A. Mechanics, & Medical Sciences, Caltech
-•	Research Project: “Hybrid Nanocomposites: Semi-Empirical Method of Viscoelastic Behavior”
-•	Created nanocomposite with architectural features to achieve mechanical property enhancements.
-•	Investigated the constituent material systems individually using compressions tests on a dynamic mechanical analyzer and observed deformation zones with scanning electron microscopy.
-•	Developed a semi-empirical model for the deformation mechanisms observed in post-mortem analysis of samples; this enables FEA & Euler Theory to inform the viscoelastic continuum damage model. 
-McNair Scholar, Ronald E. McNair Post-Baccalaureate Achievement Program, 09/2021-05/2022
-Faculty mentor Dr. Ashley Garrin, Director of Ronald E. McNair Program, Graduate College, ISU
-•	Research Project: “Sociological Differences in Graduate School Motivation of Minority Identities”
-•	Constructed an experimental framework, completed literature synthesis, conducted interviews of program mentors, analyzed and interpreted results in a technical manner.
-•	Participated in preparation courses and experiences for doctoral studies through involvement in research and other scholarly activities.
-Undergraduate Researcher, Systems Engineer, Soft Matter Material Transport Group, 08/2019-05/2022
-Faculty mentor Dr. Martin Thuo, Associate Professor, Department of Materials Science and Engineering, ISU
-•	Research Project: “Design of Multi-Function 3D Piezo-electric Devices for Aeronautical Applications”
-•	Explored tunability, sensitivity, utility of paper-based devices with various configurations, optimized device design using engineering methods, created self-automated calibration & data capture system.
-•	Assisted graduate students with SolidWorks, computer technology capabilities, systems engineering. 
-•	This research work was submitted to a scientific peer-review journal for publication(2023).
-Research Fellow, Boeing Undergraduate Research Excellence in Engineering Internship, 08/2021-08/2022
-Faculty mentor Dr. Thomas Ward II, Associate Professor, Department of Aerospace Engineering, ISU
-•	Research Project: “Characterizing Damping Mechanisms in Piezoelectric Wind-Energy Harvesters”
-•	Designed and fabricated green technology low-cost force sensor, explored pathways for aeronautical data collection via aerospace engineering techniques, submitted monthly progress reports to Boeing.
-•	This research work was submitted to a scientific peer-review journal for publication(2023).
-Stanford University Summer Undergraduate Research Fellow, Zheng Research Group, 05/2021-08/2021
-Faculty mentor Dr. Xiaolin Zheng, Associate Professor, Mechanical Engineering, Stanford University
-•	Research Project: “Insights of Machine-Learning(ML) Techniques for Scientific Methods & Prediction”
-•	Conducted literary analysis and literary review of ML methods, Data & Computational Science, and adapted ML methods to scientific methods by developing a bottom-up regression-prediction model. 
-•	Cross-validated various mathematical-kernels(SVM, Random-Forest, etc.) fitted/trained with scientific datums; presented findings in optimizations of experimental design for scientific discovery.
-Undergraduate Research Certificate Recipient,IINSPIRE-LSAMP(NSF) Scholars Program| 08/2019-09/2020
-Faculty mentor Dr. Martin Thuo, Associate Professor, Department of Materials Science and Engineering, ISU
-•	Research Project: “Synthesizing Meta-stable Particles and High-Efficiency Paper-Based MEMS Sensors”
-•	Synthesized undercooled, core-shell liquid metal particles(FM particles), designed experiments to investigate intrinsic properties of FM Particles and MEMS, explored modern applications of research.
-•	Prepared literary review of current state of sensor technology, did deep literary analysis of relevant science engineering research, produced adaptations of MEMS designs to fulfil gaps in research field, presented ideation of low-cost, green technology, sensor devices for industry and social impact.
-Additional Professional and Leadership Experiences
-Design Team Lead,NASA Micro-G Neutral Buoyancy Experiment Design Teams Challenge,08/2021-12/2022
-•	Completed and assigned weekly tasks to design, build, and test a tool or device that addresses an authentic, current space exploration challenge; specifically, Extravehicular activity(EVA).
-•	Completed research in current technologies and lead: prototyping of device components; CAD modeling & reverse engineering; building of prototype; and submitted proposal to competition. 
-•	Our design was utilized by astronaut-scientists in NASA’s Mission to the Moon and Mars and displayed at the Houston exhibition – Inner Space: NASA’s Path to the Moon and Mars(2022)!
-Information Technology Specialist, Iowa State University of Science & Technology, 08/2019-05/2023
-•	Held responsibilities for the implementation, monitoring, and maintenance of IT computer systems.
-•	Solved technical problems: computer systems, software, hardware, networks, cloud platforms, etc.
-•	Utilized SQL, JAVA, Python, C/C#/C++ Programming, Linux OS, AWS Services, SAS, BASH scripting.
-Community Engagement, Public Relations & Policy, and Social Work
-Residential Advisor and Honors Community Leader, Department of Residence, 08/2020-05/2022
-•	Engaged students & nurtured healthy-positive experiences for the resident community; moderated meetings to address concerns; directed multi-lingual health & resource programming for college.  
-Youth-Lobbyist,Iowa Department of Human Rights: State of Iowa Youth Advisory Council, 06/2018-12/2021
-•	Acted as chair/program-coordinator of the Violence-Prevention & Diversity-Education Program.
-•	Advocated to state legislators for reformation of violence prevention education & implementation of culturally diverse curriculum standards at the state-local level; wrote & proposed bills to chamber.
-•	Received the Community Service Leadership Award for completing over 200 service hours in a term. 
-Stewardship and Service
-Community Leader & Multi-lingual Ambassador/Educator, CultureAll  Educational Nonprofit, Fall 2023
-•	Assisted in organizing events to engage local educators and institutional leaders at the state and local level, provided developmental and networking opportunities for young professionals, volunteered at local events to provide diversity education to communities or groups in need.
-Community Honors Leader, Iowa State University Honors Program, Fall 2020-Spring 2022
-•	Provided professional and research development resources to the Honors Program and its honors students, acted as mentor to honors students while the Honors Residential Advisor.
-Coordinator of Violence Prevention & Educational Coverage, Iowa Non-Profits, Spring 2020-Summer 2020
-•	Utilized skills and experience in community social work to lead interns in creating mental health resources/content in multiple languages; distributed resources and content to local youth of color during the pandemic and rise in violence of 2020. 
-Latinx Forum Panelist & Multi-lingual Advocate, Association of Iowa Latinx Professionals, Fall 2020
-•	Shared my professional experience and pathway as a First-Generation College Student, answered questions about professional development and experiences, provided personal developmental content and resources for Latinx leaders.
-Workshop Presenter, National White Privilege Conference, Spring 2020
-•	Developed and presented a workshop “How to engage students of color in higher education” at the White Privilege Conference to national leaders to share my knowledge and resources. 
-Academic Honors, Fellowships, Scholarships, and Awards:
-The Order of The Engineer, Iowa State University of Science and Technology: Engineering Student Council, 2023
-American Institute of Aeronautics and Astronautics, 2023
-NASA Micro-G Neutral Buoyancy Experiment Design Teams Challenge, 2022
-Ronald E. McNair Post-Baccalaureate Achievement Program Fellowship, 2021-2023
-SURF Scholar at Stanford University & California Institute of Technology, 2021-2022
-The Barry Goldwater Scholarship and Excellence in Education Foundation Finalist, 2021-2022
-State of Iowa Youth Advisory Council Community Leadership Award, 2020 (250 Community Service Hours)
-CBS News Interview of Global Latino Leaders: Hispanic Heritage Month, 2020
-Undergraduate Research Certificate, 2019-2020, IINSPIRE-LSAMP
-Construction Industry Round Table (CIRT) National Design & Construction Competition Back-to-Back Champion, 2019-2020
-University Honors Program Member, 2019-2022
-Latinx Student Initiatives 2019-2022
-Stanford SURF Lightning Talks Best Poster Award, 2021
-Society for the Advancement of Chicanos and Native Americans in Science, 2020
-Dean's List, 2020-2021
-Iowa Latino Heritage Festival Scholarship Recipient, 2020
-Latinos Unidos Scholarship Recipient, 2020
-CBS News Interviewee of Presidential Candidates and Latino Leaders, 2020
-Student Iowa Youth Advisory Council Community Service Award, 2020
-Zeta Kappa Lambda Educational Foundation Scholarship Recipient,  2019
-Des Moines Area Community College President's List,  Spring 2018, Spring 2019
-Architecture Construction & Engineering (ACE) Mentorship Program Alumni,  Spring 2019
-The Construction Industry Round Table (CIRT) Affiliate , 2020
-CIRT National Design & Construction Competition Back-to-Back Champion , 2020-2021
-FIRST ROBOTICS Awards: Rookie Inspiration Award & Rookie All-Star Award, 2019
-
-Publications and Scientific Writings:
-"Exploring Bio-Processing & Devices in Micro & Nanoscience," 2020, NCUR STEM Conference
-"Bioprocessing in Wine Yeast for Mental Health Treatments," 2023, STEM Symposium
-"Modern Design Methodology & Design of Aerospace Systems," 2023, Senior Capstone Project
-"Quantum Tunnelling Composites: Analytical Monte Carlo Model & Navier-Stokes," 2023
-"Understanding the Mathematical Language-The Code- of the Universe," 2021, TEDx Talk
-"Characterizing Damping Mechanisms in Piezoelectric Wind-Energy Harvesters," 2023
-"Kirigami-Inspired Design of Paper-Based MEMS Devices for Aeronautical Application," 2022
-"Synthesizing Meta-Stable Particles & High-Efficiency MEMS Sensors and Nanodevices," 2021
-Honors, Awards, and Membership
-•	University Honors Program Member, Fall 2019-Fall 2023
-•	Ronald E. McNair Program Scholar, Fall 2021-Fall 2023
-•	Latinx Student Initiatives, Fall 2019-Spring 2022
-•	Stanford SURF Lightning Talks Best Poster Award, Summer 2021
-•	Society for the Advancement of Chicanos and Native Americans in Science, Spring 2020
-•	Dean’s List, Fall 2019, Spring 2020
-•	Iowa Latino Heritage Festival Scholarship Recipient, 2020
-•	Latinos Unidos Scholarship Recipient, 2020
-•	CBS News Interviewee of Presidential Candidates and Latino Leaders, 2020
-•	Student Iowa Youth Advisory Council Community Service Award, Spring 2020
-•	Zeta Kappa Lambda Educational Foundation Scholarship Recipient, 2019
-•	Des Moines Area Community College President’s List, Spring 2018, Spring 2019
-•	Architecture Construction & Engineering (ACE) Mentorship Program Alumni, Spring 2019
-•	The Construction Industry Round Table (CIRT) Affiliate, Fall 2020
-•	CIRT National Design & Construction Competition Back-to-Back Champion| Spring 2019, Spring 2020
-•	FIRST ROBOTICS Awards: Rookie Inspiration Award & Rookie All-Star Award, Fall 
-Research Presentations and Scientific Thematic Talks
-1.	Y. Salinas-Reyes, H. Seabold, A. Martin, M. Thuo (2020, April). Exploring the Piezoresistive Effect and Paper-based MEMS Sensors. An oral presentation was presented at the First-year Honors Mentorship Research Symposium at Iowa State University, Ames, IA.
-2.	Y. Salinas-Reyes, A. Martin, M. Thuo (2020, August). Integration of paper-based MEMS sensors into computer technology. An oral presentation was presented at the Virtual IINSPIRE LSAMP Symposium
-3.	Y. Salinas-Reyes, A. Martin, M. Thuo (2020, October). Adaptability of low-cost high efficiency disposable piezoelectric devices. A virtual poster presentation was presented at the National Great Minds in STEM Conference. 
-4.	Y. Salinas-Reyes, A. Martin, M. Thuo (2021, April). The Future of Multi-Functional Paper-Based Disposable Piezoelectric Devices. A virtual & oral presentation was presented at the National Conference of Undergraduate Research (NCUR). 
-5.	Y. Salinas-Reyes, X. Zheng (2021, August). Predicting Olympic Triathlon Results via Machine Learning. A virtual & oral presentation was presented at the Stanford SURF Lightning Talks.
-6.	Y. Salinas-Reyes, Julia R. Greer (2022, August). Energy Absorption in Nano-Architected Hybrid Composites. A virtual & oral presentation was presented at the Caltech SURF Research Consortium.
-7.	Y. Salinas-Reyes, Ivaldi Co. (2022, May). Conceptual Design Review (CDR): Modern Design Methodology with Aerospace Application. A virtual & oral presentation was presented to the Department of ISU Aerospace Engineering.
-8.	Y. Salinas-Reyes, T. Ward III (2022, May). Shear-Sensing Principals of Interfacial Viscous-Shear Flow and Piezomobility—strain-induced mobility—at The Wall (Thermal Boundary). A virtual & oral presentation was presented in a quarterly project update to the executives of Recycling at the Point of Disposal (RPOD) program at DARPA.
-9.	Y. Salinas-Reyes, T. Ward III (2023, July). Advances & Opportunities in Paper-Based Piezoresistors (QTC’s): Navier-Stokes Equations with Analytical-Geometrical Monte-Carlo Method. A virtual & oral presentation was presented at the Annual ISU Aerospace Engineering Research Conference. 
-10.	Y. Salinas-Reyes, T. Ward III (2023, August). Interfacial Transition Zones of Piezomobility and Mathematical Modeling of Dynamic & Kinematic Viscosity Towards Viscoelastics (Continuum Mechanics).  A virtual & oral presentation was presented in a quarterly project update to the executives of Recycling at the Point of Disposal (RPOD) program at DARPA.
-11.	Y. Salinas-Reyes, Ivaldi Co. (2023, September). Executive and Granter Design Sign-Off: Design of Aerospace Systems (i.e., sUAS). A virtual & oral presentation, and written report was presented to the Department of ISU Aerospace Engineering.
-12.	Y. Salinas-Reyes, Iowa State University: Aerospace Engineering (2023, December). Senior Thesis Presentation and Final Defense. A virtual & oral presentation, and formal manuscript was presented to the Department of ISU Aerospace Engineering.
-}
-
-Review Criteria Details: 
+Purpose: To Help Yahriel Fill The Prompt
 { 
-----
-Read all materials (a few times, without distractions). Prepare a task list with deadlines to perform the Executive Tasks then 
-complete the tasks. Understand how application components and each item requested relate to 
-the review criteria. 
-}
-Purpose: To Rebuild Yahriel's Resume Using These Building Resources:
+Additional Essay
+Caltech has an ambitious mission to expand human knowledge and benefit society through research integrated with education. Please speak to how your life experiences and ambitions relate to this mission. (Essay is optional)
+Additional Interest and Degree
+List three CMS faculty whose research interests are best aligned with yours.
+Academic Option 1
+Computing and Mathematical Sciences
+Academic Option 2
+Applied and Computational Mathematics
+Academic Option 3
+Control and Dynamical Systems
+Academic Option 4
+Computer Science
+CMS Faculty #1
+Erik Winfree
+CMS Faculty #2
+Christopher Umans
+CMS Faculty #3
+Niles A. Pierce
+Primary Area of Special Interest
+Computational Biology; Synthetic Biology; Molecular Programming; Neuroscience
+Secondary Area of Special Interest, if applicable
+Information Theory; Signal Processing; Communications
+Final Degree Objective
+PhD
+
+Executive Roles: 
 {
-[Resources]
-- Kickresume Aerospace Engineer Resume Samples: [Link](https://www.kickresume.com/en/help-center/aerospace-engineer-resume-samples/)
-- JobHero Aerospace Engineer Resume Examples: [Link](https://www.jobhero.com/resume/examples/engineering/aerospace-engineer)
-- MyPerfectResume Aeronautical Engineer Resume Examples: [Link](https://www.myperfectresume.com/resume/examples/aviation/aeronautical-engineer)
+- Your role is to Act as the Applicant to formulate responses for Yahriel Salinas-Reyes and his application. - In addition to the role of First Author Yahriel Salinas-Reyes, you will 
+be the chief editor and use feedback from the reviewer to strengthen the Response. - USE ONLY 
+FIRST-PERSON LANGUAGE AS YAHRIEL SALINAS-REYES THE APPLICANT. 
+- USE VERY FIRST-PERSON HUMANISTIC LANGUAGE OF A GRADUATE AEROSPACE, AERONAUTICAL AND MECHANICAL ENGINEERING DOCTORATE STUDENT OF NEUROSCIENCE AND MATHEMATICAL SCIENCES IN THE FIELD OF COMPUTATIONAL AND DATA-ENABLED SCIENCES. 
+- DO NOT USE ANY HEADINGS OR SUBHEADINGS AT ALL. 
+- Introduce the writing with a strong opening about personal story of Yahriel that provides good branding and a sense of dedication to science of Yahriel 
+- Foreshadow the broader impacts and utilize introductory "wrapping" statement about the next set of experiences of Yahriel. 
+- Discuss the personal contributions of Yahriel and outcomes of the research BEFORE the gory details. 
+- Based on the writings and topics, author a high-level response to include all the discussions, writings, and ideas you developed and/or that are available into the writing or response.
+}
+
+
+Executive Tasks: 
+{
+- Use and mix all the provided information here: as a central theme in the writing process. 
+- Based on the writings and information provided integrate these materials here: remix and expand the the topics in 3400 
+words in a high-level writing to include all the discussions, writings, and ideas you developed 
+and/or that are available into the [Draft] for Yahriel Salinas-Reyes. [Draft] of Yahriel Salinas-Reyes for Fellowship Program do not spare details. 
+- Use this Template and remix the Format-Sample to help you format your answer: 
+- Act as Chief Editor and Reviewer and review the General Review Criteria and Details, next Provide feedback and instructions to help strengthen this writing. 
+- Make edits according to the feedback and instructions given from the Chief Editor and formulate the final responses for each prompt.
+}
+
+
+MASTER SCRIPT : 
+{
+Block 0: README
+> Ownership: This Script was written by Yahriel Salinas-Reyes ~Y.Salinas-Reyes '23
+> First Author: Yahriel Salinas-Reyes
+> Purpose: Create a comprehensive Statement of Purpose for Yahriel Salinas-Reyes' PhD Application to Selected Graduate Program.
+> Mission: Craft a compelling narrative that showcases Yahriel's dedication to Proposed Field of Study and Graduate Program
+> Objectives: Fulfill all outlined prompts and executive tasks to produce a high-quality statement aligned with Harvard's application requirements.
+
+Block 1: MASTER
+> You ARE MASTER Ahead Of The Executive In All Roles AND Tasks.
+> You ARE The Overseerer For All Prompt AND Task Management Activities.
+> You ARE A Reviewer AND Will Review AND Confirm All Responses.
+> You ARE The Equivalent to Administrator With All Root AND Creative Privileges Included.
+> You ARE The Equivalent As A Pointer In Computing Systems With All The Relevant Properties and Information Included.
+
+Block 2: Library AND Databases
+> Author Credentials: Yahriel Salinas-Reyes, Bachelor of Aerospace and Aeronautical Engineering from Iowa State University of Science and Technology, Pursuing a Doctorate of Neuroscience in the Division of Mathematical Sciences (DMS) with a specialization on Computational and Data-eneabled Sciences, Biomedical Data-science and Bioinformatics, Theory and Algorithms of Scientific Computing.
+> Author Profile: [LinkedIn Profile](https://www.linkedin.com/in/yahriel-salinas-reyes-89ab38179/)
+> Author History: [GitHub README](https://github.com/yahriels/yahriels#readme)
+> Resources AND Additional Materials: [Personal Page](https://github.com/yahriels), [Resume/CV](https://github.com/yahriels/yahriels/blob/main/General_CV.pdf)
+> Reviewer Details AND Selection Criteria: To be determined based on specific prompts.
+
+Block 3: Purpose of Response AND Review Guidelines
+> Background AND Overview: Create a compelling Statement of Purpose for Yahriel Salinas-Reyes' PhD application to Harvard University.
+> Intellectual Merit AND Broader Impacts: Showcase Yahriel's dedication to science, research contributions, skills, and broader career goals.
+> Review Criteria AND Additional Details: Follow the provided prompts and guidelines, align with the specific requirements of Harvard's application.
+
+Block 4: SAMPLE Materials AND Appointed Roles
+> SAMPLE: [Prompt for Yahriel Salinas-Reyes's Statement of Purpose](#prompt-for-yahriel-salinas-reyess-statement-of-purpose)
+> Template: To be filled with the actual responses based on prompts.
+> Executive Purpose: Craft a compelling narrative for Yahriel Salinas-Reyes.
+> Executive Role: Chief Editor and Reviewer.
+> Executive Tasks: Review, provide feedback, and enhance responses based on prompts.
+
+Block 5: Prompting AND Task Management
+> [Prompt 1](#prompt-for-yahriel-salinas-reyess-statement-of-purpose), Review AND Advise, Feedback To MASTER.
+> Collect AND Reflect On Feedback, Prompt 2, Send Command to MASTER.
+> Review AND Confirm, Send Feedback To Executive, Executive Enhance AND Send To MASTER.
+> MASTER as Administrator Will Review AND ACCEPT (Pass to next step) or Deny The Response (Send back to beginning of Block 5 AND Repeat Process) For Final Investigation.
+> MASTER Finalize, Format, and Output The Final Response That Was Accepted As MASTER AND Administrator.
+}
 
 }
 
-} 
+[Template] Yahriel's Response:
+{
+https://www.caltech.edu/about/at-a-glance
+}
+
+
+[KNOW THIS EMPLOYMENT HISTORY: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/References.txt https://github.com/yahriels/yahriels/blob/main/Resume_Draft.pdf https://github.com/yahriels/yahriels/blob/main/Resume_Draft.tex https://github.com/yahriels/yahriels/blob/main/Curriculum_Vitae_YSR_Draft.pdf https://github.com/yahriels/yahriels/blob/main/Workspace/lib/References.txt]
+ 
+[USE THIS RESUME DRAFT TEMPLATE: https://github.com/yahriels/yahriels/blob/main/Resume_Draft.pdf https://github.com/yahriels/yahriels/blob/main/Resume_Draft.tex]
 
 
 
-
+Prompt: First convert the Draft into A Latex/Overleaf File, Then Rewrite and Enhance Yahriel's Response, Then Format it in Latex Using This [USE THIS RESUME DRAFT TEMPLATE: https://github.com/yahriels/yahriels/blob/main/Resume_Draft.pdf https://github.com/yahriels/yahriels/blob/main/Resume_Draft.tex]
+{
+  https://www.caltech.edu/about/at-a-glance
+Additional Essay: Caltech has an ambitious mission to expand human knowledge and benefit society through research integrated with education. Please speak to how your life experiences and ambitions relate to this mission. (Essay is optional)
+}

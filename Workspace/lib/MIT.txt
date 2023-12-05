@@ -1,32 +1,6 @@
-Order of The Engineer:
-----
-ORDER OF THE ENGINEER
-The "Order of the Engineer" is a fellowship of professionals dedicated to the practice, teaching, or administration of engineering. Initiation includes a commitment to the "Obligation" on the reverse of the card and acceptance of a stainless steel ring worn on the little finger of the working hand. Only those meeting high standards of professional engineering training or experience are invited, and the Obligation is voluntarily received for life.
-OBLIGATION OF AN ENGINEER
-I am an Engineer. In my profession I take deep pride. To it I owe solemn obligations.
-As an Engineer, I pledge to practice integrity and fair dealing, tolerance and respect; and to uphold devotion to the standards and the dignity of my profession, conscious always that my skill carries with it the obligation to serve humanity by making the best use of the Earth's precious wealth.
-As an Engineer, I shall participate in none but honest enterprises. When needed, my skill and knowledge shall be given without reservation for the public good. In the performance of duty and in fidelity to my profession, I shall give my utmost.
-SIGNIFICANCE OF THE RING
-The ring serves as a visual symbol attesting to the wearer's calling and symbolizing the unity of the profession in benefiting humanity. Made of stainless steel, it signifies the strength of the profession. The order, inspired by the Canadian organization with its 'iron ring' legacy, was organized by members of the Ohio Society of Professional Engineers, holding its first ceremony at Cleveland State University on June 4, 1970.
-The "Obligation of an Engineer" emphasizes pride in the engineering profession, pledging integrity, fair dealing, tolerance, and respect. Engineers commit to upholding the standards and dignity of their profession, recognizing the obligation to serve humanity responsibly.
-The "Significance of the Ring" at Iowa State University underscores the Order's purpose: fostering pride and dedication among engineers. The ceremony signifies the commitment to uphold the engineering profession's standards and dignity. The engineer's desire to apply the Golden Rule becomes the yardstick of professionalism, emphasizing giving over self-interest.
-The Engineer's Ring, a symbol of the desire to be a giver, publicly avows dedication to the profession and the public it serves. After accepting the obligation, engineers wear the ring as a reminder of their commitment, symbolizing their dedication every time they sign plans, contract documents, or design specifications.
-----
 
 
-Resume 1: HASTS
-
-Resume 2: MIT-WHOI
-
-> Add Fall Courses: 
-- AerE 462: Design of Aerospace Systems - 3 credits
-- AerE 301: Flight Experience - 2 credits
-- AER E 545: Experimental Flow Mechanics and Heat Transfer - 3 credits
-- AER E 524: Numerical Mesh Generation - 3 credits
-- AER E 578: Nonlinear Systems - 3 credits
-Required
-
-Regquired Materials: HASTS
+Required Materials: HASTS
 ----
 Statement of Objectives - Statement of Objectives: Please tell us about the scholarly question(s) you are interested in studying. Why do you wish to pursue these questions? Why is the HASTS program the right place to do so? The statement should be no more than 1350 words long.
 
