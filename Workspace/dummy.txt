@@ -7,6 +7,12 @@ https://github.com/yahriels/yahriels/blob/main/Workspace/Yahriel_Profile.txt
 https://github.com/yahriels/yahriels/blob/main/Curriculum_Vitae_YSR_Draft.pdf
 https://github.com/yahriels/yahriels/blob/main/Resume_Draft.pdf
 https://github.com/yahriels/yahriels/blob/main/Workspace/lib/References.txt
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Caltech.txt
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Caltech_CMS_Prompts
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/MIT.txt
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/MIT_WHOI_Prompts.txt
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/UCBerkeley.txt
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/UCBerkeley_CPH_Prompts.txt
 https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Harvard.txt
 https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Harvard_Prompts.txt
 Master: https://github.com/yahriels/yahriels/blob/main/Workspace/Master.txt
