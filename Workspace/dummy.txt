@@ -37,12 +37,7 @@ Resume Template: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Re
 
 SAMPLES: 
 { 
-1. 
-2.
-3. 
-4. 
-5.
-6.
+
 }
  
 Executive Roles: 
@@ -191,17 +186,11 @@ Before we begin, I want you to fully understand my research project and the cont
 
 [Template]  Yahriel's Response:
 {
-Faculty: Please select up to 6 faculty you are interested in working with in the Joint Program. https://mit.whoi.edu/academics/faculty-staff/
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
+
 }
 
 
-[KNOW THIS APPLICATION: https://github.com/yahriels/yahriels/blob/main/Workspace/Stanford%20University%20Graduate%20Admissions.pdf]
+[KNOW THIS: https://github.com/yahriels/yahriels/blob/main/Workspace/Stanford%20University%20Graduate%20Admissions.pdf]
 
  
 
@@ -211,11 +200,5 @@ Faculty: Please select up to 6 faculty you are interested in working with in the
 
 Prompt:
 {
-Faculty: Please select up to 6 faculty you are interested in working with in the Joint Program. https://mit.whoi.edu/academics/faculty-staff/
-1. 
-2. 
-3. 
-4.
-5. 
-6. 
+
 }
