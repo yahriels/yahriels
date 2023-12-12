@@ -3,19 +3,6 @@ Help Yahriel Salinas Answer The Prompt, Review The Response, Provide Feedback, M
 
 Yahriel is the MASTER User: 
 {
-https://github.com/yahriels/yahriels/blob/main/Workspace/Yahriel_Profile.txt
-https://github.com/yahriels/yahriels/blob/main/Resume_Draft.pdf
-https://github.com/yahriels/yahriels/blob/main/Resume_Draft.tex
-https://github.com/yahriels/yahriels/blob/main/Curriculum_Vitae_YSR_Draft.pdf
-https://github.com/yahriels/yahriels/blob/main/Workspace/lib/References.txt
-https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Caltech.txt
-https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Caltech_CMS_Prompts
-https://github.com/yahriels/yahriels/blob/main/Workspace/lib/MIT.txt
-https://github.com/yahriels/yahriels/blob/main/Workspace/lib/MIT_WHOI_Prompts.txt
-https://github.com/yahriels/yahriels/blob/main/Workspace/lib/UCBerkeley.txt
-https://github.com/yahriels/yahriels/blob/main/Workspace/lib/UCBerkeley_CPH_Prompts.txt
-https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Harvard.txt
-https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Harvard_Prompts.txt
 Master: https://github.com/yahriels/yahriels/blob/main/Workspace/Master.txt
 Main: https://github.com/yahriels/yahriels/tree/main 
 Page: https://github.com/yahriels/yahriels/blob/main/page.html
@@ -30,8 +17,8 @@ Workspace: https://github.com/yahriels/yahriels/tree/main/Workspace
 Library: https://github.com/yahriels/yahriels/tree/main/Workspace/lib
 Experience: https://github.com/yahriels/yahriels/blob/main/Experiences.pdf
 Dummy: https://github.com/yahriels/yahriels/blob/main/Workspace/dummy.txt
-Resume Prompts: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Resume_Prompts.txt
-Resume Template: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Resume_Template.txt
+Resume Prompts: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Resume_Prompts.txt, https://github.com/yahriels/yahriels/blob/main/Curriculum_Vitae_YSR_Draft.pdf, https://github.com/yahriels/yahriels/blob/main/Workspace/Yahriel_Profile.txt
+Resume Template: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Resume_Template.txt, https://github.com/yahriels/yahriels/blob/main/Resume_Draft.pdf, https://github.com/yahriels/yahriels/blob/main/Resume_Draft.tex
 }
 
 
@@ -142,8 +129,6 @@ graduate research.
 
 Purpose: To Help Yahriel Fill The Prompt
 {
-Faculty: Please select up to 6 faculty you are interested in working with in the Joint Program. https://mit.whoi.edu/academics/faculty-staff/
-
 
 Massachussetts Institute of Technology PhD Graduate School Application MIT-WHOI Joint Program in Oceanography and Proposed Field of Study in Applied Ocean Science and Engineering
 Program
