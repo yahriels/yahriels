@@ -29,11 +29,10 @@ Undergraduate Institution: Iowa State University of Science and Technology
 Ames, Iowa
 2023
 Bachelor’s: Aerospace and Aeronautical Engineering (’23)
-Master’s: Applied Science and Technology (’23)
 
 ## DEDICATION Statement
 > I dedicate my thesis primarily to the two most important people in my life - my nurturing
-mentor known as The Cyclone of Education, and my to my lifelong supporter, and companion, Don Yahriel Salinas-Reyes - An embodiment of Chaos, Order, Logic, and Madness. I
+mentor known as The Cyclone of Education, and my to my lifelong supporter, and companion, Don Yahriel Salinas-Reyes - An embodiment of Chaos, Order, Logic, and Madness. I
 miss you both incredibly, and I promise to make good on my word to make you both proud.
 I am deeply grateful to my family in the United States, Mexico, and El Salvador for bearing
 with me patiently as I worked on my thesis. I dedicate this work to all of you. Your
@@ -42,7 +41,7 @@ time I wanted to give up. To my parents, Sonia Reyes-Alvarenga and Oscar Salinas
 your daily phone calls and pep talks kept me grounded and pushed me closer to the finish
 line. To my sister Lizbeth Salinas-Reyes, who would chide me every week and guilt trip me
 for being away from home - your prayers and love have kept me safe here. To my family
-Abigail Salinas-Reyes, Samuel Salinas-Reyes, Delmy Salinas-Reyes, and La Raza - thank you
+Abigail Salinas-Reyes, Samuel Salinas-Reyes, and La Raza - thank you
 for seeing the best in me. You have never failed to cheer me up.
 Lastly, to my supporters - thank you for being patient, caring, understanding, and being
 invested in me and my thesis. I am incredibly lucky to have you all, and I couldn’t have
