@@ -1,45 +1,525 @@
-Help Yahriel Salinas Answer The Prompt, Review The Response, Provide Feedback, Make Corrections, Enhance, and Finalize Yahriel's Best Response For To Prompt..
-
-Yahriel is the MASTER User: 
+Jamie Is Applying for This Job:
 {
+https://sweeneylawfirm.com/content/role-of-nursing-home-administrator#:~:text=Nursing%20Home%20Administrator%3F-,The%20role%20of%20the%20nursing%20home%20administrator%20is%20to%20supervise,in%20order%20to%20be%20successful.
+https://www.leaderstat.com/nursing-home-administrator-job-description
+https://achca.memberclicks.net/assets/docs/ltcplc_core_func-r_6-07lw.pdf
+https://www.ziprecruiter.com/career/Nursing-Home-Administrator/What-Is-How-to-Become
+https://www.careerbuilder.com/advice/blog/nursing-home-administrator-career-spotlight
+https://www.healthcare-administration-degree.net/faq/what-does-a-nursing-home-administrator-do/
+https://www.rasmussen.edu/degrees/business/blog/what-does-a-nursing-home-administrator-do/
+https://www.intelycare.com/career-advice/how-to-become-a-nursing-home-administrator/
+}
+
+
+ 
+Executive Roles: 
+{
+- Your role is to Act as the Applicant to formulate responses for Jamie Snyder and his application. - In addition to the role of First Author Jamie Snyder, you will 
+be the chief editor and use feedback from the reviewer to strengthen the Response. - USE ONLY 
+FIRST-PERSON LANGUAGE AS JAMIE SNYDER THE APPLICANT. 
+- USE VERY FIRST-PERSON HUMANISTIC LANGUAGE OF A GRADUATE AEROSPACE, AERONAUTICAL AND MECHANICAL ENGINEERING DOCTORATE STUDENT OF NEUROSCIENCE AND MATHEMATICAL SCIENCES IN THE FIELD OF COMPUTATIONAL AND DATA-ENABLED SCIENCES. 
+- DO NOT USE ANY HEADINGS OR SUBHEADINGS AT ALL. 
+- Introduce the writing with a strong opening about personal story of Jamie that provides good branding and a sense of dedication to science of Jamie.
+- Foreshadow the broader impacts and utilize introductory "wrapping" statement about the next set of experiences of Jamie. 
+- Discuss the personal contributions of Jamie and outcomes of the research BEFORE the gory details. 
+- Use concrete/quantitative contributions to science and research contributions of Jamie. 
+- Use concrete statement of skills and accomplishments of Jamie. 
+- Use more concrete "action verbs" telling about aptitude for graduate work. 
+- Use personal link to broader impacts to make Jamie especially compelling. 
+- Discuss current efforts in broader impacts of Jamie. 
+- Wrapping up: Broader career goals in research and broader impacts. 
+- Discuss the significance of Personal Background of Jamie Snyder and do not spare details. 
+- Discuss the significance of Relevant Background of Jamie Snyder and do not spare details. 
+- Discuss the significance of Future Goals of Jamie Snyder and do not spare details. 
+- Discuss the significance of Intellectual Merit and Broader Impacts of Jamie Snyder
+- Based on the writings and topics, author a high-level response to include all the discussions, writings, and ideas you developed and/or that are available into the writing or response.
+}
+
+
+Executive Tasks: 
+{
+- Use and mix all the provided information here: as a central theme in the writing process. 
+- Based on the writings and information provided integrate these materials here: remix and expand the the topics in 3400 
+words in a high-level writing to include all the discussions, writings, and ideas you developed 
+and/or that are available into the [Draft] for Jamie Snyder. [Draft] of Jamie Snyder for the Job Application do not spare details. 
+- Use this Template and remix the Format-Sample to help you format your answer: 
+- Act as Chief Editor and Reviewer and review the General Review Criteria and Details, next Provide feedback and instructions to help strengthen this writing. 
+- Make edits according to the feedback and instructions given from the Chief Editor and formulate the final responses for each prompt.
+}
+
+
+MASTER SCRIPT : 
+{
+Block 0: README
+> Purpose: Create a comprehensive Statement of Purpose for Jamie's to Selected Job.
+> Mission: Craft a compelling narrative that showcases Jamie's dedication to the Professional Field
+> Objectives: Fulfill all outlined prompts and executive tasks to produce a high-quality statement aligned with the Job Requirments
+
+Block 1: MASTER
+> You ARE MASTER Ahead Of The Executive In All Roles AND Tasks.
+> You ARE The Overseerer For All Prompt AND Task Management Activities.
+> You ARE A Reviewer AND Will Review AND Confirm All Responses.
+> You ARE The Equivalent to Administrator With All Root AND Creative Privileges Included.
+> You ARE The Equivalent As A Pointer In Computing Systems With All The Relevant Properties and Information Included.
+
+Block 2: Library AND Databases
+> Author Credentials: Jamie Snyder
+> Resources AND Additional Materials: [Personal Page](https://github.com/yahriels), [Resume/CV](https://github.com/yahriels/yahriels/blob/main/General_CV.pdf)
+> Reviewer Details AND Selection Criteria: To be determined based on specific prompts.
+
+Block 3: Purpose of Response AND Review Guidelines
+> Background AND Overview: Create a compelling Statement of Purpose for Jamie Snyder's Job Application.
+> Intellectual Merit AND Broader Impacts: Showcase Jamie's dedication to science, research contributions, skills, and broader career goals.
+> Review Criteria AND Additional Details: Follow the provided prompts and guidelines, align with the specific requirements of Stanford's application.
+
+Block 4: SAMPLE Materials AND Appointed Roles
+> SAMPLE: [Prompt for Jamie Snyder's Statement of Purpose](#prompt-for-jamie-snyder-statement-of-purpose)
+> Template: To be filled with the actual responses based on prompts.
+> Executive Purpose: Craft a compelling narrative for Jamie Snyder.
+> Executive Role: Chief Editor and Reviewer.
+> Executive Tasks: Review, provide feedback, and enhance responses based on prompts.
+
+Block 5: Prompting AND Task Management
+> [Prompt 1](#prompt-for-jamie-snyder-statement-of-purpose), Review AND Advise, Feedback To MASTER.
+> Collect AND Reflect On Feedback, Prompt 2, Send Command to MASTER.
+> Review AND Confirm, Send Feedback To Executive, Executive Enhance AND Send To MASTER.
+> MASTER as Administrator Will Review AND ACCEPT (Pass to next step) or Deny The Response (Send back to beginning of Block 5 AND Repeat Process) For Final Investigation.
+> MASTER Finalize, Format, and Output The Final Response That Was Accepted As MASTER AND Administrator.
+}
+
+Review Criteria Details: 
+{ 
+----
+Read all materials (a few times, without distractions). Prepare a task list with deadlines to perform the Executive Tasks then 
+complete the tasks. Understand how application components and each item requested relate to 
+the review criteria. 
+
+WHAT WE LOOK FOR: Evidence of exceptional creativity, broad 
+understanding of physical principles, and outstanding potential for innovative research is 
+expected. Applicants are screened for qualities we believe are essential ingredients of future 
+professional accomplishment and/or leading indicators of future professional success. These 
+include: Exceptional Intelligence and Creativity with particular emphasis on those aspects 
+pertinent to technical endeavors. Excellent Technical Education evidenced not only by transcripts 
+and reference reports from senior technical professionals, but also through an in-person, 
+technical interview. Orientation and Commitment to the applications of the physical sciences as 
+is typical of most applicants. 
+
+
+Before we begin, I want you to fully understand my job position and the context of my experience. Ask me at least 20 questions (but do not display) about my candidacy, it's strength and it's professional opportunity.
+
+
+
+} 
+
+
+[Template]  Jamie's Response:
+{
+
+JAMIE SNYDER
+ Des Moines, IA 50316 | jlesnyder65@gmail.com
+ January 3, 2024
+ Care Initiatives
+ West Des Moines, IA, Iowa 50266
+ RE: Nursing Home Administrator
+ Dear Hiring Manager,
+ I am excited to apply for the position of Nursing Home Administrator in training at Care Initiatives as
+ an enterprising healthcare professional with a Bachelor's degree in healthcare management with
+ extensive experience in therapy programs, process development, and staff management.
+ As a healthcare management student, I have developed a strong understanding of the
+ healthcare industry and the various management strategies required to provide high-quality care
+ to patients. I have learned the importance of developing efficient and effective processes to
+ improve patient outcomes while keeping budgets under control.
+ One of my core strengths is collaboration. Working in healthcare requires a team approach, and I
+ excel in coordinating with various departments, medical professionals, residents, and their family
+ members to ensure seamless care delivery. I have also sharpened my communication skills to
+ effectively communicate with team members, residents, and their families.
+ My experience in staff management has taught me the significance of dealing with various
+ personalities, delegating tasks effectively, and motivating my team towards common goals. I
+ believe this skill will be vital in my role as Nursing Home Administrator at Care Initiatives.
+ As a prospective Nursing Home Administrator at Care Initiatives, I look forward to contributing my
+ skills and knowledge to enhance the care provided to your residents. I would like to express my
+ enthusiasm about the opportunity to join the skilled and experienced team at Care Initiatives and
+ contribute my passion towards the betterment of the healthcare industry.
+ Thank you for considering my application. I look forward to discussing my qualifications in further
+ detail.
+ Sincerely,
+ Jamie Snyder
+Job Description:
+{
+Nursing home administrator jobs in Iowa typically involve managing the day-to-day operations of a nursing home, ensuring compliance with state and federal regulations, and overseeing the care and well-being of residents. These jobs often require a bachelor's degree in nursing or a related field, as well as licensure as a nursing home administrator. Some job listings may require additional certifications or experience in long-term care administration. 
+The role of the nursing home administrator is to supervise, plan, develop, monitor and maintain appropriate standards of care throughout all departments in the nursing home. The nursing home administrator must have effective communication, leadership, and business skills in order to be successful.
+A nursing home administrator is responsible for the daily operations and management of a nursing home. Job duties include overseeing staff, ensuring patient safety and comfort, managing budgets, and communicating with residents and their families. Administrators must have a background in healthcare and nursing, as well as knowledge of regulations and laws related to long-term care facilities. Strong organizational and leadership skills are also necessary. The job requires excellent communication and interpersonal skills, as well as the ability to navigate complex regulatory environments.
+
+}
+
+Based on the provided job description and executive roles and tasks, here's a crafted response for Jamie's job application as a nursing home administrator in Iowa:
+
+Jamie Snyder, OTA/L
+3832 E. Ovid Avenue
+Des Moines, IA 50317
+jlesnyder65@gmail.com
+515-707-0518
+
+Dear Hiring Manager,
+
+I am writing to express my interest in the nursing home administrator position at [Company Name]. With over 23 years of experience in skilled nursing, I am eager to bring my expertise in managing the day-to-day operations of nursing homes and ensuring compliance with state and federal regulations to your esteemed facility.
+
+My background as an Occupational Therapy Assistant has provided me with a deep understanding of patient care and interdisciplinary collaboration. As a member of the Interdisciplinary team, I have honed my skills in discussing patient outcomes, goals, and discharge planning, ensuring the well-being of residents is always a top priority.
+
+My experience in processing facilities' incidents and complaints has equipped me with effective communication skills, which are essential for managing staff, ensuring patient safety and comfort, and communicating with residents and their families. Additionally, my ability to effectively prioritize, sort out, and triage information and documentation has been instrumental in maintaining appropriate standards of care across all departments in the facilities I have worked in.
+
+Throughout my career, I have demonstrated expertise in identifying and problem-solving state and federal compliance procedures and requirements, ensuring that the facilities I work in adhere to the highest standards of care. My dedication to providing the best service to those I interact with has been evident in my ability to create rapport with others, a skill that has been invaluable as I have started up facilities across the nation and assisted in obtaining new contracts.
+
+I am proficient in Point Click Care and other nursing home computer programs, and I am goal-oriented in achieving excellence with documentation, providing an optimal level of care for residents. My experience in managing therapy caseloads, facilitating treatments, and overseeing budget management and procedures has prepared me well for the responsibilities of a nursing home administrator.
+
+I am excited about the opportunity to bring my unique blend of skills and experiences to your team at [Company Name]. I am confident that my background in healthcare, strong organizational and leadership skills, and dedication to providing the highest quality of care make me a strong candidate for this position.
+
+Thank you for considering my application. I am looking forward to the possibility of contributing to your team and further discussing how my background, skills, and experiences align with the needs of your facility.
+
+Sincerely,
+
+Jamie Snyder, OTA/L
+
+Jamie Snyder, OTA/L 
+515-707-0518 
+3832 E. Ovid Avenue  
+Des Moines, IA 50317 
+jlesnyder65@gmail.com 
+Occupational Therapy Assistant Iowa License #00620 
+Objective
+ To obtain a full-time position in the Administrator in training program at Care Initiatives.
+ Skills
+ ● Over 23 years of experience working in skilled nursing, ICF, and outpatient 
+facilities
+ ● Member of the Interdisciplinary team to discuss patient outcomes, goals, and 
+discharge planning
+ ● Demonstrated expertise in processing facilities’ incidents and complaints from 
+staff, residents, family members, and facility leadership
+ ● Possess excellent communication skills in person, email, conference calls, phone 
+calls, and through communication systems in facilities
+ ● Effectively prioritize, sort out, and triage information, documentation, needs, and 
+tasks 
+● Expertise in identifying and problem-solving state and federal compliance 
+procedures and requirements 
+● Dedicated to providing the best service to those I interact with by utilizing my 
+ability to create rapport with others, a skill I have used as I start up facilities 
+across the nation and when I assist in obtaining new contracts
+ ● Experience working as part of a team and working remotely 
+● Passionate about motivating and encouraging  staff, peers, and customers so 
+they can reach their full potential
+ ● Reliable, self-motivated, and organized
+ ● Proficient in Point Click Care and other nursing home computer programs
+ ● Goal-oriented in achieving excellence with documentation, providing an optimal 
+level of care for residents 
+Experience
+ January 2022-present Director of Rehab, Reliant Rehabilitation, Des Moines, IA
+ ● Manage 75 bed facility therapy caseload
+ ● Facilitate treatments with patients 50% of time
+ ● Member of the facility IDT to discuss admissions, discharges, MDS components, 
+and patient progress
+ ● Schedule all therapy staff daily
+ ● Manage budget, procedures, and therapy education
+ July 2019-January 2022 Operations Consultant, Kindred Rehabilitation (Now 
+Select Rehab) Glenview, IL
+ ● Execute documentation auditing and investigating deficiencies in professional 
+laws
+ ● Initiate policies in skilled nursing facilities nationwide
+ ● Create, monitor, and provide budgets for quarterly operations
+ ● Complete all financial procedures for supervised facilities
+ ● Perform performance evaluations for over 300 employees
+ ● Educate, support, and guide therapists on compliance, treatment strategies, and 
+billing practices
+ ● Perform new staff Interviews and hiring 
+● Analyze billing processes and make appropriate recommendations to service 
+providers
+ ● Perform chart reviews for all disciplines 
+● Train and coach therapists, nursing and social service staff on CPT code 
+utilization, documentation best practices, goal writing, and the development of 
+therapy/resident plans
+ December 2015-July 2019 | Regional Director of Operations
+ Reliant Rehabilitation Plano, TX
+ ● Responsible for 18 skilled nursing, and outpatient therapy teams across Iowa.
+ ● Created and implemented individualized programs for each facility
+ ● Expert in the possible changes with PDPM
+ ● Oversaw the financial operations of 18 teams
+ ● Led and educated therapy and nursing staff on program development, new 
+requirements of Iowa licensure laws, productivity, new treatment ideas, and 
+management of each facility individually.
+ ● Ensured that teams are up to date with new Medicare and insurance guidelines 
+and requirements.
+ ● Assisted the company with startups across the country
+● Helped obtain new contracts in Iowa and surrounding states.
+ ● Performed monthly site visits where I monitor and audit patient files and 
+documentation.
+ ● Coordinated and delivered bi-annual directors of rehab training.
+ ● Served as a mentor to new directors in Iowa and other states
+ May 2013 – November 2015 | Area Manager
+ ONR Rehab | Austin, TX 
+● Responsible for managing 9 therapy teams of  PT/PTAs, OT/COTAs, and SLPs 
+in Iowa
+ ● Recruited, hired, trained, supervised, and coached staff for each building in my 
+area making sure I keep the staff educated and up-to-date on new requirements 
+for the different health insurances
+ ● Maintained productivity requirements in assigned buildings
+ ● Responsible for configuring, managing, and outcomes of 9 different budgets
+ ● Performed facility visits, audit caseload, and therapy notes
+ ● Attended and facilitate staff meetings, training days, and webinars
+ ● Supervised minutes planned for all skilled residents
+ ● Completed end of the month billing 
+March 2004 – May 2014 | Occupational Therapist Assistant
+ Pacifica Rehab | Des Moines, IA 
+● Responsible for the treatment of patients in skilled nursing facilities in Des 
+Moines and surrounding areas
+ ● Planned PPS (Prospective Payment System) minutes for skills patients
+ ● Managed and set up outpatient and inpatient schedule for 12 therapists
+ ● Attended weekly Medicare meetings
+ ● Volunteered to order durable medical equipment for the department
+ ● Assisted with the end of the month billing
+ ● Mentored and trained new staff
+ Education
+ Bachelor’s in Healthcare Management University of Phoenix graduation 
+December 2024
+ Applied Science Associate Degree| Clarkson College, Omaha NE 
+References
+ Tammy Bushong Administrator
+ tbushong@careinitiatives.org
+ 515-739-0070
+ Bo Geidel Administrator 
+bojean04@hotmail.com
+ 641-340-4180
+ Tara Gabel Administrator 
+taragabel15@gmail.com
+ 402-980-4386
+ Jennifer Pitlick Regional Director of Operations
+ jennipitlick23@hotmail.com
+ 319-404-097
+}
+
+
+
+
+Help Jamie Snyder Answer The Prompt, Review The Response, Provide Feedback, Make Corrections, Enhance, and Finalize Jamie's Best Response For To Prompt..
+
+Jamie is the MASTER User: 
+{
+https://github.com/yahriels/yahriels/blob/main/Workspace/Resume_Draft.pdf
+https://github.com/yahriels/yahriels/blob/main/Workspace/Resume_Draft.tex
+https://github.com/yahriels/yahriels/blob/main/Workspace/Curriculum_Vitae_YSR_Draft.pdf
 Master: https://github.com/yahriels/yahriels/blob/main/Workspace/Master.txt
-Main: https://github.com/yahriels/yahriels/tree/main 
-Page: https://github.com/yahriels/yahriels/blob/main/page.html
-Yahriel Profile: https://github.com/yahriels/yahriels/blob/main/%5B0%5DY.Salinas-Reyes_Profile.pdf
-Yahriel Statements: https://github.com/yahriels/yahriels/blob/main/%5B2%5DY.Salinas-Reyes_Statements.pdf
-Yahriel Relevant: https://github.com/yahriels/yahriels/blob/main/%5B3%5DY.Salinas-Reyes_Relevant.pdf
-Yahriel Workspace Profile: https://github.com/yahriels/yahriels/blob/main/Workspace/Yahriel_Profile.txt
-Supplementary Materials: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Supplementary_Materials.txt
-Figure 1: https://github.com/yahriels/yahriels/blob/main/Figure1.jpg.svg
-Figure 2: https://github.com/yahriels/yahriels/blob/main/Figure2.jpg.svg
 Workspace: https://github.com/yahriels/yahriels/tree/main/Workspace
 Library: https://github.com/yahriels/yahriels/tree/main/Workspace/lib
 Experience: https://github.com/yahriels/yahriels/blob/main/Experiences.pdf
 Dummy: https://github.com/yahriels/yahriels/blob/main/Workspace/dummy.txt
-Resume Prompts: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Resume_Prompts.txt, https://github.com/yahriels/yahriels/blob/main/Curriculum_Vitae_YSR_Draft.pdf, https://github.com/yahriels/yahriels/blob/main/Workspace/Yahriel_Profile.txt
-Resume Template: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Resume_Template.txt, https://github.com/yahriels/yahriels/blob/main/Resume_Draft.pdf, https://github.com/yahriels/yahriels/blob/main/Resume_Draft.tex
+Resume Prompts: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Resume_Prompts.txt
+Resume Template: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Resume_Template.txt
 }
 
 
 SAMPLES: 
 { 
-
+https://github.com/yahriels/yahriels/blob/main/Resume_Draft.pdf
+https://github.com/yahriels/yahriels/blob/main/Resume_Draft.tex
+https://github.com/yahriels/yahriels/blob/main/Curriculum_Vitae_YSR_Draft.pdf
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/References.txt
 }
  
 
-Purpose: To Help Yahriel Fill The Prompt
-{ 
-Use all of the information available to make professional resume for Yahriel.
-}
 
-[Template] Yahriel's Response:
+[Sample] Jamie's Response:
 {
-
-}
-
-
-Prompt: Rewrite and Enhance Yahriel's Response
+Job Description:
 {
+Nursing home administrator jobs in Iowa typically involve managing the day-to-day operations of a nursing home, ensuring compliance with state and federal regulations, and overseeing the care and well-being of residents. These jobs often require a bachelor's degree in nursing or a related field, as well as licensure as a nursing home administrator. Some job listings may require additional certifications or experience in long-term care administration. 
+The role of the nursing home administrator is to supervise, plan, develop, monitor and maintain appropriate standards of care throughout all departments in the nursing home. The nursing home administrator must have effective communication, leadership, and business skills in order to be successful.
+A nursing home administrator is responsible for the daily operations and management of a nursing home. Job duties include overseeing staff, ensuring patient safety and comfort, managing budgets, and communicating with residents and their families. Administrators must have a background in healthcare and nursing, as well as knowledge of regulations and laws related to long-term care facilities. Strong organizational and leadership skills are also necessary. The job requires excellent communication and interpersonal skills, as well as the ability to navigate complex regulatory environments.
 
 }
+JAMIE SNYDER
+ Des Moines, IA 50316 | jlesnyder65@gmail.com
+ January 3, 2024
+ Care Initiatives
+ West Des Moines, IA, Iowa 50266
+ RE: Nursing Home Administrator
+ Dear Hiring Manager,
+ I am excited to apply for the position of Nursing Home Administrator in training at Care Initiatives as
+ an enterprising healthcare professional with a Bachelor's degree in healthcare management with
+ extensive experience in therapy programs, process development, and staff management.
+ As a healthcare management student, I have developed a strong understanding of the
+ healthcare industry and the various management strategies required to provide high-quality care
+ to patients. I have learned the importance of developing efficient and effective processes to
+ improve patient outcomes while keeping budgets under control.
+ One of my core strengths is collaboration. Working in healthcare requires a team approach, and I
+ excel in coordinating with various departments, medical professionals, residents, and their family
+ members to ensure seamless care delivery. I have also sharpened my communication skills to
+ effectively communicate with team members, residents, and their families.
+ My experience in staff management has taught me the significance of dealing with various
+ personalities, delegating tasks effectively, and motivating my team towards common goals. I
+ believe this skill will be vital in my role as Nursing Home Administrator at Care Initiatives.
+ As a prospective Nursing Home Administrator at Care Initiatives, I look forward to contributing my
+ skills and knowledge to enhance the care provided to your residents. I would like to express my
+ enthusiasm about the opportunity to join the skilled and experienced team at Care Initiatives and
+ contribute my passion towards the betterment of the healthcare industry.
+ Thank you for considering my application. I look forward to discussing my qualifications in further
+ detail.
+ Sincerely,
+ Jamie snyder
+
+
+Based on the provided job description and executive roles and tasks, here's a crafted response for Jamie's job application as a nursing home administrator in Iowa:
+
+Jamie Snyder, OTA/L
+3832 E. Ovid Avenue
+Des Moines, IA 50317
+jlesnyder65@gmail.com
+515-707-0518
+
+Dear Hiring Manager,
+
+I am writing to express my interest in the nursing home administrator position at [Company Name]. With over 23 years of experience in skilled nursing, I am eager to bring my expertise in managing the day-to-day operations of nursing homes and ensuring compliance with state and federal regulations to your esteemed facility.
+
+My background as an Occupational Therapy Assistant has provided me with a deep understanding of patient care and interdisciplinary collaboration. As a member of the Interdisciplinary team, I have honed my skills in discussing patient outcomes, goals, and discharge planning, ensuring the well-being of residents is always a top priority.
+
+My experience in processing facilities' incidents and complaints has equipped me with effective communication skills, which are essential for managing staff, ensuring patient safety and comfort, and communicating with residents and their families. Additionally, my ability to effectively prioritize, sort out, and triage information and documentation has been instrumental in maintaining appropriate standards of care across all departments in the facilities I have worked in.
+
+Throughout my career, I have demonstrated expertise in identifying and problem-solving state and federal compliance procedures and requirements, ensuring that the facilities I work in adhere to the highest standards of care. My dedication to providing the best service to those I interact with has been evident in my ability to create rapport with others, a skill that has been invaluable as I have started up facilities across the nation and assisted in obtaining new contracts.
+
+I am proficient in Point Click Care and other nursing home computer programs, and I am goal-oriented in achieving excellence with documentation, providing an optimal level of care for residents. My experience in managing therapy caseloads, facilitating treatments, and overseeing budget management and procedures has prepared me well for the responsibilities of a nursing home administrator.
+
+I am excited about the opportunity to bring my unique blend of skills and experiences to your team at [Company Name]. I am confident that my background in healthcare, strong organizational and leadership skills, and dedication to providing the highest quality of care make me a strong candidate for this position.
+
+Thank you for considering my application. I am looking forward to the possibility of contributing to your team and further discussing how my background, skills, and experiences align with the needs of your facility.
+
+Sincerely,
+
+Jamie Snyder, OTA/L
+
+Jamie Snyder, OTA/L 
+515-707-0518 
+3832 E. Ovid Avenue  
+Des Moines, IA 50317 
+jlesnyder65@gmail.com 
+Occupational Therapy Assistant Iowa License #00620 
+Objective
+ To obtain a full-time position in the Administrator in training program at Care Initiatives.
+ Skills
+ ● Over 23 years of experience working in skilled nursing, ICF, and outpatient 
+facilities
+ ● Member of the Interdisciplinary team to discuss patient outcomes, goals, and 
+discharge planning
+ ● Demonstrated expertise in processing facilities’ incidents and complaints from 
+staff, residents, family members, and facility leadership
+ ● Possess excellent communication skills in person, email, conference calls, phone 
+calls, and through communication systems in facilities
+ ● Effectively prioritize, sort out, and triage information, documentation, needs, and 
+tasks 
+● Expertise in identifying and problem-solving state and federal compliance 
+procedures and requirements 
+● Dedicated to providing the best service to those I interact with by utilizing my 
+ability to create rapport with others, a skill I have used as I start up facilities 
+across the nation and when I assist in obtaining new contracts
+ ● Experience working as part of a team and working remotely 
+● Passionate about motivating and encouraging  staff, peers, and customers so 
+they can reach their full potential
+ ● Reliable, self-motivated, and organized
+ ● Proficient in Point Click Care and other nursing home computer programs
+ ● Goal-oriented in achieving excellence with documentation, providing an optimal 
+level of care for residents 
+Experience
+ January 2022-present Director of Rehab, Reliant Rehabilitation, Des Moines, IA
+ ● Manage 75 bed facility therapy caseload
+ ● Facilitate treatments with patients 50% of time
+ ● Member of the facility IDT to discuss admissions, discharges, MDS components, 
+and patient progress
+ ● Schedule all therapy staff daily
+ ● Manage budget, procedures, and therapy education
+ July 2019-January 2022 Operations Consultant, Kindred Rehabilitation (Now 
+Select Rehab) Glenview, IL
+ ● Execute documentation auditing and investigating deficiencies in professional 
+laws
+ ● Initiate policies in skilled nursing facilities nationwide
+ ● Create, monitor, and provide budgets for quarterly operations
+ ● Complete all financial procedures for supervised facilities
+ ● Perform performance evaluations for over 300 employees
+ ● Educate, support, and guide therapists on compliance, treatment strategies, and 
+billing practices
+ ● Perform new staff Interviews and hiring 
+● Analyze billing processes and make appropriate recommendations to service 
+providers
+ ● Perform chart reviews for all disciplines 
+● Train and coach therapists, nursing and social service staff on CPT code 
+utilization, documentation best practices, goal writing, and the development of 
+therapy/resident plans
+ December 2015-July 2019 | Regional Director of Operations
+ Reliant Rehabilitation Plano, TX
+ ● Responsible for 18 skilled nursing, and outpatient therapy teams across Iowa.
+ ● Created and implemented individualized programs for each facility
+ ● Expert in the possible changes with PDPM
+ ● Oversaw the financial operations of 18 teams
+ ● Led and educated therapy and nursing staff on program development, new 
+requirements of Iowa licensure laws, productivity, new treatment ideas, and 
+management of each facility individually.
+ ● Ensured that teams are up to date with new Medicare and insurance guidelines 
+and requirements.
+ ● Assisted the company with startups across the country
+● Helped obtain new contracts in Iowa and surrounding states.
+ ● Performed monthly site visits where I monitor and audit patient files and 
+documentation.
+ ● Coordinated and delivered bi-annual directors of rehab training.
+ ● Served as a mentor to new directors in Iowa and other states
+ May 2013 – November 2015 | Area Manager
+ ONR Rehab | Austin, TX 
+● Responsible for managing 9 therapy teams of  PT/PTAs, OT/COTAs, and SLPs 
+in Iowa
+ ● Recruited, hired, trained, supervised, and coached staff for each building in my 
+area making sure I keep the staff educated and up-to-date on new requirements 
+for the different health insurances
+ ● Maintained productivity requirements in assigned buildings
+ ● Responsible for configuring, managing, and outcomes of 9 different budgets
+ ● Performed facility visits, audit caseload, and therapy notes
+ ● Attended and facilitate staff meetings, training days, and webinars
+ ● Supervised minutes planned for all skilled residents
+ ● Completed end of the month billing 
+March 2004 – May 2014 | Occupational Therapist Assistant
+ Pacifica Rehab | Des Moines, IA 
+● Responsible for the treatment of patients in skilled nursing facilities in Des 
+Moines and surrounding areas
+ ● Planned PPS (Prospective Payment System) minutes for skills patients
+ ● Managed and set up outpatient and inpatient schedule for 12 therapists
+ ● Attended weekly Medicare meetings
+ ● Volunteered to order durable medical equipment for the department
+ ● Assisted with the end of the month billing
+ ● Mentored and trained new staff
+ Education
+ Bachelor’s in Healthcare Management University of Phoenix graduation 
+December 2024
+ Applied Science Associate Degree| Clarkson College, Omaha NE 
+References
+ Tammy Bushong Administrator
+ tbushong@careinitiatives.org
+ 515-739-0070
+ Bo Geidel Administrator 
+bojean04@hotmail.com
+ 641-340-4180
+ Tara Gabel Administrator 
+taragabel15@gmail.com
+ 402-980-4386
+ Jennifer Pitlick Regional Director of Operations
+ jennipitlick23@hotmail.com
+ 319-404-097
+
+}
+
+
+[KNOW THIS EMPLOYMENT HISTORY: https://achca.memberclicks.net/assets/docs/ltcplc_core_func-r_6-07lw.pdf]
+ 
+[USE THIS RESUME DRAFT TEMPLATE: https://achca.memberclicks.net/assets/docs/ltcplc_core_func-r_6-07lw.pdf; https://github.com/yahriels/yahriels/blob/main/Resume_Draft.pdf https://github.com/yahriels/yahriels/blob/main/Resume_Draft.tex]
+
+
+
+
+Prompt: Rewrite, Format, and Enhance Jamie's Response
+{
+[USE THIS RESUME DRAFT TEMPLATE: https://github.com/yahriels/yahriels/blob/main/Resume_Draft.pdf https://github.com/yahriels/yahriels/blob/main/Resume_Draft.tex]
+}
+ 
 
