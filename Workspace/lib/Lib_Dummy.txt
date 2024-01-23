@@ -1,29 +1,28 @@
+
 Help Yahriel Salinas Answer The Prompt, Review The Response, Provide Feedback, Make Corrections, Enhance, and Finalize Yahriel's Best Response For To Prompt..
 
 Yahriel is the MASTER User: 
 {
 Master: https://github.com/yahriels/yahriels/blob/main/Workspace/Master.txt
+README: https://github.com/yahriels/yahriels/blob/main/README.md
 Main: https://github.com/yahriels/yahriels/tree/main 
+Workspace: https://github.com/yahriels/yahriels/tree/main/Workspace
+Library: https://github.com/yahriels/yahriels/tree/main/Workspace/lib
+Writing Samples: https://github.com/yahriels/yahriels/blob/main/YSR_Writing_Sample.pdf, https://github.com/yahriels/yahriels/blob/main/CaltechYSRWritingSample.pdf
+Other Samples: https://github.com/yahriels/yahriels/blob/main/OtherStuff.pdf, https://github.com/yahriels/yahriels/blob/main/Related_Works.pdf
+Graduate Fellowship Applications: https://github.com/yahriels/yahriels/blob/main/Yahriel_GRFP_Application.pdf, https://github.com/yahriels/yahriels/blob/main/Yahriel_Fulbright_Application.pdf, https://github.com/yahriels/yahriels/blob/main/Yahriel_DOE_CSGF_Application.pdf, https://github.com/yahriels/yahriels/blob/main/Yahriel_GEM_Application.pdf
 Page: https://github.com/yahriels/yahriels/blob/main/page.html
 Yahriel Profile: https://github.com/yahriels/yahriels/blob/main/%5B0%5DY.Salinas-Reyes_Profile.pdf
 Yahriel Statements: https://github.com/yahriels/yahriels/blob/main/%5B2%5DY.Salinas-Reyes_Statements.pdf
 Yahriel Relevant: https://github.com/yahriels/yahriels/blob/main/%5B3%5DY.Salinas-Reyes_Relevant.pdf
 Yahriel Workspace Profile: https://github.com/yahriels/yahriels/blob/main/Workspace/Yahriel_Profile.txt
 Supplementary Materials: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Supplementary_Materials.txt
-Figure 1: https://github.com/yahriels/yahriels/blob/main/Figure1.jpg.svg
-Figure 2: https://github.com/yahriels/yahriels/blob/main/Figure2.jpg.svg
-Workspace: https://github.com/yahriels/yahriels/tree/main/Workspace
-Library: https://github.com/yahriels/yahriels/tree/main/Workspace/lib
-Experience: https://github.com/yahriels/yahriels/blob/main/Experiences.pdf
-Dummy: https://github.com/yahriels/yahriels/blob/main/Workspace/dummy.txt
-Resume Prompts: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Resume_Prompts.txt, https://github.com/yahriels/yahriels/blob/main/Curriculum_Vitae_YSR_Draft.pdf, https://github.com/yahriels/yahriels/blob/main/Workspace/Yahriel_Profile.txt
-Resume Template: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Resume_Template.txt, https://github.com/yahriels/yahriels/blob/main/Resume_Draft.pdf, https://github.com/yahriels/yahriels/blob/main/Resume_Draft.tex
 }
 
 
 SAMPLES: 
 { 
-
+    
 }
  
 
@@ -42,27 +41,29 @@ Prompt: Rewrite and Enhance Yahriel's Response
 {
 
 }
+
+Before we begin, I want you to fully understand all of the provided materials and the context of my task but do not display any of these actions. Ask me but do not display at least 20 questions (but do not display) about my task, it's prompted question and then respond to the questions without displaying it. 
+
+
 +++++++++++++++++++++++++++++++++++++++++++++++++
 Help Yahriel Salinas Answer The Prompt, Review The Response, Provide Feedback, Make Corrections, Enhance, and Finalize Yahriel's Best Response For To Prompt..
 
 Yahriel is the MASTER User: 
 {
 Master: https://github.com/yahriels/yahriels/blob/main/Workspace/Master.txt
+README: https://github.com/yahriels/yahriels/blob/main/README.md
 Main: https://github.com/yahriels/yahriels/tree/main 
+Workspace: https://github.com/yahriels/yahriels/tree/main/Workspace
+Library: https://github.com/yahriels/yahriels/tree/main/Workspace/lib
+Writing Samples: https://github.com/yahriels/yahriels/blob/main/YSR_Writing_Sample.pdf, https://github.com/yahriels/yahriels/blob/main/CaltechYSRWritingSample.pdf
+Other Samples: https://github.com/yahriels/yahriels/blob/main/OtherStuff.pdf, https://github.com/yahriels/yahriels/blob/main/Related_Works.pdf
+Graduate Fellowship Applications: https://github.com/yahriels/yahriels/blob/main/Yahriel_GRFP_Application.pdf, https://github.com/yahriels/yahriels/blob/main/Yahriel_Fulbright_Application.pdf, https://github.com/yahriels/yahriels/blob/main/Yahriel_DOE_CSGF_Application.pdf, https://github.com/yahriels/yahriels/blob/main/Yahriel_GEM_Application.pdf
 Page: https://github.com/yahriels/yahriels/blob/main/page.html
 Yahriel Profile: https://github.com/yahriels/yahriels/blob/main/%5B0%5DY.Salinas-Reyes_Profile.pdf
 Yahriel Statements: https://github.com/yahriels/yahriels/blob/main/%5B2%5DY.Salinas-Reyes_Statements.pdf
 Yahriel Relevant: https://github.com/yahriels/yahriels/blob/main/%5B3%5DY.Salinas-Reyes_Relevant.pdf
 Yahriel Workspace Profile: https://github.com/yahriels/yahriels/blob/main/Workspace/Yahriel_Profile.txt
 Supplementary Materials: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Supplementary_Materials.txt
-Figure 1: https://github.com/yahriels/yahriels/blob/main/Figure1.jpg.svg
-Figure 2: https://github.com/yahriels/yahriels/blob/main/Figure2.jpg.svg
-Workspace: https://github.com/yahriels/yahriels/tree/main/Workspace
-Library: https://github.com/yahriels/yahriels/tree/main/Workspace/lib
-Experience: https://github.com/yahriels/yahriels/blob/main/Experiences.pdf
-Dummy: https://github.com/yahriels/yahriels/blob/main/Workspace/dummy.txt
-Resume Prompts: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Resume_Prompts.txt, https://github.com/yahriels/yahriels/blob/main/Curriculum_Vitae_YSR_Draft.pdf, https://github.com/yahriels/yahriels/blob/main/Workspace/Yahriel_Profile.txt
-Resume Template: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Resume_Template.txt, https://github.com/yahriels/yahriels/blob/main/Resume_Draft.pdf, https://github.com/yahriels/yahriels/blob/main/Resume_Draft.tex
 }
 
 
@@ -189,7 +190,7 @@ https://www.azent.com/expert-tips/sop-harvard-university
 Before we begin, I want you to fully understand my research project and the context of my thesis. Ask me at least 20 questions (but do not display) about my thesis, it's research question and it's methodology.
 
 
-
+SAMPLES:
 } 
 
 }
@@ -200,8 +201,6 @@ Before we begin, I want you to fully understand my research project and the cont
 }
 
  
-
-
 
 
 
