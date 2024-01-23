@@ -23,106 +23,24 @@ Resume Template: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Re
 
 SAMPLES: 
 { 
-Research Presentations and Scientific Thematic Talks 
-1. Y. Salinas-Reyes, H. Seabold, A. Martin, M. Thuo (2020, April). Exploring the Piezoresistive Effect and 
-Paper-based MEMS Sensors. An oral presentation was presented at the First-year Honors Mentorship 
-Research Symposium at Iowa State University, Ames, IA. 
-2. Y. Salinas-Reyes, A. Martin, M. Thuo (2020, August). Integration of paper-based MEMS sensors into 
-computer technology. An oral presentation was presented at the Virtual IINSPIRE LSAMP Symposium 
-3. Y. Salinas-Reyes, A. Martin, M. Thuo (2020, October). Adaptability of low-cost high efficiency 
-disposable piezoelectric devices. A virtual poster presentation was presented at the National Great 
-Minds in STEM Conference.  
-4. Y. Salinas-Reyes, A. Martin, M. Thuo (2021, April). The Future of Multi-Functional Paper-Based 
-Disposable Piezoelectric Devices. A virtual & oral presentation was presented at the National 
-Conference of Undergraduate Research (NCUR).  
-5. Y. Salinas-Reyes, X. Zheng (2021, August). Predicting Olympic Triathlon Results via Machine Learning. 
-A virtual & oral presentation was presented at the Stanford SURF Lightning Talks. 
-6. Y. Salinas-Reyes, Julia R. Greer (2022, August). Energy Absorption in Nano-Architected Hybrid 
-Composites. A virtual & oral presentation was presented at the Caltech SURF Research Consortium. 
-7. Y. Salinas-Reyes, Ivaldi Co. (2022, May). Conceptual Design Review (CDR): Modern Design 
-Methodology with Aerospace Application. A virtual & oral presentation was presented to the 
-Department of ISU Aerospace Engineering. 
-8. Y. Salinas-Reyes, T. Ward III (2022, May). Shear-Sensing Principals of Interfacial Viscous-Shear Flow 
-and Piezomobility—strain-induced mobility—at The Wall (Thermal Boundary). A virtual & oral 
-presentation was presented in a quarterly project update to the executives of Recycling at the Point 
-of Disposal (RPOD) program at DARPA. 
-9. Y. Salinas-Reyes, T. Ward III (2023, July). Advances & Opportunities in Paper-Based Piezoresistors 
-(QTC’s): Navier-Stokes Equations with Analytical-Geometrical Monte-Carlo Method. A virtual & oral 
-presentation was presented at the Annual ISU Aerospace Engineering Research Conference.  
-10. Y. Salinas-Reyes, T. Ward III (2023, August). Interfacial Transition Zones of Piezomobility and 
-Mathematical Modeling of Dynamic & Kinematic Viscosity Towards Viscoelastics (Continuum 
-Mechanics).  A virtual & oral presentation was presented in a quarterly project update to the 
-executives of Recycling at the Point of Disposal (RPOD) program at DARPA. 
-11. Y. Salinas-Reyes, Ivaldi Co. (2023, September). Executive and Granter Design Sign-Off: Design of 
-Aerospace Systems (i.e., sUAS). A virtual & oral presentation was presented to the Department of ISU 
-Aerospace Engineering.
 
-Publications
- [1] Author, ”Multi-Function 3D Piezoelectric Devices for Aeronautical Applications,” Journal of Materials
- Science, 2023 (Under Review).
- [2] Author, ”Experimental Techniques for Flow Separation Detection and Chemical Sintering,” Journal of
- Aerospace Science and Technology.
-[3] Author, ”Characterizing Damping Mechanisms in Piezoelectric Wind-Energy Harvesters,” Journal of
- Renewable Energy, 2023 (Under Review).
- [4] Author, ”Hybrid Nanocomposites: Semi-Empirical Method of Viscoelastic Behavior,” Journal of Ma
-terials Science.
- [5] Author, ”Characterizing Damping Mechanisms in Piezoelectric Wind-Energy Harvesters,” Journal of
- Renewable Energy
-
-Publications, Exhibitions, Performances, Presentations
- "Exploring Bio-Processing & Devices in Micro & Nanoscience," 2023, NCUR STEM Conference
- "Bioprocessing in Wine Yeast for Mental Health Treatments," 2023, STEM Symposium
- "Modern Design Methodology & Design of Aerospace Systems," 2023, Senior Capstone Project
- "Quantum Tunnelling Composites: Analytical Monte Carlo Model & Navier-Stokes," 2023
- "Understanding the Mathematical Language -The Code- of the Universe," 2021, TEDx Talk
- "Characterizing Damping Mechanisms in Piezoelectric Wind-Energy Harvesters," 2023
- "Kirigami-Inspired Design of Paper-Based MEMS Devices for Aeronautical Applications," 2022
- "Synthesizing Meta-Stable Particles & High-Efficiency MEMS Sensors and Nanodevices," 2021
 }
  
 
 Purpose: To Help Yahriel Fill The Prompt
 { 
-Please include a list of publications that you have authored or co-authored.
-
-Papers
-(Max characters is 2200,  2200)
-
-Talks
-(Max characters is 2200,  2200)
-
-Posters
-(Max characters is 2200,  2200)
 
 }
 
 [Template] Yahriel's Response:
 {
-Please include a list of publications that you have authored or co-authored.
 
-Papers
-(Max characters is 2200,  2200)
-
-Talks
-(Max characters is 2200,  2200)
-
-Posters
-(Max characters is 2200,  2200)
 }
 
 
 Prompt: Rewrite and Enhance Yahriel's Response
 {
-Please include a list of publications that you have authored or co-authored.
 
-Papers
-(Max characters is 2200,  2200)
-
-Talks
-(Max characters is 2200,  2200)
-
-Posters
-(Max characters is 2200,  2200)
 }
 +++++++++++++++++++++++++++++++++++++++++++++++++
 Help Yahriel Salinas Answer The Prompt, Review The Response, Provide Feedback, Make Corrections, Enhance, and Finalize Yahriel's Best Response For To Prompt..
@@ -280,9 +198,6 @@ Before we begin, I want you to fully understand my research project and the cont
 {
 
 }
-
-
-[KNOW THIS: https://github.com/yahriels/yahriels/blob/main/Workspace/Stanford%20University%20Graduate%20Admissions.pdf]
 
  
 
