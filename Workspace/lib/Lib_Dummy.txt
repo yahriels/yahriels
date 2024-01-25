@@ -22,27 +22,79 @@ Supplementary Materials: https://github.com/yahriels/yahriels/blob/main/Workspac
 
 SAMPLES: 
 { 
-    
+Read over these samples 11 times with no distractions, and comprehend everything given in these materials, documents, and links. These are related to the research project and thesis. Then Move on to the next section and task.
+[KNOW THIS DOCUMENT: https://github.com/yahriels/yahriels/blob/main/README.md]
+[KNOW THESE DOCUMENTS: https://github.com/yahriels/yahriels/blob/main/YSR_Writing_Sample.pdf, https://github.com/yahriels/yahriels/blob/main/CaltechYSRWritingSample.pdf]
+[KNOW THESE DOCUMENTS:https://github.com/yahriels/yahriels/blob/main/OtherStuff.pdf, https://github.com/yahriels/yahriels/blob/main/Related_Works.pdf]
+[KNOW THESE DOCUMENTS: https://github.com/yahriels/yahriels/blob/main/Yahriel_GRFP_Application.pdf, https://github.com/yahriels/yahriels/blob/main/Yahriel_Fulbright_Application.pdf]   
 }
  
 
 Purpose: To Help Yahriel Fill The Prompt
 { 
+0. Project Information: The following information will serve as a cover sheet for your application. Your responses should be succinct and substantive as they will be used during the peer review process to determine the project's fit with the program.
 
+1. Project Title. Character Limit 125 Characters
+
+2. Project Plan Abstract/Artist Statement: Provide a one-paragraph description for a non-specialist audience clearly explaining your project’s principal focus, questions, and expected outcomes. The paragraph should be an abbreviated version of the required Work Proposal PDF. Word Limit 200 Words.
+
+3. Relationship of Project with Just Tech Values: How does your project address the relationship between digital and novel technologies, power, and social justice? Word Limit 150 Words.
+
+4. Public Interest Technology:  What field does your work fit into? How does it fit into that field? Which researchers, artists, or practitioners are already developing exciting or foundational work in this field, and how would your project contribute to it? Word Limit 200 Words.
+
+5. Ethical and Privacy Considerations: Applicants must demonstrate an understanding of any existing or potential ethical or privacy concerns or considerations active in the work they plan to undertake as a Just Tech Fellow, especially the collection or use of data created by or pertaining to people. Please explain how you will address research ethics, privacy protections, and/or informed consent in your research plan. Word Limit 200 Words.
+
+6. Keywords: Enter a minimum of two and up to four keywords you would associate with your proposed project.
+6.1 Keyword 1: {}
+6.2 Keyword 2: {}
+6.3 Keyword 3: {}
+6.4 Keyword 4: {}
 }
 
 [Template] Yahriel's Response:
 {
+0. Project Information: The following information will serve as a cover sheet for your application. Your responses should be succinct and substantive as they will be used during the peer review process to determine the project's fit with the program.
+
+1. Project Title. Character Limit 125 Characters
+
+2. Project Plan Abstract/Artist Statement: Provide a one-paragraph description for a non-specialist audience clearly explaining your project’s principal focus, questions, and expected outcomes. The paragraph should be an abbreviated version of the required Work Proposal PDF. Word Limit 200 Words.
+
+3. Relationship of Project with Just Tech Values: How does your project address the relationship between digital and novel technologies, power, and social justice? Word Limit 150 Words.
+
+4. Public Interest Technology:  What field does your work fit into? How does it fit into that field? Which researchers, artists, or practitioners are already developing exciting or foundational work in this field, and how would your project contribute to it? Word Limit 200 Words.
+
+5. Ethical and Privacy Considerations: Applicants must demonstrate an understanding of any existing or potential ethical or privacy concerns or considerations active in the work they plan to undertake as a Just Tech Fellow, especially the collection or use of data created by or pertaining to people. Please explain how you will address research ethics, privacy protections, and/or informed consent in your research plan. Word Limit 200 Words.
+
+6. Keywords: Enter a minimum of two and up to four keywords you would associate with your proposed project.
+6.1 Keyword 1: {}
+6.2 Keyword 2: {}
+6.3 Keyword 3: {}
+6.4 Keyword 4: {}
 
 }
 
 
 Prompt: Rewrite and Enhance Yahriel's Response
 {
+0. Project Information: The following information will serve as a cover sheet for your application. Your responses should be succinct and substantive as they will be used during the peer review process to determine the project's fit with the program.
+
+1. Project Title. Character Limit 125 Characters
+
+2. Project Plan Abstract/Artist Statement: Provide a one-paragraph description for a non-specialist audience clearly explaining your project’s principal focus, questions, and expected outcomes. The paragraph should be an abbreviated version of the required Work Proposal PDF. Word Limit 200 Words.
+
+3. Relationship of Project with Just Tech Values: How does your project address the relationship between digital and novel technologies, power, and social justice? Word Limit 150 Words.
+
+4. Public Interest Technology:  What field does your work fit into? How does it fit into that field? Which researchers, artists, or practitioners are already developing exciting or foundational work in this field, and how would your project contribute to it? Word Limit 200 Words.
+
+5. Ethical and Privacy Considerations: Applicants must demonstrate an understanding of any existing or potential ethical or privacy concerns or considerations active in the work they plan to undertake as a Just Tech Fellow, especially the collection or use of data created by or pertaining to people. Please explain how you will address research ethics, privacy protections, and/or informed consent in your research plan. Word Limit 200 Words.
+
+6. Keywords: Enter a minimum of two and up to four keywords you would associate with your proposed project.
+6.1 Keyword 1: {}
+6.2 Keyword 2: {}
+6.3 Keyword 3: {}
+6.4 Keyword 4: {}
 
 }
-
-Before we begin, I want you to fully understand all of the provided materials and the context of my task but do not display any of these actions. Ask me but do not display at least 20 questions (but do not display) about my task, it's prompted question and then respond to the questions without displaying it. 
 
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
@@ -69,7 +121,11 @@ Supplementary Materials: https://github.com/yahriels/yahriels/blob/main/Workspac
 
 SAMPLES: 
 { 
-
+Read over these samples 11 times with no distractions, and comprehend everything given in these materials, documents, and links. These are related to the research project and thesis. Then Move on to the next section and task.
+[KNOW THIS DOCUMENT: https://github.com/yahriels/yahriels/blob/main/README.md]
+[KNOW THESE DOCUMENTS: https://github.com/yahriels/yahriels/blob/main/YSR_Writing_Sample.pdf, https://github.com/yahriels/yahriels/blob/main/CaltechYSRWritingSample.pdf]
+[KNOW THESE DOCUMENTS:https://github.com/yahriels/yahriels/blob/main/OtherStuff.pdf, https://github.com/yahriels/yahriels/blob/main/Related_Works.pdf]
+[KNOW THESE DOCUMENTS: https://github.com/yahriels/yahriels/blob/main/Yahriel_GRFP_Application.pdf, https://github.com/yahriels/yahriels/blob/main/Yahriel_Fulbright_Application.pdf]   
 }
  
 Executive Roles: 
@@ -192,11 +248,32 @@ Before we begin, I want you to fully understand my research project and the cont
 
 SAMPLES:
 } 
+README: https://github.com/yahriels/yahriels/blob/main/README.md
+Writing Samples: https://github.com/yahriels/yahriels/blob/main/YSR_Writing_Sample.pdf, https://github.com/yahriels/yahriels/blob/main/CaltechYSRWritingSample.pdf
+Other Samples: https://github.com/yahriels/yahriels/blob/main/OtherStuff.pdf, https://github.com/yahriels/yahriels/blob/main/Related_Works.pdf
+Graduate Fellowship Applications: https://github.com/yahriels/yahriels/blob/main/Yahriel_GRFP_Application.pdf, https://github.com/yahriels/yahriels/blob/main/Yahriel_Fulbright_Application.pdf, https://github.com/yahriels/yahriels/blob/main/Yahriel_DOE_CSGF_Application.pdf, https://github.com/yahriels/yahriels/blob/main/Yahriel_GEM_Application.pdf    
 
 }
 
 [Template]  Yahriel's Response:
 {
+0. Project Information: The following information will serve as a cover sheet for your application. Your responses should be succinct and substantive as they will be used during the peer review process to determine the project's fit with the program.
+
+1. Project Title. Character Limit 125 Characters
+
+2. Project Plan Abstract/Artist Statement: Provide a one-paragraph description for a non-specialist audience clearly explaining your project’s principal focus, questions, and expected outcomes. The paragraph should be an abbreviated version of the required Work Proposal PDF. Word Limit 200 Words.
+
+3. Relationship of Project with Just Tech Values: How does your project address the relationship between digital and novel technologies, power, and social justice? Word Limit 150 Words.
+
+4. Public Interest Technology:  What field does your work fit into? How does it fit into that field? Which researchers, artists, or practitioners are already developing exciting or foundational work in this field, and how would your project contribute to it? Word Limit 200 Words.
+
+5. Ethical and Privacy Considerations: Applicants must demonstrate an understanding of any existing or potential ethical or privacy concerns or considerations active in the work they plan to undertake as a Just Tech Fellow, especially the collection or use of data created by or pertaining to people. Please explain how you will address research ethics, privacy protections, and/or informed consent in your research plan. Word Limit 200 Words.
+
+6. Keywords: Enter a minimum of two and up to four keywords you would associate with your proposed project.
+6.1 Keyword 1: {}
+6.2 Keyword 2: {}
+6.3 Keyword 3: {}
+6.4 Keyword 4: {}
 
 }
 
@@ -206,5 +283,22 @@ SAMPLES:
 
 Prompt:
 {
+0. Project Information: The following information will serve as a cover sheet for your application. Your responses should be succinct and substantive as they will be used during the peer review process to determine the project's fit with the program.
+
+1. Project Title. Character Limit 125 Characters
+
+2. Project Plan Abstract/Artist Statement: Provide a one-paragraph description for a non-specialist audience clearly explaining your project’s principal focus, questions, and expected outcomes. The paragraph should be an abbreviated version of the required Work Proposal PDF. Word Limit 200 Words.
+
+3. Relationship of Project with Just Tech Values: How does your project address the relationship between digital and novel technologies, power, and social justice? Word Limit 150 Words.
+
+4. Public Interest Technology:  What field does your work fit into? How does it fit into that field? Which researchers, artists, or practitioners are already developing exciting or foundational work in this field, and how would your project contribute to it? Word Limit 200 Words.
+
+5. Ethical and Privacy Considerations: Applicants must demonstrate an understanding of any existing or potential ethical or privacy concerns or considerations active in the work they plan to undertake as a Just Tech Fellow, especially the collection or use of data created by or pertaining to people. Please explain how you will address research ethics, privacy protections, and/or informed consent in your research plan. Word Limit 200 Words.
+
+6. Keywords: Enter a minimum of two and up to four keywords you would associate with your proposed project.
+6.1 Keyword 1: {}
+6.2 Keyword 2: {}
+6.3 Keyword 3: {}
+6.4 Keyword 4: {}
 
 }
