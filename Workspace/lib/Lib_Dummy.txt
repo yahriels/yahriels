@@ -70,64 +70,23 @@ This research holds the potential to advance knowledge within the field of neuro
 Furthermore, the broader impacts of this research on society are profound. Mental health disorders represent a global health crisis, with significant social and economic consequences. The development of precise diagnostic tools and innovative therapies based on the neurobiome's understanding has the potential to transform mental healthcare. It can lead to early detection, personalized treatments, and improved outcomes for individuals suffering from these disorders.
 In summary, my proposed research at the convergence of precision engineering and neuroscience seeks to decipher the multiscale neurobiome, offering a new frontier in the understanding and treatment of mental health disorders. This interdisciplinary endeavor not only promises to advance scientific knowledge but also holds the potential to alleviate the burdens of mental illness, thereby making a significant societal impact.
 
-
-
-
-
 }
  
 
 Purpose: To Help Yahriel Fill The Prompt
 { 
-Personal Statement: Applicants should submit a written personal statement of up to 500 words. Strong personal statements will include:
 
-How an applicant's life experience has shaped their work
-
-Knowledge and experience with a field of research or practice that engages substantively with novel and digital technology and social justice questions
-
-How an applicant's work centers the perspectives of historically marginalized populations
-
-Engagement with the values and goals of the Just Tech program
-
-Motivation for pursuing a Just Tech Fellowship
-
-Ability to take practical advantage of a two-year, full-time fellowship, especially vis-a-vis other responsibilities or work commitments
 }
 
 [Template] Yahriel's Response:
 {
-Personal Statement: Applicants should submit a written personal statement of up to 500 words. Strong personal statements will include:
-
-How an applicant's life experience has shaped their work
-
-Knowledge and experience with a field of research or practice that engages substantively with novel and digital technology and social justice questions
-
-How an applicant's work centers the perspectives of historically marginalized populations
-
-Engagement with the values and goals of the Just Tech program
-
-Motivation for pursuing a Just Tech Fellowship
-
-Ability to take practical advantage of a two-year, full-time fellowship, especially vis-a-vis other responsibilities or work commitments
 
 }
 
 
 Prompt: Rewrite and Enhance Yahriel's Response
 {
-Personal Statement: Applicants should submit a written personal statement of up to 500 words. Strong personal statements will include:
 
-How an applicant's life experience has shaped their work
-
-Knowledge and experience with a field of research or practice that engages substantively with novel and digital technology and social justice questions
-
-How an applicant's work centers the perspectives of historically marginalized populations
-
-Engagement with the values and goals of the Just Tech program
-
-Motivation for pursuing a Just Tech Fellowship
-
-Ability to take practical advantage of a two-year, full-time fellowship, especially vis-a-vis other responsibilities or work commitments
 }
 
 
@@ -263,10 +222,13 @@ Fellowship is likely to make in the kind, quality, and/or personal creativity of
 graduate research.
 
 }
+
 Purpose: To Help Yahriel Fill The Prompt
 {
 
 }
+
+
 Other Resources and Helpful Links:
 https://mitcommlab.mit.edu/nse/wp-content/uploads/sites/4/2016/09/NSE_CommKit_GradSchool_Personal_Statement_AAE1.pdf
 https://mitcommlab.mit.edu/eecs/commkit/graduate-school-personal-statement/
@@ -288,9 +250,8 @@ README: https://github.com/yahriels/yahriels/blob/main/README.md
 Writing Samples: https://github.com/yahriels/yahriels/blob/main/YSR_Writing_Sample.pdf, https://github.com/yahriels/yahriels/blob/main/CaltechYSRWritingSample.pdf
 Other Samples: https://github.com/yahriels/yahriels/blob/main/OtherStuff.pdf, https://github.com/yahriels/yahriels/blob/main/Related_Works.pdf
 Graduate Fellowship Applications: https://github.com/yahriels/yahriels/blob/main/Yahriel_GRFP_Application.pdf, https://github.com/yahriels/yahriels/blob/main/Yahriel_Fulbright_Application.pdf, https://github.com/yahriels/yahriels/blob/main/Yahriel_DOE_CSGF_Application.pdf, https://github.com/yahriels/yahriels/blob/main/Yahriel_GEM_Application.pdf    
-
-
 }
+
 
 [Template]  Yahriel's Response:
 {
