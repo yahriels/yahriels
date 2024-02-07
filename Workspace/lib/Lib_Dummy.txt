@@ -22,6 +22,13 @@ Supplementary Materials: https://github.com/yahriels/yahriels/blob/main/Workspac
 
 [KNOW THE FULBRIGHT PROPOSAL: https://github.com/yahriels/yahriels/blob/main/Yahriel_Fulbright_Application.pdf]
 
+
+NATGEO:
+{
+
+}
+
+
 SAMPLES: 
 { 
 Read over these samples 11 times with no distractions, and comprehend everything given in these materials, documents, and links. These are related to the research project and thesis. Then Move on to the next section and task.
@@ -31,32 +38,8 @@ Read over these samples 11 times with no distractions, and comprehend everything
 [KNOW THESE DOCUMENTS: https://github.com/yahriels/yahriels/blob/main/Yahriel_GRFP_Application.pdf, https://github.com/yahriels/yahriels/blob/main/Yahriel_DOE_CSGF_Application.pdf, https://github.com/yahriels/yahriels/blob/main/Yahriel_Fulbright_Application.pdf]   
 [KNOW THE FULBRIGHT PROPOSAL: https://github.com/yahriels/yahriels/blob/main/Yahriel_Fulbright_Application.pdf]
 
-Statement of Grant Purpose
-Yahriel Salinas-Reyes, Host Country: Mexico, Field: Molecular & Systems Bioengineering
-Project Title: Unraveling the Molecular Code of Natural Antidepressants in Grapes
-In the ever-evolving world of scientific inquiry, certain moments emerge as profound intersections of human ingenuity, scientific inquiry, and the enigmatic wonders of nature. Encapsulated within this project is one such moment. With a central focus on unraveling the molecular code of grapes to find the compounds responsible for its potential natural antidepressant properties, Yahriel Salinas-Reyes aims to foster innovation in treatments for mental health disorders and conditions. Also encompassed in the project is an investigation into the nature of schizophrenia and the complexities of neuroplasticity, in hopes of advancing understanding of the mental illness. The overarching goal is to address the mounting global health crisis presented by mental health disorders, including depression and schizophrenia, which have surged to an unprecedented global health crisis significantly diminishing the quality of life for millions and placing immense pressure on healthcare systems worldwide.
-At its core, the project is driven by the ambition to conduct a comprehensive molecular analysis of grapes, with a particular emphasis on understanding the genetic and molecular mechanisms governing the synthesis of antioxidants. Grapes have garnered scientific interest due to their potential health benefits and their recent recognition as potential natural antidepressants. Yahriel's unique background in aerospace engineering and micro-electro-mechanical systems (MEMS) equips him with the precision and expertise required to delve into the microscopic realm of chromosomes and molecules—an essential prerequisite for unveiling the genetic secrets grapes hold. To fulfill the project's objectives, advanced techniques in molecular biology and biotechnology systems engineering will be employed. The primary goal is to pinpoint the specific compounds within grapes responsible for their potential antidepressant properties, involving their isolation and characterization to illuminate their mechanisms of action within the brain. The aim is to identify practical applications for mental health treatment by comprehending the genetic and molecular foundation of natural antidepressant production in grapes. 
-Concurrently, this research adopts a multifaceted approach to unravel the complexities of schizophrenia, a debilitating and chronic mental disorder characterized by symptoms such as delusions, hallucinations, disorganized speech, and cognitive deficits. At the heart of schizophrenia's enduring enigma are Bleuler's four A's: Alogia, Autism, Ambivalence, and Affect blunting. Extensive research has explored the etiology of schizophrenia, leading to the emergence of three prominent theories: genetic, neurodevelopmental, and neurobiological. Each theory offers a distinct perspective on the origins of this complex disorder, making it challenging to pinpoint a single causative factor. Nonetheless, neurobiological theory has gained prominence due to its comprehensive approach, explaining schizophrenia as a result of abnormal brain dysfunctions or structural anomalies. This theory stands on solid scientific ground, holds promise in guiding treatment strategies, transcends cultural and demographic boundaries, and raises fewer ethical concerns compared to alternative theories. Structural and functional abnormalities in key brain systems (i.e., the prefrontal & medial temporal lobes) play a pivotal role in the manifestation of schizophrenia symptoms that are integral to working memory and declarative memory processes. The disrupted functioning contributes to cognitive impairments and emotional dysregulation in individuals with schizophrenia. In the quest to understand schizophrenia, neuroplasticity—the brain's remarkable capacity to adapt and reorganize itself in 
-response to learning, experiences, and environmental changes—emerges as a crucial factor operating at various levels, from synaptic plasticity, where the strength of connections between neurons is modified, to large-scale changes in brain structure and function. In the context of schizophrenia, neuroplasticity offers hope for improving cognitive functioning and overall quality of life for affected individuals. Research has shown that cognitive remediation therapies— which harness neuroplasticity—can lead to improvements in cognitive domains such as memory, attention, and problem-solving, mitigating some of the cognitive impairments associated with the disorder.
-This project is founded on the belief that nature holds the key to addressing complex health challenges, including mental health disorders like depression and schizophrenia, and seeks to explore the potential of grapes as a source of natural antidepressants. One intriguing entry point into the complex world of grape biochemistry is through the study of yeast used in wine production, which plays a pivotal role in the fermentation process, and influences the composition of compounds within grapes. Scientific evidence unveiled that certain molecular compounds in the antioxidants act as natural antidepressants but there lacks initiative to utilize these antioxidant agents in psychiatric institutions and practical methods. By employing advanced techniques such as neuroimaging, fractal geometry, and spectral analysis, the project aims to unveil underlying patterns and causative factors associated with depression and related mental health conditions. The significance of this research extends far beyond the development of new treatments. It encompasses a broader understanding of the intricate relationship between food, biochemistry, and mental health. This knowledge has the potential to inform dietary recommendations that promote mental well-being, potentially reducing the global prevalence of these disorders. 
-Yahriel, and the research team at the university Tecnológico de Monterrey endeavor to decode the molecular secrets of nature to improve the human condition, particularly for individuals affected by schizophrenia and other mental health disorders. Yahriel's work represents a convergence of scientific rigor, interdisciplinary collaboration, and a profound commitment to the betterment of human well-being. Furthermore, this research holds the potential to strengthen international collaborations between the U.S. and Mexico. By conducting research at Tecnológico de Monterrey, Yahriel can contribute to the exchange of knowledge and ideas between the two countries, fostering a stronger global community which reflects the essence of the Fulbright mission, emphasizing mutual understanding and collaboration between nations. Yahriel Salinas-Reyes' Fulbright-Garcia Robles Open Study/Research Award proposal represents a unique and ambitious endeavor to explore the natural antidepressant properties of grapes. Grounded in the principles of interdisciplinary research, this project not only has the potential to transform mental health treatment but also to deepen our understanding of the brain's plasticity. It is a testament to the power of collaboration and cultural exchange in the pursuit of knowledge and the betterment of human well-being. Yahriel's unwavering commitment to utilizing opportunities to their fullest and to serve as a cultural diplomat, bridging gaps between different fields and nations, promises to unlock the molecular code of nature and take meaningful strides toward a healthier and more fulfilling world for all.  Yahriel's proposal  represents a remarkable opportunity to weave together science, innovation, and compassion in the quest to decipher the extraordinary truths hidden within the universe's code.
+The best way to respond to a "Who are you or tell me about yourself" interview question is to begin by introducing yourself, focusing on your professional experience and accomplishments in the relevant field. Use the STAR technique to structure your response, highlighting specific times when you have demonstrated your skills and abilities in a structured format. Be concise and focus on the most relevant information, while also showing enthusiasm and enthusiasm for the opportunity to share your skills and qualifications with the interviewer.
 
-Nature’s Chaos Game: An Existentialist Approach 
-Informed by Mathematics and Neurobiology 
-Introduction: Mental health disorders represent a profound challenge to contemporary society, impacting millions of lives worldwide. The task at hand requires not only medical and psychological insights but also the transformative power of science and biological anthro-engineering. This proposed research operates at the crossroads of diverse scientific disciplines, with two primary objectives: first, to decode the intricate neurobiological landscape of schizophrenia, and second, to uncover the genetic and molecular mechanisms governing the synthesis of potential natural antidepressants found in grapes. Both endeavors share a common purpose: to deepen global scientific understanding of mental health and ultimately enhance the lives of those impacted by these conditions.  
-Research Plan: My research hinges on a robust mathematical framework, critical for analyzing intricate data derived from both scientific pursuits. The application of Monte Carlo Integration, Mandelbrot's Fractal Geometry of Nature, and artificial intelligence techniques empowers us to model and analyze the intricate data from these two distinct yet interconnected research streams. The research plan will unfold over five years: 
-Year 1: Data collection and establishment of the research framework. 
-Year 2: Neuroimaging and genetic data analysis. 
-Year 3: Development of mathematical models. 
-Year 4: Validation of models and refinement of findings.  
-Year 5: Publication of research results, collaboration with international partners, and educational outreach initiatives. 
-Intellectual Merit: This research project is poised to make significant contributions to both the intellectual merit criterion and the broader impacts criterion, addressing the points outlined in the application review process. Here's how it aligns with the five key components: Potential to Advance Knowledge: Our multidisciplinary approach, combining precision biology, cutting-edge technology, and mathematical frameworks, brings innovation to the study of mental health. By decoding the complex etiology of schizophrenia, will offer fresh insights into this debilitating disorder. Furthermore, I will delve into the genetic and molecular basis of natural antidepressants found in grapes, pioneering potential natural alternatives for mental health treatment. Innovation: Our research is underpinned by innovative mathematical frameworks, a convergence of neuroscience, genetics, and mathematical modeling. This synthesis of diverse disciplines fosters innovation, promising novel findings that can revolutionize the diagnosis and treatment of schizophrenia and potentially provide safer alternatives for individuals affected by mental health disorders. Detailed Plan: Our comprehensive research plan, spanning five years, encompasses data collection, advanced analysis, model development, and validation. The plan is characterized by its systematic and strategic approach, with built-in measures of success to ensure the attainment of meaningful results. Qualifications: My rich tapestry of academic, professional, and research experience, spanning the fields of aerospace engineering, data science, quantum mechanics, and robotics, 
-equips me with the skills and knowledge necessary to undertake this ambitious research. Ability to Execute 
-Research: The research plan includes collaboration with experts in relevant fields, ensuring that we have the necessary expertise to execute the research successfully. Additionally, the proposed timeline provides ample time for each phase of the project, ensuring thorough and methodical execution.  
-Conclusion: The proposed research, an ambitious undertaking at the intersection of mathematics, biology, and mental health, holds great promise for enhancing our understanding of schizophrenia and the potential natural antidepressants found in grapes. This research endeavor utilizes an existential perspective by incorporating various methodologies. Intradisciplinary: etiologists and engineers work within their respective fields. Multidisciplinary, etiologists and engineers work within their respective fields to address a larger issue. Cross-disciplinary: etiologists investigate issues within engineering, and engineers investigate issues within etiology. Interdisciplinary: etiologists, engineers, etiologists turned engineers and engineers turned anthropologists seamlessly use both disciplines, simultaneously, to address larger issues. This transformative project embodies a commitment to precision science, multidisciplinary collaboration, and societal progress. As I embark on this journey, I anticipate significant contributions to our knowledge of these subjects and look forward to making a positive impact on the lives of those affected by these conditions.  
-
-References: (1) Zueva, M. V. (2015). Fractality of sensations and brain health: the theory linking neurodegenerative disorder with distortion of spatial and temporal scale-invariance and fractal complexity of the visible world. Front. Aging Neurosci, 7, 135. (2) Hancock, F. (2023). Metastability as a candidate neuromechanistic biomarker of schizophrenia pathology. PLoS One, 18(3), e0282707. (3) Regenbogen, C. (2015). The differential contribution of facial expressions, prosody, and speech content to empathy. Cognition and Emotion, 29(6), 1045-1056. (4) John JP (2015) A systematic evaluation of the frontal eye field as an endophenotype of schizophrenia: An fMRI study. Schizophrenia Research, 165(1), 79-84. (5) Mandelbrot, B. B. (1982). The Fractal Geometry of Nature. W. H. Freeman. (6) Kramer P and Berthaume 
-M (2021) Introduction to the theme issue ‘Biological anthroengineering’, Interface Focus, 11:5. (7) Brown, R. E., & White, D. (2020). Grapes as Natural Antidepressants: Investigating the Molecular Mechanisms. Journal of Nutritional Neuroscience, 35(4), 287-299. 
 
 }
  
@@ -64,37 +47,13 @@ M (2021) Introduction to the theme issue ‘Biological anthroengineering’, Int
 
 Purpose: To Help Yahriel Fill The Prompt
 { 
-    [KNOW THE FULBRIGHT PROPOSAL: https://github.com/yahriels/yahriels/blob/main/Yahriel_Fulbright_Application.pdf]
 
-Yahriel is being interviewed, help Yahriel prepare and produce responses for the interview questions he may be asked by experts in the scientific research field.
-
-Produce various in-depth questions to simulate an interview for Yahriel, then produce Yahriel's response for each question. 
-}
-
-[Template] Yahriel's Response:
-{
 
 }
 
 
 Prompt: Rewrite and Enhance Yahriel's Response
 {
-    [KNOW THE FULBRIGHT PROPOSAL: https://github.com/yahriels/yahriels/blob/main/Yahriel_Fulbright_Application.pdf]
-
-Dear  Yahriel, 
-
-On behalf of COMEXUS, the Mexico-U.S. Commission for Educational and Cultural Exchange, I would like to congratulate you on passing to the interview stage of 
-
-Fulbright-Garcia Robles Grant selection process for the U.S. Student Researcher program.
-
-It is extremely important that you read this email carefully and in its entirety. 
-
-
-You will be interviewed via Zoom by a panel of experts in your field for approximately 20 minutes. Questions are not fixed and can apply to anything related to your project, your support of the Fulbright mission, your personal interest in Mexico, and your professional/academic experience.
-
-----
-Produce various in-depth questions to simulate an interview for Yahriel, then produce Yahriel's response for each question. 
-
  
 }
 
