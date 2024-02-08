@@ -1,48 +1,4 @@
-FULBRIGHT-NATIONAL GEOGRAPHIC AWARD PROGRAM
-
-Description
-We are pleased to invite you to apply for the Fulbright-National Geographic Award Program based on your status as a semi-finalist for the Fulbright U.S. Student Program.
-
-The Fulbright Program and the National Geographic Society have partnered to provide a unique Fulbright opportunity, the Fulbright-National Geographic Award Program. This award makes additional funding and resources available to enhance the reach and impact of the Fulbright experience.
-
-Fulbright U.S. Student Program applicants may apply for the Fulbright-National Geographic Award Program and propose up to $20,000 in additional grant funds from the National Geographic Society to expand their research and/or help bring their stories to life and, if selected, join the National Geographic Explorer community.
-Instructions
-You will apply using the National Geographic Society Level I grant application template, which allows you to propose up to $20,000 in grant funds from the Society to help deepen the impact of your work and, if selected, join the National Geographic Explorer community.
-
-
-
-The National Geographic Society’s Grants Program provides seed funding and support to early career individuals, as well as those more advanced in their careers, who are working to address critical challenges, advance new solutions, and inspire positive transformation across all seven continents. Funded projects must align with one or more of the Society’s five focus areas: Ocean, Land, Wildlife, Human Histories & Cultures, and Human Ingenuity. 
-
-
-
-
-We strongly recommend that you review the following materials before submitting your application:
-
-Full Application Template - Level I Grants: https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20Level%20I%20Application%20Sample.pdf
-Grants Program Overview: https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20-%202022%20Overview.pdf
-Budget Guidelines: https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20Budget%20Guidelines.pdf
-Explorer Mindset & Code: https://www.nationalgeographic.org/society/our-explorers/
-Code of Ethics: https://www.nationalgeographic.org/society/code-of-ethics/
-
-Statement of Grant Purpose
-Yahriel Salinas-Reyes, Host Country: Mexico, Field: Molecular & Systems Bioengineering
-Project Title: Unraveling the Molecular Code of Natural Antidepressants in Grapes
-This research adopts a multifaceted approach to unravel the complexities of schizophrenia, a debilitating and chronic mental disorder characterized by symptoms such as delusions, hallucinations, disorganized speech, and cognitive deficits. At the heart of schizophrenia's enduring enigma are Bleuler's four A's: Alogia, Autism, Ambivalence, and Affect blunting. Extensive research has explored the etiology of schizophrenia, leading to the emergence of three prominent theories: genetic, neurodevelopmental, and neurobiological. Each theory offers a distinct perspective on the origins of this complex disorder, making it challenging to pinpoint a single causative factor. Nonetheless, neurobiological theory has gained prominence due to its comprehensive approach, explaining schizophrenia as a result of abnormal brain dysfunctions or structural anomalies. This theory stands on solid scientific ground, holds promise in guiding treatment strategies, transcends cultural and demographic boundaries, and raises fewer ethical concerns compared to alternative theories. Structural and functional abnormalities in key brain systems (i.e., the prefrontal & medial temporal lobes) play a pivotal role in the manifestation of schizophrenia symptoms that are integral to working memory and declarative memory processes. The disrupted functioning contributes to cognitive impairments and emotional dysregulation in individuals with schizophrenia. In the quest to understand schizophrenia, neuroplasticity—the brain's remarkable capacity to adapt and reorganize itself in 
-Nature’s Chaos Game: An Existentialist Approach 
-Informed by Mathematics and Neurobiology 
-Research Plan: My research hinges on a robust mathematical framework, critical for analyzing intricate data derived from both scientific pursuits. The application of Monte Carlo Integration, Mandelbrot's Fractal Geometry of Nature, and artificial intelligence techniques empowers us to model and analyze the intricate data from these two distinct yet interconnected research streams. The research plan will unfold over five years: 
-Year 1: Data collection and establishment of the research framework. 
-Year 2: Neuroimaging and genetic data analysis. 
-Year 3: Development of mathematical models. 
-Year 4: Validation of models and refinement of findings.  
-Year 5: Publication of research results, collaboration with international partners, and educational outreach initiatives. 
-Conclusion: The proposed research, an ambitious undertaking at the intersection of mathematics, biology, and mental health, holds great promise for enhancing our understanding of schizophrenia and the potential natural antidepressants found in grapes. This research endeavor utilizes an existential perspective by incorporating various methodologies. Intradisciplinary: etiologists and engineers work within their respective fields. Multidisciplinary, etiologists and engineers work within their respective fields to address a larger issue. Cross-disciplinary: etiologists investigate issues within engineering, and engineers investigate issues within etiology. Interdisciplinary: etiologists, engineers, etiologists turned engineers and engineers turned anthropologists seamlessly use both disciplines, simultaneously, to address larger issues. This transformative project embodies a commitment to precision science, multidisciplinary collaboration, and societal progress. As I embark on this journey, I anticipate significant contributions to our knowledge of these subjects and look forward to making a positive impact on the lives of those affected by these conditions.  
-
-References: (1) Zueva, M. V. (2015). Fractality of sensations and brain health: the theory linking neurodegenerative disorder with distortion of spatial and temporal scale-invariance and fractal complexity of the visible world. Front. Aging Neurosci, 7, 135. (2) Hancock, F. (2023). Metastability as a candidate neuromechanistic biomarker of schizophrenia pathology. PLoS One, 18(3), e0282707. (3) Regenbogen, C. (2015). The differential contribution of facial expressions, prosody, and speech content to empathy. Cognition and Emotion, 29(6), 1045-1056. (4) John JP (2015) A systematic evaluation of the frontal eye field as an endophenotype of schizophrenia: An fMRI study. Schizophrenia Research, 165(1), 79-84. (5) Mandelbrot, B. B. (1982). The Fractal Geometry of Nature. W. H. Freeman. (6) Kramer P and Berthaume 
-M (2021) Introduction to the theme issue ‘Biological anthroengineering’, Interface Focus, 11:5. (7) Brown, R. E., & White, D. (2020). Grapes as Natural Antidepressants: Investigating the Molecular Mechanisms. Journal of Nutritional Neuroscience, 35(4), 287-299. 
-
-
-Help Yahriel Salinas Answer The Prompt, Review The Response, Provide Feedback, Make Corrections, Enhance, and Finalize Yahriel's Best Response For To Prompt..
+Help Yahriel Answer The Prompt, Review The Response, Provide Feedback, Make Corrections, Enhance, and Finalize Yahriel's Best Response For To Prompt..
 
 Yahriel is the MASTER User: 
 {
@@ -64,20 +20,6 @@ Supplementary Materials: https://github.com/yahriels/yahriels/blob/main/Workspac
 
 
 [KNOW THE FULBRIGHT PROPOSAL: https://github.com/yahriels/yahriels/blob/main/Yahriel_Fulbright_Application.pdf]
-
-
-NATGEO:
-{
-https://github.com/yahriels/yahriels/blob/main/YSR_Writing_Sample.pdf
-https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20-%202022%20Overview.pdf
-https://github.com/yahriels/yahriels/blob/main/Fulbright-National_Geographic_Affiliation_Letter.pdf
-https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20Budget%20Guidelines.pdf
-https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20Level%20I%20Application%20Sample.pdf
-https://github.com/yahriels/yahriels/blob/main/NATGEO_Fulbright__Draft.pdf
-https://github.com/yahriels/yahriels/blob/main/Workspace/lib/NATGEO.txt
-https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Lib_Dummy.txt
-https://github.com/yahriels/yahriels/blob/main/Workspace/lib/dummy.txt
-}
 
 
 
@@ -104,14 +46,49 @@ https://github.com/yahriels/yahriels/blob/main/Workspace/lib/dummy.txt
 }
 
 
+
 }
  
 [KNOW THE FULBRIGHT PROPOSAL: https://github.com/yahriels/yahriels/blob/main/Yahriel_Fulbright_Application.pdf]
 
 Purpose: To Help Yahriel Fill The Prompt
 { 
+TO Fill in these prompts
 
+> *Title of Project: Short, descriptive and free of jargon.
+> 250 Character Limit.
 
+> *Brief Project Summary: In a few sentences, briefly describe your project as if you are speaking with a stranger at a party, avoiding jargon. Summarize your goal, and explain why your project is important, exciting, and/or novel. 1500 Characters Limit.
+> 
+
+>*Describe the skills of your team members, and tell us why they are necessary to the success of your project. Please provide no more than two sentences per team member. Successful proposals will include details about local collaborators, a requirement for projects conducted outside of your country of primary residency. 2000 Characters Limit.
+>
+
+> *Do you or your Team Members already have any media commitments or interest for this project? This includes media commitments already held by your home institution or other funding bodies. 2000 Characters Limit.
+>
+
+>*In one or two paragraphs, please describe what skills, attributes, and/or experiences make you uniquely qualified to implement this project. Please include any relevant information not in your CV that you wish to share. 1500 Characters Limit.
+> 
+
+> *In one or two paragraphs, please describe your career goals over the next 5 years and tell us how receiving a grant from National Geographic will help you achieve them. 4000 Characters Limit.
+>
+
+> *Background: In one or two paragraphs, please provide background information and context about the issue your project will address. What is unique or important about your project, and how is it different from previous work on this topic? Include relevant citations in the Works Cited section below. 4000 Characters Limit.
+
+> *Objectives: Please provide a bulleted or numbered list of the objective(s) of your project with a short description of each, and how progress towards each objective will be measured. Objectives should be SMART: specific, measurable, achievable, realistic, and time-bound. 2000 Characters Limit.
+>
+
+> *Methods: In one or two paragraphs, please provide a timeline and description of the activities, methods, tools, and/or storytelling coverage plan you will implement. Explain why you think these are likely to achieve your objectives, and describe any potential ethical or safety risks to your project and how you will mitigate them. 6000 Characters Limit.
+> 
+
+>Communication and Engagement: In a few sentences, please briefly describe your stakeholders, how they are involved in the project, and whether you have existing media or dissemination plans with any of them. We define stakeholders as anyone impacted by your work, such as local communities, professional networks, public/private sector, media outlets, students, or audiences. To help us evaluate the outreach component of your proposal, please add links to any websites, social media accounts, public engagement platforms, or other mechanisms you will use to engage your stakeholders. 4000 Characters Limit.
+> 
+
+> *Results and Impact: Describe all of the expected results of this project, its predicted impacts, and what success means for each stakeholder. Results are defined as the deliverables that will be created during this project, e.g., academic/white papers, photographs, lesson plans, etc. Impact is defined as the specific changes you hope to achieve, e.g., behavior change, greater understanding of an issue, improved management of a resource, etc. 2000 Characters Limit.
+>
+
+> *Works Cited: Include any bibliographic information that supports the research, educational, or scientific evidence or stories you cite in this application. Storytelling applicants should include a link to their portfolios. 4000 Characters Limit.
+>
 
 }
 
@@ -121,57 +98,44 @@ Prompt: Rewrite and Enhance Yahriel's Response
 
 
 FULBRIGHT-NATIONAL GEOGRAPHIC AWARD PROGRAM
-Project Description  Project Leader Information  Project Details  Budget Details  Other Funding Sources  Attachments  Ethical Certification  
 
-*Title of Project: Short, descriptive and free of jargon.
-> 
+Description
+Yahriel, We are pleased to invite you to apply for the Fulbright-National Geographic Award Program based on your status as a semi-finalist for the Fulbright U.S. Student Program.
+The National Geographic Society’s Grants Program provides seed funding and support to early career individuals, as well as those more advanced in their careers, who are working to address critical challenges, advance new solutions, and inspire positive transformation across all seven continents. Funded projects must align with one or more of the Society’s five focus areas: Ocean, Land, Wildlife, Human Histories & Cultures, and Human Ingenuity. 
+
+We strongly recommend that you review the following materials before submitting your application:
+
+Full Application Template - Level I Grants: https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20Level%20I%20Application%20Sample.pdf
+Grants Program Overview: https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20-%202022%20Overview.pdf
+Budget Guidelines: https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20Budget%20Guidelines.pdf
+Explorer Mindset & Code: https://www.nationalgeographic.org/society/our-explorers/
+Code of Ethics: https://www.nationalgeographic.org/society/code-of-ethics/
+
+
+FULBRIGHT-NATIONAL GEOGRAPHIC AWARD PROGRAM
 
 *Project Start Date
 08/01/2024
-
-Fieldwork Start Date
-08/08/2024
-
-Fieldwork End Date
-08/01/2025
-
 *Project End Date 
 08/31/2025
-
 *Primary Fieldwork Location Country or Area
 Mexico
-
-Fieldwork Latitude
-25.686613
-
-*Fieldwork Longitude
--100.316116
-
 *The primary focus area of your project is:
 Human Ingenuity
-
 The secondary focus area of your project is:
 Human Histories & Cultures
-
 *The primary focus of your project is:
 Research
-
 The secondary focus of your project (if applicable) is:
-Storytelling
-
+Storytelling, Technolgy
 *What is the Discipline/Field of Study for the project? You may choose more than one from this list, as applicable. Chosen: 
 Anatomy & Morphology
 Audiology & Speech-Language Pathology
 Behavioral Sciences
-Computer Science, Information Systems
 Computer Science, Interdisciplinary Applications
 Developmental Biology
 Engineering, Multidisciplinary
-Ethnic Studies
-Green & Sustainable  Science & Technology
-Humanities
 Multidisciplinary
-Imaging Science & Photographic Technology
 Multidisciplinary Sciences
 Neurosciences
 Nutrition & Dietetics
@@ -179,29 +143,12 @@ Physics, Applied
 Physiology
 Psychology
 Psychology, Biological
-Psychology, Social
-Social Sciences, Interdisciplinary
 Sociology
 Statistics & Probability
-Thermodynamics
-
 If applicable discipline/s to your project are not on the list above, please enter them below:
-Molecular & Systems Bioengineering, Applied Mathematics, Anthropology-Engineering, Computational Precision Health, Computational & Mathematical Sciences, Global Public Health, Artificial Intelligence, Mental Health Innovation
-
-*Brief Project Summary: In a few sentences, briefly describe your project as if you are speaking with a stranger at a party, avoiding jargon. Summarize your goal, and explain why your project is important, exciting, and/or novel.
-[Insert Summary]
-16 of 1500 Characters
-> 
-
-*Total Project Budget: This amount should reflect the total scope of the project, including the amount requested from National Geographic Society and all other funding sources.
-20,000
-
+Molecular & Systems Bioengineering, Applied Mathematics, Anthropology-Engineering, Computational & Mathematical Sciences, Global Public Health, Artificial Intelligence, Mental Health Innovation
 Project Leader Name
 Yahriel Salinas-Reyes
-
-Salutation
-Mr.
-
 Please choose up to three countries where you claim citizenship below. Click the magnifying glass icon to the right of the field, search for and select your location from the pre-defined list of countries/regions.
 *Country or Area of Primary Citizenship
 United States
@@ -211,90 +158,28 @@ Country or Area of Citizenship #3
 El Salvador
 *Country of Primary Residency
 United States
-
-*If you are a citizen or resident of the United States, please indicate your race/ethnicity.
-Hispanic, Latino, or Spanish origin
-
 *Date of Birth
 11/11/2000
-
 *Gender Identity
 Male
-
 *Current Position or Job Title
-Aerospace Engineering Researcher and Data Scientist
-
+Aerospace Engineer
 Current Institution/Organization Affiliation
 Iowa State University
-
 *Primary Language
 English
-
 Chosen
 Spanish
-
-
 *Highest Degree Awarded
 B.S.
-
 *Department/Major
 Aerospace Engineering
-
 *Year Awarded
 2023
-
 *School
 Iowa State University
-
-*Describe the skills of your team members, and tell us why they are necessary to the success of your project. Please provide no more than two sentences per team member. Successful proposals will include details about local collaborators, a requirement for projects conducted outside of your country of primary residency.
-[Insert]
-8 of 2000 Characters
->
-
-*Do you or your Team Members already have any media commitments or interest for this project? This includes media commitments already held by your home institution or other funding bodies.
-[Insert]
-8 of 2000 Characters
->
-
-*In one or two paragraphs, please describe what skills, attributes, and/or experiences make you uniquely qualified to implement this project. Please include any relevant information not in your CV that you wish to share.
-[Insert]
-8 of 1500 Characters
->
-
-*In one or two paragraphs, please describe your career goals over the next 5 years and tell us how receiving a grant from National Geographic will help you achieve them.
-[Insert]
-8 of 4000 Characters
->
-
-*Background: In one or two paragraphs, please provide background information and context about the issue your project will address. What is unique or important about your project, and how is it different from previous work on this topic? Include relevant citations in the Works Cited section below.
-[Insert]
-8 of 4000 Characters
->
-
-*Objectives: Please provide a bulleted or numbered list of the objective(s) of your project with a short description of each, and how progress towards each objective will be measured. Objectives should be SMART: specific, measurable, achievable, realistic, and time-bound.
-[Insert]
-8 of 4000 Characters
->
-
-*Methods: In one or two paragraphs, please provide a timeline and description of the activities, methods, tools, and/or storytelling coverage plan you will implement. Explain why you think these are likely to achieve your objectives, and describe any potential ethical or safety risks to your project and how you will mitigate them.
-[Insert]
-8 of 4000 Characters
->
-
-Communication and Engagement: In a few sentences, please briefly describe your stakeholders, how they are involved in the project, and whether you have existing media or dissemination plans with any of them. We define stakeholders as anyone impacted by your work, such as local communities, professional networks, public/private sector, media outlets, students, or audiences. To help us evaluate the outreach component of your proposal, please add links to any websites, social media accounts, public engagement platforms, or other mechanisms you will use to engage your stakeholders.
-[Insert]
-8 of 4000 Characters
->
-
-*Results and Impact: Describe all of the expected results of this project, its predicted impacts, and what success means for each stakeholder. Results are defined as the deliverables that will be created during this project, e.g., academic/white papers, photographs, lesson plans, etc. Impact is defined as the specific changes you hope to achieve, e.g., behavior change, greater understanding of an issue, improved management of a resource, etc.
-[Insert]
-8 of 4000 Characters
->
-
-*Works Cited: Include any bibliographic information that supports the research, educational, or scientific evidence or stories you cite in this application. Storytelling applicants should include a link to their portfolios.
-[Insert]
-8 of 4000 Characters
->
+*Total Project Budget: This amount should reflect the total scope of the project, including the amount requested from National Geographic Society and all other funding sources.
+$20,000
 
 }
 
@@ -319,20 +204,6 @@ Yahriel Relevant: https://github.com/yahriels/yahriels/blob/main/%5B3%5DY.Salina
 Yahriel Workspace Profile: https://github.com/yahriels/yahriels/blob/main/Workspace/Yahriel_Profile.txt
 Supplementary Materials: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Supplementary_Materials.txt
 }
-
-NATGEO:
-{
-https://github.com/yahriels/yahriels/blob/main/YSR_Writing_Sample.pdf
-https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20-%202022%20Overview.pdf
-https://github.com/yahriels/yahriels/blob/main/Fulbright-National_Geographic_Affiliation_Letter.pdf
-https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20Budget%20Guidelines.pdf
-https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20Level%20I%20Application%20Sample.pdf
-https://github.com/yahriels/yahriels/blob/main/NATGEO_Fulbright__Draft.pdf
-https://github.com/yahriels/yahriels/blob/main/Workspace/lib/NATGEO.txt
-https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Lib_Dummy.txt
-https://github.com/yahriels/yahriels/blob/main/Workspace/lib/dummy.txt
-}
-
 
 
 SAMPLES: 
@@ -429,21 +300,6 @@ Review Criteria Details:
 Read all materials (a few times, without distractions). Prepare a task list with deadlines to perform the Executive Tasks then 
 complete the tasks. Understand how application components and each item requested relate to 
 the review criteria. 
-
-WHAT WE LOOK FOR: Evidence of exceptional creativity, broad 
-understanding of physical principles, and outstanding potential for innovative research is 
-expected. Applicants are screened for qualities we believe are essential ingredients of future 
-professional accomplishment and/or leading indicators of future professional success. These 
-include: Exceptional Intelligence and Creativity with particular emphasis on those aspects 
-pertinent to technical endeavors. Excellent Technical Education evidenced not only by transcripts 
-and reference reports from senior technical professionals, but also through an in-person, 
-technical interview. Orientation and Commitment to the applications of the physical sciences as 
-is typical of most applicants. Extraordinary Accomplishment in technical or related professional 
-studies which may offset slightly lower academic records or add luster to outstanding ones. 
-High moral and ethical values. Leverage demonstration of the difference the award of the
-Fellowship is likely to make in the kind, quality, and/or personal creativity of the student's 
-graduate research.
-
 }
 
 Purpose: To Help Yahriel Fill The Prompt
@@ -469,20 +325,6 @@ Before we begin, I want you to fully understand my research project and the cont
 
 SAMPLES:
 {
-NATGEO:
-{
-https://github.com/yahriels/yahriels/blob/main/YSR_Writing_Sample.pdf
-https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20-%202022%20Overview.pdf
-https://github.com/yahriels/yahriels/blob/main/Fulbright-National_Geographic_Affiliation_Letter.pdf
-https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20Budget%20Guidelines.pdf
-https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20Level%20I%20Application%20Sample.pdf
-https://github.com/yahriels/yahriels/blob/main/NATGEO_Fulbright__Draft.pdf
-https://github.com/yahriels/yahriels/blob/main/Workspace/lib/NATGEO.txt
-https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Lib_Dummy.txt
-https://github.com/yahriels/yahriels/blob/main/Workspace/lib/dummy.txt
-}
-
-
 
 README: https://github.com/yahriels/yahriels/blob/main/README.md
 Writing Samples: https://github.com/yahriels/yahriels/blob/main/YSR_Writing_Sample.pdf, https://github.com/yahriels/yahriels/blob/main/CaltechYSRWritingSample.pdf
