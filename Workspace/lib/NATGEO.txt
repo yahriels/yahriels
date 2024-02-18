@@ -40,9 +40,10 @@ Continue
 
 
 FULBRIGHT-NATIONAL GEOGRAPHIC AWARD PROGRAM
-Project Description  Project Leader Information  Project Details  Budget Details  Other Funding Sources  Attachments  Ethical Certification  
 
-*Title of Project: Short, descriptive and free of jargon.
+PROJECT DESCRTIPION
+
+*Title of Project: Short, descriptive and free of jargon. 250 character limit.
 > 
 
 *Project Start Date
@@ -115,6 +116,8 @@ Molecular & Systems Bioengineering, Applied Mathematics, Anthropology-Engineerin
 *Total Project Budget: This amount should reflect the total scope of the project, including the amount requested from National Geographic Society and all other funding sources.
 20,000
 
+PROJECT LEADER INFORMATION
+
 Project Leader Name
 Yahriel Salinas-Reyes
 
@@ -141,7 +144,7 @@ Hispanic, Latino, or Spanish origin
 Male
 
 *Current Position or Job Title
-Aerospace Engineering Researcher and Data Scientist
+Aerospace Engineering and Researcher
 
 Current Institution/Organization Affiliation
 Iowa State University
@@ -185,6 +188,7 @@ Iowa State University
 8 of 4000 Characters
 >
 
+PROJECT DETAILS
 *Background: In one or two paragraphs, please provide background information and context about the issue your project will address. What is unique or important about your project, and how is it different from previous work on this topic? Include relevant citations in the Works Cited section below.
 [Insert]
 8 of 4000 Characters
@@ -215,12 +219,15 @@ Communication and Engagement: In a few sentences, please briefly describe your s
 8 of 4000 Characters
 >
 
+BUDGET DETAILS
+> *Total Project Budget: This amount should reflect the total scope of the project, including the amount requested from National Geographic Society and all other funding sources. You will be asked to provide additional budget information on the Budget Details tab.
+> $ 20,000.00
 
-
-
-
-NATGEOBUDGET
-Please enter the budget information you are requesting from NGS below, fitting items as closely as possible into the categories provided. To begin, click Generate Budget (the approximate start and end dates for your project are pre-filled). Utilize the comments field to elaborate on each entry, as requested per the guidelines. If you are not requesting funds for a particular budget category, please leave the field blank. Enter all amounts rounded to the nearest US dollar, with no punctuation or symbols (example: 5200).
+BUDGET DETAILS
+Budget Details
+> *Total Project Budget: This amount should reflect the total scope of the project, including the amount requested from National Geographic Society and all other funding sources. You will be asked to provide additional budget information on the Budget Details tab.
+> $ 20,000.00
+Here's a template for your budget that's easier to read and use. I've organized the categories and items more clearly, and I've added comments to guide you on what to enter in each field. You can customize the comments further based on your specific project needs:
 
 Budget
 Parent Category
@@ -228,60 +235,163 @@ Grantee Budget Category
 2024
 Total
 Justification
-Travel	Airfare	
-> #.##
-> $#.##	
-> [Insert]
-Travel	Vehicle Rental and Maintenance	
-> #.##
-> $#.##	
-> [Insert]
-Travel	Other Transportation	
-> #.##
-> $#.##	
-> [Insert]
-Lodging/Food	Lodging	
-> #.##
-> $#.##	 
-> [Insert]
-Lodging/Food	Food	
-> #.##
-> $#.##	
-> [Insert]
-Equipment/Lab	Equipment & Supplies	
-> #.##
-> $#.##	
-> [Insert]
-Equipment/Lab	Laboratory Costs	
-> #.##
-> $#.##	
-> [Insert]
-Equipment/Lab	Laboratory Tests	
-> #.##
-> $#.##	
-> [Insert]
-Compensation	Applicant and Team Members Compensation	
-> #.##
-> $#.##	
-> [Insert]
-Compensation	Assistants and Consultants Compensation	
-> #.##
-> $#.##	
-> [Insert]
-Evaluation	Measurement and Evaluation	
-> #.##
-> $#.##	
-> [Insert]
-Other	Institutional Overhead	
-> #.##
-> $#.##	
-> [Insert]
-Other	Dependent Care	
-> #.##
-> $#.##	
-[Insert]
-Other	Miscellaneous	
-> #.##
-> $#.##	
-> [Insert]
-SubTotal	$#.##		$#.##	
+
+Travel
+Airfare
+$#.##
+$#.##
+[Insert explanation of airfare costs]
+
+Vehicle Rental and Maintenance
+$#.##
+$#.##
+[Insert explanation of vehicle rental and maintenance costs]
+
+Other Transportation
+$#.##
+$#.##
+[Insert explanation of other transportation costs]
+
+Lodging/Food
+Lodging
+$#.##
+$#.##
+[Insert explanation of lodging costs]
+
+Food
+$#.##
+$#.##
+[Insert explanation of food costs]
+
+Equipment/Lab
+Equipment & Supplies
+$#.##
+$#.##
+[Insert explanation of equipment and supplies costs]
+
+Laboratory Costs
+$#.##
+$#.##
+[Insert explanation of laboratory costs]
+
+Laboratory Tests
+$#.##
+$#.##
+[Insert explanation of laboratory tests costs]
+
+Compensation
+Applicant and Team Members Compensation
+$#.##
+$#.##
+[Insert explanation of applicant and team members compensation costs]
+
+Assistants and Consultants Compensation
+$#.##
+$#.##
+[Insert explanation of assistants and consultants compensation costs]
+
+Evaluation
+Measurement and Evaluation
+$#.##
+$#.##
+[Insert explanation of measurement and evaluation costs]
+
+Other
+Institutional Overhead
+$#.##
+$#.##
+[Insert explanation of institutional overhead costs]
+
+Dependent Care
+$#.##
+$#.##
+[Insert explanation of dependent care costs]
+
+Miscellaneous
+$#.##
+$#.##
+[Insert explanation of miscellaneous costs]
+
+SubTotal
+$#.##
+$#.##
+[Insert subtotal calculation]
+
+Here's a template for your budget that's easier to read and use. I've formatted it with clearer headings and sections, and added some examples for better understanding. Feel free to adjust the formatting and content as needed for your specific project:
+NATGEOBUDGET
+
+Budget Information:
+> *Total Project Budget: This amount should reflect the total scope of the project, including the amount requested from National Geographic Society and all other funding sources. You will be asked to provide additional budget information on the Budget Details tab.
+> $ 20,000.00
+- Please enter the budget information you are requesting from NGS below, fitting items as closely as possible into the categories provided.
+- To begin, click Generate Budget (the approximate start and end dates for your project are pre-filled).
+- Utilize the comments field to elaborate on each entry, as requested per the guidelines.
+- If you are not requesting funds for a particular budget category, please leave the field blank.
+- Enter all amounts rounded to the nearest US dollar, with no punctuation or symbols (example: 5200).
+
+Budget Categories:
+
+1. Travel:
+   - Airfare: 
+     - Amount: #.## (Example: 1500)
+     - Justification: [Insert justification here]
+   - Vehicle Rental and Maintenance:
+     - Amount: #.## (Example: 800)
+     - Justification: [Insert justification here]
+   - Other Transportation:
+     - Amount: #.## (Example: 500)
+     - Justification: [Insert justification here]
+
+2. Lodging/Food:
+   - Lodging:
+     - Amount: #.## (Example: 1200)
+     - Justification: [Insert justification here]
+   - Food:
+     - Amount: #.## (Example: 700)
+     - Justification: [Insert justification here]
+
+3. Equipment/Lab:
+   - Equipment & Supplies:
+     - Amount: #.## (Example: 2000)
+     - Justification: [Insert justification here]
+   - Laboratory Costs:
+     - Amount: #.## (Example: 1500)
+     - Justification: [Insert justification here]
+   - Laboratory Tests:
+     - Amount: #.## (Example: 1000)
+     - Justification: [Insert justification here]
+
+4. Compensation:
+   - Applicant and Team Members Compensation:
+     - Amount: #.## (Example: 3000)
+     - Justification: [Insert justification here]
+   - Assistants and Consultants Compensation:
+     - Amount: #.## (Example: 2000)
+     - Justification: [Insert justification here]
+
+5. Evaluation:
+   - Measurement and Evaluation:
+     - Amount: #.## (Example: 1500)
+     - Justification: [Insert justification here]
+
+6. Other:
+   - Institutional Overhead:
+     - Amount: #.## (Example: 1000)
+     - Justification: [Insert justification here]
+   - Dependent Care:
+     - Amount: #.## (Example: 500)
+     - Justification: [Insert justification here]
+   - Miscellaneous:
+     - Amount: #.## (Example: 800)
+     - Justification: [Insert justification here]
+
+SubTotal: $#.## Total: $#.##
+Replace #.## with your actual budget amounts and [Insert justification here] with your specific justifications for each item. Adjust the categories and sections as needed for your project.
+> *Total Project Budget: This amount should reflect the total scope of the project, including the amount requested from National Geographic Society and all other funding sources. You will be asked to provide additional budget information on the Budget Details tab.
+> $ 20,000.00
+
+
+
+
+
+
