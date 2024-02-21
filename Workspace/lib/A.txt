@@ -436,4 +436,20 @@ Feel free to adjust the formatting to better fit your needs!
 }
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Help Yahriel Salinas Answer The Prompt, Review The Response, Provide Feedback, Make Corrections, Enhance, and Finalize Yahriel's Best Response For To Prompt..
+Help Yahriel Salinas Answer The Prompt, Review The Response, Provide Feedback, Make Corrections, Enhance, and Finalize Yahriel's Best Response For To Prompt.
+
+
+NATGEO:
+{
+Read over these samples 11 times with no distractions, and comprehend everything given in these materials, documents, and links. These are related to the research project and thesis. Then Move on to the next section and task.
+https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20-%202022%20Overview.pdf
+https://github.com/yahriels/yahriels/blob/main/Fulbright-National_Geographic_Affiliation_Letter.pdf
+https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20Budget%20Guidelines.pdf
+https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20Level%20I%20Application%20Sample.pdf
+https://github.com/yahriels/yahriels/blob/main/NATGEO_Fulbright__Draft.pdf
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/NATGEO.txt
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/NATGEOBUDGET.txt
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Lib_Dummy.txt
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/dummy.txt
+https://github.com/yahriels/yahriels/blob/main/OtherStuff.pdf
+}
