@@ -1,0 +1,439 @@
+Yahriel is generating a budget with a total project budget of $20,000 for a grant period of one year at Monterrey, Nuevo León, México in a partnership Partnership with Dr. José González-Valdez Director of Outreach and Research Diplomacy, School of Engineering and Sciences, Tecnológico de Monterrey, Campus Monterrey, at Tecnológico de Monterrey, in the Molecular and Systems Bioengineering Research Group and the FEMSA Biotechnology Center. Tecnológico de Monterrey stands ready to provide Yahriel with the resources, mentorship, and collaborative environment he deserves to excel in his chosen path and with the mission of the Fulbright-National Geographic Program and National Geographic Society. Together, we shall forge connections, advance knowledge, and safeguard the wonders of our world.
+
+PERFORM CALCULATIONS AND FILL IN THE BUDGET TEMPLATE WITH NUMBER AND DOLLAR AMOUNTS, AS WELL AS JUSTIFICAITON FOR FUNDING.
+Here's a template for your budget that is easier to read and use. You can fill in the specific amounts and justifications for each category.
+## Budget
+
+### Travel
+| Parent Category | Grantee Budget Category | 2024 Total | Justification |
+|-----------------|-------------------------|------------|---------------|
+| Travel          | Airfare                 | $__.##     | [Insert]      |
+| Travel          | Vehicle Rental and Maintenance | $__.## | [Insert] |
+| Travel          | Other Transportation    | $__.##     | [Insert]      |
+
+### Lodging/Food
+| Parent Category | Grantee Budget Category | 2024 Total | Justification |
+|-----------------|-------------------------|------------|---------------|
+| Lodging/Food    | Lodging                 | $__.##     | [Insert]      |
+| Lodging/Food    | Food                    | $__.##     | [Insert]      |
+
+### Equipment/Lab
+| Parent Category | Grantee Budget Category | 2024 Total | Justification |
+|-----------------|-------------------------|------------|---------------|
+| Equipment/Lab   | Equipment & Supplies    | $__.##     | [Insert]      |
+| Equipment/Lab   | Laboratory Costs        | $__.##     | [Insert]      |
+| Equipment/Lab   | Laboratory Tests        | $__.##     | [Insert]      |
+
+### Compensation
+| Parent Category | Grantee Budget Category | 2024 Total | Justification |
+|-----------------|-------------------------|------------|---------------|
+| Compensation    | Applicant and Team Members Compensation | $__.## | [Insert] |
+| Compensation    | Assistants and Consultants Compensation | $__.## | [Insert] |
+
+### Evaluation
+| Parent Category | Grantee Budget Category | 2024 Total | Justification |
+|-----------------|-------------------------|------------|---------------|
+| Evaluation      | Measurement and Evaluation | $__.##  | [Insert]      |
+
+### Other
+| Parent Category | Grantee Budget Category | 2024 Total | Justification |
+|-----------------|-------------------------|------------|---------------|
+| Other           | Institutional Overhead   | $__.##     | [Insert]      |
+| Other           | Dependent Care           | $__.##     | [Insert]      |
+| Other           | Miscellaneous            | $__.##     | [Insert]      |
+
+### SubTotal
+| 2024 Total |  | $__.## | $__.## |
+Replace $__.## with your actual amounts and provide the appropriate justifications in the "Justification" column. This format should make it easier to fill in and read your budget information.
+
+--------
+
+Help Yahriel Answer The Prompt, Review The Response, Provide Feedback, Make Corrections, Enhance, and Finalize Yahriel's Best Response For To Prompt..
+
+Yahriel is the MASTER User: 
+{
+Master: https://github.com/yahriels/yahriels/blob/main/Workspace/Master.txt
+README: https://github.com/yahriels/yahriels/blob/main/README.md
+Main: https://github.com/yahriels/yahriels/tree/main 
+Workspace: https://github.com/yahriels/yahriels/tree/main/Workspace
+Library: https://github.com/yahriels/yahriels/tree/main/Workspace/lib
+Page: https://github.com/yahriels/yahriels/blob/main/page.html
+Yahriel Profile: https://github.com/yahriels/yahriels/blob/main/%5B0%5DY.Salinas-Reyes_Profile.pdf
+Yahriel Statements: https://github.com/yahriels/yahriels/blob/main/%5B2%5DY.Salinas-Reyes_Statements.pdf
+Yahriel Relevant: https://github.com/yahriels/yahriels/blob/main/%5B3%5DY.Salinas-Reyes_Relevant.pdf
+Yahriel Workspace Profile: https://github.com/yahriels/yahriels/blob/main/Workspace/Yahriel_Profile.txt
+Supplementary Materials: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Supplementary_Materials.txt
+}
+
+
+[KNOW THE FULBRIGHT-NATIONAL GEOGRAPHIC PROPOSAL: https://github.com/yahriels/yahriels/blob/main/OtherStuff.pdf, https://github.com/yahriels/yahriels/blob/main/Yahriel_Fulbright_Application.pdf, https://github.com/yahriels/yahriels/blob/main/Related_Works.pdf]
+
+SAMPLES: 
+{ 
+Read over these samples 11 times with no distractions, and comprehend everything given in these materials, documents, and links. These are related to the research project and thesis. Then Move on to the next section and task.
+https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20-%202022%20Overview.pdf
+https://github.com/yahriels/yahriels/blob/main/Fulbright-National_Geographic_Affiliation_Letter.pdf
+https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20Budget%20Guidelines.pdf
+https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20Level%20I%20Application%20Sample.pdf
+[KNOW THIS DOCUMENT:https://github.com/yahriels/yahriels/blob/main/NATGEO_Fulbright__Draft.pdf, https://github.com/yahriels/yahriels/blob/main/README.md]
+[KNOW THESE DOCUMENTS: https://github.com/yahriels/yahriels/blob/main/YSR_Writing_Sample.pdf, https://github.com/yahriels/yahriels/blob/main/CaltechYSRWritingSample.pdf]
+[KNOW THESE DOCUMENTS:https://github.com/yahriels/yahriels/blob/main/OtherStuff.pdf, https://github.com/yahriels/yahriels/blob/main/Related_Works.pdf]
+[KNOW THESE DOCUMENTS: https://github.com/yahriels/yahriels/blob/main/Yahriel_GRFP_Application.pdf, https://github.com/yahriels/yahriels/blob/main/Yahriel_DOE_CSGF_Application.pdf, https://github.com/yahriels/yahriels/blob/main/Yahriel_Fulbright_Application.pdf]   
+[KNOW THE FULBRIGHT PROPOSAL: https://github.com/yahriels/yahriels/blob/main/Yahriel_Fulbright_Application.pdf]
+
+
+[Research Abstract]
+Research Title: 
+Unraveling the Neurobiological Landscape of Schizophrenia: A Multidisciplinary Approach Informed by Numbers, Shapes, and Prediction
+Abstract:
+In the realm of advancing neuroscience, public and global health, molecular and biotechnology systems engineering, and biomedical data science and informatics, the enigma of schizophrenia stands as both a challenge and an opportunity for scientific exploration. This proposal seeks to illuminate the intricacies of schizophrenia through a rigorous scientific method, integrating the foundational elements of Numbers, Shapes, and Prediction into the fabric of our investigative framework.
+1. Numbers: Data Capture and Monte Carlo Integration
+2. . Shapes: Mandelbrot Set and Fractal Geometry
+3. Prediction: Dimensional/Spectral Analysis to Understand Causality and Correlation
+In conclusion, our research endeavors to unveil the profound mysteries of schizophrenia through the seamless integration of mathematical modeling and multidisciplinary inquiry. By harnessing the power of Numbers, Shapes, and Prediction, we aim to transcend the boundaries of traditional psychiatric narratives, embarking on a transformative journey toward a deeper comprehension of neuroanatomy, neurodivergence, and the intricate web of neurobiological disorders. This pioneering approach holds the promise of ushering in a new era of precision medicine and enhanced global well-being.
+Yahriel Salinas-Reyes' Fulbright-Garcia Robles Open Study/Research Award
+
+Partnership with Dr. José González-Valdez Director of Outreach and Research Diplomacy, School of Engineering and Sciences, Tecnológico de Monterrey, Campus Monterrey, at Tecnológico de Monterrey, in the Molecular and Systems Bioengineering Research Group and the FEMSA Biotechnology Center. Tecnológico de Monterrey stands ready to provide Yahriel with the resources, mentorship, and collaborative environment he deserves to excel in his chosen path and with the mission of the Fulbright-National Geographic Program and National Geographic Society. Together, we shall forge connections, advance knowledge, and safeguard the wonders of our world.
+Statement of Grant Purpose Monterrey, Nuevo León, México
+Yahriel Salinas-Reyes, Host Country: Mexico, Field: Molecular & Systems Bioengineering
+Fulbright Project: Unraveling the Molecular Code of Natural Antidepressants in Grapes
+Yahriel, and the research team at the university Tecnológico de Monterrey endeavor to decode the molecular secrets of nature to improve the human condition, particularly for individuals affected by schizophrenia and other mental health disorders. Yahriel's work represents a convergence of scientific rigor, interdisciplinary collaboration, and a profound commitment to the betterment of human well-being. Furthermore, this research holds the potential to strengthen international collaborations between the U.S. and Mexico. By conducting research at Tecnológico de Monterrey, Yahriel can contribute to the exchange of knowledge and ideas between the two countries, fostering a stronger global community which reflects the essence of the Fulbright mission, emphasizing mutual understanding and collaboration between nations. 
+References: (1) Zueva, M. V. (2015). Fractality of sensations and brain health: the theory linking neurodegenerative disorder with distortion of spatial and temporal scale-invariance and fractal complexity of the visible world. Front. Aging Neurosci, 7, 135. (2) Hancock, F. (2023). Metastability as a candidate neuromechanistic biomarker of schizophrenia pathology. PLoS One, 18(3), e0282707. (3) Regenbogen, C. (2015). The differential contribution of facial expressions, prosody, and speech content to empathy. Cognition and Emotion, 29(6), 1045-1056. (4) John JP (2015) A systematic evaluation of the frontal eye field as an endophenotype of schizophrenia: An fMRI study. Schizophrenia Research, 165(1), 79-84. (5) Mandelbrot, B. B. (1982). The Fractal Geometry of Nature. W. H. Freeman. (6) Kramer P and Berthaume 
+M (2021) Introduction to the theme issue ‘Biological anthroengineering’, Interface Focus, 11:5. (7) Brown, R. E., & White, D. (2020). Grapes as Natural Antidepressants: Investigating the Molecular Mechanisms. Journal of Nutritional Neuroscience, 35(4), 287-299. 
+
+National Geographic Project: Ancient Maya Engineering: Uncovering the Innovations of a Lost Civilization
+Works Cited:
+Maya Civilization. National Geographic Society, 2012, www.nationalgeographic.org/encyclopedia/maya-civilization/.
+Smith, A. H. The Ancient Maya and Their City of Tulum. National Geographic Society, 2018, www.nationalgeographic.org/article/ancient-maya-and-their-city-tulum/.
+Ancient Maya Engineering Techniques. Maya Research Program, www.mayaresearchprogram.org/mayan-archaeology/ancient-maya-engineering-techniques/.
+Maya Architecture and Engineering. Britannica, www.britannica.com/technology/Maya-architecture-and-engineering.
+
+
+}
+ 
+Purpose: To Help Yahriel Fill The Prompt
+{ 
+
+
+NATGEO:
+{
+Read over these samples 11 times with no distractions, and comprehend everything given in these materials, documents, and links. These are related to the research project and thesis. Then Move on to the next section and task.
+https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20-%202022%20Overview.pdf
+https://github.com/yahriels/yahriels/blob/main/Fulbright-National_Geographic_Affiliation_Letter.pdf
+https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20Budget%20Guidelines.pdf
+https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20Level%20I%20Application%20Sample.pdf
+https://github.com/yahriels/yahriels/blob/main/NATGEO_Fulbright__Draft.pdf
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/NATGEO.txt
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/NATGEOBUDGET.txt
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Lib_Dummy.txt
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/dummy.txt
+https://github.com/yahriels/yahriels/blob/main/OtherStuff.pdf
+}
+
+
+FULBRIGHT-NATIONAL GEOGRAPHIC AWARD PROGRAM
+
+*Project Start Date
+08/01/2024
+*Project End Date 
+08/31/2025
+*Primary Fieldwork Location Country or Area
+Mexico
+*The primary focus area of your project is:
+Human Ingenuity
+The secondary focus area of your project is:
+Human Histories & Cultures
+*The primary focus of your project is:
+Research
+The secondary focus of your project (if applicable) is:
+Storytelling, Technology
+*What is the Discipline/Field of Study for the project? You may choose more than one from this list, as applicable. Chosen: 
+Anatomy & Morphology
+Behavioral Sciences
+Computer Science, Interdisciplinary Applications
+Developmental Biology
+Multidisciplinary Sciences
+Neurosciences
+Nutrition & Dietetics
+Physics, Applied
+Physiology
+Psychology
+Psychology, Biological
+Sociology
+Statistics & Probability
+If applicable discipline/s to your project are not on the list above, please enter them below:
+Molecular & Systems Bioengineering, Applied Mathematics, Anthropology-Engineering, Computational & Mathematical Sciences, Global Public Health, Artificial Intelligence, Mental Health Innovation
+Project Leader Name
+Yahriel Salinas-Reyes
+Please choose up to three countries where you claim citizenship below. Click the magnifying glass icon to the right of the field, search for and select your location from the pre-defined list of countries/regions.
+*Country or Area of Primary Citizenship
+United States
+Country or Area of Citizenship #2
+Mexico
+Country or Area of Citizenship #3
+El Salvador
+*Country of Primary Residency
+United States
+*Date of Birth
+11/11/2000
+*Gender Identity
+Male
+*Current Position or Job Title
+Aerospace Engineer
+Current Institution/Organization Affiliation
+Iowa State University
+*Primary Language
+English
+Chosen
+Spanish
+*Highest Degree Awarded
+B.S.
+*Department/Major
+Aerospace Engineering
+*Year Awarded
+2023
+*School
+Iowa State University
+*Total Project Budget: This amount should reflect the total scope of the project, including the amount requested from National Geographic Society and all other funding sources.
+$20,000
+
+
+Project Information
+
+> *Total Project Budget: This amount should reflect the total scope of the project, including the amount requested from National Geographic Society and all other funding sources. You will be asked to provide additional budget information on the Budget Details tab.
+> $ 20,000.00
+
+
+
+*Budget Details: Here's a template for your budget that's easier to read and use. I've formatted it with clearer headings and sections, and added some examples for better understanding. Feel free to adjust the formatting and content as needed for your specific project:
+Distribute $20,000 in the amount sections, perform calculations, and optimize the Budget and NATGEOBUDGET.
+
+
+NATGEOBUDGET:
+{
+
+
+Budget Information:
+> *Total Project Budget: This amount should reflect the total scope of the project, including the amount requested from National Geographic Society and all other funding sources. You will be asked to provide additional budget information on the Budget Details tab.
+> $ 20,000.00
+- Please enter the budget information you are requesting from NGS below, fitting items as closely as possible into the categories provided.
+- To begin, click Generate Budget (the approximate start and end dates for your project are pre-filled).
+- Utilize the comments field to elaborate on each entry, as requested per the guidelines.
+- If you are not requesting funds for a particular budget category, please leave the field blank.
+- Enter all amounts rounded to the nearest US dollar, with no punctuation or symbols (example: 5200).
+
+
+PURPOSE IS TO Fill in these prompts:
+Budget Categories:
+
+1. Travel:
+   - Airfare: 
+     - Amount: #.## (Example: 1500)
+     - Justification: [Insert justification here]
+   - Vehicle Rental and Maintenance:
+     - Amount: #.## (Example: 800)
+     - Justification: [Insert justification here]
+   - Other Transportation:
+     - Amount: #.## (Example: 500)
+     - Justification: [Insert justification here]
+
+2. Lodging/Food:
+   - Lodging:
+     - Amount: #.## (Example: 1200)
+     - Justification: [Insert justification here]
+   - Food:
+     - Amount: #.## (Example: 700)
+     - Justification: [Insert justification here]
+
+3. Equipment/Lab:
+   - Equipment & Supplies:
+     - Amount: #.## (Example: 2000)
+     - Justification: [Insert justification here]
+   - Laboratory Costs:
+     - Amount: #.## (Example: 1500)
+     - Justification: [Insert justification here]
+   - Laboratory Tests:
+     - Amount: #.## (Example: 1000)
+     - Justification: [Insert justification here]
+
+4. Compensation:
+   - Applicant and Team Members Compensation:
+     - Amount: #.## (Example: 3000)
+     - Justification: [Insert justification here]
+   - Assistants and Consultants Compensation:
+     - Amount: #.## (Example: 2000)
+     - Justification: [Insert justification here]
+
+5. Evaluation:
+   - Measurement and Evaluation:
+     - Amount: #.## (Example: 1500)
+     - Justification: [Insert justification here]
+
+6. Other:
+   - Institutional Overhead:
+     - Amount: #.## (Example: 1000)
+     - Justification: [Insert justification here]
+   - Dependent Care:
+     - Amount: #.## (Example: 500)
+     - Justification: [Insert justification here]
+   - Miscellaneous:
+     - Amount: #.## (Example: 800)
+     - Justification: [Insert justification here]
+
+SubTotal: $#.## Total: $#.##
+Replace #.## with your actual budget amounts and [Insert justification here] with your specific justifications for each item. Adjust the categories and sections as needed for your project.
+}
+
+}
+
+
+
+
+
+[Template] Yahriel's Response:
+{
+NATGEOBUDGET:
+{
+Budget Details
+> *Total Project Budget: This amount should reflect the total scope of the project, including the amount requested from National Geographic Society and all other funding sources. You will be asked to provide additional budget information on the Budget Details tab.
+> $ 20,000.00
+Here's a template for your budget that's easier to read and use. I've organized the categories and items more clearly, and I've added comments to guide you on what to enter in each field. You can customize the comments further based on your specific project needs:
+
+Budget
+Parent Category
+Grantee Budget Category
+2024
+Total
+Justification
+
+Travel
+Airfare
+$#.##
+$#.##
+[Insert explanation of airfare costs]
+
+Vehicle Rental and Maintenance
+$#.##
+$#.##
+[Insert explanation of vehicle rental and maintenance costs]
+
+Other Transportation
+$#.##
+$#.##
+[Insert explanation of other transportation costs]
+
+Lodging/Food
+Lodging
+$#.##
+$#.##
+[Insert explanation of lodging costs]
+
+Food
+$#.##
+$#.##
+[Insert explanation of food costs]
+
+Equipment/Lab
+Equipment & Supplies
+$#.##
+$#.##
+[Insert explanation of equipment and supplies costs]
+
+Laboratory Costs
+$#.##
+$#.##
+[Insert explanation of laboratory costs]
+
+Laboratory Tests
+$#.##
+$#.##
+[Insert explanation of laboratory tests costs]
+
+Compensation
+Applicant and Team Members Compensation
+$#.##
+$#.##
+[Insert explanation of applicant and team members compensation costs]
+
+Assistants and Consultants Compensation
+$#.##
+$#.##
+[Insert explanation of assistants and consultants compensation costs]
+
+Evaluation
+Measurement and Evaluation
+$#.##
+$#.##
+[Insert explanation of measurement and evaluation costs]
+
+Other
+Institutional Overhead
+$#.##
+$#.##
+[Insert explanation of institutional overhead costs]
+
+Dependent Care
+$#.##
+$#.##
+[Insert explanation of dependent care costs]
+
+Miscellaneous
+$#.##
+$#.##
+[Insert explanation of miscellaneous costs]
+
+SubTotal
+$#.##
+$#.##
+[Insert subtotal calculation]
+}
+}
+
+
+Prompt: Rewrite and Enhance Yahriel's Response
+{
+The Total Project Budget is $20,000. According to the Project Information and the Grant Period of 1 year, Fill in the Budget Details with number amounts and provide justifications for the funding and calculations performed. 
+Help Me Format and Make a Template for the Budget that is easier to read and use.         
+NATGEOBUDGET
+Please enter the budget information you are requesting from NGS below, fitting items as closely as possible into the categories provided. To begin, click Generate Budget (the approximate start and end dates for your project are pre-filled). Utilize the comments field to elaborate on each entry, as requested per the guidelines. If you are not requesting funds for a particular budget category, please leave the field blank. Enter all amounts rounded to the nearest US dollar, with no punctuation or symbols (example: 5200).
+Here's a template for your budget that's easier to read and use:
+
+Budget Template
+
+Travel
+
+Airfare: $[Insert]
+Vehicle Rental and Maintenance: $[Insert]
+Other Transportation: $[Insert]
+Lodging/Food
+
+Lodging: $[Insert]
+Food: $[Insert]
+Equipment/Lab
+
+Equipment & Supplies: $[Insert]
+Laboratory Costs: $[Insert]
+Laboratory Tests: $[Insert]
+Compensation
+
+Applicant and Team Members Compensation: $[Insert]
+Assistants and Consultants Compensation: $[Insert]
+Evaluation
+
+Measurement and Evaluation: $[Insert]
+Other
+
+Institutional Overhead: $[Insert]
+Dependent Care: $[Insert]
+Miscellaneous: $[Insert]
+SubTotal: $[Insert]
+
+Feel free to adjust the formatting to better fit your needs!
+
+> *Total Project Budget: This amount should reflect the total scope of the project, including the amount requested from National Geographic Society and all other funding sources. You will be asked to provide additional budget information on the Budget Details tab.
+> $ 20,000.00
+
+}
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Help Yahriel Salinas Answer The Prompt, Review The Response, Provide Feedback, Make Corrections, Enhance, and Finalize Yahriel's Best Response For To Prompt..

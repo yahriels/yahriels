@@ -23,7 +23,7 @@ SAMPLES:
 { 
 Read over these samples 11 times with no distractions, and comprehend everything given in these materials, documents, and links. These are related to the research project and thesis. Then Move on to the next section and task.
 [KNOW THIS DOCUMENT: https://github.com/yahriels/yahriels/blob/main/README.md]
-[KNOW THESE DOCUMENTS: https://github.com/yahriels/yahriels/blob/main/YSR_Writing_Sample.pdf, https://github.com/yahriels/yahriels/blob/main/CaltechYSRWritingSample.pdf]
+[KNOW THESE DOCUMENTS: https://github.com/yahriels/yahriels/blob/main/NATGEO_Fulbright__Draft.pdf, https://github.com/yahriels/yahriels/blob/main/YSR_Writing_Sample.pdf, https://github.com/yahriels/yahriels/blob/main/CaltechYSRWritingSample.pdf]
 [KNOW THESE DOCUMENTS:https://github.com/yahriels/yahriels/blob/main/OtherStuff.pdf, https://github.com/yahriels/yahriels/blob/main/Related_Works.pdf]
 [KNOW THESE DOCUMENTS: https://github.com/yahriels/yahriels/blob/main/Yahriel_GRFP_Application.pdf, https://github.com/yahriels/yahriels/blob/main/YSR_Writing_Sample.pdf, https://github.com/yahriels/yahriels/blob/main/Just_Tech_Writing_Sample.pdf, https://github.com/yahriels/yahriels/blob/main/Yahriel_Fulbright_Application.pdf]   
 [KNOW THE FULBRIGHT PROPOSAL: https://github.com/yahriels/yahriels/blob/main/YSR_Writing_Sample.pdf, https://github.com/yahriels/yahriels/blob/main/Just_Tech_Writing_Sample.pdf, https://github.com/yahriels/yahriels/blob/main/Yahriel_Fulbright_Application.pdf]
@@ -42,6 +42,11 @@ https://github.com/yahriels/yahriels/blob/main/Workspace/lib/dummy.txt
 }
 
 Yahriel Salinas-Reyes' Fulbright-Garcia Robles Open Study/Research Award
+
+Tecnológico de Monterrey, Letter Of Affiliation
+Monterrey, Nuevo León, México: Dear Fulbright Program and National Geographic Society, 
+I am writing to you today with the distinct privilege of welcoming Yahriel Salinas-Reyes as a visiting fellow and proudly assume the role of his research advisor at Tecnológico de Monterrey, in the Molecular and Systems Bioengineering Research Group and the FEMSA Biotechnology Center. This opportunity represents a watershed moment in the pursuit of knowledge and global collaboration. Allow me to express my unwavering confidence in Yahriel's ability to not only excel in this role but to make a transformative impact on the fields of neuroscience, molecular sciences, and systems biotechnology. In case he’s accepted into your programs, Tecnológico de Monterrey stands ready to provide Yahriel with the resources, mentorship, and collaborative environment he deserves to excel in his chosen path. We are unwavering in our conviction that Yahriel's transdisciplinary approach, his unwavering analytical mindset, and his ceaseless thirst for knowledge will not only elevate our research community but also harmonize seamlessly with the mission of the Fulbright Program and National Geographic Society. Together, we shall forge connections, advance knowledge, and safeguard the wonders of our world. Thank you for considering Yahriel's application, and please do not hesitate to reach out to us if you require any additional information or should any questions arise. 
+Sincerely, Dr. José González-Valdez Director of Outreach and Research Diplomacy, School of Engineering and Sciences, Tecnológico de Monterrey, Campus Monterrey 
 Statement of Grant Purpose
 Yahriel Salinas-Reyes, Host Country: Mexico, Field: Molecular & Systems Bioengineering
 Fulbright Project: Unraveling the Molecular Code of Natural Antidepressants in Grapes
@@ -49,18 +54,8 @@ Yahriel, and the research team at the university Tecnológico de Monterrey endea
 References: (1) Zueva, M. V. (2015). Fractality of sensations and brain health: the theory linking neurodegenerative disorder with distortion of spatial and temporal scale-invariance and fractal complexity of the visible world. Front. Aging Neurosci, 7, 135. (2) Hancock, F. (2023). Metastability as a candidate neuromechanistic biomarker of schizophrenia pathology. PLoS One, 18(3), e0282707. (3) Regenbogen, C. (2015). The differential contribution of facial expressions, prosody, and speech content to empathy. Cognition and Emotion, 29(6), 1045-1056. (4) John JP (2015) A systematic evaluation of the frontal eye field as an endophenotype of schizophrenia: An fMRI study. Schizophrenia Research, 165(1), 79-84. (5) Mandelbrot, B. B. (1982). The Fractal Geometry of Nature. W. H. Freeman. (6) Kramer P and Berthaume 
 M (2021) Introduction to the theme issue ‘Biological anthroengineering’, Interface Focus, 11:5. (7) Brown, R. E., & White, D. (2020). Grapes as Natural Antidepressants: Investigating the Molecular Mechanisms. Journal of Nutritional Neuroscience, 35(4), 287-299. 
 
-Tecnológico de Monterrey, Letter Of Affiliation
-Monterrey, Nuevo León, México 
-Dear Fulbright Program and National Geographic Society, 
-I am writing to you today with the distinct privilege of welcoming Yahriel SalinasReyes as a visiting fellow and proudly assume the role of his research advisor at Tecnológico de Monterrey, in the Molecular and Systems Bioengineering Research Group and the FEMSA Biotechnology Center. This opportunity represents a watershed moment in the pursuit of knowledge and global collaboration. Allow me to express my unwavering confidence in Yahriel's ability to not only excel in this role but to make a transformative impact on the fields of neuroscience, molecular sciences, and systems biotechnology. 
-In case he’s accepted into your programs, Tecnológico de Monterrey stands ready to provide Yahriel with the resources, mentorship, and collaborative environment he deserves to excel in his chosen path. We are unwavering in our conviction that Yahriel's transdisciplinary approach, his unwavering analytical mindset, and his ceaseless thirst for knowledge will not only elevate our research community but also harmonize seamlessly with the mission of the Fulbright Program and National Geographic Society. Together, we shall forge connections, advance knowledge, and safeguard the wonders of our world. Thank you for considering Yahriel's application, and please do not hesitate to reach out to us if you require any additional information or should any questions arise. 
-Sincerely, 
-Dr. José González-Valdez
-Director of Outreach and Research Diplomacy 
-School of Engineering and Sciences 
-Tecnológico de Monterrey, Campus Monterrey 
 
-Title of Project: Ancient Maya Engineering: Uncovering the Innovations of a Lost Civilization
+National Geographic Project: Ancient Maya Engineering: Uncovering the Innovations of a Lost Civilization
 Works Cited:
 Maya Civilization. National Geographic Society, 2012, www.nationalgeographic.org/encyclopedia/maya-civilization/.
 Smith, A. H. The Ancient Maya and Their City of Tulum. National Geographic Society, 2018, www.nationalgeographic.org/article/ancient-maya-and-their-city-tulum/.

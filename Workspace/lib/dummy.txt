@@ -31,6 +31,62 @@ Read over these samples 11 times with no distractions, and comprehend everything
 [KNOW THESE DOCUMENTS: https://github.com/yahriels/yahriels/blob/main/Yahriel_GRFP_Application.pdf, https://github.com/yahriels/yahriels/blob/main/Yahriel_DOE_CSGF_Application.pdf, https://github.com/yahriels/yahriels/blob/main/Yahriel_Fulbright_Application.pdf]   
 [KNOW THE FULBRIGHT PROPOSAL: https://github.com/yahriels/yahriels/blob/main/Yahriel_Fulbright_Application.pdf]
 
+Yahriel Salinas-Reyes	
+
+Yahriel Salinas-Reyes’ Intellectual Framework and Phases of Approach: 
+The framework consists of two phases to unravel the nature of intelligence.
+Phase I: Understanding The Divided Self and Existential Despair
+Header: A Trip Through Insanity - a perfectly rational adjustment to an insane world.
+Motivation: Schizophrenia cannot be understood without understanding despair. Children do not give up their innate imagination, curiosity, dreaminess easily. You have to love them to get them to do that. 
+Stage 1: Alogia – Poverty of Speech and Senses
+Stage 2: Autism –Realism and Logicism
+State 3: Ambivalence – State of Chaos and Hysteria
+State 4: Affect Blunting – Emotionless and Expressionless
+Outcome: Pandemonium and Complete Fracturing of The Self and Nature
+Accessories: Mania and Madness, Paranoia and Delusions, Psychosis and Schizophrenia 
+Revelation: We are effectively destroying ourselves by violence masquerading as love. Whether life is worth living depends on whether there is love in life.
+Phase II: Unraveling The Nature of Intelligence and Human Ingenuity
+Header: Creative people who can't help but explore other mental territories are at greater risk, just as someone who climbs a mountain is more at risk than someone who just walks along a village lane. 
+Motivation: Madness need not be all breakdown. It may also be break-through. It is potential liberation and renewal as well as enslavement and existential death.
+Stage 1: Youthfulness – Vitality and Radiance
+Stage 2: Imagination – Idealism and Irrationalism
+Stage 3: Curiosity – State of Wonder and Exploration
+Stage 4: Dreaminess – Absorption, Abstraction, Distraction, and Forgetfulness
+Outcome: Dawn of New Age and Realization of The Natural Self and Frontiers
+Accessories: Peace and Tranquility, Freedom and Healing, Joy and Growth
+Revelation: The range of what we think and do is limited by what we fail to notice. And because we fail to notice that we fail to notice, there is little we can do to change; until we notice how failing to notice shapes our thoughts and deeds.
+
+[Summary of Research Proposal]
+Project Funding Solicitations: For this project funding I will be soliciting various sources, namely, The NSF-Mercury Project ($20 Mil) Partnership for a degree proposal; The NSF-GRFP; GFSD; The Google Fellowship; as well as Fulbright Open Study/Research Award X National Geographic Storytelling Fellowship, a joint-opportunity for a study abroad experience.  https://www.ssrc.org/programs/the-mercury-project/nsf-mercury-project-partnership/ ; https://us.fulbrightonline.org/fulbright-nat-geo-fellowship
+Synopsis: This new interdisciplinary field of study captures the essence of Human Ingenuity, focusing on the exploration of schizophrenia and psychosis and the idea that chaos theory and theory of confusion may serve a function rather than being solely detrimental. The project title also highlights the intersection of psychiatric thought, neuroscience, and social justice, emphasizing the potential global impact of this research. By using captivating and thought-provoking language as well as Anthropology-Engineering methods, the proposed scientific story aims to engage readers and spark their curiosity.
+**Project Title:**  "How He Got His Scars: The Nature Physicist Explores Abnormal Human Ingenuity and the Science of Madness and Mental Health in Neurobiological Representations of Schizophrenia and Psychosis."
+**Summary:**
+In today's rapidly changing world, we often struggle to understand the present before it becomes the past. This proposal aims to shed light on the function of madness and chaos, not to undermine its toll on individuals, but to unravel the problem it is meant to solve. Building upon R.D. Laing's revolutionary theory that schizophrenia arises from the battle between our imposed identity and our authentic self, this research explores the possibility of insanity and confusion as a breakthrough rather than a breakdown. Laing theorised that insanity could be understood as a reaction to the divided self. Instead of arising as a purely medical disease or psychotic behaviors (i.e. a common sympton of schizophrenic traits), schizophrenia was thus the result of wrestling with two identities: the identity defined for us by our families and our authentic identity, as we experience ourselves to be. When the two are fundamentally different, it triggers an internal fracturing of the self. Comprehensively, the label of **Madness and Confusion is defined as a naturally sane reaction to an insane world**. By applying the concepts of entropy and chaos theory to model the dynamics of social-behavioral systems, we aim to study schizophrenia/psychosis and other neurological abnormalities, morphologies, and ingenuity of the human brain.
+Despite the initial controversy surrounding Laing's existential perspective, there is immense value in delving into the personal, interpretive, and small-scale aspects often overlooked in traditional psychiatric narratives. We propose utilizing a fundamental method of studying neurobiological dysfunctions and abnormal functions/morphologies of the schizophrenic brain. This will help uncover correlations and causalities between the active phase-matter in schizophrenic traits and other related disorders.
+The motivation behind this study stems from the world's failure to effectively utilize the groundbreaking discoveries in neuroscience, global public health, and social sciences. Through rigorous research and the development of a scientific method backed by advanced instrumentation, our objective is to provide foundational evidence for a clinical social understanding of schizophrenia and its related traits. This paradigm shift, rooted in biomedical-analytical and logical-mathematical scientific theory, will facilitate the advancement of global public health.
+To achieve meaningful impact, we must engage in a truthful dialogue free from knots of hatred, revenge, jealousy, and malice that taint our words. By exploring the history of indigenous and Latin American cultures, anthropology-engineering, science and technology, psychiatry and neuroscience systems, and social justice, we can create an open and inclusive platform for transformative research.
+In conclusion, our research proposal "How He Got His Scars" aims to uncover the intricate relationship between madness and confusion, mental health, and the human brain. By merging scientific methods with social impact, we can pave the way for advancements in both individual well-being and global public health. It is high time we embrace this ancient paradigm of psychiatric thought, combining research and development with a deep understanding of cultural diversity, to drive positive change in society.
+Other Relevant Coursework includes Latin American Anthropology: Race, Class, and Gender at Iowa State University Liberal Arts and Sciences as part of the U.S. Latino/a Studies Program.
+
+[Research Abstract]
+Research Title: 
+Unraveling the Neurobiological Landscape of Schizophrenia: A Multidisciplinary Approach Informed by Numbers, Shapes, and Prediction
+Abstract:
+In the realm of advancing neuroscience, public and global health, molecular and biotechnology systems engineering, and biomedical data science and informatics, the enigma of schizophrenia stands as both a challenge and an opportunity for scientific exploration. This proposal seeks to illuminate the intricacies of schizophrenia through a rigorous scientific method, integrating the foundational elements of Numbers, Shapes, and Prediction into the fabric of our investigative framework.
+1. Numbers: Data Capture and Monte Carlo Integration
+Our scientific journey commences with an unwavering commitment to numerical precision. Employing state-of-the-art neuroimaging techniques, we will embark on an exhaustive data capture initiative. Through the meticulous acquisition of neuroanatomical, neurodivergent, and neurophysiological data from diverse populations, our objective is to construct an extensive and multidimensional dataset that encapsulates the nuanced dimensions of schizophrenia. This reservoir of data will form the bedrock upon which our mathematical modeling and scientific inquiries will be founded.
+To navigate the inherent complexity of this venture, we will harness the power of Monte Carlo Integration techniques, effectively engaging probabilistic simulations. This methodological approach will enable us to traverse the intricate interplay of variables within the neural landscape of schizophrenia, accounting for the stochastic nature of neurobiological phenomena. By fusing data-driven insights with probabilistic modeling, our aim is to unveil the concealed patterns and emergent behaviors that underlie the neurobiology of schizophrenia.
+2. Shapes: Mandelbrot Set and Fractal Geometry
+In our pursuit of understanding, we delve into the realm of geometric complexity. Schizophrenia, akin to the enigmatic Mandelbrot set, manifests self-similarity across multiple scales. We shall leverage the mathematical elegance of fractal geometry to explore the recursive patterns inherent in neurobiological representations of schizophrenia. By quantifying the fractal dimensionality of neural structures and their aberrations, we aspire to elucidate the underlying geometrical signatures of this intricate disorder.
+Fractal analysis will provide us with a potent lens through which we can discern the intricate geometries of neural connectivity, unraveling the non-linear relationships that define the topological architecture of the schizophrenic brain. Through the synergy of fractal geometry and neuroimaging data, our goal is to unearth novel insights into the spatial organization of neuroanatomical features, shedding light on the fractal nature of neurodivergence.
+3. Prediction: Dimensional/Spectral Analysis to Understand Causality and Correlation
+As we navigate the labyrinthine landscape of schizophrenia and psychosis, our scientific odyssey extends to the realm of prediction and understanding causality. Employing advanced dimensional and spectral analysis techniques, we aim to disentangle the intricate web of causative factors and correlations that govern the neurobiology of schizophrenia.
+Dimensional analysis will empower us to identify the critical dimensions that exert a profound influence on the emergence and progression of schizophrenic traits. By dissecting the spectral signatures of neural activity within these dimensions, we seek to unveil the underlying dynamics that govern causality within the realm of neurodivergence.
+Our multidisciplinary approach transcends traditional psychiatric narratives, aligning with R.D. Laing's existential perspective that recognizes the value of personal, interpretive, and small-scale aspects often overlooked. Through the harmonious integration of Numbers, Shapes, and Prediction, we aspire to illuminate the neurobiological essence of schizophrenia, uncovering correlations and causalities within the active phase-matter of schizophrenic traits. This holistic understanding will not only advance scientific practice but also inform precise health diagnoses and innovative treatments, ultimately propelling the field of global public health forward.
+
+In conclusion, our research endeavors to unveil the profound mysteries of schizophrenia through the seamless integration of mathematical modeling and multidisciplinary inquiry. By harnessing the power of Numbers, Shapes, and Prediction, we aim to transcend the boundaries of traditional psychiatric narratives, embarking on a transformative journey toward a deeper comprehension of neuroanatomy, neurodivergence, and the intricate web of neurobiological disorders. This pioneering approach holds the promise of ushering in a new era of precision medicine and enhanced global well-being.
+
+
 Statement of Grant Purpose
 Yahriel Salinas-Reyes, Host Country: Mexico, Field: Molecular & Systems Bioengineering
 Project Title: Unraveling the Molecular Code of Natural Antidepressants in Grapes
@@ -58,9 +114,7 @@ Conclusion: The proposed research, an ambitious undertaking at the intersection 
 References: (1) Zueva, M. V. (2015). Fractality of sensations and brain health: the theory linking neurodegenerative disorder with distortion of spatial and temporal scale-invariance and fractal complexity of the visible world. Front. Aging Neurosci, 7, 135. (2) Hancock, F. (2023). Metastability as a candidate neuromechanistic biomarker of schizophrenia pathology. PLoS One, 18(3), e0282707. (3) Regenbogen, C. (2015). The differential contribution of facial expressions, prosody, and speech content to empathy. Cognition and Emotion, 29(6), 1045-1056. (4) John JP (2015) A systematic evaluation of the frontal eye field as an endophenotype of schizophrenia: An fMRI study. Schizophrenia Research, 165(1), 79-84. (5) Mandelbrot, B. B. (1982). The Fractal Geometry of Nature. W. H. Freeman. (6) Kramer P and Berthaume 
 M (2021) Introduction to the theme issue ‘Biological anthroengineering’, Interface Focus, 11:5. (7) Brown, R. E., & White, D. (2020). Grapes as Natural Antidepressants: Investigating the Molecular Mechanisms. Journal of Nutritional Neuroscience, 35(4), 287-299. 
 
-Parent Category | Grantee Budget Category | 2024
-Total
-Justification
+
 }
  
 [KNOW THE FULBRIGHT PROPOSAL: https://github.com/yahriels/yahriels/blob/main/Yahriel_Fulbright_Application.pdf]
