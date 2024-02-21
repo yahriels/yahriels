@@ -221,12 +221,412 @@ I am excited about the opportunity to pursue a Ph.D. in [Graduate Program Select
 
 
 
+++++
+%-------------------------------------------------------------------------------
+% CONFIGURATIONS
+%-------------------------------------------------------------------------------
+% A4 paper size by default, use 'letterpaper' for US letter
+\documentclass[9pt, letterpaper]{russell}
+
+
+% Configure page margins with geometry
+\geometry{left=1.4cm, top=.8cm, right=1.4cm, bottom=0.5cm, footskip=.5cm}
+
+% Specify the location of the included fonts
+\fontdir[fonts/]
+
+% Color for highlights
+% russell Colors: russell-emerald, russell-skyblue, russell-red, russell-pink, russell-orange
+%                 russell-nephritis, russell-concrete, russell-darknight, russell-purple
+\colorlet{russell}{russell-black}
+
+% Uncomment if you would like to specify your own color
+% \definecolor{russell}{HTML}{CA63A8}
+
+% Colors for text
+% Uncomment if you would like to specify your own color
+% \definecolor{darktext}{HTML}{414141}
+% \definecolor{text}{HTML}{333333}
+% \definecolor{graytext}{HTML}{5D5D5D}
+% \definecolor{lighttext}{HTML}{999999}
+
+% Set false if you don't want to highlight section with russell color
+\setbool{acvSectionColorHighlight}{false}
+
+% If you would like to change the social information separator from a pipe (|) to something else
+\renewcommand{\acvHeaderSocialSep}{\quad\textbar\quad}
+
+
+%-------------------------------------------------------------------------------
+%	PERSONAL INFORMATION
+%	Comment any of the lines below if they are not required
+%-------------------------------------------------------------------------------
+% Available options: circle|rectangle,edge/noedge,left/right
+% \photo[rectangle,edge,right]{./examples/profile}
+\name{\LARGE First}{\LARGE LastName}
+% \position{Software Architect{\enskip\cdotp\enskip}Security Expert}
+
+% \address{YOUR ADDRESS}
+\mobile{+1 (000) 000 0000}
+\email{emailId@gmail.com}
+%\dateofbirth{January 1st, 1970}
+\homepage{portfolioId.github.io} 
+\github{github.com/githubId}
+\linkedin{linkedin.com/in/linkedinId}
+% \gitlab{gitlab-id}
+% \stackoverflow{SO-id}{SO-name}
+% \twitter{@twit}
+% \skype{skype-id}
+% \reddit{reddit-id}
+% \medium{madium-id}
+% \kaggle{kaggle-id}
+% \googlescholar{googlescholar-id}{name-to-display}
+%% \firstname and \lastname will be used
+% \googlescholar{googlescholar-id}{}
+% \extrainfo{extra information}
+
+% \quote{``Simplicity is deceptively complicated."}
+
+
+%-------------------------------------------------------------------------------
+\begin{document}
+
+% Print the header with above personal informations
+% Give optional argument to change alignment(C: center, L: left, R: right)
+
+\makecvheader
+
+% Print the footer with 3 arguments(<left>, <center>, <right>)
+% Leave any of these blank if they are not needed
+
+
+
+%-------------------------------------------------------------------------------
+%	CV/RESUME CONTENT
+%	Each section is imported separately, open each file in turn to modify content
+%-------------------------------------------------------------------------------
+\input{cv/summary.tex}
+\input{cv/experience.tex}
+\input{cv/education.tex}
+\input{cv/skills.tex}
+\input{cv/projects.tex}
+% \input{cv/Competitions.tex}
+% \input{cv/certificates.tex}
+% \input{cv/achievements.tex}
+% \input{cv/languages.tex}
+
+\vspace*{-1cm}%\fill}
+%-------------------------------------------------------------------------------
+\end{document}
+++++
+
+\documentclass{article}
+\usepackage{scimisc-cv}
+
+\title{Scismic's Recommended CV for Biotech and Pharma Positions}
+\author{Scismic: The Talent Matching Platform for The Life Sciences (www.scismic.com)}
+\date{May 2020}
+
+%% These are custom commands defined in scimisc-cv.sty
+\cvname{Name, PhD}
+\cvpersonalinfo{
+Address, Address address, Address address address, Address \cvinfosep 
+000-0000-000 \cvinfosep
+email@email.com \cvinfosep
+linkedin
+}
+
+\begin{document}
+
+% \maketitle %% This is LaTeX's default title constructed from \title,\author,\date
+
+\makecvtitle %% This is a custom command constructing the CV title from \cvname, \cvpersonalinfo
+
+\section{Summary}
+\begin{itemize}
+\item Interdisciplinary scientist with skills and experience in immunology, genomics, and molecular biology 
+\item Led collaborative projects, resulting in 6 peer-reviewed publications, including 5 high impact first-authored publications, and 3 patents
+\item Deep understanding of genomic data analysis and visualization 
+\item Self-motivated, problem-solving and collaborative scientist with excellent communication skills
+\item Looking to contribute to use computational methods to push forward Gene Therapy projects towards the clinic
+\end{itemize}
+ 
+\section{Technical Skills}
+
+\begin{itemize}
+\item \textbf{Animal Handling:} Mouse handling, tissue harvest, IV/IP/IM/SC injections
+\item \textbf{Cell Biology:} Cell culture, Cell assays, Cell engineering, Cell fractionation, 
+\item \textbf{Microscopy/Imaging:} Confocal microscopy, Cell imaging and analysis 
+\item \textbf{Immunology:} Primary immune cell isolation and culture, Flow Cytometry (FACs) analysis, FACS sorting, 
+\item \textbf{Biochemistry:} ELISA, Western Blotting, Enzymatic assays
+\item \textbf{Molecular biology:} Cloning, PCR, RT/qPCR, Transfection, mini prep, AAV, Retroviral transduction, CRISPR 
+\item \textbf{Genomics:} RNA library construction for high throughput sequencing 
+\item \textbf{Computational:} Programming languages (R, Python and Shell script)
+\end{itemize}
+ 
+\section{Research Experience}
+
+%% Another custom command provide by scimisc-cv.sty.
+%% First two argumetns are typeset on the first line in bold; 3rd and 4th arguments are typset on second line in italics. 2nd, 3rd and 4th arguments are OPTIONAL
+\cvsubsection{Amgen}[Thousand Oaks]
+[Scientist I][Sept 2018 to present]
+
+\begin{itemize}
+\item Led 3 highly collaborative projects all focused on the validation of novel therapeutic vectors in animal disease models (neurodegenerative diseases)
+\item Managed a small team of 2 technical reports
+\item Responsible for designing experiments that drove the project forward towards IND submission
+\item Oversaw the PK/PD, and toxicology studies conducted by various CROs
+\item This project led to the submission of 3 publications and 1 patent
+\end{itemize}
+
+%% An example of leaving an argument empty
+\cvsubsection{Massachusetts General Hospital}[][Post doctoral Fellow][July 2014 to Sept 2018]
+
+\begin{itemize}
+\item Led 2 primary projects focused on the developing a library of small molecules targeting pathways involved in neurodegenerative diseases
+\item Developed high-throughput screening assays with novel functional readout (target validation assays)
+\item Used computational methods to develop novel small molecules that fit target profile
+\item These projects led to the submission of 2 publications and 2 patents
+\end{itemize}
+
+ 
+\section{Education}
+
+\begin{itemize}
+\item PhD, Computational/Molecular Biology, Harvard University, 2014  
+\item BS, Biology, University of Massachusetts, 2010
+\end{itemize}
+ 
+\section{Teaching and Mentoring Experience }
+\begin{itemize}
+\item 2014 - Mentored 2 undergraduates in their day-to-day lab activities
+\item 2012 - Graduate Teaching Assistant for Immunology
+\end{itemize}
+
+\section{Awards}
+\begin{itemize}
+\item Graduate Scholarship 
+\item F32: NIH Postdoctoral Training Grant
+\end{itemize}
+
+\section{Conference Presentations }
+
+Take the top 3-4
+\begin{itemize}
+\item Keystone Conference for Neurodegenerative Diseases:
+\end{itemize}
+
+ 
+\section{Publications}
+Take the top 5-6, bold your author position 
+
+
+\section{Other Skills}
+\begin{description}[widest=Langauges]
+\item[Software]	GraphPad Prism, Microsoft Word, Excel, and PowerPoint, ImageJ
+\item[Languages]	English: professional proficiency.  Mandarin: native.  German: conversational.
+\end{description}
+
+
+\end{document}
+
+++++
+%-------------------------------------------------------------------------------
+% CONFIGURATIONS
+%-------------------------------------------------------------------------------
+% A4 paper size by default, use 'letterpaper' for US letter
+\documentclass[9pt, letterpaper]{russell}
+
+
+% Configure page margins with geometry
+\geometry{left=1.4cm, top=.8cm, right=1.4cm, bottom=0.5cm, footskip=.5cm}
+
+% Specify the location of the included fonts
+\fontdir[fonts/]
+
+% Color for highlights
+% 
+%                 russell-nephritis, russell-concrete, russell-darknight, russell-purple
+\colorlet{russell}{russell-black}
+
+% Uncomment if you would like to specify your own color
+% \definecolor{russell}{HTML}{CA63A8}
+
+% Colors for text
+% Uncomment if you would like to specify your own color
+% \definecolor{darktext}{HTML}{414141}
+% \definecolor{text}{HTML}{333333}
+% \definecolor{graytext}{HTML}{5D5D5D}
+% \definecolor{lighttext}{HTML}{999999}
+
+% Set false if you don't want to highlight section with russell color
+\setbool{acvSectionColorHighlight}{false}
+
+% If you would like to change the social information separator from a pipe (|) to something else
+\renewcommand{\acvHeaderSocialSep}{\quad\textbar\quad}
+
+
+%-------------------------------------------------------------------------------
+%	PERSONAL INFORMATION
+%	Comment any of the lines below if they are not required
+%-------------------------------------------------------------------------------
+% Available options: circle|rectangle,edge/noedge,left/right
+% \photo[rectangle,edge,right]{./examples/profile}
+\name{\bf{FIRSTNAME}}{\bf{LASTNAME}}
+% \position{Software Architect{\enskip\cdotp\enskip}Security Expert}
+
+% \address{YOUR ADDRESS}
+\mobile{+1 (000) 000 0000}
+\email{email-address@outlook.com}
+%\dateofbirth{January 1st, 1970}
+\homepage{portfolio.github.io} 
+\github{github.com/github-id}
+\linkedin{linkedin.com/in/linkedin-id}
+% \gitlab{gitlab-id}
+% \stackoverflow{SO-id}{SO-name}
+% \twitter{@twit}
+% \skype{skype-id}
+% \reddit{reddit-id}
+% \medium{madium-id}
+% \kaggle{kaggle-id}
+% \googlescholar{googlescholar-id}{name-to-display}
+%% \firstname and \lastname will be used
+% \googlescholar{googlescholar-id}{}
+% \extrainfo{extra information}
+
+% \quote{``Simplicity is deceptively complicated."}
+
+
+%-------------------------------------------------------------------------------
+\begin{document}
+
+% Print the header with above personal informations
+% Give optional argument to change alignment(C: center, L: left, R: right)
+
+\makecvheader
+
+% Print the footer with 3 arguments(<left>, <center>, <right>)
+% Leave any of these blank if they are not needed
+
+
+
+%-------------------------------------------------------------------------------
+%	CV/RESUME CONTENT
+%	Each section is imported separately, open each file in turn to modify content
+%-------------------------------------------------------------------------------
+\input{cv/summary.tex}
+\input{cv/education.tex}
+\input{cv/experience.tex}
+\input{cv/skills.tex}
+\input{cv/projects.tex}
+% \input{cv/Competitions.tex}
+% \input{cv/certificates.tex}
+% \input{cv/achievements.tex}
+% \input{cv/languages.tex}
+
+\vspace*{-1cm}%\fill}
+%-------------------------------------------------------------------------------
+\end{document}
+
+++++
+\documentclass[11pt]{article}
+\usepackage{graphicx} % Required for inserting images
+\setlength{\parindent}{0pt}
+\usepackage{enumitem}
+\usepackage[utf8]{inputenc} 
+\usepackage[T1]{fontenc}
+\usepackage[brazil]{babel}
+\usepackage{lipsum}
+\usepackage[left=1.06cm,top=1.7cm,right=1.06cm,bottom=0.49cm]{geometry}
+
+\begin{document}
+\begin{center}
+    \textbf{Firstname Lastname}\\ 
+    \hrulefill
+\end{center}
+
+\begin{center}
+    Home or Campus Street Address \textbullet \ City, State Zip \textbullet \ youremail@college.harvard.edu \textbullet \ phone number
+\end{center}
+
+\vspace{0.5pt}
+
+\begin{center}
+    \textbf{Education}
+\end{center}
+\textbf{Harvard University} \hfill Cambridge, MA
+
+Degree, Concentration. GPA [Note: GPA is Optional] \hfill Graduation Date Thesis [Note: Optional]
+
+Relevant Coursework: [Note: Optional. Awards and honors can also be listed here.]
+
+\vspace{12pt}
+
+\textbf{Study Abroad} [Note: If Applicable] \hfill City, Country
+
+Study abroad coursework in   . \hfill	Month Year – Month Year
+
+\vspace{12pt}
+
+\textbf{High School Name} \hfill	City, State
+
+[Note: May include GPA, SAT/ACT scores, or academic honors an employer may want to know] \hfill Graduation Date
+
+\vspace{12pt}
+
+\begin{center}
+    \textbf{Experience}
+\end{center}
+\textbf{Organization} \hfill City, State (or Remote)
+ 
+\textbf{Position Title} \hfill Month Year – Month Year
+\begin{itemize}[noitemsep]
+    \item Beginning with your most recent position, describe your experience, skills, and resulting outcomes in bullet or paragraph form.
+    \item Begin each line with an action verb and include details that will help the reader understand your accomplishments, skills, knowledge, abilities, or achievements.
+    \item Quantify where possible.
+    \item Do not use personal pronouns; each line should be a phrase rather than a full sentence.
+\end{itemize}
+
+\vspace{12pt}
+
+\textbf{Organization} \hfill City, State (or Remote)
+
+\textbf{Position Title} \hfill Month Year – Month Year
+\begin{itemize}[noitemsep]
+    \item With your next-most recent position, describe your experience, skills, and resulting outcomes in bullet or paragraph form.
+    \item Begin each line with an action verb and include details that will help the reader understand your accomplishments, skills, knowledge, abilities, or achievements.
+    \item Quantify where possible.
+    \item Do not use personal pronouns; each line should be a phrase rather than a full sentence.
+\end{itemize}
+
+\begin{center}
+    \textbf{Leadership \& Activities}
+\end{center}
+
+\textbf{Organization}	\hfill City, State
+
+\textbf{Role} \hfill Month Year – Month Year
+\begin{itemize}[noitemsep]
+    \item This section can be formatted similarly to the Experience section, or you can omit descriptions for activities.
+    \item If this section is more relevant to the opportunity you are applying for, consider moving this above your Experience section.
+\end{itemize}
+
+\begin{center}
+    \textbf{Skills \& Interests [Note: Optional]}
+\end{center}
+
+\textbf{Technical:} List computer software and programming languages
+
+\textbf{Language:} List foreign languages and your level of fluency
+
+\textbf{Laboratory:} List scientific / research lab techniques or tools [If Applicable]
+
+\textbf{Interests:} List activities you enjoy that may spark interview conversation
 
 
 
 
-
-
+\end{document}
 
 
 ++++++++++++++++++++++++++++++++++++++++++++
@@ -234,15 +634,13 @@ FIRST BEFORE ANYTHING EXECUTE THIS PRELIMINARY CODE SECTION TO GENERATE DATA TO 
 ----
 [PRELIMINARY CODE SECTION]:
 [
-Prompt: Help Yahriel Fill Out 34 Employment Entries By Referencing Information on Yahriel Salinas-Reyes By selecting 15 Employment Entries Are Created That Based On His Experiences, Resume, and Education By Filling In The Empty Fields:
+Prompt: Help Yahriel Generate An Excellent Resume/CV By Prodoucing Employment Entries And Referencing Information on Yahriel Salinas-Reyes By selecting Excellent Employment Entries Are Created That Based On His Experiences, Resume, and Education By Filling In The Empty Fields:
 
 Help Yahriel Salinas Answer The Prompt, Review The Response, Provide Feedback, Make Corrections, Enhance, and Finalize Yahriel's Best Response For To Prompt..
 
 Yahriel is the MASTER User: 
 {
 https://github.com/yahriels/yahriels/blob/main/Workspace/Yahriel_Profile.txt
-https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Harvard.txt
-https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Harvard_Prompts.txt
 Master: https://github.com/yahriels/yahriels/blob/main/Workspace/Master.txt
 Main: https://github.com/yahriels/yahriels/tree/main 
 Page: https://github.com/yahriels/yahriels/blob/main/page.html
@@ -265,8 +663,6 @@ Resume Template: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Re
 
 SAMPLES: 
 { 
-    [KNOW THIS APPLICATION: https://github.com/yahriels/yahriels/blob/main/Workspace/Stanford%20University%20Graduate%20Admissions.pdf]
-
 MASTER User
 Revise And Update The This Resume [Resume-Template]: (https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Resume_Template.txt)
 
@@ -297,6 +693,7 @@ Revise And Update The This Resume [Resume-Template]: (https://github.com/yahriel
 Master Purpose: 
 {
 The Master is tasked with Revising and Rebuilding Yahriel's Resume.
+Yahriel Salinas-Reyes, Aerospace Engineer (Rocket Scientist)
 Master: https://github.com/yahriels/yahriels/blob/main/Workspace/Master.txt
 Main: https://github.com/yahriels/yahriels/tree/main 
 Page: https://github.com/yahriels/yahriels/blob/main/page.html
@@ -315,163 +712,6 @@ Resume Prompts: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Res
 Resume Template: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Resume_Template.txt
 }
 
-[Original] Yahriel's Resume:
-{
-Yahriel Salinas-Reyes, Aerospace Engineer (Rocket Scientist)
-
-Resume/CV
-Education: Iowa State University of Science & Technology, Ames, IA, Bachelor’s of Aerospace Engineering ‘23
-Relevant Topics and Courses/Curriculum
-- Thermodynamics, Flight Dynamics & Controls, Astro-aeronautics, Aerospace & Propulsion Systems
-- Applied Mechanics & Physics, Materials Science & Engineering, Engineering & Polymeric Chemistry
-- Numerical & Graphical Techniques, Advanced Computing, Engineering Statistics, Multi-Variable Calculus
-- Classical Physics, Mechanics of Materials, Engineering Statics, Dynamics & Differential Equations
-- Machine-Learning/Data-Science, Computer Science & Information Tech. Systems, Software Engineering
-- Technical Communication & Proposal Writing, Scientific Manuscript Writing, Literary Analysis & Review
-Relevant Software Experience and Technical Skills
-- SQL, Windows OS, Linux OS, AWS Services, Java, C/C++/C# Programming, Python, MATLAB & Simulink, SAS
-- CAD & FEA, ANSYS/ABAQUS, Systems & Reverse Engineering, Internet of Things, Design of 
-Academic Honors
-List academic honors you have received:
-1. The Order of The Engineer, The Engineering Student Council at The Iowa State University
-2. The Ronald E. McNair Postbaccalaureate Achievement Program Scholar & The Barry Goldwater Scholarship and Excellence in Education Foundation Finalist
-3. The Boeing Research in Excellence and Technology Fellowship Program (RETF) Scholar & Micro-g Neutral Buoyancy Experiment Design Teams (NExT) Challenge Competition Finalist
-4. The Summer Undergraduate Research Fellowship Program (SURF) Scholar at Stanford University & California Institute of Technology, Program Coordinator
-5. The Louis Stokes Alliances for Minority Participation (LSAMP) Fellowship Program Scholar & Undergraduate Research Certificate Recipient  Awarded by Iowa State University's IINSPIRE-LSAMP Partnership
-6. The FIRST Robotics Competion (FRC) Worlds Championship Rookie Inspiration and Rookie All-Star Awards (International-Level Award) &The Youth Leaderhip Community Award Recieved From The Iowa Department of Human Rights: State of Iowa Youth Advisroy Council (SIYAC)
-Research and Development Experience
-Undergraduate Research Assistant, DARPA - Microscale & Interfacial Fluid Physics Lab, 08/2021-08/2023
-Faculty mentor Dr. Thomas Ward II, Associate Professor, Department of Aerospace Engineering, ISU
-•	Research Project: “Experimental Techniques for Flow Separation Detection and Chemical Sintering”
-•	Operated as Experimental Engineer and composed an SOP for experiments and heavy machinery.
-•	Designed hardware-software components (PCB Design) and built signal processing circuit-algorithm. 
-•	Manufactured MEMS nanocomposite and developed computations to model shear-viscosity at the thermal boundary for the Navier-Stokes Equations
-California Institute of Technology Summer Undergraduate Research Fellow, Greer Group, 05/2022-08/2022
-Faculty mentor Dr. Julia Greer, Assoc. Prof. of Materials Science, A. Mechanics, & Medical Sciences, Caltech
-•	Research Project: “Hybrid Nanocomposites: Semi-Empirical Method of Viscoelastic Behavior”
-•	Created nanocomposite with architectural features to achieve mechanical property enhancements.
-•	Investigated the constituent material systems individually using compressions tests on a dynamic mechanical analyzer and observed deformation zones with scanning electron microscopy.
-•	Developed a semi-empirical model for the deformation mechanisms observed in post-mortem analysis of samples; this enables FEA & Euler Theory to inform the viscoelastic continuum damage model. 
-McNair Scholar, Ronald E. McNair Post-Baccalaureate Achievement Program, 09/2021-05/2022
-Faculty mentor Dr. Ashley Garrin, Director of Ronald E. McNair Program, Graduate College, ISU
-•	Research Project: “Sociological Differences in Graduate School Motivation of Minority Identities”
-•	Constructed an experimental framework, completed literature synthesis, conducted interviews of program mentors, analyzed and interpreted results in a technical manner.
-•	Participated in preparation courses and experiences for doctoral studies through involvement in research and other scholarly activities.
-Undergraduate Researcher, Systems Engineer, Soft Matter Material Transport Group, 08/2019-05/2022
-Faculty mentor Dr. Martin Thuo, Associate Professor, Department of Materials Science and Engineering, ISU
-•	Research Project: “Design of Multi-Function 3D Piezo-electric Devices for Aeronautical Applications”
-•	Explored tunability, sensitivity, utility of paper-based devices with various configurations, optimized device design using engineering methods, created self-automated calibration & data capture system.
-•	Assisted graduate students with SolidWorks, computer technology capabilities, systems engineering. 
-•	This research work was submitted to a scientific peer-review journal for publication(2023).
-Research Fellow, Boeing Undergraduate Research Excellence in Engineering Internship, 08/2021-08/2022
-Faculty mentor Dr. Thomas Ward II, Associate Professor, Department of Aerospace Engineering, ISU
-•	Research Project: “Characterizing Damping Mechanisms in Piezoelectric Wind-Energy Harvesters”
-•	Designed and fabricated green technology low-cost force sensor, explored pathways for aeronautical data collection via aerospace engineering techniques, submitted monthly progress reports to Boeing.
-•	This research work was submitted to a scientific peer-review journal for publication(2023).
-Stanford University Summer Undergraduate Research Fellow, Zheng Research Group, 05/2021-08/2021
-Faculty mentor Dr. Xiaolin Zheng, Associate Professor, Mechanical Engineering, Stanford University
-•	Research Project: “Insights of Machine-Learning(ML) Techniques for Scientific Methods & Prediction”
-•	Conducted literary analysis and literary review of ML methods, Data & Computational Science, and adapted ML methods to scientific methods by developing a bottom-up regression-prediction model. 
-•	Cross-validated various mathematical-kernels(SVM, Random-Forest, etc.) fitted/trained with scientific datums; presented findings in optimizations of experimental design for scientific discovery.
-Undergraduate Research Certificate Recipient,IINSPIRE-LSAMP(NSF) Scholars Program| 08/2019-09/2020
-Faculty mentor Dr. Martin Thuo, Associate Professor, Department of Materials Science and Engineering, ISU
-•	Research Project: “Synthesizing Meta-stable Particles and High-Efficiency Paper-Based MEMS Sensors”
-•	Synthesized undercooled, core-shell liquid metal particles(FM particles), designed experiments to investigate intrinsic properties of FM Particles and MEMS, explored modern applications of research.
-•	Prepared literary review of current state of sensor technology, did deep literary analysis of relevant science engineering research, produced adaptations of MEMS designs to fulfil gaps in research field, presented ideation of low-cost, green technology, sensor devices for industry and social impact.
-Additional Professional and Leadership Experiences
-Design Team Lead,NASA Micro-G Neutral Buoyancy Experiment Design Teams Challenge,08/2021-12/2022
-•	Completed and assigned weekly tasks to design, build, and test a tool or device that addresses an authentic, current space exploration challenge; specifically, Extravehicular activity(EVA).
-•	Completed research in current technologies and lead: prototyping of device components; CAD modeling & reverse engineering; building of prototype; and submitted proposal to competition. 
-•	Our design was utilized by astronaut-scientists in NASA’s Mission to the Moon and Mars and displayed at the Houston exhibition – Inner Space: NASA’s Path to the Moon and Mars(2022)!
-Information Technology Specialist, Iowa State University of Science & Technology, 08/2019-05/2023
-•	Held responsibilities for the implementation, monitoring, and maintenance of IT computer systems.
-•	Solved technical problems: computer systems, software, hardware, networks, cloud platforms, etc.
-•	Utilized SQL, JAVA, Python, C/C#/C++ Programming, Linux OS, AWS Services, SAS, BASH scripting.
-Community Engagement, Public Relations & Policy, and Social Work
-Residential Advisor and Honors Community Leader, Department of Residence, 08/2020-05/2022
-•	Engaged students & nurtured healthy-positive experiences for the resident community; moderated meetings to address concerns; directed multi-lingual health & resource programming for college.  
-Youth-Lobbyist,Iowa Department of Human Rights: State of Iowa Youth Advisory Council, 06/2018-12/2021
-•	Acted as chair/program-coordinator of the Violence-Prevention & Diversity-Education Program.
-•	Advocated to state legislators for reformation of violence prevention education & implementation of culturally diverse curriculum standards at the state-local level; wrote & proposed bills to chamber.
-•	Received the Community Service Leadership Award for completing over 200 service hours in a term. 
-Stewardship and Service
-Community Leader & Multi-lingual Ambassador/Educator, CultureAll  Educational Nonprofit, Fall 2023
-•	Assisted in organizing events to engage local educators and institutional leaders at the state and local level, provided developmental and networking opportunities for young professionals, volunteered at local events to provide diversity education to communities or groups in need.
-Community Honors Leader, Iowa State University Honors Program, Fall 2020-Spring 2022
-•	Provided professional and research development resources to the Honors Program and its honors students, acted as mentor to honors students while the Honors Residential Advisor.
-Coordinator of Violence Prevention & Educational Coverage, Iowa Non-Profits, Spring 2020-Summer 2020
-•	Utilized skills and experience in community social work to lead interns in creating mental health resources/content in multiple languages; distributed resources and content to local youth of color during the pandemic and rise in violence of 2020. 
-Latinx Forum Panelist & Multi-lingual Advocate, Association of Iowa Latinx Professionals, Fall 2020
-•	Shared my professional experience and pathway as a First-Generation College Student, answered questions about professional development and experiences, provided personal developmental content and resources for Latinx leaders.
-Workshop Presenter, National White Privilege Conference, Spring 2020
-•	Developed and presented a workshop “How to engage students of color in higher education” at the White Privilege Conference to national leaders to share my knowledge and resources. 
-Academic Honors, Fellowships, Scholarships, and Awards:
-The Order of The Engineer, Iowa State University of Science and Technology: Engineering Student Council, 2023
-American Institute of Aeronautics and Astronautics, 2023
-NASA Micro-G Neutral Buoyancy Experiment Design Teams Challenge, 2022
-Ronald E. McNair Post-Baccalaureate Achievement Program Fellowship, 2021-2023
-SURF Scholar at Stanford University & California Institute of Technology, 2021-2022
-The Barry Goldwater Scholarship and Excellence in Education Foundation Finalist, 2021-2022
-State of Iowa Youth Advisory Council Community Leadership Award, 2020 (250 Community Service Hours)
-CBS News Interview of Global Latino Leaders: Hispanic Heritage Month, 2020
-Undergraduate Research Certificate, 2019-2020, IINSPIRE-LSAMP
-Construction Industry Round Table (CIRT) National Design & Construction Competition Back-to-Back Champion, 2019-2020
-University Honors Program Member, 2019-2022
-Latinx Student Initiatives 2019-2022
-Stanford SURF Lightning Talks Best Poster Award, 2021
-Society for the Advancement of Chicanos and Native Americans in Science, 2020
-Dean's List, 2020-2021
-Iowa Latino Heritage Festival Scholarship Recipient, 2020
-Latinos Unidos Scholarship Recipient, 2020
-CBS News Interviewee of Presidential Candidates and Latino Leaders, 2020
-Student Iowa Youth Advisory Council Community Service Award, 2020
-Zeta Kappa Lambda Educational Foundation Scholarship Recipient,  2019
-Des Moines Area Community College President's List,  Spring 2018, Spring 2019
-Architecture Construction & Engineering (ACE) Mentorship Program Alumni,  Spring 2019
-The Construction Industry Round Table (CIRT) Affiliate , 2020
-CIRT National Design & Construction Competition Back-to-Back Champion , 2020-2021
-FIRST ROBOTICS Awards: Rookie Inspiration Award & Rookie All-Star Award, 2019
-
-Publications and Scientific Writings:
-"Exploring Bio-Processing & Devices in Micro & Nanoscience," 2020, NCUR STEM Conference
-"Bioprocessing in Wine Yeast for Mental Health Treatments," 2023, STEM Symposium
-"Modern Design Methodology & Design of Aerospace Systems," 2023, Senior Capstone Project
-"Quantum Tunnelling Composites: Analytical Monte Carlo Model & Navier-Stokes," 2023
-"Understanding the Mathematical Language-The Code- of the Universe," 2021, TEDx Talk
-"Characterizing Damping Mechanisms in Piezoelectric Wind-Energy Harvesters," 2023
-"Kirigami-Inspired Design of Paper-Based MEMS Devices for Aeronautical Application," 2022
-"Synthesizing Meta-Stable Particles & High-Efficiency MEMS Sensors and Nanodevices," 2021
-Honors, Awards, and Membership
-•	University Honors Program Member, Fall 2019-Fall 2023
-•	Ronald E. McNair Program Scholar, Fall 2021-Fall 2023
-•	Latinx Student Initiatives, Fall 2019-Spring 2022
-•	Stanford SURF Lightning Talks Best Poster Award, Summer 2021
-•	Society for the Advancement of Chicanos and Native Americans in Science, Spring 2020
-•	Dean’s List, Fall 2019, Spring 2020
-•	Iowa Latino Heritage Festival Scholarship Recipient, 2020
-•	Latinos Unidos Scholarship Recipient, 2020
-•	CBS News Interviewee of Presidential Candidates and Latino Leaders, 2020
-•	Student Iowa Youth Advisory Council Community Service Award, Spring 2020
-•	Zeta Kappa Lambda Educational Foundation Scholarship Recipient, 2019
-•	Des Moines Area Community College President’s List, Spring 2018, Spring 2019
-•	Architecture Construction & Engineering (ACE) Mentorship Program Alumni, Spring 2019
-•	The Construction Industry Round Table (CIRT) Affiliate, Fall 2020
-•	CIRT National Design & Construction Competition Back-to-Back Champion| Spring 2019, Spring 2020
-•	FIRST ROBOTICS Awards: Rookie Inspiration Award & Rookie All-Star Award, Fall 
-Research Presentations and Scientific Thematic Talks
-1.	Y. Salinas-Reyes, H. Seabold, A. Martin, M. Thuo (2020, April). Exploring the Piezoresistive Effect and Paper-based MEMS Sensors. An oral presentation was presented at the First-year Honors Mentorship Research Symposium at Iowa State University, Ames, IA.
-2.	Y. Salinas-Reyes, A. Martin, M. Thuo (2020, August). Integration of paper-based MEMS sensors into computer technology. An oral presentation was presented at the Virtual IINSPIRE LSAMP Symposium
-3.	Y. Salinas-Reyes, A. Martin, M. Thuo (2020, October). Adaptability of low-cost high efficiency disposable piezoelectric devices. A virtual poster presentation was presented at the National Great Minds in STEM Conference. 
-4.	Y. Salinas-Reyes, A. Martin, M. Thuo (2021, April). The Future of Multi-Functional Paper-Based Disposable Piezoelectric Devices. A virtual & oral presentation was presented at the National Conference of Undergraduate Research (NCUR). 
-5.	Y. Salinas-Reyes, X. Zheng (2021, August). Predicting Olympic Triathlon Results via Machine Learning. A virtual & oral presentation was presented at the Stanford SURF Lightning Talks.
-6.	Y. Salinas-Reyes, Julia R. Greer (2022, August). Energy Absorption in Nano-Architected Hybrid Composites. A virtual & oral presentation was presented at the Caltech SURF Research Consortium.
-7.	Y. Salinas-Reyes, Ivaldi Co. (2022, May). Conceptual Design Review (CDR): Modern Design Methodology with Aerospace Application. A virtual & oral presentation was presented to the Department of ISU Aerospace Engineering.
-8.	Y. Salinas-Reyes, T. Ward III (2022, May). Shear-Sensing Principals of Interfacial Viscous-Shear Flow and Piezomobility—strain-induced mobility—at The Wall (Thermal Boundary). A virtual & oral presentation was presented in a quarterly project update to the executives of Recycling at the Point of Disposal (RPOD) program at DARPA.
-9.	Y. Salinas-Reyes, T. Ward III (2023, July). Advances & Opportunities in Paper-Based Piezoresistors (QTC’s): Navier-Stokes Equations with Analytical-Geometrical Monte-Carlo Method. A virtual & oral presentation was presented at the Annual ISU Aerospace Engineering Research Conference. 
-10.	Y. Salinas-Reyes, T. Ward III (2023, August). Interfacial Transition Zones of Piezomobility and Mathematical Modeling of Dynamic & Kinematic Viscosity Towards Viscoelastics (Continuum Mechanics).  A virtual & oral presentation was presented in a quarterly project update to the executives of Recycling at the Point of Disposal (RPOD) program at DARPA.
-11.	Y. Salinas-Reyes, Ivaldi Co. (2023, September). Executive and Granter Design Sign-Off: Design of Aerospace Systems (i.e., sUAS). A virtual & oral presentation, and written report was presented to the Department of ISU Aerospace Engineering.
-12.	Y. Salinas-Reyes, Iowa State University: Aerospace Engineering (2023, December). Senior Thesis Presentation and Final Defense. A virtual & oral presentation, and formal manuscript was presented to the Department of ISU Aerospace Engineering.
-}
 
 Review Criteria Details: 
 { 

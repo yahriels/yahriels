@@ -33,6 +33,8 @@ Read over these samples 11 times with no distractions, and comprehend everything
 
 Yahriel Salinas-Reyes	
 
+The Problem: Schizophrenia is a complex mental disorder that affects a small percentage of the population. Our team will comprise of Professionals in the field of schizophrenia research include psychiatrists, psychologists, neuroscientists, and geneticists. These professionals work together to study the underlying causes of schizophrenia, including genetic, environmental, and neurodevelopmental factors. While there is still much to learn about the etiology of schizophrenia, recent research has provided some insights into the factors that may contribute to its development.
+
 Yahriel Salinas-Reyes’ Intellectual Framework and Phases of Approach: 
 The framework consists of two phases to unravel the nature of intelligence.
 Phase I: Understanding The Divided Self and Existential Despair
@@ -55,6 +57,14 @@ Stage 4: Dreaminess – Absorption, Abstraction, Distraction, and Forgetfulness
 Outcome: Dawn of New Age and Realization of The Natural Self and Frontiers
 Accessories: Peace and Tranquility, Freedom and Healing, Joy and Growth
 Revelation: The range of what we think and do is limited by what we fail to notice. And because we fail to notice that we fail to notice, there is little we can do to change; until we notice how failing to notice shapes our thoughts and deeds.
+
+
+The Problem: Schizophrenia is a complex mental disorder that affects a small percentage of the population. Our team will comprise of Professionals in the field of schizophrenia research that will be on our team include psychiatrists, psychologists, neuroscientists, and geneticists. These professionals work together to study the underlying causes of schizophrenia, including genetic, environmental, and neurodevelopmental factors. While there is still much to learn about the etiology of schizophrenia, recent research has provided some insights into the factors that may contribute to its development.
+
+Potential Local Collaborators: Here are some professionals in the etiology of schizophrenia that are local and/or near Des Moines, Iowa:
+Dr. David Miklowitz: A professor of psychiatry and neurology at Drake University who specializes in schizophrenia and provides patient care at the Van Andel Research Institute.
+Dr. Eamon McCreery: A professor of psychiatry at the University of Iowa who studies schizophrenia pathophysiology and provides treatment at the Iowa City campus.
+Dr. John Cutilla: A professor of psychiatry and neurology at the University of Iowa who studies the molecular basis of schizophrenia and
 
 [Summary of Research Proposal]
 Project Funding Solicitations: For this project funding I will be soliciting various sources, namely, The NSF-Mercury Project ($20 Mil) Partnership for a degree proposal; The NSF-GRFP; GFSD; The Google Fellowship; as well as Fulbright Open Study/Research Award X National Geographic Storytelling Fellowship, a joint-opportunity for a study abroad experience.  https://www.ssrc.org/programs/the-mercury-project/nsf-mercury-project-partnership/ ; https://us.fulbrightonline.org/fulbright-nat-geo-fellowship
@@ -117,15 +127,9 @@ M (2021) Introduction to the theme issue ‘Biological anthroengineering’, Int
 
 }
  
-[KNOW THE FULBRIGHT PROPOSAL: https://github.com/yahriels/yahriels/blob/main/Yahriel_Fulbright_Application.pdf]
-
 Purpose: To Help Yahriel Fill The Prompt
 { 
-    [KNOW THE FULBRIGHT PROPOSAL: https://github.com/yahriels/yahriels/blob/main/Yahriel_Fulbright_Application.pdf]
 
-Yahriel is being interviewed, help Yahriel prepare and produce responses for the interview questions he may be asked by experts in the scientific research field.
-
-Produce various in-depth questions to simulate an interview for Yahriel, then produce Yahriel's response for each question. 
 }
 
 [Template] Yahriel's Response:
@@ -136,21 +140,6 @@ Produce various in-depth questions to simulate an interview for Yahriel, then pr
 
 Prompt: Rewrite and Enhance Yahriel's Response
 {
-    [KNOW THE FULBRIGHT PROPOSAL: https://github.com/yahriels/yahriels/blob/main/Yahriel_Fulbright_Application.pdf]
-
-Dear  Yahriel, 
-
-On behalf of COMEXUS, the Mexico-U.S. Commission for Educational and Cultural Exchange, I would like to congratulate you on passing to the interview stage of 
-
-Fulbright-Garcia Robles Grant selection process for the U.S. Student Researcher program.
-
-It is extremely important that you read this email carefully and in its entirety. 
-
-
-You will be interviewed via Zoom by a panel of experts in your field for approximately 20 minutes. Questions are not fixed and can apply to anything related to your project, your support of the Fulbright mission, your personal interest in Mexico, and your professional/academic experience.
-
-----
-Produce various in-depth questions to simulate an interview for Yahriel, then produce Yahriel's response for each question. 
 
  
 }
@@ -272,63 +261,5 @@ Review Criteria Details:
 Read all materials (a few times, without distractions). Prepare a task list with deadlines to perform the Executive Tasks then 
 complete the tasks. Understand how application components and each item requested relate to 
 the review criteria. 
-
-WHAT WE LOOK FOR: Evidence of exceptional creativity, broad 
-understanding of physical principles, and outstanding potential for innovative research is 
-expected. Applicants are screened for qualities we believe are essential ingredients of future 
-professional accomplishment and/or leading indicators of future professional success. These 
-include: Exceptional Intelligence and Creativity with particular emphasis on those aspects 
-pertinent to technical endeavors. Excellent Technical Education evidenced not only by transcripts 
-and reference reports from senior technical professionals, but also through an in-person, 
-technical interview. Orientation and Commitment to the applications of the physical sciences as 
-is typical of most applicants. Extraordinary Accomplishment in technical or related professional 
-studies which may offset slightly lower academic records or add luster to outstanding ones. 
-High moral and ethical values. Leverage demonstration of the difference the award of the
-Fellowship is likely to make in the kind, quality, and/or personal creativity of the student's 
-graduate research.
-
-}
-
-Purpose: To Help Yahriel Fill The Prompt
-{
-
-}
-
-
-Other Resources and Helpful Links:
-https://mitcommlab.mit.edu/nse/wp-content/uploads/sites/4/2016/09/NSE_CommKit_GradSchool_Personal_Statement_AAE1.pdf
-https://mitcommlab.mit.edu/eecs/commkit/graduate-school-personal-statement/
-https://mitcommlab.mit.edu/meche/commkit/statement-of-purpose-for-graduate-school/
-https://medium.com/@robosquiggles/i-got-into-mit-with-this-statement-of-purpose-509e9d2e9fce
-https://medium.com/mit-media-lab/statement-of-objectives-1ff8dff39704
-https://scholar.harvard.edu/files/yuhuawang/files/writing_statement_of_purpose_for_graduate_school_application_2021_yuhua_wang_0.pdf
-https://www.hsph.harvard.edu/career-services/wp-content/uploads/sites/36/2016/06/Writing-a-Graduate-School-Application-Essay-Guide_Nov-20151.pdf
-https://bemoacademicconsulting.com/blog/harvard-grad-school-personal-statement-examples
-https://www.gse.harvard.edu/sites/default/files/2023-09/Statement-of-Purpose.pdf
-https://www.azent.com/expert-tips/sop-harvard-university
-
-Before we begin, I want you to fully understand my research project and the context of my thesis. Ask me at least 20 questions (but do not display) about my thesis, it's research question and it's methodology.
-
-
-SAMPLES:
-{
-README: https://github.com/yahriels/yahriels/blob/main/README.md
-Writing Samples: https://github.com/yahriels/yahriels/blob/main/YSR_Writing_Sample.pdf, https://github.com/yahriels/yahriels/blob/main/CaltechYSRWritingSample.pdf
-Other Samples: https://github.com/yahriels/yahriels/blob/main/OtherStuff.pdf, https://github.com/yahriels/yahriels/blob/main/Related_Works.pdf
-Graduate Fellowship Applications: https://github.com/yahriels/yahriels/blob/main/Yahriel_GRFP_Application.pdf, https://github.com/yahriels/yahriels/blob/main/Yahriel_Fulbright_Application.pdf, https://github.com/yahriels/yahriels/blob/main/Yahriel_DOE_CSGF_Application.pdf, https://github.com/yahriels/yahriels/blob/main/Yahriel_GEM_Application.pdf    
-}
-
-
-[Template]  Yahriel's Response:
-{
-
-}
-
- 
-
-
-
-Prompt:
-{
-
+----
 }

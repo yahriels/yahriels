@@ -1,52 +1,18 @@
-Yahriel is generating a budget with a total project budget of $20,000 for a grant period of one year at Monterrey, Nuevo León, México in a partnership Partnership with Dr. José González-Valdez Director of Outreach and Research Diplomacy, School of Engineering and Sciences, Tecnológico de Monterrey, Campus Monterrey, at Tecnológico de Monterrey, in the Molecular and Systems Bioengineering Research Group and the FEMSA Biotechnology Center. Tecnológico de Monterrey stands ready to provide Yahriel with the resources, mentorship, and collaborative environment he deserves to excel in his chosen path and with the mission of the Fulbright-National Geographic Program and National Geographic Society. Together, we shall forge connections, advance knowledge, and safeguard the wonders of our world.
 
-PERFORM CALCULATIONS AND FILL IN THE BUDGET TEMPLATE WITH NUMBER AND DOLLAR AMOUNTS, AS WELL AS JUSTIFICAITON FOR FUNDING.
-Here's a template for your budget that is easier to read and use. You can fill in the specific amounts and justifications for each category.
-## Budget
-
-### Travel
-| Parent Category | Grantee Budget Category | 2024 Total | Justification |
-|-----------------|-------------------------|------------|---------------|
-| Travel          | Airfare                 | $__.##     | [Insert]      |
-| Travel          | Vehicle Rental and Maintenance | $__.## | [Insert] |
-| Travel          | Other Transportation    | $__.##     | [Insert]      |
-
-### Lodging/Food
-| Parent Category | Grantee Budget Category | 2024 Total | Justification |
-|-----------------|-------------------------|------------|---------------|
-| Lodging/Food    | Lodging                 | $__.##     | [Insert]      |
-| Lodging/Food    | Food                    | $__.##     | [Insert]      |
-
-### Equipment/Lab
-| Parent Category | Grantee Budget Category | 2024 Total | Justification |
-|-----------------|-------------------------|------------|---------------|
-| Equipment/Lab   | Equipment & Supplies    | $__.##     | [Insert]      |
-| Equipment/Lab   | Laboratory Costs        | $__.##     | [Insert]      |
-| Equipment/Lab   | Laboratory Tests        | $__.##     | [Insert]      |
-
-### Compensation
-| Parent Category | Grantee Budget Category | 2024 Total | Justification |
-|-----------------|-------------------------|------------|---------------|
-| Compensation    | Applicant and Team Members Compensation | $__.## | [Insert] |
-| Compensation    | Assistants and Consultants Compensation | $__.## | [Insert] |
-
-### Evaluation
-| Parent Category | Grantee Budget Category | 2024 Total | Justification |
-|-----------------|-------------------------|------------|---------------|
-| Evaluation      | Measurement and Evaluation | $__.##  | [Insert]      |
-
-### Other
-| Parent Category | Grantee Budget Category | 2024 Total | Justification |
-|-----------------|-------------------------|------------|---------------|
-| Other           | Institutional Overhead   | $__.##     | [Insert]      |
-| Other           | Dependent Care           | $__.##     | [Insert]      |
-| Other           | Miscellaneous            | $__.##     | [Insert]      |
-
-### SubTotal
-| 2024 Total |  | $__.## | $__.## |
-Replace $__.## with your actual amounts and provide the appropriate justifications in the "Justification" column. This format should make it easier to fill in and read your budget information.
-
---------
+NATGEO:
+{
+Read over these samples 11 times with no distractions, and comprehend everything given in these materials, documents, and links. These are related to the research project and thesis. Then Move on to the next section and task.
+https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20-%202022%20Overview.pdf
+https://github.com/yahriels/yahriels/blob/main/Fulbright-National_Geographic_Affiliation_Letter.pdf
+https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20Budget%20Guidelines.pdf
+https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20Level%20I%20Application%20Sample.pdf
+https://github.com/yahriels/yahriels/blob/main/NATGEO_Fulbright__Draft.pdf
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/NATGEO.txt
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/NATGEOBUDGET.txt
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Lib_Dummy.txt
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/dummy.txt
+https://github.com/yahriels/yahriels/blob/main/OtherStuff.pdf
+}
 
 Help Yahriel Answer The Prompt, Review The Response, Provide Feedback, Make Corrections, Enhance, and Finalize Yahriel's Best Response For To Prompt..
 
@@ -71,16 +37,56 @@ Supplementary Materials: https://github.com/yahriels/yahriels/blob/main/Workspac
 SAMPLES: 
 { 
 Read over these samples 11 times with no distractions, and comprehend everything given in these materials, documents, and links. These are related to the research project and thesis. Then Move on to the next section and task.
-https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20-%202022%20Overview.pdf
-https://github.com/yahriels/yahriels/blob/main/Fulbright-National_Geographic_Affiliation_Letter.pdf
-https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20Budget%20Guidelines.pdf
-https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20Level%20I%20Application%20Sample.pdf
 [KNOW THIS DOCUMENT:https://github.com/yahriels/yahriels/blob/main/NATGEO_Fulbright__Draft.pdf, https://github.com/yahriels/yahriels/blob/main/README.md]
 [KNOW THESE DOCUMENTS: https://github.com/yahriels/yahriels/blob/main/YSR_Writing_Sample.pdf, https://github.com/yahriels/yahriels/blob/main/CaltechYSRWritingSample.pdf]
 [KNOW THESE DOCUMENTS:https://github.com/yahriels/yahriels/blob/main/OtherStuff.pdf, https://github.com/yahriels/yahriels/blob/main/Related_Works.pdf]
 [KNOW THESE DOCUMENTS: https://github.com/yahriels/yahriels/blob/main/Yahriel_GRFP_Application.pdf, https://github.com/yahriels/yahriels/blob/main/Yahriel_DOE_CSGF_Application.pdf, https://github.com/yahriels/yahriels/blob/main/Yahriel_Fulbright_Application.pdf]   
 [KNOW THE FULBRIGHT PROPOSAL: https://github.com/yahriels/yahriels/blob/main/Yahriel_Fulbright_Application.pdf]
 
+The Problem: Schizophrenia is a complex mental disorder that affects a small percentage of the population. Professionals in the field of schizophrenia research that will be on our team include psychiatrists, psychologists, neuroscientists, and geneticists. These professionals work together to study the underlying causes of schizophrenia, including genetic, environmental, and neurodevelopmental factors. While there is still much to learn about the etiology of schizophrenia, recent research has provided some insights into the factors that may contribute to its development.
+
+Yahriel Salinas-Reyes’ Intellectual Framework and Phases of Approach: 
+The framework consists of two phases to unravel the nature of intelligence.
+Phase I: Understanding The Divided Self and Existential Despair
+Header: A Trip Through Insanity - a perfectly rational adjustment to an insane world.
+Motivation: Schizophrenia cannot be understood without understanding despair. Children do not give up their innate imagination, curiosity, dreaminess easily. You have to love them to get them to do that. 
+Stage 1: Alogia – Poverty of Speech and Senses
+Stage 2: Autism –Realism and Logicism
+State 3: Ambivalence – State of Chaos and Hysteria
+State 4: Affect Blunting – Emotionless and Expressionless
+Outcome: Pandemonium and Complete Fracturing of The Self and Nature
+Accessories: Mania and Madness, Paranoia and Delusions, Psychosis and Schizophrenia 
+Revelation: We are effectively destroying ourselves by violence masquerading as love. Whether life is worth living depends on whether there is love in life.
+Phase II: Unraveling The Nature of Intelligence and Human Ingenuity
+Header: Creative people who can't help but explore other mental territories are at greater risk, just as someone who climbs a mountain is more at risk than someone who just walks along a village lane. 
+Motivation: Madness need not be all breakdown. It may also be break-through. It is potential liberation and renewal as well as enslavement and existential death.
+Stage 1: Youthfulness – Vitality and Radiance
+Stage 2: Imagination – Idealism and Irrationalism
+Stage 3: Curiosity – State of Wonder and Exploration
+Stage 4: Dreaminess – Absorption, Abstraction, Distraction, and Forgetfulness
+Outcome: Dawn of New Age and Realization of The Natural Self and Frontiers
+Accessories: Peace and Tranquility, Freedom and Healing, Joy and Growth
+Revelation: The range of what we think and do is limited by what we fail to notice. And because we fail to notice that we fail to notice, there is little we can do to change; until we notice how failing to notice shapes our thoughts and deeds.
+that will be on our team include psychiatrists, psychologists, neuroscientists, and geneticists. These professionals work together to study the underlying causes of schizophrenia, including genetic, environmental, and neurodevelopmental factors. While there is still much to learn about the etiology of schizophrenia, recent research has provided some insights into the factors that may contribute to its development.
+Partnership with Dr. José González-Valdez Director of Outreach and Research Diplomacy, School of Engineering and Sciences, Tecnológico de Monterrey, Campus Monterrey, at Tecnológico de Monterrey, in the Molecular and Systems Bioengineering Research Group and the FEMSA Biotechnology Center. Tecnológico de Monterrey stands ready to provide Yahriel with the resources, mentorship, and collaborative environment he deserves to excel in his chosen path and with the mission of the Fulbright-National Geographic Program and National Geographic Society. Together, we shall forge connections, advance knowledge, and safeguard the wonders of our world.
+Statement of Grant Purpose Monterrey, Nuevo León, México. Potential Local Collaborators: Here are some professionals in the etiology of schizophrenia that are local and/or near Des Moines, Iowa:
+Dr. David Miklowitz: A professor of psychiatry and neurology at Drake University who specializes in schizophrenia and provides patient care at the Van Andel Research Institute.
+Dr. Eamon McCreery: A professor of psychiatry at the University of Iowa who studies schizophrenia pathophysiology and provides treatment at the Iowa City campus.
+Dr. John Cutilla: A professor of psychiatry and neurology at the University of Iowa who studies the molecular basis of schizophrenia and
+Synopsis: This new interdisciplinary field of study captures the essence of Human Ingenuity, focusing on the exploration of schizophrenia and psychosis and the idea that chaos theory and theory of confusion may serve a function rather than being solely detrimental. The project title also highlights the intersection of psychiatric thought, neuroscience, and social justice, emphasizing the potential global impact of this research. By using captivating and thought-provoking language as well as Anthropology-Engineering methods, the proposed scientific story aims to engage readers and spark their curiosity.
+**Project Title:**  "How He Got His Scars: The Nature Physicist Explores Abnormal Human Ingenuity and the Science of Madness and Mental Health in Neurobiological Representations of Schizophrenia and Psychosis."
+**Summary:**
+In today's rapidly changing world, we often struggle to understand the present before it becomes the past. This proposal aims to shed light on the function of madness and chaos, not to undermine its toll on individuals, but to unravel the problem it is meant to solve. Building upon R.D. Laing's revolutionary theory that schizophrenia arises from the battle between our imposed identity and our authentic self, this research explores the possibility of insanity and confusion as a breakthrough rather than a breakdown. Laing theorised that insanity could be understood as a reaction to the divided self. Instead of arising as a purely medical disease or psychotic behaviors (i.e. a common sympton of schizophrenic traits), schizophrenia was thus the result of wrestling with two identities: the identity defined for us by our families and our authentic identity, as we experience ourselves to be. When the two are fundamentally different, it triggers an internal fracturing of the self. Comprehensively, the label of **Madness and Confusion is defined as a naturally sane reaction to an insane world**. By applying the concepts of entropy and chaos theory to model the dynamics of social-behavioral systems, we aim to study schizophrenia/psychosis and other neurological abnormalities, morphologies, and ingenuity of the human brain.
+Despite the initial controversy surrounding Laing's existential perspective, there is immense value in delving into the personal, interpretive, and small-scale aspects often overlooked in traditional psychiatric narratives. We propose utilizing a fundamental method of studying neurobiological dysfunctions and abnormal functions/morphologies of the schizophrenic brain. This will help uncover correlations and causalities between the active phase-matter in schizophrenic traits and other related disorders.
+The motivation behind this study stems from the world's failure to effectively utilize the groundbreaking discoveries in neuroscience, global public health, and social sciences. Through rigorous research and the development of a scientific method backed by advanced instrumentation, our objective is to provide foundational evidence for a clinical social understanding of schizophrenia and its related traits. This paradigm shift, rooted in biomedical-analytical and logical-mathematical scientific theory, will facilitate the advancement of global public health.
+To achieve meaningful impact, we must engage in a truthful dialogue free from knots of hatred, revenge, jealousy, and malice that taint our words. By exploring the history of indigenous and Latin American cultures, anthropology-engineering, science and technology, psychiatry and neuroscience systems, and social justice, we can create an open and inclusive platform for transformative research.
+In conclusion, our research proposal "How He Got His Scars" aims to uncover the intricate relationship between madness and confusion, mental health, and the human brain. By merging scientific methods with social impact, we can pave the way for advancements in both individual well-being and global public health. It is high time we embrace this ancient paradigm of psychiatric thought, combining research and development with a deep understanding of cultural diversity, to drive positive change in society.
+
+Yahriel Salinas-Reyes, Host Country: Mexico, Field: Molecular & Systems Bioengineering
+Fulbright Project: Unraveling the Molecular Code of Natural Antidepressants in Grapes
+Yahriel, and the research team at the university Tecnológico de Monterrey endeavor to decode the molecular secrets of nature to improve the human condition, particularly for individuals affected by schizophrenia and other mental health disorders. Yahriel's work represents a convergence of scientific rigor, interdisciplinary collaboration, and a profound commitment to the betterment of human well-being. Furthermore, this research holds the potential to strengthen international collaborations between the U.S. and Mexico. By conducting research at Tecnológico de Monterrey, Yahriel can contribute to the exchange of knowledge and ideas between the two countries, fostering a stronger global community which reflects the essence of the Fulbright mission, emphasizing mutual understanding and collaboration between nations. 
+References: (1) Zueva, M. V. (2015). Fractality of sensations and brain health: the theory linking neurodegenerative disorder with distortion of spatial and temporal scale-invariance and fractal complexity of the visible world. Front. Aging Neurosci, 7, 135. (2) Hancock, F. (2023). Metastability as a candidate neuromechanistic biomarker of schizophrenia pathology. PLoS One, 18(3), e0282707. (3) Regenbogen, C. (2015). The differential contribution of facial expressions, prosody, and speech content to empathy. Cognition and Emotion, 29(6), 1045-1056. (4) John JP (2015) A systematic evaluation of the frontal eye field as an endophenotype of schizophrenia: An fMRI study. Schizophrenia Research, 165(1), 79-84. (5) Mandelbrot, B. B. (1982). The Fractal Geometry of Nature. W. H. Freeman. (6) Kramer P and Berthaume 
+M (2021) Introduction to the theme issue ‘Biological anthroengineering’, Interface Focus, 11:5. (7) Brown, R. E., & White, D. (2020). Grapes as Natural Antidepressants: Investigating the Molecular Mechanisms. Journal of Nutritional Neuroscience, 35(4), 287-299. 
 
 [Research Abstract]
 Research Title: 
@@ -88,20 +94,11 @@ Unraveling the Neurobiological Landscape of Schizophrenia: A Multidisciplinary A
 Abstract:
 In the realm of advancing neuroscience, public and global health, molecular and biotechnology systems engineering, and biomedical data science and informatics, the enigma of schizophrenia stands as both a challenge and an opportunity for scientific exploration. This proposal seeks to illuminate the intricacies of schizophrenia through a rigorous scientific method, integrating the foundational elements of Numbers, Shapes, and Prediction into the fabric of our investigative framework.
 1. Numbers: Data Capture and Monte Carlo Integration
-2. . Shapes: Mandelbrot Set and Fractal Geometry
+2. Shapes: Mandelbrot Set and Fractal Geometry
 3. Prediction: Dimensional/Spectral Analysis to Understand Causality and Correlation
-In conclusion, our research endeavors to unveil the profound mysteries of schizophrenia through the seamless integration of mathematical modeling and multidisciplinary inquiry. By harnessing the power of Numbers, Shapes, and Prediction, we aim to transcend the boundaries of traditional psychiatric narratives, embarking on a transformative journey toward a deeper comprehension of neuroanatomy, neurodivergence, and the intricate web of neurobiological disorders. This pioneering approach holds the promise of ushering in a new era of precision medicine and enhanced global well-being.
-Yahriel Salinas-Reyes' Fulbright-Garcia Robles Open Study/Research Award
-
-Partnership with Dr. José González-Valdez Director of Outreach and Research Diplomacy, School of Engineering and Sciences, Tecnológico de Monterrey, Campus Monterrey, at Tecnológico de Monterrey, in the Molecular and Systems Bioengineering Research Group and the FEMSA Biotechnology Center. Tecnológico de Monterrey stands ready to provide Yahriel with the resources, mentorship, and collaborative environment he deserves to excel in his chosen path and with the mission of the Fulbright-National Geographic Program and National Geographic Society. Together, we shall forge connections, advance knowledge, and safeguard the wonders of our world.
-Statement of Grant Purpose Monterrey, Nuevo León, México
-Yahriel Salinas-Reyes, Host Country: Mexico, Field: Molecular & Systems Bioengineering
-Fulbright Project: Unraveling the Molecular Code of Natural Antidepressants in Grapes
-Yahriel, and the research team at the university Tecnológico de Monterrey endeavor to decode the molecular secrets of nature to improve the human condition, particularly for individuals affected by schizophrenia and other mental health disorders. Yahriel's work represents a convergence of scientific rigor, interdisciplinary collaboration, and a profound commitment to the betterment of human well-being. Furthermore, this research holds the potential to strengthen international collaborations between the U.S. and Mexico. By conducting research at Tecnológico de Monterrey, Yahriel can contribute to the exchange of knowledge and ideas between the two countries, fostering a stronger global community which reflects the essence of the Fulbright mission, emphasizing mutual understanding and collaboration between nations. 
-References: (1) Zueva, M. V. (2015). Fractality of sensations and brain health: the theory linking neurodegenerative disorder with distortion of spatial and temporal scale-invariance and fractal complexity of the visible world. Front. Aging Neurosci, 7, 135. (2) Hancock, F. (2023). Metastability as a candidate neuromechanistic biomarker of schizophrenia pathology. PLoS One, 18(3), e0282707. (3) Regenbogen, C. (2015). The differential contribution of facial expressions, prosody, and speech content to empathy. Cognition and Emotion, 29(6), 1045-1056. (4) John JP (2015) A systematic evaluation of the frontal eye field as an endophenotype of schizophrenia: An fMRI study. Schizophrenia Research, 165(1), 79-84. (5) Mandelbrot, B. B. (1982). The Fractal Geometry of Nature. W. H. Freeman. (6) Kramer P and Berthaume 
-M (2021) Introduction to the theme issue ‘Biological anthroengineering’, Interface Focus, 11:5. (7) Brown, R. E., & White, D. (2020). Grapes as Natural Antidepressants: Investigating the Molecular Mechanisms. Journal of Nutritional Neuroscience, 35(4), 287-299. 
-
-National Geographic Project: Ancient Maya Engineering: Uncovering the Innovations of a Lost Civilization
+Nature’s Chaos Game: An Existentialist Approach (1. Numbers 2. Shapes. Prediction)
+Informed by Mathematics and Neurobiology 
+Mexico Project: Ancient Maya Engineering: Uncovering the Innovations of a Lost Civilization
 Works Cited:
 Maya Civilization. National Geographic Society, 2012, www.nationalgeographic.org/encyclopedia/maya-civilization/.
 Smith, A. H. The Ancient Maya and Their City of Tulum. National Geographic Society, 2018, www.nationalgeographic.org/article/ancient-maya-and-their-city-tulum/.
@@ -111,25 +108,41 @@ Maya Architecture and Engineering. Britannica, www.britannica.com/technology/May
 
 }
  
-Purpose: To Help Yahriel Fill The Prompt
-{ 
+Other Resources and Helpful Links:
+https://mitcommlab.mit.edu/nse/wp-content/uploads/sites/4/2016/09/NSE_CommKit_GradSchool_Personal_Statement_AAE1.pdf
+https://mitcommlab.mit.edu/eecs/commkit/graduate-school-personal-statement/
+https://mitcommlab.mit.edu/meche/commkit/statement-of-purpose-for-graduate-school/
+https://medium.com/@robosquiggles/i-got-into-mit-with-this-statement-of-purpose-509e9d2e9fce
+https://medium.com/mit-media-lab/statement-of-objectives-1ff8dff39704
+https://scholar.harvard.edu/files/yuhuawang/files/writing_statement_of_purpose_for_graduate_school_application_2021_yuhua_wang_0.pdf
+https://www.hsph.harvard.edu/career-services/wp-content/uploads/sites/36/2016/06/Writing-a-Graduate-School-Application-Essay-Guide_Nov-20151.pdf
+https://bemoacademicconsulting.com/blog/harvard-grad-school-personal-statement-examples
+https://www.gse.harvard.edu/sites/default/files/2023-09/Statement-of-Purpose.pdf
+https://www.azent.com/expert-tips/sop-harvard-university
 
-
-NATGEO:
+Prompt: Rewrite and Enhance Yahriel's Response
 {
-Read over these samples 11 times with no distractions, and comprehend everything given in these materials, documents, and links. These are related to the research project and thesis. Then Move on to the next section and task.
-https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20-%202022%20Overview.pdf
-https://github.com/yahriels/yahriels/blob/main/Fulbright-National_Geographic_Affiliation_Letter.pdf
-https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20Budget%20Guidelines.pdf
-https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20Level%20I%20Application%20Sample.pdf
-https://github.com/yahriels/yahriels/blob/main/NATGEO_Fulbright__Draft.pdf
-https://github.com/yahriels/yahriels/blob/main/Workspace/lib/NATGEO.txt
-https://github.com/yahriels/yahriels/blob/main/Workspace/lib/NATGEOBUDGET.txt
-https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Lib_Dummy.txt
-https://github.com/yahriels/yahriels/blob/main/Workspace/lib/dummy.txt
-https://github.com/yahriels/yahriels/blob/main/OtherStuff.pdf
+
+FULBRIGHT-NATIONAL GEOGRAPHIC AWARD PROGRAM
+
+Description
+Yahriel, We are pleased to invite you to apply for the Fulbright-National Geographic Award Program based on your status as a semi-finalist for the Fulbright U.S. Student Program.
+The National Geographic Society’s Grants Program provides seed funding and support to early career individuals, as well as those more advanced in their careers, who are working to address critical challenges, advance new solutions, and inspire positive transformation across all seven continents. Funded projects must align with one or more of the Society’s five focus areas: Ocean, Land, Wildlife, Human Histories & Cultures, and Human Ingenuity. 
+
+We strongly recommend that you review the following materials before submitting your application:
+
+Full Application Template - Level I Grants: https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20Level%20I%20Application%20Sample.pdf
+Grants Program Overview: https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20-%202022%20Overview.pdf
+Budget Guidelines: https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20Budget%20Guidelines.pdf
+Explorer Mindset & Code: https://www.nationalgeographic.org/society/our-explorers/
+Code of Ethics: https://www.nationalgeographic.org/society/code-of-ethics/
+
 }
 
+
+
+Purpose: To Help Yahriel Finalize and Optimize His Award Proposal To Fill The Prompt and Execute the Tasks.
+{ 
 
 FULBRIGHT-NATIONAL GEOGRAPHIC AWARD PROGRAM
 
@@ -149,18 +162,17 @@ The secondary focus of your project (if applicable) is:
 Storytelling, Technology
 *What is the Discipline/Field of Study for the project? You may choose more than one from this list, as applicable. Chosen: 
 Anatomy & Morphology
+Audiology & Speech-Language Pathology
 Behavioral Sciences
 Computer Science, Interdisciplinary Applications
 Developmental Biology
+Engineering, Multidisciplinary
 Multidisciplinary Sciences
 Neurosciences
 Nutrition & Dietetics
 Physics, Applied
 Physiology
 Psychology
-Psychology, Biological
-Sociology
-Statistics & Probability
 If applicable discipline/s to your project are not on the list above, please enter them below:
 Molecular & Systems Bioengineering, Applied Mathematics, Anthropology-Engineering, Computational & Mathematical Sciences, Global Public Health, Artificial Intelligence, Mental Health Innovation
 Project Leader Name
@@ -198,32 +210,72 @@ Iowa State University
 $20,000
 
 
+TO Fill in these prompts:
+
+
 Project Information
 
+> *Title of Project: Short, descriptive and free of jargon. 250 Character Limit.
+> {}
+
+> *Brief Project Summary: In a few sentences, briefly describe your project as if you are speaking with a stranger at a party, avoiding jargon. Summarize your goal, and explain why your project is important, exciting, and/or novel. 1500 Characters Limit.
+> {}
+
 > *Total Project Budget: This amount should reflect the total scope of the project, including the amount requested from National Geographic Society and all other funding sources. You will be asked to provide additional budget information on the Budget Details tab.
-> $ 20,000.00
+> {$20,000.00}
 
 
+Project Leader Information
 
-*Budget Details: Here's a template for your budget that's easier to read and use. I've formatted it with clearer headings and sections, and added some examples for better understanding. Feel free to adjust the formatting and content as needed for your specific project:
-Distribute $20,000 in the amount sections, perform calculations, and optimize the Budget and NATGEOBUDGET.
+> *Describe the skills of your team members, and tell us why they are necessary to the success of your project. Please provide no more than two sentences per team member. Successful proposals will include details about local collaborators, a requirement for projects conducted outside of your country of primary residency. 2000 Characters Limit.
+> {}
+
+> *Do you or your Team Members already have any media commitments or interest for this project? This includes media commitments already held by your home institution or other funding bodies. 2000 Characters Limit.
+> {}
+
+> *In one or two paragraphs, please describe what skills, attributes, and/or experiences make you uniquely qualified to implement this project. Please include any relevant information not in your CV that you wish to share. 1500 Characters Limit.
+> {}
+
+> *In one or two paragraphs, please describe your career goals over the next 5 years and tell us how receiving a grant from National Geographic will help you achieve them. 4000 Characters Limit.
+> {}
+
+
+Project Details
+
+> *Background: In one or two paragraphs, please provide background information and context about the issue your project will address. What is unique or important about your project, and how is it different from previous work on this topic? Include relevant citations in the Works Cited section below. 4000 Characters Limit.
+> {}
+
+> *Objectives: Please provide a bulleted or numbered list of the objective(s) of your project with a short description of each, and how progress towards each objective will be measured. Objectives should be SMART: specific, measurable, achievable, realistic, and time-bound. 2000 Characters Limit.
+> {}
+
+> *Methods: In one or two paragraphs, please provide a timeline and description of the activities, methods, tools, and/or storytelling coverage plan you will implement. Explain why you think these are likely to achieve your objectives, and describe any potential ethical or safety risks to your project and how you will mitigate them. 6000 Characters Limit.
+> {}
+
+> Communication and Engagement: In a few sentences, please briefly describe your stakeholders, how they are involved in the project, and whether you have existing media or dissemination plans with any of them. We define stakeholders as anyone impacted by your work, such as local communities, professional networks, public/private sector, media outlets, students, or audiences. To help us evaluate the outreach component of your proposal, please add links to any websites, social media accounts, public engagement platforms, or other mechanisms you will use to engage your stakeholders. 4000 Characters Limit.
+> {}
+
+> *Results and Impact: Describe all of the expected results of this project, its predicted impacts, and what success means for each stakeholder. Results are defined as the deliverables that will be created during this project, e.g., academic/white papers, photographs, lesson plans, etc. Impact is defined as the specific changes you hope to achieve, e.g., behavior change, greater understanding of an issue, improved management of a resource, etc. 2000 Characters Limit.
+> {}
+
+> *Works Cited: Include any bibliographic information that supports the research, educational, or scientific evidence or stories you cite in this application. Storytelling applicants should include a link to their portfolios. 4000 Characters Limit.
+> {}
+
+> *Budget Details:Budget Information: *Total Project Budget: This amount should reflect the total scope of the project, including the amount requested from National Geographic Society and all other funding sources. You will be asked to provide additional budget information on the Budget Details tab. $ 20,000.00 - Please enter the budget information you are requesting from NGS below, fitting items as closely as possible into the categories provided. - To begin, click Generate Budget (the approximate start and end dates for your project are pre-filled). - Utilize the comments field to elaborate on each entry, as requested per the guidelines. - If you are not requesting funds for a particular budget category, please leave the field blank. - Enter all amounts rounded to the nearest US dollar, with no punctuation or symbols (example: 5200). Here's a template for your budget that's easier to read and use. I've formatted it with clearer headings and sections, and added some examples for better understanding. Feel free to adjust the formatting and content as needed for your specific project:
+>> NATGEOBUDGET
 
 
 NATGEOBUDGET:
 {
+Yahriel is generating a budget with a total project budget of $20,000 for a grant period of one year *Project Start Date 08/01/2024 *Project End Date 08/31/2025  at Monterrey, Nuevo León, México in a partnership Partnership with Dr. José González-Valdez Director of Outreach and Research Diplomacy, School of Engineering and Sciences, Tecnológico de Monterrey, Campus Monterrey, at Tecnológico de Monterrey, in the Molecular and Systems Bioengineering Research Group and the FEMSA Biotechnology Center. Tecnológico de Monterrey stands ready to provide Yahriel with the resources, mentorship, and collaborative environment he deserves to excel in his chosen path and with the mission of the Fulbright-National Geographic Program and National Geographic Society. Together, we shall forge connections, advance knowledge, and safeguard the wonders of our world.
 
+PERFORM CALCULATIONS AND FILL IN THE BUDGET TEMPLATE WITH NUMBER AND DOLLAR AMOUNTS, AS WELL AS JUSTIFICAITON FOR FUNDING.
 
-Budget Information:
-> *Total Project Budget: This amount should reflect the total scope of the project, including the amount requested from National Geographic Society and all other funding sources. You will be asked to provide additional budget information on the Budget Details tab.
-> $ 20,000.00
-- Please enter the budget information you are requesting from NGS below, fitting items as closely as possible into the categories provided.
-- To begin, click Generate Budget (the approximate start and end dates for your project are pre-filled).
-- Utilize the comments field to elaborate on each entry, as requested per the guidelines.
-- If you are not requesting funds for a particular budget category, please leave the field blank.
-- Enter all amounts rounded to the nearest US dollar, with no punctuation or symbols (example: 5200).
-
+Distribute $20,000 in the amount sections, perform calculations, and optimize the Budget and NATGEOBUDGET.
 
 PURPOSE IS TO Fill in these prompts:
+
+Budget Template
+
 Budget Categories:
 
 1. Travel:
@@ -282,174 +334,15 @@ Budget Categories:
 
 SubTotal: $#.## Total: $#.##
 Replace #.## with your actual budget amounts and [Insert justification here] with your specific justifications for each item. Adjust the categories and sections as needed for your project.
-}
+Yahriel is generating a budget with a total project budget of $20,000 for a grant period of one year *Project Start Date 08/01/2024 *Project End Date 08/31/2025  at Monterrey, Nuevo León, México in a partnership Partnership with Dr. José González-Valdez Director of Outreach and Research Diplomacy, School of Engineering and Sciences, Tecnológico de Monterrey, Campus Monterrey, at Tecnológico de Monterrey, in the Molecular and Systems Bioengineering Research Group and the FEMSA Biotechnology Center. Tecnológico de Monterrey stands ready to provide Yahriel with the resources, mentorship, and collaborative environment he deserves to excel in his chosen path and with the mission of the Fulbright-National Geographic Program and National Geographic Society. Together, we shall forge connections, advance knowledge, and safeguard the wonders of our world.
+Distribute $20,000 in the amount sections, perform calculations, and optimize the Budget and NATGEOBUDGET.
+PERFORM CALCULATIONS AND FILL IN THE BUDGET TEMPLATE WITH NUMBER AND DOLLAR AMOUNTS, AS WELL AS JUSTIFICAITON FOR FUNDING.
 
 }
 
-
-
-
-
-[Template] Yahriel's Response:
-{
-NATGEOBUDGET:
-{
-Budget Details
-> *Total Project Budget: This amount should reflect the total scope of the project, including the amount requested from National Geographic Society and all other funding sources. You will be asked to provide additional budget information on the Budget Details tab.
-> $ 20,000.00
-Here's a template for your budget that's easier to read and use. I've organized the categories and items more clearly, and I've added comments to guide you on what to enter in each field. You can customize the comments further based on your specific project needs:
-
-Budget
-Parent Category
-Grantee Budget Category
-2024
-Total
-Justification
-
-Travel
-Airfare
-$#.##
-$#.##
-[Insert explanation of airfare costs]
-
-Vehicle Rental and Maintenance
-$#.##
-$#.##
-[Insert explanation of vehicle rental and maintenance costs]
-
-Other Transportation
-$#.##
-$#.##
-[Insert explanation of other transportation costs]
-
-Lodging/Food
-Lodging
-$#.##
-$#.##
-[Insert explanation of lodging costs]
-
-Food
-$#.##
-$#.##
-[Insert explanation of food costs]
-
-Equipment/Lab
-Equipment & Supplies
-$#.##
-$#.##
-[Insert explanation of equipment and supplies costs]
-
-Laboratory Costs
-$#.##
-$#.##
-[Insert explanation of laboratory costs]
-
-Laboratory Tests
-$#.##
-$#.##
-[Insert explanation of laboratory tests costs]
-
-Compensation
-Applicant and Team Members Compensation
-$#.##
-$#.##
-[Insert explanation of applicant and team members compensation costs]
-
-Assistants and Consultants Compensation
-$#.##
-$#.##
-[Insert explanation of assistants and consultants compensation costs]
-
-Evaluation
-Measurement and Evaluation
-$#.##
-$#.##
-[Insert explanation of measurement and evaluation costs]
-
-Other
-Institutional Overhead
-$#.##
-$#.##
-[Insert explanation of institutional overhead costs]
-
-Dependent Care
-$#.##
-$#.##
-[Insert explanation of dependent care costs]
-
-Miscellaneous
-$#.##
-$#.##
-[Insert explanation of miscellaneous costs]
-
-SubTotal
-$#.##
-$#.##
-[Insert subtotal calculation]
-}
 }
 
 
-Prompt: Rewrite and Enhance Yahriel's Response
-{
-The Total Project Budget is $20,000. According to the Project Information and the Grant Period of 1 year, Fill in the Budget Details with number amounts and provide justifications for the funding and calculations performed. 
-Help Me Format and Make a Template for the Budget that is easier to read and use.         
-NATGEOBUDGET
-Please enter the budget information you are requesting from NGS below, fitting items as closely as possible into the categories provided. To begin, click Generate Budget (the approximate start and end dates for your project are pre-filled). Utilize the comments field to elaborate on each entry, as requested per the guidelines. If you are not requesting funds for a particular budget category, please leave the field blank. Enter all amounts rounded to the nearest US dollar, with no punctuation or symbols (example: 5200).
-Here's a template for your budget that's easier to read and use:
-
-Budget Template
-
-Travel
-
-Airfare: $[Insert]
-Vehicle Rental and Maintenance: $[Insert]
-Other Transportation: $[Insert]
-Lodging/Food
-
-Lodging: $[Insert]
-Food: $[Insert]
-Equipment/Lab
-
-Equipment & Supplies: $[Insert]
-Laboratory Costs: $[Insert]
-Laboratory Tests: $[Insert]
-Compensation
-
-Applicant and Team Members Compensation: $[Insert]
-Assistants and Consultants Compensation: $[Insert]
-Evaluation
-
-Measurement and Evaluation: $[Insert]
-Other
-
-Institutional Overhead: $[Insert]
-Dependent Care: $[Insert]
-Miscellaneous: $[Insert]
-SubTotal: $[Insert]
-
-Feel free to adjust the formatting to better fit your needs!
-
-> *Total Project Budget: This amount should reflect the total scope of the project, including the amount requested from National Geographic Society and all other funding sources. You will be asked to provide additional budget information on the Budget Details tab.
-> $ 20,000.00
-
-}
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
-Help Yahriel Salinas Answer The Prompt, Review The Response, Provide Feedback, Make Corrections, Enhance, and Finalize Yahriel's Best Response For To Prompt.
-
-
-NATGEO:
-{
-Read over these samples 11 times with no distractions, and comprehend everything given in these materials, documents, and links. These are related to the research project and thesis. Then Move on to the next section and task.
-https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20-%202022%20Overview.pdf
-https://github.com/yahriels/yahriels/blob/main/Fulbright-National_Geographic_Affiliation_Letter.pdf
-https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20Budget%20Guidelines.pdf
-https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20Level%20I%20Application%20Sample.pdf
-https://github.com/yahriels/yahriels/blob/main/NATGEO_Fulbright__Draft.pdf
-https://github.com/yahriels/yahriels/blob/main/Workspace/lib/NATGEO.txt
-https://github.com/yahriels/yahriels/blob/main/Workspace/lib/NATGEOBUDGET.txt
-https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Lib_Dummy.txt
-https://github.com/yahriels/yahriels/blob/main/Workspace/lib/dummy.txt
-https://github.com/yahriels/yahriels/blob/main/OtherStuff.pdf
-}
+Help Yahriel Salinas Answer The Prompt, Review The Response, Provide Feedback, Make Corrections, Enhance, and Finalize Yahriel's Best Response For To Prompt..
