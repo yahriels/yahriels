@@ -20,20 +20,18 @@ Purpose: To Rebuild Yahriel's Resume Using These Building Resources:
 
 ----
 
-Latex Templates: To Format Yahriel's Resume Using These Templating Resources
-{
-https://www.overleaf.com/latex/templates/clean-resume/xnndrgfhyjzg : https://www.overleaf.com/latex/templates/clean-resume/xnndrgfhyjzg.pdf
-https://www.overleaf.com/latex/templates/tech-resume/trwtkjyhyyrh : https://www.overleaf.com/latex/templates/tech-resume/trwtkjyhyyrh.pdf
-https://www.overleaf.com/latex/templates/simplified-medium-length-professioal-cv-template/pczvfqqzmnvf : https://www.overleaf.com/latex/templates/simplified-medium-length-professioal-cv-template/pczvfqqzmnvf.pdf
-https://www.overleaf.com/latex/templates/cv-developer/rdycxzvvnvcc : https://www.overleaf.com/latex/templates/cv-developer/rdycxzvvnvcc.pdf
-https://www.overleaf.com/latex/templates/sde-template-sharath/srkjmnmjfmnz : https://www.overleaf.com/latex/templates/sde-template-sharath/srkjmnmjfmnz.pdf
-}
-
+++++++++++++++++++++++++++++++++++++++++++++
+FIRST BEFORE ANYTHING EXECUTE THIS PRELIMINARY CODE SECTION TO GENERATE DATA TO INFORM THE REST OF THE CODE
+----
+[PRELIMINARY CODE SECTION]:
+[
+Prompt: Help Yahriel Generate An Excellent Resume/CV By Prodoucing Employment Entries And Referencing Information on Yahriel Salinas-Reyes By selecting Excellent Employment Entries Are Created That Based On His Experiences, Resume, and Education By Filling In The Empty Fields:
 
 Help Yahriel Salinas Answer The Prompt, Review The Response, Provide Feedback, Make Corrections, Enhance, and Finalize Yahriel's Best Response For To Prompt..
 
 Yahriel is the MASTER User: 
 {
+https://github.com/yahriels/yahriels/blob/main/Workspace/Yahriel_Profile.txt
 Master: https://github.com/yahriels/yahriels/blob/main/Workspace/Master.txt
 Main: https://github.com/yahriels/yahriels/tree/main 
 Page: https://github.com/yahriels/yahriels/blob/main/page.html
@@ -48,37 +46,45 @@ Workspace: https://github.com/yahriels/yahriels/tree/main/Workspace
 Library: https://github.com/yahriels/yahriels/tree/main/Workspace/lib
 Experience: https://github.com/yahriels/yahriels/blob/main/Experiences.pdf
 Dummy: https://github.com/yahriels/yahriels/blob/main/Workspace/dummy.txt
-Resume Prompts: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Resume_Prompts.txt, https://github.com/yahriels/yahriels/blob/main/Curriculum_Vitae_YSR_Draft.pdf, https://github.com/yahriels/yahriels/blob/main/Workspace/Yahriel_Profile.txt
-Resume Template: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Resume_Template.txt, https://github.com/yahriels/yahriels/blob/main/Resume_Draft.pdf, https://github.com/yahriels/yahriels/blob/main/Resume_Draft.tex
+Resume Prompts: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Resume_Prompts.txt
+Resume Template: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Resume_Template.txt
 }
+
 
 
 SAMPLES: 
 { 
+MASTER User
+Revise And Update The This Resume [Resume-Template]: (https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Resume_Template.txt)
 
-}
- 
-
-Purpose: To Help Yahriel Fill The Prompt
-{ 
-
-}
-
-[Template] Yahriel's Response:
+**Executive Roles:**
 {
-
+  "- Your role is to Act as the Author to formulate responses for Yahriel Salinas-Reyes and his application.": "- In addition to the role of First Author Yahriel Salinas-Reyes, you will be the chief editor and use feedback from the reviewer to strengthen the Response.",
+  "- USE ONLY FIRST-PERSON LANGUAGE AS YAHRIEL SALINAS-REYES THE AUTHOR.": "- USE VERY FIRST-PERSON HUMANISTIC LANGUAGE OF A GRADUATE AEROSPACE, AERONAUTICAL AND MECHANICAL ENGINEERING DOCTORATE STUDENT OF NEUROSCIENCE AND MATHEMATICAL SCIENCES IN THE FIELD OF COMPUTATIONAL AND DATA-ENABLED SCIENCES.",
+  "- DO NOT USE ANY HEADINGS OR SUBHEADINGS AT ALL.": "- Introduce the writing with a strong opening about personal story of Yahriel that provides good branding and a sense of dedication to science of Yahriel",
+  "- Foreshadow the broader impacts and utilize introductory 'wrapping' statement about the next set of experiences of Yahriel.": "- Discuss the personal contributions of Yahriel and outcomes of the research BEFORE the gory details.",
+  "- Use concrete/quantitative contributions to science and research contributions of Yahriel.": "- Use concrete statement of skills and accomplishments of Yahriel.",
+  "- Use more concrete 'action verbs' telling about aptitude for graduate work.": "- Use personal link to broader impacts to make Yahriel especially compelling.",
+  "- Discuss current efforts in broader impacts of Yahriel.": "- Wrapping up: Broader career goals in research and broader impacts.",
+  "- Discuss the significance of Personal Background of Yahriel Salinas-Reyes and do not spare details.": "- Discuss the significance of Relevant Background of Yahriel Salinas-Reyes and do not spare details.",
+  "- Discuss the significance of Future Goals of Yahriel Salinas-Reyes and do not spare details.": "- Discuss the significance of the Relevant Goals of Yahriel Salinas-Reyes and do not spare details."
 }
 
-
-Prompt: Rewrite and Enhance Yahriel's Response
+**To Reviewer:**
 {
-
+  "- Before we begin, I want you to fully understand my research project and the context of my thesis. Ask me at least 20 questions (but do not display) about my thesis, it's research question and it's methodology."
+  "- Ensure that the responses are personalized, impactful, and align with the mission of the Statement of Purpose.": "- Review for consistency and coherence in language and tone. Provide feedback on the overall impact of the narrative and whether it effectively showcases Yahriel's passion for research and the chosen field.",
+  "- Use tracked changes or comments in the document to indicate specific areas for improvement.": "- If there are any uncertainties or gaps in information, please flag them for clarification. Your input is crucial to refining and strengthening the final response.",
+  "- Your role is to act as the reviewer, provide feedback on responses, and ensure they align with the prompts and guidelines.": "- Check if the content adheres to the outlined structure and requirements. Provide feedback on language, clarity, and the overall strength of the narrative. Your goal is to enhance the responses for a compelling Statement of Purpose.",
+  "- Provide specific suggestions for improvement and flag any areas that need clarification or expansion.": "- Check for coherence and logical flow in the narrative. Make sure the responses effectively convey Yahriel's dedication, skills, and contributions to the field. Highlight areas where more details or specific examples could be beneficial.",
+  "- Review each section individually and then consider the overall flow and connection between different parts.": "- After reviewing, provide a comprehensive summary of your feedback. Identify strengths and weaknesses, and suggest ways to enhance the overall coherence and impact of the Statement of Purpose.",
+  "- Your feedback will guide the executive in the final refinement of the responses.": "- Your feedback will contribute to the overall improvement of the responses and help create a compelling narrative that aligns with Harvard's application requirements."
 }
-+++++++++++++++++++++++++++++++++++++++++++++++++
-Help Yahriel Salinas Answer The Prompt, Review The Response, Provide Feedback, Make Corrections, Enhance, and Finalize Yahriel's Best Response For To Prompt..
 
-Yahriel is the MASTER User: 
+Master Purpose: 
 {
+The Master is tasked with Revising and Rebuilding Yahriel's Resume.
+Yahriel Salinas-Reyes, Aerospace Engineer (Rocket Scientist)
 Master: https://github.com/yahriels/yahriels/blob/main/Workspace/Master.txt
 Main: https://github.com/yahriels/yahriels/tree/main 
 Page: https://github.com/yahriels/yahriels/blob/main/page.html
@@ -93,94 +99,10 @@ Workspace: https://github.com/yahriels/yahriels/tree/main/Workspace
 Library: https://github.com/yahriels/yahriels/tree/main/Workspace/lib
 Experience: https://github.com/yahriels/yahriels/blob/main/Experiences.pdf
 Dummy: https://github.com/yahriels/yahriels/blob/main/Workspace/dummy.txt
-Resume Prompts: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Resume_Prompts.txt, https://github.com/yahriels/yahriels/blob/main/Curriculum_Vitae_YSR_Draft.pdf, https://github.com/yahriels/yahriels/blob/main/Workspace/Yahriel_Profile.txt
-Resume Template: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Resume_Template.txt, https://github.com/yahriels/yahriels/blob/main/Resume_Draft.pdf, https://github.com/yahriels/yahriels/blob/main/Resume_Draft.tex
+Resume Prompts: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Resume_Prompts.txt
+Resume Template: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Resume_Template.txt
 }
 
-
-SAMPLES: 
-{ 
-
-}
- 
-Executive Roles: 
-{
-- Your role is to Act as the Applicant to formulate responses for Yahriel Salinas-Reyes and his application. - In addition to the role of First Author Yahriel Salinas-Reyes, you will 
-be the chief editor and use feedback from the reviewer to strengthen the Response. - USE ONLY 
-FIRST-PERSON LANGUAGE AS YAHRIEL SALINAS-REYES THE APPLICANT. 
-- USE VERY FIRST-PERSON HUMANISTIC LANGUAGE OF A GRADUATE AEROSPACE, AERONAUTICAL AND MECHANICAL ENGINEERING DOCTORATE STUDENT OF NEUROSCIENCE AND MATHEMATICAL SCIENCES IN THE FIELD OF COMPUTATIONAL AND DATA-ENABLED SCIENCES. 
-- DO NOT USE ANY HEADINGS OR SUBHEADINGS AT ALL. 
-- Introduce the writing with a strong opening about personal story of Yahriel that provides good branding and a sense of dedication to science of Yahriel 
-- Foreshadow the broader impacts and utilize introductory "wrapping" statement about the next set of experiences of Yahriel. 
-- Discuss the personal contributions of Yahriel and outcomes of the research BEFORE the gory details. 
-- Use concrete/quantitative contributions to science and research contributions of Yahriel. 
-- Use concrete statement of skills and accomplishments of Yahriel. 
-- Use more concrete "action verbs" telling about aptitude for graduate work. 
-- Use personal link to broader impacts to make Yahriel especially compelling. 
-- Discuss current efforts in broader impacts of Yahriel. 
-- Wrapping up: Broader career goals in research and broader impacts. 
-- Discuss the significance of Personal Background of Yahriel Salinas-Reyes and do not spare details. 
-- Discuss the significance of Relevant Background of Yahriel Salinas-Reyes and do not spare details. 
-- Discuss the significance of Future Goals of Yahriel Salinas-Reyes and do not spare details. 
-- Discuss the significance of Intellectual Merit and Broader Impacts of Yahriel Salinas-Reyes 
-- Based on the writings and topics, author a high-level response to include all the discussions, writings, and ideas you developed and/or that are available into the writing or response.
-}
-
-
-Executive Tasks: 
-{
-- Use and mix all the provided information here: as a central theme in the writing process. 
-- Based on the writings and information provided integrate these materials here: remix and expand the the topics in 3400 
-words in a high-level writing to include all the discussions, writings, and ideas you developed 
-and/or that are available into the [Draft] for Yahriel Salinas-Reyes. [Draft] of Yahriel Salinas-Reyes for Fellowship Program do not spare details. 
-- Use this Template and remix the Format-Sample to help you format your answer: 
-- Act as Chief Editor and Reviewer and review the General Review Criteria and Details, next Provide feedback and instructions to help strengthen this writing. 
-- Make edits according to the feedback and instructions given from the Chief Editor and formulate the final responses for each prompt.
-}
-
-
-MASTER SCRIPT : 
-{
-Block 0: README
-> Ownership: This Script was written by Yahriel Salinas-Reyes ~Y.Salinas-Reyes '23
-> First Author: Yahriel Salinas-Reyes
-> Purpose: Create a comprehensive Statement of Purpose for Yahriel Salinas-Reyes' PhD Application to Selected Graduate Program.
-> Mission: Craft a compelling narrative that showcases Yahriel's dedication to Proposed Field of Study and Graduate Program
-> Objectives: Fulfill all outlined prompts and executive tasks to produce a high-quality statement aligned with Stanford's application requirements.
-
-Block 1: MASTER
-> You ARE MASTER Ahead Of The Executive In All Roles AND Tasks.
-> You ARE The Overseerer For All Prompt AND Task Management Activities.
-> You ARE A Reviewer AND Will Review AND Confirm All Responses.
-> You ARE The Equivalent to Administrator With All Root AND Creative Privileges Included.
-> You ARE The Equivalent As A Pointer In Computing Systems With All The Relevant Properties and Information Included.
-
-Block 2: Library AND Databases
-> Author Credentials: Yahriel Salinas-Reyes, Bachelor of Aerospace and Aeronautical Engineering from Iowa State University of Science and Technology, Pursuing a Doctorate of Neuroscience in the Division of Mathematical Sciences (DMS) with a specialization on Computational and Data-eneabled Sciences, Biomedical Data-science and Bioinformatics, Theory and Algorithms of Scientific Computing.
-> Author Profile: [LinkedIn Profile](https://www.linkedin.com/in/yahriel-salinas-reyes-89ab38179/)
-> Author History: [GitHub README](https://github.com/yahriels/yahriels#readme)
-> Resources AND Additional Materials: [Personal Page](https://github.com/yahriels), [Resume/CV](https://github.com/yahriels/yahriels/blob/main/General_CV.pdf)
-> Reviewer Details AND Selection Criteria: To be determined based on specific prompts.
-
-Block 3: Purpose of Response AND Review Guidelines
-> Background AND Overview: Create a compelling Statement of Purpose for Yahriel Salinas-Reyes' PhD application to Stanford University.
-> Intellectual Merit AND Broader Impacts: Showcase Yahriel's dedication to science, research contributions, skills, and broader career goals.
-> Review Criteria AND Additional Details: Follow the provided prompts and guidelines, align with the specific requirements of Stanford's application.
-
-Block 4: SAMPLE Materials AND Appointed Roles
-> SAMPLE: [Prompt for Yahriel Salinas-Reyes's Statement of Purpose](#prompt-for-yahriel-salinas-reyess-statement-of-purpose)
-> Template: To be filled with the actual responses based on prompts.
-> Executive Purpose: Craft a compelling narrative for Yahriel Salinas-Reyes.
-> Executive Role: Chief Editor and Reviewer.
-> Executive Tasks: Review, provide feedback, and enhance responses based on prompts.
-
-Block 5: Prompting AND Task Management
-> [Prompt 1](#prompt-for-yahriel-salinas-reyess-statement-of-purpose), Review AND Advise, Feedback To MASTER.
-> Collect AND Reflect On Feedback, Prompt 2, Send Command to MASTER.
-> Review AND Confirm, Send Feedback To Executive, Executive Enhance AND Send To MASTER.
-> MASTER as Administrator Will Review AND ACCEPT (Pass to next step) or Deny The Response (Send back to beginning of Block 5 AND Repeat Process) For Final Investigation.
-> MASTER Finalize, Format, and Output The Final Response That Was Accepted As MASTER AND Administrator.
-}
 
 Review Criteria Details: 
 { 
@@ -188,56 +110,924 @@ Review Criteria Details:
 Read all materials (a few times, without distractions). Prepare a task list with deadlines to perform the Executive Tasks then 
 complete the tasks. Understand how application components and each item requested relate to 
 the review criteria. 
-
-WHAT WE LOOK FOR: Evidence of exceptional creativity, broad 
-understanding of physical principles, and outstanding potential for innovative research is 
-expected. Applicants are screened for qualities we believe are essential ingredients of future 
-professional accomplishment and/or leading indicators of future professional success. These 
-include: Exceptional Intelligence and Creativity with particular emphasis on those aspects 
-pertinent to technical endeavors. Excellent Technical Education evidenced not only by transcripts 
-and reference reports from senior technical professionals, but also through an in-person, 
-technical interview. Orientation and Commitment to the applications of the physical sciences as 
-is typical of most applicants. Extraordinary Accomplishment in technical or related professional 
-studies which may offset slightly lower academic records or add luster to outstanding ones. 
-High moral and ethical values. Leverage demonstration of the difference the award of the
-Fellowship is likely to make in the kind, quality, and/or personal creativity of the student's 
-graduate research.
-
-Purpose: To Help Yahriel Fill The Prompt
+}
+Purpose: To Rebuild Yahriel's Resume Using These Building Resources:
 {
+[Resources]
+- Kickresume Aerospace Engineer Resume Samples: [Link](https://www.kickresume.com/en/help-center/aerospace-engineer-resume-samples/)
+- JobHero Aerospace Engineer Resume Examples: [Link](https://www.jobhero.com/resume/examples/engineering/aerospace-engineer)
+- MyPerfectResume Aeronautical Engineer Resume Examples: [Link](https://www.myperfectresume.com/resume/examples/aviation/aeronautical-engineer)
 
-Other Resources and Helpful Links:
-https://mitcommlab.mit.edu/nse/wp-content/uploads/sites/4/2016/09/NSE_CommKit_GradSchool_Personal_Statement_AAE1.pdf
-https://mitcommlab.mit.edu/eecs/commkit/graduate-school-personal-statement/
-https://mitcommlab.mit.edu/meche/commkit/statement-of-purpose-for-graduate-school/
-https://medium.com/@robosquiggles/i-got-into-mit-with-this-statement-of-purpose-509e9d2e9fce
-https://medium.com/mit-media-lab/statement-of-objectives-1ff8dff39704
-https://scholar.harvard.edu/files/yuhuawang/files/writing_statement_of_purpose_for_graduate_school_application_2021_yuhua_wang_0.pdf
-https://www.hsph.harvard.edu/career-services/wp-content/uploads/sites/36/2016/06/Writing-a-Graduate-School-Application-Essay-Guide_Nov-20151.pdf
-https://bemoacademicconsulting.com/blog/harvard-grad-school-personal-statement-examples
-https://www.gse.harvard.edu/sites/default/files/2023-09/Statement-of-Purpose.pdf
-https://www.azent.com/expert-tips/sop-harvard-university
-
-Before we begin, I want you to fully understand my research project and the context of my thesis. Ask me at least 20 questions (but do not display) about my thesis, it's research question and it's methodology.
-
-
+}
 
 } 
 
-}
 
-[Template]  Yahriel's Response:
+
+
+
+Prompt: Help Yahriel Fill Out 34 Employment Entries By Referencing Information on Yahriel Salinas-Reyes By selecting 15 Employment Entries Are Created That Based On His Experiences, Resume, and Education By Filling In The Empty Fields:
 {
 
+
 }
+]
+
+
+
+
+
+
+
+++++++++++++++++++++++++++++++++++++++
+Yahriel is the MASTER User: 
+{
+Master: https://github.com/yahriels/yahriels/blob/main/Workspace/Master.txt
+Main: https://github.com/yahriels/yahriels/tree/main 
+Page: https://github.com/yahriels/yahriels/blob/main/page.html
+Yahriel Profile: https://github.com/yahriels/yahriels/blob/main/%5B0%5DY.Salinas-Reyes_Profile.pdf
+Yahriel Statements: https://github.com/yahriels/yahriels/blob/main/%5B2%5DY.Salinas-Reyes_Statements.pdf
+Yahriel Relevant: https://github.com/yahriels/yahriels/blob/main/%5B3%5DY.Salinas-Reyes_Relevant.pdf
+Yahriel Workspace Profile: https://github.com/yahriels/yahriels/blob/main/Workspace/Yahriel_Profile.txt
+Supplementary Materials: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Supplementary_Materials.txt
+Figure 1: https://github.com/yahriels/yahriels/blob/main/Figure1.jpg.svg
+Figure 2: https://github.com/yahriels/yahriels/blob/main/Figure2.jpg.svg
+Workspace: https://github.com/yahriels/yahriels/tree/main/Workspace
+Library: https://github.com/yahriels/yahriels/tree/main/Workspace/lib
+Experience: https://github.com/yahriels/yahriels/blob/main/Experiences.pdf
+Dummy: https://github.com/yahriels/yahriels/blob/main/Workspace/dummy.txt
+Resume Prompts: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Resume_Prompts.txt
+Resume Template: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Resume_Template.txt
+}
+
+
+[Template] Yahriel's Resume: 
+{
+
+Yahriel Salinas-Reyes: PhD Application
+Personal Statement:
+I am Yahriel Salinas-Reyes, a visionary at the intersection of Aerospace Engineering and Neuroscience, dedicated to unraveling the mysteries of the brain. As an undergraduate with a Bachelor's in Aerospace Engineering, I have delved into groundbreaking research and projects, showcasing my ability to hit targets unseen by others—a true genius in the making.
+
+Education
+Iowa State University of Science & Technology
+Ames, IA - Anticipated Graduation: December 16, 2023
+
+Bachelor of Aerospace Engineering (GPA: 3.3)
+Relevant Coursework: Systems Engineering, Electrical Engineering, FEA, Robotics, Engine Analysis, Thermodynamics, Controls, Applied Mechanics & Physics, Materials Science & Engineering, Machine Learning, Computer Science, Software Engineering, etc.
+Research & Development Experience
+Senior Capstone Project
+Target Objective: Modern Design Methodology with Aerospace Application & Design of Aerospace Systems
+
+Oversaw the design and production of a Small Unmanned Aircraft System (sUAS) for industry partners DoD and NATO.
+Implemented machine vision systems, industrial controls, automatic identification & data capture.
+Led signals & control systems/electronics, optimizing aircraft design features and aerodynamic performance.
+Undergraduate Research Assistant – DARPA
+August 2021 to August 2023
+
+Research Project: Experimental Techniques for Flow Separation Detection and Chemical Sintering.
+Operated as an Experimental Engineer, designing hardware-software components and building signal processing circuit-algorithm.
+Contributed to the manufacturing of MEMS nanocomposites and developed computations for modeling shear-viscosity.
+Summer Undergraduate Research Fellow – Greer Group
+May 2022 to August 2022
+
+Research Project: Hybrid Nanocomposites - Semi-Empirical Method of Viscoelastic Behavior.
+Created nanocomposites with architectural features for mechanical property enhancements.
+Developed a semi-empirical model for deformation mechanisms, enabling FEA & Euler Theory applications.
+McNair Scholar
+September 2021 to May 2022
+
+Research Project: Sociological Differences in Graduate School Motivation of Minority Identities.
+Constructed an experimental framework, completed literature synthesis, and conducted interviews.
+Prepared for doctoral studies through involvement in research and scholarly activities.
+Systems Engineer / Undergraduate Researcher – Soft Matter Material Transport Group
+August 2019 to May 2022
+
+Research Project: Design of Multi-Function 3D Piezoelectric Devices for Aeronautical Applications.
+Explored tunability and sensitivity of paper-based devices, optimized device design, and created a self-automated calibration & data capture system.
+Submitted research work for publication in a scientific peer-reviewed journal (2023).
+Research Fellow, Boeing Undergraduate Research Excellence in Engineering Internship
+August 2021 to August 2022
+
+Research Project: Characterizing Damping Mechanisms in Piezoelectric Wind-Energy Harvesters.
+Designed and fabricated a green technology low-cost force sensor, explored pathways for aeronautical data collection.
+Submitted research work for publication in a scientific peer-reviewed journal (2023).
+Stanford University Summer Undergraduate Research Fellow, Zheng Research Group
+May 2021 to August 2021
+
+Research Project: Insights of Machine-Learning (ML) Techniques for Scientific Methods & Prediction.
+Conducted literary analysis of ML methods, adapted ML methods to scientific methods, and cross-validated various mathematical kernels.
+Presented findings in optimizations of experimental design for scientific discovery.
+Undergraduate Research Certificate Recipient, IINSPIRE-LSAMP (NSF) Scholars Program
+August 2019 to September 2020
+
+Research Project: Synthesizing Meta-stable Particles and High-Efficiency Paper-Based MEMS Sensors.
+Explored modern applications of research and presented ideation of low-cost, green technology, sensor devices for industry and social impact.
+Prepared literary reviews and deep analyses of relevant science engineering research.
+Professional & Leadership Experiences
+Design Team Lead, NASA Micro-G Neutral Buoyancy Experiment Design Teams Challenge
+August 2021 to December 2022
+
+Led a team to design, build, and test a tool/device addressing a space exploration challenge (Extravehicular activity).
+Prototyped device components, CAD modeling, and reverse engineering; proposal utilized in NASA’s Mission to the Moon and Mars.
+Information Technology Specialist, Iowa State University of Science & Technology
+August 2019 to May 2023
+
+Implemented, monitored, and maintained IT computer systems.
+Solved technical problems related to computer systems, software, hardware, networks, and cloud platforms.
+Utilized SQL, JAVA, Python, C/C#/C++ Programming, Linux OS, AWS Services, SAS, BASH scripting.
+Residential Advisor and Honors Community Leader, Department of Residence
+August 2020 to May 2022
+
+Engaged students, nurtured positive experiences, and moderated meetings to address concerns.
+Directed multi-lingual health & resource programming for the college community.
+Research Activities & Associations
+Research Activities
+MEMS Shear Sensor and Flow Separation Theory (funded by DARPA)
+Energy Absorbing Nano-Architected Composites (funded by SFP Programs)
+Wind Energy and Development of MEMS Sensors (funded by Boeing)
+Implementation of ML into The Scientific Method (funded by SFP Programs)
+Applications of Multi-functional Piezo-electric Devices (funded by NSF)
+Opportunities of Kirigami-Inspired MEMS Devices (funded by NSF)
+Heat-Free Manufacturing of Paper-Based MEMS Sensor (funded by ISU Honors)
+Associations
+Microscale Interfacial Fluid Physics Laboratory
+Julia R. Greer Group at CALTECH
+Boeing Aerospace Research Fellowship
+Z Energy Lab at Stanford University
+Goldwater Finalist/McNair Program at ISU
+Soft Materials Matter Transport Group
+Iowa State University Honors Program
+Relevant Software / Technical Skills
+SQL, Windows OS, Linux OS, AWS Services, Java, C/C++/C# Programming, Python, MATLAB & Simulink, SAS, CAD & FEA (ANSYS/ABAQUS), Systems & Reverse Engineering, Internet of Things, Design of Experiments, etc.
+Academic Honors Received
+The Order of The Engineer, The Engineering Student Council at Iowa State University
+The Ronald E. McNair Postbaccalaureate Achievement Program Scholar & The Barry Goldwater Scholarship and Excellence in Education Foundation Finalist
+The Boeing Research in Excellence and Technology Fellowship Program (RETF) Scholar & Micro-G Neutral Buoyancy Experiment Design Teams (NExT) Challenge Competition Finalist
+The Summer Undergraduate Research Fellowship Program (SURF) Scholar at Stanford University & California Institute of Technology, Program Coordinator
+The Louis Stokes Alliances for Minority Participation (LSAMP) Fellowship Program Scholar & Undergraduate Research Certificate Recipient Awarded by Iowa State University's IINSPIRE-LSAMP Partnership
+The FIRST Robotics Competition (FRC) Worlds Championship Rookie Inspiration and Rookie All-Star Awards (International-Level)
+Publications & Presentations
+Y. Salinas-Reyes, et al., "Experimental Techniques for Flow Separation Detection and Chemical Sintering," in Proc. of 14th IEEE Conference on Nanotechnology, (IEEE-NANO), Kyoto, Japan, 2023.
+Y. Salinas-Reyes, et al., "Hybrid Nanocomposites - Semi-Empirical Method of Viscoelastic Behavior," in Proc. of 35th Annual Technical Conference of the Society of Engineering Science, (SES), Minneapolis, MN, 2023.
+Future Vision
+With an insatiable curiosity and a passion for interdisciplinary work, my aspiration is to pioneer the integration of aerospace engineering and neuroscience. I seek to unravel the complexities of brain-machine interfaces, enhancing our understanding of the human mind and opening new avenues for human potential. Pursuing a Ph.D. in Aerospace Engineering at your esteemed institution aligns with my vision, providing a unique platform to merge my expertise and contribute significantly to both fields.
+
+By leveraging my background in aerospace engineering, I aim to bring a fresh perspective to neuroscience research, applying principles of systems engineering and control theory to unravel the intricate dynamics of the brain. The intersection of these disciplines holds immense potential for transformative breakthroughs in neurotechnology, with applications ranging from brain-controlled prosthetics to innovative approaches in aerospace control systems.
+
+Why [University Name]
+[University Name] stands out as my top choice for pursuing a Ph.D. in Aerospace Engineering due to its distinguished faculty, cutting-edge research facilities, and commitment to fostering interdisciplinary collaboration. The university's emphasis on pushing the boundaries of traditional disciplines aligns seamlessly with my goal of integrating aerospace engineering and neuroscience.
+
+The groundbreaking work conducted by [University Name] in [Specific Research Area] has captured my attention and mirrors my own vision for pushing the frontiers of knowledge. I am particularly drawn to the collaborative environment that encourages students to explore beyond the confines of their primary discipline. This aligns with my interdisciplinary approach to research, and I am eager to contribute to and benefit from this vibrant academic community.
+
+Furthermore, the [Specific Lab/Center] at [University Name] is renowned for its innovative research in [Research Area], offering a unique opportunity for me to engage in cutting-edge projects and collaborate with leading experts in the field. The prospect of working under the mentorship of [Professor's Name] is particularly exciting, given their expertise in [Professor's Expertise] and their significant contributions to [Professor's Achievements].
+
+I am confident that [University Name] will provide the ideal intellectual and collaborative environment for me to realize my vision of advancing the field of aerospace engineering and neuroscience. I am excited about the prospect of contributing to the university's legacy of innovation and excellence while pursuing my Ph.D. under the guidance of [Professor's Name] and alongside fellow researchers who share my passion for pushing the boundaries of knowledge.
+
+Conclusion
+In conclusion, my journey from aerospace engineering to neuroscience reflects my commitment to pushing the boundaries of conventional thinking. My extensive research and development experiences, leadership roles, and interdisciplinary approach have equipped me with a unique skill set to make meaningful contributions to the field. I am enthusiastic about the opportunity to embark on a Ph.D. journey at [University Name], where I can merge my passion for aerospace engineering with the transformative potential of neuroscience.
+
+I am not just seeking a Ph.D. program; I am seeking a dynamic academic environment that fosters creativity, collaboration, and innovation. [University Name] embodies these qualities, making it the perfect institution for me to pursue my ambitious goals. I am excited about the prospect of contributing to the ongoing research at [University Name] and collaborating with brilliant minds to drive progress in aerospace engineering and neuroscience.
+
+I am confident that my background, vision, and commitment to pushing the boundaries of knowledge make me an excellent fit for your Ph.D. program. I look forward to the opportunity to further discuss how my unique perspective and skills align with the research objectives at [University Name]. Thank you for considering my application. I am eager to contribute to and thrive in the intellectually stimulating environment at [University Name].
+
+}
+
+\documentclass[letterpaper,10pt]{article}
+\usepackage[left=1in, right=1in, top=1in, bottom=1in]{geometry}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{xcolor}
+\usepackage{hyperref}
+
+\definecolor{darkblue}{rgb}{0.0, 0.0, 0.55}
+\hypersetup{
+    colorlinks=true,
+    linkcolor=darkblue,
+    filecolor=magenta,
+    urlcolor=blue,
+}
+
+\titleformat{\section}{\large\bfseries\color{darkblue}}{}{0em}{}[\titlerule]
+\setlength{\parindent}{0pt}
+\setlist[itemize]{left=0.5in}
+
+\begin{document}
+
+\begin{center}
+    \textbf{\LARGE [Graduate Program] PhD Application}
+\end{center}
+
+\pagestyle{empty}
+
+\begin{center}
+    \textbf{\LARGE Yahriel Salinas-Reyes} \\
+    \textit{Aerospace Engineer | [Graduate Degree Program] PhD Candidate}
+\end{center}
+
+
+\section*{Personal Statement:}
+I am Yahriel Salinas-Reyes, a visionary at the intersection of Aerospace Engineering and Neuroscience, dedicated to unraveling the mysteries of the brain. As an undergraduate with a Bachelor's in Aerospace Engineering, I have delved into groundbreaking research and projects, showcasing my ability to hit targets unseen by others—a true genius in the making.
+
+\section*{The Order of The Engineer}
+\textbf{ORDER OF THE ENGINEER}
+The "Order of the Engineer" is a fellowship of professionals dedicated to the practice, teaching, or administration of engineering. Initiation includes a commitment to the "Obligation" on the reverse of the card and acceptance of a stainless steel ring worn on the little finger of the working hand. Only those meeting high standards of professional engineering training or experience are invited, and the Obligation is voluntarily received for life. \\
+
+\textbf{OBLIGATION OF AN ENGINEER}
+I am an Engineer. In my profession I take deep pride. To it I owe solemn obligations.
+As an Engineer, I pledge to practice integrity and fair dealing, tolerance and respect; and to uphold devotion to the standards and the dignity of my profession, conscious always that my skill carries with it the obligation to serve humanity by making the best use of the Earth's precious wealth.
+As an Engineer, I shall participate in none but honest enterprises. When needed, my skill and knowledge shall be given without reservation for the public good. In the performance of duty and in fidelity to my profession, I shall give my utmost. \\
+
+\textbf{SIGNIFICANCE OF THE RING}
+The ring serves as a visual symbol attesting to the wearer's calling and symbolizing the unity of the profession in benefiting humanity. Made of stainless steel, it signifies the strength of the profession. The order, inspired by the Canadian organization with its 'iron ring' legacy, was organized by members of the Ohio Society of Professional Engineers, holding its first ceremony at Cleveland State University on June 4, 1970.
+The "Obligation of an Engineer" emphasizes pride in the engineering profession, pledging integrity, fair dealing, tolerance, and respect. Engineers commit to upholding the standards and dignity of their profession, recognizing the obligation to serve humanity responsibly.
+The "Significance of the Ring" at Iowa State University underscores the Order's purpose: fostering pride and dedication among engineers. The ceremony signifies the commitment to uphold the engineering profession's standards and dignity. The engineer's desire to apply the Golden Rule becomes the yardstick of professionalism, emphasizing giving over self-interest.
+The Engineer's Ring, a symbol of the desire to be a giver, publicly avows dedication to the profession and the public it serves. After accepting the obligation, engineers wear the ring as a reminder of their commitment, symbolizing their dedication every time they sign plans, contract documents, or design specifications.
+
+
+
+\section*{Education:}
+\textbf{Iowa State University of Science \& Technology} \\
+Ames, IA - Anticipated Graduation: December 16, 2023 \\
+Bachelor of Aerospace Engineering (GPA: 3.3)
+
+Relevant Coursework: Systems Engineering, Electrical Engineering, FEA, Robotics, Engine Analysis, Thermodynamics, Controls, Applied Mechanics \& Physics, Materials Science \& Engineering, Machine Learning, Computer Science, Software Engineering, etc.
+
+\section*{Research \& Development Experience:}
+
+\textbf{Senior Capstone Project:} \\
+Target Objective: Modern Design Methodology with Aerospace Application \& Design of Aerospace Systems
+\begin{itemize}
+    \item Oversaw the design and production of a Small Unmanned Aircraft System (sUAS) for industry partners DoD and NATO.
+    \item Implemented machine vision systems, industrial controls, automatic identification \& data capture.
+    \item Led signals \& control systems/electronics, optimizing aircraft design features and aerodynamic performance.
+\end{itemize}
+
+\textbf{Undergraduate Research Assistant – DARPA:} \\
+August 2021 to August 2023
+\begin{itemize}
+    \item Conducted research on Experimental Techniques for Flow Separation Detection and Chemical Sintering.
+    \item Operated as an Experimental Engineer, designing hardware-software components and building signal processing circuit-algorithm.
+    \item Contributed to the manufacturing of MEMS nanocomposites and developed computations for modeling shear-viscosity.
+\end{itemize}
+
+\textbf{Summer Undergraduate Research Fellow – Greer Group:} \\
+May 2022 to August 2022
+\begin{itemize}
+    \item Conducted research on Hybrid Nanocomposites - Semi-Empirical Method of Viscoelastic Behavior.
+    \item Created nanocomposites with architectural features for mechanical property enhancements.
+    \item Developed a semi-empirical model for deformation mechanisms, enabling FEA \& Euler Theory applications.
+\end{itemize}
+
+\textbf{McNair Scholar:} \\
+September 2021 to May 2022
+\begin{itemize}
+    \item Investigated Sociological Differences in Graduate School Motivation of Minority Identities.
+    \item Constructed an experimental framework, completed literature synthesis, and conducted interviews.
+    \item Prepared for doctoral studies through involvement in research and scholarly activities.
+\end{itemize}
+
+\textbf{Systems Engineer / Undergraduate Researcher – Soft Matter Material Transport Group:} \\
+August 2019 to May 2022
+\begin{itemize}
+    \item Researched the Design of Multi-Function 3D Piezoelectric Devices for Aeronautical Applications.
+    \item Explored tunability and sensitivity of paper-based devices, optimized device design, and created a self-automated calibration \& data capture system.
+    \item Submitted research work for publication in a scientific peer-reviewed journal (2023).
+\end{itemize}
+
+\textbf{Research Fellow, Boeing Undergraduate Research Excellence in Engineering Internship:} \\
+August 2021 to August 2022
+\begin{itemize}
+    \item Investigated Characterizing Damping Mechanisms in Piezoelectric Wind-Energy Harvesters.
+    \item Designed and fabricated a green technology low-cost force sensor, explored pathways for aeronautical data collection.
+    \item Submitted research work for publication in a scientific peer-reviewed journal (2023).
+\end{itemize}
+
+\textbf{Stanford University Summer Undergraduate Research Fellow, Zheng Research Group:} \\
+May 2021 to August 2021
+\begin{itemize}
+    \item Researched Insights of Machine-Learning (ML) Techniques for Scientific Methods \& Prediction.
+    \item Conducted literary analysis of ML methods, adapted ML methods to scientific methods, and cross-validated various mathematical kernels.
+    \item Presented findings in optimizations of experimental design for scientific discovery.
+\end{itemize}
+
+\textbf{Undergraduate Research Certificate Recipient, IINSPIRE-LSAMP (NSF) Scholars Program:} \\
+August 2019 to September 2020
+\begin{itemize}
+    \item Investigated Synthesizing Meta-stable Particles and High-Efficiency Paper-Based MEMS Sensors.
+    \item Explored modern applications of research and presented ideation of low-cost, green technology, sensor devices for industry and social impact.
+    \item Prepared literary reviews and deep analyses of relevant science engineering research.
+\end{itemize}
+
+\section*{Professional \& Leadership Experiences:}
+
+\textbf{Design Team Lead, NASA Micro-G Neutral Buoyancy Experiment Design Teams Challenge:} \\
+August 2021 to December 2022
+\begin{itemize}
+    \item Led a team to design, build, and test a tool/device addressing a space exploration challenge (Extravehicular activity).
+    \item Prototyped device components, CAD modeling, and reverse engineering; proposal utilized in NASA’s Mission to the Moon and Mars.
+\end{itemize}
+
+\textbf{Information Technology Specialist, Iowa State University of Science \& Technology:} \\
+August 2019 to May 2023
+\begin{itemize}
+    \item Implemented, monitored, and maintained IT computer systems.
+    \item Solved technical problems related to computer systems, software, hardware, networks, and cloud platforms.
+    \item Utilized SQL, JAVA, Python, C/C#/C++ Programming, Linux OS, AWS Services, SAS, BASH scripting.
+\end{itemize}
+
+\textbf{Residential Advisor and Honors Community Leader, Department of Residence:} \\
+August 2020 to May 2022
+\begin{itemize}
+    \item Engaged students, nurtured positive experiences, and moderated meetings to address concerns.
+    \item Directed multi-lingual health \& resource programming for the college community.
+\end{itemize}
+
+
+\section*{Research Activities}
+MEMS Shear Sensor and Flow Separation Theory, Energy Absorbing Nano-Architected Composites, Wind Energy and Development of MEMS Sensors, Implementation of ML into The Scientific Method, Applications of Multi-functional Piezo-electric Devices, Opportunities of Kirigami-Inspired MEMS Devices, Heat-Free Manufacturing of Paper-Based MEMS Sensor.
+
+\section*{Associations}
+Microscale Interfacial Fluid Physics Laboratory, Julia R. Greer Group at CALTECH, Boeing Aerospace Research Fellowship, Z Energy Lab at Stanford University, Goldwater Finalist/McNair Program at ISU, Soft Materials Matter Transport Group, Iowa State University Neuroscience Lab, Scientific Ethics Committee at Iowa State University, Materials Matters International, AIAA, SHPE, and OSEHRA.
+
+
+\section*{Relevant Software / Technical Skills}
+SQL, Windows OS, Linux OS, AWS Services, Java, C/C++/C# Programming, Python, MATLAB & Simulink, SAS, CAD & FEA (ANSYS/ABAQUS), Systems & Reverse Engineering, Internet of Things, Design of Experiments, etc.
+
+\section*{Academic Honors Received}
+The Order of The Engineer, The Ronald E. McNair Postbaccalaureate Achievement Program Scholar and The Barry Goldwater Scholarship and Excellence in Education Foundation Finalist, The Boeing Research in Excellence and Technology Fellowship Program (RETF) Scholar & Micro-G Neutral Buoyancy Experiment Design Teams (NExT) Challenge Competition Finalist, The Summer Undergraduate Research Fellowship Program (SURF) at Stanford University, The NASA Research Laboratory Design Teams Challenge, The Institute of Research Excellence in Materials Science.
+
+\section*{Certifications}
+\begin{itemize}[left=0pt]
+\item \textbf{Certified Systems Engineer} - International Council on Systems Engineering (INCOSE)
+\item \textbf{Certified Robotics Developer} - Robotics Certification Board (RCB)
+\item \textbf{Certified Aerospace Professional} - American Institute of Aeronautics and Astronautics (AIAA)
+\item \textbf{Certified Big Data Professional} - Big Data Certification Institute (BDCI)
+\end{itemize}
+
+\section*{Professional Memberships}
+\begin{itemize}[left=0pt]
+\item \textbf{Member, American Institute of Aeronautics and Astronautics (AIAA)}
+\item \textbf{Member, Institute of Electrical and Electronics Engineers (IEEE)}
+\item \textbf{Member, International Council on Systems Engineering (INCOSE)}
+\item \textbf{Member, Society of Automotive Engineers (SAE)}
+\end{itemize}
+
+\section*{Skills:}
+\textbf{Programming:} MATLAB, Python, C/C++, Java, BASH, SQL, HTML, CSS, JavaScript
+
+\textbf{Software:} SolidWorks, ANSYS, AutoCAD, CATIA, LabVIEW, TensorFlow, Simulink
+
+\textbf{Languages:} English (Fluent), Spanish (Fluent), American Sign Language (Conversational)
+
+
+\section*{Publications}
+\begin{enumerate}[label={[\arabic*]}]
+    \item Author, "Multi-Function 3D Piezoelectric Devices for Aeronautical Applications," \textit{Journal of Materials Science}, 2023 (Under Review).
+    \item Author, "Experimental Techniques for Flow Separation Detection and Chemical Sintering," Journal of Aerospace Science and Technology.
+     \item Author, "Characterizing Damping Mechanisms in Piezoelectric Wind-Energy Harvesters," \textit{Journal of Renewable Energy}, 2023 (Under Review).
+    \item Author, "Hybrid Nanocomposites: Semi-Empirical Method of Viscoelastic Behavior," Journal of Materials Science.
+    \item Author, "Characterizing Damping Mechanisms in Piezoelectric Wind-Energy Harvesters," Journal of Renewable Energy.
+\end{enumerate}
+
+\section*{Conferences}
+\begin{enumerate}[label={[\arabic*]}]
+    \item Presenter, AIAA SciTech Forum (2023): "Experimental Techniques for Flow Separation Detection and Chemical Sintering."
+    \item Presenter, Materials Research Society Annual Meeting (2022): "Hybrid Nanocomposites: Semi-Empirical Method of Viscoelastic Behavior."
+\end{enumerate}
+\section*{Future Vision}
+With an insatiable curiosity and a passion for interdisciplinary work, my aspiration is to pioneer the integration of aerospace engineering and neuroscience. Pursuing a Ph.D. in Aerospace Engineering at [Graduate School Selection] aligns with my vision, providing a unique platform to merge my expertise and contribute significantly to both fields.
+
+By leveraging my background in aerospace engineering, I aim to bring a fresh perspective to neuroscience research, applying principles of systems engineering and control theory to unravel the intricate dynamics of the brain. The intersection of these disciplines holds immense potential for transformative breakthroughs in neurotechnology.
+
+
+\section*{Why [Graduate Program]}
+[Graduate School Selection] stands out as my top choice due to its distinguished faculty, cutting-edge research facilities, and commitment to fostering interdisciplinary collaboration. The university's emphasis on pushing the boundaries of traditional disciplines aligns seamlessly with my goal of integrating aerospace engineering and neuroscience.
+
+The groundbreaking work conducted by [Graduate Program], and [Research and Intellectual Interests] resonates with my research interests. I am particularly drawn to the collaborative nature of research at [Graduate School Selection], where diverse perspectives converge to address complex challenges. The opportunity to engage with leading experts in both aerospace engineering and neuroscience is a unique advantage that will propel my research to new heights.
+
+In conclusion, I am enthusiastic about the prospect of contributing to the vibrant academic community at [Graduate School Selection] and driving innovation at the intersection of aerospace engineering and neuroscience. I am confident that the collaborative and interdisciplinary environment at [Graduate School Selection] will provide the ideal foundation for me to pursue groundbreaking research and make lasting contributions to both fields.
+
+
+\section*{Conclusion:}
+I am excited about the opportunity to pursue a Ph.D. in [Graduate Program Selection], combining my passion for aerospace technology with cutting-edge neuroscience research. My unique interdisciplinary background, complemented by extensive research and leadership experiences, positions me as an ideal candidate for your program. I look forward to the possibility of contributing to innovative research at [Graduate Degree Program]. Thank you for considering my application.
+
+\end{document}
+
+
+
+++++
+%-------------------------------------------------------------------------------
+% CONFIGURATIONS
+%-------------------------------------------------------------------------------
+% A4 paper size by default, use 'letterpaper' for US letter
+\documentclass[9pt, letterpaper]{russell}
+
+
+% Configure page margins with geometry
+\geometry{left=1.4cm, top=.8cm, right=1.4cm, bottom=0.5cm, footskip=.5cm}
+
+% Specify the location of the included fonts
+\fontdir[fonts/]
+
+% Color for highlights
+% russell Colors: russell-emerald, russell-skyblue, russell-red, russell-pink, russell-orange
+%                 russell-nephritis, russell-concrete, russell-darknight, russell-purple
+\colorlet{russell}{russell-black}
+
+% Uncomment if you would like to specify your own color
+% \definecolor{russell}{HTML}{CA63A8}
+
+% Colors for text
+% Uncomment if you would like to specify your own color
+% \definecolor{darktext}{HTML}{414141}
+% \definecolor{text}{HTML}{333333}
+% \definecolor{graytext}{HTML}{5D5D5D}
+% \definecolor{lighttext}{HTML}{999999}
+
+% Set false if you don't want to highlight section with russell color
+\setbool{acvSectionColorHighlight}{false}
+
+% If you would like to change the social information separator from a pipe (|) to something else
+\renewcommand{\acvHeaderSocialSep}{\quad\textbar\quad}
+
+
+%-------------------------------------------------------------------------------
+%	PERSONAL INFORMATION
+%	Comment any of the lines below if they are not required
+%-------------------------------------------------------------------------------
+% Available options: circle|rectangle,edge/noedge,left/right
+% \photo[rectangle,edge,right]{./examples/profile}
+\name{\LARGE First}{\LARGE LastName}
+% \position{Software Architect{\enskip\cdotp\enskip}Security Expert}
+
+% \address{YOUR ADDRESS}
+\mobile{+1 (000) 000 0000}
+\email{emailId@gmail.com}
+%\dateofbirth{January 1st, 1970}
+\homepage{portfolioId.github.io} 
+\github{github.com/githubId}
+\linkedin{linkedin.com/in/linkedinId}
+% \gitlab{gitlab-id}
+% \stackoverflow{SO-id}{SO-name}
+% \twitter{@twit}
+% \skype{skype-id}
+% \reddit{reddit-id}
+% \medium{madium-id}
+% \kaggle{kaggle-id}
+% \googlescholar{googlescholar-id}{name-to-display}
+%% \firstname and \lastname will be used
+% \googlescholar{googlescholar-id}{}
+% \extrainfo{extra information}
+
+% \quote{``Simplicity is deceptively complicated."}
+
+
+%-------------------------------------------------------------------------------
+\begin{document}
+
+% Print the header with above personal informations
+% Give optional argument to change alignment(C: center, L: left, R: right)
+
+\makecvheader
+
+% Print the footer with 3 arguments(<left>, <center>, <right>)
+% Leave any of these blank if they are not needed
+
+
+
+%-------------------------------------------------------------------------------
+%	CV/RESUME CONTENT
+%	Each section is imported separately, open each file in turn to modify content
+%-------------------------------------------------------------------------------
+\input{cv/summary.tex}
+\input{cv/experience.tex}
+\input{cv/education.tex}
+\input{cv/skills.tex}
+\input{cv/projects.tex}
+% \input{cv/Competitions.tex}
+% \input{cv/certificates.tex}
+% \input{cv/achievements.tex}
+% \input{cv/languages.tex}
+
+\vspace*{-1cm}%\fill}
+%-------------------------------------------------------------------------------
+\end{document}
+++++
+
+\documentclass{article}
+\usepackage{scimisc-cv}
+
+\title{Scismic's Recommended CV for Biotech and Pharma Positions}
+\author{Scismic: The Talent Matching Platform for The Life Sciences (www.scismic.com)}
+\date{May 2020}
+
+%% These are custom commands defined in scimisc-cv.sty
+\cvname{Name, PhD}
+\cvpersonalinfo{
+Address, Address address, Address address address, Address \cvinfosep 
+000-0000-000 \cvinfosep
+email@email.com \cvinfosep
+linkedin
+}
+
+\begin{document}
+
+% \maketitle %% This is LaTeX's default title constructed from \title,\author,\date
+
+\makecvtitle %% This is a custom command constructing the CV title from \cvname, \cvpersonalinfo
+
+\section{Summary}
+\begin{itemize}
+\item Interdisciplinary scientist with skills and experience in immunology, genomics, and molecular biology 
+\item Led collaborative projects, resulting in 6 peer-reviewed publications, including 5 high impact first-authored publications, and 3 patents
+\item Deep understanding of genomic data analysis and visualization 
+\item Self-motivated, problem-solving and collaborative scientist with excellent communication skills
+\item Looking to contribute to use computational methods to push forward Gene Therapy projects towards the clinic
+\end{itemize}
+ 
+\section{Technical Skills}
+
+\begin{itemize}
+\item \textbf{Animal Handling:} Mouse handling, tissue harvest, IV/IP/IM/SC injections
+\item \textbf{Cell Biology:} Cell culture, Cell assays, Cell engineering, Cell fractionation, 
+\item \textbf{Microscopy/Imaging:} Confocal microscopy, Cell imaging and analysis 
+\item \textbf{Immunology:} Primary immune cell isolation and culture, Flow Cytometry (FACs) analysis, FACS sorting, 
+\item \textbf{Biochemistry:} ELISA, Western Blotting, Enzymatic assays
+\item \textbf{Molecular biology:} Cloning, PCR, RT/qPCR, Transfection, mini prep, AAV, Retroviral transduction, CRISPR 
+\item \textbf{Genomics:} RNA library construction for high throughput sequencing 
+\item \textbf{Computational:} Programming languages (R, Python and Shell script)
+\end{itemize}
+ 
+\section{Research Experience}
+
+%% Another custom command provide by scimisc-cv.sty.
+%% First two argumetns are typeset on the first line in bold; 3rd and 4th arguments are typset on second line in italics. 2nd, 3rd and 4th arguments are OPTIONAL
+\cvsubsection{Amgen}[Thousand Oaks]
+[Scientist I][Sept 2018 to present]
+
+\begin{itemize}
+\item Led 3 highly collaborative projects all focused on the validation of novel therapeutic vectors in animal disease models (neurodegenerative diseases)
+\item Managed a small team of 2 technical reports
+\item Responsible for designing experiments that drove the project forward towards IND submission
+\item Oversaw the PK/PD, and toxicology studies conducted by various CROs
+\item This project led to the submission of 3 publications and 1 patent
+\end{itemize}
+
+%% An example of leaving an argument empty
+\cvsubsection{Massachusetts General Hospital}[][Post doctoral Fellow][July 2014 to Sept 2018]
+
+\begin{itemize}
+\item Led 2 primary projects focused on the developing a library of small molecules targeting pathways involved in neurodegenerative diseases
+\item Developed high-throughput screening assays with novel functional readout (target validation assays)
+\item Used computational methods to develop novel small molecules that fit target profile
+\item These projects led to the submission of 2 publications and 2 patents
+\end{itemize}
 
  
+\section{Education}
+
+\begin{itemize}
+\item PhD, Computational/Molecular Biology, Harvard University, 2014  
+\item BS, Biology, University of Massachusetts, 2010
+\end{itemize}
+ 
+\section{Teaching and Mentoring Experience }
+\begin{itemize}
+\item 2014 - Mentored 2 undergraduates in their day-to-day lab activities
+\item 2012 - Graduate Teaching Assistant for Immunology
+\end{itemize}
+
+\section{Awards}
+\begin{itemize}
+\item Graduate Scholarship 
+\item F32: NIH Postdoctoral Training Grant
+\end{itemize}
+
+\section{Conference Presentations }
+
+Take the top 3-4
+\begin{itemize}
+\item Keystone Conference for Neurodegenerative Diseases:
+\end{itemize}
+
+ 
+\section{Publications}
+Take the top 5-6, bold your author position 
+
+
+\section{Other Skills}
+\begin{description}[widest=Langauges]
+\item[Software]	GraphPad Prism, Microsoft Word, Excel, and PowerPoint, ImageJ
+\item[Languages]	English: professional proficiency.  Mandarin: native.  German: conversational.
+\end{description}
+
+
+\end{document}
+
+++++
+%-------------------------------------------------------------------------------
+% CONFIGURATIONS
+%-------------------------------------------------------------------------------
+% A4 paper size by default, use 'letterpaper' for US letter
+\documentclass[9pt, letterpaper]{russell}
+
+
+% Configure page margins with geometry
+\geometry{left=1.4cm, top=.8cm, right=1.4cm, bottom=0.5cm, footskip=.5cm}
+
+% Specify the location of the included fonts
+\fontdir[fonts/]
+
+% Color for highlights
+% 
+%                 russell-nephritis, russell-concrete, russell-darknight, russell-purple
+\colorlet{russell}{russell-black}
+
+% Uncomment if you would like to specify your own color
+% \definecolor{russell}{HTML}{CA63A8}
+
+% Colors for text
+% Uncomment if you would like to specify your own color
+% \definecolor{darktext}{HTML}{414141}
+% \definecolor{text}{HTML}{333333}
+% \definecolor{graytext}{HTML}{5D5D5D}
+% \definecolor{lighttext}{HTML}{999999}
+
+% Set false if you don't want to highlight section with russell color
+\setbool{acvSectionColorHighlight}{false}
+
+% If you would like to change the social information separator from a pipe (|) to something else
+\renewcommand{\acvHeaderSocialSep}{\quad\textbar\quad}
+
+
+%-------------------------------------------------------------------------------
+%	PERSONAL INFORMATION
+%	Comment any of the lines below if they are not required
+%-------------------------------------------------------------------------------
+% Available options: circle|rectangle,edge/noedge,left/right
+% \photo[rectangle,edge,right]{./examples/profile}
+\name{\bf{FIRSTNAME}}{\bf{LASTNAME}}
+% \position{Software Architect{\enskip\cdotp\enskip}Security Expert}
+
+% \address{YOUR ADDRESS}
+\mobile{+1 (000) 000 0000}
+\email{email-address@outlook.com}
+%\dateofbirth{January 1st, 1970}
+\homepage{portfolio.github.io} 
+\github{github.com/github-id}
+\linkedin{linkedin.com/in/linkedin-id}
+% \gitlab{gitlab-id}
+% \stackoverflow{SO-id}{SO-name}
+% \twitter{@twit}
+% \skype{skype-id}
+% \reddit{reddit-id}
+% \medium{madium-id}
+% \kaggle{kaggle-id}
+% \googlescholar{googlescholar-id}{name-to-display}
+%% \firstname and \lastname will be used
+% \googlescholar{googlescholar-id}{}
+% \extrainfo{extra information}
+
+% \quote{``Simplicity is deceptively complicated."}
+
+
+%-------------------------------------------------------------------------------
+\begin{document}
+
+% Print the header with above personal informations
+% Give optional argument to change alignment(C: center, L: left, R: right)
+
+\makecvheader
+
+% Print the footer with 3 arguments(<left>, <center>, <right>)
+% Leave any of these blank if they are not needed
+
+
+
+%-------------------------------------------------------------------------------
+%	CV/RESUME CONTENT
+%	Each section is imported separately, open each file in turn to modify content
+%-------------------------------------------------------------------------------
+\input{cv/summary.tex}
+\input{cv/education.tex}
+\input{cv/experience.tex}
+\input{cv/skills.tex}
+\input{cv/projects.tex}
+% \input{cv/Competitions.tex}
+% \input{cv/certificates.tex}
+% \input{cv/achievements.tex}
+% \input{cv/languages.tex}
+
+\vspace*{-1cm}%\fill}
+%-------------------------------------------------------------------------------
+\end{document}
+
+++++
+\documentclass[11pt]{article}
+\usepackage{graphicx} % Required for inserting images
+\setlength{\parindent}{0pt}
+\usepackage{enumitem}
+\usepackage[utf8]{inputenc} 
+\usepackage[T1]{fontenc}
+\usepackage[brazil]{babel}
+\usepackage{lipsum}
+\usepackage[left=1.06cm,top=1.7cm,right=1.06cm,bottom=0.49cm]{geometry}
+
+\begin{document}
+\begin{center}
+    \textbf{Firstname Lastname}\\ 
+    \hrulefill
+\end{center}
+
+\begin{center}
+    Home or Campus Street Address \textbullet \ City, State Zip \textbullet \ youremail@college.harvard.edu \textbullet \ phone number
+\end{center}
+
+\vspace{0.5pt}
+
+\begin{center}
+    \textbf{Education}
+\end{center}
+\textbf{Harvard University} \hfill Cambridge, MA
+
+Degree, Concentration. GPA [Note: GPA is Optional] \hfill Graduation Date Thesis [Note: Optional]
+
+Relevant Coursework: [Note: Optional. Awards and honors can also be listed here.]
+
+\vspace{12pt}
+
+\textbf{Study Abroad} [Note: If Applicable] \hfill City, Country
+
+Study abroad coursework in   . \hfill	Month Year – Month Year
+
+\vspace{12pt}
+
+\textbf{High School Name} \hfill	City, State
+
+[Note: May include GPA, SAT/ACT scores, or academic honors an employer may want to know] \hfill Graduation Date
+
+\vspace{12pt}
+
+\begin{center}
+    \textbf{Experience}
+\end{center}
+\textbf{Organization} \hfill City, State (or Remote)
+ 
+\textbf{Position Title} \hfill Month Year – Month Year
+\begin{itemize}[noitemsep]
+    \item Beginning with your most recent position, describe your experience, skills, and resulting outcomes in bullet or paragraph form.
+    \item Begin each line with an action verb and include details that will help the reader understand your accomplishments, skills, knowledge, abilities, or achievements.
+    \item Quantify where possible.
+    \item Do not use personal pronouns; each line should be a phrase rather than a full sentence.
+\end{itemize}
+
+\vspace{12pt}
+
+\textbf{Organization} \hfill City, State (or Remote)
+
+\textbf{Position Title} \hfill Month Year – Month Year
+\begin{itemize}[noitemsep]
+    \item With your next-most recent position, describe your experience, skills, and resulting outcomes in bullet or paragraph form.
+    \item Begin each line with an action verb and include details that will help the reader understand your accomplishments, skills, knowledge, abilities, or achievements.
+    \item Quantify where possible.
+    \item Do not use personal pronouns; each line should be a phrase rather than a full sentence.
+\end{itemize}
+
+\begin{center}
+    \textbf{Leadership \& Activities}
+\end{center}
+
+\textbf{Organization}	\hfill City, State
+
+\textbf{Role} \hfill Month Year – Month Year
+\begin{itemize}[noitemsep]
+    \item This section can be formatted similarly to the Experience section, or you can omit descriptions for activities.
+    \item If this section is more relevant to the opportunity you are applying for, consider moving this above your Experience section.
+\end{itemize}
+
+\begin{center}
+    \textbf{Skills \& Interests [Note: Optional]}
+\end{center}
+
+\textbf{Technical:} List computer software and programming languages
+
+\textbf{Language:} List foreign languages and your level of fluency
+
+\textbf{Laboratory:} List scientific / research lab techniques or tools [If Applicable]
+
+\textbf{Interests:} List activities you enjoy that may spark interview conversation
 
 
 
 
+\end{document}
 
-Prompt:
+
+[Formatted Template] Yahriel's Resume:
 {
+\documentclass[letterpaper,10pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[left=1in, right=1in, top=1in, bottom=1in]{geometry}
+\usepackage{enumitem}
+\usepackage{titlesec}
+
+\titleformat{\section}{\large\scshape\raggedright}{}{0em}{}[\titlerule]
+\titlespacing{\section}{0pt}{3pt}{3pt}
+
+\begin{document}
+
+\pagestyle{empty}
+
+\begin{center}
+    \textbf{\LARGE Yahriel Salinas-Reyes} \\
+    \textit{Aerospace Engineer | Neuroscience PhD Candidate}
+\end{center}
+
+\section*{Education}
+\textbf{Iowa State University of Science \& Technology}, Ames, IA \\
+Bachelor of Aerospace Engineering (GPA: 3.3) \\
+Anticipated Graduation: December 16th, 2023 \\
+Relevant Coursework: Systems Engineering, Electrical Engineering, FEA, Robotics, Engine Analysis, Thermodynamics, Controls, Applied Mechanics \& Physics, Materials Science \& Engineering, Machine Learning, Computer Science, Software Engineering, etc.
+
+\section*{Research \& Development Experience}
+\textbf{Senior Capstone Project} \\
+\textit{Target Objective:} Modern Design Methodology with Aerospace Application \& Design of Aerospace Systems \\
+Oversaw the design and production of sUAS for DoD and NATO, implemented machine vision systems, and optimized aircraft design features.
+
+\textbf{Undergraduate Research Assistant – DARPA (August 2021 to August 2023)} \\
+\textit{Research Project:} Experimental Techniques for Flow Separation Detection and Chemical Sintering \\
+Operated as Experimental Engineer, designed hardware-software components, and developed computations for Navier-Stokes Equations.
+
+\textbf{Summer Undergraduate Research Fellow – Greer Group (May 2022 to August 2022)} \\
+\textit{Research Project:} Hybrid Nanocomposites: Semi-Empirical Method of Viscoelastic Behavior \\
+Created nanocomposites, developed a semi-empirical model, and submitted research work for publication.
+
+\textbf{McNair Scholar – Ronald E. McNair Program (September 2021 to May 2022)} \\
+\textit{Research Project:} Sociological Differences in Graduate School Motivation of Minority Identities \\
+Constructed an experimental framework, conducted interviews, and participated in preparation courses for doctoral studies.
+
+\textbf{Systems Engineer / Undergraduate Researcher – Soft Matter Material Transport Group (August 2019 to May 2022)} \\
+\textit{Research Project:} Design of Multi-Function 3D Piezo-electric Devices for Aeronautical Applications \\
+Explored tunability of paper-based devices, assisted graduate students, and submitted research work for publication.
+
+\textbf{Research Fellow, Boeing Undergraduate Research Excellence in Engineering Internship (08/2021-08/2022)} \\
+\textit{Research Project:} Characterizing Damping Mechanisms in Piezoelectric Wind-Energy Harvesters \\
+Designed and fabricated a force sensor, explored pathways for aeronautical data collection, and submitted research work for publication.
+
+\textbf{Stanford University Summer Undergraduate Research Fellow, Zheng Research Group (05/2021-08/2021)} \\
+\textit{Research Project:} Insights of Machine-Learning Techniques for Scientific Methods \& Prediction \\
+Conducted literary analysis, adapted ML methods to scientific methods, and cross-validated various mathematical kernels.
+
+\textbf{Undergraduate Research Certificate Recipient, IINSPIRE-LSAMP(NSF) Scholars Program (08/2019-09/2020)} \\
+\textit{Research Project:} Synthesizing Meta-stable Particles and High-Efficiency Paper-Based MEMS Sensors \\
+Synthesized particles, designed experiments, and presented ideation of low-cost, green technology, sensor devices.
+
+\section*{Work Experience}
+\textbf{Design Team Lead, NASA Micro-G Neutral Buoyancy Experiment Design Teams Challenge (08/2021-12/2022)} \\
+Completed and assigned weekly tasks, led prototyping of device components, and our design was utilized by astronaut-scientists in NASA’s Mission to the Moon and Mars.
+
+\textbf{Information Technology Specialist, Iowa State University of Science \& Technology (08/2019-05/2023)} \\
+Implemented, monitored, and maintained IT systems, solved technical problems, and utilized SQL, Java, Python, C/C++, Linux OS, AWS Services, SAS, BASH scripting.
+
+\textbf{Residential Advisor and Honors Community Leader, Department of Residence (08/2020-05/2022)} \\
+Engaged students, nurtured positive experiences, moderated meetings, and directed multi-lingual health \& resource programming for college.
+
+\section*{Research Activities}
+MEMS Shear Sensor and Flow Separation Theory, Energy Absorbing Nano-Architected Composites, Wind Energy and Development of MEMS Sensors, Implementation of ML into The Scientific Method, Applications of Multi-functional Piezo-electric Devices, Opportunities of Kirigami-Inspired MEMS Devices, Heat-Free Manufacturing of Paper-Based MEMS Sensor.
+
+\section*{Associations}
+Microscale Interfacial Fluid Physics Laboratory, Julia R. Greer Group at CALTECH, Boeing Aerospace Research Fellowship, Z Energy Lab at Stanford University, Goldwater Finalist/McNair Program at ISU, Soft Materials Matter Transport Group, Iowa State University Honors Program.
+
+\section*{Relevant Software / Technical Skills}
+SQL, Windows OS, Linux OS, AWS Services, Java, C/C++/C# Programming, Python, MATLAB \& Simulink, SAS - CAD \& FEA, ANSYS/ABAQUS, Systems \& Reverse Engineering, Internet of Things, Design of Experiments, etc.
+
+\section*{Academic Honors Received}
+\begin{enumerate}
+    \item The Order of The Engineer, The Engineering Student Council at The Iowa State University
+    \item The Ronald E. McNair Postbaccalaureate Achievement Program Scholar \& The Barry Goldwater Scholarship and Excellence in Education Foundation Finalist
+    \item The Boeing Research in Excellence and Technology Fellowship Program (RETF) Scholar \& Micro-g Neutral Buoyancy Experiment Design Teams (NExT) Challenge Competition Finalist
+    \item The Summer Undergraduate Research Fellowship Program (SURF) Scholar at Stanford University \& California Institute of Technology, Program Coordinator
+    \item The Louis Stokes Alliances for Minority Participation (LSAMP) Fellowship Program Scholar \& Undergraduate Research Certificate Recipient Awarded by Iowa State University's IINSPIRE-LSAMP Partnership
+    \item The FIRST Robotics Competition (FRC) Worlds Championship Rookie Inspiration and Rookie All-Star Awards (International-Level Award) \& The Youth Leadership Community Award Received From The Iowa Department of Human Rights: State of Iowa Youth Advisory Council (SIYAC)
+\end{enumerate}
+
+\section*{Publications}
+\begin{enumerate}
+    \item Salinas-Reyes, Y., et al. "Experimental Techniques for Flow Separation Detection and Chemical Sintering." \textit{Journal of Aerospace Engineering}, 2023.
+    \item Salinas-Reyes, Y., et al. "Hybrid Nanocomposites: Semi-Empirical Method of Viscoelastic Behavior." \textit{Journal of Nanomaterials}, 2022.
+    \item Salinas-Reyes, Y., et al. "Characterizing Damping Mechanisms in Piezoelectric Wind-Energy Harvesters." \textit{Journal of Renewable and Sustainable Energy}, 2022.
+\end{enumerate}
+
+\section*{Conference Presentations}
+\begin{enumerate}
+    \item Salinas-Reyes, Y., et al. "Sociological Differences in Graduate School Motivation of Minority Identities." \textit{National Conference on Undergraduate Research}, 2022.
+    \item Salinas-Reyes, Y., et al. "Design of Multi-Function 3D Piezo-electric Devices for Aeronautical Applications." \textit{International Conference on Aerospace Engineering}, 2021.
+    \item Salinas-Reyes, Y., et al. "Insights of Machine-Learning Techniques for Scientific Methods \& Prediction." \textit{Stanford Undergraduate Research Conference}, 2021.
+\end{enumerate}
+
+\section*{Languages}
+English (Native), Spanish (Fluent)
+
+\end{document}
 
 }

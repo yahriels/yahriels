@@ -1,53 +1,72 @@
+Help Me Format and Make a Template for the Budget that is easier to read and use.         
+NATGEOBUDGET
+Please enter the budget information you are requesting from NGS below, fitting items as closely as possible into the categories provided. To begin, click Generate Budget (the approximate start and end dates for your project are pre-filled). Utilize the comments field to elaborate on each entry, as requested per the guidelines. If you are not requesting funds for a particular budget category, please leave the field blank. Enter all amounts rounded to the nearest US dollar, with no punctuation or symbols (example: 5200).
+--------
 Distribute $20,000 in the amount sections, perform calculations, and optimize the Budget and NATGEOBUDGET.
 
-Yahriel is generating a budget with a total project budget of $20,000 for a grant period of one year *Project Start Date 08/01/2024 *Project End Date 08/31/2025  at Monterrey, Nuevo León, México in a partnership Partnership with Dr. José González-Valdez Director of Outreach and Research Diplomacy, School of Engineering and Sciences, Tecnológico de Monterrey, Campus Monterrey, at Tecnológico de Monterrey, in the Molecular and Systems Bioengineering Research Group and the FEMSA Biotechnology Center. Tecnológico de Monterrey stands ready to provide Yahriel with the resources, mentorship, and collaborative environment he deserves to excel in his chosen path and with the mission of the Fulbright-National Geographic Program and National Geographic Society. Together, we shall forge connections, advance knowledge, and safeguard the wonders of our world.
-
-PERFORM CALCULATIONS AND FILL IN THE BUDGET TEMPLATE WITH NUMBER AND DOLLAR AMOUNTS, AS WELL AS JUSTIFICAITON FOR FUNDING.
-Here's a template for your budget that is easier to read and use. Fill in the specific amounts and justifications for each category.
-## Budget
-
-### Travel
-| Parent Category | Grantee Budget Category | 2024 Total | Justification |
-|-----------------|-------------------------|------------|---------------|
-| Travel          | Airfare                 | $__.##     | [Insert]      |
-| Travel          | Vehicle Rental and Maintenance | $__.## | [Insert] |
-| Travel          | Other Transportation    | $__.##     | [Insert]      |
-
-### Lodging/Food
-| Parent Category | Grantee Budget Category | 2024 Total | Justification |
-|-----------------|-------------------------|------------|---------------|
-| Lodging/Food    | Lodging                 | $__.##     | [Insert]      |
-| Lodging/Food    | Food                    | $__.##     | [Insert]      |
-
-### Equipment/Lab
-| Parent Category | Grantee Budget Category | 2024 Total | Justification |
-|-----------------|-------------------------|------------|---------------|
-| Equipment/Lab   | Equipment & Supplies    | $__.##     | [Insert]      |
-| Equipment/Lab   | Laboratory Costs        | $__.##     | [Insert]      |
-| Equipment/Lab   | Laboratory Tests        | $__.##     | [Insert]      |
-
-### Compensation
-| Parent Category | Grantee Budget Category | 2024 Total | Justification |
-|-----------------|-------------------------|------------|---------------|
-| Compensation    | Applicant and Team Members Compensation | $__.## | [Insert] |
-| Compensation    | Assistants and Consultants Compensation | $__.## | [Insert] |
-
-### Evaluation
-| Parent Category | Grantee Budget Category | 2024 Total | Justification |
-|-----------------|-------------------------|------------|---------------|
-| Evaluation      | Measurement and Evaluation | $__.##  | [Insert]      |
-
-### Other
-| Parent Category | Grantee Budget Category | 2024 Total | Justification |
-|-----------------|-------------------------|------------|---------------|
-| Other           | Institutional Overhead   | $__.##     | [Insert]      |
-| Other           | Dependent Care           | $__.##     | [Insert]      |
-| Other           | Miscellaneous            | $__.##     | [Insert]      |
-
-### SubTotal
-| 2024 Total |  | $__.## | $__.## |
-Replace $__.## with your actual amounts and provide the appropriate justifications in the "Justification" column. This format should make it easier to fill in and read your budget information.
-
+Budget
+Parent Category
+Grantee Budget Category
+2024
+Total
+Justification
+Travel	Airfare	
+> #.##
+> $#.##	
+> [Insert]
+Travel	Vehicle Rental and Maintenance	
+> #.##
+> $#.##	
+> [Insert]
+Travel	Other Transportation	
+> #.##
+> $#.##	
+> [Insert]
+Lodging/Food	Lodging	
+> #.##
+> $#.##	 
+> [Insert]
+Lodging/Food	Food	
+> #.##
+> $#.##	
+> [Insert]
+Equipment/Lab	Equipment & Supplies	
+> #.##
+> $#.##	
+> [Insert]
+Equipment/Lab	Laboratory Costs	
+> #.##
+> $#.##	
+> [Insert]
+Equipment/Lab	Laboratory Tests	
+> #.##
+> $#.##	
+> [Insert]
+Compensation	Applicant and Team Members Compensation	
+> #.##
+> $#.##	
+> [Insert]
+Compensation	Assistants and Consultants Compensation	
+> #.##
+> $#.##	
+> [Insert]
+Evaluation	Measurement and Evaluation	
+> #.##
+> $#.##	
+> [Insert]
+Other	Institutional Overhead	
+> #.##
+> $#.##	
+> [Insert]
+Other	Dependent Care	
+> #.##
+> $#.##	
+[Insert]
+Other	Miscellaneous	
+> #.##
+> $#.##	
+> [Insert]
+SubTotal	$#.##		$#.##	
 --------
 Distribute $20,000 in the amount sections, perform calculations, and optimize the Budget and NATGEOBUDGET.
 
@@ -74,8 +93,6 @@ Supplementary Materials: https://github.com/yahriels/yahriels/blob/main/Workspac
 SAMPLES: 
 { 
 Read over these samples 11 times with no distractions, and comprehend everything given in these materials, documents, and links. These are related to the research project and thesis. Then Move on to the next section and task.
-https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20-%202022%20Overview.pdf
-https://github.com/yahriels/yahriels/blob/main/Fulbright-National_Geographic_Affiliation_Letter.pdf
 https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20Budget%20Guidelines.pdf
 https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20Level%20I%20Application%20Sample.pdf
 [KNOW THIS DOCUMENT:https://github.com/yahriels/yahriels/blob/main/NATGEO_Fulbright__Draft.pdf, https://github.com/yahriels/yahriels/blob/main/README.md]
@@ -141,13 +158,6 @@ In the realm of advancing neuroscience, public and global health, molecular and 
 Nature’s Chaos Game: An Existentialist Approach (1. Numbers 2. Shapes. Prediction)
 Informed by Mathematics and Neurobiology 
 Mexico Project: Ancient Maya Engineering: Uncovering the Innovations of a Lost Civilization
-Works Cited:
-Maya Civilization. National Geographic Society, 2012, www.nationalgeographic.org/encyclopedia/maya-civilization/.
-Smith, A. H. The Ancient Maya and Their City of Tulum. National Geographic Society, 2018, www.nationalgeographic.org/article/ancient-maya-and-their-city-tulum/.
-Ancient Maya Engineering Techniques. Maya Research Program, www.mayaresearchprogram.org/mayan-archaeology/ancient-maya-engineering-techniques/.
-Maya Architecture and Engineering. Britannica, www.britannica.com/technology/Maya-architecture-and-engineering.
-
-
 }
  
 Purpose: To Help Yahriel Fill The Prompt
@@ -267,6 +277,53 @@ Budget Information:
 
 Distribute $20,000 in the amount sections, perform calculations, and optimize the Budget and NATGEOBUDGET.
 
+Distribute $20,000 in the amount sections, perform calculations, and optimize the Budget and NATGEOBUDGET.
+
+Yahriel is generating a budget with a total project budget of $20,000 for a grant period of one year *Project Start Date 08/01/2024 *Project End Date 08/31/2025  at Monterrey, Nuevo León, México in a partnership Partnership with Dr. José González-Valdez Director of Outreach and Research Diplomacy, School of Engineering and Sciences, Tecnológico de Monterrey, Campus Monterrey, at Tecnológico de Monterrey, in the Molecular and Systems Bioengineering Research Group and the FEMSA Biotechnology Center. Tecnológico de Monterrey stands ready to provide Yahriel with the resources, mentorship, and collaborative environment he deserves to excel in his chosen path and with the mission of the Fulbright-National Geographic Program and National Geographic Society. Together, we shall forge connections, advance knowledge, and safeguard the wonders of our world.
+
+PERFORM CALCULATIONS AND FILL IN THE BUDGET TEMPLATE WITH NUMBER AND DOLLAR AMOUNTS, AS WELL AS JUSTIFICAITON FOR FUNDING.
+Here's a template for your budget that is easier to read and use. Fill in the specific amounts and justifications for each category.
+
+Replace $__.## with your actual amounts and provide the appropriate justifications in the "Justification" column. This format should make it easier to fill in and read your budget information.
+
+
+}
+
+}
+
+
+
+[Template] Yahriel's Response:
+{
+NATGEOBUDGET:
+{
+> Budget Details
+> *Total Project Budget: This amount should reflect the total scope of the project, including the amount requested from National Geographic Society and all other funding sources. You will be asked to provide additional budget information on the Budget Details tab.
+> $ 20,000.00
+>> Yahriel is generating a budget with a total project budget of $20,000 for a grant period of one year *Project Start Date 08/01/2024 *Project End Date 08/31/2025  at Monterrey, Nuevo León, México in a partnership Partnership with Dr. José González-Valdez Director of Outreach and Research Diplomacy, School of Engineering and Sciences, Tecnológico de Monterrey, Campus Monterrey, at Tecnológico de Monterrey, in the Molecular and Systems Bioengineering Research Group and the FEMSA Biotechnology Center. Tecnológico de Monterrey stands ready to provide Yahriel with the resources, mentorship, and collaborative environment he deserves to excel in his chosen path and with the mission of the Fulbright-National Geographic Program and National Geographic Society. Together, we shall forge connections, advance knowledge, and safeguard the wonders of our world. PERFORM CALCULATIONS AND FILL IN THE BUDGET TEMPLATE WITH NUMBER AND DOLLAR AMOUNTS, AS WELL AS JUSTIFICAITON FOR FUNDING.
+>> 
+>>
+>
+}
+}
+
+
+Prompt: Rewrite and Enhance Yahriel's Response
+{
+The Total Project Budget is $20,000. According to the Project Information and the Grant Period of 1 year, Fill in the Budget Details with number amounts and provide justifications for the funding and calculations performed. 
+Help Me Format and Make a Template for the Budget that is easier to read and use.         
+NATGEOBUDGET
+Please enter the budget information you are requesting from NGS below, fitting items as closely as possible into the categories provided. To begin, click Generate Budget (the approximate start and end dates for your project are pre-filled). Utilize the comments field to elaborate on each entry, as requested per the guidelines. If you are not requesting funds for a particular budget category, please leave the field blank. Enter all amounts rounded to the nearest US dollar, with no punctuation or symbols (example: 5200).
+
+Yahriel is generating a budget with a total project budget of $20,000 for a grant period of one year *Project Start Date 08/01/2024 *Project End Date 08/31/2025  at Monterrey, Nuevo León, México in a partnership Partnership with Dr. José González-Valdez Director of Outreach and Research Diplomacy, School of Engineering and Sciences, Tecnológico de Monterrey, Campus Monterrey, at Tecnológico de Monterrey, in the Molecular and Systems Bioengineering Research Group and the FEMSA Biotechnology Center. Tecnológico de Monterrey stands ready to provide Yahriel with the resources, mentorship, and collaborative environment he deserves to excel in his chosen path and with the mission of the Fulbright-National Geographic Program and National Geographic Society. Together, we shall forge connections, advance knowledge, and safeguard the wonders of our world.
+Distribute $20,000 in the amount sections, perform calculations, and optimize the Budget and NATGEOBUDGET.
+
+PERFORM CALCULATIONS AND FILL IN THE BUDGET TEMPLATE WITH NUMBER AND DOLLAR AMOUNTS, AS WELL AS JUSTIFICAITON FOR FUNDING.
+Here's a template for your budget that's easier to read and use:
+Replace #.## with your actual budget amounts and [Insert justification here] with your specific justifications for each item. Adjust the categories and sections as needed for your project.
+Yahriel is generating a budget with a total project budget of $20,000 for a grant period of one year *Project Start Date 08/01/2024 *Project End Date 08/31/2025  at Monterrey, Nuevo León, México in a partnership Partnership with Dr. José González-Valdez Director of Outreach and Research Diplomacy, School of Engineering and Sciences, Tecnológico de Monterrey, Campus Monterrey, at Tecnológico de Monterrey, in the Molecular and Systems Bioengineering Research Group and the FEMSA Biotechnology Center. Tecnológico de Monterrey stands ready to provide Yahriel with the resources, mentorship, and collaborative environment he deserves to excel in his chosen path and with the mission of the Fulbright-National Geographic Program and National Geographic Society. Together, we shall forge connections, advance knowledge, and safeguard the wonders of our world.
+Distribute $20,000 in the amount sections, perform calculations, and optimize the Budget and NATGEOBUDGET.
+PERFORM CALCULATIONS AND FILL IN THE BUDGET TEMPLATE WITH NUMBER AND DOLLAR AMOUNTS, AS WELL AS JUSTIFICAITON FOR FUNDING.
 PURPOSE IS TO Fill in these prompts:
 
 Budget Categories:
@@ -328,119 +385,9 @@ Budget Categories:
 SubTotal: $#.## Total: $#.##
 Replace #.## with your actual budget amounts and [Insert justification here] with your specific justifications for each item. Adjust the categories and sections as needed for your project.
 
-Budget Template
-
-Travel
-
-Airfare: $1500
-- Justification: Round-trip airfare for project team members to travel from the U.S. to Mexico for fieldwork.
-
-Vehicle Rental and Maintenance: $800
-- Justification: Rental of a vehicle for transportation between research sites in Monterrey, Nuevo León, México.
-
-Other Transportation: $500
-- Justification: Local transportation costs for commuting between lodging, research sites, and other necessary locations.
-
-Lodging/Food
-
-Lodging: $1200
-- Justification: Accommodation costs for project team members during the one-year grant period in Monterrey, Nuevo León, México.
-
-Food: $700
-- Justification: Estimated food expenses for project team members during the grant period.
-
-Equipment/Lab
-
-Equipment & Supplies: $2000
-- Justification: Purchase of necessary equipment and supplies for conducting research and experiments in the Molecular and Systems Bioengineering Research Group at Tecnológico de Monterrey.
-
-Laboratory Costs: $1500
-- Justification: Costs associated with using laboratory facilities and services at Tecnológico de Monterrey.
-
-Laboratory Tests: $1000
-- Justification: Costs of conducting specific laboratory tests and analyses related to the research project.
-
-Compensation
-
-Applicant and Team Members Compensation: $3000
-- Justification: Compensation for the applicant and team members for their time and effort dedicated to the project.
-
-Assistants and Consultants Compensation: $2000
-- Justification: Compensation for any additional assistants or consultants involved in the project.
-
-Evaluation
-
-Measurement and Evaluation: $1500
-- Justification: Costs associated with evaluating the effectiveness and impact of the project's research activities.
-
-Other
-
-Institutional Overhead: $1000
-- Justification: Contribution to institutional overhead costs at Tecnológico de Monterrey.
-
-Dependent Care: $500
-- Justification: Provision for dependent care expenses for project team members.
-
-Miscellaneous: $800
-- Justification: Contingency fund for unforeseen expenses or miscellaneous project needs.
-
-SubTotal: $20,000
-Total: $20,000
-}
-
-}
-
-
-
-[Template] Yahriel's Response:
-{
-NATGEOBUDGET:
-{
-> Budget Details
-> *Total Project Budget: This amount should reflect the total scope of the project, including the amount requested from National Geographic Society and all other funding sources. You will be asked to provide additional budget information on the Budget Details tab.
-> $ 20,000.00
->> Yahriel is generating a budget with a total project budget of $20,000 for a grant period of one year *Project Start Date 08/01/2024 *Project End Date 08/31/2025  at Monterrey, Nuevo León, México in a partnership Partnership with Dr. José González-Valdez Director of Outreach and Research Diplomacy, School of Engineering and Sciences, Tecnológico de Monterrey, Campus Monterrey, at Tecnológico de Monterrey, in the Molecular and Systems Bioengineering Research Group and the FEMSA Biotechnology Center. Tecnológico de Monterrey stands ready to provide Yahriel with the resources, mentorship, and collaborative environment he deserves to excel in his chosen path and with the mission of the Fulbright-National Geographic Program and National Geographic Society. Together, we shall forge connections, advance knowledge, and safeguard the wonders of our world. PERFORM CALCULATIONS AND FILL IN THE BUDGET TEMPLATE WITH NUMBER AND DOLLAR AMOUNTS, AS WELL AS JUSTIFICAITON FOR FUNDING.
->> 
->>
->
-}
-}
-
-
-Prompt: Rewrite and Enhance Yahriel's Response
-{
-The Total Project Budget is $20,000. According to the Project Information and the Grant Period of 1 year, Fill in the Budget Details with number amounts and provide justifications for the funding and calculations performed. 
-Help Me Format and Make a Template for the Budget that is easier to read and use.         
-NATGEOBUDGET
-Please enter the budget information you are requesting from NGS below, fitting items as closely as possible into the categories provided. To begin, click Generate Budget (the approximate start and end dates for your project are pre-filled). Utilize the comments field to elaborate on each entry, as requested per the guidelines. If you are not requesting funds for a particular budget category, please leave the field blank. Enter all amounts rounded to the nearest US dollar, with no punctuation or symbols (example: 5200).
-
-Yahriel is generating a budget with a total project budget of $20,000 for a grant period of one year *Project Start Date 08/01/2024 *Project End Date 08/31/2025  at Monterrey, Nuevo León, México in a partnership Partnership with Dr. José González-Valdez Director of Outreach and Research Diplomacy, School of Engineering and Sciences, Tecnológico de Monterrey, Campus Monterrey, at Tecnológico de Monterrey, in the Molecular and Systems Bioengineering Research Group and the FEMSA Biotechnology Center. Tecnológico de Monterrey stands ready to provide Yahriel with the resources, mentorship, and collaborative environment he deserves to excel in his chosen path and with the mission of the Fulbright-National Geographic Program and National Geographic Society. Together, we shall forge connections, advance knowledge, and safeguard the wonders of our world.
-Distribute $20,000 in the amount sections, perform calculations, and optimize the Budget and NATGEOBUDGET.
-
-PERFORM CALCULATIONS AND FILL IN THE BUDGET TEMPLATE WITH NUMBER AND DOLLAR AMOUNTS, AS WELL AS JUSTIFICAITON FOR FUNDING.
-Here's a template for your budget that's easier to read and use:
-
 
 }
 
 +++++++++++++++++++++++++++++++++++++++++++++++++
 Help Yahriel Salinas Answer The Prompt, Review The Response, Provide Feedback, Make Corrections, Enhance, and Finalize Yahriel's Best Response For To Prompt.
 
-Yahriel is generating a budget with a total project budget of $20,000 for a grant period of one year *Project Start Date 08/01/2024 *Project End Date 08/31/2025  at Monterrey, Nuevo León, México in a partnership Partnership with Dr. José González-Valdez Director of Outreach and Research Diplomacy, School of Engineering and Sciences, Tecnológico de Monterrey, Campus Monterrey, at Tecnológico de Monterrey, in the Molecular and Systems Bioengineering Research Group and the FEMSA Biotechnology Center. Tecnológico de Monterrey stands ready to provide Yahriel with the resources, mentorship, and collaborative environment he deserves to excel in his chosen path and with the mission of the Fulbright-National Geographic Program and National Geographic Society. Together, we shall forge connections, advance knowledge, and safeguard the wonders of our world.
-Distribute $20,000 in the amount sections, perform calculations, and optimize the Budget and NATGEOBUDGET.
-PERFORM CALCULATIONS AND FILL IN THE BUDGET TEMPLATE WITH NUMBER AND DOLLAR AMOUNTS, AS WELL AS JUSTIFICAITON FOR FUNDING.
-
-NATGEO:
-{
-Read over these samples 11 times with no distractions, and comprehend everything given in these materials, documents, and links. These are related to the research project and thesis. Then Move on to the next section and task.
-https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20-%202022%20Overview.pdf
-https://github.com/yahriels/yahriels/blob/main/Fulbright-National_Geographic_Affiliation_Letter.pdf
-https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20Budget%20Guidelines.pdf
-https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20Level%20I%20Application%20Sample.pdf
-https://github.com/yahriels/yahriels/blob/main/NATGEO_Fulbright__Draft.pdf
-https://github.com/yahriels/yahriels/blob/main/Workspace/lib/NATGEO.txt
-https://github.com/yahriels/yahriels/blob/main/Workspace/lib/NATGEOBUDGET.txt
-https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Lib_Dummy.txt
-https://github.com/yahriels/yahriels/blob/main/Workspace/lib/dummy.txt
-https://github.com/yahriels/yahriels/blob/main/OtherStuff.pdf
-}
