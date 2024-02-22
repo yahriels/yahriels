@@ -114,6 +114,8 @@ Supplementary Materials: https://github.com/yahriels/yahriels/blob/main/Workspac
 
 
 [KNOW THE FULBRIGHT-NATIONAL GEOGRAPHIC PROPOSAL: https://github.com/yahriels/yahriels/blob/main/OtherStuff.pdf, https://github.com/yahriels/yahriels/blob/main/Yahriel_Fulbright_Application.pdf, https://github.com/yahriels/yahriels/blob/main/Related_Works.pdf]
+[KNOW FEMSA LAB: https://tecscience.tec.mx/en/tag/femsa-biotechnology-center/, https://2010.igem.org/Team:Tec-Monterrey/Headquarters, https://2010.igem.org/Team:Tec-Monterrey/Headquarters#femsa]
+[KNOW Molecular and Systems Bioengineering view Research Group: https://research.tec.mx/vivo-tec/display/GIEE_391, https://conecta.tec.mx/en/news/national/research/genome-sequencing-work-new-laboratory-tec-and-femsa, https://scholar.google.com/citations?user=kpMAfLcAAAAJ&hl=en]
 
 SAMPLES: 
 { 
@@ -123,7 +125,8 @@ Read over these samples 11 times with no distractions, and comprehend everything
 [KNOW THESE DOCUMENTS:https://github.com/yahriels/yahriels/blob/main/OtherStuff.pdf, https://github.com/yahriels/yahriels/blob/main/Related_Works.pdf]
 [KNOW THESE DOCUMENTS: https://github.com/yahriels/yahriels/blob/main/Yahriel_GRFP_Application.pdf, https://github.com/yahriels/yahriels/blob/main/Yahriel_DOE_CSGF_Application.pdf, https://github.com/yahriels/yahriels/blob/main/Yahriel_Fulbright_Application.pdf]   
 [KNOW THE FULBRIGHT PROPOSAL: https://github.com/yahriels/yahriels/blob/main/Yahriel_Fulbright_Application.pdf]
-
+[KNOW FEMSA LAB: https://tecscience.tec.mx/en/tag/femsa-biotechnology-center/, https://2010.igem.org/Team:Tec-Monterrey/Headquarters, https://2010.igem.org/Team:Tec-Monterrey/Headquarters#femsa]
+[KNOW Molecular and Systems Bioengineering view Research Group: https://research.tec.mx/vivo-tec/display/GIEE_391, https://conecta.tec.mx/en/news/national/research/genome-sequencing-work-new-laboratory-tec-and-femsa, https://scholar.google.com/citations?user=kpMAfLcAAAAJ&hl=en]
 The Problem: Schizophrenia is a complex mental disorder that affects a small percentage of the population. Professionals in the field of schizophrenia research that will be on our team include psychiatrists, psychologists, neuroscientists, and geneticists. These professionals work together to study the underlying causes of schizophrenia, including genetic, environmental, and neurodevelopmental factors. While there is still much to learn about the etiology of schizophrenia, recent research has provided some insights into the factors that may contribute to its development.
 
 Yahriel Salinas-Reyes’ Intellectual Framework and Phases of Approach: 
@@ -164,7 +167,7 @@ Fulbright Project: Unraveling the Molecular Code of Natural Antidepressants in G
 Yahriel, and the research team at the university Tecnológico de Monterrey endeavor to decode the molecular secrets of nature to improve the human condition, particularly for individuals affected by schizophrenia and other mental health disorders. Yahriel's work represents a convergence of scientific rigor, interdisciplinary collaboration, and a profound commitment to the betterment of human well-being. Furthermore, this research holds the potential to strengthen international collaborations between the U.S. and Mexico. By conducting research at Tecnológico de Monterrey, Yahriel can contribute to the exchange of knowledge and ideas between the two countries, fostering a stronger global community which reflects the essence of the Fulbright mission, emphasizing mutual understanding and collaboration between nations. 
 References: (1) Zueva, M. V. (2015). Fractality of sensations and brain health: the theory linking neurodegenerative disorder with distortion of spatial and temporal scale-invariance and fractal complexity of the visible world. Front. Aging Neurosci, 7, 135. (2) Hancock, F. (2023). Metastability as a candidate neuromechanistic biomarker of schizophrenia pathology. PLoS One, 18(3), e0282707. (3) Regenbogen, C. (2015). The differential contribution of facial expressions, prosody, and speech content to empathy. Cognition and Emotion, 29(6), 1045-1056. (4) John JP (2015) A systematic evaluation of the frontal eye field as an endophenotype of schizophrenia: An fMRI study. Schizophrenia Research, 165(1), 79-84. (5) Mandelbrot, B. B. (1982). The Fractal Geometry of Nature. W. H. Freeman. (6) Kramer P and Berthaume 
 M (2021) Introduction to the theme issue ‘Biological anthroengineering’, Interface Focus, 11:5. (7) Brown, R. E., & White, D. (2020). Grapes as Natural Antidepressants: Investigating the Molecular Mechanisms. Journal of Nutritional Neuroscience, 35(4), 287-299. 
-
+(8) Brown, R. E., & White, D. J. (2010). Ultrastructure, spatial organization, and information processing in hippocampal and neocortical microcircuits. Frontiers in Neural Circuits, 4, 11.
 [Research Abstract]
 Research Title: 
 Unraveling the Neurobiological Landscape of Schizophrenia: A Multidisciplinary Approach Informed by Numbers, Shapes, and Prediction
