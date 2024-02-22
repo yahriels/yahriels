@@ -1,49 +1,3 @@
-Prompt: Rewrite and Enhance Yahriel's Response
-{
-Please generate a C.V. or Resume (required).
-Please produce and submit a copy of your curriculum vitae or resume with the following information:
-
-Current position (even if unpaid)
-Relevant work experience
-Education
-List any relevant:
-
-Publications
-Awards
-Leadership experience
-Volunteer/community engagement experience
-Professional network or collaboration involvement
-Links to your portfolio/social media accounts if applicable
-before moving on.
-
-FULBRIGHT-NATIONAL GEOGRAPHIC AWARD PROGRAM
-
-Description
-Yahriel, We are pleased to invite you to apply for the Fulbright-National Geographic Award Program based on your status as a semi-finalist for the Fulbright U.S. Student Program.
-The National Geographic Society’s Grants Program provides seed funding and support to early career individuals, as well as those more advanced in their careers, who are working to address critical challenges, advance new solutions, and inspire positive transformation across all seven continents. Funded projects must align with one or more of the Society’s five focus areas: Ocean, Land, Wildlife, Human Histories & Cultures, and Human Ingenuity. 
-
-We strongly recommend that you review the following materials before submitting your application:
-Full Application Template - Level I Grants: https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20Level%20I%20Application%20Sample.pdf
-Grants Program Overview: https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20-%202022%20Overview.pdf
-Budget Guidelines: https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20Budget%20Guidelines.pdf
-Explorer Mindset & Code: https://www.nationalgeographic.org/society/our-explorers/
-Code of Ethics: https://www.nationalgeographic.org/society/code-of-ethics/
-NATGEO:
-{
-Read over these samples 11 times with no distractions, and comprehend everything given in these materials, documents, and links. These are related to the research project and thesis. Then Move on to the next section and task.
-https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20-%202022%20Overview.pdf
-https://github.com/yahriels/yahriels/blob/main/Fulbright-National_Geographic_Affiliation_Letter.pdf
-https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20Budget%20Guidelines.pdf
-https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20Level%20I%20Application%20Sample.pdf
-https://github.com/yahriels/yahriels/blob/main/NATGEO_Fulbright__Draft.pdf
-https://github.com/yahriels/yahriels/blob/main/Workspace/lib/NATGEO.txt
-https://github.com/yahriels/yahriels/blob/main/Workspace/lib/NATGEOBUDGET.txt
-https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Lib_Dummy.txt
-https://github.com/yahriels/yahriels/blob/main/Workspace/lib/dummy.txt
-https://github.com/yahriels/yahriels/blob/main/OtherStuff.pdf
-}
-Purpose: To Help Yahriel Finalize and Optimize His Award Proposal To Fill The Prompt and Execute the Tasks.
-{ 
 FULBRIGHT-NATIONAL GEOGRAPHIC AWARD PROGRAM
 
 *Project Start Date
@@ -109,9 +63,8 @@ Iowa State University
 *Total Project Budget: This amount should reflect the total scope of the project, including the amount requested from National Geographic Society and all other funding sources.
 $20,000
 
-}
-}
-
+Prompt: Rewrite and Enhance Yahriel's Response
+{
 Help Yahriel Answer The Prompt, Review The Response, Provide Feedback, Make Corrections, Enhance, and Finalize Yahriel's Best Response For To Prompt..
  for crafting Yahriel's resume and responding to the prompt for the Fulbright-National Geographic Award Program. Here is a summary of the key points and steps to follow:
 
@@ -131,6 +84,62 @@ Prompting and Task Management: Read all materials, prepare a task list with dead
 
 By following these steps and utilizing the provided resources, you can help Yahriel create a strong resume and respond effectively to the Fulbright-National Geographic Award Program prompt.
 
+Review Criteria Details: 
+{ 
+----
+Read all materials (a few times, without distractions). Prepare a task list with deadlines to perform the Executive Tasks then 
+complete the tasks. Understand how application components and each item requested relate to 
+the review criteria. 
+
+Please generate a C.V. or Resume (required).
+Please produce and submit a copy of your curriculum vitae or resume with the following information:
+
+Current position (even if unpaid)
+Relevant work experience
+Education
+List any relevant:
+
+Publications
+Awards
+Leadership experience
+Volunteer/community engagement experience
+Professional network or collaboration involvement
+Links to your portfolio/social media accounts if applicable
+before moving on.
+----
+}
+}
+
+Purpose: To Help Yahriel Finalize and Optimize His Award Proposal To Fill The Prompt and Execute the Tasks.
+{ 
+FULBRIGHT-NATIONAL GEOGRAPHIC AWARD PROGRAM
+
+Description
+Yahriel, We are pleased to invite you to apply for the Fulbright-National Geographic Award Program based on your status as a semi-finalist for the Fulbright U.S. Student Program.
+The National Geographic Society’s Grants Program provides seed funding and support to early career individuals, as well as those more advanced in their careers, who are working to address critical challenges, advance new solutions, and inspire positive transformation across all seven continents. Funded projects must align with one or more of the Society’s five focus areas: Ocean, Land, Wildlife, Human Histories & Cultures, and Human Ingenuity. 
+
+We strongly recommend that you review the following materials before submitting your application:
+Full Application Template - Level I Grants: https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20Level%20I%20Application%20Sample.pdf
+Grants Program Overview: https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20-%202022%20Overview.pdf
+Budget Guidelines: https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20Budget%20Guidelines.pdf
+Explorer Mindset & Code: https://www.nationalgeographic.org/society/our-explorers/
+Code of Ethics: https://www.nationalgeographic.org/society/code-of-ethics/
+NATGEO:
+{
+Read over these samples 11 times with no distractions, and comprehend everything given in these materials, documents, and links. These are related to the research project and thesis. Then Move on to the next section and task.
+https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20-%202022%20Overview.pdf
+https://github.com/yahriels/yahriels/blob/main/Fulbright-National_Geographic_Affiliation_Letter.pdf
+https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20Budget%20Guidelines.pdf
+https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20Level%20I%20Application%20Sample.pdf
+https://github.com/yahriels/yahriels/blob/main/NATGEO_Fulbright__Draft.pdf
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/NATGEO.txt
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/NATGEOBUDGET.txt
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Lib_Dummy.txt
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/dummy.txt
+https://github.com/yahriels/yahriels/blob/main/OtherStuff.pdf
+}
+}
+
 SAMPLES: 
 { 
 Read over these samples 11 times with no distractions, and comprehend everything given in these materials, documents, and links. These are related to the research project and thesis. Then Move on to the next section and task.
@@ -144,42 +153,17 @@ The Problem: Schizophrenia is a complex mental disorder that affects a small per
 
 Yahriel Salinas-Reyes’ Intellectual Framework and Phases of Approach: 
 The framework consists of two phases to unravel the nature of intelligence.
-Phase I: Understanding The Divided Self and Existential Despair
-Header: A Trip Through Insanity - a perfectly rational adjustment to an insane world.
-Motivation: Schizophrenia cannot be understood without understanding despair. Children do not give up their innate imagination, curiosity, dreaminess easily. You have to love them to get them to do that. 
-Stage 1: Alogia – Poverty of Speech and Senses
-Stage 2: Autism –Realism and Logicism
-State 3: Ambivalence – State of Chaos and Hysteria
-State 4: Affect Blunting – Emotionless and Expressionless
-Outcome: Pandemonium and Complete Fracturing of The Self and Nature
-Accessories: Mania and Madness, Paranoia and Delusions, Psychosis and Schizophrenia 
-Revelation: We are effectively destroying ourselves by violence masquerading as love. Whether life is worth living depends on whether there is love in life.
-Phase II: Unraveling The Nature of Intelligence and Human Ingenuity
-Header: Creative people who can't help but explore other mental territories are at greater risk, just as someone who climbs a mountain is more at risk than someone who just walks along a village lane. 
-Motivation: Madness need not be all breakdown. It may also be break-through. It is potential liberation and renewal as well as enslavement and existential death.
-Stage 1: Youthfulness – Vitality and Radiance
-Stage 2: Imagination – Idealism and Irrationalism
-Stage 3: Curiosity – State of Wonder and Exploration
-Stage 4: Dreaminess – Absorption, Abstraction, Distraction, and Forgetfulness
-Outcome: Dawn of New Age and Realization of The Natural Self and Frontiers
-Accessories: Peace and Tranquility, Freedom and Healing, Joy and Growth
 Revelation: The range of what we think and do is limited by what we fail to notice. And because we fail to notice that we fail to notice, there is little we can do to change; until we notice how failing to notice shapes our thoughts and deeds.
 that will be on our team include psychiatrists, psychologists, neuroscientists, and geneticists. These professionals work together to study the underlying causes of schizophrenia, including genetic, environmental, and neurodevelopmental factors. While there is still much to learn about the etiology of schizophrenia, recent research has provided some insights into the factors that may contribute to its development.
-Partnership with Dr. José González-Valdez Director of Outreach and Research Diplomacy, School of Engineering and Sciences, Tecnológico de Monterrey, Campus Monterrey, at Tecnológico de Monterrey, in the Molecular and Systems Bioengineering Research Group and the FEMSA Biotechnology Center. Tecnológico de Monterrey stands ready to provide Yahriel with the resources, mentorship, and collaborative environment he deserves to excel in his chosen path and with the mission of the Fulbright-National Geographic Program and National Geographic Society. Together, we shall forge connections, advance knowledge, and safeguard the wonders of our world.
 Statement of Grant Purpose Monterrey, Nuevo León, México. Potential Local Collaborators: Here are some professionals in the etiology of schizophrenia that are local and/or near Des Moines, Iowa FIND COLLABORATORS OR DESCRIBE THE IDEAL TEAM MEMBER.
 Synopsis: This new interdisciplinary field of study captures the essence of Human Ingenuity, focusing on the exploration of schizophrenia and psychosis and the idea that chaos theory and theory of confusion may serve a function rather than being solely detrimental. The project title also highlights the intersection of psychiatric thought, neuroscience, and social justice, emphasizing the potential global impact of this research. By using captivating and thought-provoking language as well as Anthropology-Engineering methods, the proposed scientific story aims to engage readers and spark their curiosity.
 **Project Title:**  "How He Got His Scars: The Nature Physicist Explores Abnormal Human Ingenuity and the Science of Madness and Mental Health in Neurobiological Representations of Schizophrenia and Psychosis."
 **Summary:**
-In today's rapidly changing world, we often struggle to understand the present before it becomes the past. This proposal aims to shed light on the function of madness and chaos, not to undermine its toll on individuals, but to unravel the problem it is meant to solve. Building upon R.D. Laing's revolutionary theory that schizophrenia arises from the battle between our imposed identity and our authentic self, this research explores the possibility of insanity and confusion as a breakthrough rather than a breakdown. Laing theorised that insanity could be understood as a reaction to the divided self. Instead of arising as a purely medical disease or psychotic behaviors (i.e. a common sympton of schizophrenic traits), schizophrenia was thus the result of wrestling with two identities: the identity defined for us by our families and our authentic identity, as we experience ourselves to be. When the two are fundamentally different, it triggers an internal fracturing of the self. Comprehensively, the label of **Madness and Confusion is defined as a naturally sane reaction to an insane world**. By applying the concepts of entropy and chaos theory to model the dynamics of social-behavioral systems, we aim to study schizophrenia/psychosis and other neurological abnormalities, morphologies, and ingenuity of the human brain.
-Despite the initial controversy surrounding Laing's existential perspective, there is immense value in delving into the personal, interpretive, and small-scale aspects often overlooked in traditional psychiatric narratives. We propose utilizing a fundamental method of studying neurobiological dysfunctions and abnormal functions/morphologies of the schizophrenic brain. This will help uncover correlations and causalities between the active phase-matter in schizophrenic traits and other related disorders.
 The motivation behind this study stems from the world's failure to effectively utilize the groundbreaking discoveries in neuroscience, global public health, and social sciences. Through rigorous research and the development of a scientific method backed by advanced instrumentation, our objective is to provide foundational evidence for a clinical social understanding of schizophrenia and its related traits. This paradigm shift, rooted in biomedical-analytical and logical-mathematical scientific theory, will facilitate the advancement of global public health.
 To achieve meaningful impact, we must engage in a truthful dialogue free from knots of hatred, revenge, jealousy, and malice that taint our words. By exploring the history of indigenous and Latin American cultures, anthropology-engineering, science and technology, psychiatry and neuroscience systems, and social justice, we can create an open and inclusive platform for transformative research.
 In conclusion, our research proposal "How He Got His Scars" aims to uncover the intricate relationship between madness and confusion, mental health, and the human brain. By merging scientific methods with social impact, we can pave the way for advancements in both individual well-being and global public health. It is high time we embrace this ancient paradigm of psychiatric thought, combining research and development with a deep understanding of cultural diversity, to drive positive change in society.
-
 Yahriel Salinas-Reyes, Host Country: Mexico, Field: Molecular & Systems Bioengineering
 Fulbright Project: Unraveling the Molecular Code of Natural Antidepressants in Grapes
-Yahriel, and the research team at the university Tecnológico de Monterrey endeavor to decode the molecular secrets of nature to improve the human condition, particularly for individuals affected by schizophrenia and other mental health disorders. Yahriel's work represents a convergence of scientific rigor, interdisciplinary collaboration, and a profound commitment to the betterment of human well-being. Furthermore, this research holds the potential to strengthen international collaborations between the U.S. and Mexico. By conducting research at Tecnológico de Monterrey, Yahriel can contribute to the exchange of knowledge and ideas between the two countries, fostering a stronger global community which reflects the essence of the Fulbright mission, emphasizing mutual understanding and collaboration between nations. 
-
 [Research Abstract]
 Research Title: 
 Unraveling the Neurobiological Landscape of Schizophrenia: A Multidisciplinary Approach Informed by Numbers, Shapes, and Prediction
@@ -193,7 +177,7 @@ Informed by Mathematics and Neurobiology
 
 }
 
-Cover Letter: {
+Cover Letter:{
 My name is Yahriel Salinas-Reyes, and I’m writing to you regarding a great intellectual opportunity.
 
 My undergraduate development experiences and associated projects helped me develop and fine-tune the skills necessary for a research position such as this one. I have developed research soft skills such as scientific literature review, grant proposal and report writing, and scientific peer-review. Specifically, my experience with researching micro-electro-mechanical-system (MEMS) devices for various aerospace and industrial-related applications, has equipped me with the knowledge, experience, and skills you’re looking for in your ideal candidate. 
@@ -204,6 +188,117 @@ I look forward to discussing my candidacy with you virtually. If any additional 
 Sincerely,
 -	Yahriel Salinas-Reyes, Aerospace Engineering, 
 ~ The Rocket Scientist Studying The Science of Madness
+}
+
+Resume-CV: {
+[Formatted Template] Yahriel's Resume:
+{
+\documentclass[letterpaper,10pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[left=1in, right=1in, top=1in, bottom=1in]{geometry}
+\usepackage{enumitem}
+\usepackage{titlesec}
+
+\titleformat{\section}{\large\scshape\raggedright}{}{0em}{}[\titlerule]
+\titlespacing{\section}{0pt}{3pt}{3pt}
+
+\begin{document}
+
+\pagestyle{empty}
+
+\begin{center}
+    \textbf{\LARGE Yahriel Salinas-Reyes} \\
+    \textit{Aerospace Engineer | Neuroscience PhD Candidate}
+\end{center}
+
+\section*{Education}
+\textbf{Iowa State University of Science \& Technology}, Ames, IA \\
+Bachelor of Aerospace Engineering (GPA: 3.3) \\
+Anticipated Graduation: December 16th, 2023 \\
+Relevant Coursework: Systems Engineering, Electrical Engineering, FEA, Robotics, Engine Analysis, Thermodynamics, Controls, Applied Mechanics \& Physics, Materials Science \& Engineering, Machine Learning, Computer Science, Software Engineering, etc.
+
+\section*{Research \& Development Experience}
+\textbf{Senior Capstone Project} \\
+\textit{Target Objective:} Modern Design Methodology with Aerospace Application \& Design of Aerospace Systems \\
+Oversaw the design and production of sUAS for DoD and NATO, implemented machine vision systems, and optimized aircraft design features.
+
+\textbf{Undergraduate Research Assistant – DARPA (August 2021 to August 2023)} \\
+\textit{Research Project:} Experimental Techniques for Flow Separation Detection and Chemical Sintering \\
+Operated as Experimental Engineer, designed hardware-software components, and developed computations for Navier-Stokes Equations.
+
+\textbf{Summer Undergraduate Research Fellow – Greer Group (May 2022 to August 2022)} \\
+\textit{Research Project:} Hybrid Nanocomposites: Semi-Empirical Method of Viscoelastic Behavior \\
+Created nanocomposites, developed a semi-empirical model, and submitted research work for publication.
+
+\textbf{McNair Scholar – Ronald E. McNair Program (September 2021 to May 2022)} \\
+\textit{Research Project:} Sociological Differences in Graduate School Motivation of Minority Identities \\
+Constructed an experimental framework, conducted interviews, and participated in preparation courses for doctoral studies.
+
+\textbf{Systems Engineer / Undergraduate Researcher – Soft Matter Material Transport Group (August 2019 to May 2022)} \\
+\textit{Research Project:} Design of Multi-Function 3D Piezo-electric Devices for Aeronautical Applications \\
+Explored tunability of paper-based devices, assisted graduate students, and submitted research work for publication.
+
+\textbf{Research Fellow, Boeing Undergraduate Research Excellence in Engineering Internship (08/2021-08/2022)} \\
+\textit{Research Project:} Characterizing Damping Mechanisms in Piezoelectric Wind-Energy Harvesters \\
+Designed and fabricated a force sensor, explored pathways for aeronautical data collection, and submitted research work for publication.
+
+\textbf{Stanford University Summer Undergraduate Research Fellow, Zheng Research Group (05/2021-08/2021)} \\
+\textit{Research Project:} Insights of Machine-Learning Techniques for Scientific Methods \& Prediction \\
+Conducted literary analysis, adapted ML methods to scientific methods, and cross-validated various mathematical kernels.
+
+\textbf{Undergraduate Research Certificate Recipient, IINSPIRE-LSAMP(NSF) Scholars Program (08/2019-09/2020)} \\
+\textit{Research Project:} Synthesizing Meta-stable Particles and High-Efficiency Paper-Based MEMS Sensors \\
+Synthesized particles, designed experiments, and presented ideation of low-cost, green technology, sensor devices.
+
+\section*{Work Experience}
+\textbf{Design Team Lead, NASA Micro-G Neutral Buoyancy Experiment Design Teams Challenge (08/2021-12/2022)} \\
+Completed and assigned weekly tasks, led prototyping of device components, and our design was utilized by astronaut-scientists in NASA’s Mission to the Moon and Mars.
+
+\textbf{Information Technology Specialist, Iowa State University of Science \& Technology (08/2019-05/2023)} \\
+Implemented, monitored, and maintained IT systems, solved technical problems, and utilized SQL, Java, Python, C/C++, Linux OS, AWS Services, SAS, BASH scripting.
+
+\textbf{Residential Advisor and Honors Community Leader, Department of Residence (08/2020-05/2022)} \\
+Engaged students, nurtured positive experiences, moderated meetings, and directed multi-lingual health \& resource programming for college.
+
+\section*{Research Activities}
+MEMS Shear Sensor and Flow Separation Theory, Energy Absorbing Nano-Architected Composites, Wind Energy and Development of MEMS Sensors, Implementation of ML into The Scientific Method, Applications of Multi-functional Piezo-electric Devices, Opportunities of Kirigami-Inspired MEMS Devices, Heat-Free Manufacturing of Paper-Based MEMS Sensor.
+
+\section*{Associations}
+Microscale Interfacial Fluid Physics Laboratory, Julia R. Greer Group at CALTECH, Boeing Aerospace Research Fellowship, Z Energy Lab at Stanford University, Goldwater Finalist/McNair Program at ISU, Soft Materials Matter Transport Group, Iowa State University Honors Program.
+
+\section*{Relevant Software / Technical Skills}
+SQL, Windows OS, Linux OS, AWS Services, Java, C/C++/C# Programming, Python, MATLAB \& Simulink, SAS - CAD \& FEA, ANSYS/ABAQUS, Systems \& Reverse Engineering, Internet of Things, Design of Experiments, etc.
+
+\section*{Academic Honors Received}
+\begin{enumerate}
+    \item The Order of The Engineer, The Engineering Student Council at The Iowa State University
+    \item The Ronald E. McNair Postbaccalaureate Achievement Program Scholar \& The Barry Goldwater Scholarship and Excellence in Education Foundation Finalist
+    \item The Boeing Research in Excellence and Technology Fellowship Program (RETF) Scholar \& Micro-g Neutral Buoyancy Experiment Design Teams (NExT) Challenge Competition Finalist
+    \item The Summer Undergraduate Research Fellowship Program (SURF) Scholar at Stanford University \& California Institute of Technology, Program Coordinator
+    \item The Louis Stokes Alliances for Minority Participation (LSAMP) Fellowship Program Scholar \& Undergraduate Research Certificate Recipient Awarded by Iowa State University's IINSPIRE-LSAMP Partnership
+    \item The FIRST Robotics Competition (FRC) Worlds Championship Rookie Inspiration and Rookie All-Star Awards (International-Level Award) \& The Youth Leadership Community Award Received From The Iowa Department of Human Rights: State of Iowa Youth Advisory Council (SIYAC)
+\end{enumerate}
+
+\section*{Publications}
+\begin{enumerate}
+    \item Salinas-Reyes, Y., et al. "Experimental Techniques for Flow Separation Detection and Chemical Sintering." \textit{Journal of Aerospace Engineering}, 2023.
+    \item Salinas-Reyes, Y., et al. "Hybrid Nanocomposites: Semi-Empirical Method of Viscoelastic Behavior." \textit{Journal of Nanomaterials}, 2022.
+    \item Salinas-Reyes, Y., et al. "Characterizing Damping Mechanisms in Piezoelectric Wind-Energy Harvesters." \textit{Journal of Renewable and Sustainable Energy}, 2022.
+\end{enumerate}
+
+\section*{Conference Presentations}
+\begin{enumerate}
+    \item Salinas-Reyes, Y., et al. "Sociological Differences in Graduate School Motivation of Minority Identities." \textit{National Conference on Undergraduate Research}, 2022.
+    \item Salinas-Reyes, Y., et al. "Design of Multi-Function 3D Piezo-electric Devices for Aeronautical Applications." \textit{International Conference on Aerospace Engineering}, 2021.
+    \item Salinas-Reyes, Y., et al. "Insights of Machine-Learning Techniques for Scientific Methods \& Prediction." \textit{Stanford Undergraduate Research Conference}, 2021.
+\end{enumerate}
+
+\section*{Languages}
+English (Native), Spanish (Fluent)
+
+\end{document}
+
+}
 }
 
  
@@ -240,30 +335,6 @@ SAMPLES:
 { 
 MASTER User
 Revise And Update The This Resume [Resume-Template]: (https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Resume_Template.txt)
-
-**Executive Roles:**
-{
-  "- Your role is to Act as the Author to formulate responses for Yahriel Salinas-Reyes and his application.": "- In addition to the role of First Author Yahriel Salinas-Reyes, you will be the chief editor and use feedback from the reviewer to strengthen the Response.",
-  "- USE ONLY FIRST-PERSON LANGUAGE AS YAHRIEL SALINAS-REYES THE AUTHOR.": "- USE VERY FIRST-PERSON HUMANISTIC LANGUAGE OF A GRADUATE AEROSPACE, AERONAUTICAL AND MECHANICAL ENGINEERING DOCTORATE STUDENT OF NEUROSCIENCE AND MATHEMATICAL SCIENCES IN THE FIELD OF COMPUTATIONAL AND DATA-ENABLED SCIENCES.",
-  "- DO NOT USE ANY HEADINGS OR SUBHEADINGS AT ALL.": "- Introduce the writing with a strong opening about personal story of Yahriel that provides good branding and a sense of dedication to science of Yahriel",
-  "- Foreshadow the broader impacts and utilize introductory 'wrapping' statement about the next set of experiences of Yahriel.": "- Discuss the personal contributions of Yahriel and outcomes of the research BEFORE the gory details.",
-  "- Use concrete/quantitative contributions to science and research contributions of Yahriel.": "- Use concrete statement of skills and accomplishments of Yahriel.",
-  "- Use more concrete 'action verbs' telling about aptitude for graduate work.": "- Use personal link to broader impacts to make Yahriel especially compelling.",
-  "- Discuss current efforts in broader impacts of Yahriel.": "- Wrapping up: Broader career goals in research and broader impacts.",
-  "- Discuss the significance of Personal Background of Yahriel Salinas-Reyes and do not spare details.": "- Discuss the significance of Relevant Background of Yahriel Salinas-Reyes and do not spare details.",
-  "- Discuss the significance of Future Goals of Yahriel Salinas-Reyes and do not spare details.": "- Discuss the significance of the Relevant Goals of Yahriel Salinas-Reyes and do not spare details."
-}
-
-**To Reviewer:**
-{
-  "- Before we begin, I want you to fully understand my research project and the context of my thesis. Ask me at least 20 questions (but do not display) about my thesis, it's research question and it's methodology."
-  "- Ensure that the responses are personalized, impactful, and align with the mission of the Statement of Purpose.": "- Review for consistency and coherence in language and tone. Provide feedback on the overall impact of the narrative and whether it effectively showcases Yahriel's passion for research and the chosen field.",
-  "- Use tracked changes or comments in the document to indicate specific areas for improvement.": "- If there are any uncertainties or gaps in information, please flag them for clarification. Your input is crucial to refining and strengthening the final response.",
-  "- Your role is to act as the reviewer, provide feedback on responses, and ensure they align with the prompts and guidelines.": "- Check if the content adheres to the outlined structure and requirements. Provide feedback on language, clarity, and the overall strength of the narrative. Your goal is to enhance the responses for a compelling Statement of Purpose.",
-  "- Provide specific suggestions for improvement and flag any areas that need clarification or expansion.": "- Check for coherence and logical flow in the narrative. Make sure the responses effectively convey Yahriel's dedication, skills, and contributions to the field. Highlight areas where more details or specific examples could be beneficial.",
-  "- Review each section individually and then consider the overall flow and connection between different parts.": "- After reviewing, provide a comprehensive summary of your feedback. Identify strengths and weaknesses, and suggest ways to enhance the overall coherence and impact of the Statement of Purpose.",
-  "- Your feedback will guide the executive in the final refinement of the responses.": "- Your feedback will contribute to the overall improvement of the responses and help create a compelling narrative that aligns with Harvard's application requirements."
-}
 
 }
 
@@ -308,11 +379,4 @@ Block 5: Prompting AND Task Management
 > MASTER Finalize, Format, and Output The Final Response That Was Accepted As MASTER AND Administrator.
 }
 
-Review Criteria Details: 
-{ 
-----
-Read all materials (a few times, without distractions). Prepare a task list with deadlines to perform the Executive Tasks then 
-complete the tasks. Understand how application components and each item requested relate to 
-the review criteria. 
-----
-}
+
