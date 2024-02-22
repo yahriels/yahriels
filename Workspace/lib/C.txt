@@ -186,7 +186,7 @@ On the technical side, I have extensive experience working with various software
 Through my prior projects, such as the NASA Micro-G Next Challenge, I’ve learnt how to manage my work in a collaborative environment. Furthermore, I understand the intricacies of research work. I can maintain focus on my individual tasks, with full knowledge of how they contribute to the overall research goals, no matter how mundane and repetitive my tasks are. 
 I look forward to discussing my candidacy with you virtually. If any additional information will help move my application forward, please let me know. Thanks for your time and consideration.
 Sincerely,
--	Yahriel Salinas-Reyes, Aerospace Engineering, Aspiring PhD of Neurosciences
+-	Yahriel Salinas-Reyes, Aerospace Engineering
 ~ The Rocket Scientist Studying The Science of Madness
 }
 
@@ -293,6 +293,7 @@ SQL, Windows OS, Linux OS, AWS Services, Java, C/C++/C# Programming, Python, MAT
     \item Salinas-Reyes, Y., et al. "Design of Multi-Function 3D Piezo-electric Devices for Aeronautical Applications." \textit{International Conference on Aerospace Engineering}, 2021.
     \item Salinas-Reyes, Y., et al. "Insights of Machine-Learning Techniques for Scientific Methods \& Prediction." \textit{Stanford Undergraduate Research Conference}, 2021.
 \end{enumerate}
+
 Publications and Scientific Writings:
 "Exploring Bio-Processing & Devices in Micro & Nanoscience," 2020, NCUR STEM Conference
 "Bioprocessing in Wine Yeast for Mental Health Treatments," 2023, STEM Symposium
@@ -302,19 +303,6 @@ Publications and Scientific Writings:
 "Characterizing Damping Mechanisms in Piezoelectric Wind-Energy Harvesters," 2023
 "Kirigami-Inspired Design of Paper-Based MEMS Devices for Aeronautical Application," 2022
 "Synthesizing Meta-Stable Particles & High-Efficiency MEMS Sensors and Nanodevices," 2021
-Research Presentations and Scientific Thematic Talks
-1.	Y. Salinas-Reyes, H. Seabold, A. Martin, M. Thuo (2020, April). Exploring the Piezoresistive Effect and Paper-based MEMS Sensors. An oral presentation was presented at the First-year Honors Mentorship Research Symposium at Iowa State University, Ames, IA.
-2.	Y. Salinas-Reyes, A. Martin, M. Thuo (2020, August). Integration of paper-based MEMS sensors into computer technology. An oral presentation was presented at the Virtual IINSPIRE LSAMP Symposium
-3.	Y. Salinas-Reyes, A. Martin, M. Thuo (2020, October). Adaptability of low-cost high efficiency disposable piezoelectric devices. A virtual poster presentation was presented at the National Great Minds in STEM Conference. 
-4.	Y. Salinas-Reyes, A. Martin, M. Thuo (2021, April). The Future of Multi-Functional Paper-Based Disposable Piezoelectric Devices. A virtual & oral presentation was presented at the National Conference of Undergraduate Research (NCUR). 
-5.	Y. Salinas-Reyes, X. Zheng (2021, August). Predicting Olympic Triathlon Results via Machine Learning. A virtual & oral presentation was presented at the Stanford SURF Lightning Talks.
-6.	Y. Salinas-Reyes, Julia R. Greer (2022, August). Energy Absorption in Nano-Architected Hybrid Composites. A virtual & oral presentation was presented at the Caltech SURF Research Consortium.
-7.	Y. Salinas-Reyes, Ivaldi Co. (2022, May). Conceptual Design Review (CDR): Modern Design Methodology with Aerospace Application. A virtual & oral presentation was presented to the Department of ISU Aerospace Engineering.
-8.	Y. Salinas-Reyes, T. Ward III (2022, May). Shear-Sensing Principals of Interfacial Viscous-Shear Flow and Piezomobility—strain-induced mobility—at The Wall (Thermal Boundary). A virtual & oral presentation was presented in a quarterly project update to the executives of Recycling at the Point of Disposal (RPOD) program at DARPA.
-9.	Y. Salinas-Reyes, T. Ward III (2023, July). Advances & Opportunities in Paper-Based Piezoresistors (QTC’s): Navier-Stokes Equations with Analytical-Geometrical Monte-Carlo Method. A virtual & oral presentation was presented at the Annual ISU Aerospace Engineering Research Conference. 
-10.	Y. Salinas-Reyes, T. Ward III (2023, August). Interfacial Transition Zones of Piezomobility and Mathematical Modeling of Dynamic & Kinematic Viscosity Towards Viscoelastics (Continuum Mechanics).  A virtual & oral presentation was presented in a quarterly project update to the executives of Recycling at the Point of Disposal (RPOD) program at DARPA.
-11.	Y. Salinas-Reyes, Ivaldi Co. (2023, September). Executive and Granter Design Sign-Off: Design of Aerospace Systems (i.e., sUAS). A virtual & oral presentation, and written report was presented to the Department of ISU Aerospace Engineering.
-12.	Y. Salinas-Reyes, Iowa State University: Aerospace Engineering (2023, December). Senior Thesis Presentation and Final Defense. A virtual & oral presentation, and formal manuscript was presented to the Department of ISU Aerospace Engineering.
 
 \section*{Languages}
 English (Native), Spanish (Fluent)
