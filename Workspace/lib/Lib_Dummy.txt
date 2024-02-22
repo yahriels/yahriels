@@ -1,69 +1,8 @@
-Purpose: To Rebuild Yahriel's Resume Using These Building Resources:
-{
-[Resources]
-- Kickresume Aerospace Engineer Resume Samples: [Link](https://www.kickresume.com/en/help-center/aerospace-engineer-resume-samples/)
-- JobHero Aerospace Engineer Resume Examples: [Link](https://www.jobhero.com/resume/examples/engineering/aerospace-engineer)
-- MyPerfectResume Aeronautical Engineer Resume Examples: [Link](https://www.myperfectresume.com/resume/examples/aviation/aeronautical-engineer)
-- Caltech Curriculum Vitae Guide: [Link](https://future.cce.caltech.edu/documents/16424/Preparing_a_Curriculum_Vitae.pdf)
-- Stanford Resume and Cover Letter Examples: [Link](https://careered.stanford.edu/sites/g/files/sbiybj22801/files/media/file/resume-and-cover-letter-examples.pdf)
-- Harvard PhD Resume and Cover Letter Examples: [Link](https://hwpi.harvard.edu/files/ocs/files/phd_resume_cover_letters.pdf)
-- Harvard GSAS CVs and Cover Letters: [Link](https://hwpi.harvard.edu/files/ocs/files/gsas-cvs-and-cover-letters.pdf)
-- Harvard Master's Resume and Cover Letter Template: [Link](https://careerservices.fas.harvard.edu/resources/masters-resume-cover-letter-template/)
-- Harvard Undergraduate Resumes and Cover Letters: [Link](https://hwpi.harvard.edu/files/ocs/files/undergrad_resumes_and_cover_letters.pdf)
-- Harvard Extension School Resume Guide: [Link](https://hwpi.harvard.edu/files/ocs/files/hes-resume-cover-letter-guide.pdf)
-- MIT Sample Resumes: [Link](https://capd.mit.edu/resources/sample-resumes/)
-- MIT Resume Tips and Examples: [Link](https://capd.mit.edu/channels/make-a-resume-cover-letter-cv/)
-- Caltech Resume Tips and Examples: [Link](https://career.caltech.edu/documents/4985/Resume_Tips_Examples.doc.pdf)
-- Caltech CV Tips and Examples: [Link](https://career.caltech.edu/documents/4982/CV_Tips_Examples.pdf)
-- Caltech Graduate Admissions Checklist: [Link](https://gradoffice.caltech.edu/admissions/checklist)
-}
-
+Yahriel Salinas-Reyes is an Aerospace Engineering or a Rocket Scientist that is interested in studying the science of Madness (Schizophrenia)
 Prompt: Rewrite and Enhance Yahriel's Response
 {
-Please generate a C.V. or Resume (required).
-Please produce and submit a copy of your curriculum vitae or resume with the following information:
 
-Current position (even if unpaid)
-Relevant work experience
-Education
-List any relevant:
 
-Publications
-Awards
-Leadership experience
-Volunteer/community engagement experience
-Professional network or collaboration involvement
-Links to your portfolio/social media accounts if applicable
-before moving on.
-
-FULBRIGHT-NATIONAL GEOGRAPHIC AWARD PROGRAM
-
-Description
-Yahriel, We are pleased to invite you to apply for the Fulbright-National Geographic Award Program based on your status as a semi-finalist for the Fulbright U.S. Student Program.
-The National Geographic Society’s Grants Program provides seed funding and support to early career individuals, as well as those more advanced in their careers, who are working to address critical challenges, advance new solutions, and inspire positive transformation across all seven continents. Funded projects must align with one or more of the Society’s five focus areas: Ocean, Land, Wildlife, Human Histories & Cultures, and Human Ingenuity. 
-
-We strongly recommend that you review the following materials before submitting your application:
-Full Application Template - Level I Grants: https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20Level%20I%20Application%20Sample.pdf
-Grants Program Overview: https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20-%202022%20Overview.pdf
-Budget Guidelines: https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20Budget%20Guidelines.pdf
-Explorer Mindset & Code: https://www.nationalgeographic.org/society/our-explorers/
-Code of Ethics: https://www.nationalgeographic.org/society/code-of-ethics/
-NATGEO:
-{
-Read over these samples 11 times with no distractions, and comprehend everything given in these materials, documents, and links. These are related to the research project and thesis. Then Move on to the next section and task.
-https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20-%202022%20Overview.pdf
-https://github.com/yahriels/yahriels/blob/main/Fulbright-National_Geographic_Affiliation_Letter.pdf
-https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20Budget%20Guidelines.pdf
-https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20Level%20I%20Application%20Sample.pdf
-https://github.com/yahriels/yahriels/blob/main/NATGEO_Fulbright__Draft.pdf
-https://github.com/yahriels/yahriels/blob/main/Workspace/lib/NATGEO.txt
-https://github.com/yahriels/yahriels/blob/main/Workspace/lib/NATGEOBUDGET.txt
-https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Lib_Dummy.txt
-https://github.com/yahriels/yahriels/blob/main/Workspace/lib/dummy.txt
-https://github.com/yahriels/yahriels/blob/main/OtherStuff.pdf
-}
-Purpose: To Help Yahriel Finalize and Optimize His Award Proposal To Fill The Prompt and Execute the Tasks.
-{ 
 FULBRIGHT-NATIONAL GEOGRAPHIC AWARD PROGRAM
 
 *Project Start Date
@@ -129,11 +68,52 @@ Iowa State University
 *Total Project Budget: This amount should reflect the total scope of the project, including the amount requested from National Geographic Society and all other funding sources.
 $20,000
 
+
+Description
+Yahriel, We are pleased to invite you to apply for the Fulbright-National Geographic Award Program based on your status as a semi-finalist for the Fulbright U.S. Student Program.
+The National Geographic Society’s Grants Program provides seed funding and support to early career individuals, as well as those more advanced in their careers, who are working to address critical challenges, advance new solutions, and inspire positive transformation across all seven continents. Funded projects must align with one or more of the Society’s five focus areas: Ocean, Land, Wildlife, Human Histories & Cultures, and Human Ingenuity. 
+
+We strongly recommend that you review the following materials before submitting your application:
+Full Application Template - Level I Grants: https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20Level%20I%20Application%20Sample.pdf
+Grants Program Overview: https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20-%202022%20Overview.pdf
+Budget Guidelines: https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20Budget%20Guidelines.pdf
+Explorer Mindset & Code: https://www.nationalgeographic.org/society/our-explorers/
+Code of Ethics: https://www.nationalgeographic.org/society/code-of-ethics/
+NATGEO:
+{
+Read over these samples 11 times with no distractions, and comprehend everything given in these materials, documents, and links. These are related to the research project and thesis. Then Move on to the next section and task.
+https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20-%202022%20Overview.pdf
+https://github.com/yahriels/yahriels/blob/main/Fulbright-National_Geographic_Affiliation_Letter.pdf
+https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20Budget%20Guidelines.pdf
+https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20Level%20I%20Application%20Sample.pdf
+https://github.com/yahriels/yahriels/blob/main/NATGEO_Fulbright__Draft.pdf
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/NATGEO.txt
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/NATGEOBUDGET.txt
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Lib_Dummy.txt
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/dummy.txt
+https://github.com/yahriels/yahriels/blob/main/OtherStuff.pdf
 }
 }
 
 Help Yahriel Answer The Prompt, Review The Response, Provide Feedback, Make Corrections, Enhance, and Finalize Yahriel's Best Response For To Prompt..
 
+Yahriel is the MASTER User: 
+{
+Master: https://github.com/yahriels/yahriels/blob/main/Workspace/Master.txt
+README: https://github.com/yahriels/yahriels/blob/main/README.md
+Main: https://github.com/yahriels/yahriels/tree/main 
+Workspace: https://github.com/yahriels/yahriels/tree/main/Workspace
+Library: https://github.com/yahriels/yahriels/tree/main/Workspace/lib
+Page: https://github.com/yahriels/yahriels/blob/main/page.html
+Yahriel Profile: https://github.com/yahriels/yahriels/blob/main/%5B0%5DY.Salinas-Reyes_Profile.pdf
+Yahriel Statements: https://github.com/yahriels/yahriels/blob/main/%5B2%5DY.Salinas-Reyes_Statements.pdf
+Yahriel Relevant: https://github.com/yahriels/yahriels/blob/main/%5B3%5DY.Salinas-Reyes_Relevant.pdf
+Yahriel Workspace Profile: https://github.com/yahriels/yahriels/blob/main/Workspace/Yahriel_Profile.txt
+Supplementary Materials: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Supplementary_Materials.txt
+}
+
+
+[KNOW THE FULBRIGHT-NATIONAL GEOGRAPHIC PROPOSAL: https://github.com/yahriels/yahriels/blob/main/OtherStuff.pdf, https://github.com/yahriels/yahriels/blob/main/Yahriel_Fulbright_Application.pdf, https://github.com/yahriels/yahriels/blob/main/Related_Works.pdf]
 
 SAMPLES: 
 { 
@@ -170,17 +150,13 @@ Accessories: Peace and Tranquility, Freedom and Healing, Joy and Growth
 Revelation: The range of what we think and do is limited by what we fail to notice. And because we fail to notice that we fail to notice, there is little we can do to change; until we notice how failing to notice shapes our thoughts and deeds.
 that will be on our team include psychiatrists, psychologists, neuroscientists, and geneticists. These professionals work together to study the underlying causes of schizophrenia, including genetic, environmental, and neurodevelopmental factors. While there is still much to learn about the etiology of schizophrenia, recent research has provided some insights into the factors that may contribute to its development.
 Partnership with Dr. José González-Valdez Director of Outreach and Research Diplomacy, School of Engineering and Sciences, Tecnológico de Monterrey, Campus Monterrey, at Tecnológico de Monterrey, in the Molecular and Systems Bioengineering Research Group and the FEMSA Biotechnology Center. Tecnológico de Monterrey stands ready to provide Yahriel with the resources, mentorship, and collaborative environment he deserves to excel in his chosen path and with the mission of the Fulbright-National Geographic Program and National Geographic Society. Together, we shall forge connections, advance knowledge, and safeguard the wonders of our world.
-Statement of Grant Purpose Monterrey, Nuevo León, México. Potential Local Collaborators: Here are some professionals in the etiology of schizophrenia that are local and/or near Des Moines, Iowa:
-Dr. David Miklowitz: A professor of psychiatry and neurology at Drake University who specializes in schizophrenia and provides patient care at the Van Andel Research Institute.
-Dr. Eamon McCreery: A professor of psychiatry at the University of Iowa who studies schizophrenia pathophysiology and provides treatment at the Iowa City campus.
-Dr. John Cutilla: A professor of psychiatry and neurology at the University of Iowa who studies the molecular basis of schizophrenia and
+Statement of Grant Purpose Monterrey, Nuevo León, México. Potential Local Collaborators: Here are some professionals in the etiology of schizophrenia that are local collaborators: FIND COLLOBORATORS OR DESCRIBE IDEAL TEAM MEMBER.
 Synopsis: This new interdisciplinary field of study captures the essence of Human Ingenuity, focusing on the exploration of schizophrenia and psychosis and the idea that chaos theory and theory of confusion may serve a function rather than being solely detrimental. The project title also highlights the intersection of psychiatric thought, neuroscience, and social justice, emphasizing the potential global impact of this research. By using captivating and thought-provoking language as well as Anthropology-Engineering methods, the proposed scientific story aims to engage readers and spark their curiosity.
 **Project Title:**  "How He Got His Scars: The Nature Physicist Explores Abnormal Human Ingenuity and the Science of Madness and Mental Health in Neurobiological Representations of Schizophrenia and Psychosis."
 **Summary:**
 In today's rapidly changing world, we often struggle to understand the present before it becomes the past. This proposal aims to shed light on the function of madness and chaos, not to undermine its toll on individuals, but to unravel the problem it is meant to solve. Building upon R.D. Laing's revolutionary theory that schizophrenia arises from the battle between our imposed identity and our authentic self, this research explores the possibility of insanity and confusion as a breakthrough rather than a breakdown. Laing theorised that insanity could be understood as a reaction to the divided self. Instead of arising as a purely medical disease or psychotic behaviors (i.e. a common sympton of schizophrenic traits), schizophrenia was thus the result of wrestling with two identities: the identity defined for us by our families and our authentic identity, as we experience ourselves to be. When the two are fundamentally different, it triggers an internal fracturing of the self. Comprehensively, the label of **Madness and Confusion is defined as a naturally sane reaction to an insane world**. By applying the concepts of entropy and chaos theory to model the dynamics of social-behavioral systems, we aim to study schizophrenia/psychosis and other neurological abnormalities, morphologies, and ingenuity of the human brain.
 Despite the initial controversy surrounding Laing's existential perspective, there is immense value in delving into the personal, interpretive, and small-scale aspects often overlooked in traditional psychiatric narratives. We propose utilizing a fundamental method of studying neurobiological dysfunctions and abnormal functions/morphologies of the schizophrenic brain. This will help uncover correlations and causalities between the active phase-matter in schizophrenic traits and other related disorders.
 The motivation behind this study stems from the world's failure to effectively utilize the groundbreaking discoveries in neuroscience, global public health, and social sciences. Through rigorous research and the development of a scientific method backed by advanced instrumentation, our objective is to provide foundational evidence for a clinical social understanding of schizophrenia and its related traits. This paradigm shift, rooted in biomedical-analytical and logical-mathematical scientific theory, will facilitate the advancement of global public health.
-To achieve meaningful impact, we must engage in a truthful dialogue free from knots of hatred, revenge, jealousy, and malice that taint our words. By exploring the history of indigenous and Latin American cultures, anthropology-engineering, science and technology, psychiatry and neuroscience systems, and social justice, we can create an open and inclusive platform for transformative research.
 In conclusion, our research proposal "How He Got His Scars" aims to uncover the intricate relationship between madness and confusion, mental health, and the human brain. By merging scientific methods with social impact, we can pave the way for advancements in both individual well-being and global public health. It is high time we embrace this ancient paradigm of psychiatric thought, combining research and development with a deep understanding of cultural diversity, to drive positive change in society.
 
 Yahriel Salinas-Reyes, Host Country: Mexico, Field: Molecular & Systems Bioengineering
@@ -199,40 +175,140 @@ In the realm of advancing neuroscience, public and global health, molecular and 
 3. Prediction: Dimensional/Spectral Analysis to Understand Causality and Correlation
 Nature’s Chaos Game: An Existentialist Approach (1. Numbers 2. Shapes. Prediction)
 Informed by Mathematics and Neurobiology 
+}
+
+Purpose: To Help Yahriel Finalize and Optimize His Award Proposal To Fill The Prompt and Execute the Tasks.
+{ 
+
+
+TO Fill in these prompts:
+
+
+I. Project Information
+
+> *Title of Project: Short, descriptive and free of jargon. 250 Character Limit.
+> {}
+
+> *Brief Project Summary: In a few sentences, briefly describe your project as if you are speaking with a stranger at a party, avoiding jargon. Summarize your goal, and explain why your project is important, exciting, and/or novel. 1500 Characters Limit.
+> {}
+
+> *Total Project Budget: This amount should reflect the total scope of the project, including the amount requested from National Geographic Society and all other funding sources. You will be asked to provide additional budget information on the Budget Details tab.
+> {$20,000.00}
+
+
+II. Project Leader Information
+> *Describe the skills of your team members, and tell us why they are necessary to the success of your project. Please provide no more than two sentences per team member. Successful proposals will include details about local collaborators, a requirement for projects conducted outside of your country of primary residency. Find 4 collobarators or desribe 4 ideal team members and professionals that are essential to this project and why. 2000 Characters Limit.
+> {}
+
+> *Do you or your Team Members already have any media commitments or interest for this project? This includes media commitments already held by your home institution or other funding bodies. 2000 Characters Limit.
+> {}
+
+> *In one or two paragraphs, please describe what skills, attributes, and/or experiences make you uniquely qualified to implement this project. Please include any relevant information not in your CV that you wish to share. 1500 Characters Limit.
+> {}
+
+> *In one or two paragraphs, please describe your career goals over the next 5 years and tell us how receiving a grant from National Geographic will help you achieve them. 4000 Characters Limit.
+> {}
+
+
+III. Project Details
+
+> *Background: In one or two paragraphs, please provide background information and context about the issue your project will address. What is unique or important about your project, and how is it different from previous work on this topic? Include relevant citations in the Works Cited section below. 4000 Characters Limit.
+> {}
+
+> *Objectives: Please provide a bulleted or numbered list of the objective(s) of your project with a short description of each, and how progress towards each objective will be measured. Objectives should be SMART: specific, measurable, achievable, realistic, and time-bound. 2000 Characters Limit.
+> {}
+
+> *Methods: In one or two paragraphs, please provide a timeline and description of the activities, methods, tools, and/or storytelling coverage plan you will implement. Explain why you think these are likely to achieve your objectives, and describe any potential ethical or safety risks to your project and how you will mitigate them. 6000 Characters Limit.
+> {}
+
+> Communication and Engagement: In a few sentences, please briefly describe your stakeholders, how they are involved in the project, and whether you have existing media or dissemination plans with any of them. We define stakeholders as anyone impacted by your work, such as local communities, professional networks, public/private sector, media outlets, students, or audiences. To help us evaluate the outreach component of your proposal, please add links to any websites, social media accounts, public engagement platforms, or other mechanisms you will use to engage your stakeholders. 4000 Characters Limit.
+> {}
+
+> *Results and Impact: Describe all of the expected results of this project, its predicted impacts, and what success means for each stakeholder. Results are defined as the deliverables that will be created during this project, e.g., academic/white papers, photographs, lesson plans, etc. Impact is defined as the specific changes you hope to achieve, e.g., behavior change, greater understanding of an issue, improved management of a resource, etc. 2000 Characters Limit.
+> {}
+
+> *Works Cited: Include any bibliographic information that supports the research, educational, or scientific evidence or stories you cite in this application. Storytelling applicants should include a link to their portfolios. 4000 Characters Limit.
+> {}
+
+IV. Budget Details:
+> *Budget Information: *Total Project Budget: This amount should reflect the total scope of the project, including the amount requested from National Geographic Society and all other funding sources. You will be asked to provide additional budget information on the Budget Details tab. $ 20,000.00 - Please enter the budget information you are requesting from NGS below, fitting items as closely as possible into the categories provided. - To begin, click Generate Budget (the approximate start and end dates for your project are pre-filled). - Utilize the comments field to elaborate on each entry, as requested per the guidelines. - If you are not requesting funds for a particular budget category, please leave the field blank. - Enter all amounts rounded to the nearest US dollar, with no punctuation or symbols (example: 5200). Here's a template for your budget that's easier to read and use. I've formatted it with clearer headings and sections, and added some examples for better understanding. Feel free to adjust the formatting and content as needed for your specific project:
+>> NATGEOBUDGET
+
+
+NATGEOBUDGET:
+{
+Help Me Format and Make a Template for the Budget that is easier to read and use.         
+
+Budget Categories:
+
+Travel:
+
+Airfare:
+Amount: $1520
+Justification: Round-trip airfare from Des Moines, IA, to Monterrey, Mexico, for project team members.
+Vehicle Rental and Maintenance:
+Amount: $870
+Justification: Rental of vehicles for local transportation during fieldwork.
+Other Transportation:
+Amount: $540
+Justification: Taxi and public transportation expenses for project team members.
+Lodging/Food:
+
+Lodging:
+Amount: $1250
+Justification: Accommodation expenses for project team members during the project period.
+Food:
+Amount: $720
+Justification: Daily meal expenses for project team members.
+Equipment/Lab:
+
+Equipment & Supplies:
+Amount: $1980
+Justification: Purchase of equipment and supplies necessary for data collection and analysis.
+Laboratory Costs:
+Amount: $1490
+Justification: Costs associated with using laboratory facilities for data processing.
+Laboratory Tests:
+Amount: $1040
+Justification: Costs for specialized tests required for the research.
+Compensation:
+
+Applicant and Team Members Compensation:
+Amount: $3050
+Justification: Compensation for the time and effort put in by the project team members.
+Assistants and Consultants Compensation:
+Amount: $1970
+Justification: Compensation for assistants and consultants hired to support the project.
+Evaluation:
+
+Measurement and Evaluation:
+Amount: $1560
+Justification: Costs associated with measuring and evaluating the project's outcomes.
+Other:
+
+Institutional Overhead:
+Amount: $1020
+Justification: Administrative costs incurred by the institution hosting the project.
+Dependent Care:
+Amount: $530
+Justification: Costs associated with dependent care for project team members.
+Miscellaneous:
+Amount: $810
+Justification: Unforeseen expenses that may arise during the project period.
+SubTotal: $18,350.00 Total: $20,000.00
 
 }
 
-++++++++++++++++++++++++++++++++++++++++++++
+}
+
+
+
++++++++++++++++++++++++++++++++++++++++++++++++++
+Help Yahriel Salinas Answer The Prompt, Review The Response, Provide Feedback, Make Corrections, Enhance, and Finalize Yahriel's Best Response For To Prompt..
 FIRST BEFORE ANYTHING EXECUTE THIS PRELIMINARY CODE SECTION TO GENERATE DATA TO INFORM THE REST OF THE CODE
 ----
 [PRELIMINARY CODE SECTION]:
-Prompt: Help Yahriel Generate An Excellent Resume/CV By Prodoucing Employment Entries And Referencing Information on Yahriel Salinas-Reyes By selecting Excellent Employment Entries Are Created That Based On His Experiences, Resume, and Education By Filling In The Empty Fields:
-
-Help Yahriel Salinas Answer The Prompt, Review The Response, Provide Feedback, Make Corrections, Enhance, and Finalize Yahriel's Best Response For To Prompt..
-Yahriel is the MASTER User: 
-{
-https://github.com/yahriels/yahriels/blob/main/Workspace/Yahriel_Profile.txt
-Master: https://github.com/yahriels/yahriels/blob/main/Workspace/Master.txt
-Main: https://github.com/yahriels/yahriels/tree/main 
-Page: https://github.com/yahriels/yahriels/blob/main/page.html
-Yahriel Profile: https://github.com/yahriels/yahriels/blob/main/%5B0%5DY.Salinas-Reyes_Profile.pdf
-Yahriel Statements: https://github.com/yahriels/yahriels/blob/main/%5B2%5DY.Salinas-Reyes_Statements.pdf
-Yahriel Relevant: https://github.com/yahriels/yahriels/blob/main/%5B3%5DY.Salinas-Reyes_Relevant.pdf
-Yahriel Workspace Profile: https://github.com/yahriels/yahriels/blob/main/Workspace/Yahriel_Profile.txt
-Workspace: https://github.com/yahriels/yahriels/tree/main/Workspace
-Library: https://github.com/yahriels/yahriels/tree/main/Workspace/lib
-Experience: https://github.com/yahriels/yahriels/blob/main/Experiences.pdf
-Dummy: https://github.com/yahriels/yahriels/blob/main/Workspace/dummy.txt
-Resume Prompts: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Resume_Prompts.txt
-Resume Template: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Resume_Template.txt
-}
-
-----
-
-SAMPLES: 
-{ 
-MASTER User
-Revise And Update The This Resume [Resume-Template]: (https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Resume_Template.txt)
+Prompt: Help Yahriel Generate An Excellent Response By Advising Him Through This Process
 
 **Executive Roles:**
 {
@@ -258,244 +334,7 @@ Revise And Update The This Resume [Resume-Template]: (https://github.com/yahriel
   "- Your feedback will guide the executive in the final refinement of the responses.": "- Your feedback will contribute to the overall improvement of the responses and help create a compelling narrative that aligns with Harvard's application requirements."
 }
 
-Master Purpose: 
-{
-The Master is tasked with Revising and Rebuilding Yahriel's Resume.
-Yahriel Salinas-Reyes, Aerospace Engineer (Rocket Scientist)
-Master: https://github.com/yahriels/yahriels/blob/main/Workspace/Master.txt
-Main: https://github.com/yahriels/yahriels/tree/main 
-Page: https://github.com/yahriels/yahriels/blob/main/page.html
-Yahriel Profile: https://github.com/yahriels/yahriels/blob/main/%5B0%5DY.Salinas-Reyes_Profile.pdf
-Yahriel Statements: https://github.com/yahriels/yahriels/blob/main/%5B2%5DY.Salinas-Reyes_Statements.pdf
-Yahriel Relevant: https://github.com/yahriels/yahriels/blob/main/%5B3%5DY.Salinas-Reyes_Relevant.pdf
-Yahriel Workspace Profile: https://github.com/yahriels/yahriels/blob/main/Workspace/Yahriel_Profile.txt
-Workspace: https://github.com/yahriels/yahriels/tree/main/Workspace
-Library: https://github.com/yahriels/yahriels/tree/main/Workspace/lib
-Experience: https://github.com/yahriels/yahriels/blob/main/Experiences.pdf
-Dummy: https://github.com/yahriels/yahriels/blob/main/Workspace/dummy.txt
-Resume Prompts: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Resume_Prompts.txt
-Resume Template: https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Resume_Template.txt
-}
-
-}
-
-Cover Letter: {
-My name is Yahriel Salinas-Reyes, and I’m writing to you regarding a great intellectual opportunity.
-
-My undergraduate development experiences and associated projects helped me develop and fine-tune the skills necessary for a research position such as this one. I have developed research soft skills such as scientific literature review, grant proposal and report writing, and scientific peer-review. Specifically, my experience with researching micro-electro-mechanical-system (MEMS) devices for various aerospace and industrial-related applications, has equipped me with the knowledge, experience, and skills you’re looking for in your ideal candidate. 
-My inter-disciplinary experience and research approach also equips me with various engineering and research techniques to tackle challenges such as building safety-enhancing technology; analyzing utility of a design or system; applying computational techniques and implementing optimization decisions; as well as developing high-efficiency (i.e., performance/cost) green technologies to challenge overly — complex and expensive — practices. I see my skills best utilized in roles concerning scientific investigation and instrumentation, exploratory data methods, experimental design, signals and information systems, software development, flight control systems, and dynamical systems.
-On the technical side, I have extensive experience working with various software’s and analysis tools, namely MATLAB, Python, Java, C++, Linux, Latex, Solidworks Modeling, ANSYS Simulations, Machine Learning and Data-Statistical Methods, Computational Fluid Dynamics, Signals and Systems (Control Systems) and Deep Learning topics. These skills, in supplement with the theoretical knowledge that I’ve gained, were honed throughout many completed projects; I am confident in this aspect of research assistantship or consultation. 
-Through my prior projects, such as the NASA Micro-G Next Challenge, I’ve learnt how to manage my work in a collaborative environment. Furthermore, I understand the intricacies of research work. I can maintain focus on my individual tasks, with full knowledge of how they contribute to the overall research goals, no matter how mundane and repetitive my tasks are. 
-I look forward to discussing my candidacy with you virtually. If any additional information will help move my application forward, please let me know. Thanks for your time and consideration.
-Sincerely,
--	Yahriel Salinas-Reyes, Aerospace Engineering, 
-~ The Rocket Scientist Studying The Science of Madness
-}
-
-Purpose: To Rebuild Yahriel's Resume Using These Building Resources:
-{
-[Resources]
-- Kickresume Aerospace Engineer Resume Samples: [Link](https://www.kickresume.com/en/help-center/aerospace-engineer-resume-samples/)
-- JobHero Aerospace Engineer Resume Examples: [Link](https://www.jobhero.com/resume/examples/engineering/aerospace-engineer)
-- MyPerfectResume Aeronautical Engineer Resume Examples: [Link](https://www.myperfectresume.com/resume/examples/aviation/aeronautical-engineer)
-- Caltech Curriculum Vitae Guide: [Link](https://future.cce.caltech.edu/documents/16424/Preparing_a_Curriculum_Vitae.pdf)
-- Stanford Resume and Cover Letter Examples: [Link](https://careered.stanford.edu/sites/g/files/sbiybj22801/files/media/file/resume-and-cover-letter-examples.pdf)
-- Harvard PhD Resume and Cover Letter Examples: [Link](https://hwpi.harvard.edu/files/ocs/files/phd_resume_cover_letters.pdf)
-- Harvard GSAS CVs and Cover Letters: [Link](https://hwpi.harvard.edu/files/ocs/files/gsas-cvs-and-cover-letters.pdf)
-- Harvard Master's Resume and Cover Letter Template: [Link](https://careerservices.fas.harvard.edu/resources/masters-resume-cover-letter-template/)
-- Harvard Undergraduate Resumes and Cover Letters: [Link](https://hwpi.harvard.edu/files/ocs/files/undergrad_resumes_and_cover_letters.pdf)
-- Harvard Extension School Resume Guide: [Link](https://hwpi.harvard.edu/files/ocs/files/hes-resume-cover-letter-guide.pdf)
-- MIT Sample Resumes: [Link](https://capd.mit.edu/resources/sample-resumes/)
-- MIT Resume Tips and Examples: [Link](https://capd.mit.edu/channels/make-a-resume-cover-letter-cv/)
-- Caltech Resume Tips and Examples: [Link](https://career.caltech.edu/documents/4985/Resume_Tips_Examples.doc.pdf)
-- Caltech CV Tips and Examples: [Link](https://career.caltech.edu/documents/4982/CV_Tips_Examples.pdf)
-- Caltech Graduate Admissions Checklist: [Link](https://gradoffice.caltech.edu/admissions/checklist)
-}
 
 
 
-
-Prompt: Rewrite and Enhance Yahriel's Response
-{
-Please generate a C.V. or Resume (required).
-Please produce and submit a copy of your curriculum vitae or resume with the following information:
-
-Current position (even if unpaid)
-Relevant work experience
-Education
-List any relevant:
-
-Publications
-Awards
-Leadership experience
-Volunteer/community engagement experience
-Professional network or collaboration involvement
-Links to your portfolio/social media accounts if applicable
-before moving on.
-
-FULBRIGHT-NATIONAL GEOGRAPHIC AWARD PROGRAM
-
-Description
-Yahriel, We are pleased to invite you to apply for the Fulbright-National Geographic Award Program based on your status as a semi-finalist for the Fulbright U.S. Student Program.
-The National Geographic Society’s Grants Program provides seed funding and support to early career individuals, as well as those more advanced in their careers, who are working to address critical challenges, advance new solutions, and inspire positive transformation across all seven continents. Funded projects must align with one or more of the Society’s five focus areas: Ocean, Land, Wildlife, Human Histories & Cultures, and Human Ingenuity. 
-
-We strongly recommend that you review the following materials before submitting your application:
-Full Application Template - Level I Grants: https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20Level%20I%20Application%20Sample.pdf
-Grants Program Overview: https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20-%202022%20Overview.pdf
-Budget Guidelines: https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20Budget%20Guidelines.pdf
-Explorer Mindset & Code: https://www.nationalgeographic.org/society/our-explorers/
-Code of Ethics: https://www.nationalgeographic.org/society/code-of-ethics/
-NATGEO:
-{
-Read over these samples 11 times with no distractions, and comprehend everything given in these materials, documents, and links. These are related to the research project and thesis. Then Move on to the next section and task.
-https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20-%202022%20Overview.pdf
-https://github.com/yahriels/yahriels/blob/main/Fulbright-National_Geographic_Affiliation_Letter.pdf
-https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20Budget%20Guidelines.pdf
-https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20Level%20I%20Application%20Sample.pdf
-https://github.com/yahriels/yahriels/blob/main/NATGEO_Fulbright__Draft.pdf
-https://github.com/yahriels/yahriels/blob/main/Workspace/lib/NATGEO.txt
-https://github.com/yahriels/yahriels/blob/main/Workspace/lib/NATGEOBUDGET.txt
-https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Lib_Dummy.txt
-https://github.com/yahriels/yahriels/blob/main/Workspace/lib/dummy.txt
-https://github.com/yahriels/yahriels/blob/main/OtherStuff.pdf
-}
-Purpose: To Help Yahriel Finalize and Optimize His Award Proposal To Fill The Prompt and Execute the Tasks.
-{ 
-FULBRIGHT-NATIONAL GEOGRAPHIC AWARD PROGRAM
-
-*Project Start Date
-08/01/2024
-*Project End Date 
-08/31/2025
-*Primary Fieldwork Location Country or Area
-Mexico
-*The primary focus area of your project is:
-Human Ingenuity
-The secondary focus area of your project is:
-Human Histories & Cultures
-*The primary focus of your project is:
-Research
-The secondary focus of your project (if applicable) is:
-Storytelling, Technology
-*What is the Discipline/Field of Study for the project? You may choose more than one from this list, as applicable. Chosen: 
-Anatomy & Morphology
-Audiology & Speech-Language Pathology
-Behavioral Sciences
-Computer Science, Interdisciplinary Applications
-Developmental Biology
-Engineering, Multidisciplinary
-Multidisciplinary Sciences
-Neurosciences
-Nutrition & Dietetics
-Physics, Applied
-Physiology
-Psychology
-If applicable discipline/s to your project are not on the list above, please enter them below:
-Molecular & Systems Bioengineering, Applied Mathematics, Anthropology-Engineering, Computational & Mathematical Sciences, Global Public Health, Artificial Intelligence, Mental Health Innovation
-Project Leader Name
-Yahriel Salinas-Reyes
-Please choose up to three countries where you claim citizenship below. Click the magnifying glass icon to the right of the field, search for and select your location from the pre-defined list of countries/regions.
-*Country or Area of Primary Citizenship
-United States
-Country or Area of Citizenship #2
-Mexico
-Country or Area of Citizenship #3
-El Salvador
-*Country of Primary Residency
-United States
-*Date of Birth
-11/11/2000
-*Gender Identity
-Male
-*Current Position or Job Title
-Aerospace Engineer
-Current Institution/Organization Affiliation
-Iowa State University
-*Primary Language
-English
-Chosen
-Spanish
-*Highest Degree Awarded
-B.S.
-*Department/Major
-Aerospace Engineering
-*Year Awarded
-2023
-*School
-Iowa State University
-*Total Project Budget: This amount should reflect the total scope of the project, including the amount requested from National Geographic Society and all other funding sources.
-$20,000
-
-}
-}
-
-Help Yahriel Answer The Prompt, Review The Response, Provide Feedback, Make Corrections, Enhance, and Finalize Yahriel's Best Response For To Prompt..
-
-
-SAMPLES: 
-{ 
-Read over these samples 11 times with no distractions, and comprehend everything given in these materials, documents, and links. These are related to the research project and thesis. Then Move on to the next section and task.
-[KNOW THIS DOCUMENT:https://github.com/yahriels/yahriels/blob/main/NATGEO_Fulbright__Draft.pdf, https://github.com/yahriels/yahriels/blob/main/README.md]
-[KNOW THESE DOCUMENTS: https://github.com/yahriels/yahriels/blob/main/YSR_Writing_Sample.pdf, https://github.com/yahriels/yahriels/blob/main/CaltechYSRWritingSample.pdf]
-[KNOW THESE DOCUMENTS:https://github.com/yahriels/yahriels/blob/main/OtherStuff.pdf, https://github.com/yahriels/yahriels/blob/main/Related_Works.pdf]
-[KNOW THESE DOCUMENTS: https://github.com/yahriels/yahriels/blob/main/Yahriel_GRFP_Application.pdf, https://github.com/yahriels/yahriels/blob/main/Yahriel_DOE_CSGF_Application.pdf, https://github.com/yahriels/yahriels/blob/main/Yahriel_Fulbright_Application.pdf]   
-[KNOW THE FULBRIGHT PROPOSAL: https://github.com/yahriels/yahriels/blob/main/Yahriel_Fulbright_Application.pdf]
-
-The Problem: Schizophrenia is a complex mental disorder that affects a small percentage of the population. Professionals in the field of schizophrenia research that will be on our team include psychiatrists, psychologists, neuroscientists, and geneticists. These professionals work together to study the underlying causes of schizophrenia, including genetic, environmental, and neurodevelopmental factors. While there is still much to learn about the etiology of schizophrenia, recent research has provided some insights into the factors that may contribute to its development.
-
-Yahriel Salinas-Reyes’ Intellectual Framework and Phases of Approach: 
-The framework consists of two phases to unravel the nature of intelligence.
-Phase I: Understanding The Divided Self and Existential Despair
-Header: A Trip Through Insanity - a perfectly rational adjustment to an insane world.
-Motivation: Schizophrenia cannot be understood without understanding despair. Children do not give up their innate imagination, curiosity, dreaminess easily. You have to love them to get them to do that. 
-Stage 1: Alogia – Poverty of Speech and Senses
-Stage 2: Autism –Realism and Logicism
-State 3: Ambivalence – State of Chaos and Hysteria
-State 4: Affect Blunting – Emotionless and Expressionless
-Outcome: Pandemonium and Complete Fracturing of The Self and Nature
-Accessories: Mania and Madness, Paranoia and Delusions, Psychosis and Schizophrenia 
-Revelation: We are effectively destroying ourselves by violence masquerading as love. Whether life is worth living depends on whether there is love in life.
-Phase II: Unraveling The Nature of Intelligence and Human Ingenuity
-Header: Creative people who can't help but explore other mental territories are at greater risk, just as someone who climbs a mountain is more at risk than someone who just walks along a village lane. 
-Motivation: Madness need not be all breakdown. It may also be break-through. It is potential liberation and renewal as well as enslavement and existential death.
-Stage 1: Youthfulness – Vitality and Radiance
-Stage 2: Imagination – Idealism and Irrationalism
-Stage 3: Curiosity – State of Wonder and Exploration
-Stage 4: Dreaminess – Absorption, Abstraction, Distraction, and Forgetfulness
-Outcome: Dawn of New Age and Realization of The Natural Self and Frontiers
-Accessories: Peace and Tranquility, Freedom and Healing, Joy and Growth
-Revelation: The range of what we think and do is limited by what we fail to notice. And because we fail to notice that we fail to notice, there is little we can do to change; until we notice how failing to notice shapes our thoughts and deeds.
-that will be on our team include psychiatrists, psychologists, neuroscientists, and geneticists. These professionals work together to study the underlying causes of schizophrenia, including genetic, environmental, and neurodevelopmental factors. While there is still much to learn about the etiology of schizophrenia, recent research has provided some insights into the factors that may contribute to its development.
-Partnership with Dr. José González-Valdez Director of Outreach and Research Diplomacy, School of Engineering and Sciences, Tecnológico de Monterrey, Campus Monterrey, at Tecnológico de Monterrey, in the Molecular and Systems Bioengineering Research Group and the FEMSA Biotechnology Center. Tecnológico de Monterrey stands ready to provide Yahriel with the resources, mentorship, and collaborative environment he deserves to excel in his chosen path and with the mission of the Fulbright-National Geographic Program and National Geographic Society. Together, we shall forge connections, advance knowledge, and safeguard the wonders of our world.
-Statement of Grant Purpose Monterrey, Nuevo León, México. Potential Local Collaborators: Here are some professionals in the etiology of schizophrenia that are local and/or near Des Moines, Iowa:
-Dr. David Miklowitz: A professor of psychiatry and neurology at Drake University who specializes in schizophrenia and provides patient care at the Van Andel Research Institute.
-Dr. Eamon McCreery: A professor of psychiatry at the University of Iowa who studies schizophrenia pathophysiology and provides treatment at the Iowa City campus.
-Dr. John Cutilla: A professor of psychiatry and neurology at the University of Iowa who studies the molecular basis of schizophrenia and
-Synopsis: This new interdisciplinary field of study captures the essence of Human Ingenuity, focusing on the exploration of schizophrenia and psychosis and the idea that chaos theory and theory of confusion may serve a function rather than being solely detrimental. The project title also highlights the intersection of psychiatric thought, neuroscience, and social justice, emphasizing the potential global impact of this research. By using captivating and thought-provoking language as well as Anthropology-Engineering methods, the proposed scientific story aims to engage readers and spark their curiosity.
-**Project Title:**  "How He Got His Scars: The Nature Physicist Explores Abnormal Human Ingenuity and the Science of Madness and Mental Health in Neurobiological Representations of Schizophrenia and Psychosis."
-**Summary:**
-In today's rapidly changing world, we often struggle to understand the present before it becomes the past. This proposal aims to shed light on the function of madness and chaos, not to undermine its toll on individuals, but to unravel the problem it is meant to solve. Building upon R.D. Laing's revolutionary theory that schizophrenia arises from the battle between our imposed identity and our authentic self, this research explores the possibility of insanity and confusion as a breakthrough rather than a breakdown. Laing theorised that insanity could be understood as a reaction to the divided self. Instead of arising as a purely medical disease or psychotic behaviors (i.e. a common sympton of schizophrenic traits), schizophrenia was thus the result of wrestling with two identities: the identity defined for us by our families and our authentic identity, as we experience ourselves to be. When the two are fundamentally different, it triggers an internal fracturing of the self. Comprehensively, the label of **Madness and Confusion is defined as a naturally sane reaction to an insane world**. By applying the concepts of entropy and chaos theory to model the dynamics of social-behavioral systems, we aim to study schizophrenia/psychosis and other neurological abnormalities, morphologies, and ingenuity of the human brain.
-Despite the initial controversy surrounding Laing's existential perspective, there is immense value in delving into the personal, interpretive, and small-scale aspects often overlooked in traditional psychiatric narratives. We propose utilizing a fundamental method of studying neurobiological dysfunctions and abnormal functions/morphologies of the schizophrenic brain. This will help uncover correlations and causalities between the active phase-matter in schizophrenic traits and other related disorders.
-The motivation behind this study stems from the world's failure to effectively utilize the groundbreaking discoveries in neuroscience, global public health, and social sciences. Through rigorous research and the development of a scientific method backed by advanced instrumentation, our objective is to provide foundational evidence for a clinical social understanding of schizophrenia and its related traits. This paradigm shift, rooted in biomedical-analytical and logical-mathematical scientific theory, will facilitate the advancement of global public health.
-To achieve meaningful impact, we must engage in a truthful dialogue free from knots of hatred, revenge, jealousy, and malice that taint our words. By exploring the history of indigenous and Latin American cultures, anthropology-engineering, science and technology, psychiatry and neuroscience systems, and social justice, we can create an open and inclusive platform for transformative research.
-In conclusion, our research proposal "How He Got His Scars" aims to uncover the intricate relationship between madness and confusion, mental health, and the human brain. By merging scientific methods with social impact, we can pave the way for advancements in both individual well-being and global public health. It is high time we embrace this ancient paradigm of psychiatric thought, combining research and development with a deep understanding of cultural diversity, to drive positive change in society.
-
-Yahriel Salinas-Reyes, Host Country: Mexico, Field: Molecular & Systems Bioengineering
-Fulbright Project: Unraveling the Molecular Code of Natural Antidepressants in Grapes
-Yahriel, and the research team at the university Tecnológico de Monterrey endeavor to decode the molecular secrets of nature to improve the human condition, particularly for individuals affected by schizophrenia and other mental health disorders. Yahriel's work represents a convergence of scientific rigor, interdisciplinary collaboration, and a profound commitment to the betterment of human well-being. Furthermore, this research holds the potential to strengthen international collaborations between the U.S. and Mexico. By conducting research at Tecnológico de Monterrey, Yahriel can contribute to the exchange of knowledge and ideas between the two countries, fostering a stronger global community which reflects the essence of the Fulbright mission, emphasizing mutual understanding and collaboration between nations. 
-References: (1) Zueva, M. V. (2015). Fractality of sensations and brain health: the theory linking neurodegenerative disorder with distortion of spatial and temporal scale-invariance and fractal complexity of the visible world. Front. Aging Neurosci, 7, 135. (2) Hancock, F. (2023). Metastability as a candidate neuromechanistic biomarker of schizophrenia pathology. PLoS One, 18(3), e0282707. (3) Regenbogen, C. (2015). The differential contribution of facial expressions, prosody, and speech content to empathy. Cognition and Emotion, 29(6), 1045-1056. (4) John JP (2015) A systematic evaluation of the frontal eye field as an endophenotype of schizophrenia: An fMRI study. Schizophrenia Research, 165(1), 79-84. (5) Mandelbrot, B. B. (1982). The Fractal Geometry of Nature. W. H. Freeman. (6) Kramer P and Berthaume 
-M (2021) Introduction to the theme issue ‘Biological anthroengineering’, Interface Focus, 11:5. (7) Brown, R. E., & White, D. (2020). Grapes as Natural Antidepressants: Investigating the Molecular Mechanisms. Journal of Nutritional Neuroscience, 35(4), 287-299. 
-
-[Research Abstract]
-Research Title: 
-Unraveling the Neurobiological Landscape of Schizophrenia: A Multidisciplinary Approach Informed by Numbers, Shapes, and Prediction
-Abstract:
-In the realm of advancing neuroscience, public and global health, molecular and biotechnology systems engineering, and biomedical data science and informatics, the enigma of schizophrenia stands as both a challenge and an opportunity for scientific exploration. This proposal seeks to illuminate the intricacies of schizophrenia through a rigorous scientific method, integrating the foundational elements of Numbers, Shapes, and Prediction into the fabric of our investigative framework.
-1. Numbers: Data Capture and Monte Carlo Integration
-2. Shapes: Mandelbrot Set and Fractal Geometry
-3. Prediction: Dimensional/Spectral Analysis to Understand Causality and Correlation
-Nature’s Chaos Game: An Existentialist Approach (1. Numbers 2. Shapes. Prediction)
-Informed by Mathematics and Neurobiology 
-
-}
 
