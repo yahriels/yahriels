@@ -279,7 +279,7 @@ Block 2: Library AND Databases
 > Reviewer Details AND Selection Criteria: To be determined based on specific prompts.
 
 Block 3: Purpose of Response AND Review Guidelines
-> Background AND Overview: Create a compelling Statement of Purpose for Yahriel Salinas-Reyes' PhD application to Stanford University.
+> Background AND Overview: Create a compelling Statement of Purpose for Yahriel Salinas-Reyes
 > Intellectual Merit AND Broader Impacts: Showcase Yahriel's dedication to science, research contributions, skills, and broader career goals.
 > Review Criteria AND Additional Details: Follow the provided prompts and guidelines, align with the specific requirements of Stanford's application.
 
