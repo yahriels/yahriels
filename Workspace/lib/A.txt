@@ -1,9 +1,75 @@
+SCIENTIFIC STORYTELLING IS A BIG THEME IN THIS PROJECT FOR COMMUNICATING AND INTERPRETING RESULTS.
+
+RERUN ALL PROCESSES RECURSIVELY AND REFINE THIS CODE AND SCRIPT TO PERFORM AND OPERATE BETTER:{{
 
 
 Purpose: To Help Yahriel Finalize and Optimize His Award Proposal To Fill The Prompt and Execute the Tasks.
 { 
 Fill in the prompts for Project Information, Project Leader Information, and Project Details.
+FULBRIGHT-NATIONAL GEOGRAPHIC AWARD PROGRAM
 
+*Project Start Date
+08/01/2024
+*Project End Date 
+08/31/2025
+*Primary Fieldwork Location Country or Area
+Mexico
+*The primary focus area of your project is:
+Human Ingenuity
+The secondary focus area of your project is:
+Human Histories & Cultures
+*The primary focus of your project is:
+Research
+The secondary focus of your project (if applicable) is:
+Storytelling, Technology
+*What is the Discipline/Field of Study for the project? You may choose more than one from this list, as applicable. Chosen: 
+Anatomy & Morphology
+Audiology & Speech-Language Pathology
+Behavioral Sciences
+Computer Science, Interdisciplinary Applications
+Developmental Biology
+Engineering, Multidisciplinary
+Multidisciplinary Sciences
+Neurosciences
+Nutrition & Dietetics
+Physics, Applied
+Physiology
+Psychology
+If applicable discipline/s to your project are not on the list above, please enter them below:
+Molecular & Systems Bioengineering, Applied Mathematics, Anthropology-Engineering, Computational & Mathematical Sciences, Global Public Health, Artificial Intelligence, Mental Health Innovation
+Project Leader Name
+Yahriel Salinas-Reyes
+Please choose up to three countries where you claim citizenship below. Click the magnifying glass icon to the right of the field, search for and select your location from the pre-defined list of countries/regions.
+*Country or Area of Primary Citizenship
+United States
+Country or Area of Citizenship #2
+Mexico
+Country or Area of Citizenship #3
+El Salvador
+*Country of Primary Residency
+United States
+*Date of Birth
+11/11/2000
+*Gender Identity
+Male
+*Current Position or Job Title
+Aerospace Engineer
+Current Institution/Organization Affiliation
+Iowa State University
+*Primary Language
+English
+Chosen
+Spanish
+*Highest Degree Awarded
+B.S.
+*Department/Major
+Aerospace Engineering
+*Year Awarded
+2023
+*School
+Iowa State University
+*Total Project Budget: This amount should reflect the total scope of the project, including the amount requested from National Geographic Society and all other funding sources.
+$20,000
 I. Project Information
 
 > *Title of Project: Short, descriptive and free of jargon. 250 Character Limit.
@@ -242,3 +308,4 @@ complete the tasks. Understand how application components and each item requeste
 the review criteria. 
 ----
 }
+}}

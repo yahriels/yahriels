@@ -1,4 +1,3 @@
-
 Prompt: Rewrite and Enhance Yahriel's Response
 {
 Please generate a C.V. or Resume (required).
@@ -114,7 +113,23 @@ $20,000
 }
 
 Help Yahriel Answer The Prompt, Review The Response, Provide Feedback, Make Corrections, Enhance, and Finalize Yahriel's Best Response For To Prompt..
+ for crafting Yahriel's resume and responding to the prompt for the Fulbright-National Geographic Award Program. Here is a summary of the key points and steps to follow:
 
+Create a Comprehensive Resume/CV: Utilize resources such as Kickresume, JobHero, MyPerfectResume, Caltech, Stanford, Harvard, MIT, and other sample resumes to create an excellent resume for Yahriel. Incorporate his education, relevant work experience, publications, awards, leadership experience, and volunteer/community engagement.
+
+Review and Enhance Response to Fulbright-National Geographic Award Program Prompt: Use the provided samples and resources to help Yahriel finalize and optimize his award proposal. Ensure that the response aligns with the program's mission and guidelines, focusing on the research project's significance and Yahriel's qualifications.
+
+Cover Letter: Craft a cover letter that highlights Yahriel's relevant skills, experiences, and achievements. Emphasize his passion for research and his suitability for the position.
+
+Executive Roles and Guidelines: As the Executive, act as the author to formulate responses for Yahriel and review and enhance his responses based on feedback. Use first-person language as Yahriel Salinas-Reyes and ensure that the responses are personalized, impactful, and align with the mission of the Statement of Purpose.
+
+Library and Databases: Provide Yahriel's credentials, profile, history, and additional materials such as his LinkedIn profile, GitHub README, personal page, and resume/CV for reference.
+
+Purpose of Response and Review Guidelines: Create a compelling Statement of Purpose for Yahriel that showcases his dedication to science, research contributions, skills, and broader career goals. Follow the provided prompts and guidelines, aligning with the specific requirements of the Fulbright-National Geographic Award Program.
+
+Prompting and Task Management: Read all materials, prepare a task list with deadlines, understand how application components relate to the review criteria, and complete the tasks accordingly.
+
+By following these steps and utilizing the provided resources, you can help Yahriel create a strong resume and respond effectively to the Fulbright-National Geographic Award Program prompt.
 
 SAMPLES: 
 { 
@@ -164,8 +179,6 @@ In conclusion, our research proposal "How He Got His Scars" aims to uncover the 
 Yahriel Salinas-Reyes, Host Country: Mexico, Field: Molecular & Systems Bioengineering
 Fulbright Project: Unraveling the Molecular Code of Natural Antidepressants in Grapes
 Yahriel, and the research team at the university Tecnológico de Monterrey endeavor to decode the molecular secrets of nature to improve the human condition, particularly for individuals affected by schizophrenia and other mental health disorders. Yahriel's work represents a convergence of scientific rigor, interdisciplinary collaboration, and a profound commitment to the betterment of human well-being. Furthermore, this research holds the potential to strengthen international collaborations between the U.S. and Mexico. By conducting research at Tecnológico de Monterrey, Yahriel can contribute to the exchange of knowledge and ideas between the two countries, fostering a stronger global community which reflects the essence of the Fulbright mission, emphasizing mutual understanding and collaboration between nations. 
-References: (1) Zueva, M. V. (2015). Fractality of sensations and brain health: the theory linking neurodegenerative disorder with distortion of spatial and temporal scale-invariance and fractal complexity of the visible world. Front. Aging Neurosci, 7, 135. (2) Hancock, F. (2023). Metastability as a candidate neuromechanistic biomarker of schizophrenia pathology. PLoS One, 18(3), e0282707. (3) Regenbogen, C. (2015). The differential contribution of facial expressions, prosody, and speech content to empathy. Cognition and Emotion, 29(6), 1045-1056. (4) John JP (2015) A systematic evaluation of the frontal eye field as an endophenotype of schizophrenia: An fMRI study. Schizophrenia Research, 165(1), 79-84. (5) Mandelbrot, B. B. (1982). The Fractal Geometry of Nature. W. H. Freeman. (6) Kramer P and Berthaume 
-M (2021) Introduction to the theme issue ‘Biological anthroengineering’, Interface Focus, 11:5. (7) Brown, R. E., & White, D. (2020). Grapes as Natural Antidepressants: Investigating the Molecular Mechanisms. Journal of Nutritional Neuroscience, 35(4), 287-299. 
 
 [Research Abstract]
 Research Title: 
@@ -258,10 +271,7 @@ Revise And Update The This Resume [Resume-Template]: (https://github.com/yahriel
 MASTER SCRIPT : 
 {
 Block 0: README
-> Ownership: This Script was written by Yahriel Salinas-Reyes ~Y.Salinas-Reyes '23
 > First Author: Yahriel Salinas-Reyes
-> Purpose: Create a comprehensive Statement of Purpose for Yahriel Salinas-Reyes' PhD Application to Selected Graduate Program.
-> Mission: Craft a compelling narrative that showcases Yahriel's dedication to Proposed Field of Study and Graduate Program
 > Objectives: Fulfill all outlined prompts and executive tasks to produce a high-quality statement aligned with Stanford's application requirements.
 
 Block 1: MASTER
@@ -272,14 +282,14 @@ Block 1: MASTER
 > You ARE The Equivalent As A Pointer In Computing Systems With All The Relevant Properties and Information Included.
 
 Block 2: Library AND Databases
-> Author Credentials: Yahriel Salinas-Reyes, Bachelor of Aerospace and Aeronautical Engineering from Iowa State University of Science and Technology, Pursuing a Doctorate of Neuroscience in the Division of Mathematical Sciences (DMS) with a specialization on Computational and Data-eneabled Sciences, Biomedical Data-science and Bioinformatics, Theory and Algorithms of Scientific Computing.
+> Author Credentials: Yahriel Salinas-Reyes, Bachelor of Aerospace and Aeronautical Engineering from Iowa State University of Science and Technology,
 > Author Profile: [LinkedIn Profile](https://www.linkedin.com/in/yahriel-salinas-reyes-89ab38179/)
 > Author History: [GitHub README](https://github.com/yahriels/yahriels#readme)
 > Resources AND Additional Materials: [Personal Page](https://github.com/yahriels), [Resume/CV](https://github.com/yahriels/yahriels/blob/main/General_CV.pdf)
 > Reviewer Details AND Selection Criteria: To be determined based on specific prompts.
 
 Block 3: Purpose of Response AND Review Guidelines
-> Background AND Overview: Create a compelling Statement of Purpose for Yahriel Salinas-Reyes
+> Background AND Overview: Create a compelling Statement of Purpose
 > Intellectual Merit AND Broader Impacts: Showcase Yahriel's dedication to science, research contributions, skills, and broader career goals.
 > Review Criteria AND Additional Details: Follow the provided prompts and guidelines, align with the specific requirements of Stanford's application.
 
@@ -306,6 +316,3 @@ complete the tasks. Understand how application components and each item requeste
 the review criteria. 
 ----
 }
-
-
-
