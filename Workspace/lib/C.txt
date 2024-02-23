@@ -193,112 +193,104 @@ Sincerely,
 
 Resume-CV:
 {
-[Formatted Template] Yahriel's Resume:
+[Original] Yahriel's Resume:
 {
-\documentclass[letterpaper,10pt]{article}
-\usepackage[utf8]{inputenc}
-\usepackage[left=1in, right=1in, top=1in, bottom=1in]{geometry}
-\usepackage{enumitem}
-\usepackage{titlesec}
+Yahriel Salinas-Reyes
+  yahrielsreyes@gmail.com	  (515)314-4160 	           1709 E Walnut St, Des Moines, IA, 50316
 
-\titleformat{\section}{\large\scshape\raggedright}{}{0em}{}[\titlerule]
-\titlespacing{\section}{0pt}{3pt}{3pt}
-
-\begin{document}
-
-\pagestyle{empty}
-
-\begin{center}
-    \textbf{\LARGE Yahriel Salinas-Reyes} \\
-    \textit{Aerospace Engineer | Field: Molecular & Systems Bioengineering Towards Computational Neuroscience}
-\end{center}
-
-\section*{Education}
-\textbf{Iowa State University of Science \& Technology}, Ames, IA \\
-Bachelor of Aerospace Engineering (GPA: 3.3) \\
-Anticipated Graduation: December 16th, 2023 \\
-Relevant Coursework: Systems Engineering, Electrical Engineering, FEA, Robotics, Engine Analysis, Thermodynamics, Controls, Applied Mechanics \& Physics, Materials Science \& Engineering, Machine Learning, Computer Science, Software Engineering, etc.
-
-\section*{Research \& Development Experience}
-\textbf{Senior Capstone Project} \\
-\textit{Target Objective:} Modern Design Methodology with Aerospace Application \& Design of Aerospace Systems \\
-Oversaw the design and production of sUAS for DoD and NATO, implemented machine vision systems, and optimized aircraft design features.
-
-\textbf{Undergraduate Research Assistant – DARPA (August 2021 to August 2023)} \\
-\textit{Research Project:} Experimental Techniques for Flow Separation Detection and Chemical Sintering \\
-Operated as Experimental Engineer, designed hardware-software components, and developed computations for Navier-Stokes Equations.
-
-\textbf{Summer Undergraduate Research Fellow – Greer Group (May 2022 to August 2022)} \\
-\textit{Research Project:} Hybrid Nanocomposites: Semi-Empirical Method of Viscoelastic Behavior \\
-Created nanocomposites, developed a semi-empirical model, and submitted research work for publication.
-
-\textbf{McNair Scholar – Ronald E. McNair Program (September 2021 to May 2022)} \\
-\textit{Research Project:} Sociological Differences in Graduate School Motivation of Minority Identities \\
-Constructed an experimental framework, conducted interviews, and participated in preparation courses for doctoral studies.
-
-\textbf{Systems Engineer / Undergraduate Researcher – Soft Matter Material Transport Group (August 2019 to May 2022)} \\
-\textit{Research Project:} Design of Multi-Function 3D Piezo-electric Devices for Aeronautical Applications \\
-Explored tunability of paper-based devices, assisted graduate students, and submitted research work for publication.
-
-\textbf{Research Fellow, Boeing Undergraduate Research Excellence in Engineering Internship (08/2021-08/2022)} \\
-\textit{Research Project:} Characterizing Damping Mechanisms in Piezoelectric Wind-Energy Harvesters \\
-Designed and fabricated a force sensor, explored pathways for aeronautical data collection, and submitted research work for publication.
-
-\textbf{Stanford University Summer Undergraduate Research Fellow, Zheng Research Group (05/2021-08/2021)} \\
-\textit{Research Project:} Insights of Machine-Learning Techniques for Scientific Methods \& Prediction \\
-Conducted literary analysis, adapted ML methods to scientific methods, and cross-validated various mathematical kernels.
-
-\textbf{Undergraduate Research Certificate Recipient, IINSPIRE-LSAMP(NSF) Scholars Program (08/2019-09/2020)} \\
-\textit{Research Project:} Synthesizing Meta-stable Particles and High-Efficiency Paper-Based MEMS Sensors \\
-Synthesized particles, designed experiments, and presented ideation of low-cost, green technology, sensor devices.
-
-\section*{Work Experience}
-\textbf{Design Team Lead, NASA Micro-G Neutral Buoyancy Experiment Design Teams Challenge (08/2021-12/2022)} \\
-Completed and assigned weekly tasks, led prototyping of device components, and our design was utilized by astronaut-scientists in NASA’s Mission to the Moon and Mars.
-
-\textbf{Information Technology Specialist, Iowa State University of Science \& Technology (08/2019-05/2023)} \\
-Implemented, monitored, and maintained IT systems, solved technical problems, and utilized SQL, Java, Python, C/C++, Linux OS, AWS Services, SAS, BASH scripting.
-
-\textbf{Residential Advisor and Honors Community Leader, Department of Residence (08/2020-05/2022)} \\
-Engaged students, nurtured positive experiences, moderated meetings, and directed multi-lingual health \& resource programming for college.
-
-\section*{Research Activities}
-MEMS Shear Sensor and Flow Separation Theory, Energy Absorbing Nano-Architected Composites, Wind Energy and Development of MEMS Sensors, Implementation of ML into The Scientific Method, Applications of Multi-functional Piezo-electric Devices, Opportunities of Kirigami-Inspired MEMS Devices, Heat-Free Manufacturing of Paper-Based MEMS Sensor.
-
-\section*{Associations}
-Microscale Interfacial Fluid Physics Laboratory, Julia R. Greer Group at CALTECH, Boeing Aerospace Research Fellowship, Z Energy Lab at Stanford University, Goldwater Finalist/McNair Program at ISU, Soft Materials Matter Transport Group, Iowa State University Honors Program.
-
-\section*{Relevant Software / Technical Skills}
-SQL, Windows OS, Linux OS, AWS Services, Java, C/C++/C# Programming, Python, MATLAB \& Simulink, SAS - CAD \& FEA, ANSYS/ABAQUS, Systems \& Reverse Engineering, Internet of Things, Design of Experiments, etc.
-
-\section*{Academic Honors Received}
-\begin{enumerate}
-    \item The Order of The Engineer, The Engineering Student Council at The Iowa State University
-    \item The Ronald E. McNair Postbaccalaureate Achievement Program Scholar \& The Barry Goldwater Scholarship and Excellence in Education Foundation Finalist
-    \item The Boeing Research in Excellence and Technology Fellowship Program (RETF) Scholar \& Micro-g Neutral Buoyancy Experiment Design Teams (NExT) Challenge Competition Finalist
-    \item The Summer Undergraduate Research Fellowship Program (SURF) Scholar at Stanford University \& California Institute of Technology, Program Coordinator
-    \item The Louis Stokes Alliances for Minority Participation (LSAMP) Fellowship Program Scholar \& Undergraduate Research Certificate Recipient Awarded by Iowa State University's IINSPIRE-LSAMP Partnership
-    \item The FIRST Robotics Competition (FRC) Worlds Championship Rookie Inspiration and Rookie All-Star Awards (International-Level Award) \& The Youth Leadership Community Award Received From The Iowa Department of Human Rights: State of Iowa Youth Advisory Council (SIYAC)
-\end{enumerate}
-
-\section*{Publications}
-\begin{enumerate}
-    \item Salinas-Reyes, Y., et al. "Experimental Techniques for Flow Separation Detection and Chemical Sintering." \textit{Journal of Aerospace Engineering}, 2023.
-    \item Salinas-Reyes, Y., et al. "Hybrid Nanocomposites: Semi-Empirical Method of Viscoelastic Behavior." \textit{Journal of Nanomaterials}, 2022.
-    \item Salinas-Reyes, Y., et al. "Characterizing Damping Mechanisms in Piezoelectric Wind-Energy Harvesters." \textit{Journal of Renewable and Sustainable Energy}, 2022.
-\end{enumerate}
-
-\section*{Conference Presentations}
-\begin{enumerate}
-    \item Salinas-Reyes, Y., et al. "Sociological Differences in Graduate School Motivation of Minority Identities." \textit{National Conference on Undergraduate Research}, 2022.
-    \item Salinas-Reyes, Y., et al. "Design of Multi-Function 3D Piezo-electric Devices for Aeronautical Applications." \textit{International Conference on Aerospace Engineering}, 2021.
-    \item Salinas-Reyes, Y., et al. "Insights of Machine-Learning Techniques for Scientific Methods \& Prediction." \textit{Stanford Undergraduate Research Conference}, 2021.
-\end{enumerate}
-
-\section*{Languages}
-English (Native), Spanish (Fluent)
-
-\end{document}
+Education: Iowa State University, Ames, IA | Bachelor’s in Aerospace Engineering ’23 | GPA 3.3
+Relevant Topics and Courses/Curriculum 
+Thermodynamics, Flight Dynamics & Controls, Astro-aeronautics, Aerospace & Propulsion Systems 
+Applied Mechanics & Physics, Materials Science & Engineering, Engineering & Polymeric Chemistry 
+Numerical & Graphical Techniques, Advanced Computing, Engineering Statistics, Multi-Variable Calculus 
+Classical Physics, Mechanics of Materials, Engineering Statics, Dynamics & Differential Equations 
+Machine-Learning/Data-Science, Computer Science & Information Tech. Systems, Software Engineering 
+Technical Communication & Proposal Writing, Scientific Manuscript Writing, Literary Analysis & Review 
+Relevant Software Experience and Technical Skills 
+SQL, Windows OS, Linux OS, AWS Services, Java, C/C++/C# Programming, Python, MATLAB/Simulink, SAS, CAD & FEA, ANSYS/ABAQUS, Systems & Reverse Engineering, Internet of Things, Design of Experiments 
+University Activities & Written Works
+Role: Undergraduate Researcher | Aerospace Systems & Exploratory-Applied Mathematics | Fall 2019-2023
+Advisor 1: Dr. Martin Thuo, Associate Professor, Department of Materials Science and Engineering, ISU
+Advisor 2: Dr. Thomas Ward III, Associate Professor, Department of Aerospace Engineering, ISU
+“Experimental Techniques for Flow Separation Detection of Paper-based MEMS Device” (2023)
+-	keywords 	:	 Systems Analysis, Interfacial Phenomena, Quantum Tunnelling Composites, Design
+•	Built hardware-software components and signal processing circuit-algorithm for experiment.
+•	Manufactured MEMS nanocomposite and developed computations to model shear-viscosity.
+•	Goal:  Detect flow instabilities and simulate viscosity measurements at the thermal boundary.
+•	This research is currently in the process of writing (as first author) for peer-review (2023). 
+“Characterizing Damping Mechanisms in Piezoelectric Wind-Energy Harvesters” (2023)
+-	keywords 	:	 Aerodynamics Analysis, Harmonic Response, Computational Methods, Energy Storage
+•	Designed experimental set-up and measurement-calibration system of flexible piezoelectric.
+•	Collaborated on solution algorithm and shared findings on continuum mechanics of conductivity.
+•	Goal: Apply dimensional analysis on wind-tunnel experiments and define thermodynamic properties.
+•	This research has been submitted for scientific review (2023).
+“Hybrid Nanocomposites: Semi-Empirical Method of Viscoelastic Behavior” (2022)
+-	keywords 	:	 Analytical Mathematics, System Modeling, Continuum Mechanics, Energy Dissipation
+•	Performed DMA experiments on samples then conducted SEM investigations on deformed regions.
+•	Applied Euler-Buckling to model deformation mechanisms in the mechanical hysteresis cycle.
+•	Goal: Develop a framework to understand hybridization and viscoelastic effects in nanocomposites.
+•	This research is still in progress (2022).
+“Insights of Computational Data-Science (ML) Techniques for Scientific Methods” (2021)
+-	keywords 	:	Data-Driven Methods, Classification-Regression, Performance Analysis, Deep Learning
+•	Conducted literature review of exploratory data-learning (ML) methods in various studies.
+•	Tested multiple ML models on scientific data and cross-evaluated the system performance.
+•	Goal: Present opportunities of utilizing ML methods to aid in data-driven scientific discovery.
+•	This research was completed (2021).
+Senior Project: “Modern Design Methodology with Aerospace Application & Design of Aerospace Systems” 
+-	keywords 	:	 Aerospace Operations, Manufacturing-Development, Optimization, Implementation
+•	Applied aerospace techniques to engineer a solution to the assigned aero-industry challenge.
+•	Collaborated in cross-functional teams to implement system-optimizations for the mission objective.
+•	Goal: Produce unique UAV aircraft design and mission operation to complete the degree program.
+•	This research was complete (2023).
+Additional Professional and Leadership Experiences 
+Design Team Lead | NASA Micro-G Neutral Buoyancy Experiment Design Teams Challenge | Fall 2021
+•	Completed and assigned weekly tasks to design, build, and test a tool or device that addresses an authentic, current space exploration challenge.
+•	Completed research in current technologies, designed device components, CAD modeling, fabricating device components, building a prototype, submitting a design competition proposal.
+•	Result: Our design was chosen as a finalist and put on display Houston exhibition – Inner Space: NASA’s Path to the Moon and Mars!
+IT Specialist | Iowa State University | Fall 2019-Spring 2021
+•	Held responsibilities for the implementation, monitoring, and maintenance of IT systems, etc.
+•	Solved technical problems, such as computer systems, software, hardware, networks, cloud platforms.
+Research and Development Experience
+Undergraduate Research Assistant | DARPA - Microscale & Interfacial Fluid Physics Lab | 08/2021-08/2023
+Faculty mentor Dr. Thomas Ward II, Associate Professor, Department of Aerospace Engineering, ISU
+•	Research Project: “Experimental Techniques for Flow Separation Detection and Chemical Sintering”
+•	Operated as Experimental Engineer and composed an SOP for experiments and heavy machinery.
+•	Designed hardware-software components (PCB Design) and built signal processing circuit-algorithm. 
+•	Manufactured MEMS nanocomposite developed computational model of various interfacial phenomenon.
+California Institute of Technology Summer Undergraduate Research Fellow | Greer Group | 05/2022-08/2022
+Faculty mentor Dr. Julia Greer, Assoc. Prof. of Materials Science, A. Mechanics, & Medical Sciences, Caltech
+•	Research Project: “Hybrid Nanocomposites: Semi-Empirical Method of Viscoelastic Behavior”
+•	Created nanocomposite with architectural features to achieve mechanical property enhancements.
+•	Investigated the constituent material systems individually using compressions tests on a dynamic mechanical analyzer and observed deformation zones with scanning electron microscopy.
+•	Developed a semi-empirical model for the deformation mechanisms observed in post-mortem analysis of samples; this enables FEA & Euler Theory to inform the viscoelastic continuum damage model. 
+McNair Scholar | Ronald E. McNair Post-Baccalaureate Achievement Program | 09/2021-05/2022
+Faculty mentor Dr. Ashley Garrin, Director of Ronald E. McNair Program, Graduate College, ISU
+•	Research Project: “Sociological Differences in Graduate School Motivation of Minority Identities”
+•	Constructed an experimental framework, completed literature synthesis, conducted interviews of program mentors, analyzed and interpreted results in a technical manner.
+•	Participated in preparation courses and experiences for doctoral studies through involvement in research and other scholarly activities.
+Undergraduate Researcher, Systems Engineer | Soft Matter Material Transport Group | 08/2019-05/2022
+Faculty mentor Dr. Martin Thuo, Associate Professor, Department of Materials Science and Engineering, ISU
+•	Research Project: “Design of Multi-Function 3D Piezo-electric Devices for Aeronautical Applications”
+•	Explored tunability, sensitivity, utility of paper-based devices with various configurations, optimized device design using engineering methods, created self-automated calibration & data capture system.
+•	Assisted graduate students with SolidWorks, computer technology capabilities, systems engineering. 
+•	This research work was submitted to a scientific peer-review journal for publication(2023).
+Research Fellow | Boeing Undergraduate Research Excellence in Engineering Internship | 08/2021-08/2022
+Faculty mentor Dr. Thomas Ward II, Associate Professor, Department of Aerospace Engineering, ISU
+•	Research Project: “Characterizing Damping Mechanisms in Piezoelectric Wind-Energy Harvesters”
+•	Designed and fabricated green technology low-cost force sensor, explored pathways for aeronautical data collection via aerospace engineering techniques, submitted monthly progress reports to Boeing.
+•	This research work was submitted to a scientific peer-review journal for publication(2023).
+Stanford University Summer Undergraduate Research Fellow | Zheng Research Group | 05/202-08/2021
+Faculty mentor Dr. Xiaolin Zheng, Associate Professor, Mechanical Engineering, Stanford University
+•	Research Project: “Insights of Machine-Learning(ML) Techniques for Scientific Methods & Prediction”
+•	Conducted literary analysis and literary review of ML methods, Data & Computational Science, and adapted ML methods to scientific methods by developing a bottom-up regression-prediction model. 
+•	Cross-validated various mathematical-kernels(SVM, Random-Forest, etc.) fitted/trained with scientific datums; presented findings in optimizations of experimental design for scientific discovery.
+Community Engagement, Public Relations & Policy, and Social Work
+Residential Advisor and Honors Community Leader | Department of Residence | 08/2020-05/2022
+•	Engaged students & nurtured healthy-positive experiences for the resident community; moderated meetings to address concerns; directed multi-lingual health & resource programming for college.  
+Youth-Lobbyist |Iowa Department of Human Rights: State of Iowa Youth Advisory Council | 06/2018-12/2021
+•	Acted as chair/program-coordinator of the Violence-Prevention & Diversity-Education Program.
+•	Advocated to state legislators for reformation of violence prevention education & implementation of culturally diverse curriculum standards at the state-local level; wrote & proposed bills to chamber.
+•	Received the Community Service Leadership Award for completing over 200 service hours in a term. 
 
 }
 }
