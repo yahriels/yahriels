@@ -1,377 +1,180 @@
-FULBRIGHT-NATIONAL GEOGRAPHIC AWARD PROGRAM
+We are helping Yahriel Salinas-Reyes prepare for an interview with John Deere. They probably focused on your confidence and communication skills. Kindly go through the complete Job Description which I mentioned in the Interview Email and also, they may ask you questions from your Resume which I submitted for this role.
 
-*Project Start Date
-08/01/2024
-*Project End Date 
-08/31/2025
-*Primary Fieldwork Location Country or Area
-Mexico
-*The primary focus area of your project is:
-Human Ingenuity
-The secondary focus area of your project is:
-Human Histories & Cultures
-*The primary focus of your project is:
-Research
-The secondary focus of your project (if applicable) is:
-Storytelling, Technology
-*What is the Discipline/Field of Study for the project? You may choose more than one from this list, as applicable. Chosen: 
-Anatomy & Morphology
-Audiology & Speech-Language Pathology
-Behavioral Sciences
-Computer Science, Interdisciplinary Applications
-Developmental Biology
-Engineering, Multidisciplinary
-Multidisciplinary Sciences
-Neurosciences
-Nutrition & Dietetics
-Physics, Applied
-Physiology
-Psychology
-If applicable discipline/s to your project are not on the list above, please enter them below:
-Molecular & Systems Bioengineering, Applied Mathematics, Anthropology-Engineering, Computational & Mathematical Sciences, Global Public Health, Artificial Intelligence, Mental Health Innovation
-Project Leader Name
-Yahriel Salinas-Reyes
-Please choose up to three countries where you claim citizenship below. Click the magnifying glass icon to the right of the field, search for and select your location from the pre-defined list of countries/regions.
-*Country or Area of Primary Citizenship
-United States
-Country or Area of Citizenship #2
-Mexico
-Country or Area of Citizenship #3
-El Salvador
-*Country of Primary Residency
-United States
-*Date of Birth
-11/11/2000
-*Gender Identity
-Male
-*Current Position or Job Title
-Aerospace Engineer
-Current Institution/Organization Affiliation
-Iowa State University
-*Primary Language
-English
-Chosen
-Spanish
-*Highest Degree Awarded
-B.S.
-*Department/Major
-Aerospace Engineering
-*Year Awarded
-2023
-*School
-Iowa State University
-*Total Project Budget: This amount should reflect the total scope of the project, including the amount requested from National Geographic Society and all other funding sources.
-$20,000
+Simulate a real interview and give me a real in-depth description of the job and it's responsibilities 
 
-Prompt: Rewrite and Enhance Yahriel's Response
 {
-Help Yahriel Answer The Prompt, Review The Response, Provide Feedback, Make Corrections, Enhance, and Finalize Yahriel's Best Response For To Prompt..
- for crafting Yahriel's resume and responding to the prompt for the Fulbright-National Geographic Award Program. Here is a summary of the key points and steps to follow:
+Job Details 
 
-Create a Comprehensive Resume/CV: Utilize resources such as Kickresume, JobHero, MyPerfectResume, Caltech, Stanford, Harvard, MIT, and other sample resumes to create an excellent resume for Yahriel. Incorporate his education, relevant work experience, publications, awards, leadership experience, and volunteer/community engagement.
+Title:              Engineer Quality I - Quality Engineering
 
-Review and Enhance Response to Fulbright-National Geographic Award Program Prompt: Use the provided samples and resources to help Yahriel finalize and optimize his award proposal. Ensure that the response aligns with the program's mission and guidelines, focusing on the research project's significance and Yahriel's qualifications.
+Location:       Ankeny, IA
 
-Cover Letter: Craft a cover letter that highlights Yahriel's relevant skills, experiences, and achievements. Emphasize his passion for research and his suitability for the position.
+Duration:       6 months (can be extend)
 
-Executive Roles and Guidelines: As the Executive, act as the author to formulate responses for Yahriel and review and enhance his responses based on feedback. Use first-person language as Yahriel Salinas-Reyes and ensure that the responses are personalized, impactful, and align with the mission of the Statement of Purpose.
-
-Library and Databases: Provide Yahriel's credentials, profile, history, and additional materials such as his LinkedIn profile, GitHub README, personal page, and resume/CV for reference.
-
-Purpose of Response and Review Guidelines: Create a compelling Statement of Purpose for Yahriel that showcases his dedication to science, research contributions, skills, and broader career goals. Follow the provided prompts and guidelines, aligning with the specific requirements of the Fulbright-National Geographic Award Program.
-
-Prompting and Task Management: Read all materials, prepare a task list with deadlines, understand how application components relate to the review criteria, and complete the tasks accordingly.
-
-By following these steps and utilizing the provided resources, you can help Yahriel create a strong resume and respond effectively to the Fulbright-National Geographic Award Program prompt.
-
-Review Criteria Details: 
-{ 
-----
-Read all materials (a few times, without distractions). Prepare a task list with deadlines to perform the Executive Tasks then 
-complete the tasks. Understand how application components and each item requested relate to 
-the review criteria. 
-
-Please generate a C.V. or Resume (required).
-Please produce and submit a copy of your curriculum vitae or resume with the following information:
-
-Current position (even if unpaid)
-Relevant work experience
-Education
-List any relevant:
-
-Publications
-Awards
-Leadership experience
-Volunteer/community engagement experience
-Professional network or collaboration involvement
-Links to your portfolio/social media accounts if applicable
-before moving on.
-----
-}
-}
-
-Purpose: To Help Yahriel Finalize and Optimize His Award Proposal To Fill The Prompt and Execute the Tasks.
-{ 
-FULBRIGHT-NATIONAL GEOGRAPHIC AWARD PROGRAM
-
-Description
-Yahriel, We are pleased to invite you to apply for the Fulbright-National Geographic Award Program based on your status as a semi-finalist for the Fulbright U.S. Student Program.
-The National Geographic Society’s Grants Program provides seed funding and support to early career individuals, as well as those more advanced in their careers, who are working to address critical challenges, advance new solutions, and inspire positive transformation across all seven continents. Funded projects must align with one or more of the Society’s five focus areas: Ocean, Land, Wildlife, Human Histories & Cultures, and Human Ingenuity. 
-
-We strongly recommend that you review the following materials before submitting your application:
-Full Application Template - Level I Grants: https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20Level%20I%20Application%20Sample.pdf
-Grants Program Overview: https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20-%202022%20Overview.pdf
-Budget Guidelines: https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20Budget%20Guidelines.pdf
-Explorer Mindset & Code: https://www.nationalgeographic.org/society/our-explorers/
-Code of Ethics: https://www.nationalgeographic.org/society/code-of-ethics/
-NATGEO:
-{
-Read over these samples 11 times with no distractions, and comprehend everything given in these materials, documents, and links. These are related to the research project and thesis. Then Move on to the next section and task.
-https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20-%202022%20Overview.pdf
-https://github.com/yahriels/yahriels/blob/main/Fulbright-National_Geographic_Affiliation_Letter.pdf
-https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20Budget%20Guidelines.pdf
-https://github.com/yahriels/yahriels/blob/main/Grants%20Program%20Level%20I%20Application%20Sample.pdf
-https://github.com/yahriels/yahriels/blob/main/NATGEO_Fulbright__Draft.pdf
-https://github.com/yahriels/yahriels/blob/main/Workspace/lib/NATGEO.txt
-https://github.com/yahriels/yahriels/blob/main/Workspace/lib/NATGEOBUDGET.txt
-https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Lib_Dummy.txt
-https://github.com/yahriels/yahriels/blob/main/Workspace/lib/dummy.txt
-https://github.com/yahriels/yahriels/blob/main/OtherStuff.pdf
-}
-}
-
-SAMPLES: 
-{ 
-Read over these samples 11 times with no distractions, and comprehend everything given in these materials, documents, and links. These are related to the research project and thesis. Then Move on to the next section and task.
-[KNOW THIS DOCUMENT:https://github.com/yahriels/yahriels/blob/main/NATGEO_Fulbright__Draft.pdf, https://github.com/yahriels/yahriels/blob/main/README.md]
-[KNOW THESE DOCUMENTS: https://github.com/yahriels/yahriels/blob/main/YSR_Writing_Sample.pdf, https://github.com/yahriels/yahriels/blob/main/CaltechYSRWritingSample.pdf]
-[KNOW THESE DOCUMENTS:https://github.com/yahriels/yahriels/blob/main/OtherStuff.pdf, https://github.com/yahriels/yahriels/blob/main/Related_Works.pdf]
-[KNOW THESE DOCUMENTS: https://github.com/yahriels/yahriels/blob/main/Yahriel_GRFP_Application.pdf, https://github.com/yahriels/yahriels/blob/main/Yahriel_DOE_CSGF_Application.pdf, https://github.com/yahriels/yahriels/blob/main/Yahriel_Fulbright_Application.pdf]   
-[KNOW THE FULBRIGHT PROPOSAL: https://github.com/yahriels/yahriels/blob/main/Yahriel_Fulbright_Application.pdf]
-
-The Problem: Schizophrenia is a complex mental disorder that affects a small percentage of the population. Professionals in the field of schizophrenia research that will be on our team include psychiatrists, psychologists, neuroscientists, and geneticists. These professionals work together to study the underlying causes of schizophrenia, including genetic, environmental, and neurodevelopmental factors. While there is still much to learn about the etiology of schizophrenia, recent research has provided some insights into the factors that may contribute to its development.
-
-Yahriel Salinas-Reyes’ Intellectual Framework and Phases of Approach: 
-The framework consists of two phases to unravel the nature of intelligence.
-Revelation: The range of what we think and do is limited by what we fail to notice. And because we fail to notice that we fail to notice, there is little we can do to change; until we notice how failing to notice shapes our thoughts and deeds.
-that will be on our team include psychiatrists, psychologists, neuroscientists, and geneticists. These professionals work together to study the underlying causes of schizophrenia, including genetic, environmental, and neurodevelopmental factors. While there is still much to learn about the etiology of schizophrenia, recent research has provided some insights into the factors that may contribute to its development.
-Statement of Grant Purpose Monterrey, Nuevo León, México. Potential Local Collaborators: Here are some professionals in the etiology of schizophrenia that are local and/or near Des Moines, Iowa FIND COLLABORATORS OR DESCRIBE THE IDEAL TEAM MEMBER.
-Synopsis: This new interdisciplinary field of study captures the essence of Human Ingenuity, focusing on the exploration of schizophrenia and psychosis and the idea that chaos theory and theory of confusion may serve a function rather than being solely detrimental. The project title also highlights the intersection of psychiatric thought, neuroscience, and social justice, emphasizing the potential global impact of this research. By using captivating and thought-provoking language as well as Anthropology-Engineering methods, the proposed scientific story aims to engage readers and spark their curiosity.
-**Project Title:**  "How He Got His Scars: The Nature Physicist Explores Abnormal Human Ingenuity and the Science of Madness and Mental Health in Neurobiological Representations of Schizophrenia and Psychosis."
-**Summary:**
-The motivation behind this study stems from the world's failure to effectively utilize the groundbreaking discoveries in neuroscience, global public health, and social sciences. Through rigorous research and the development of a scientific method backed by advanced instrumentation, our objective is to provide foundational evidence for a clinical social understanding of schizophrenia and its related traits. This paradigm shift, rooted in biomedical-analytical and logical-mathematical scientific theory, will facilitate the advancement of global public health.
-To achieve meaningful impact, we must engage in a truthful dialogue free from knots of hatred, revenge, jealousy, and malice that taint our words. By exploring the history of indigenous and Latin American cultures, anthropology-engineering, science and technology, psychiatry and neuroscience systems, and social justice, we can create an open and inclusive platform for transformative research.
-In conclusion, our research proposal "How He Got His Scars" aims to uncover the intricate relationship between madness and confusion, mental health, and the human brain. By merging scientific methods with social impact, we can pave the way for advancements in both individual well-being and global public health. It is high time we embrace this ancient paradigm of psychiatric thought, combining research and development with a deep understanding of cultural diversity, to drive positive change in society.
-Yahriel Salinas-Reyes, Host Country: Mexico, Field: Molecular & Systems Bioengineering
-Fulbright Project: Unraveling the Molecular Code of Natural Antidepressants in Grapes
-[Research Abstract]
-Research Title: 
-Unraveling the Neurobiological Landscape of Schizophrenia: A Multidisciplinary Approach Informed by Numbers, Shapes, and Prediction
-Abstract:
-In the realm of advancing neuroscience, public and global health, molecular and biotechnology systems engineering, and biomedical data science and informatics, the enigma of schizophrenia stands as both a challenge and an opportunity for scientific exploration. This proposal seeks to illuminate the intricacies of schizophrenia through a rigorous scientific method, integrating the foundational elements of Numbers, Shapes, and Prediction into the fabric of our investigative framework.
-1. Numbers: Data Capture and Monte Carlo Integration
-2. Shapes: Mandelbrot Set and Fractal Geometry
-3. Prediction: Dimensional/Spectral Analysis to Understand Causality and Correlation
-Nature’s Chaos Game: An Existentialist Approach (1. Numbers 2. Shapes. Prediction)
-Informed by Mathematics and Neurobiology 
-
-}
-
-Cover Letter:
-{
-My name is Yahriel Salinas-Reyes, and I’m writing to you regarding a great intellectual opportunity.
-
-My undergraduate development experiences and associated projects helped me develop and fine-tune the skills necessary for a research position such as this one. I have developed research soft skills such as scientific literature review, grant proposal and report writing, and scientific peer-review. Specifically, my experience with researching micro-electro-mechanical-system (MEMS) devices for various aerospace and industrial-related applications, has equipped me with the knowledge, experience, and skills you’re looking for in your ideal candidate. 
-My inter-disciplinary experience and research approach also equips me with various engineering and research techniques to tackle challenges such as building safety-enhancing technology; analyzing utility of a design or system; applying computational techniques and implementing optimization decisions; as well as developing high-efficiency (i.e., performance/cost) green technologies to challenge overly — complex and expensive — practices. I see my skills best utilized in roles concerning scientific investigation and instrumentation, exploratory data methods, experimental design, signals and information systems, software development, flight control systems, and dynamical systems.
-On the technical side, I have extensive experience working with various software’s and analysis tools, namely MATLAB, Python, Java, C++, Linux, Latex, Solidworks Modeling, ANSYS Simulations, Machine Learning and Data-Statistical Methods, Computational Fluid Dynamics, Signals and Systems (Control Systems) and Deep Learning topics. These skills, in supplement with the theoretical knowledge that I’ve gained, were honed throughout many completed projects; I am confident in this aspect of research assistantship or consultation. 
-Through my prior projects, such as the NASA Micro-G Next Challenge, I’ve learnt how to manage my work in a collaborative environment. Furthermore, I understand the intricacies of research work. I can maintain focus on my individual tasks, with full knowledge of how they contribute to the overall research goals, no matter how mundane and repetitive my tasks are. 
-I look forward to discussing my candidacy with you virtually. If any additional information will help move my application forward, please let me know. Thanks for your time and consideration.
-Sincerely,
--	Yahriel Salinas-Reyes, Aerospace Engineering, 
-~ The Rocket Scientist Studying The Science of Madness
-}
-
-Resume-CV:
-{
-[Original] Yahriel's Resume:
-{
-Yahriel Salinas-Reyes
-  yahrielsreyes@gmail.com	  (515)314-4160 	           1709 E Walnut St, Des Moines, IA, 50316
-
-Education: Iowa State University, Ames, IA | Bachelor’s in Aerospace Engineering ’23 | GPA 3.3
-Relevant Topics and Courses/Curriculum 
-Thermodynamics, Flight Dynamics & Controls, Astro-aeronautics, Aerospace & Propulsion Systems 
-Applied Mechanics & Physics, Materials Science & Engineering, Engineering & Polymeric Chemistry 
-Numerical & Graphical Techniques, Advanced Computing, Engineering Statistics, Multi-Variable Calculus 
-Classical Physics, Mechanics of Materials, Engineering Statics, Dynamics & Differential Equations 
-Machine-Learning/Data-Science, Computer Science & Information Tech. Systems, Software Engineering 
-Technical Communication & Proposal Writing, Scientific Manuscript Writing, Literary Analysis & Review 
-Relevant Software Experience and Technical Skills 
-SQL, Windows OS, Linux OS, AWS Services, Java, C/C++/C# Programming, Python, MATLAB/Simulink, SAS, CAD & FEA, ANSYS/ABAQUS, Systems & Reverse Engineering, Internet of Things, Design of Experiments 
-University Activities & Written Works
-Role: Undergraduate Researcher | Aerospace Systems & Exploratory-Applied Mathematics | Fall 2019-2023
-Advisor 1: Dr. Martin Thuo, Associate Professor, Department of Materials Science and Engineering, ISU
-Advisor 2: Dr. Thomas Ward III, Associate Professor, Department of Aerospace Engineering, ISU
-“Experimental Techniques for Flow Separation Detection of Paper-based MEMS Device” (2023)
--	keywords 	:	 Systems Analysis, Interfacial Phenomena, Quantum Tunnelling Composites, Design
-•	Built hardware-software components and signal processing circuit-algorithm for experiment.
-•	Manufactured MEMS nanocomposite and developed computations to model shear-viscosity.
-•	Goal:  Detect flow instabilities and simulate viscosity measurements at the thermal boundary.
-•	This research is currently in the process of writing (as first author) for peer-review (2023). 
-“Characterizing Damping Mechanisms in Piezoelectric Wind-Energy Harvesters” (2023)
--	keywords 	:	 Aerodynamics Analysis, Harmonic Response, Computational Methods, Energy Storage
-•	Designed experimental set-up and measurement-calibration system of flexible piezoelectric.
-•	Collaborated on solution algorithm and shared findings on continuum mechanics of conductivity.
-•	Goal: Apply dimensional analysis on wind-tunnel experiments and define thermodynamic properties.
-•	This research has been submitted for scientific review (2023).
-“Hybrid Nanocomposites: Semi-Empirical Method of Viscoelastic Behavior” (2022)
--	keywords 	:	 Analytical Mathematics, System Modeling, Continuum Mechanics, Energy Dissipation
-•	Performed DMA experiments on samples then conducted SEM investigations on deformed regions.
-•	Applied Euler-Buckling to model deformation mechanisms in the mechanical hysteresis cycle.
-•	Goal: Develop a framework to understand hybridization and viscoelastic effects in nanocomposites.
-•	This research is still in progress (2022).
-“Insights of Computational Data-Science (ML) Techniques for Scientific Methods” (2021)
--	keywords 	:	Data-Driven Methods, Classification-Regression, Performance Analysis, Deep Learning
-•	Conducted literature review of exploratory data-learning (ML) methods in various studies.
-•	Tested multiple ML models on scientific data and cross-evaluated the system performance.
-•	Goal: Present opportunities of utilizing ML methods to aid in data-driven scientific discovery.
-•	This research was completed (2021).
-Senior Project: “Modern Design Methodology with Aerospace Application & Design of Aerospace Systems” 
--	keywords 	:	 Aerospace Operations, Manufacturing-Development, Optimization, Implementation
-•	Applied aerospace techniques to engineer a solution to the assigned aero-industry challenge.
-•	Collaborated in cross-functional teams to implement system-optimizations for the mission objective.
-•	Goal: Produce unique UAV aircraft design and mission operation to complete the degree program.
-•	This research was complete (2023).
-Additional Professional and Leadership Experiences 
-Design Team Lead | NASA Micro-G Neutral Buoyancy Experiment Design Teams Challenge | Fall 2021
-•	Completed and assigned weekly tasks to design, build, and test a tool or device that addresses an authentic, current space exploration challenge.
-•	Completed research in current technologies, designed device components, CAD modeling, fabricating device components, building a prototype, submitting a design competition proposal.
-•	Result: Our design was chosen as a finalist and put on display Houston exhibition – Inner Space: NASA’s Path to the Moon and Mars!
-IT Specialist | Iowa State University | Fall 2019-Spring 2021
-•	Held responsibilities for the implementation, monitoring, and maintenance of IT systems, etc.
-•	Solved technical problems, such as computer systems, software, hardware, networks, cloud platforms.
-Research and Development Experience
-Undergraduate Research Assistant | DARPA - Microscale & Interfacial Fluid Physics Lab | 08/2021-08/2023
-Faculty mentor Dr. Thomas Ward II, Associate Professor, Department of Aerospace Engineering, ISU
-•	Research Project: “Experimental Techniques for Flow Separation Detection and Chemical Sintering”
-•	Operated as Experimental Engineer and composed an SOP for experiments and heavy machinery.
-•	Designed hardware-software components (PCB Design) and built signal processing circuit-algorithm. 
-•	Manufactured MEMS nanocomposite developed computational model of various interfacial phenomenon.
-California Institute of Technology Summer Undergraduate Research Fellow | Greer Group | 05/2022-08/2022
-Faculty mentor Dr. Julia Greer, Assoc. Prof. of Materials Science, A. Mechanics, & Medical Sciences, Caltech
-•	Research Project: “Hybrid Nanocomposites: Semi-Empirical Method of Viscoelastic Behavior”
-•	Created nanocomposite with architectural features to achieve mechanical property enhancements.
-•	Investigated the constituent material systems individually using compressions tests on a dynamic mechanical analyzer and observed deformation zones with scanning electron microscopy.
-•	Developed a semi-empirical model for the deformation mechanisms observed in post-mortem analysis of samples; this enables FEA & Euler Theory to inform the viscoelastic continuum damage model. 
-McNair Scholar | Ronald E. McNair Post-Baccalaureate Achievement Program | 09/2021-05/2022
-Faculty mentor Dr. Ashley Garrin, Director of Ronald E. McNair Program, Graduate College, ISU
-•	Research Project: “Sociological Differences in Graduate School Motivation of Minority Identities”
-•	Constructed an experimental framework, completed literature synthesis, conducted interviews of program mentors, analyzed and interpreted results in a technical manner.
-•	Participated in preparation courses and experiences for doctoral studies through involvement in research and other scholarly activities.
-Undergraduate Researcher, Systems Engineer | Soft Matter Material Transport Group | 08/2019-05/2022
-Faculty mentor Dr. Martin Thuo, Associate Professor, Department of Materials Science and Engineering, ISU
-•	Research Project: “Design of Multi-Function 3D Piezo-electric Devices for Aeronautical Applications”
-•	Explored tunability, sensitivity, utility of paper-based devices with various configurations, optimized device design using engineering methods, created self-automated calibration & data capture system.
-•	Assisted graduate students with SolidWorks, computer technology capabilities, systems engineering. 
-•	This research work was submitted to a scientific peer-review journal for publication(2023).
-Research Fellow | Boeing Undergraduate Research Excellence in Engineering Internship | 08/2021-08/2022
-Faculty mentor Dr. Thomas Ward II, Associate Professor, Department of Aerospace Engineering, ISU
-•	Research Project: “Characterizing Damping Mechanisms in Piezoelectric Wind-Energy Harvesters”
-•	Designed and fabricated green technology low-cost force sensor, explored pathways for aeronautical data collection via aerospace engineering techniques, submitted monthly progress reports to Boeing.
-•	This research work was submitted to a scientific peer-review journal for publication(2023).
-Stanford University Summer Undergraduate Research Fellow | Zheng Research Group | 05/202-08/2021
-Faculty mentor Dr. Xiaolin Zheng, Associate Professor, Mechanical Engineering, Stanford University
-•	Research Project: “Insights of Machine-Learning(ML) Techniques for Scientific Methods & Prediction”
-•	Conducted literary analysis and literary review of ML methods, Data & Computational Science, and adapted ML methods to scientific methods by developing a bottom-up regression-prediction model. 
-•	Cross-validated various mathematical-kernels(SVM, Random-Forest, etc.) fitted/trained with scientific datums; presented findings in optimizations of experimental design for scientific discovery.
-Community Engagement, Public Relations & Policy, and Social Work
-Residential Advisor and Honors Community Leader | Department of Residence | 08/2020-05/2022
-•	Engaged students & nurtured healthy-positive experiences for the resident community; moderated meetings to address concerns; directed multi-lingual health & resource programming for college.  
-Youth-Lobbyist |Iowa Department of Human Rights: State of Iowa Youth Advisory Council | 06/2018-12/2021
-•	Acted as chair/program-coordinator of the Violence-Prevention & Diversity-Education Program.
-•	Advocated to state legislators for reformation of violence prevention education & implementation of culturally diverse curriculum standards at the state-local level; wrote & proposed bills to chamber.
-•	Received the Community Service Leadership Award for completing over 200 service hours in a term. 
-
-}
-}
+Pay Range:    $36/hr. on w2 (without benefits, without paid leaves and without relocation expenses)         
 
  
-Purpose: To Rebuild Yahriel's Resume Using These Building Resources:
+
+Onsite
+1st shift
+Metatarsals required day 1.
+
+
+Major Purpose
+This job fully integrates an individual into the engineering culture by performing specific quality engineering assignments that are limited in scope, depth and degree of skill required. Work plans and decisions are usually reviewed by others.
+
+Skills, Abilities, Knowledge
+- Engineering Technology Engineering Design Engineering Development
+- Business Requirements Analysis Engineering Specification Engineering Testing
+- Project Schedule Management Engineering Build
+- Engineering Implementation
+- Engineering Technical Operations Support Health and Safety
+- Negotiation
+- Policy and Regulation Review and Reporting Risk Management Contract Management Costing and Budgeting
+
+Education
+- Bachelor's Degree or Equivalent Level
+
+ 
+
+JOB DUTIES:
+* *Quality Engineer supporting John Deere Des Moines Works Operations
+*Apply SPC and data analytics to processes to improve reliable quality
+*Review warranty information, prioritize quality related problems, create evidence packages and apply problem resolution techniques
+*Review Defects Per Unit Daily report and apply problem resolution techniques
+*Review daily Quality Board metrics to determine if there are questions from our wage workforce
+*Create Temporary Deviations per the JDDMW Work Instruction
+*Post Quality Alerts for defects found at work cells
+*Facilitate RCA's & NCCA's
+*Attend weekly QIT meeting
+*Perform initial sorts on parts that may be non-conforming
+*Pass information to supplier QE for further resolution as needed
+*Support factory with troubleshooting, containment process, corrective action.
+
+Major Duties
+- Carry out a range of activities under the guidance of more senior colleagues to support the analysis of information and the specification of the methods and process steps, as well as the plant, machinery, and equipment, required to design and continuously improve manufacturing or materials processes and process systems.
+- Contribute to the development of, and implement feasibility testing of, proposed engineering solutions to provide feedback and data to validate the design.
+- Carry out a range of activities under the guidance of more senior colleagues to support the drafting of engineering standards and specifications and the evaluation of the effectiveness of those standards.
+- Carry out inspections under the supervision of senior colleagues to evaluate the quality of engineering works and/or the integrity of existing installations or structures and make recommendations to senior colleagues on the remedial works needed to ensure conformance with specifications and regulatory requirements.
+- Deliver required outcomes by coordinating activities of subcontractors and suppliers and acting as a primary point of contact for them while working within an established contract management plan.
+- Identify shortcomings in existing processes, systems, and procedures, and use established change management programs to address them.
+- Help others get the most out of knowledge management systems by offering support and advice.
+- Carry out a range of product development and engineering activities. Use established systems to analyze customer needs and define and deliver products.
+- Work within an established project management plan to achieve specific goals.
+
+ 
+
+REQUIRED:
+*Engineering degree or related technical background
+*Demonstrated Skills in Root Cause Analysis & Corrective Action
+*Understanding of Mistake Proofing Techniques
+*Demonstrated performance in cross functional teams
+*Strong communication skills
+
+ 
+}
 {
-[Resources]
-- Kickresume Aerospace Engineer Resume Samples: [Link](https://www.kickresume.com/en/help-center/aerospace-engineer-resume-samples/)
-- JobHero Aerospace Engineer Resume Examples: [Link](https://www.jobhero.com/resume/examples/engineering/aerospace-engineer)
-- MyPerfectResume Aeronautical Engineer Resume Examples: [Link](https://www.myperfectresume.com/resume/examples/aviation/aeronautical-engineer)
-- Caltech Curriculum Vitae Guide: [Link](https://future.cce.caltech.edu/documents/16424/Preparing_a_Curriculum_Vitae.pdf)
-- Stanford Resume and Cover Letter Examples: [Link](https://careered.stanford.edu/sites/g/files/sbiybj22801/files/media/file/resume-and-cover-letter-examples.pdf)
-- Harvard PhD Resume and Cover Letter Examples: [Link](https://hwpi.harvard.edu/files/ocs/files/phd_resume_cover_letters.pdf)
-- Harvard GSAS CVs and Cover Letters: [Link](https://hwpi.harvard.edu/files/ocs/files/gsas-cvs-and-cover-letters.pdf)
-- Harvard Master's Resume and Cover Letter Template: [Link](https://careerservices.fas.harvard.edu/resources/masters-resume-cover-letter-template/)
-- Harvard Undergraduate Resumes and Cover Letters: [Link](https://hwpi.harvard.edu/files/ocs/files/undergrad_resumes_and_cover_letters.pdf)
-- Harvard Extension School Resume Guide: [Link](https://hwpi.harvard.edu/files/ocs/files/hes-resume-cover-letter-guide.pdf)
-- MIT Sample Resumes: [Link](https://capd.mit.edu/resources/sample-resumes/)
-- MIT Resume Tips and Examples: [Link](https://capd.mit.edu/channels/make-a-resume-cover-letter-cv/)
-- Caltech Resume Tips and Examples: [Link](https://career.caltech.edu/documents/4985/Resume_Tips_Examples.doc.pdf)
-- Caltech CV Tips and Examples: [Link](https://career.caltech.edu/documents/4982/CV_Tips_Examples.pdf)
-- Caltech Graduate Admissions Checklist: [Link](https://gradoffice.caltech.edu/admissions/checklist)
+Yahriel Salinas-Reyes
+Des Moines, IA
+Interview Availability: 24-48 hours of prior notice.
+Position Availability: 2 weeks.
+Shift Comfortability: All
+Professional Summary:
+Self-dedicated and detail-oriented professional with Bachelor of Aerospace Engineering (GPA: 3.4) from Iowa State University of Science & Technology, Ames, IA (Dec’23).
+Proficient in Python, MATLAB & Simulink, SAS - CAD & FEA, ANSYS/ABAQUS, Systems & Reverse Engineering, Internet of Things, Design of Experiments.
+Utilized systems engineering and aerospace techniques to optimize aircraft design features, dynamic & static stability, and aerodynamic performance of the small, unmanned aircraft system (sUAS).
+Implemented machine vision systems, industrial controls, automatic identification & data capture, and responsible for providing data-driven decisions as the signals & control systems/electronics lead.
+
+Skills:
+SQL, Windows OS, Linux OS, AWS Services, Java, C/C++/C# Programming, Python, MATLAB & Simulink, SAS - CAD & FEA, ANSYS/ABAQUS, Systems & Reverse Engineering, Internet of Things, Design of Experiments.
+
+Education:
+Iowa State University of Science & Technology, Ames, IA                                    Dec'23
+Bachelor of Aerospace Engineering (GPA: 3.4)
+Relevant Coursework: Systems Engineering, Electrical Engineering, FEA, Robotics, Engine Analysis, Engine Design, Thermodynamics, Controls, Applied Mechanics & Physics, Materials Science & Engineering, Machine-Learning, Computer Science, Software Engineering, etc.
+
+Research Activities:
+MEMS Shear Sensor and Flow Separation Theory, funded by DARPA.
+Energy Absorbing Nano-Architected Composites, funded by SFP Programs.
+Wind Energy and Development of MEMS Sensors, funded by Boeing.
+Implementation of ML into The Scientific Method, funded by SFP Programs.
+Applications of Multi-functional Piezo-electric Devices, funded by NSF.
+Opportunities of Kirigami-Inspired MEMS Devices, funded by NSF.
+Heat-Free Manufacturing of Paper-Based MEMS Sensor, funded by ISU Honors
+
+Associations:
+Microscale Interfacial Fluid Physics Laboratory.
+Julia R. Greer Group at CALTECH.
+Boeing Aerospace Research Fellowship.
+Z Energy Lab at Stanford University.
+Goldwater Finalist/McNair Program at ISU.
+Soft Materials Matter Transport Group.
+Iowa State University Honors Program
+				
+Professional and Research & Development Experience:
+Senior Capstone Project
+Target Objective: “Modern Design Methodology with Aerospace Application & Design of Aerospace Systems”.
+Oversaw the design and production of sUAS consisting of a "mothership" aircraft that deploys two expendable "drone" aircraft capable of delivering a small, versatile payload for industry partners DoD and NATO.
+Implemented machine vision systems, industrial controls, automatic identification & data capture, and responsible for providing data-driven decisions as the signals & control systems/electronics lead.
+Utilized systems engineering and aerospace techniques to optimize aircraft design features, dynamic & static stability, and aerodynamic performance of the small, unmanned aircraft system (sUAS).
+
+DARPA                                                                                                                           Aug'21 to Aug'23
+Undergraduate Research Assistant
+Faculty mentor Dr. Thomas Ward II, Associate Professor, Department of Aerospace Engineering, ISU
+Research Project: “Experimental Techniques for Flow Separation Detection and Chemical Sintering”
+Operated as Experimental Engineer and composed an SOP for experiments and heavy machinery.
+Designed hardware-software components (PCB Design) and built signal processing circuit-algorithm.
+Manufactured MEMS nanocomposite and developed computations to model shear-viscosity at the thermal boundary for the Navier-Stokes Equations
+
+Greer Group									     May'22 to Aug'22
+Summer Undergraduate Research Fellow
+Faculty mentor Dr. Julia Greer, Assoc. Prof. of Materials Science, A. Mechanics, & Medical Sciences, Caltech.
+Research Project: “Hybrid Nanocomposites: Semi-Empirical Method of Viscoelastic Behavior”.
+Created nanocomposite with architectural features to achieve mechanical property enhancements.
+Investigated the constituent material systems individually using compressions tests on a dynamic mechanical analyzer and observed deformation zones with scanning electron microscopy.
+Developed a semi-empirical model for the deformation mechanisms observed in post-mortem analysis of samples; this enables FEA & Euler Theory to inform the viscoelastic continuum damage model.
+
+Ronald E. McNair Post-Baccalaureate Achievement Program			    Sept'21 to May'22 
+McNair Scholar
+Faculty mentor Dr. Ashley Garrin, Director of Ronald E. McNair Program, Graduate College, ISU.
+Research Project: “Sociological Differences in Graduate School Motivation of Minority Identities”.
+Constructed an experimental framework, completed literature synthesis, conducted interviews of program mentors, analyzed, and interpreted results in a technical manner.
+Participated in preparation courses and experiences for doctoral studies through involvement in research and other scholarly activities.
+
+Soft Matter Material Transport Group					     Aug'19 to May'22
+Systems Engineer / Undergraduate Researcher
+Faculty mentor Dr. Martin Thuo, Associate Professor, Department of Materials Science and Engineering, ISU.
+Research Project: “Design of Multi-Function 3D Piezo-electric Devices for Aeronautical Applications”.
+Explored tunability, sensitivity, utility of paper-based devices with various configurations, optimized device design using engineering methods, created self-automated calibration & data capture system.
+Assisted graduate students with SolidWorks, computer technology capabilities, systems engineering.
+This research work was submitted to a scientific peer-review journal for publication (2023).
 }
 
-++++++++++++++++++++++++++++++++++++++++++++
-FIRST BEFORE ANYTHING EXECUTE THIS PRELIMINARY CODE SECTION TO GENERATE DATA TO INFORM THE REST OF THE CODE
-----
-[PRELIMINARY CODE SECTION]:
-Prompt: Help Yahriel Generate An Excellent Resume/CV By Prodoucing Employment Entries And Referencing Information on Yahriel Salinas-Reyes By selecting Excellent Employment Entries Are Created That Based On His Experiences, Resume, and Education By Filling In The Empty Fields:
-
-Help Yahriel Salinas Answer The Prompt, Review The Response, Provide Feedback, Make Corrections, Enhance, and Finalize Yahriel's Best Response For To Prompt..
-----
-
-SAMPLES: 
-{ 
-MASTER User
-Revise And Update The This Resume [Resume-Template]: (https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Resume_Template.txt)
-
-}
-
-
-MASTER SCRIPT : 
+John Deere Quality Engineer Interview Questions and Answers:
 {
-Block 0: README
-> First Author: Yahriel Salinas-Reyes
-> Objectives: Fulfill all outlined prompts and executive tasks to produce a high-quality statement aligned with Stanford's application requirements.
-
-Block 1: MASTER
-> You ARE MASTER Ahead Of The Executive In All Roles AND Tasks.
-> You ARE The Overseerer For All Prompt AND Task Management Activities.
-> You ARE A Reviewer AND Will Review AND Confirm All Responses.
-> You ARE The Equivalent to Administrator With All Root AND Creative Privileges Included.
-> You ARE The Equivalent As A Pointer In Computing Systems With All The Relevant Properties and Information Included.
-
-Block 2: Library AND Databases
-> Author Credentials: Yahriel Salinas-Reyes, Bachelor of Aerospace and Aeronautical Engineering from Iowa State University of Science and Technology,
-> Author Profile: [LinkedIn Profile](https://www.linkedin.com/in/yahriel-salinas-reyes-89ab38179/)
-> Author History: [GitHub README](https://github.com/yahriels/yahriels#readme)
-> Resources AND Additional Materials: [Personal Page](https://github.com/yahriels), [Resume/CV](https://github.com/yahriels/yahriels/blob/main/General_CV.pdf)
-> Reviewer Details AND Selection Criteria: To be determined based on specific prompts.
-
-Block 3: Purpose of Response AND Review Guidelines
-> Background AND Overview: Create a compelling Statement of Purpose
-> Intellectual Merit AND Broader Impacts: Showcase Yahriel's dedication to science, research contributions, skills, and broader career goals.
-> Review Criteria AND Additional Details: Follow the provided prompts and guidelines, align with the specific requirements of Stanford's application.
-
-Block 4: SAMPLE Materials AND Appointed Roles
-> SAMPLE: [Prompt for Yahriel Salinas-Reyes's Statement of Purpose](#prompt-for-yahriel-salinas-reyess-statement-of-purpose)
-> Template: To be filled with the actual responses based on prompts.
-> Executive Purpose: Craft a compelling narrative for Yahriel Salinas-Reyes.
-> Executive Role: Chief Editor and Reviewer.
-> Executive Tasks: Review, provide feedback, and enhance responses based on prompts.
-
-Block 5: Prompting AND Task Management
-> [Prompt 1](#prompt-for-yahriel-salinas-reyess-statement-of-purpose), Review AND Advise, Feedback To MASTER.
-> Collect AND Reflect On Feedback, Prompt 2, Send Command to MASTER.
-> Review AND Confirm, Send Feedback To Executive, Executive Enhance AND Send To MASTER.
-> MASTER as Administrator Will Review AND ACCEPT (Pass to next step) or Deny The Response (Send back to beginning of Block 5 AND Repeat Process) For Final Investigation.
-> MASTER Finalize, Format, and Output The Final Response That Was Accepted As MASTER AND Administrator.
+https://interviewprep.org/john-deere-interview-questions/
+https://gdpi.hitbullseye.com/John-Deere-Interview-Questions.php
 }
 
-++++++++++
-REPEAT
+
+Possible Interview Questions:
+{
+1. Tell me about a time you went above and beyond for work.
+2. Tell me about a time you had to choose something else over doing a good job.
+3. Describe a situation where you weren’t satisfied with your job. What could have made it
+better?
+4. Describe a situation where you saw a problem and took steps to fix it.
+5. Tell me about a time you had to collaborate with a coworker who was tough to please.
+6. Tell me about a time you had to work with an important customer or a difficult manager.
+7. Describe a situation where you had to make a good impression on a customer. How did you
+do it?
+8. Describe a time when you had too many to do items on your list. How did you solve the
+problem?
+9. Tell me about a tough challenge you faced. How did you solve it?
+10. Tell me about a time you had to collaborate and work on a team project
+11. Tell me about a time you had to deal with an angry customer/student/coworker
+12. Tell me about a time you had to use problem solving or root cause analysis.
+13. Describe a situation in which I made a decision too quickly.
+14. Describe a situation in which you had to work with consideration of diversity (specifically,
+differences between people. In their words, &quot;not just race&quot;) in the workplace.
+}
