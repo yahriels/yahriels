@@ -222,40 +222,7 @@ Revise And Update The This Resume [Resume-Template]: (https://github.com/yahriel
 [Original] Yahriel's Resume: https://github.com/yahriels/yahriels/blob/main/Just_Tech_Resume.pdf
 {
 
-Yahriel Salinas-Reyes
-Des Moines, IA
-Professional Summary:
-Self-dedicated and detail-oriented professional with Bachelor of Aerospace Engineering (GPA: 3.4) from Iowa State University of Science & Technology, Ames, IA (Dec’23).
-Proficient in Python, MATLAB & Simulink, SAS - CAD & FEA, ANSYS/ABAQUS, Systems & Reverse Engineering, Internet of Things, Design of Experiments.
-Utilized systems engineering and aerospace techniques to optimize aircraft design features, dynamic & static stability, and aerodynamic performance of the small, unmanned aircraft system (sUAS).
-Implemented machine vision systems, industrial controls, automatic identification & data capture, and responsible for providing data-driven decisions as the signals & control systems/electronics lead.
 
-Skills:
-SQL, Windows OS, Linux OS, AWS Services, Java, C/C++/C# Programming, Python, MATLAB & Simulink, SAS - CAD & FEA, ANSYS/ABAQUS, Systems & Reverse Engineering, Internet of Things, Design of Experiments.
-
-Education:
-Iowa State University of Science & Technology, Ames, IA                                    Dec'23
-Bachelor of Aerospace Engineering (GPA: 3.4)
-Relevant Coursework: Systems Engineering, Electrical Engineering, FEA, Robotics, Engine Analysis, Engine Design, Thermodynamics, Controls, Applied Mechanics & Physics, Materials Science & Engineering, Machine-Learning, Computer Science, Software Engineering, etc.
-
-Research Activities:
-MEMS Shear Sensor and Flow Separation Theory, funded by DARPA.
-Energy Absorbing Nano-Architected Composites, funded by SFP Programs.
-Wind Energy and Development of MEMS Sensors, funded by Boeing.
-Implementation of ML into The Scientific Method, funded by SFP Programs.
-Applications of Multi-functional Piezo-electric Devices, funded by NSF.
-Opportunities of Kirigami-Inspired MEMS Devices, funded by NSF.
-Heat-Free Manufacturing of Paper-Based MEMS Sensor, funded by ISU Honors
-
-Associations:
-Microscale Interfacial Fluid Physics Laboratory.
-Julia R. Greer Group at CALTECH.
-Boeing Aerospace Research Fellowship.
-Z Energy Lab at Stanford University.
-Goldwater Finalist/McNair Program at ISU.
-Soft Materials Matter Transport Group.
-Iowa State University Honors Program
-				
 Professional and Research & Development Experience:
 Senior Capstone Project
 Target Objective: “Modern Design Methodology with Aerospace Application & Design of Aerospace Systems”.
