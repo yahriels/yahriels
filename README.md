@@ -11,7 +11,7 @@
 ### 1. Alogia-Poverty of Speech and Thought
 ### 2. Autism-Anonaly in Logic and Realism (Logicism)
 ### 3. Ambivalence and Chaos Dynamics
-### 4. Affect-Blunting-Temporal Factory
+### 4. Affect-Blunting-Temporal Factor
 ## Cited By Yahriel Salinas-Reyes [Y.Salinas-Reyes]
 # Front Matter
 A proposed thesis submitted to the graduate faculty in complete fulfillment of
