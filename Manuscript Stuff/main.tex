@@ -1,0 +1,275 @@
+\documentclass[12pt]{article}
+\renewcommand{\thesection}{\Roman{section}} 
+\renewcommand{\thesubsection}{\thesection.\Roman{subsection}}
+%\usepackage[tocindentauto]{tocstyle}
+%\usetocstyle{KOMAlike} %the previous line resets it
+%\usepackage{natbib}
+\usepackage{biblatex}
+\addbibresource[]{ref.bib}
+\usepackage{url}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{graphviz}
+\usepackage[T1]{fontenc}
+\graphicspath{{images/}}
+\usepackage{parskip}
+\usepackage{fancyhdr}
+\usepackage{hyperref}
+\usepackage{parskip}
+\usepackage{hologo}
+\usepackage{listings}
+\usepackage{titlesec, blindtext, color}
+\usepackage{titling}
+\usepackage{tcolorbox}
+\usepackage[hmargin=1in,vmargin=1in]{geometry}
+\usepackage{float}
+\usepackage{tikz}
+\usepackage{appendix}
+\usepackage{listings} % For code importing
+\usepackage{xcolor} % for setting colors
+\usepackage{svg}
+\usepackage{MnSymbol}
+\usepackage{tocloft}
+%\usepackage[dvipsnames]{xcolor}
+%\usepackage[colorlinks]{hyperref}
+\renewcommand{\cftsecleader}{\cftdotfill{\cftdotsep}}
+
+%\input{arduinoLanguage.tex}
+
+\hypersetup{
+	colorlinks=true,
+	linkcolor=red,
+	urlcolor=red,
+}
+
+\lstdefinestyle{customc}{
+  belowcaptionskip=1\baselineskip,
+  breaklines=true,
+  frame=L,
+  xleftmargin=\parindent,
+  language=C,
+  showstringspaces=false,
+  basicstyle=\footnotesize\ttfamily,
+  keywordstyle=\bfseries\color{green!40!black},
+  commentstyle=\itshape\color{purple!40!black},
+  identifierstyle=\color{blue},
+  stringstyle=\color{orange},
+ }
+
+ \lstset{ %
+  backgroundcolor=\color{white},   % choose the background color; you must add \usepackage{color} or \usepackage{xcolor}
+  basicstyle=\footnotesize,        % the size of the fonts that are used for the code
+  breakatwhitespace=false,         % sets if automatic breaks should only happen at whitespace
+  breaklines=true,                 % sets automatic line breaking
+  captionpos=b,                    % sets the caption-position to bottom
+  commentstyle=\color{commentsColor}\textit,    % comment style
+  deletekeywords={...},            % if you want to delete keywords from the given language
+  escapeinside={\%*}{*)},          % if you want to add LaTeX within your code
+  extendedchars=true,              % lets you use non-ASCII characters; for 8-bits encodings only, does not work with UTF-8
+  frame=tb,	                   	   % adds a frame around the code
+  keepspaces=true,                 % keeps spaces in text, useful for keeping indentation of code (possibly needs columns=flexible)
+  keywordstyle=\color{keywordsColor}\bfseries,       % keyword style
+  language=Python,                 % the language of the code (can be overrided per snippet)
+  otherkeywords={*,...},           % if you want to add more keywords to the set
+  numbers=left,                    % where to put the line-numbers; possible values are (none, left, right)
+  numbersep=8pt,                   % how far the line-numbers are from the code
+  numberstyle=\tiny\color{commentsColor}, % the style that is used for the line-numbers
+  rulecolor=\color{black},         % if not set, the frame-color may be changed on line-breaks within not-black text (e.g. comments (green here))
+  showspaces=false,                % show spaces everywhere adding particular underscores; it overrides 'showstringspaces'
+  showstringspaces=false,          % underline spaces within strings only
+  showtabs=false,                  % show tabs within strings adding particular underscores
+  stepnumber=1,                    % the step between two line-numbers. If it's 1, each line will be numbered
+  stringstyle=\color{stringColor}, % string literal style
+  tabsize=2,	                   % sets default tabsize to 2 spaces
+  title=\lstname,                  % show the filename of files included with \lstinputlisting; also try caption instead of title
+  columns=fixed                    % Using fixed column width (for e.g. nice alignment)
+}
+
+\lstdefinestyle{customasm}{
+  belowcaptionskip=1\baselineskip,
+  frame=L,
+  xleftmargin=\parindent,
+  language=[x86masm]Assembler,
+  basicstyle=\footnotesize\ttfamily,
+  commentstyle=\itshape\color{purple!40!black},
+}
+
+\lstset{escapechar=@,style=customc}
+
+%\makeatletter
+%\let\thetitle\@title
+
+%\let\thedate\@date
+%\makeatother
+
+%\pagestyle{fancy}
+%\fancyhf{}
+%\rhead{\theauthor}
+%\lhead{\thetitle}
+%\cfoot{\thepage}
+
+\begin{document}
+\title{Project Proposal}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{titlepage}
+	\centering
+    \vspace*{0.2 cm}
+    \includegraphics[scale = 0.15]{images/isu_seal.png}\\[1.0 cm]	% University Logo
+    \textsc{\large\underline{Dept. of Aerospace Engineering}}\\[0.4 cm]
+       \textsc{\large\underline{Dept. of Materials Science and Engineering}}\\[0.4 cm]
+           \rule{\linewidth}{0.4 mm} \\[0.8 cm]
+	\textsc{\LARGE\textbf{Multi-Functional Paper-Based}} \\[0.2cm]
+ \textsc{\LARGE\textbf{MEMS Devices}} \\[0.4 cm]
+\textsc{\small In Collaboration With:}\\[0.2 cm]
+\textsc{\small The Micro-scale and Interfacial Fluid Physics Laboratory}\\[0.2 cm]
+\textsc{\small The Soft Materials and Matter Transport Group}\\[0.4 cm]
+\rule{\linewidth}{0.4 mm} \\[0.6 cm]
+    \textsc{\large Project Lead: \emph{Yahriel Salinas-Reyes}}\\[0.2 cm]
+    \textsc{\large Mentor 1: \emph{Dr. Thomas Ward III}}\\[0.2 cm]
+    \textsc{\large Mentor 2: \emph{Dr. Martin Thuo}}\\[2.5 cm]
+
+	\textsc{\LARGE Research Manuscript }\\[0.8 cm]	
+    \textsc{\large Date: 12/9/2022}\\[0.8 cm]
+  
+	%{ \huge \bfseries \thetitle}\\
+	
+	
+
+	
+	\vfill
+	
+\end{titlepage}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+%\maketitle
+\tableofcontents
+%\addcontentsline{toc}{subsection}{}
+%\addcontentsline{toc}{chapter}{}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\pagebreak
+%\section{Abstract}
+\begin{abstract}
+    In an era where electronic devices are becoming rapidly more complex and expensive. High efficiency (i.e. performance/cost ratio) in devices becomes harder to achieve as fabrication costs escalate as the assemblies of elegant high-performance devices require more sophisticated material systems. Conceptually, however, devices such as piezo transducers simply create connections between mechanical stimuli and electrical resistance changes, which, can be achieved through simple, well-designed device architectures. Piezoelectric and piezoresistive micro-electro-mechanical systems (MEMS) sensor devices are examples of elegant, simple, efficient architectures that can be utilized to create various, more complex devices using a plethora of material selections. Here, we use material that is abundant, green and low-cost such as paper for a platform to build these devices. Utilizing the fundamentals of piezoresistive effects, paper-based devices can proof to be a highly efficient and facile option for electronic devices. Frugal science/innovation, the ability to minimize cost and complexity while providing efficient solutions to better human conditions is a central theme herein. Furthermore, the deformability of papers leads to easier access to wider, more unique form factors, without increasing the cost of fabrication significantly, leading to simple assemblies of 2- or 3- dimensional, multi-functional devices.
+\end{abstract}
+\newpage
+
+
+\section{Introduction}
+The focus of this study lies in Piezoelectric devices, which in our case, are used as force sensors. Reviewing the role of force sensors in modern day, a single sensor device can allow for structural analysis of structural elements, the use of touch screens to navigate through computer interfaces, characterization of materials properties and forces, and much more. However, most sensors and electronic devices call for specific materials, sophisticated fabrication techniques, and exorbitant equipment in product manufacturing. As prices escalate5, high efficiency (i.e. performance/cost ratio) becomes harder to maintain. In contrast to the inflation and increasing complexity of technologies, these inexpensive sensors are a disposable green technology that call for everyday materials that can be fabricated without the need of costly equipment or highly specialized human resources. Throughout the study, frugal innovation was central theme while a “Nature does it best” and “The simpler, the better” approach was principal.
+
+
+
+\pagebreak
+%%\chapter{STATEMENT OF NEED}
+
+
+
+\subsection{Project Overview}
+
+\subsection{Equations and Theory}
+
+Piezoresistive Theory: \\
+
+$$\rho=resistivity$$
+$$\textit{l}=length$$
+$$\omega=width$$
+$$\nu=poission's$$
+$$\epsilon=strain$$
+
+$$R_x=R=\frac{\rho\textit{l}}{\omega^{2}}$$
+$$\frac{\Delta R}{R_0}=(1+2\nu)\epsilon+\frac{\Delta \rho}{\rho_0}$$
+
+
+Applied Mechanics: \\
+\begin{center}
+\textsc{Curvature Model}
+$$\epsilon_{flex}=\frac{Y}{R}$$
+\textsc{Deformation Model} 
+$$\epsilon_{long}=\frac{\Delta\textit{l}}{\textit{l}}$$
+$$\epsilon_{lat}=\frac{\Delta\omega}{\omega}$$
+\end{center}
+
+
+
+
+
+\subsection{Background}
+%\addcontentsline{toc}{subsection}{Motivations}
+The Soft Materials and Matter Transport (SMMT) research group in the Materials Science and Engineering Department at ISU introduced me to their work of undercooled liquid metal core-shell particles (FM Particles) which offer a heat-free pathway for metal processing on any heat-sensitive substrates, heat-free soldering, and are inexpensive to synthesize (Figure 1a). By exploiting the benefits of these undercooled core-shell particles in association with piezoresistive micro electromechanical systems (MEMS), the presented design creates an elegant high efficiency, frugal sensor technology. In comparison to intricate electronics designs, piezoresistive MEMS devices simply create connections between mechanical stimuli and resistivity via the piezoresistive effect.1 Note that the main argument of this paper lies in exploiting the differences between paper-based MEMS utilizing silver paste (Standard), and emphasizing the benefits of introducing this research group’s FM particles into a new MEMS Design.
+
+
+\subsection{Motivations}
+
+
+
+\pagebreak
+%%\chapter{CAPITAL PROJECT DEVELOPMENT}
+\section{Materials and Methods}
+  
+
+
+\subsection{Fabrication Principles}
+Work on this project started with creating a sensor design and subsequently fabricating a working model. In fabricating a paper-based sensor, a precise, programmable paper cutter was used to make various sensor architectures (and shapes) and then bonded the piezoresistor and FM contact pads to the paper substrate via a laser cut stencil (Figure 1a). To introduce the mechanism of piezoresistive effects, a simple cantilever arm architecture was employed (Figure 1b). For materials, I chose low-cost elements such as various types of paper, carbon ink, and FM particles. While the principle of operation is conceptually simple, I explored the wide range of tunability (of sensor features) within the control space. I did this by varying the features of the paper substrate (cantilever base), piezoresistor (carbon ink resistor), circuit connection points (contact pads), and recording the relative changes in sensor sensitivity (Figure 3). In Figure 2, you can see the systematic decomposition of the MEMS Design, which I will be referring to as the control space. 
+
+
+
+\subsection{Design of Experiments}
+Next, a series of calibrations and experiments for various sensor configurations were conducted to investigate piezoresistance, MEMS sensor tunability, as well as the sensor’s functionality and utility. I employed a structured systems engineering approach and focused on a single Design Variable or subsystem at a time (Figure 2), while varying design features iteratively and recording the changes in sensor sensitivity (resistance/deflection). The general framework of this investigation can be summarized as a hierarchal structure. Working down the hierarchal tree: A “set of experiments” refers to a group of experiments conducted within a Design Variable or subsystem, an “experiment” refers to sample (sensor configuration) where the features are varied, and “experimental runs” are a series of measurements conducted on a sample where the deflection is varied (Figure 2). Some terms I will use interchangeably working down the hierarchal tree include global sensitivity (i.e. MEMS Design sensitivity), sensor sensitivity calibration or impact (i.e. Design Variable calibration), and sensor sensitivity (specific response of Design Features configuration). At each level of this experimental framework, we investigate the overall responses of these experiments and gain understanding of this MEMS Design holistically. 
+
+
+
+
+
+
+
+
+
+\pagebreak
+%%\chapter{BEYOND THE PROJECT FUNDING}
+
+
+%%\chapter{WHO ARE WE?}
+\section{Results and Discussion}
+\subsection{Characterizing Sensitivity of Paper Device}
+
+
+
+
+ 
+
+
+
+
+
+\pagebreak
+%%\chapter{TAKEAWAYS}
+\subsection{Characterizing Electrical Properties}
+
+\section{Conclusions}
+
+
+
+
+
+
+\section{Acknowledgements}
+This project was possible through review of project related works: \cite{PaperMEMS}, \cite{DampingMech}, \cite{Particles1}, \cite{ReviewofTactileSensors}, \cite{D.ParameterModelforPZEBeam}; related materials science topics:\cite{Particles2}, \cite{Particles3}, \cite{Particles4}, \cite{Odd-EvenSAMS}, \cite{Particles5}, \cite{Particles6}, \cite{Particles7}, \cite{MicrofluidicChannels/Particles}; and data analysis models: \cite{MachineLearning1}, \cite{MachineLearning2}.
+
+
+
+
+
+
+
+\newpage
+%\section{References}
+\printbibliography[heading=subbibintoc]
+%\bibliographystyle{plain}
+%\bibliography{ref}
+
+\end{document}

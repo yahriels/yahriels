@@ -1,0 +1,79 @@
+Mathematical Discussion of Empirical Coupling Functions This Enables:
+
+Probe (X)
+vs.
+Sample/Design/Scientific/Sample Landscape Or Space (Y)
+
+
+Measureable Quality/Quantity(X)
+vs 
+Elastic/Material/Electrical/Chemical... Property(Y)
+
+
+Position/Force (Y)
+vs 
+Strain (X)
+
+
+Sensor Property (Y)
+vs. 
+Design Parameters (X)
+
+
+Ideal System/Device (Mechanical-Electrical...) (Y)
+vs. 
+Design Parameters (X)
+
+
+Material, Mechanical, Electrical, ... Properties (X)
+vs. 
+System Architecture (Y)
+
+
+ Covariate
+R (Y)
+vs. 
+V (X) 
+
+V(Y)
+vs. 
+Pos/Strain(X)
+
+
+THE POWER OF COUPLING FUNCTIONS
+
+Desired Control Property (X/Y)
+vs. *Interaction/Mechanism*
+System Architecture(Y/X)
+This Idea takes any measureable/controllable qualitys or quantitys of a sample space or the "Scientific Landscape" and reduces our highly contoured and covariate problems/data and simplifies it to low-order problems to guide our design making whilst not only saving, but optimizing our efforts to exert our influence,interact,integrate,or build a system architecture by learning from the Scientific Landscape of the Natural
+
+
+Terms:
+FOM = Figure of Merit
+Covariance
+Landscape
+Coupling Functions
+Piezo;s
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Signal/Interaction/FOM (Y)
+vs. 
+Researcher/Probe/Designer/FOM of Interest (X)
+*^With any system: numerical, ditigal, design, scientific, mathematical, mechanical, piezo's^*
+

@@ -1,0 +1,102 @@
+
+#TO DETERMINE IF WE NEED ANOTHER MODEL INITIAL INSPECTION
+model = ols('FoM ~ C(Cu_content) + C(Temperature) + C(Time) + C(EDTA)', df1).fit()
+
+model.summary()
+res = sm.stats.anova_lm(model, typ= 1)   # Need type 1 to agree with paper and with Matlab
+print(res)     #  this write the model summary to the console
+
+#  Now make the bar graph
+objects = (df1.columns[3],   # These are the column labels (factors)
+           df1.columns[4],
+           df1.columns[5],
+           df1.columns[6])
+
+y_pos = np.arange(len(objects))  # this just makes an array [0, 1, 2, 3]
+                                 # arrange makes evenly spaced values on a 
+                                 # given interval.  Sort of expects integers
+
+totalSSRnoRes = sum(res.sum_sq)-res.sum_sq[-1]  # for normalizing
+
+performance = [res.sum_sq[0]/totalSSRnoRes,     # these are the bar lengths
+               res.sum_sq[1]/totalSSRnoRes, 
+               res.sum_sq[2]/totalSSRnoRes, 
+               res.sum_sq[3]/totalSSRnoRes]
+
+
+#CRoss VAl on first DATA
+# Select data from dataframe and put into X matrix (parameters) and y (target)
+data = df1[['Cu_content','Temperature','Time','EDTA']]
+target = df1[['FoM']]
+X = data       # is nx4 matrix with 4 columns for the 4 factors   
+y = target     # is nx1 column vector for n observations
+
+##TEST GAMMA
+#test gamma value between 0 and 1
+# cv = 10 is for 10 fold cross validation. 
+param_range = np.linspace(0,1,50)   # set the range for parameter gamma
+train_loss, test_loss = validation_curve( 
+        svm.SVR(kernel='rbf', C=40),
+        preprocessing.scale(X), preprocessing.scale(y.values.ravel()), param_name='gamma',
+        param_range=param_range, cv=10, 
+        scoring = 'neg_mean_squared_error')
+# Use negative to 
+train_loss_mean = -np.mean(train_loss, axis=1)
+test_loss_mean = -np.mean(test_loss, axis=1)
+
+##TEST C
+#test C value
+param_range = np.linspace(1,100,50)   # set the range for parameter C, between 0 and 100
+train_loss, test_loss = validation_curve(
+        svm.SVR(kernel='rbf', gamma=0.3), 
+        preprocessing.scale(X), preprocessing.scale(y.values.ravel()), param_name='C',
+        param_range=param_range, cv=10, 
+        scoring = 'neg_mean_squared_error')
+train_loss_mean = -np.mean(train_loss, axis=1)
+test_loss_mean = -np.mean(test_loss, axis=1)
+# use minus to avoid negatives
+
+##TEST EPSILON
+#test epsilon value
+param_range = np.linspace(0,1,50)   # set the range for parameter gamma
+train_loss, test_loss = validation_curve( 
+        svm.SVR(kernel='rbf', C=40, gamma=0.3),
+        preprocessing.scale(X), preprocessing.scale(y.values.ravel()), param_name='epsilon',
+        param_range=param_range, cv=10, 
+        scoring = 'neg_mean_squared_error')
+train_loss_mean = -np.mean(train_loss, axis=1)
+test_loss_mean = -np.mean(test_loss, axis=1)
+
+
+
+
+#SVR ON FIRST TRY
+# Make a list of variables for machine learning
+names = ('Cu_content', 'Temperature',  'Time', 'EDTA')   
+variables = df1.loc[:, names]           
+
+# this constructs the SVR model using the hyperparameters from the previous step
+reg_FoM = Pipeline([('scl', StandardScaler()),
+                    ('clf', svm.SVR(kernel='rbf', gamma=0.5, 
+                                    C=40, epsilon = 0.1,
+                                    verbose=True))])
+#  Pipeline somehow allows several commands to be strung together
+#  scl = Standard scalar
+#  clf = ??  Not sure what this does
+#  svm = Support vector machine
+#  SVR = Support Vector Regression
+#  rbf = Radial basis function kernel 
+#  gamma, C, and epsilon are hyperparameters for the rbf kernal
+
+# Fit the variables to the FoM
+reg_FoM.fit(variables, df1.FoM)     
+
+# Add a column to the dataframe with the prediceted values
+df1['FoM_pred_svm'] = reg_FoM.predict(variables)
+
+# Making unique colors for the 32 datasets
+colors = plt.cm.tab20(np.linspace(0, 1, 35)[0:len(df1.Set.unique())])
+color_dic = {label: color for label, color in zip(df1.Set.unique(), colors)}
+
+# associates a color with the labels in the dataframe.  
+

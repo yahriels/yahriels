@@ -1,0 +1,11 @@
+clf_svm = SVC(random_state=42, C=100, gamma=0.001)
+clf_svm.fit(X_train_scaled, y_train)
+
+
+
+
+plot_confusion_matrix(clf_svm, 
+                      X_test_scaled, 
+                      y_test,
+                      values_format='d',
+                      display_labels=["Did not default", "Defaulted"])

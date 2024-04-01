@@ -1,0 +1,41 @@
+model = ols('FoM ~ C(Cu_content) + C(Temperature) + C(Time) + C(EDTA)', df1).fit()
+
+model.summary()
+res = sm.stats.anova_lm(model, typ= 1)   # Need type 1 to agree with paper and with Matlab
+print(res)     #  this write the model summary to the console
+
+#  Now make the bar graph
+objects = (df1.columns[3],   # These are the column labels (factors)
+           df1.columns[4],
+           df1.columns[5],
+           df1.columns[6])
+
+y_pos = np.arange(len(objects))  # this just makes an array [0, 1, 2, 3]
+                                 # arrange makes evenly spaced values on a 
+                                 # given interval.  Sort of expects integers
+
+totalSSRnoRes = sum(res.sum_sq)-res.sum_sq[-1]  # for normalizing
+
+performance = [res.sum_sq[0]/totalSSRnoRes,     # these are the bar lengths
+               res.sum_sq[1]/totalSSRnoRes, 
+               res.sum_sq[2]/totalSSRnoRes, 
+               res.sum_sq[3]/totalSSRnoRes]
+
+plt.figure(figsize=(8,5), dpi=100)                   
+plt.bar(y_pos, performance,       
+        align='center', 
+        width=0.8,              # default is 0.8
+        alpha=1.0,              # this is transparency, 1.0 is solid
+        color=['skyblue', 'peru', 'yellowgreen', 'gold'])
+
+plt.xticks(y_pos, objects)
+plt.xticks(fontsize=14)
+plt.yticks(fontsize=14)
+#font = {'size': 18}
+plt.xlabel('Process condition', fontsize=14)
+plt.ylabel('Fraction of total variance', fontsize=14)
+plt.title('1st run ANOVA results', fontsize=14)
+
+plt.style.use('seaborn')        # this makes a lightgrey background with a nice grid
+
+plt.show()

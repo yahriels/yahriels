@@ -1,0 +1,29 @@
+# Get the data into a pandas dateframe.  
+df1 = pd.read_csv("DOE(GSD)_1stRUN.csv")                 # first run
+df2 = pd.read_csv("DOE(GSD)_2ndRUN.csv") 
+
+# this makes a box plot sorted by experiment
+# boxplot is an axes object
+# It was a hassle to figure out how to edit the colors for the boxes
+# Turning on patch_artist applies some default colors 
+
+boxplot = df1.boxplot('FoM', by='Set', vert=True, patch_artist=True,   
+            boxprops=dict(facecolor='red', color='cyan'), # doesn't work 
+            capprops=dict(color='red'),                   # works
+            whiskerprops=dict(color='red'),               # doesn't work
+            medianprops=dict(color='orange'),             # does not work
+            figsize=(14,8))                               # works
+
+fig = boxplot.get_figure()                                # a work around to get rid of annoying auto-title
+fig.suptitle('')
+
+boxplot.patch.set_facecolor('lavender')         # Changes plot background
+# plt.style.use('seaborn') # Does not do anything
+
+plt.xticks(fontsize=15) 
+plt.yticks(fontsize=15)
+font = {'size': 15}
+plt.xlabel('Round 1 experimental set', font)
+plt.ylabel(r'FoM ($\mu$S)', font)
+plt.ylim(0,250)
+plt.title('1st round experiments', fontsize=18, pad = 12)

@@ -1,0 +1,85 @@
+# Make a list of variables for machine learning
+names = ('Cu_content', 'Temperature',  'Time', 'EDTA')   
+variables = df1.loc[:, names]           
+
+# this constructs the SVR model using the hyperparameters from the previous step
+reg_FoM = Pipeline([('scl', StandardScaler()),
+                    ('clf', svm.SVR(kernel='rbf', gamma=0.5, 
+                                    C=40, epsilon = 0.1,
+                                    verbose=True))])
+#  Pipeline somehow allows several commands to be strung together
+#  scl = Standard scalar
+#  clf = ??  Not sure what this does
+#  svm = Support vector machine
+#  SVR = Support Vector Regression
+#  rbf = Radial basis function kernel 
+#  gamma, C, and epsilon are hyperparameters for the rbf kernal
+
+# Fit the variables to the FoM
+reg_FoM.fit(variables, df1.FoM)     
+
+# Add a column to the dataframe with the prediceted values
+df1['FoM_pred_svm'] = reg_FoM.predict(variables)
+
+
+
+
+# Making unique colors for the 32 datasets
+colors = plt.cm.tab20(np.linspace(0, 1, 35)[0:len(df1.Set.unique())])
+color_dic = {label: color for label, color in zip(df1.Set.unique(), colors)}
+
+# associates a color with the labels in the dataframe.  
+df1['color'] = df1.Set.map(color_dic)    
+
+#  Now make the plot of predicted vs. measured FoM
+fig, ax1 = plt.subplots(1, 1, 
+                        clear=True,      
+                        num='Predicted vs measured FoM',   # sets the label at the top of the window
+                        figsize=(10, 8))   # 
+for label, data in df1.groupby('Set'):   # loop through to catch each experimental condition
+    plt.plot('FoM_pred_svm', 'FoM', 'o',  
+             color=data['color'].iloc[0],
+             data=data,                   # refers back to reference to dataframe
+             label=label)
+plt.legend(loc='lower right', frameon=True)     # make a legend
+plt.plot([-1, 250], [0, 250], ls="--", c=".3")  # This draws a dotted line
+plt.autoscale(enable=False)                    # turn off autoscale
+plt.xlim(0,250)                             # setting plot range here
+plt.ylim(0,250)
+plt.xticks(fontsize=16)
+plt.yticks(fontsize=16)
+font = {'size': 16}
+ax1.set_xlabel(r'Predicted FOM ($\mu$S)', font)
+ax1.set_ylabel(r'Measured FOM ($\mu$S)', font)
+
+plt.style.use('seaborn')                 # Best style for this plot
+
+plt.tight_layout()                       # finally, show the plot, 
+plt.show()                               # tight means push plot to edges of the window
+
+#  this is to make plot of Normalized measured-predicted vs. measured 
+plt.figure(3)  
+fig, ax1 = plt.subplots(1, 1, 
+                        clear=True,       
+                        num='Predicted vs measured FoM',   # sets the label at the top of the window
+                        figsize=(10, 8))   # 
+df1['min'] = (df1.FoM-df1.FoM_pred_svm)/df1.FoM
+for label, data in df1.groupby('Set'):   # loop through to catch each experimental condition
+    plt.plot('FoM_pred_svm', 'min', 'o',  
+             color=data['color'].iloc[0],
+             data=data,                   # refers back to reference to dataframe
+             label=label)
+plt.legend(loc='lower right', frameon=True)    
+plt.xlim(0,250)
+plt.ylim(-0.6,0.6)
+plt.xticks(fontsize=16)
+plt.yticks(fontsize=16)
+font = {'size': 16}
+ax1.set_ylabel('Normalization', font)
+ax1.set_xlabel(r'Predicted FOM ($\mu$S)', font)
+
+plt.style.use('ggplot')
+plt.style.use('seaborn')                 
+
+#plt.tight_layout()                       # finally, show the plot, 
+plt.show()                               # tight means push plot to edges of the window

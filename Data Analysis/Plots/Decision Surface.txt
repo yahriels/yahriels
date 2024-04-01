@@ -1,0 +1,66 @@
+clf_svm = SVC(random_state=42, C=1000, gamma=0.001)
+clf_svm.fit(pca_train_scaled, y_train)
+
+## Transform the test dataset with the PCA...
+X_test_pca = pca.transform(X_train_scaled)
+#X_test_pca = pca.transform(X_test_scaled)
+test_pc1_coords = X_test_pca[:, 0] 
+test_pc2_coords = X_test_pca[:, 1]
+
+## Now create a matrix of points that we can use to show
+## the decision regions.
+## The matrix will be a little bit larger than the
+## transformed PCA points so that we can plot all of
+## the PCA points on it without them being on the edge
+x_min = test_pc1_coords.min() - 1
+x_max = test_pc1_coords.max() + 1
+
+y_min = test_pc2_coords.min() - 1
+y_max = test_pc2_coords.max() + 1
+
+xx, yy = np.meshgrid(np.arange(start=x_min, stop=x_max, step=0.1),
+                     np.arange(start=y_min, stop=y_max, step=0.1))
+
+## now we will classify every point in that 
+## matrix with the SVM. Points on one side of the 
+## classification boundary will get 0, and points on the other
+## side will get 1.
+Z = clf_svm.predict(np.column_stack((xx.ravel(), yy.ravel())))
+## Right now, Z is just a long array of lots of 0s and 1s, which
+## reflect how each point in the mesh was classified.
+## We use reshape() so that each classification (0 or 1) corresponds
+## to a specific point in the matrix.
+Z = Z.reshape(xx.shape)
+
+fig, ax = plt.subplots(figsize=(10,10))
+## now we will use contourf() to draw a filled contour plot
+## using the matrix values and classifications. 
+## The contours will be filled according to the 
+## predicted classifications (0s and 1s) in Z
+ax.contourf(xx, yy, Z, alpha=0.1)
+
+## now create custom colors for the actual data points
+cmap = colors.ListedColormap(['#e41a1c', '#4daf4a'])
+## now draw the actual data points - these will
+## be colored by their known (not predcited) classifications
+## NOTE: setting alpha=0.7 lets us see if we are covering up a point 
+# scatter = ax.scatter(test_pc1_coords, test_pc2_coords, c=y_test, 
+scatter = ax.scatter(test_pc1_coords, test_pc2_coords, c=y_train, 
+               cmap=cmap, 
+               s=100, 
+               edgecolors='k', ## 'k' = black
+               alpha=0.7)
+
+## now create a legend
+legend = ax.legend(scatter.legend_elements()[0], 
+                   scatter.legend_elements()[1],
+                    loc="upper right")
+legend.get_texts()[0].set_text("No Default")
+legend.get_texts()[1].set_text("Yes Default")
+
+## now add axis labels and titles
+ax.set_ylabel('PC2')
+ax.set_xlabel('PC1')
+ax.set_title('Decison surface using the PCA transformed/projected features')
+# plt.savefig('svm_default.png')
+plt.show()

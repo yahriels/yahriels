@@ -1,0 +1,66 @@
+# Size of the plot grid
+u_len = 4    # 4 columns, one each of the 4 temperature levels
+v_len = 2    # 2 rows, one for each Cu/(Cu+Zn) level (0.65 and 0.85)
+
+# the levels for the plots in the grid
+us = np.array([60, 70, 80, 90])    # the temperature levels
+vs = np.array([0.65,0.85])         # the Cu/(Cu+Zn) levels
+
+# x and y axes for the contour plots in the grid
+x_len, y_len = 100, 100            # number of points to make the contour plot
+xs = np.linspace(10, 130, x_len)   # vary time between 60 and 120 minutes
+ys = np.linspace(0.01, 0.11, y_len)# Na2EDTA range, this will be y axis
+
+# 
+vi, ui, xi, yi = names 
+# names = ('Cu_content', 'Temperature',  'Time', 'EDTA')
+
+
+# Actually making each row manually
+fig, axs = plt.subplots(nrows=1, ncols=4,      # 2 row, 4 columns, present position=1
+                        sharex=True, sharey=True,   # Same x and y axes
+                        clear=True, 
+                        num='Support Vector Machine Regression, FOM',        # text at top of window
+                        figsize=(20, 4.5))  
+
+for ax, u in zip(axs, us): 
+    # zip puts column vectors together, two loops: ax = axs[0,0] and v=0.65; ax = axs[0,1] and v=0.85 
+    xm,ym = np.meshgrid(xs,ys)    # makes some sort of mesh, 
+    # Edit here to change between 0.65 and 0.85
+    vm = 0.65 * np.ones_like(xm)  # change Cu_content at each run to obtain different occasions.
+# can also use loop to achieve, will be more complicated
+    um = u * np.ones_like(xm)
+    # This set the third value you need to send to the predictor
+    r = np.c_[vm.flatten(), um.flatten(), xm.flatten(), ym.flatten()] 
+    # flatten matrices into column vectors 
+    c = reg_FoM.predict(r).reshape(x_len, y_len) 
+    # feed flatteed mesh r to the predication algorithm, then reshape the predictions back to a matrix
+  
+    # Make a contour map
+    cmap = ax.contour(xs, ys, c, vmin=0, vmax=220, cmap='gray_r')
+    plt.clabel(cmap, inline=1, fontsize=13) # this specifies the contour labels
+    # Make a value map inline=1 can also wrote as inline=True
+    pmap = ax.pcolormesh(xs, ys, c, 
+                    shading='gouraud',
+                    vmin=0, vmax=220, 
+                    cmap='viridis') # this makes the nice colors 
+    df1.Time = pd.to_numeric(df1.Time)
+    
+    # Edit here to change between 0.65 and 0.85
+    for label, data in df1.query('Temperature == @u and Cu_content == 0.65').groupby('Set'): # finds the cases
+        ax.plot('Time', 'EDTA', 'o', 
+                color=data['color'].iloc[0], # used same color for the data points
+                data=data.iloc[0], 
+                mec='k', # with black outline
+                mew=0.5, # line thickness
+                label=label)
+        ax.legend(loc='upper left', frameon=True) 
+        font={'size': 18}
+        ax.set_ylabel(f'{yi} (M)', font) # sets text for y axis label
+        ax.set_xlabel(f'{xi} (min)', font) 
+plt.xticks(fontsize=18)
+plt.yticks(fontsize=18)
+
+plt.tight_layout()
+plt.colorbar(pmap, ax=axs, fraction=0.05) # Finally, add color bar.
+plt.show() # and display
