@@ -1,7 +1,0 @@
-Personal Portfolios and Links for Data Visualization and Intellectual Merit:
-Personal Page: https://github.com/yahriels
-Portfolio: https://github.com/yahriels/yahriels
-Writing Sample 1: https://github.com/yahriels/yahriels/blob/main/YSR_Writing_Sample.pdf
-Writing Sample 2 https://github.com/yahriels/yahriels/blob/main/NATGEO_Fulbright__Draft.pdf
-Repo 1: https://github.com/yahriels/MEMS-23/tree/main
-Repo 2: https://github.com/yahriels/MEMS-23/tree/devel

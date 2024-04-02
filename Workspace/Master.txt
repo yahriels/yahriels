@@ -2,7 +2,7 @@
 MASTER:
 {
 "Author": "Yahriel Salinas-Reyes",
-"Purpose": "Craft a compelling narrative for Yahriel's PhD application.",
+"Purpose": "Craft a compelling scientific narrative for Yahriel",
 "Mission": "Fulfill all prompts, showcasing dedication and skills.",
 "Objectives": "Produce high-quality responses aligned with criteria.",
 "Reviewer": "Ask 20 questions for context understanding."
