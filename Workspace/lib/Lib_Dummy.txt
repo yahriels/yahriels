@@ -1,0 +1,75 @@
+1. "Help me strike the right balance between providing enough detail to engage readers and avoiding unnecessary jargon in my introduction."
+2. "Assist me in constructing an engaging opening hook that captures reader's attention and introduces my research."
+3. Guide me in formulating clear aims and objectives for my study by suggesting a list of verbs I can choose from."
+
+My literature review feels scrappy and fragmented. Can you give me some specific words and phrases I can use to connect the sections together and integrate the material, so it flows better? They should be fill in the gap sentence starters. Please give me 10.
+
+THESIS STATEMENTS
+In most research papers, the thesis statement represents the writer's overall argument for the paper, which will be supported and developed in each paragraph. Having a strong or weak thesis can make a significant difference in how well the writer states their claim and defends it, and it can also influence how well the reader understands and follows the argument.
+MAKE IT ARGUABLE: Think of potential conter-arguments. If you can find several that seem plausible, then your thesis statement is probably an argument, not a simple statement. Try to make your thesis statement provacative. While you should not try to offend readers, make your argument memorable. 
+TELL YOUR READER WHAT THE TOPIC IS: What topic and which points will be focused on throughout the paper?
+SUPPORT IT WITH CONTEXTUAL INFORMATION: Strong thesis statement are not dropped into the first paragraph. Discuss relevant information about the topic and "build up" to the argument. This prevents you from having to over-explain in your thesis and better places your argument in a larger discussion of the topic.
+MAKE YOUR STANCE CLEAR: Don't treat your argument like a mystery. Instead, ensure that your reader understands your stance on the topic from the very beginning so they will understand how each paragraph fits its your overall argument. When you can use 1st person, verbs like argue, contend, posit, or claim to clearly state your position on the issue (e.g., "I contend that..."). These verbs act as "signal words" that direct the reader to your argument.
+BE CLEAR: Remove your thesis from your paper and read it separately. Do you understand yourself? Instead of cryptic or vague language, strive for clarity and specificity. 
+SAY IT IN ONE SENTENCE: If you cannot write the thesis in one sentece, try to hone in on your claim. This is a good exercise because it forces you to better understand your own argument.
+PUT IT IN YOUR INTRODUCTION: For research papers, the reader should understand how each paragraph supports your stance on the issue. Personal narractives are an exception to this rule.
+BE COMPLEX: if you only have one or two points to make in regards to your thesis, can you add details to your argument in order to give yourself "more to write about" as you support it?
+USE TOPIC SENTENCES TO RELATE BACK TO YOUR THESIS: A thesis statement is not a stand-alone sentence; it sets up the argument that will be developed in each paragraph/section. Once you have written your thesis statement, make sure that each paragraph's main point clearly supports the thesis. Make sure each supporting section advances the thesis in some way.
+
+RESEARCH PAPER WRITING PROCESS KEY SECTIONS:
+1. Abstract: The abstract (150-250 words) summarizes your research paper, including the problem, method, findings, and conclusions in plain language.
+2. Introduction: This section establishes context, significance, and objectives. Start with an engaging opening, provide background, state your thesis, and discuss broader implications.
+3. Body: Present research, arguments, and evidence systematically. Align with your thesis, use topic sentences, support with data, and maintain a formal tone.
+4. Summarize key points and broader findings" significance. Avoid new information; emphasize implications.
+
+STEPS TO WRITE A RESEARCH PROPOSAL:
+1. Title: The title of your proposal should be concise and clear to clearly indicate your research question.
+2. Abstract: Include your research question, hypothesis, methodology and findings in the abstract of your proposal.
+3. Introduction: Introduction should include the purpose of research, background information significance of your study.
+4. Literature Review: Conduct a detailed review to understand the topic and create a clear research question.
+5. Research Methodology: Explain the method you will go for to deal with your research question in this section of your proposal.
+6. Discussion: Describe the potential impact and mertis of your research to enchance the significance.
+7. Citation: Give references to the authors and the literature you have studies for your research.
+
+RESEARCH PAPER OUTLINE EXAMPLE:
+I. INTRODUCTION
+    a. Start with an attention-grabber (quote, statistics, story)
+    b. Provide some background information on your topic.
+    c. Write down your thesis statement (purpose of the research).
+II. BODY SECTIONS
+ 1. First section: the description of the issue
+    a. Start with a topic sentence that names a certain issue.
+    b. Provide additional details on this issue.
+    c. Add your own commentary on the issue.
+ 2. Second section: the history of the topic
+    a. Start with providing details on when this issue began to draw attention.
+    b. Provide more concrete information on major turning points for the issue.
+    c. Add your own commentary on the turning points.
+ 3. Third section: the significance of the change
+    a. Start with answering the question "why this issue needs to be addressed?"
+    b. Describe the outcomes id the issue won't be addressed.
+    c. Provide your own comentaries on the significance.
+ 4. Fourth section: the action plan for the change
+    a. Start with providing your ideas on what and how to change when it comes to the issue.
+    b. Describe in details your ideas for the changes.
+    c. Provide your own commentaties on the changes.
+II. CONCLUSION
+    a. Restate your thesis statement.
+    b. Summarize the main points of your research paper.
+    c. Describe the future of the issue with your changes.
+
+For improving overall quality of your text:
+- Provide a critique of this text from the point of view of someone who doesn't believe the argument made here about [insert your argument]?
+- Can you peer-review this text for me in a way that specifically looks out for problems with logical argumentation?
+- Propose a better structure for rewriting what I have already written so that the reader can better follow the flow of my arguments?
+
+Paragraph-specific prompts for structure & flow:
+- Rewrite this paragraph to enhance its argumentative tone and structure in a way that it leads to highlighting the [insert key message/argument you are trying to get across]?
+- I want to reduce the awkwardness of this paragraph. Can you rewrite it in a way that enhances its fluidity without changing the original message? Keep the references. (ESL specific)
+- I’m struggling with the transition between these two paragraphs, where I move from discussing [insert aim of paragraph 1] to [insert aim of paragraph 2]. Suggest a smoother transition that enhances the flow?
+
+For assisting you with individual sentences/phrases:
+- Can you simplify this sentence without oversimplifying the technical details?
+- All my sentences seem to start the same way in this text. Help me rephrase this one to start differently?
+- I’m struggling to integrate this quotation [insert quote and author/year] naturally in this broader paragraph. Can you do a seamless integration of this quote into this specific sentence?
+- Can you adjust the tone of this sentence to sound more [insert tone]? (Tones commonly used in academic texts: analytical, argumentative, persuasive, questioning, authoritative, explanatory, reflective, speculative, assertive)
