@@ -103,10 +103,98 @@ Aerospace Engineering.
 
 
 
+
+\documentclass[11pt,a4paper,sans]{moderncv}        % possible options include font size ('10pt', '11pt' and '12pt'), paper size ('a4paper', 'letterpaper', 'a5paper', 'legalpaper', 'executivepaper' and 'landscape') and font family ('sans' and 'roman')
+
+% moderncv themes
+\moderncvstyle{banking}                            % style options are 'casual' (default), 'classic', 'oldstylef' and 'banking'
+\moderncvcolor{black}                                % color 
+% character encoding
+\usepackage[utf8]{inputenc}                       % if you 
+\usepackage{fontawesome}
+% adjust the page margins
+\usepackage[scale=0.9]{geometry}
+
+
+
+% personal data
+\name{Yahriel}{Salinas-Reyes}
+\title{}
+\insti{The GEM Consortium, Ph.D. Engineering and Science Fellowship}
+%\extrainfo{Placement Registration Number: Y/33/CS/20/067}
+\address{Polk: Des Moines}{50316}{Iowa, United States}
+% optional, remove / comment the line if not wanted; the "postcode city" and and "country" arguments can be omitted or provided empty
+\phone[mobile]{515-314-4160}                   % optional, remove / comment the line if not wanted
+
+\email{yahrielsreyes@gmail.com}                               % optional, remove / comment the line if not wanted
+\homepage{//www.linkedin.com/in/yahriel-salinas-reyes-89ab38179}                         % optional, remove / comment the line if not wanted
+
+\extrainfo{\homepagesymbol \httplink{www.github.com/yahriels}}
+                % optional, remove / comment the line if not wanted
+\photo[64pt][0.4pt]{logo.png}                       %                         
+%----------------------------------------------------------------------------------
+%            content
+%----------------------------------------------------------------------------------
+\begin{document}
+
+
+
+%-----       letter       ---------------------------------------------------------
+% recipient data
+\recipient{Company Recruitment team}{Company, Inc.\\123 somestreet\\some city}
+\date{April 14, 2024}
+\opening{Dear Sir or Madam,}
+\closing{Looking Forward to Hearing From You,}
+\enclosure[Attached]{curriculum vit\ae{}}          % use an optional argument to use a string other than "Enclosure", or redefine \enclname
+\makelettertitle
+
+[ENTER COVER LETTER ENTRY HERE]
+
+
+
+\makeletterclosing
+
+
+%\begin{CJK*}{UTF8}{gbsn}                          % to typeset your resume in Chinese using CJK
+%-----       resume       ---------------------------------------------------------
+%\makecvtitle
+\clearpage
+\hypersetup{
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=cyan,
+}
+\urlstyle{same}
+
+\noindent
+\begin{minipage}{.78\textwidth}
+ \makecvtitle
+\end{minipage}%
+\begin{minipage}{.30\textwidth}
+  \centering
+  \includegraphics[height=3cm]{logo.png}
+\end{minipage}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 \vspace{-1.2em}
 \section{Education}
 
-\cventry{2023}{Bachelor of Aerospace Engineering}{Iowa State University of Science \& Technology}{Ames}{\textit{GPA: 3.3}}{Specialized in Micro-electro-mechanical Systems (MEMS) and Soft Matter Physics}
+\cventry{2023}{\textbf{Bachelor of Aerospace Engineering}}{Iowa State University of Science \& Technology}{Ames}{\textit{GPA: 3.3}}{Specialized in Micro-electro-mechanical Systems (MEMS) and Soft Matter Physics}
 
 \vspace{-1.2em}
 \section{Work Experience}
@@ -155,7 +243,7 @@ Aerospace Engineering.
 \begin{cvcolumns}
     \cvcolumn[0.35]{~~~~~~~~~~~~~~~~Program}
     {
-        \cvcolumncell {~\textit{ {\href{https://somelinks}{\textcolor{blue}{Ph.D. GEM Fellowship*}}}} (Sci.\&Eng.)}
+        \cvcolumncell {~\textit{ {\href{https://somelinks}{\textcolor{blue}{GEM Fellowship*}}}} (Sci.\&Eng.)}
         \cvcolumncell {*Current} 
         \cvcolumncell {~\textit{ {\href{https://somelinks}{\textcolor{blue}{P.B.C.}}}} (McNair Scholars)}
         \cvcolumncell {}     
@@ -271,6 +359,139 @@ Aerospace Engineering.
 \cvlistitem{Took part in a challenging design competition organized by NASA, focusing on developing innovative solutions for space exploration challenges. Worked in a multidisciplinary team environment to design, build, and test a prototype device, gaining valuable practical experience in problem-solving and teamwork}   
 
 
+
+%\cvlistitem{Language: VB}
+%\cvlistitem{Tools: Visual Basic }
+
+
+
+
+
+
+
+
+
+
+
+
+
+\vspace{-1em}
+\section{Relevant Research Projects and Experience}
+\cventry{Iowa State University}{(Research Assistant / Mentor: Dr. Martin Thuo)}
+{1. \textit{\href{https://sparcnet.org/home/sparcnet-ramp/mentors-and-research-questions/}{\textcolor{blue}{Integration of Piezoresistive MEMS Sensors}}}}
+{April 2020 - August 2021}{}{}
+\cvlistitem{Explored the integration of piezoresistive MEMS sensors into computer technology, focusing on enhancing sensing capabilities in electronic devices. Yahriel contributed to experimental design and data analysis.}
+
+\vspace{2mm}
+\cventry{Stanford University, Z-Energy Lab}{(Research Assistant / Mentor: Dr. Xiaolin Zheng)}
+{2. \textit{\href{https://sparcnet.org/home/sparcnet-ramp/mentors-and-research-questions/}{\textcolor{blue}{Predictive Modeling of Olympic Triathlon Results}}}} 
+{August 2021 - January 2022}{}{}
+\cvlistitem{Investigated predictive models using machine learning techniques to forecast Olympic triathlon results based on data collection, model training, and result interpretation, showcasing expertise in data-driven research.}
+
+\vspace{2mm}
+\cventry{The Greer Group, The Kavli Nanoscience Institute}{(Research Assistant / Mentor: Dr. Julia R. Greer)}
+{3. \textit{\href{https://sparcnet.org/home/sparcnet-ramp/mentors-and-research-questions/}{\textcolor{blue}{Energy Absorption in Nano-Architected Hybrid Composites}}}}  
+{August 2022 - January 2023}{}{}
+\cvlistitem{Investigated energy absorption mechanisms in nano-architected hybrid composites and contributed to experimental designs, conducted mechanical tests, and analyzed data, demonstrating proficiency in scientific instrumentation.}
+
+\cventry{NSF Award No. 1757393}{(Research Assistant / Mentor: Dr. Thomas Ward)}
+{4. \textit{\href{https://www.nsf.gov/awardsearch/showAward?AWD_ID=1757393&HistoricalAwards=false}{\textcolor{blue}{REU Site: (LAUNCH-UAS)}}}}  
+{May 2023 - August 2023}{}{}
+\cvlistitem{Mentored in the REU Site program focused on launching aerospace's underrepresented students into the next chapter, particularly in unmanned aerial systems (LAUNCH-UAS).}
+
+\vspace{2mm}
+\cventry{Boeing Aerospace}{(Research Assistant / Mentor: Dr. Thomas Ward)}
+{5. \textit{\href{https://sparcnet.org/home/sparcnet-ramp/mentors-and-research-questions/}{\textcolor{blue}{Shear-Sensing Principals of Interfacial Viscous-Shear Flow}}}} 
+{August 2021 - January 2022}{}{}
+\cvlistdoubleitem{Developed experimental setups for studying shear-sensing principles in interfacial viscous-shear flow.}{Analyzed fluid flow data and contributed to the development of understanding of interfacial stress/physics.}
+
+\vspace{2mm}
+\cventry{Bayer Crop Science}{(Scientist I \& Data Engineer)}
+{6. \textit{\href{https://sparcnet.org/home/sparcnet-ramp/mentors-and-research-questions/}{\textcolor{blue}{Cutting-Edge Research in Agricultural Science and Technology}}}}{January 2024 - Present}{}{}
+\cvlistdoubleitem{Actively engaged in cutting-edge research in green science and technology at Bayer Crop Science.}{Contribute to the advancement of agricultural practices and the development of biotechnological challenges.}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\vspace{-1em}
+\section{Online Courses }
+\cvlistitem {Deep Learning:  
+\textit{\href{https://someLinks}{\textcolor{blue}{Data Structures and Algorithms in Python}}} (May 2021),
+\textit{\href{https://someLinks}{\textcolor{blue}{Deep Learning with PyTorch: Zero to GANs}}} (Jan 2021),
+\textit{\href{https://someLinks}{\textcolor{blue}{Data Analysis with Python: Zero to Pandas}}} (Oct 2020)
+}
+
+\cvlistitem {MathWorks:
+\textit{\href{https://someLinks}{\textcolor{blue}{Machine Learning with Matlab}} (June 2020)},
+\textit{\href{https://someLinks}{\textcolor{blue}{Matlab Onramp}}} (May 20xx), 
+\textit{\href{https://someLinks}{\textcolor{blue}{Deep Learning Onramp}}} (May 20xx),
+\textit{\href{https://someLinks}{\textcolor{blue}{Machine Learning Onramp}}} (May 20xx),
+\textit{\href{https://someLinks}{\textcolor{blue}{Deep Learning with Matlab}} (May 20xx)}
+}
+
+
+
+
+\vspace{-1em}
+\section{Course Work}
+\cventry{Iowa State University: College of Engineering}{(Core and electives)}{1. Key Courses}{August 2019-December 2023}{}{}
+
+\cvlistitem{{Courses}: Applied Mechanics \& Physics, Materials Science \& Engineering, Engineering \& Polymeric Chemistry, Engineering Statistics}
+\cvlistitem{{Foundations}: Multi-Variable Calculus Continuum Mechanics, Mechanics of Materials,  Dynamics \& Differential Equations}
+\cvlistitem{{Lab}: Numerical \& Graphical Techniques, Advanced Computing, Advanced Programming Languages in C++}
+
+\vspace{-1em}
+\section{Technical Skills}
+\cvlistdoubleitem{
+{Programming Language}: C, C++, Java, Python, CAD \& FEA, ANSYS/ABAQUS, Computational Modeling}{
+{Web Technology}: SQL, Windows OS, Linux OS, AWS Services,  MATLAB \& Simulink, SAS, Iot}
+
+
+\vspace{-1em}
+\section{Achievements/Awards}
+
+
+\cvlistitem {Finalist of The Fulbright-National Geographic Award{{\href{https://someLinks}{\textcolor{blue}{, Open Study/Research Award}}}}}
+
+\cvlistitem {Complete funding confirmed upon admission to Ph.D. Program.{{\href{https://someLinks}{\textcolor{blue}{The GEM Ph.D. Engineering \& Science Fellowship}}}}}
+
+
+\vspace{-0.1em}
+\section{Declaration}
+{I do hereby declare that all the details furnished above are true to the best of my knowledge and belief.}\\
+
+%{Place: Somewhere, State (Country)\hspace{25em} (Full Name)}\\
+%{Date: 18th Aug, 20xx}
+
+%\vspace{5mm}
+
+%Note: Highlighted are link to proofs and validation (if required).
+
+
+\end{document}
+
+%% end of file `template.tex'.
+
+
 }
  
 Purpose: To Help Yahriel Fill The Prompt
@@ -293,49 +514,13 @@ https://sparcnet.org/home/sparcnet-ramp/application-information-and-guidance/
 [Template] Yahriel's Response:
 {
 
+Make a Cover Letter for Yahriel For The Position.
 Tailor your answers to draw connections between Yahriel's Background and this sparcnet https://sparcnet.org/home/sparcnet-ramp/
 https://sparcnet.org/home/sparcnet-ramp/program-overview/
 https://sparcnet.org/home/sparcnet-ramp/mentors-and-research-questions/
 https://www.nsf.gov/awardsearch/showAward?AWD_ID=2319645&HistoricalAwards=false
 https://sparcnet.org/home/sparcnet-ramp/application-information-and-guidance/
 
-\vspace{-1em}
-\section{RelevantResearch Projects and Experience}
-\cventry{Organization}{(Research Assistant / Mentor: Dr. XXXXXXXX)}
-{1. \textit{{\href{https://sparcnet.org/home/sparcnet-ramp/mentors-and-research-questions/}{\textcolor{blue}{Project Title}}}}
-}{Start Date - End Date}{}{}
-\cvlistitem{Brief description of the project and Yahriel's role in it.}
-
-
-\vspace{2mm}
-\cventry{Organization}{(Research Assistant / Mentor: Dr. XXXXXXXX)}
-{2. \textit{{\href{https://sparcnet.org/home/sparcnet-ramp/mentors-and-research-questions/}{\textcolor{blue}{Project Title}}}} }{Start Date - End Date}{}{}
-\cvlistitem{ Brief description of the project and Yahriel's role in it.}
-
-
-\vspace{2mm}
-\cventry{Organization}{(Research Assistant / Mentor: Dr. XXXXXXXX)}
-{3. \textit{{\href{https://sparcnet.org/home/sparcnet-ramp/mentors-and-research-questions/}{\textcolor{blue}{Project Title}}}}  }{Start Date - End Date}{}{}
-\cvlistitem{ Brief description of the project and Yahriel's role in it.}
-
-
-
-\cventry{NSF Award No. 1757393}{(Research Assistant / Mentor: Dr. Thomas Ward) }
-{4. \textit{{\href{https://www.nsf.gov/awardsearch/showAward?AWD_ID=2319645&HistoricalAwards=false}{\textcolor{blue}{REU Site: (LAUNCH-UAS)}}}}  }{Start Date - End Date}{}{}
-\cvlistitem{REU Site: Launching Aerospace's Underrepresented Students into the Next Chapter - Unmanned Aerial Systems (LAUNCH-UAS) Brief description of the project and Yahriel's role in it.}
-
-
-\vspace{2mm}
-\cventry{Organization}{(Research Assistant / Mentor: Dr. XXXXXXXX)}
-{5. \textit{{\href{https://sparcnet.org/home/sparcnet-ramp/mentors-and-research-questions/}{\textcolor{blue}{Project Title}}}}}{Start Date - End Date}{}{}
-\cvlistdoubleitem{Description of Yahriel's contribution.}{Brief description of the project.}
-\cvlistdoubleitem{Description of Yahriel's contribution.}{Brief description of the project.}
-
-
-\vspace{2mm}
-\cventry{Organization}{(Research Assistant / Mentor: Dr. XXXXXXXX)}
-{6. \textit{{\href{https://sparcnet.org/home/sparcnet-ramp/mentors-and-research-questions/}{\textcolor{blue}{Project Title}}}}  }{Start Date - End Date}{}{}
-\cvlistitem{Brief description of the project and Yahriel's role in it.}
 
 
 
@@ -345,6 +530,8 @@ https://sparcnet.org/home/sparcnet-ramp/application-information-and-guidance/
 
 Prompt: Rewrite and Enhance Yahriel's Response
 {
+
+Make a Cover Letter for Yahriel For The Position.
 Rewrite and Update This While Keeping The Formatting Exactly The Same as The Template. 
 
 https://sparcnet.org/home/sparcnet-ramp/
@@ -353,44 +540,6 @@ https://sparcnet.org/home/sparcnet-ramp/mentors-and-research-questions/
 https://www.nsf.gov/awardsearch/showAward?AWD_ID=2319645&HistoricalAwards=false
 https://sparcnet.org/home/sparcnet-ramp/application-information-and-guidance/
 
-
-\vspace{-1em}
-\section{Relevant Research Projects and Experience}
-\cventry{Organization}{(Research Assistant / Mentor: Dr. XXXXXXXX)}
-{1. \textit{{\href{https://sparcnet.org/home/sparcnet-ramp/mentors-and-research-questions/}{\textcolor{blue}{Project Title}}}}
-}{Start Date - End Date}{}{}
-\cvlistitem{Brief description of the project and Yahriel's role in it.}
-
-
-\vspace{2mm}
-\cventry{Organization}{(Research Assistant / Mentor: Dr. XXXXXXXX)}
-{2. \textit{{\href{https://sparcnet.org/home/sparcnet-ramp/mentors-and-research-questions/}{\textcolor{blue}{Project Title}}}} }{Start Date - End Date}{}{}
-\cvlistitem{ Brief description of the project and Yahriel's role in it.}
-
-
-\vspace{2mm}
-\cventry{Organization}{(Research Assistant / Mentor: Dr. XXXXXXXX)}
-{3. \textit{{\href{https://sparcnet.org/home/sparcnet-ramp/mentors-and-research-questions/}{\textcolor{blue}{Project Title}}}}  }{Start Date - End Date}{}{}
-\cvlistitem{ Brief description of the project and Yahriel's role in it.}
-
-
-
-\cventry{NSF Award No. 1757393}{(Research Assistant / Mentor: Dr. Thomas Ward) }
-{4. \textit{{\href{https://www.nsf.gov/awardsearch/showAward?AWD_ID=2319645&HistoricalAwards=false}{\textcolor{blue}{REU Site: (LAUNCH-UAS)}}}}  }{Start Date - End Date}{}{}
-\cvlistitem{REU Site: Launching Aerospace's Underrepresented Students into the Next Chapter - Unmanned Aerial Systems (LAUNCH-UAS) Brief description of the project and Yahriel's role in it.}
-
-
-\vspace{2mm}
-\cventry{Organization}{(Research Assistant / Mentor: Dr. XXXXXXXX)}
-{5. \textit{{\href{https://sparcnet.org/home/sparcnet-ramp/mentors-and-research-questions/}{\textcolor{blue}{Project Title}}}}}{Start Date - End Date}{}{}
-\cvlistdoubleitem{Description of Yahriel's contribution.}{Brief description of the project.}
-\cvlistdoubleitem{Description of Yahriel's contribution.}{Brief description of the project.}
-
-
-\vspace{2mm}
-\cventry{Organization}{(Research Assistant / Mentor: Dr. XXXXXXXX)}
-{6. \textit{{\href{https://sparcnet.org/home/sparcnet-ramp/mentors-and-research-questions/}{\textcolor{blue}{Project Title}}}}  }{Start Date - End Date}{}{}
-\cvlistitem{Brief description of the project and Yahriel's role in it.}
 }
 
 
