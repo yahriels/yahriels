@@ -3,11 +3,20 @@ Help Yahriel Salinas Answer The Prompt, Review The Response, Provide Feedback, M
 
 Yahriel is the MASTER User: 
 {
+https://sparcnet.org/home/sparcnet-ramp/
+https://sparcnet.org/home/sparcnet-ramp/program-overview/
+https://sparcnet.org/home/sparcnet-ramp/mentors-and-research-questions/
+https://www.nsf.gov/awardsearch/showAward?AWD_ID=2319645&HistoricalAwards=false
+https://sparcnet.org/home/sparcnet-ramp/application-information-and-guidance/
+
 Master: https://github.com/yahriels/yahriels/blob/main/Workspace/Master.txt
 README: https://github.com/yahriels/yahriels/blob/main/README.md
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Careers_Options.txt
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Lib_Dummy.txt
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/dummy.txt
 }
 
-STER SCRIPT : 
+MASTER SCRIPT : 
 {
 Block 0: README
 > Ownership: This Script was written by Yahriel Salinas-Reyes
@@ -56,251 +65,210 @@ SAMPLES:
 { 
 Read over these samples 11 times with no distractions, and comprehend everything given in these materials, documents, and links. These are related to the research project and thesis. Then Move on to the next section and task.
 
-Role: Undergraduate Researcher | Aerospace Systems & Exploratory-Applied Mathematics | Fall 2019-2023 
-Advisor 1: Dr. Martin Thuo, Associate Professor, Department of Materials Science and Engineering, ISU 
-Advisor 2: Dr. Thomas Ward III, Associate Professor, Department of Aerospace Engineering, ISU 
-“Experimental Techniques for Flow Separation Detection of Paper-based MEMS Device” (2023) - 
-keywords  
-:  
-Systems Analysis, Interfacial Phenomena, Quantum Tunnelling Composites, Design 
-• Built hardware-software components and signal processing circuit-algorithm for experiment. 
-• Manufactured MEMS nanocomposite and developed computations to model shear-viscosity. 
-• Goal:  Detect flow instabilities and simulate viscosity measurements at the thermal boundary. 
-• This research is currently in the process of writing (as first author) for peer-review (2023).  
-keywords  
-“Characterizing Damping Mechanisms in Piezoelectric Wind-Energy Harvesters” (2023) - 
-:  
-Aerodynamics Analysis, Harmonic Response, Computational Methods, Energy Storage 
-• Designed experimental set-up and measurement-calibration system of flexible piezoelectric. 
-• Collaborated on solution algorithm and shared findings on continuum mechanics of conductivity. 
-• Goal: Apply dimensional analysis on wind-tunnel experiments and define thermodynamic properties. 
-• This research has been submitted for scientific review (2023). 
-keywords  
-“Hybrid Nanocomposites: Semi-Empirical Method of Viscoelastic Behavior” (2022) - 
-:  
-Analytical Mathematics, System Modeling, Continuum Mechanics, Energy Dissipation 
-• Performed DMA experiments on samples then conducted SEM investigations on deformed regions. 
-• Applied Euler-Buckling to model deformation mechanisms in the mechanical hysteresis cycle. 
-• Goal: Develop a framework to understand hybridization and viscoelastic effects in nanocomposites. 
-• This research is still in progress (2022). 
-keywords  
-“Insights of Computational Data-Science (ML) Techniques for Scientific Methods” (2021) - 
-: 
-Data-Driven Methods, Classification-Regression, Performance Analysis, Deep Learning 
-• Conducted literature review of exploratory data-learning (ML) methods in various studies. 
-• Tested multiple ML models on scientific data and cross-evaluated the system performance. 
-• Goal: Present opportunities of utilizing ML methods to aid in data-driven scientific discovery. 
-• This research was completed (2021). 
-keywords  
-:  
-Senior Project: “Modern Design Methodology with Aerospace Application & Design of Aerospace Systems”  - 
-Aerospace Operations, Manufacturing-Development, Optimization, Implementation 
-• Applied aerospace techniques to engineer a solution to the assigned aero-industry challenge. 
-• Collaborated in cross-functional teams to implement system-optimizations for the mission objective. 
-• Goal: Produce unique UAV aircraft design and mission operation to complete the degree program. 
-• This research was complete (2023). 
-Additional Professional and Leadership Experiences  
-Design Team Lead | NASA Micro-G Neutral Buoyancy Experiment Design Teams Challenge | Fall 2021 
-• Completed and assigned weekly tasks to design, build, and test a tool or device that addresses an 
-authentic, current space exploration challenge. 
-• Completed research in current technologies, designed device components, CAD modeling, fabricating 
-device components, building a prototype, submitting a design competition proposal. 
-• Result: Our design was chosen as a finalist and put on display Houston exhibition – Inner Space: NASA’s 
-Path to the Moon and Mars! 
-IT Specialist | Iowa State University | Fall 2019-Spring 2021 
-• Held responsibilities for the implementation, monitoring, and maintenance of IT systems, etc. 
-• Solved technical problems, such as computer systems, software, hardware, networks, cloud platforms. 
-Research and Development Experience 
-Undergraduate Research Assistant | DARPA - Microscale & Interfacial Fluid Physics Lab | 08/2021-08/2023 
-Faculty mentor Dr. Thomas Ward II, Associate Professor, Department of Aerospace Engineering, ISU 
-• Research Project: “Experimental Techniques for Flow Separation Detection and Chemical Sintering” 
-• Operated as Experimental Engineer and composed an SOP for experiments and heavy machinery. 
-• Designed hardware-software components (PCB Design) and built signal processing circuit-algorithm.  
-• Manufactured MEMS nanocomposite developed computational model of various interfacial phenomenon. 
-California Institute of Technology Summer Undergraduate Research Fellow | Greer Group | 05/2022-08/2022 
-Faculty mentor Dr. Julia Greer, Assoc. Prof. of Materials Science, A. Mechanics, & Medical Sciences, Caltech 
-• Research Project: “Hybrid Nanocomposites: Semi-Empirical Method of Viscoelastic Behavior” 
-• Created nanocomposite with architectural features to achieve mechanical property enhancements. 
-• Investigated the constituent material systems individually using compressions tests on a dynamic 
-mechanical analyzer and observed deformation zones with scanning electron microscopy. 
-• Developed a semi-empirical model for the deformation mechanisms observed in post-mortem analysis of 
-samples; this enables FEA & Euler Theory to inform the viscoelastic continuum damage model.  
-McNair Scholar | Ronald E. McNair Post-Baccalaureate Achievement Program | 09/2021-05/2022 
-Faculty mentor Dr. Ashley Garrin, Director of Ronald E. McNair Program, Graduate College, ISU 
-• Research Project: “Sociological Differences in Graduate School Motivation of Minority Identities” 
-• Constructed an experimental framework, completed literature synthesis, conducted interviews of 
-program mentors, analyzed and interpreted results in a technical manner. 
-• Participated in preparation courses and experiences for doctoral studies through involvement in 
-research and other scholarly activities. 
-Undergraduate Researcher, Systems Engineer | Soft Matter Material Transport Group | 08/2019-05/2022 
-Faculty mentor Dr. Martin Thuo, Associate Professor, Department of Materials Science and Engineering, ISU 
-• Research Project: “Design of Multi-Function 3D Piezo-electric Devices for Aeronautical Applications” 
-• Explored tunability, sensitivity, utility of paper-based devices with various configurations, optimized 
-device design using engineering methods, created self-automated calibration & data capture system. 
-• Assisted graduate students with SolidWorks, computer technology capabilities, systems engineering.  
-• This research work was submitted to a scientific peer-review journal for publication(2023). 
-Research Fellow | Boeing Undergraduate Research Excellence in Engineering Internship | 08/2021-08/2022 
-Faculty mentor Dr. Thomas Ward II, Associate Professor, Department of Aerospace Engineering, ISU 
-• Research Project: “Characterizing Damping Mechanisms in Piezoelectric Wind-Energy Harvesters” 
-• Designed and fabricated green technology low-cost force sensor, explored pathways for aeronautical 
-data collection via aerospace engineering techniques, submitted monthly progress reports to Boeing. 
-• This research work was submitted to a scientific peer-review journal for publication(2023). 
-Stanford University Summer Undergraduate Research Fellow | Zheng Research Group | 05/202-08/2021 
-Faculty mentor Dr. Xiaolin Zheng, Associate Professor, Mechanical Engineering, Stanford University 
-• Research Project: “Insights of Machine-Learning(ML) Techniques for Scientific Methods & Prediction” 
-• Conducted literary analysis and literary review of ML methods, Data & Computational Science, and 
-adapted ML methods to scientific methods by developing a bottom-up regression-prediction model.  
-• Cross-validated various mathematical-kernels(SVM, Random-Forest, etc.) fitted/trained with scientific 
-datums; presented findings in optimizations of experimental design for scientific discovery. 
 
 
-Key Projects
-
-Project 1
-Organization: Dr. Martin Thuo, Associate Professor, Department of Materials Science and Engineering, ISU
-Role: Undergraduate Researcher
-Duration: Fall 2019 - Spring 2023
-Description: Conducted research on "Experimental Techniques for Flow Separation Detection of Paper-based MEMS Device". Developed hardware-software components, signal processing circuits, and algorithms for experimentation. Contributed to the manufacturing of MEMS nanocomposites and computational modeling of shear viscosity. Goal was to detect flow instabilities and simulate viscosity measurements at the thermal boundary.
-
-Keywords: Systems Analysis, Interfacial Phenomena, Quantum Tunnelling Composites, Design
-
-Project 2
-Organization: Dr. Thomas Ward III, Associate Professor, Department of Aerospace Engineering, ISU
-Role: Undergraduate Researcher
-Duration: 2023
-Description: Collaborated on "Characterizing Damping Mechanisms in Piezoelectric Wind-Energy Harvesters". Designed experimental setups and measurement-calibration systems for flexible piezoelectric materials. Contributed to solution algorithms and continuum mechanics of conductivity. Goal was to apply dimensional analysis on wind-tunnel experiments and define thermodynamic properties.
-
-Keywords: Aerodynamics Analysis, Harmonic Response, Computational Methods, Energy Storage
-
-Project 3
-Organization: Dr. Julia Greer, Associate Professor of Materials Science, A. Mechanics, & Medical Sciences, Caltech
-Role: Summer Undergraduate Research Fellow
-Duration: May 2022 - August 2022
-Description: Investigated "Hybrid Nanocomposites: Semi-Empirical Method of Viscoelastic Behavior". Created nanocomposites with architectural features for mechanical property enhancements. Developed a semi-empirical model for deformation mechanisms and viscoelastic behavior.
-
-Keywords: Analytical Mathematics, System Modeling, Continuum Mechanics, Energy Dissipation
- Projects
-
-Project 1
-Organization: Prof. XXXXXXXX
-Role: Undergraduate Research Assistant
-Duration: January 2021 - May 2021
-Description: Conducted literary analysis and review of machine learning methods in scientific research. Developed regression-prediction models using machine learning techniques. Presented findings on optimizing experimental design for scientific discovery.
-
-Project 2
-Organization: Prof. XXXXXXXX
-Role: Undergraduate Research Assistant
-Duration: January 2021 - May 2021
-Description: Conducted literary analysis and review of machine learning methods in scientific research. Developed regression-prediction models using machine learning techniques. Presented findings on optimizing experimental design for scientific discovery.
-
-Project 3
-Organization: Prof. XXXXXXXX
-Role: Undergraduate Research Assistant
-Duration: January 2021 - May 2021
-Description: Conducted literary analysis and review of machine learning methods in scientific research. Developed regression-prediction models using machine learning techniques. Presented findings on optimizing experimental design for scientific discovery.
-
-Key Projects
-
-1. Flow Separation Detection in Paper-based MEMS Device
-Organization: Iowa State University of Science & Technology
-Role: Undergraduate Researcher | Aerospace Systems & Exploratory-Applied Mathematics | Fall 2019-2023
-Advisors: Dr. Martin Thuo, Dr. Thomas Ward III
-Duration: Fall 2019 - 2023
-Keywords: Systems Analysis, Interfacial Phenomena, Quantum Tunnelling Composites, Design
-
-Developed hardware-software components and signal processing circuits for detecting flow instabilities in paper-based MEMS devices.
-Conducted experiments to manufacture MEMS nanocomposites and modeled shear viscosity.
-Aimed to simulate viscosity measurements at the thermal boundary for potential applications in aerospace.
-2. Characterizing Damping Mechanisms in Piezoelectric Wind-Energy Harvesters
-Organization: Boeing
-Role: Aerospace Research Fellow
-Duration: August 2021 - August 2022
-Keywords: Aerodynamics Analysis, Harmonic Response, Computational Methods, Energy Storage
-
-Designed experimental setups and measurement-calibration systems for piezoelectric wind-energy harvesters.
-Collaborated on solution algorithms and continuum mechanics of conductivity to optimize wind-tunnel experiments.
-Objective was to define thermodynamic properties for enhancing wind-energy harvesting efficiency.
-3. Hybrid Nanocomposites: Semi-Empirical Method of Viscoelastic Behavior
-Organization: California Institute of Technology
-Role: Summer Undergraduate Research Fellow
-Duration: May 2022 - August 2022
-Keywords: Analytical Mathematics, System Modeling, Continuum Mechanics, Energy Dissipation
-
-Created nanocomposites with architectural features to enhance mechanical properties.
-Investigated deformation mechanisms using dynamic mechanical analysis and scanning electron microscopy.
-Developed a semi-empirical model to understand viscoelastic effects in hybrid nanocomposites.
-Course Projects
-
-1. Modern Design Methodology with Aerospace Application & Design of Aerospace Systems
-Organization: Iowa State University of Science & Technology
-Role: Undergraduate Researcher, Systems Engineer
-Duration: August 2019 - May 2023
-Keywords: Aerospace Operations, Manufacturing-Development, Optimization, Implementation
-
-Applied aerospace techniques to engineer unique UAV aircraft designs.
-Collaborated in cross-functional teams to optimize mission objectives.
-Produced solutions for real-world aero-industry challenges.
-2. Insights of Computational Data-Science Techniques for Scientific Methods
-Organization: Stanford University
-Role: Summer Undergraduate Research Fellow
-Duration: May 2021 - August 2021
-Keywords: Data-Driven Methods, Classification-Regression, Performance Analysis, Deep Learning
-
-Conducted a literature review on the application of machine learning in scientific methods.
-Developed regression-prediction models using machine learning techniques.
-Explored opportunities for utilizing ML methods in scientific discovery.
+Research Presentations and Scientific Thematic Talks 
+1. Y. Salinas-Reyes, H. Seabold, A. Martin, M. Thuo (2020, April). Exploring the Piezoresistive Effect and 
+Paper-based MEMS Sensors. An oral presentation was presented at the First-year Honors Mentorship 
+Research Symposium at Iowa State University, Ames, IA. 
+2. Y. Salinas-Reyes, A. Martin, M. Thuo (2020, August). Integration of paper-based MEMS sensors into 
+computer technology. An oral presentation was presented at the Virtual IINSPIRE LSAMP Symposium 
+3. Y. Salinas-Reyes, A. Martin, M. Thuo (2020, October). Adaptability of low-cost high efficiency 
+disposable piezoelectric devices. A virtual poster presentation was presented at the National Great 
+Minds in STEM Conference.  
+4. Y. Salinas-Reyes, A. Martin, M. Thuo (2021, April). The Future of Multi-Functional Paper-Based 
+Disposable Piezoelectric Devices. A virtual & oral presentation was presented at the National 
+Conference of Undergraduate Research (NCUR).  
+5. Y. Salinas-Reyes, X. Zheng (2021, August). Predicting Olympic Triathlon Results via Machine Learning. 
+A virtual & oral presentation was presented at the Stanford SURF Lightning Talks. 
+6. Y. Salinas-Reyes, Julia R. Greer (2022, August). Energy Absorption in Nano-Architected Hybrid 
+Composites. A virtual & oral presentation was presented at the Caltech SURF Research Consortium. 
+7. Y. Salinas-Reyes, Ivaldi Co. (2022, May). Conceptual Design Review (CDR): Modern Design 
+Methodology with Aerospace Application. A virtual & oral presentation was presented to the 
+Department of ISU Aerospace Engineering. 
+8. Y. Salinas-Reyes, T. Ward III (2022, May). Shear-Sensing Principals of Interfacial Viscous-Shear Flow 
+and Piezomobility—strain-induced mobility—at The Wall (Thermal Boundary). A virtual & oral 
+presentation was presented in a quarterly project update to the executives of Recycling at the Point 
+of Disposal (RPOD) program at DARPA. 
+9. Y. Salinas-Reyes, T. Ward III (2023, July). Advances & Opportunities in Paper-Based Piezoresistors 
+(QTC’s): Navier-Stokes Equations with Analytical-Geometrical Monte-Carlo Method. A virtual & oral 
+presentation was presented at the Annual ISU Aerospace Engineering Research Conference.  
+10. Y. Salinas-Reyes, T. Ward III (2023, August). Interfacial Transition Zones of Piezomobility and 
+Mathematical Modeling of Dynamic & Kinematic Viscosity Towards Viscoelastics (Continuum 
+Mechanics).  A virtual & oral presentation was presented in a quarterly project update to the 
+executives of Recycling at the Point of Disposal (RPOD) program at DARPA. 
+11. Y. Salinas-Reyes, Ivaldi Co. (2023, September). Executive and Granter Design Sign-Off: Design of 
+Aerospace Systems (i.e., sUAS). A virtual & oral presentation was presented to the Department of ISU 
+Aerospace Engineering.
 
 
-\section{Key Experiences}
 
-\cventry{The Microscale \& Interfacial Fluid Physics Laboratory}{Experimental Systems \& Automation Engineer}{Aug 2021 - Dec 2023}{}{}{%
-\cvlistitem{Designed and implemented hardware-software components for experiments in fluid dynamics.}
-\cvlistitem{Developed signal processing circuit-algorithms for data analysis and interpretation.}
-\cvlistitem{Contributed to the manufacturing and computational modeling of MEMS nanocomposites.}
-}
+\vspace{-1.2em}
+\section{Education}
 
-\cventry{Boeing: Wind Energy \& Development}{Aerospace Research Fellow}{Aug 2021 - Aug 2022}{}{}{%
-\cvlistitem{Designed and fabricated low-cost force sensors for data collection in wind energy systems.}
-\cvlistitem{Explored pathways for aeronautical data collection using aerospace engineering techniques.}
-\cvlistitem{Submitted progress reports on research findings and advancements to Boeing.}
-}
+\cventry{2023}{Bachelor of Aerospace Engineering}{Iowa State University of Science \& Technology}{Ames}{\textit{GPA: 3.3}}{Specialized in Micro-electro-mechanical Systems (MEMS) and Soft Matter Physics}
 
-\cventry{Stanford University: Xiaolin Zheng Z-Energy Group}{Undergraduate Research Assistant}{May 2021 - Aug 2021}{}{}{%
-\cvlistitem{Conducted literary analysis and review of machine learning methods in scientific research.}
-\cvlistitem{Developed regression-prediction models using machine learning techniques.}
-\cvlistitem{Presented findings on optimizing experimental design for scientific discovery.}
-}
+\vspace{-1.2em}
+\section{Work Experience}
 
-\cventry{Iowa State University of Sciences & Technology}{Information Technology Specialist \& Data Scientist}{Aug 2019 - May 2023}{}{}{%
-\cvlistitem{Implemented, monitored, and maintained IT systems for the university.}
-\cvlistitem{Solved technical problems related to computer systems, software, hardware, and networks.}
-}
+\cventry{01/2024- Present}{Scientist I \& Data Engineer}{\textsc{Bayer Crop Science: Regulatory Group }}{Monsanto, MO}{}{}
 
+\cvlistitem{Engage in cutting-edge research and data engineering tasks within Bayer Crop Science's Regulatory Group, contributing to the advancement of agricultural science and technology.}
+
+\cventry{05/2022- 12/2023}{Research Assistant \& Lab Technician}{\textsc{DARPA: Recovering Rare-Earth Elements from E-Waste}}{Ames, IA}{}{}
+
+\cvlistitem{Executed pivotal roles in DARPA's mission to recover rare-earth elements from electronic waste, employing innovative research techniques and laboratory methodologies to address critical environmental and technological challenges.}
+
+\cventry{08/2021- 12/2023}{Experimental Systems \& Automation Engineer}{\textsc{The Microscale \& Interfacial Fluid Physics Laboratory}}{Ames, IA}{}{}
+
+\cvlistitem{Demonstrated expertise in experimental systems and automation engineering at the Microscale \& Interfacial Fluid Physics Laboratory, contributing to groundbreaking research in fluid dynamics and interfacial phenomena.}
+
+\cventry{08/2019- 05/2022}{Undergraduate Researcher \& Systems Engineer}{\textsc{The Soft Matter Material Transport Group}}{Ames, IA}{}{}
+
+\cvlistitem{Played a key role in the Soft Matter Material Transport Group's research initiatives, focusing on the design and optimization of multi-functional piezoelectric devices for aeronautical applications, showcasing skills in systems engineering and materials science.}
+
+\cventry{05/2021- 08/2021}{Undergraduate Research Assistant}{\textsc{Caltech The Kavli Nanoscience Institute: The Julia R. Greer Group}}{Pasadena, CA}{}{}
+
+\cvlistitem{Contributed to research efforts at Caltech's Kavli Nanoscience Institute, collaborating with the Julia R. Greer Group on the development of hybrid nanocomposites and the investigation of viscoelastic behavior, highlighting capabilities in nanomaterials synthesis and characterization.}
+
+\cventry{08/2021- 08/2022}{Boeing Aerospace Research Fellow}{\textsc{Boeing: Wind Energy \& Development }}{Ames, IA}{}{}
+
+\cvlistitem{Served as a Boeing Aerospace Research Fellow, spearheading projects in wind energy research and development, with a focus on characterizing damping mechanisms in piezoelectric wind-energy harvesters, demonstrating expertise in aerospace engineering and renewable energy technologies.}
+
+\cventry{05/2021- 08/2021}{Undergraduate Research Assistant}{\textsc{Stanford University: Xiaolin Zheng Z-Energy Group}}{Stanford, CA}{}{}
+
+\cvlistitem{Engaged in research endeavors at Stanford University's Z-Energy Group, investigating the application of machine learning techniques in scientific methodologies and prediction, showcasing proficiency in data-driven research and computational modeling.}
+
+\cventry{08/2019- 05/2023}{Information Technology Specialist \& Data Scientist}{\textsc{Iowa State University of Science \& Technology}}{Ames, IA}{}{}
+
+\cvlistitem{Provided technical expertise as an Information Technology Specialist and Data Scientist at Iowa State University of Science \& Technology, contributing to the implementation, monitoring, and maintenance of IT systems while leveraging data science techniques for analysis and decision-making.}
+
+
+
+
+
+% Paste the rest of the document here...
+
+
+\vspace{-1em}
+\section{Fellowship Awards}
+\begin{cvcolumns}
+    \cvcolumn[0.35]{~~~~~~~~~~~~~~~~Program}
+    {
+        \cvcolumncell {~\textit{ {\href{https://somelinks}{\textcolor{blue}{Ph.D. GEM Fellowship*}}}} (Sci.\&Eng.)}
+        \cvcolumncell {*Current} 
+        \cvcolumncell {~\textit{ {\href{https://somelinks}{\textcolor{blue}{P.B.C.}}}} (McNair Scholars)}
+        \cvcolumncell {}     
+        \cvcolumncell {~\textit{ {\href{https://somelinks}{\textcolor{blue}{P.B.C.}}}} (Research Certificate)}
+        \cvcolumncell {}
+        \cvcolumncell {~\textit{ {\href{https://somelinks}{\textcolor{blue}{Cert.}}}}(Order of The Engineer)}
+        \cvcolumncell {}
+    }
+    \cvcolumn[0.38]{~~~~~~~~~~~~~Institution/Board}
+    {
+        \cvcolumncell{~The National GEM Consortium*}
+        \cvcolumncell{\textit{~~~~~~~~~~~~~~~~~~~~~~~~~~~}}
+        \cvcolumncell{~Ronald E. McNair Postbaccalaureate Achievement Program}
+        \cvcolumncell{\textit{~~~~~~~~~~~~~~~~~~~~~~~}}
+        \cvcolumncell{~Louis Stokes Alliances for Minority Participation (LSAMP)}
+        \cvcolumncell{\textit{~~~~~~~~~~~~~~~~~~~~~~~~}}
+        \cvcolumncell{~Engineering Accreditation Commission of ABET}
+        \cvcolumncell{\textit{~~~~~~~~~~~~~~~~~~~~~~~~}}
+    }
+    
+
+      
+    \cvcolumn{~~~~~~~~~~~~Year}
+    {
+        \cvcolumncell{~~~~~~~~~~2024-2029*}
+        \cvcolumncell{}
+        \cvcolumncell{~~~~~~~~~~2021-2023}
+        \cvcolumncell{}
+        \cvcolumncell{~~~~~~~~~~2019-2021}
+        \cvcolumncell{}
+        \cvcolumncell{~~~~~~~~~~2023}
+    }
+\end{cvcolumns}
+\vspace{-2em}
 \section{Key Projects}
-
-\cventry{The Microscale \& Interfacial Fluid Physics Laboratory}{Experimental Techniques for Flow Separation Detection}{Aug 2021 - Dec 2023}{}{}{%
-\cvlistitem{Built hardware-software components and signal processing circuit-algorithms for experiments.}
-\cvlistitem{Manufactured MEMS nanocomposites and developed computations to model shear viscosity.}
-\cvlistitem{Goal: Detect flow instabilities and simulate viscosity measurements at the thermal boundary.}
+\cventry{Iowa State University of Science \& Technology}{B.Tech / (Prof: Dr. Martin Thuo, Dr. Thomas Ward}
+{1. \textit{\href{https://somelinks}{\textcolor{blue}{Experimental Techniques: Flow Separation \& Chemical Sintering}}}}
+{August 2019 - August 2023}
+{}{}
+\cvlistitem{
+  Developed hardware-software components and signal processing circuits for detecting flow instabilities in paper-based MEMS devices.
 }
-
-\cventry{Boeing: Wind Energy \& Development}{Characterizing Damping Mechanisms in Piezoelectric Wind-Energy Harvesters}{Aug 2021 - Aug 2022}{}{}{%
-\cvlistitem{Designed experimental setups and measurement-calibration systems for flexible piezoelectric materials.}
-\cvlistitem{Collaborated on solution algorithms and shared findings on continuum mechanics of conductivity.}
-\cvlistitem{Goal: Apply dimensional analysis on wind-tunnel experiments and define thermodynamic properties.}
+\cvlistitem{
+  Conducted experiments to manufacture MEMS nanocomposites and modeled shear viscosity.
 }
-
-\cventry{Stanford University: Xiaolin Zheng Z-Energy Group}{Insights of Machine-Learning Techniques for Scientific Methods & Prediction}{May 2021 - Aug 2021}{}{}{%
-\cvlistitem{Conducted literary analysis and review of machine learning methods in scientific research.}
-\cvlistitem{Developed regression-prediction models using machine learning techniques.}
-\cvlistitem{Presented findings on optimizing experimental design for scientific discovery.}
+\cvlistitem{
+  Aimed to simulate viscosity measurements at the thermal boundary for potential applications in aerospace.
 }
+\cvlistitem{\textit{Keywords: Systems Analysis, Interfacial Phenomena, Quantum Tunnelling Composites, Navier Stokes Equations}}
 
-\cventry{Iowa State University of Sciences \& Technology}{Modern Design Methodology with Aerospace Application & Design of Aerospace Systems}{Aug 2019 - May 2023}{}{}{%
-\cvlistitem{Applied aerospace techniques to engineer solutions to aero-industry challenges.}
-\cvlistitem{Collaborated in cross-functional teams to implement system optimizations for mission objectives.}
-\cvlistitem{Goal: Produce unique UAV aircraft design and mission operation to complete the degree program.}
+\vspace{2mm}
+\cventry{Boeing Aerospace}{Research Fellow / Mentor -(Prof: Dr. Thomas Ward Dept. of Aerospace Engineering, ISU)}
+{2. \textit{\href{https://somelinks}{\textcolor{blue}{Damping Mechanisms in Piezoelectric Wind-Energy Harvesters}}}}
+{August 2021 - August 2022}
+{}{}
+\cvlistitem{
+  Designed experimental setups and measurement-calibration systems for piezoelectric wind-energy harvesters.
 }
+\cvlistitem{
+  Collaborated on solution algorithms and continuum mechanics of conductivity to optimize wind-tunnel experiments.
+}
+\cvlistitem{
+  Objective was to define thermodynamic properties for enhancing wind-energy harvesting efficiency.
+}
+\cvlistitem{\textit{Keywords: Aerodynamics Analysis, Harmonic Response, Computational Methods, Energy Storage, Soft Matter Physics}}
+
+\vspace{2mm}
+\cventry{Caltech, Kavli Nanoscience Institute}{Prof: Dr. Julia R. Greer of Materials Science, A. Mechanics, \& Medical Sciences}
+{3. \textit{\href{https://someLinks}{\textcolor{blue}{Energy Absoption in Nano-Architected Hybrid Composites}}}}
+{May 2022 - August 2022}
+{}{}
+\cvlistitem{
+  Created nanocomposites with architectural features to enhance mechanical properties.
+}
+\cvlistitem{
+  Investigated deformation mechanisms using dynamic mechanical analysis and scanning electron microscopy.
+}
+\cvlistitem{
+  Developed a semi-empirical model to understand viscoelastic effects in hybrid nanocomposites.
+}
+\cvlistitem{\textit{Keywords: Nanoscience, Applied Mathematics, System Modeling, Continuum Mechanics, Energy Dissipation}}
+
+
+\vspace{2mm}
+\cventry{NSF-LSAMP}{Prof: Dr. Martin Thuo Dept. of Materials Science and Engineering, ISU }
+{4. \textit{\href{https://someLinks}{\textcolor{blue}{Meta-stable Particles: Phase-change Materials and their Applications}}}}
+{August 2019 - May 2022}
+{}{}
+\cvlistitem{
+  Conducted research on meta-stable particles and their applications in phase-change materials.
+}
+\cvlistitem{
+  Collaborated on developing novel materials with unique properties for various industrial applications.
+}
+\cvlistitem{
+  Investigated the behavior of phase-change materials under different conditions for practical utilization
+}
+\cvlistitem{\textit{Keywords: Materials Science, Chemical Synthesis, Solid-State Physics, Advanced Materials, Applications}}
+
+
+
+
+\vspace{-1em}
+\section{Industrial Training}
+\cventry{}{(B.Tech / Intern / Mentor: Dr. Thomas Ward) }
+{1. \textit{{\href{https://someLinks}{\textcolor{blue}{Boeing Undergraduate Research Excellence in Engineering Internship}}}}   }{Dec 2020 - Dec 2021}{}{}
+\cvlistitem{Engaged in an intensive internship program at Boeing, gaining hands-on experience focused on wind energy harvesting, green technologies, \& enhancing engineering excellence in aerospace applications. Collaborated with industry professionals on cutting-edge projects aimed at advancing aerospace technology and innovation.   }
+
+
+\vspace{2mm}
+\cventry{}{(B.Tech / Design Team Lead / Mentor: Dr. Tomas Gonzalez-Torres)}
+{2.  \textit{{\href{https://someLinks}{\textcolor{blue}{NASA Micro-G Neutral Buoyancy Experiment Design Teams Challenge}}}}}{Oct 2021-Nov 2022}{}{}
+\cvlistitem{Took part in a challenging design competition organized by NASA, focusing on developing innovative solutions for space exploration challenges. Worked in a multidisciplinary team environment to design, build, and test a prototype device, gaining valuable practical experience in problem-solving and teamwork}   
 
 
 }
@@ -308,100 +276,15 @@ Explored opportunities for utilizing ML methods in scientific discovery.
 Purpose: To Help Yahriel Fill The Prompt
 { 
 
+Fill In The Template With Relevant Information and Produce A Response For each part.
 
+Frame your response to this audience and as the reviewer:
+https://sparcnet.org/home/sparcnet-ramp/
+https://sparcnet.org/home/sparcnet-ramp/program-overview/
+https://sparcnet.org/home/sparcnet-ramp/mentors-and-research-questions/
+https://www.nsf.gov/awardsearch/showAward?AWD_ID=2319645&HistoricalAwards=false
+https://sparcnet.org/home/sparcnet-ramp/application-information-and-guidance/
 
-\vspace{-2em}
-\section{Key Projects}
-\cventry{Organization}{Role: / Guide: Prof. XXXX)}
-{1. \textit{{\href{https://somelinks}{\textcolor{blue}{~Project 1}}}} }{Month 20xx - Month 20xx}{}{}
-\cvlistitem{.}}
-\cvlistitem{\textit{Keywords: }}
-%\cvlistitem{Language(used): Python}
-%\cvlistitem{Tools/Libraries (used): }
-
-\vspace{2mm}
-\cventry{Organization}{(Role: / Guide: Mrs. XXXX)}
-{2. \textit{{\href{https://somelinks}{\textcolor{blue}{~Project 2}}} }}{Month 20xx - Month 20xx}{}{}
-\cvlistitem{ }
-\cvlistitem{\textit{Keywords: L}}
-%\cvlistitem{Language: }
-%\cvlistitem{Tools: }
-
-\vspace{2mm}
-\cventry{Organization}{(Role: / Guide:  Prof XXXX)}
-{3. \textit{{\href{https://someLinks}{\textcolor{blue}{~Project 3}}} }}{Month 20xx-Month 20xx}{}{}
-\cvlistitem{ }
-\cvlistitem{\textit{Keywords: }}
-
-
-\vspace{-2em}
-\section{Key Projects}
-\cventry{Orgnization}{(Role: / Guide: Prof. XXXX)}
-{1. \textit{{\href{https://somelinks}{\textcolor{blue}{~Project 1}}}} }{Aug 20xx - April 20xx}{}{}
-\cvlistitem{{y.}}
-\cvlistitem{\textit{Keywords: CNN, DR, Kaggle, GPU, Python, Anaconda, Keras, Confusion Matrix}}
-%\cvlistitem{Language(used): Python}
-%\cvlistitem{Tools/Libraries }
-
-\vspace{2mm}
-\cventry{Organization}{(Role:  / Guide: Mrs. XXXX)}
-{2. \textit{{\href{https://somelinks}{\textcolor{blue}{~Project 2}}} }}{Jan-May 20xx}{}{}
-\cvlistitem{D \textbf{web portal} .}
-\cvlistitem{\textit{Keywords: }}
-%\cvlistitem{Language: }
-%\cvlistitem{Tools: }
-
-\vspace{2mm}
-\cventry{Organization}{(Role:  / Guide: Asst. Prof XXXX)}
-{3. \textit{{\href{https://someLinks}{\textcolor{blue}{~Project 2}}} }}{Jan-May 20xx}{}{}
-\cvlistitem{. }
-\cvlistitem{\textit{Keywords: }}
-
-%\cvlistitem{Language: VB}
-%\cvlistitem{Tools: Visual Basic }
-
-\vspace{-1em}
-\section{Scholarly Projects}
-\cventry{Organization}{(Role / Faculty: Prof. XXXXXXXX)}
-{1. \textit{{\href{https://someLinks}{\textcolor{blue}{Project 1}}}}
-}{Jan-May 2019}{}{}
-\cvlistitem{}
-
-
-\vspace{2mm}
-\cventry{Organization}{(Role / Faculty: Prof. XXXXXXXX)}
-{2. \textit{{\href{https://someLinks}{\textcolor{blue}{Project 2}}}} }{Jan-May 2019}{}{}
-\cvlistitem{ }
-
-
-\vspace{2mm}
-\cventry{Organization}{(Role / Faculty: Prof. XXXXXXXX)}
-{3. \textit{{\href{https://someLinks}{\textcolor{blue}{Project 3}}}}  }{Jan-May 20xx}{}{}
-\cvlistitem{ }
-
-
-
-\cventry{Organization}{(Role:  / Faculty: Dr. XXXXXXX) }
-{4. \textit{{\href{https://someLinks}{\textcolor{blue}{Project 4}}}}  }{Jan-May 20xx}{}{}
-\cvlistitem{.}
-%\cvlistitem{Language: C}
-%\cvlistitem{Tools: Code-Blocks}
-
-
-\vspace{2mm}
-\cventry{Organization}{(Role / Faculty: Prof. XXXXXXXX)}
-{4. \textit{{\href{https://someLinks}{\textcolor{blue}{Project 5}}}} (Domain - Mobile)   }{Jan-May 2018}{}{}
-\cvlistdoubleitem{.}{Used multiple \textbf{Web API's} to create a \textbf{Mash-up}.}
-\cvlistdoubleitem{Used \textbf{s} t \textbf{p}.}{\textbf{Ontology creation}  }
-%\cvlistitem{Skills: }
-%\cvlistitem{Tools: }
-
-\vspace{2mm}
-\cventry{Organization}{(Role / Faculty: Prof. XXXXX)}
-{5. \textit{{\href{https://someLinks}{\textcolor{blue}{Project 6}}}}  }{Aug-Dec 2017}{}{}
-\cvlistitem{ \textbf{g} and \textbf{} }
-%\cvlistitem{Skills: }
-%\cvlistitem{Tools: }
 
 
 
@@ -410,108 +293,104 @@ Purpose: To Help Yahriel Fill The Prompt
 [Template] Yahriel's Response:
 {
 
-
-
-\vspace{-2em}
-\section{Key Projects}
-\cventry{Organization}{Role: / Guide: Prof. XXXX)}
-{1. \textit{{\href{https://somelinks}{\textcolor{blue}{~Project 1}}}} }{Month 20xx - Month 20xx}{}{}
-\cvlistitem{.}}
-\cvlistitem{\textit{Keywords: }}
-%\cvlistitem{Language(used): Python}
-%\cvlistitem{Tools/Libraries (used): }
-
-\vspace{2mm}
-\cventry{Organization}{(Role: / Guide: Mrs. XXXX)}
-{2. \textit{{\href{https://somelinks}{\textcolor{blue}{~Project 2}}} }}{Month 20xx - Month 20xx}{}{}
-\cvlistitem{ }
-\cvlistitem{\textit{Keywords: L}}
-%\cvlistitem{Language: }
-%\cvlistitem{Tools: }
-
-\vspace{2mm}
-\cventry{Organization}{(Role: / Guide:  Prof XXXX)}
-{3. \textit{{\href{https://someLinks}{\textcolor{blue}{~Project 3}}} }}{Month 20xx-Month 20xx}{}{}
-\cvlistitem{ }
-\cvlistitem{\textit{Keywords: }}
-
-
-\vspace{-2em}
-\section{Key Projects}
-\cventry{Orgnization}{(Role: / Guide: Prof. XXXX)}
-{1. \textit{{\href{https://somelinks}{\textcolor{blue}{~Project 1}}}} }{Aug 20xx - April 20xx}{}{}
-\cvlistitem{{y.}}
-\cvlistitem{\textit{Keywords: CNN, DR, Kaggle, GPU, Python, Anaconda, Keras, Confusion Matrix}}
-%\cvlistitem{Language(used): Python}
-%\cvlistitem{Tools/Libraries }
-
-\vspace{2mm}
-\cventry{Organization}{(Role:  / Guide: Mrs. XXXX)}
-{2. \textit{{\href{https://somelinks}{\textcolor{blue}{~Project 2}}} }}{Jan-May 20xx}{}{}
-\cvlistitem{D \textbf{web portal} .}
-\cvlistitem{\textit{Keywords: }}
-%\cvlistitem{Language: }
-%\cvlistitem{Tools: }
-
-\vspace{2mm}
-\cventry{Organization}{(Role:  / Guide: Asst. Prof XXXX)}
-{3. \textit{{\href{https://someLinks}{\textcolor{blue}{~Project 2}}} }}{Jan-May 20xx}{}{}
-\cvlistitem{. }
-\cvlistitem{\textit{Keywords: }}
-
-%\cvlistitem{Language: VB}
-%\cvlistitem{Tools: Visual Basic }
+Tailor your answers to draw connections between Yahriel's Background and this sparcnet https://sparcnet.org/home/sparcnet-ramp/
+https://sparcnet.org/home/sparcnet-ramp/program-overview/
+https://sparcnet.org/home/sparcnet-ramp/mentors-and-research-questions/
+https://www.nsf.gov/awardsearch/showAward?AWD_ID=2319645&HistoricalAwards=false
+https://sparcnet.org/home/sparcnet-ramp/application-information-and-guidance/
 
 \vspace{-1em}
-\section{Scholarly Projects}
-\cventry{Organization}{(Role / Faculty: Prof. XXXXXXXX)}
-{1. \textit{{\href{https://someLinks}{\textcolor{blue}{Project 1}}}}
-}{Jan-May 2019}{}{}
-\cvlistitem{}
+\section{RelevantResearch Projects and Experience}
+\cventry{Organization}{(Research Assistant / Mentor: Dr. XXXXXXXX)}
+{1. \textit{{\href{https://sparcnet.org/home/sparcnet-ramp/mentors-and-research-questions/}{\textcolor{blue}{Project Title}}}}
+}{Start Date - End Date}{}{}
+\cvlistitem{Brief description of the project and Yahriel's role in it.}
 
 
 \vspace{2mm}
-\cventry{Organization}{(Role / Faculty: Prof. XXXXXXXX)}
-{2. \textit{{\href{https://someLinks}{\textcolor{blue}{Project 2}}}} }{Jan-May 2019}{}{}
-\cvlistitem{ }
+\cventry{Organization}{(Research Assistant / Mentor: Dr. XXXXXXXX)}
+{2. \textit{{\href{https://sparcnet.org/home/sparcnet-ramp/mentors-and-research-questions/}{\textcolor{blue}{Project Title}}}} }{Start Date - End Date}{}{}
+\cvlistitem{ Brief description of the project and Yahriel's role in it.}
 
 
 \vspace{2mm}
-\cventry{Organization}{(Role / Faculty: Prof. XXXXXXXX)}
-{3. \textit{{\href{https://someLinks}{\textcolor{blue}{Project 3}}}}  }{Jan-May 20xx}{}{}
-\cvlistitem{ }
+\cventry{Organization}{(Research Assistant / Mentor: Dr. XXXXXXXX)}
+{3. \textit{{\href{https://sparcnet.org/home/sparcnet-ramp/mentors-and-research-questions/}{\textcolor{blue}{Project Title}}}}  }{Start Date - End Date}{}{}
+\cvlistitem{ Brief description of the project and Yahriel's role in it.}
 
 
 
-\cventry{Organization}{(Role:  / Faculty: Dr. XXXXXXX) }
-{4. \textit{{\href{https://someLinks}{\textcolor{blue}{Project 4}}}}  }{Jan-May 20xx}{}{}
-\cvlistitem{.}
-%\cvlistitem{Language: C}
-%\cvlistitem{Tools: Code-Blocks}
+\cventry{NSF Award No. 1757393}{(Research Assistant / Mentor: Dr. Thomas Ward) }
+{4. \textit{{\href{https://www.nsf.gov/awardsearch/showAward?AWD_ID=2319645&HistoricalAwards=false}{\textcolor{blue}{REU Site: (LAUNCH-UAS)}}}}  }{Start Date - End Date}{}{}
+\cvlistitem{REU Site: Launching Aerospace's Underrepresented Students into the Next Chapter - Unmanned Aerial Systems (LAUNCH-UAS) Brief description of the project and Yahriel's role in it.}
 
 
 \vspace{2mm}
-\cventry{Organization}{(Role / Faculty: Prof. XXXXXXXX)}
-{4. \textit{{\href{https://someLinks}{\textcolor{blue}{Project 5}}}} (Domain - Mobile)   }{Jan-May 2018}{}{}
-\cvlistdoubleitem{.}{Used multiple \textbf{Web API's} to create a \textbf{Mash-up}.}
-\cvlistdoubleitem{Used \textbf{s} t \textbf{p}.}{\textbf{Ontology creation}  }
-%\cvlistitem{Skills: }
-%\cvlistitem{Tools: }
+\cventry{Organization}{(Research Assistant / Mentor: Dr. XXXXXXXX)}
+{5. \textit{{\href{https://sparcnet.org/home/sparcnet-ramp/mentors-and-research-questions/}{\textcolor{blue}{Project Title}}}}}{Start Date - End Date}{}{}
+\cvlistdoubleitem{Description of Yahriel's contribution.}{Brief description of the project.}
+\cvlistdoubleitem{Description of Yahriel's contribution.}{Brief description of the project.}
+
 
 \vspace{2mm}
-\cventry{Organization}{(Role / Faculty: Prof. XXXXX)}
-{5. \textit{{\href{https://someLinks}{\textcolor{blue}{Project 6}}}}  }{Aug-Dec 2017}{}{}
-\cvlistitem{ \textbf{g} and \textbf{} }
-%\cvlistitem{Skills: }
-%\cvlistitem{Tools: }
+\cventry{Organization}{(Research Assistant / Mentor: Dr. XXXXXXXX)}
+{6. \textit{{\href{https://sparcnet.org/home/sparcnet-ramp/mentors-and-research-questions/}{\textcolor{blue}{Project Title}}}}  }{Start Date - End Date}{}{}
+\cvlistitem{Brief description of the project and Yahriel's role in it.}
+
+
+
 
 }
 
 
 Prompt: Rewrite and Enhance Yahriel's Response
 {
+Rewrite and Update This While Keeping The Formatting Exactly The Same as The Template. 
 
- 
+https://sparcnet.org/home/sparcnet-ramp/
+https://sparcnet.org/home/sparcnet-ramp/program-overview/
+https://sparcnet.org/home/sparcnet-ramp/mentors-and-research-questions/
+https://www.nsf.gov/awardsearch/showAward?AWD_ID=2319645&HistoricalAwards=false
+https://sparcnet.org/home/sparcnet-ramp/application-information-and-guidance/
+
+
+\vspace{-1em}
+\section{Relevant Research Projects and Experience}
+\cventry{Organization}{(Research Assistant / Mentor: Dr. XXXXXXXX)}
+{1. \textit{{\href{https://sparcnet.org/home/sparcnet-ramp/mentors-and-research-questions/}{\textcolor{blue}{Project Title}}}}
+}{Start Date - End Date}{}{}
+\cvlistitem{Brief description of the project and Yahriel's role in it.}
+
+
+\vspace{2mm}
+\cventry{Organization}{(Research Assistant / Mentor: Dr. XXXXXXXX)}
+{2. \textit{{\href{https://sparcnet.org/home/sparcnet-ramp/mentors-and-research-questions/}{\textcolor{blue}{Project Title}}}} }{Start Date - End Date}{}{}
+\cvlistitem{ Brief description of the project and Yahriel's role in it.}
+
+
+\vspace{2mm}
+\cventry{Organization}{(Research Assistant / Mentor: Dr. XXXXXXXX)}
+{3. \textit{{\href{https://sparcnet.org/home/sparcnet-ramp/mentors-and-research-questions/}{\textcolor{blue}{Project Title}}}}  }{Start Date - End Date}{}{}
+\cvlistitem{ Brief description of the project and Yahriel's role in it.}
+
+
+
+\cventry{NSF Award No. 1757393}{(Research Assistant / Mentor: Dr. Thomas Ward) }
+{4. \textit{{\href{https://www.nsf.gov/awardsearch/showAward?AWD_ID=2319645&HistoricalAwards=false}{\textcolor{blue}{REU Site: (LAUNCH-UAS)}}}}  }{Start Date - End Date}{}{}
+\cvlistitem{REU Site: Launching Aerospace's Underrepresented Students into the Next Chapter - Unmanned Aerial Systems (LAUNCH-UAS) Brief description of the project and Yahriel's role in it.}
+
+
+\vspace{2mm}
+\cventry{Organization}{(Research Assistant / Mentor: Dr. XXXXXXXX)}
+{5. \textit{{\href{https://sparcnet.org/home/sparcnet-ramp/mentors-and-research-questions/}{\textcolor{blue}{Project Title}}}}}{Start Date - End Date}{}{}
+\cvlistdoubleitem{Description of Yahriel's contribution.}{Brief description of the project.}
+\cvlistdoubleitem{Description of Yahriel's contribution.}{Brief description of the project.}
+
+
+\vspace{2mm}
+\cventry{Organization}{(Research Assistant / Mentor: Dr. XXXXXXXX)}
+{6. \textit{{\href{https://sparcnet.org/home/sparcnet-ramp/mentors-and-research-questions/}{\textcolor{blue}{Project Title}}}}  }{Start Date - End Date}{}{}
+\cvlistitem{Brief description of the project and Yahriel's role in it.}
 }
 
 
