@@ -8,7 +8,10 @@ https://sparcnet.org/home/sparcnet-ramp/program-overview/
 https://sparcnet.org/home/sparcnet-ramp/mentors-and-research-questions/
 https://www.nsf.gov/awardsearch/showAward?AWD_ID=2319645&HistoricalAwards=false
 https://sparcnet.org/home/sparcnet-ramp/application-information-and-guidance/
-
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/SPARCnet.txt
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/SPARCnetRaMP_Yahriel_Resume_Template__2.pdf
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Lib_Dummy.txt
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/dummy.txt
 Master: https://github.com/yahriels/yahriels/blob/main/Workspace/Master.txt
 README: https://github.com/yahriels/yahriels/blob/main/README.md
 https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Careers_Options.txt
@@ -72,6 +75,26 @@ Purpose: To Help Yahriel Fill The Prompt
 Fill In The Template With Relevant Information and Produce A Response For each part.
 
 Frame your response to this audience and as the reviewer:
+
+Yahriel is the MASTER User: 
+{
+https://sparcnet.org/home/sparcnet-ramp/
+https://sparcnet.org/home/sparcnet-ramp/program-overview/
+https://sparcnet.org/home/sparcnet-ramp/mentors-and-research-questions/
+https://www.nsf.gov/awardsearch/showAward?AWD_ID=2319645&HistoricalAwards=false
+https://sparcnet.org/home/sparcnet-ramp/application-information-and-guidance/
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/SPARCnet.txt
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/SPARCnetRaMP_Yahriel_Resume_Template__2.pdf
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Lib_Dummy.txt
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/dummy.txt
+Master: https://github.com/yahriels/yahriels/blob/main/Workspace/Master.txt
+README: https://github.com/yahriels/yahriels/blob/main/README.md
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Careers_Options.txt
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Lib_Dummy.txt
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/dummy.txt
+}
+
+Frame your response to this audience and as the reviewer:
 https://sparcnet.org/home/sparcnet-ramp/
 https://sparcnet.org/home/sparcnet-ramp/program-overview/
 https://sparcnet.org/home/sparcnet-ramp/mentors-and-research-questions/
@@ -80,19 +103,10 @@ https://sparcnet.org/home/sparcnet-ramp/application-information-and-guidance/
 
 
 
-
 }
 
 [Template] Yahriel's Response:
 {
-
-Make a Cover Letter for Yahriel For The Position.
-Tailor your answers to draw connections between Yahriel's Background and this sparcnet https://sparcnet.org/home/sparcnet-ramp/
-https://sparcnet.org/home/sparcnet-ramp/program-overview/
-https://sparcnet.org/home/sparcnet-ramp/mentors-and-research-questions/
-https://www.nsf.gov/awardsearch/showAward?AWD_ID=2319645&HistoricalAwards=false
-https://sparcnet.org/home/sparcnet-ramp/application-information-and-guidance/
-
 
 
 
@@ -103,14 +117,6 @@ https://sparcnet.org/home/sparcnet-ramp/application-information-and-guidance/
 Prompt: Rewrite and Enhance Yahriel's Response
 {
 
-Make a Cover Letter for Yahriel For The Position.
-Rewrite and Update This While Keeping The Formatting Exactly The Same as The Template. 
-
-https://sparcnet.org/home/sparcnet-ramp/
-https://sparcnet.org/home/sparcnet-ramp/program-overview/
-https://sparcnet.org/home/sparcnet-ramp/mentors-and-research-questions/
-https://www.nsf.gov/awardsearch/showAward?AWD_ID=2319645&HistoricalAwards=false
-https://sparcnet.org/home/sparcnet-ramp/application-information-and-guidance/
 
 }
 
