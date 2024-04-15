@@ -109,10 +109,9 @@ https://sparcnet.org/home/sparcnet-ramp/application-information-and-guidance/
 {
 
 
+Rewrite and Extend and Reorganize the Response and keep the word/character count the same but remove all redundancies and make it more advanced academic and formal writing.
 
-Question #2: LONG ANSWER (65000 Character Limit)
-Considering the unofficial transcript you have uploaded as part of this application, please feel free to provide any context for any low grades, high grades, or particular courses you think will help you succeed in this program. If you do not have anything to add here, please put "not applicable." Also Add how your research interests align with that of the program and what tools and classes from the Aerospace Engineering Curriculum can assist the in research efforts of the program. https://catalog.iastate.edu/collegeofengineering/aerospaceengineering/aerospaceengineering.pdf https://catalog.iastate.edu/collegeofengineering/aerospaceengineering/#fouryearplantext
-> {} 0 of 65000 characters
+
 
 
 
@@ -121,7 +120,7 @@ Considering the unofficial transcript you have uploaded as part of this applicat
 
 Prompt: Rewrite and Enhance Yahriel's Response
 {
-
+Rewrite and Extend and Reorganize the Response and keep the word/character count the same but remove all redundancies and make it more advanced academic and formal writing.
 
 }
 
@@ -133,8 +132,6 @@ Prompt: Rewrite and Enhance Yahriel's Response
 SPARCnet RaMP: Training the next generation of interdisciplinary scientists to collaboratively address species responses to climate change
 We are excited to announce our new National Science Foundation (NSF) Research and Mentoring for Postbaccalaureates (RaMP) in Biological Sciences award. Our program, RaMP: Training the next generation of interdisciplinary scientists to collaboratively address species responses to climate change with SPARCnet will use SPARCnet methods to lead three cohorts of 8-10 postbaccalaureate researchers in paid, mentored research with SPARCnet collaborators. Postbaccs will have the opportunity to build their science skills through independent and team-based research projects, professional development, and networking opportunities.
 
-> {Was Left Unsatisfied (With my degree). Towards the end the completion of my Aerospace Degree, I struggled to showcase my best academic performance and was intensley challenged in all aspects of my life (financially, situationally, etc.).  There was so much more I could give. I had so many ideas, too many to keep track, and soon I was was off track. Ahead of myself, and I couldn't keep up with myself, and then my work, my sleep... then I couldn't keep up with myself or my coursework. My priorities started to change quickly and I knew I couldn't do it all. I was exhausted, I had been overloaded, I had grasp how much bigger the world is than aerospace engineering. But there was so much that aerospace engineering can offer that much grander world. My grand interests started to evolve and transport me to another world besides that of aerospace engineering. While still in my bachelor's degree program, I recognized that many aerospace opportunities and industry market where not aligned with my moral/personal values, purpose, balance, and foremost all personal connection. While I didn't look my primary interest in aerospace engineering that had always existed, the situation is that my grander intellectual interests where extradinarly much grander and continuosly substantially growing. My new interests demanded more than all of my focus and attention. I decided to pursue a PhD in a foreign advanced Fields such as Computational Neuroscience, Bio-informatics, Bioengineering, because I wanted to be that individual that bridged new disciplinary gaps and my primary focus and interests took a dramatic change. I was dedicated; My priority became exploring the intellectual gap and taking an intellectual leap into a new science and engineering field and translate innovation and collaboration across disparate disciplines for graduate study. While I was profoundly academically and intellectually challenged at times, I learned there was truly no link between an academic performance and true human ingenuity and natural intellect. However, there was a difference in having knowledge of a topic, and being able to demonstrate (and further apply) and translate that understanding to another individual. Someones having to do it their own (reviewer) language, a language foreign to you. How can one bridge the gap between languages, between topics, between science and engineering, between careers and professions. How does one transfer their intellectual interests and merit, into their careers and further pursue personal growth. A} : {}
->
 
 SPARCnet RaMP: Amphibian responses to climate change
 BRIDGEWATER STATE UNIVERSITY
@@ -178,9 +175,19 @@ Cornell University - Brandon P. Hedrick - Ithaca, New York
 Bridgewater State University - Caitlin Fisher-Reid - Bridgewater, Massachusetts
 
 --------------------
+Yahriel's Cover Letter ideas
+I am writing to express my keen interest in the opportunities available within SPARCNET, particularly in alignment with the remarkable initiatives outlined in your program overview and research questions. With a background deeply rooted in aerospace engineering, coupled with a relentless pursuit of interdisciplinary exploration in neuroscience and computational sciences, I am eager to contribute to the cutting-edge research endeavors facilitated by SPARCNET.
+I am perfect for this opportunity because as an bachelor of aerospace engineering with a plethora of diverse research experience, I am poised to make a meaningful contribution.
+There are many skills and experience that I have that can be transfered elegantly to the research projects:
+- Eric Gangloff. Topics: Thermal Biology, infared thermography. I can advance this project with My expertise in thermodynaics, software development, and numerical-computational skills and modeling and prediction
+- Brandon Headrick. Topics: Computer-Based, Morphological Variation. I can advance this project with My expertise in data collection nd computerbased techniques, software development, and numerical-computational skills and modeling and prediction
+- Tanya Matlaga. Topics: Trait Plasticity, Anthropogenic Changes. I can advance this project with My expertise in 
+- Jeanette Moss Blacksburg. Topics: Thermal Biology, Data Bases. I can advance this project with My expertise in data engineering and setting up inhouse data-bases, software development, and numerical-computational skills and modeling and prediction
+- M. Caitlin Fisher Reid. Topics: genetic diversity, Population dynamics. I can advance this project with My expertise in 
+- David A.W. Miller. Topics: Statistical Approaches, Behavior Responses. I can advance this project with My expertise in Engineering Statistics, Machine Learning, Data Science, Deep Learning, and other numerical techniques.
+
+
 Yahriel's Resume
-
-
 Yahriel Salinas-Reyes
  The GEM Consortium, Ph.D. Engineering and Science Fellowship
  Polk: Des Moines, 50316, Iowa, United States
@@ -381,13 +388,15 @@ principles in interfacial viscous-shear flow.
  Complete funding confirmed upon admission to Ph.D. Program.The GEM Ph.D. Engineering & Science Fellowship.
 
 
-Was Left Unsatisfied (With my degree). Towards the end the completion of my Aerospace Degree, I struggled to showcase my best academic performance and was intensley challenged in all aspects of my life (financially, situationally, etc.).  There was so much more I could give. I had so many ideas, too many to keep track, and soon I was was off track. Ahead of myself, and I couldn't keep up with myself, and then my work, my sleep... then I couldn't keep up with myself or my coursework. My priorities started to change quickly and I knew I couldn't do it all. I was exhausted, I had been overloaded, I had grasp how much bigger the world is than aerospace engineering. But there was so much that aerospace engineering can offer that much grander world. My grand interests started to evolve and transport me to another world besides that of aerospace engineering. While still in my bachelor's degree program, I recognized that many aerospace opportunities and industry market where not aligned with my moral/personal values, purpose, balance, and foremost all personal connection. While I didn't look my primary interest in aerospace engineering that had always existed, the situation is that my grander intellectual interests where extradinarly much grander and continuosly substantially growing. My new interests demanded more than all of my focus and attention. I decided to pursue a PhD in a foreign advanced Fields such as Computational Neuroscience, Bio-informatics, Bioengineering, because I wanted to be that individual that bridged new disciplinary gaps and my primary focus and interests took a dramatic change. I was dedicated; My priority became exploring the intellectual gap and taking an intellectual leap into a new science and engineering field and translate innovation and collaboration across disparate disciplines for graduate study. While I was profoundly academically and intellectually challenged at times, I learned there was truly no link between an academic performance and true human ingenuity and natural intellect. However, there was a difference in having knowledge of a topic, and being able to demonstrate (and further apply) and translate that understanding to another individual. Someones having to do it their own (reviewer) language, a language foreign to you. How can one bridge the gap between languages, between topics, between science and engineering, between careers and professions. How does one transfer their intellectual interests and merit, into their careers and further pursue personal growth. : {}
 --------------------
+Question: Describe your academic and career goals and how NSF Opportunity will help you achieve those goals.
+{
+
+}
+Rewrite and Extend and Reorganize the Response and keep the word/character count the same but remove all redundancies and make it more advanced academic and formal writing.
 
 
-Question #2: LONG ANSWER (45000 Character Limit)
-Considering the unofficial transcript you have uploaded as part of this application, please feel free to provide any context for any low grades, high grades, or particular courses you think will help you succeed in this program. If you do not have anything to add here, please put "not applicable." Also Add how your research interests align with that of the program and what tools and classes from the Aerospace Engineering Curriculum can assist the in research efforts of the program. https://catalog.iastate.edu/collegeofengineering/aerospaceengineering/aerospaceengineering.pdf https://catalog.iastate.edu/collegeofengineering/aerospaceengineering/#fouryearplantext
-> {} 0 of 45000 characters
+
 
 
 
