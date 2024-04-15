@@ -3,12 +3,6 @@ Help Yahriel Salinas Answer The Prompt, Review The Response, Provide Feedback, M
 
 Yahriel is the MASTER User: 
 {
-https://sparcnet.org/home/sparcnet-ramp/
-https://sparcnet.org/home/sparcnet-ramp/program-overview/
-https://sparcnet.org/home/sparcnet-ramp/mentors-and-research-questions/
-https://www.nsf.gov/awardsearch/showAward?AWD_ID=2319645&HistoricalAwards=false
-https://sparcnet.org/home/sparcnet-ramp/application-information-and-guidance/
-https://github.com/yahriels/yahriels/blob/main/Workspace/lib/SPARCnet.txt
 https://github.com/yahriels/yahriels/blob/main/Workspace/lib/SPARCnetRaMP_Yahriel_Resume_Template__2.pdf
 https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Lib_Dummy.txt
 https://github.com/yahriels/yahriels/blob/main/Workspace/lib/dummy.txt
@@ -78,12 +72,6 @@ Frame your response to this audience and as the reviewer:
 
 Yahriel is the MASTER User: 
 {
-https://sparcnet.org/home/sparcnet-ramp/
-https://sparcnet.org/home/sparcnet-ramp/program-overview/
-https://sparcnet.org/home/sparcnet-ramp/mentors-and-research-questions/
-https://www.nsf.gov/awardsearch/showAward?AWD_ID=2319645&HistoricalAwards=false
-https://sparcnet.org/home/sparcnet-ramp/application-information-and-guidance/
-https://github.com/yahriels/yahriels/blob/main/Workspace/lib/SPARCnet.txt
 https://github.com/yahriels/yahriels/blob/main/Workspace/lib/SPARCnetRaMP_Yahriel_Resume_Template__2.pdf
 https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Lib_Dummy.txt
 https://github.com/yahriels/yahriels/blob/main/Workspace/lib/dummy.txt
@@ -109,6 +97,42 @@ https://sparcnet.org/home/sparcnet-ramp/application-information-and-guidance/
 {
 
 
+Rewrite and Extend and Reorganize the Response and keep the word/character count the same but remove all redundancies and make it more advanced academic and formal writing.
+
+Write Multiple Work Experience Entries
+Work Experience
+ 
+List the work experiences below, starting with the most relevant one. You must specify 1 work experience entry. 
+
+Work Experience N
+Current Job 
+Please indicate if this is your current job.
+
+ 
+Employer . Required
+
+{}
+ Select
+If none, type N/A. 
+Job Function . Required
+
+{}
+ Select
+If none, type N/A. 
+Start Date . Required
+Month
+Dec
+Year
+2023
+Responsibilities 
+{}
+40
+hours worked per week
+Reason For Leaving 
+{}
+
+
+
 
 
 }
@@ -116,9 +140,539 @@ https://sparcnet.org/home/sparcnet-ramp/application-information-and-guidance/
 
 Prompt: Rewrite and Enhance Yahriel's Response
 {
-
+Rewrite and Extend and Reorganize the Response and keep the word/character count the same but remove all redundancies and make it more advanced academic and formal writing.
 
 }
 
 
 
+
+
+--------------------
+Clinical Research Assistant
+ - (3282954)
+ 
+GENERAL SUMMARY/ OVERVIEW STATEMENT:  
+
+The Psychiatry Neuroimaging Laboratory is looking to hire a qualified candidate for the position of Research Assistant. The laboratory is part of the Department of Psychiatry at Massachusetts General Hospital. The main mission of this laboratory is to understand brain abnormalities and their role in psychiatric disorders by using state-of-the-art neuroimaging techniques. If you would like to read more about the laboratory, please visit our website at http://pnl.bwh.harvard.edu 
+
+
+PRINCIPAL DUTIES AND RESPONSIBILITIES:  
+
+Please note, the functions below are representative of major duties that are typically associated with these positions. Specific responsibilities may vary based upon departmental needs. Similarly, not all duties that have been outlined will be assigned to each position.   
+
+Work closely with others in a collaborative research environment that includes other Research Assistants, physicians, computer scientists, psychologists, neuroscientists, and other Principal Investigators on ongoing research studies involving investigating brain abnormalities in schizophrenia, clinical high risk for psychosis, traumatic brain injury, and other populations. 
+Assist in managing and coordinating research studies by entering data, assisting on data analysis, and being involved in clinical laboratory work such as being present at MRI scans when subjects are scanned. 
+Learn to use image processing tools for the pre-processing and analysis of structural, functional, and diffusion Magnetic Resonance Images (MRI). 
+Learn to use statistical programs such as Python and R to manage participant data and run elementary statistical tests. 
+Learn to troubleshoot and modify image processing pipelines. 
+Collect, describe, and help analyze library research materials. Help to prepare and proof-read scientific manuscripts and grant applications. 
+Adhere to established MGB and department policies, procedures, and objectives, and exemplify professionalism and exhibit values that contribute to the goals of the lab and the hospital. 
+Perform other related research duties as directed or required. 
+ 
+ 
+SKILLS/ABILITIES/COMPETENCIES REQUIRED: ​​​​​​​ 
+
+Psychology, neuroscience, computer science, engineering, and premed majors are encouraged to apply, but all are welcome. 
+Prior research or clinical experience is recommended. 
+Computer programing experience, including experience with Linux/UNIX systems, python/bash scripting, and/or scientific computing software (e.g. Python, R, MATLAB) is preferred but not required. 
+Applications are being accepted for the position; hiring will take place as soon as possible or by the end of the spring semester. Applicants are expected to give a two-year commitment for the position. This position will provide invaluable experience for those interested in pursuing graduate study in the fields of psychology, medicine, engineering, neuroscience, or computer science. 
+We request a resume and cover letter outlining your reasons for applying and the strengths you would bring to the position. If interested, please apply online through this website, and upload a resume and cover letter (as PDFs) in one document. 
+
+EDUCATION:  
+
+Qualified applicants must have a bachelor's degree, strong organizational skills, and the ability to work well with others on a research team. 
+
+EXPERIENCE:  
+
+Psychology, neuroscience, computer science, engineering, and premed majors are encouraged to apply, but all are welcome. 
+Prior research or clinical experience is  recommended. 
+Computer programing experience, including experience with Linux/UNIX systems, python/bash scripting, and/or scientific computing software (e.g. Python, R, MATLAB) is preferred but not required. 
+If you have further questions, please contact: 
+
+Elana Kotler, Research Assistant, Email: ekotler@mgh.harvard.edu 
+
+ 
+
+Website
+https://www.indeed.com/viewjob?jk=6945d3c6981029b1&from=mobRdr&xpse=SoBQ67I3CbG9EKS2NZ0LbzkdCdPP&xfps=4e491d52-801f-4148-8d42-f6de2c0e6f7c&xkcb=SoCf67M3CbGS6vwTLJ0ZbzkdCdPP&utm_source=%2Fm%2F&utm_medium=redir&utm_campaign=dt
+
+--------------------
+Yahriel's Cover Letter ideas
+I am writing to express my interest in the Research Assistant position at the Psychiatry Neuroimaging Laboratory, as advertised on [Website/Platform]. With a background in aerospace engineering and extensive experience in research and data analysis, I am excited about the opportunity to contribute to your team's mission of understanding brain abnormalities and their correlation with psychiatric disorders.
+
+During my tenure as a Scientist I & Data Engineer at Bayer Crop Science, I honed my skills in experimental research and data analysis, contributing to advancements in agricultural science and technology. Additionally, my role as a Research Assistant & Lab Technician at DARPA provided me with valuable experience in innovative research methodologies, particularly in addressing environmental and technological challenges.
+
+My academic background in aerospace engineering, coupled with my hands-on experience in laboratory settings, has equipped me with the interdisciplinary skills necessary to excel in the role of a Research Assistant at your esteemed institution. I am proficient in programming languages such as Python and MATLAB, which I believe will be instrumental in utilizing image processing tools for the analysis of structural, functional, and diffusion Magnetic Resonance Images (MRI).
+
+Moreover, my experience in managing and coordinating research studies, coupled with my strong organizational skills, align well with the responsibilities outlined for this position. I am eager to leverage my expertise to contribute to ongoing research studies involving brain abnormalities in schizophrenia, clinical high risk for psychosis, traumatic brain injury, and other relevant populations.
+
+I am particularly drawn to this opportunity because it offers invaluable experience for individuals interested in pursuing graduate study in psychology, medicine, engineering, neuroscience, or computer science. I am committed to making a meaningful contribution to your laboratory's objectives while furthering my own academic and professional goals.
+
+Thank you for considering my application. I am eager to further discuss how my background, skills, and enthusiasm for research can contribute to the Psychiatry Neuroimaging Laboratory's mission. I am available for an interview at your earliest convenience and can be reached at [Phone Number] or via email at [Email Address].
+
+I am writing to express my interest in the position of Clinical Research Assistant within the Psychiatry Neuroimaging Laboratory at Massachusetts General Hospital, as advertised on Indeed. With a strong background in engineering, extensive research experience, and a passion for advancing scientific understanding, I am confident in my ability to contribute effectively to your team's objectives.
+
+Having recently completed my Bachelor of Aerospace Engineering at Iowa State University, where I specialized in Micro-electro-mechanical Systems (MEMS) and Soft Matter Physics, I bring a unique perspective to the field of neuroscience research. During my tenure at Iowa State, I engaged in various research projects that honed my analytical skills and provided me with practical experience in experimental design, data analysis, and scientific writing.
+
+In my most recent role as a Scientist I & Data Engineer at Bayer Crop Science, I was involved in cutting-edge research and data engineering tasks within the Regulatory Group. I collaborated with multidisciplinary teams to address complex challenges in agricultural science and technology, demonstrating my ability to adapt to diverse research environments and contribute to the advancement of scientific knowledge.
+
+Prior to that, I served as a Research Assistant & Lab Technician in DARPA's mission to recover rare-earth elements from electronic waste, where I executed pivotal roles in innovative research projects aimed at addressing critical environmental and technological challenges. My experience in experimental techniques, laboratory methodologies, and data analysis has equipped me with the skills necessary to excel in a research-intensive environment.
+
+I am particularly drawn to the opportunity to work in the Psychiatry Neuroimaging Laboratory due to its focus on understanding brain abnormalities and their role in psychiatric disorders using state-of-the-art neuroimaging techniques. I am eager to contribute to ongoing research studies involving investigating brain abnormalities in schizophrenia, clinical high risk for psychosis, traumatic brain injury, and other populations.
+
+In addition to my technical skills, I possess strong organizational abilities, excellent communication skills, and a collaborative mindset, which are essential for success in a research team environment. I am highly motivated, detail-oriented, and committed to producing high-quality work that contributes to the goals of the laboratory and the hospital.
+
+Thank you for considering my application. I am excited about the opportunity to contribute to the groundbreaking research being conducted at the Psychiatry Neuroimaging Laboratory and am looking forward to the possibility of discussing how my background and skills align with your team's needs in more detail.
+Yahriel's Resume
+Yahriel Salinas-Reyes
+ The GEM Consortium, Ph.D. Engineering and Science Fellowship
+ Polk: Des Moines, 50316, Iowa, United States
+ 515-314-4160 • yahrielsreyes@gmail.com
+ //www.linkedin.com/in/yahriel-salinas-reyes-89ab38179
+ www.github.com/yahriels
+ Education
+ Iowa State University of Science & Technology
+ Bachelor of Aerospace Engineering, GPA: 3.3
+ Specialized in Micro-electro-mechanical Systems (MEMS) and Soft Matter Physics
+Work Experience
+ Bayer Crop Science: Regulatory Group
+ Scientist I & Data Engineer
+ Ames
+ 2023
+ Monsanto, MO
+ 01/2024- Present
+ Engage in cutting-edge research and data engineering tasks within Bayer Crop Science’s Regulatory Group, contributing
+ to the advancement of agricultural science and technology.
+ DARPA: Recovering Rare-Earth Elements from E-Waste
+ Research Assistant & Lab Technician
+ Ames, IA
+ 05/2022- 12/2023
+ Executed pivotal roles in DARPA’s mission to recover rare-earth elements from electronic waste, employing innovative
+ research techniques and laboratory methodologies to address critical environmental and technological challenges.
+ The Microscale & Interfacial Fluid Physics Laboratory
+ Experimental Systems & Automation Engineer
+ Ames, IA
+ 08/2021- 12/2023
+ Demonstrated expertise in experimental systems and automation engineering at the Microscale & Interfacial Fluid
+ Physics Laboratory, contributing to groundbreaking research in fluid dynamics and interfacial phenomena.
+ The Soft Matter Material Transport Group
+ Undergraduate Researcher & Systems Engineer
+ Ames, IA
+ 08/2019- 05/2022
+ Played a key role in the Soft Matter Material Transport Group’s research initiatives, focusing on the design and
+ optimization of multi-functional piezoelectric devices for aeronautical applications, showcasing skills in systems
+ engineering and materials science.
+ Caltech The Kavli Nanoscience Institute: The Julia R. Greer Group
+ Undergraduate Research Assistant
+ Pasadena, CA
+ 05/2021- 08/2021
+ Contributed to research efforts at Caltech’s Kavli Nanoscience Institute, collaborating with the Julia R. Greer Group
+ on the development of hybrid nanocomposites and the investigation of viscoelastic behavior, highlighting capabilities
+ in nanomaterials synthesis and characterization.
+ Boeing: Wind Energy & Development
+ Boeing Aerospace Research Fellow
+ Ames, IA
+ 08/2021- 08/2022
+ Served as a Boeing Aerospace Research Fellow, spearheading projects in wind energy research and development, with
+ a focus on characterizing damping mechanisms in piezoelectric wind-energy harvesters, demonstrating expertise in
+ aerospace engineering and renewable energy technologies.
+ Stanford University: Xiaolin Zheng Z-Energy Group
+ Undergraduate Research Assistant
+ Stanford, CA
+ 05/2021- 08/2021
+ Engaged in research endeavors at Stanford University’s Z-Energy Group, investigating the application of machine
+ learning techniques in scientific methodologies and prediction, showcasing proficiency in data-driven research and
+ computational modeling.
+ Iowa State University of Science & Technology
+ Information Technology Specialist & Data Scientist
+ Ames, IA
+ 08/2019- 05/2023
+ Provided technical expertise as an Information Technology Specialist and Data Scientist at Iowa State University
+ of Science & Technology, contributing to the implementation, monitoring, and maintenance of IT systems while
+ leveraging data science techniques for analysis and decision-making.
+ 1/4
+Fellowship Awards
+ Program
+ Institution/Board
+ Year
+ GEM Ph.D. Fellowship* (Sci.&Eng.)
+ *Current
+ P.B.C. (McNair Scholars)
+ P.B.C. (Research Certificate)
+ Cert.(Order of The Engineer)
+ Key Projects
+ The National GEM Consortium*
+ Ronald E. McNair Postbaccalaureate
+ Achievement Program
+ Louis Stokes Alliances for Minority Partici
+pation (LSAMP)
+ Engineering Accreditation Commission of
+ ABET
+ 1. Experimental Techniques: Flow Separation & Chemical Sintering
+ B.Tech / (Prof: Dr. Martin Thuo, Dr. Thomas Ward)
+ 2024-2029*
+ 2021-2023
+ 2019-2021
+ 2023
+ August 2019- August 2023
+ Iowa State University of Science & Technology
+ Developed hardware-software components and signal processing circuits for detecting flow instabilities in paper-based
+ MEMS devices.
+ Conducted experiments to manufacture MEMS nanocomposites and modeled shear viscosity.
+ Aimed to simulate viscosity measurements at the thermal boundary for potential applications in aerospace.
+ Keywords: Systems Analysis, Interfacial Phenomena, Quantum Tunnelling Composites, Navier Stokes Equations
+ 2. Damping Mechanisms in Piezoelectric Wind-Energy Harvesters
+ Research Fellow / Mentor-(Prof: Dr. Thomas Ward Dept. of Aerospace Engineering, ISU)
+ August 2021- August 2022
+ Boeing Aerospace
+ Designed experimental setups and measurement-calibration systems for piezoelectric wind-energy harvesters.
+ Collaborated on solution algorithms and continuum mechanics of conductivity to optimize wind-tunnel experiments.
+ Objective was to define thermodynamic properties for enhancing wind-energy harvesting efficiency.
+ Keywords: Aerodynamics Analysis, Harmonic Response, Computational Methods, Energy Storage, Soft Matter Physics
+ 3. Energy Absoption in Nano-Architected Hybrid Composites
+ May 2022- August 2022
+ Prof: Dr. Julia R. Greer of Materials Science, A. Mechanics, & Medical Sciences Caltech, Kavli Nanoscience Institute
+ Created nanocomposites with architectural features to enhance mechanical properties.
+ Investigated deformation mechanisms using dynamic mechanical analysis and scanning electron microscopy.
+ Developed a semi-empirical model to understand viscoelastic effects in hybrid nanocomposites.
+ Keywords: Nanoscience, Applied Mathematics, System Modeling, Continuum Mechanics, Energy Dissipation
+ 4. Meta-stable Particles: Phase-change Materials and their Applications
+ Prof: Dr. Martin Thuo Dept. of Materials Science and Engineering, ISU
+ August 2019- May 2022
+ NSF-LSAMP
+ Conducted research on meta-stable particles and their applications in phase-change materials.
+ Collaborated on developing novel materials with unique properties for various industrial applications.
+ Investigated the behavior of phase-change materials under different conditions for practical utilization
+ Keywords: Materials Science, Chemical Synthesis, Solid-State Physics, Advanced Materials, Applications
+ Industrial Training
+ 1. Boeing Undergraduate Research Excellence in Engineering Internship
+ (B.Tech / Intern / Mentor: Dr. Thomas Ward)
+ Dec 2020- Dec 2021
+ Engaged in an intensive internship program at Boeing, gaining hands-on experience focused on wind energy harvesting,
+ green technologies, & enhancing engineering excellence in aerospace applications. Collaborated with industry
+ professionals on cutting-edge projects aimed at advancing aerospace technology and innovation.
+ 2. NASA Micro-G Neutral Buoyancy Experiment Design Teams Challenge
+ (B.Tech / Design Team Lead / Mentor: Dr. Tomas Gonzalez-Torres)
+ Oct 2021-Nov 2022
+ Took part in a challenging design competition organized by NASA, focusing on developing innovative solutions for
+ space exploration challenges. Worked in a multidisciplinary team environment to design, build, and test a prototype
+ device, gaining valuable practical experience in problem-solving and teamwork
+ 2/4
+Relevant Research Projects and Experience
+ April 2020- August 2021
+ 1. Integration of Piezoresistive MEMS Sensors
+ (Research Assistant / Mentor: Dr. Martin Thuo)
+ Iowa State University
+ Explored the integration of piezoresistive MEMS sensors into computer technology, focusing on enhancing sensing
+ capabilities in electronic devices. Yahriel contributed to experimental design and data analysis.
+ 2. Predictive Modeling of Olympic Triathlon Results
+ (Research Assistant / Mentor: Dr. Xiaolin Zheng)
+ August 2021- January 2022
+ Stanford University, Z-Energy Lab
+ Investigated predictive models using machine learning techniques to forecast Olympic triathlon results based on data
+ collection, model training, and result interpretation, showcasing expertise in data-driven research.
+ 3. Energy Absorption in Nano-Architected Hybrid Composites
+ (Research Assistant / Mentor: Dr. Julia R. Greer)
+ August 2022- January 2023
+ The Greer Group, The Kavli Nanoscience Institute
+ Investigated energy absorption mechanisms in nano-architected hybrid composites and contributed to experimental
+ designs, conducted mechanical tests, and analyzed data, demonstrating proficiency in scientific instrumentation.
+ 4. REU Site: (LAUNCH-UAS)
+ May 2023- August 2023
+ (Research Assistant / Mentor: Dr. Thomas Ward)
+ NSF Award No. 1757393
+ Mentored in the REU Site program focused on launching aerospace’s underrepresented students into the next chapter,
+ particularly in unmanned aerial systems (LAUNCH-UAS).
+ 5. Shear-Sensing Principals of Interfacial Viscous-Shear Flow
+ (Research Assistant / Mentor: Dr. Thomas Ward, Dr. Martin Thuo)
+ Developed experimental setups for studying shear-sensing
+ August 2021- January 2022
+ Boeing Aerospace
+ Analyzed fluid flow data and contributed to the develop
+principles in interfacial viscous-shear flow.
+ ment of understanding of interfacial stress/physics.
+ 6. Cutting-Edge Research in Agricultural Science and Technology
+ (Scientist I & Data Engineer)
+ Actively engaged in cutting-edge research in green science
+ January 2024- Present
+ Bayer Crop Science
+ Contribute to the advancement of agricultural practices
+ and technology at Bayer Crop Science.
+ Online Courses
+ and the development of biotechnological challenges.
+ Deep Learning: Data Structures and Algorithms in Python (May 2021), Deep Learning with PyTorch: Zero to GANs
+ (Jan 2021), Data Analysis with Python: Zero to Pandas (Oct 2020)
+ MathWorks: Machine Learning with Matlab (June 2020), Matlab Onramp (May 20xx), Deep Learning Onramp (May
+ 20xx), Machine Learning Onramp (May 20xx), Deep Learning with Matlab (May 20xx)
+ Course Work
+ 1. Key Courses
+ (Core and electives)
+ August 2019-December 2023
+ Iowa State University: College of Engineering
+ Courses: Applied Mechanics & Physics, Materials Science & Engineering, Engineering & Polymeric Chemistry,
+ Engineering Statistics
+ Foundations: Multi-Variable Calculus Continuum Mechanics, Mechanics of Materials, Dynamics & Differential
+ Equations
+ Lab: Numerical & Graphical Techniques, Advanced Computing, Advanced Programming Languages in C++
+ Technical Skills
+ Programming Language: C, C++, Java, Python, CAD
+ & FEA, ANSYS/ABAQUS, Computational Modeling
+ Achievements/Awards
+ Web Technology: SQL, Windows OS, Linux OS, AWS
+ Services, MATLAB & Simulink, SAS, Iot
+ Finalist of The Fulbright-National Geographic Award, Open Study/Research Award
+ Complete funding confirmed upon admission to Ph.D. Program.The GEM Ph.D. Engineering & Science Fellowship.
+
+
+--------------------
+
+Work Experience
+ 
+List the work experiences below, starting with the most relevant one. You must specify 1 work experience entry. 
+
+Work Experience 1
+Current Job 
+Please indicate if this is your current job.
+
+ 
+Employer . Required
+
+{}
+ Select
+If none, type N/A. 
+Job Function . Required
+
+{}
+ Select
+If none, type N/A. 
+Start Date . Required
+Month
+Dec
+Year
+2023
+Responsibilities 
+{}
+40
+hours worked per week
+Reason For Leaving 
+{}
+
+Work Experience 2
+Current Job 
+Please indicate if this is your current job.
+
+ 
+Employer . Required
+
+{}
+ Select
+If none, type N/A. 
+Job Function . Required
+
+{}
+ Select
+If none, type N/A. 
+Start Date . Required
+Month
+Dec
+Year
+2023
+Responsibilities 
+{}
+40
+hours worked per week
+Reason For Leaving 
+{}
+
+
+Work Experience 3
+Current Job 
+Please indicate if this is your current job.
+
+ 
+Employer . Required
+
+{}
+ Select
+If none, type N/A. 
+Job Function . Required
+
+{}
+ Select
+If none, type N/A. 
+Start Date . Required
+Month
+Dec
+Year
+2023
+Responsibilities 
+{}
+40
+hours worked per week
+Reason For Leaving 
+{}
+
+
+
+Work Experience 4
+Current Job 
+Please indicate if this is your current job.
+
+ 
+Employer . Required
+
+{}
+ Select
+If none, type N/A. 
+Job Function . Required
+
+{}
+ Select
+If none, type N/A. 
+Start Date . Required
+Month
+Dec
+Year
+2023
+Responsibilities 
+{}
+40
+hours worked per week
+Reason For Leaving 
+{}
+
+Work Experience 5
+Current Job 
+Please indicate if this is your current job.
+
+ 
+Employer . Required
+
+{}
+ Select
+If none, type N/A. 
+Job Function . Required
+
+{}
+ Select
+If none, type N/A. 
+Start Date . Required
+Month
+Dec
+Year
+2023
+Responsibilities 
+{}
+40
+hours worked per week
+Reason For Leaving 
+{}
+
+Work Experience 6
+Current Job 
+Please indicate if this is your current job.
+
+ 
+Employer . Required
+
+{}
+ Select
+If none, type N/A. 
+Job Function . Required
+
+{}
+ Select
+If none, type N/A. 
+Start Date . Required
+Month
+Dec
+Year
+2023
+Responsibilities 
+{}
+40
+hours worked per week
+Reason For Leaving 
+{}
+
+Work Experience 7
+Current Job 
+Please indicate if this is your current job.
+
+ 
+Employer . Required
+
+{}
+ Select
+If none, type N/A. 
+Job Function . Required
+
+{}
+ Select
+If none, type N/A. 
+Start Date . Required
+Month
+Dec
+Year
+2023
+Responsibilities 
+{}
+40
+hours worked per week
+Reason For Leaving 
+{}
+
+Work Experience 8
+Current Job 
+Please indicate if this is your current job.
+
+ 
+Employer . Required
+
+{}
+ Select
+If none, type N/A. 
+Job Function . Required
+
+{}
+ Select
+If none, type N/A. 
+Start Date . Required
+Month
+Dec
+Year
+2023
+Responsibilities 
+{}
+40
+hours worked per week
+Reason For Leaving 
+{}
+
+Work Experience 9
+Current Job 
+Please indicate if this is your current job.
+
+ 
+Employer . Required
+
+{}
+ Select
+If none, type N/A. 
+Job Function . Required
+
+{}
+ Select
+If none, type N/A. 
+Start Date . Required
+Month
+Dec
+Year
+2023
+Responsibilities 
+{}
+40
+hours worked per week
+Reason For Leaving 
+{}
