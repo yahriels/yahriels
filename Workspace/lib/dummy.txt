@@ -99,39 +99,10 @@ https://sparcnet.org/home/sparcnet-ramp/application-information-and-guidance/
 
 Rewrite and Extend and Reorganize the Response and keep the word/character count the same but remove all redundancies and make it more advanced academic and formal writing.
 
-Write Multiple Work Experience Entries
-Work Experience
- 
-List the work experiences below, starting with the most relevant one. You must specify 1 work experience entry. 
-
-Work Experience N
-Current Job 
-Please indicate if this is your current job.
-
- 
-Employer . Required
-
-{}
- Select
-If none, type N/A. 
-Job Function . Required
-
-{}
- Select
-If none, type N/A. 
-Start Date . Required
-Month
-Dec
-Year
-2023
-Responsibilities 
-{}
-40
-hours worked per week
-Reason For Leaving 
-{}
-
-
+Review and make changes in regards to the position given here at these links: 
+Website
+https://www.indeed.com/viewjob?jk=6945d3c6981029b1&from=mobRdr&xpse=SoBQ67I3CbG9EKS2NZ0LbzkdCdPP&xfps=4e491d52-801f-4148-8d42-f6de2c0e6f7c&xkcb=SoCf67M3CbGS6vwTLJ0ZbzkdCdPP&utm_source=%2Fm%2F&utm_medium=redir&utm_campaign=dt
+http://pnl.bwh.harvard.edu 
 
 
 
@@ -141,6 +112,10 @@ Reason For Leaving
 Prompt: Rewrite and Enhance Yahriel's Response
 {
 Rewrite and Extend and Reorganize the Response and keep the word/character count the same but remove all redundancies and make it more advanced academic and formal writing.
+Review and make changes in regards to the position given here at these links: 
+Website
+https://www.indeed.com/viewjob?jk=6945d3c6981029b1&from=mobRdr&xpse=SoBQ67I3CbG9EKS2NZ0LbzkdCdPP&xfps=4e491d52-801f-4148-8d42-f6de2c0e6f7c&xkcb=SoCf67M3CbGS6vwTLJ0ZbzkdCdPP&utm_source=%2Fm%2F&utm_medium=redir&utm_campaign=dt
+http://pnl.bwh.harvard.edu 
 
 }
 
@@ -196,34 +171,21 @@ Elana Kotler, Research Assistant, Email: ekotler@mgh.harvard.edu
 
 Website
 https://www.indeed.com/viewjob?jk=6945d3c6981029b1&from=mobRdr&xpse=SoBQ67I3CbG9EKS2NZ0LbzkdCdPP&xfps=4e491d52-801f-4148-8d42-f6de2c0e6f7c&xkcb=SoCf67M3CbGS6vwTLJ0ZbzkdCdPP&utm_source=%2Fm%2F&utm_medium=redir&utm_campaign=dt
+http://pnl.bwh.harvard.edu 
 
 --------------------
 Yahriel's Cover Letter ideas
-I am writing to express my interest in the Research Assistant position at the Psychiatry Neuroimaging Laboratory, as advertised on [Website/Platform]. With a background in aerospace engineering and extensive experience in research and data analysis, I am excited about the opportunity to contribute to your team's mission of understanding brain abnormalities and their correlation with psychiatric disorders.
 
-During my tenure as a Scientist I & Data Engineer at Bayer Crop Science, I honed my skills in experimental research and data analysis, contributing to advancements in agricultural science and technology. Additionally, my role as a Research Assistant & Lab Technician at DARPA provided me with valuable experience in innovative research methodologies, particularly in addressing environmental and technological challenges.
+Also express how you are VERY INTERESTED and passionate about studying  the etiology schizophrenia for your PhD in Computational Neuroscience (exploring psychiatric, neurobiological, and neurological perspectives) for your PhD in Computational Neuroscience, understanding neuropsychiatric disorders, and guiding the scientific and technology community to develop solutions and help global understanding of neuropsychiatric disorder and informing global public health.
 
-My academic background in aerospace engineering, coupled with my hands-on experience in laboratory settings, has equipped me with the interdisciplinary skills necessary to excel in the role of a Research Assistant at your esteemed institution. I am proficient in programming languages such as Python and MATLAB, which I believe will be instrumental in utilizing image processing tools for the analysis of structural, functional, and diffusion Magnetic Resonance Images (MRI).
+I am writing to express my ardent interest in the Clinical Research Assistant position within the Psychiatry Neuroimaging Laboratory at Massachusetts General Hospital, as advertised on Indeed. With a background in aerospace engineering and a fervent dedication to scientific inquiry, I am deeply enthusiastic about the opportunity to contribute to your esteemed institution's mission of unraveling the complexities of neuropsychiatric disorders, particularly schizophrenia.\\
 
-Moreover, my experience in managing and coordinating research studies, coupled with my strong organizational skills, align well with the responsibilities outlined for this position. I am eager to leverage my expertise to contribute to ongoing research studies involving brain abnormalities in schizophrenia, clinical high risk for psychosis, traumatic brain injury, and other relevant populations.
+What draws me most to the Psychiatry Neuroimaging Laboratory is its commitment to understanding brain abnormalities and their correlation with psychiatric disorders through state-of-the-art neuroimaging techniques. The opportunity to contribute to ongoing research studies focused on investigating brain abnormalities in schizophrenia, clinical high risk for psychosis, traumatic brain injury, and other relevant populations resonates deeply with my academic and professional aspirations.\\
 
-I am particularly drawn to this opportunity because it offers invaluable experience for individuals interested in pursuing graduate study in psychology, medicine, engineering, neuroscience, or computer science. I am committed to making a meaningful contribution to your laboratory's objectives while furthering my own academic and professional goals.
+Moreover, my passion for exploring the etiology of schizophrenia stems from a profound desire to contribute to the scientific and technological advancements aimed at elucidating the underlying mechanisms of neuropsychiatric disorders. I am deeply committed to leveraging my interdisciplinary background and technical expertise to guide the scientific and technology community toward developing innovative solutions that inform global understanding of neuropsychiatric disorders and contribute to advancements in global public health.\\
 
-Thank you for considering my application. I am eager to further discuss how my background, skills, and enthusiasm for research can contribute to the Psychiatry Neuroimaging Laboratory's mission. I am available for an interview at your earliest convenience and can be reached at [Phone Number] or via email at [Email Address].
+In conclusion, I am eager to bring my unique blend of skills, passion for scientific inquiry, and dedication to the Psychiatry Neuroimaging Laboratory. Thank you for considering my application. I am looking forward to the possibility of contributing to your laboratory's groundbreaking research endeavors and am available for an interview at your earliest convenience.
 
-I am writing to express my interest in the position of Clinical Research Assistant within the Psychiatry Neuroimaging Laboratory at Massachusetts General Hospital, as advertised on Indeed. With a strong background in engineering, extensive research experience, and a passion for advancing scientific understanding, I am confident in my ability to contribute effectively to your team's objectives.
-
-Having recently completed my Bachelor of Aerospace Engineering at Iowa State University, where I specialized in Micro-electro-mechanical Systems (MEMS) and Soft Matter Physics, I bring a unique perspective to the field of neuroscience research. During my tenure at Iowa State, I engaged in various research projects that honed my analytical skills and provided me with practical experience in experimental design, data analysis, and scientific writing.
-
-In my most recent role as a Scientist I & Data Engineer at Bayer Crop Science, I was involved in cutting-edge research and data engineering tasks within the Regulatory Group. I collaborated with multidisciplinary teams to address complex challenges in agricultural science and technology, demonstrating my ability to adapt to diverse research environments and contribute to the advancement of scientific knowledge.
-
-Prior to that, I served as a Research Assistant & Lab Technician in DARPA's mission to recover rare-earth elements from electronic waste, where I executed pivotal roles in innovative research projects aimed at addressing critical environmental and technological challenges. My experience in experimental techniques, laboratory methodologies, and data analysis has equipped me with the skills necessary to excel in a research-intensive environment.
-
-I am particularly drawn to the opportunity to work in the Psychiatry Neuroimaging Laboratory due to its focus on understanding brain abnormalities and their role in psychiatric disorders using state-of-the-art neuroimaging techniques. I am eager to contribute to ongoing research studies involving investigating brain abnormalities in schizophrenia, clinical high risk for psychosis, traumatic brain injury, and other populations.
-
-In addition to my technical skills, I possess strong organizational abilities, excellent communication skills, and a collaborative mindset, which are essential for success in a research team environment. I am highly motivated, detail-oriented, and committed to producing high-quality work that contributes to the goals of the laboratory and the hospital.
-
-Thank you for considering my application. I am excited about the opportunity to contribute to the groundbreaking research being conducted at the Psychiatry Neuroimaging Laboratory and am looking forward to the possibility of discussing how my background and skills align with your team's needs in more detail.
 Yahriel's Resume
 Yahriel Salinas-Reyes
  The GEM Consortium, Ph.D. Engineering and Science Fellowship
@@ -424,255 +386,5 @@ principles in interfacial viscous-shear flow.
  Finalist of The Fulbright-National Geographic Award, Open Study/Research Award
  Complete funding confirmed upon admission to Ph.D. Program.The GEM Ph.D. Engineering & Science Fellowship.
 
-
 --------------------
-
-Work Experience
- 
-List the work experiences below, starting with the most relevant one. You must specify 1 work experience entry. 
-
-Work Experience 1
-Current Job 
-Please indicate if this is your current job.
-
- 
-Employer . Required
-
-{Bayer Crop Science: Regulatory Group}
- Select
-If none, type N/A. 
-Job Function . Required
-
-{}
- Select
-If none, type N/A. 
-Start Date . Required
-Month
-Dec
-Year
-2023
-Responsibilities 
-{}
-40
-hours worked per week
-Reason For Leaving 
-{}
-
-Work Experience 2
-Current Job 
-Please indicate if this is your current job.
-
- 
-Employer . Required
-
-{DARPA: Recovering Rare-Earth Elements from E-Waste}
- Select
-If none, type N/A. 
-Job Function . Required
-
-{}
- Select
-If none, type N/A. 
-Start Date . Required
-Month
-Dec
-Year
-2023
-Responsibilities 
-{}
-40
-hours worked per week
-Reason For Leaving 
-{}
-
-
-Work Experience 3
-Current Job 
-Please indicate if this is your current job.
-
- 
-Employer . Required
-
-{The Microscale & Interfacial Fluid Physics Laboratory}
- Select
-If none, type N/A. 
-Job Function . Required
-
-{}
- Select
-If none, type N/A. 
-Start Date . Required
-Month
-Dec
-Year
-2023
-Responsibilities 
-{}
-40
-hours worked per week
-Reason For Leaving 
-{}
-
-
-
-Work Experience 4
-Current Job 
-Please indicate if this is your current job.
-
- 
-Employer . Required
-
-{The Soft Matter Material Transport Group}
- Select
-If none, type N/A. 
-Job Function . Required
-
-{}
- Select
-If none, type N/A. 
-Start Date . Required
-Month
-Dec
-Year
-2023
-Responsibilities 
-{}
-40
-hours worked per week
-Reason For Leaving 
-{}
-
-Work Experience 5
-Current Job 
-Please indicate if this is your current job.
-
- 
-Employer . Required
-
-{Caltech The Kavli Nanoscience Institute: The Julia R. Greer Group}
- Select
-If none, type N/A. 
-Job Function . Required
-
-{}
- Select
-If none, type N/A. 
-Start Date . Required
-Month
-Dec
-Year
-2023
-Responsibilities 
-{}
-40
-hours worked per week
-Reason For Leaving 
-{}
-
-Work Experience 6
-Current Job 
-Please indicate if this is your current job.
-
- 
-Employer . Required
-
-{Boeing Aerospace: Wind Energy & Development}
- Select
-If none, type N/A. 
-Job Function . Required
-
-{}
- Select
-If none, type N/A. 
-Start Date . Required
-Month
-Dec
-Year
-2023
-Responsibilities 
-{}
-40
-hours worked per week
-Reason For Leaving 
-{}
-
-Work Experience 7
-Current Job 
-Please indicate if this is your current job.
-
- 
-Employer . Required
-
-{Stanford University: Xiaolin Zheng Z-Energy Group}
- Select
-If none, type N/A. 
-Job Function . Required
-
-{}
- Select
-If none, type N/A. 
-Start Date . Required
-Month
-Dec
-Year
-2023
-Responsibilities 
-{}
-40
-hours worked per week
-Reason For Leaving 
-{}
-
-Work Experience 8
-Current Job 
-Please indicate if this is your current job.
-
- 
-Employer . Required
-
-{Iowa State University of Science & Technology}
- Select
-If none, type N/A. 
-Job Function . Required
-
-{}
- Select
-If none, type N/A. 
-Start Date . Required
-Month
-Dec
-Year
-2023
-Responsibilities 
-{}
-40
-hours worked per week
-Reason For Leaving 
-{}
-
-Work Experience 9
-Current Job 
-Please indicate if this is your current job.
-
- 
-Employer . Required
-
-{}
- Select
-If none, type N/A. 
-Job Function . Required
-
-{}
- Select
-If none, type N/A. 
-Start Date . Required
-Month
-Dec
-Year
-2023
-Responsibilities 
-{}
-40
-hours worked per week
-Reason For Leaving 
-{}
+ ONLY GIVE ME THIS COVER LETTER ENTRY AND NOTHING ElSE
