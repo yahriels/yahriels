@@ -82,13 +82,6 @@ https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Lib_Dummy.txt
 https://github.com/yahriels/yahriels/blob/main/Workspace/lib/dummy.txt
 }
 
-Frame your response to this audience and as the reviewer:
-https://sparcnet.org/home/sparcnet-ramp/
-https://sparcnet.org/home/sparcnet-ramp/program-overview/
-https://sparcnet.org/home/sparcnet-ramp/mentors-and-research-questions/
-https://www.nsf.gov/awardsearch/showAward?AWD_ID=2319645&HistoricalAwards=false
-https://sparcnet.org/home/sparcnet-ramp/application-information-and-guidance/
-
 
 
 }
@@ -101,12 +94,7 @@ Rewrite and Extend and Reorganize the Response and keep the word/character count
 
 Review and make changes in regards to the position given here at these links: 
 Website
-https://www.indeed.com/viewjob?jk=6945d3c6981029b1&from=mobRdr&xpse=SoBQ67I3CbG9EKS2NZ0LbzkdCdPP&xfps=4e491d52-801f-4148-8d42-f6de2c0e6f7c&xkcb=SoCf67M3CbGS6vwTLJ0ZbzkdCdPP&utm_source=%2Fm%2F&utm_medium=redir&utm_campaign=dt
-http://pnl.bwh.harvard.edu 
-
-
-
-}
+https://vrtx.wd5.myworkdayjobs.com/en-US/vertex_careers/job/Boston-MA/Vertex-2024-Fall-Co-op--Gene-Editing--Boston--MA-_REQ-19913-1}
 
 
 Prompt: Rewrite and Enhance Yahriel's Response
@@ -114,91 +102,118 @@ Prompt: Rewrite and Enhance Yahriel's Response
 Rewrite and Extend and Reorganize the Response and keep the word/character count the same but remove all redundancies and make it more advanced academic and formal writing.
 Review and make changes in regards to the position given here at these links: 
 Website
-https://www.indeed.com/viewjob?jk=6945d3c6981029b1&from=mobRdr&xpse=SoBQ67I3CbG9EKS2NZ0LbzkdCdPP&xfps=4e491d52-801f-4148-8d42-f6de2c0e6f7c&xkcb=SoCf67M3CbGS6vwTLJ0ZbzkdCdPP&utm_source=%2Fm%2F&utm_medium=redir&utm_campaign=dt
-http://pnl.bwh.harvard.edu 
-
+https://vrtx.wd5.myworkdayjobs.com/en-US/vertex_careers/job/Boston-MA/Vertex-2024-Fall-Co-op--Gene-Editing--Boston--MA-_REQ-19913-1
 }
 
-
-
-
-
 --------------------
-Clinical Research Assistant
- - (3282954)
- 
-GENERAL SUMMARY/ OVERVIEW STATEMENT:  
+Frame your response to this audience and as the reviewer:
 
-The Psychiatry Neuroimaging Laboratory is looking to hire a qualified candidate for the position of Research Assistant. The laboratory is part of the Department of Psychiatry at Massachusetts General Hospital. The main mission of this laboratory is to understand brain abnormalities and their role in psychiatric disorders by using state-of-the-art neuroimaging techniques. If you would like to read more about the laboratory, please visit our website at http://pnl.bwh.harvard.edu 
+Company Information
 
+Vertex is a global biotechnology company that invests in scientific innovation to create transformative medicines for people with serious diseases. The company has approved medicines that treat the underlying causes of multiple chronic, life-shortening genetic diseases — cystic fibrosis, sickle cell disease and transfusion-dependent beta thalassemia — and continues to advance clinical and research programs in these diseases. Vertex also has a robust clinical pipeline of investigational therapies across a range of modalities in other serious diseases where it has deep insight into causal human biology, including APOL1-mediated kidney disease, acute and neuropathic pain, type 1 diabetes, myotonic dystrophy type 1 and alpha-1 antitrypsin deficiency .
 
-PRINCIPAL DUTIES AND RESPONSIBILITIES:  
+Vertex 2024 Fall Co-op, Gene Editing (Boston, MA)
+job requisition id
+REQ-19913
+Job Description
 
-Please note, the functions below are representative of major duties that are typically associated with these positions. Specific responsibilities may vary based upon departmental needs. Similarly, not all duties that have been outlined will be assigned to each position.   
+The Vertex Co-op Program offers students the opportunity to learn about the pharmaceutical industry from a hands-on perspective. You will be working closely with and learning from some of the brightest people in the industry. When you join our co-op program you should not be surprised to see that our environment is one that is innovative and team oriented, where collaboration is not just a word, and "we are relentless" is in everything we do. Students can expect to be challenged by their project plan, connect with other co-ops, and feel valued by the Vertex community. Not only will co-ops learn about their day-to-day tasks through their specific work assignments, but they will interact and have exposure to our organizational leaders and their teams.
 
-Work closely with others in a collaborative research environment that includes other Research Assistants, physicians, computer scientists, psychologists, neuroscientists, and other Principal Investigators on ongoing research studies involving investigating brain abnormalities in schizophrenia, clinical high risk for psychosis, traumatic brain injury, and other populations. 
-Assist in managing and coordinating research studies by entering data, assisting on data analysis, and being involved in clinical laboratory work such as being present at MRI scans when subjects are scanned. 
-Learn to use image processing tools for the pre-processing and analysis of structural, functional, and diffusion Magnetic Resonance Images (MRI). 
-Learn to use statistical programs such as Python and R to manage participant data and run elementary statistical tests. 
-Learn to troubleshoot and modify image processing pipelines. 
-Collect, describe, and help analyze library research materials. Help to prepare and proof-read scientific manuscripts and grant applications. 
-Adhere to established MGB and department policies, procedures, and objectives, and exemplify professionalism and exhibit values that contribute to the goals of the lab and the hospital. 
-Perform other related research duties as directed or required. 
- 
- 
-SKILLS/ABILITIES/COMPETENCIES REQUIRED: ​​​​​​​ 
+Job Summary:
 
-Psychology, neuroscience, computer science, engineering, and premed majors are encouraged to apply, but all are welcome. 
-Prior research or clinical experience is recommended. 
-Computer programing experience, including experience with Linux/UNIX systems, python/bash scripting, and/or scientific computing software (e.g. Python, R, MATLAB) is preferred but not required. 
-Applications are being accepted for the position; hiring will take place as soon as possible or by the end of the spring semester. Applicants are expected to give a two-year commitment for the position. This position will provide invaluable experience for those interested in pursuing graduate study in the fields of psychology, medicine, engineering, neuroscience, or computer science. 
-We request a resume and cover letter outlining your reasons for applying and the strengths you would bring to the position. If interested, please apply online through this website, and upload a resume and cover letter (as PDFs) in one document. 
+Vertex Pharmaceuticals is working to discover and develop innovative genetic therapies with the potential to provide transformative benefit to patients. Vertex is currently advancing multiple CRISPR-based genetic therapies that have the potential to cure or stop the progression of degenerative and neuromuscular diseases. This internship will provide a fantastic opportunity to work on cutting edge science, apply state-of-the-art gene editing technologies, and take part in discovering and developing next-generation therapies for Duchenne Muscular Dystrophy and other genetic disorders.
 
-EDUCATION:  
+The co-op role will be undertaken at Vertex Cell and Genetic Therapies, in a highly dynamic environment and competitive field. The overarching goal of this research role is to evaluate gene editing efficiency at disease genomic loci and to contribute to the development of systems for screening and delivery of next-generation therapeutic approaches. Projects related to roles within this group include evaluating novel gene editing delivery methods, characterizing in vitro model systems, exploratory research in new disease areas and development of next generation technologies for measuring gene editing outcomes. Successful candidates will be exposed to a broad range of advanced technologies including CRISPR-Cas9 genome engineering, cell culture, next generation sequencing, high content microscopy, and automated liquid-handling systems.
 
-Qualified applicants must have a bachelor's degree, strong organizational skills, and the ability to work well with others on a research team. 
+Key Responsibilities:
 
-EXPERIENCE:  
+Perform cell culture experiments to deliver gene editing assets
+Assess gene editing efficiency and cellular outcomes using endpoint readouts
+Document experimental procedures and findings in an accurate and timely manner
+Present results and conclusions to team members
+Experience or familiarity with gene editing, CRISPR/Cas9, human disease modeling, delivery systems
 
-Psychology, neuroscience, computer science, engineering, and premed majors are encouraged to apply, but all are welcome. 
-Prior research or clinical experience is  recommended. 
-Computer programing experience, including experience with Linux/UNIX systems, python/bash scripting, and/or scientific computing software (e.g. Python, R, MATLAB) is preferred but not required. 
-If you have further questions, please contact: 
+Qualifications
 
-Elana Kotler, Research Assistant, Email: ekotler@mgh.harvard.edu 
-
- 
+Applicants must be enrolled in a College/University in a Biology/Biochemistry/Biomedical Sciences major or related field
+High level of verbal and written communication skills
+Ability to interact cross-functionally with multiple team members
+Strong analytical capabilities and problem solving skills
+Previous hands-on experience with cell culture and molecular biology techniques is a strong plus
+Working knowledge of MS Office Suite (Word, Excel, PowerPoint, Outlook)
+Legally authorized to work in the United States
+Enrolled in an undergraduate or graduate program
+Candidate must be enrolled in an advanced degree program if graduating before December 2024
+Candidate must be available to work full-time, 40 hours per week from July 10, 2024 – December 20, 2024
 
 Website
-https://www.indeed.com/viewjob?jk=6945d3c6981029b1&from=mobRdr&xpse=SoBQ67I3CbG9EKS2NZ0LbzkdCdPP&xfps=4e491d52-801f-4148-8d42-f6de2c0e6f7c&xkcb=SoCf67M3CbGS6vwTLJ0ZbzkdCdPP&utm_source=%2Fm%2F&utm_medium=redir&utm_campaign=dt
-http://pnl.bwh.harvard.edu 
-
+https://vrtx.wd5.myworkdayjobs.com/en-US/vertex_careers/job/Boston-MA/Vertex-2024-Fall-Co-op--Gene-Editing--Boston--MA-_REQ-19913-1
 --------------------
-Yahriel's Cover Letter ideas
 
-Also express how you are VERY INTERESTED and passionate about studying  the etiology schizophrenia for your PhD in Computational Neuroscience (exploring psychiatric, neurobiological, and neurological perspectives) for your PhD in Computational Neuroscience, understanding neuropsychiatric disorders, and guiding the scientific and technology community to develop solutions and help global understanding of neuropsychiatric disorder and informing global public health.
+Research Skills: Extensive experience in conducting scientific research, including data collection, analysis, and interpretation. Proficient in using various research methods and techniques.
 
-I am writing to express my ardent interest in the Clinical Research Assistant position within the Psychiatry Neuroimaging Laboratory at Massachusetts General Hospital, as advertised on Indeed. With a background in aerospace engineering and a fervent dedication to scientific inquiry, I am deeply enthusiastic about the opportunity to contribute to your esteemed institution's mission of unraveling the complexities of neuropsychiatric disorders, particularly schizophrenia.\\
+Data Analysis: Skilled in processing and summarizing data using scientific or statistical techniques. Able to use software tools like R, MATLAB, Excel, and Power Point for data analysis and visualization.
 
-What draws me most to the Psychiatry Neuroimaging Laboratory is its commitment to understanding brain abnormalities and their correlation with psychiatric disorders through state-of-the-art neuroimaging techniques. The opportunity to contribute to ongoing research studies focused on investigating brain abnormalities in schizophrenia, clinical high risk for psychosis, traumatic brain injury, and other relevant populations resonates deeply with my academic and professional aspirations.\\
+Communication Skills: Excellent oral and written communication skills, demonstrated through scientific reports, presentations, and publications. Able to effectively communicate research findings to diverse audiences.
 
-Moreover, my passion for exploring the etiology of schizophrenia stems from a profound desire to contribute to the scientific and technological advancements aimed at elucidating the underlying mechanisms of neuropsychiatric disorders. I am deeply committed to leveraging my interdisciplinary background and technical expertise to guide the scientific and technology community toward developing innovative solutions that inform global understanding of neuropsychiatric disorders and contribute to advancements in global public health.\\
+Technical Skills: Proficient in using computer software and tools essential for research activities, including Word, Excel, and PowerPoint. Experience with programming languages such as Python, C, C++, and Java.
 
-In conclusion, I am eager to bring my unique blend of skills, passion for scientific inquiry, and dedication to the Psychiatry Neuroimaging Laboratory. Thank you for considering my application. I am looking forward to the possibility of contributing to your laboratory's groundbreaking research endeavors and am available for an interview at your earliest convenience.
+Interdisciplinary Collaboration: Experience working in interdisciplinary research environments, collaborating with professionals from various fields to achieve research objectives.
+
+Project Management: Demonstrated ability to manage research projects, including coordinating research activities, recruiting study participants, and ensuring compliance with protocol procedures.
+
+Laboratory Skills: Experienced in laboratory techniques and methodologies, including experimental setups, data collection, and equipment maintenance.
+
+Critical Thinking: Strong critical thinking skills, essential for problem-solving and troubleshooting in research settings.
+
+Organizational Skills: Highly organized with the ability to prioritize tasks efficiently and effectively manage multiple responsibilities simultaneously.
+
+Adaptability: Flexible and adaptable to different work environments and able to work effectively as part of a large team or independently.
+
+Technical Skills:
+
+Programming Languages: C, C++, Java, Python
+CAD & FEA
+ANSYS/ABAQUS
+Computational Modeling
+Web Technology: SQL
+Operating Systems: Windows, Linux
+AWS Services
+MATLAB & Simulink
+SAS
+IoT
+
+Other Skills
+Proficiency in computer programming languages such as C, C++, Java, and Python.
+Experience with CAD software and finite element analysis (FEA), including ANSYS and ABAQUS.
+Strong computational modeling skills.
+Familiarity with mathematical tools and techniques for data analysis and interpretation.
+Knowledge of advanced programming languages in C++.
+Experience with numerical and graphical techniques for scientific computation.
+Competence in utilizing MATLAB and Simulink for data analysis and modeling.
+Familiarity with statistical analysis software such as SAS.
+Proficiency in web technologies, including SQL, Windows OS, Linux OS, AWS services, and IoT.
+Certification in deep learning with Python and PyTorch.
+Expertise in data analysis and manipulation using Python libraries like Pandas.
+Skilled in machine learning algorithms and techniques.
+Experience with deep learning frameworks and applications.
+Strong background in applied mechanics, physics, materials science, engineering statistics, and continuum mechanics.
+Competency in conducting research, experimental design, and data collection.
+Ability to work efficiently and effectively in a research environment.
+Excellent problem-solving skills and critical thinking abilities.
+Strong oral and written communication skills for presenting research findings and collaborating with interdisciplinary teams.
+Attention to detail and ability to prioritize tasks effectively.
+Adaptability and flexibility to work on different projects and in various work environments.
+
 
 Yahriel's Resume
 Yahriel Salinas-Reyes
- The GEM Consortium, Ph.D. Engineering and Science Fellowship
- Polk: Des Moines, 50316, Iowa, United States
- 515-314-4160 • yahrielsreyes@gmail.com
- //www.linkedin.com/in/yahriel-salinas-reyes-89ab38179
- www.github.com/yahriels
  Education
  Iowa State University of Science & Technology
  Bachelor of Aerospace Engineering, GPA: 3.3
  Specialized in Micro-electro-mechanical Systems (MEMS) and Soft Matter Physics
-Work Experience
- Bayer Crop Science: Regulatory Group
+ Work Experience
+ Bayer Crop Science: Regulatory Group (GEM Employer*)
  Scientist I & Data Engineer
  Ames
  2023
@@ -253,7 +268,6 @@ Work Experience
  Provided technical expertise as an Information Technology Specialist and Data Scientist at Iowa State University
  of Science & Technology, contributing to the implementation, monitoring, and maintenance of IT systems while
  leveraging data science techniques for analysis and decision-making.
- 1/4
 Fellowship Awards
  Program
  Institution/Board
@@ -320,20 +334,18 @@ pation (LSAMP)
  Took part in a challenging design competition organized by NASA, focusing on developing innovative solutions for
  space exploration challenges. Worked in a multidisciplinary team environment to design, build, and test a prototype
  device, gaining valuable practical experience in problem-solving and teamwork
- 2/4
 Relevant Research Projects and Experience
  April 2020- August 2021
- 1. Integration of Piezoresistive MEMS Sensors
+ 1. Synthesis of Phase-change Particles and Applications of MEMS
  (Research Assistant / Mentor: Dr. Martin Thuo)
  Iowa State University
- Explored the integration of piezoresistive MEMS sensors into computer technology, focusing on enhancing sensing
- capabilities in electronic devices. Yahriel contributed to experimental design and data analysis.
- 2. Predictive Modeling of Olympic Triathlon Results
+ Collaborated closely with Dr. Martin Thuo to develop novel materials with unique properties, focusing on phase-change
+ materials and their applications in MEMS technology an integrative systems.
+ 2. Predictive Modeling of Bioinformatics Data to Inform Olympic Performance August 2021- January 2022
  (Research Assistant / Mentor: Dr. Xiaolin Zheng)
- August 2021- January 2022
  Stanford University, Z-Energy Lab
- Investigated predictive models using machine learning techniques to forecast Olympic triathlon results based on data
- collection, model training, and result interpretation, showcasing expertise in data-driven research.
+ Investigated predictive models using machine learning techniques to forecast performance of olympic athletes results
+ based on data collection, model training, and result interpretation, showcasing expertise in data-driven research.
  3. Energy Absorption in Nano-Architected Hybrid Composites
  (Research Assistant / Mentor: Dr. Julia R. Greer)
  August 2022- January 2023
@@ -351,22 +363,20 @@ Relevant Research Projects and Experience
  Developed experimental setups for studying shear-sensing
  August 2021- January 2022
  Boeing Aerospace
- Analyzed fluid flow data and contributed to the develop
-principles in interfacial viscous-shear flow.
- ment of understanding of interfacial stress/physics.
- 6. Cutting-Edge Research in Agricultural Science and Technology
- (Scientist I & Data Engineer)
- Actively engaged in cutting-edge research in green science
- January 2024- Present
- Bayer Crop Science
- Contribute to the advancement of agricultural practices
- and technology at Bayer Crop Science.
+ Analyzed fluid flow data and contributed to the developprinciples in interfacial viscous-shear flow.
+ Analyzed fluid flow data and contributed to the development of understanding of interfacial stress/physics.
+ 6. Sociological Differences in Graduate School Motivation of Minority Identities
+ (McNair Scholar & Mentor: Dr. Ashley Garrin)
+ September 2021- May 2022
+ Ronald E. McNair Postbaccalaureate Achievement Program
+ Constructed an experimental framework, completed literature synthesis, and conducted interviews of program mentors
  Online Courses
- and the development of biotechnological challenges.
+ Analyzed and interpreted results in a technical manner in
+ preparation courses and experiences for doctoral studies.
  Deep Learning: Data Structures and Algorithms in Python (May 2021), Deep Learning with PyTorch: Zero to GANs
  (Jan 2021), Data Analysis with Python: Zero to Pandas (Oct 2020)
  MathWorks: Machine Learning with Matlab (June 2020), Matlab Onramp (May 20xx), Deep Learning Onramp (May
- 20xx), Machine Learning Onramp (May 20xx), Deep Learning with Matlab (May 20xx)
+ 2021), Machine Learning Onramp (May 2021), Deep Learning with Matlab (May 2022)
  Course Work
  1. Key Courses
  (Core and electives)
@@ -384,7 +394,7 @@ principles in interfacial viscous-shear flow.
  Web Technology: SQL, Windows OS, Linux OS, AWS
  Services, MATLAB & Simulink, SAS, Iot
  Finalist of The Fulbright-National Geographic Award, Open Study/Research Award
- Complete funding confirmed upon admission to Ph.D. Program.The GEM Ph.D. Engineering & Science Fellowship.
+ Complete funding confirmed upon admission to Ph.D. Program.The GEM Ph.D. Engineering & Science Fellowship
 
 --------------------
- ONLY GIVE ME THIS COVER LETTER ENTRY AND NOTHING ElSE
+ ONLY GIVE ME THIS COVER LETTER ENTRY AND NOTHING ELSE
