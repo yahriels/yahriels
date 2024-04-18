@@ -1,4 +1,37 @@
 
+--------------------
+About the job
+Value Add is a popular trade publication for the private equity industry, with thousands of readers from some of the world's top firms including Blackstone, Permira, Advent International, and TA Associates. We publish weekly briefings about recent buyouts, as well as case studies, reports, and other research that provides more in-depth insight into the operating side of private equity.
+
+
+We're growing and looking for additional research analysts to work with us on an ongoing, part-time basis. This is a great opportunity for MBA students, IB/MBB professionals, financial journalists, or anyone with a few hours available a week who is interested in building a portfolio of research on the private equity industry.
+
+
+The time commitment is 20 hours per month (at a rate of $25 /hr). Approximately half of your time will be spent researching a topic, booking and interviewing subject matter experts, outlining research reports; the other half will be spent writing and editing.
+
+
+Responsibilities
+Conduct research on trends in private equity portfolio operations, such as turnarounds, operational improvements, digital transformation, restructuring, governance, and talent management.
+Analyze company financial statements, earnings reports, and third-party research.
+Book and interview subject matter experts willing to speak on-the-record for comments or Q&As.
+Write in-depth (1,500-2,000 word) reports and case studies for a C-level executive audience.
+Build and format charts in Excel and PPT to be included in reports and case studies.
+
+
+Qualifications
+Bachelor's degree in Business, Finance, Economics, or a related field.
+Experience interpreting financial statements and conducting research on companies.
+CFA charter holder is a plus, as is experience in valuations or equity research.
+Strong writing and editing skills, with an ability to convey complex information clearly and engagingly.
+Curious, self-starter who is eager to dive into the world of corporate turnarounds.
+Excellent communication, organizational, and time-management skills.
+
+Website
+
+
+--------------------
+
+
 Help Yahriel Salinas Answer The Prompt, Review The Response, Provide Feedback, Make Corrections, Enhance, and Finalize Yahriel's Best Response For To Prompt..
 
 Yahriel is the MASTER User: 
@@ -94,60 +127,18 @@ Rewrite and Extend and Reorganize the Response and keep the word/character count
 
 Review and make changes in regards to the position given here at these links: 
 Website
-https://vrtx.wd5.myworkdayjobs.com/en-US/vertex_careers/job/Boston-MA/Vertex-2024-Fall-Co-op--Gene-Editing--Boston--MA-_REQ-19913-1}
 
+
+}
 
 Prompt: Rewrite and Enhance Yahriel's Response
 {
 Rewrite and Extend and Reorganize the Response and keep the word/character count the same but remove all redundancies and make it more advanced academic and formal writing.
 Review and make changes in regards to the position given here at these links: 
 Website
-https://vrtx.wd5.myworkdayjobs.com/en-US/vertex_careers/job/Boston-MA/Vertex-2024-Fall-Co-op--Gene-Editing--Boston--MA-_REQ-19913-1
+
+
 }
-
---------------------
-Frame your response to this audience and as the reviewer:
-
-Company Information
-
-Vertex is a global biotechnology company that invests in scientific innovation to create transformative medicines for people with serious diseases. The company has approved medicines that treat the underlying causes of multiple chronic, life-shortening genetic diseases — cystic fibrosis, sickle cell disease and transfusion-dependent beta thalassemia — and continues to advance clinical and research programs in these diseases. Vertex also has a robust clinical pipeline of investigational therapies across a range of modalities in other serious diseases where it has deep insight into causal human biology, including APOL1-mediated kidney disease, acute and neuropathic pain, type 1 diabetes, myotonic dystrophy type 1 and alpha-1 antitrypsin deficiency .
-
-Vertex 2024 Fall Co-op, Gene Editing (Boston, MA)
-job requisition id
-REQ-19913
-Job Description
-
-The Vertex Co-op Program offers students the opportunity to learn about the pharmaceutical industry from a hands-on perspective. You will be working closely with and learning from some of the brightest people in the industry. When you join our co-op program you should not be surprised to see that our environment is one that is innovative and team oriented, where collaboration is not just a word, and "we are relentless" is in everything we do. Students can expect to be challenged by their project plan, connect with other co-ops, and feel valued by the Vertex community. Not only will co-ops learn about their day-to-day tasks through their specific work assignments, but they will interact and have exposure to our organizational leaders and their teams.
-
-Job Summary:
-
-Vertex Pharmaceuticals is working to discover and develop innovative genetic therapies with the potential to provide transformative benefit to patients. Vertex is currently advancing multiple CRISPR-based genetic therapies that have the potential to cure or stop the progression of degenerative and neuromuscular diseases. This internship will provide a fantastic opportunity to work on cutting edge science, apply state-of-the-art gene editing technologies, and take part in discovering and developing next-generation therapies for Duchenne Muscular Dystrophy and other genetic disorders.
-
-The co-op role will be undertaken at Vertex Cell and Genetic Therapies, in a highly dynamic environment and competitive field. The overarching goal of this research role is to evaluate gene editing efficiency at disease genomic loci and to contribute to the development of systems for screening and delivery of next-generation therapeutic approaches. Projects related to roles within this group include evaluating novel gene editing delivery methods, characterizing in vitro model systems, exploratory research in new disease areas and development of next generation technologies for measuring gene editing outcomes. Successful candidates will be exposed to a broad range of advanced technologies including CRISPR-Cas9 genome engineering, cell culture, next generation sequencing, high content microscopy, and automated liquid-handling systems.
-
-Key Responsibilities:
-
-Perform cell culture experiments to deliver gene editing assets
-Assess gene editing efficiency and cellular outcomes using endpoint readouts
-Document experimental procedures and findings in an accurate and timely manner
-Present results and conclusions to team members
-Experience or familiarity with gene editing, CRISPR/Cas9, human disease modeling, delivery systems
-
-Qualifications
-
-Applicants must be enrolled in a College/University in a Biology/Biochemistry/Biomedical Sciences major or related field
-High level of verbal and written communication skills
-Ability to interact cross-functionally with multiple team members
-Strong analytical capabilities and problem solving skills
-Previous hands-on experience with cell culture and molecular biology techniques is a strong plus
-Working knowledge of MS Office Suite (Word, Excel, PowerPoint, Outlook)
-Legally authorized to work in the United States
-Enrolled in an undergraduate or graduate program
-Candidate must be enrolled in an advanced degree program if graduating before December 2024
-Candidate must be available to work full-time, 40 hours per week from July 10, 2024 – December 20, 2024
-
-Website
-https://vrtx.wd5.myworkdayjobs.com/en-US/vertex_careers/job/Boston-MA/Vertex-2024-Fall-Co-op--Gene-Editing--Boston--MA-_REQ-19913-1
 --------------------
 
 Research Skills: Extensive experience in conducting scientific research, including data collection, analysis, and interpretation. Proficient in using various research methods and techniques.
@@ -397,4 +388,5 @@ Relevant Research Projects and Experience
  Complete funding confirmed upon admission to Ph.D. Program.The GEM Ph.D. Engineering & Science Fellowship
 
 --------------------
+WHAT ARE THE TOP 5 KEY WORDS IN THIS JOB DESCRIPTION? USE THESE 5 WORDS TO HELP WRITE THE COVER LETTER AND INCLUDE THEM IN THE COVER LETTER IN BOLD.
  ONLY GIVE ME THIS COVER LETTER ENTRY AND NOTHING ELSE
