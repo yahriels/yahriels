@@ -1,33 +1,54 @@
 
 --------------------
-About the job
-Value Add is a popular trade publication for the private equity industry, with thousands of readers from some of the world's top firms including Blackstone, Permira, Advent International, and TA Associates. We publish weekly briefings about recent buyouts, as well as case studies, reports, and other research that provides more in-depth insight into the operating side of private equity.
+Job Description
+Sr Software Engineer
+Apply
+locations
+US - California - San Diego
+time type
+Full time
+posted on
+Posted 30+ Days Ago
+job requisition id
+36931-JOB
+What if the work you did every day could impact the lives of people you know? Or all of humanity?
+At Illumina, we are expanding access to genomic technology to realize health equity for billions of people around the world. Our efforts enable life-changing discoveries that are transforming human health through the early detection and diagnosis of diseases and new treatment options for patients.
+Working at Illumina means being part of something bigger than yourself. Every person, in every role, has the opportunity to make a difference. Surrounded by extraordinary people, inspiring leaders, and world changing projects, you will do more and become more than you ever thought possible.
+Summary:
 
+We are seeking a highly skilled Senior Software Engineer to join Illumina’s dynamic R&D department. In this pivotal role, you will focus on optimizing and enhancing workflow efficiency within Illumina’s portfolio through laboratory process automation. Your responsibilities will encompass interfacing with robotic systems, crafting and deploying innovative software solutions, and facilitating effective communication across multiple teams.
 
-We're growing and looking for additional research analysts to work with us on an ongoing, part-time basis. This is a great opportunity for MBA students, IB/MBB professionals, financial journalists, or anyone with a few hours available a week who is interested in building a portfolio of research on the private equity industry.
+Responsibilities: 
 
+Collaborate with product owners and other application developers to design, code, and maintain high quality, cloud-based applications against established processes in a scrum team setting
+Work with software teams to ensure alignment of architecture to user requirements
+Occasionally provide technical assistance to escalated production issues
+Maintain awareness of industry trends and evaluate applicability of new software technologies to platform development efforts
+Requirements: 
 
-The time commitment is 20 hours per month (at a rate of $25 /hr). Approximately half of your time will be spent researching a topic, booking and interviewing subject matter experts, outlining research reports; the other half will be spent writing and editing.
+Extensive knowledge and experience with C#, .Net, Python
+Experience with data persistence technologies (such as SQL, PostgreSql)
+Experience with Web APIs 
+Deep understanding of microservices architecture, web security architecture, REST APIs, event-driven architecture, and other architectural patterns
+Proficient with source control management and Configuration Management practices (git, jenkins, etc)
+Extensive experience writing high quality unit tests against mock objects
+Good understanding of object oriented analysis and design
+Demonstrated success in collaborating in a fast-paced team environment and delivering high-quality software products using established agile development methodologies (such as Scrum, Kanban, etc.) against formal schedules
+ 
+Desired:
 
+Experience with coding with Java, WPF, JavaScript
+Experience with Liquid Handling Robots is a major plus
+Understanding of Molecular Biology, Bioinformatics, or related field of biology
+Possess proven troubleshooting skills
+Be curious, detail oriented, and analytical, with a proven ability to learn quickly
+Be customer-focused, team-oriented, and motivated, taking ownership of assigned tasks
+Have proven ability to self-manage, as well as manage interdisciplinary relationships
+Have proven verbal and written communication skills
 
-Responsibilities
-Conduct research on trends in private equity portfolio operations, such as turnarounds, operational improvements, digital transformation, restructuring, governance, and talent management.
-Analyze company financial statements, earnings reports, and third-party research.
-Book and interview subject matter experts willing to speak on-the-record for comments or Q&As.
-Write in-depth (1,500-2,000 word) reports and case studies for a C-level executive audience.
-Build and format charts in Excel and PPT to be included in reports and case studies.
-
-
-Qualifications
-Bachelor's degree in Business, Finance, Economics, or a related field.
-Experience interpreting financial statements and conducting research on companies.
-CFA charter holder is a plus, as is experience in valuations or equity research.
-Strong writing and editing skills, with an ability to convey complex information clearly and engagingly.
-Curious, self-starter who is eager to dive into the world of corporate turnarounds.
-Excellent communication, organizational, and time-management skills.
 
 Website
-
+https://alleninstitute.org/careers/jobs/?jobId=E5D2A479-3107-C530-6FA3-512531273358
 
 --------------------
 
@@ -125,8 +146,7 @@ https://github.com/yahriels/yahriels/blob/main/Workspace/lib/dummy.txt
 
 Rewrite and Extend and Reorganize the Response and keep the word/character count the same but remove all redundancies and make it more advanced academic and formal writing.
 
-Review and make changes in regards to the position given here at these links: 
-Website
+Review and make changes in regards to the position given in the description.
 
 
 }
@@ -134,12 +154,12 @@ Website
 Prompt: Rewrite and Enhance Yahriel's Response
 {
 Rewrite and Extend and Reorganize the Response and keep the word/character count the same but remove all redundancies and make it more advanced academic and formal writing.
-Review and make changes in regards to the position given here at these links: 
-Website
+Review and make changes in regards to the position given in the description.
 
 
 }
 --------------------
+WHAT ARE THE TOP 5 KEY WORDS IN THIS JOB DESCRIPTION? USE THESE 5 WORDS TO HELP WRITE THE COVER LETTER and include them when writing your cover letter.
 
 Research Skills: Extensive experience in conducting scientific research, including data collection, analysis, and interpretation. Proficient in using various research methods and techniques.
 
@@ -234,7 +254,7 @@ Yahriel Salinas-Reyes
  Caltech The Kavli Nanoscience Institute: The Julia R. Greer Group
  Undergraduate Research Assistant
  Pasadena, CA
- 05/2021- 08/2021
+ 05/2022- 08/2022
  Contributed to research efforts at Caltech’s Kavli Nanoscience Institute, collaborating with the Julia R. Greer Group
  on the development of hybrid nanocomposites and the investigation of viscoelastic behavior, highlighting capabilities
  in nanomaterials synthesis and characterization.
@@ -388,5 +408,4 @@ Relevant Research Projects and Experience
  Complete funding confirmed upon admission to Ph.D. Program.The GEM Ph.D. Engineering & Science Fellowship
 
 --------------------
-WHAT ARE THE TOP 5 KEY WORDS IN THIS JOB DESCRIPTION? USE THESE 5 WORDS TO HELP WRITE THE COVER LETTER AND INCLUDE THEM IN THE COVER LETTER IN BOLD.
- ONLY GIVE ME THIS COVER LETTER ENTRY AND NOTHING ELSE
+ONLY GIVE ME THIS COVER LETTER ENTRY AND NOTHING ELSE
