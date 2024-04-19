@@ -1,54 +1,41 @@
 
 --------------------
-Job Description
-Sr Software Engineer
-Apply
-locations
-US - California - San Diego
-time type
-Full time
-posted on
-Posted 30+ Days Ago
-job requisition id
-36931-JOB
-What if the work you did every day could impact the lives of people you know? Or all of humanity?
-At Illumina, we are expanding access to genomic technology to realize health equity for billions of people around the world. Our efforts enable life-changing discoveries that are transforming human health through the early detection and diagnosis of diseases and new treatment options for patients.
-Working at Illumina means being part of something bigger than yourself. Every person, in every role, has the opportunity to make a difference. Surrounded by extraordinary people, inspiring leaders, and world changing projects, you will do more and become more than you ever thought possible.
-Summary:
+Scientist I - Bio-inspired Machine Learning
+APPLY
+Scientist I – Bio-inspired Machine Learning
 
-We are seeking a highly skilled Senior Software Engineer to join Illumina’s dynamic R&D department. In this pivotal role, you will focus on optimizing and enhancing workflow efficiency within Illumina’s portfolio through laboratory process automation. Your responsibilities will encompass interfacing with robotic systems, crafting and deploying innovative software solutions, and facilitating effective communication across multiple teams.
+The mission of the Allen Institute is to unlock the complexities of bioscience and advance our knowledge to improve human health. Using an open science, multi-scale, team-oriented approach, the Allen Institute focuses on accelerating foundational research, developing standards and models, and cultivating new ideas to make a broad, transformational impact on science.
 
-Responsibilities: 
+The Data-Driven Discovery Center for Biology (D3B) is committed to pioneering the future of bioscience research by leveraging state-of-the-art computational techniques and data analytics. Our mission focuses on driving advancements in neuroscience, cellular biology, and immunology through the integration of computational science and biological research. As part of the Allen Institute, D3B aims to be a global leader in creating actionable insights from complex biological data.
 
-Collaborate with product owners and other application developers to design, code, and maintain high quality, cloud-based applications against established processes in a scrum team setting
-Work with software teams to ensure alignment of architecture to user requirements
-Occasionally provide technical assistance to escalated production issues
-Maintain awareness of industry trends and evaluate applicability of new software technologies to platform development efforts
-Requirements: 
+Biological systems learn differently than current machine learning systems, with generally higher sample efficiency but also strong inductive biases. The scientist will explore the effects which bio-realistic neurons, plasticity rules and architectures have on learning in artificial neural networks. This will be done by combining construction of artificial neural network with bio-inspired constraints. Of particular interest is understanding the role stimulus saliency plays in credit assignment.
 
-Extensive knowledge and experience with C#, .Net, Python
-Experience with data persistence technologies (such as SQL, PostgreSql)
-Experience with Web APIs 
-Deep understanding of microservices architecture, web security architecture, REST APIs, event-driven architecture, and other architectural patterns
-Proficient with source control management and Configuration Management practices (git, jenkins, etc)
-Extensive experience writing high quality unit tests against mock objects
-Good understanding of object oriented analysis and design
-Demonstrated success in collaborating in a fast-paced team environment and delivering high-quality software products using established agile development methodologies (such as Scrum, Kanban, etc.) against formal schedules
- 
-Desired:
+The Allen Institute believes that team science significantly benefits from the participation of diverse voices, experiences, and backgrounds. High-quality science can only be produced when it includes different perspectives. We are committed to increasing diversity across every team and encourage people from all backgrounds to apply for this role.
 
-Experience with coding with Java, WPF, JavaScript
-Experience with Liquid Handling Robots is a major plus
-Understanding of Molecular Biology, Bioinformatics, or related field of biology
-Possess proven troubleshooting skills
-Be curious, detail oriented, and analytical, with a proven ability to learn quickly
-Be customer-focused, team-oriented, and motivated, taking ownership of assigned tasks
-Have proven ability to self-manage, as well as manage interdisciplinary relationships
-Have proven verbal and written communication skills
+Essential Functions
+
+Narrow down candidate bio-inspired constraints which could affect learning
+Construct artificial neural networks with these bio-inspired constraints
+Analyze the effects such constrains have on learning
+Publish the findings
+Propose new candidate bio-inspired constraints
+Note: Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. This description reflects management’s assignment of essential functions; it does not proscribe or restrict the tasks that may be assigned.
+
+Required Education and Experience
+
+Ph.D. in Applied Math, Computer Science, Computational Neuroscience, Physics or related field; or equivalent combination of degree and experience
+Strong quantitative background
+Strong machine learning background
+Preferred Education and Experience
+
+Computational and/or systems neuroscience experience
+Strong publication record
+Track record of independent thinking
 
 
 Website
-https://alleninstitute.org/careers/jobs/?jobId=E5D2A479-3107-C530-6FA3-512531273358
+https://alleninstitute.org/careers/jobs/?jobId=22663746-BD75-5AC6-6B14-B3F95539ED10
+
 
 --------------------
 
