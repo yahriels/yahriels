@@ -65,24 +65,32 @@ Adaptability and flexibility to work on different projects and in various work e
 -----------------
 Yahriel's Cover Letter ideas
 
-I hope you are doing well. I wanted to follow up on my application below for research position in your lab.
-I firstly wanted to express my deep interest for this position as I am very interested in research relating to schizophrenia specifically and in neuroimaging techniques, psychiatric Institutional representations of schizophrenia, and psychological/neurological perspectives. As a matter of fact I am captivated by the mystery of schizophrenia and psychosis for my own personal reasons and would like to pursue a PhD in Computational Neuroscience to study this topic. You can check out some of my proposed ideas and interests in Schizophrenia on my personal github page here: https://github.com/yahriels/yahriels  I have also attached some of my related materials to the end of this email.
+Yahriel's Cover Letter Idea
 
-I am currently a confirmed GEM Fellow of the National GEM Consortium PhD in Science and Engineering Fellowship  and have complete funding for the duration of the PhD (upon acceptance into a PhD program). The GEM Fellowship gives me a year to apply and get into a PhD program, and since I am applying for graduate study in this related topic (Schizophrenia, Neuroscience), this opportunity is a perfect fit for me for this year as I prepare to apply to graduate study in the coming year. 
-
-I am very excited for the prospect of joining this work and would like to learn more about this opportunity if possible. 
-
-Please contact me at your earlier convenience and I look forward to hearing from you!
-
-
-Also express how you are VERY INTERESTED and passionate about studying  the etiology schizophrenia for your PhD in Computational Neuroscience (exploring psychiatric, neurobiological, and neurological perspectives) for your PhD in Computational Neuroscience, understanding neuropsychiatric disorders, and guiding the scientific and technology community to develop solutions and help global understanding of neuropsychiatric disorder and informing global public health.
-
-I am writing to express my ardent interest in the Research position within the  at Yale. With a background in aerospace engineering and a fervent dedication to scientific inquiry, I am deeply enthusiastic about the opportunity to contribute to your esteemed institution's mission of unraveling the complexities of neuropsychiatric disorders, particularly schizophrenia.\\
-
-What draws me most to the Laboratory is its commitment to understanding brain abnormalities and their correlation with psychiatric disorders through state-of-the-art neuroimaging techniques. The opportunity to contribute to ongoing research studies focused on investigating brain abnormalities in schizophrenia, clinical high risk for psychosis, traumatic brain injury, and other relevant populations resonates deeply with my academic and professional aspirations.\\
-
-Talk About Relevant Research Experience...In my previous roles, including my tenure at Bayer Crop Science and DARPA, I honed my research and data engineering skills, contributing to cutting-edge projects aimed at addressing critical environmental and technological challenges. My experiences have equipped me with a strong foundation in scientific inquiry, data analysis, and interdisciplinary collaboration, which I believe are essential for success in the Research position.\\
-
-Moreover, my passion for exploring the etiology of schizophrenia stems from a profound desire to contribute to the scientific and technological advancements aimed at elucidating the underlying mechanisms of neuropsychiatric disorders. I am deeply committed to leveraging my interdisciplinary background and technical expertise to guide the scientific and technology community toward developing innovative solutions that inform global understanding of neuropsychiatric disorders and contribute to advancements in global public health.\\
-
-In conclusion, I am eager to bring my unique blend of skills, passion for scientific inquiry, and dedication to the Laboratory. Thank you for considering my application. I am looking forward to the possibility of contributing to your laboratory's groundbreaking research endeavors and am available for an interview at your earliest convenience.
+Allen Institute\\
+Scientist I - Computation Through Dynamics\\
+615 Westlake Ave North,\\ Seattle, WA 98109\\
+\\
+\\
+Dear Hiring Manager/Reviewer, \\
+\\
+I am writing to express my strong interest in the Scientist I position at the Allen Institute for Neural Dynamics (AIND), as advertised. With a diverse background in aerospace engineering, data engineering, and research across various institutions, I bring a unique skill set and perspective to the field of neuroscience and computational modeling.\\
+\\
+My academic journey has equipped me with a solid foundation in mathematical sciences, computational and data-enabled sciences, as well as bioinformatics. Throughout my career, I have actively engaged in multidisciplinary research, collaborating with experts from different fields to address complex challenges. I have honed my abilities in experimental design, data analysis, and computational modeling. My experiences range from investigating energy absorption mechanisms in nano-architected hybrid composites to designing experimental setups for studying shear-sensing principles of interfacial viscous-shear flow. My experience spans from experimental systems and automation engineering to nanomaterials synthesis and characterization, demonstrating my versatility in research methodologies. These endeavors have not only fostered my technical proficiency but have also instilled in me a deep appreciation for interdisciplinary collaboration and the pursuit of knowledge at the forefront of scientific inquiry.\\
+\\
+In particular, I bring to the table:\\
+1. Proficiency in computational modeling and data analysis, demonstrated through my work on piezoelectric wind-energy harvesters and meta-stable particles. \\
+2. Strong programming skills in C, C++, Java, and Python, coupled with experience in utilizing software tools such as MATLAB, Simulink, and ANSYS/ABAQUS.\\
+3. Excellent written and verbal communication skills, as evidenced by my contributions to scientific reports, presentations, and publications.\\
+4. A collaborative mindset, cultivated through my participation in various research projects and engagements with interdisciplinary teams.\\
+5. A commitment to diversity and inclusivity, in line with the Allen Institute's mission to foster an environment that values diverse perspectives and experiences.\\ 
+\\
+The opportunity to lead efforts in building and analyzing neural network models aligns perfectly with my research interests and career goals. I am particularly excited about the prospect of leveraging my skills in computational modeling and data analysis to contribute to fundamental discoveries in neuroscience. Additionally, my proficiency in programming languages such as Python, along with experience with cloud computing infrastructures, positions me well to excel in this role.\\
+\\
+I am drawn to the collaborative and team-oriented approach at the Allen Institute, as well as the commitment to open science and sharing of knowledge. I am eager to contribute to the mission of unlocking the complexities of bioscience and advancing our understanding of the brain.\\
+\\
+\\
+Thank you for considering my application. I am looking forward to the opportunity to discuss how my background and skills can contribute to the innovative work being done at the Allen Institute for Neural Dynamics.\\
+\\
+\\
+\makeletterclosing
