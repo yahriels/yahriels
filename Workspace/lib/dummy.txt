@@ -1,46 +1,46 @@
 
 --------------------
-Data Support Technician II - Data Publishing
+Research Associate I - Tissue Processing
 APPLY
-Data Support Technician II - Data Publishing
+Research Associate I – Tissue Processing
 
 The mission of the Allen Institute is to unlock the complexities of bioscience and advance our knowledge to improve human health. Using an open science, multi-scale, team-oriented approach, the Allen Institute focuses on accelerating foundational research, developing standards and models, and cultivating new ideas to make a broad, transformational impact on science.
 
-The mission of the Allen Institute for Brain Science is to accelerate the understanding of how the human brain works in health and disease. Using a big science approach, we generate useful public resources, drive technological and analytical advances, and discover fundamental brain properties through the integration of experiments, modeling, and theory.
+The mission of the Allen Institute for Brain Science is to accelerate the understanding of how the human brain works in health and disease. Using a big science approach, we generate useful public resources, drive technological and analytical advances, and discover fundamental brain properties through integration of experiments, modeling and theory.
 
-We are seeking a detail-oriented Data Support Technician to join the Data & Technology team. The successful candidate will be responsible for overseeing data transfer and digital publishing for our research projects and scientific products, ensuring that data is Findable, Accessible, Interoperable and Reusable. This position will interact regularly with scientists, IT staff, data engineers, and others to ensure that data is managed effectively and efficiently to support the institute’s research objectives.
+This Research Associate I will support projects aimed to classify cell types within the brain and be responsible for executing a variety of laboratory tasks and/or experiments in a high-throughput laboratory and animal care environment following Standard Operating Procedures (SOPs). Good judgment and problem-solving skills are required for recognizing process deviations, participating in troubleshooting, and operation of complex laboratory instrumentation.
 
-The Allen Institute believes that team science significantly benefits from the participation of diverse voices, experiences, and backgrounds. High-quality science can only be produced when it includes different perspectives. We are committed to increasing diversity across every team and encourage people from all backgrounds to apply for this role.
+This role is expected to comply with regulatory requirements, adhere to SOPs, initiate individual experiments and to work efficiently in a team environment.
 
-Essential Duties and Responsibilities:
+The Allen Institute believes that team science significantly benefits from the participation of diverse voices, experiences and backgrounds. High-quality science can only be produced when it includes different perspectives. We are committed to increasing diversity across every team and encourage people from all backgrounds to apply for this role.
 
-Work with research teams to ensure data is properly documented, organized, and prepared for transfer and publication
-Package, transfer and publish data using appropriate protocols and standards
-Audit data quality, integrity and availability and provide KPIs for data publishing
-Researching and identify solutions to issues related to data formats, compression, and transfer
-Manage data collections to ensure integrity and completeness, and ensure accurate tracking of data publishing, confirmation of availability, and validation of files for integrity
-Collaborate with data archives, repositories, or other publishers to resolve issues and support process improvements
-Collaborate with other software engineers to integrate data transfer processes and scripts with a services-based platform
-Prioritize and manage open issues
+Essential Functions
+
+Performance of acute surgical procedures and tissue dissections
+Handling of mice
+Processing mouse, human, and non-human primate brain tissue
+Dissociation and preparation of single cell/nuclei samples for analysis
+Cell and tissue histological staining
+Follow SOPs, good laboratory practices, and regulatory requirements
+Maintain accurate laboratory documentation and reporting using established methods
+Work with supervisor to appropriately manage time and prioritize tasks
 Note: Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions. This description reflects management’s assignment of essential functions; it does not proscribe or restrict the tasks that may be assigned.
 
 Required Education and Experience
 
-Bachelor's degree, or certificate in computer science, information management or related field; or equivalent experience
-Minimum of 2 years of relevant postbac work experience
-Proven work experience as a Technical Support Engineer, Help Desk Technician, or similar role
-Experience developing processes both procedural and software based
-Strong communication skills and customer focus
-Knowledge of programming languages (e.g., Python), and database queries (e.g., SQL)
-Experience with cloud services and with data transfer protocols such as FTP, HTTPS, Aspera, Globus and others
+Bachelor’s degree in a life science or related field
 Preferred Education and Experience
 
-2 - 5 years of relevant postbac work experience
-Strong analytical and problem-solving skills
-
-
+1+ years of related work experience and/or training preferred
+Exceptional manual dexterity and attention to detail
+Basic knowledge of mouse neuroanatomy, genetics, flow cytometry, RNA sequencing, electrophysiology and/or cell biology
+Experience working with mice and/or tissue samples
+Experience with fluorescence and/or dissection microscopy
+Ability to critically interpret and analyze scientific data
+Intermediate level ability with Microsoft Office suite and the ability to learn other custom software systems
+Ability to work independently and as a part of a collaborative team
 Website
-https://alleninstitute.org/careers/jobs/?jobId=4AE535A4-783D-06E3-20D6-E6A36BDA42BB
+https://alleninstitute.org/careers/jobs/?jobId=AAC7FD0A-6119-8866-67D2-F74AAA087B81
 --------------------
 
 
