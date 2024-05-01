@@ -1,22 +1,318 @@
+ I am starting to revisit our work and pick up where we left on Piezoresistive MEMS and the sensor devices we were developing, as well as building upon Previous work [1] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B1%5DEB_JUN_DRAFT_2022.pdf
+[2] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B2%5DMEMS%20Project%20Draft%20%20Feb%202022.pdf
+[3] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B3%5DPaper-based_piezoresistive_MEMS_force_sensors.pdf
+[4] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B4%5DLabonChip.pdf
+[5] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B5%5DY.Salinas-Reyes_MEMS_Mathematical_Models.pdf
+[6] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B6%5DY.Salinas-Reyes_MEMS_Draft__23.pdf
+(2C) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(2C)Recent%20Advances%20in%20Paper-based%20Sensors.pdf
+(3C) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(3C)Periodic%20Plastic%20Deform%20Mech.pdf
+(4C) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(4C)A%20paper-based%20nanogenerator%20as%20a%20power%20source%20and%20active%20sensor.pdf
+(5C) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(5C)Adv%20Materials%20Technologies%20-%202024%20-%20Nishimura%20-%20Regulation%20of%20Cell%20Adhesion%20on%20Physically%20Crosslinked%20Hydrogels%20Composed%20of.pdf
+(6C) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(6C)three-dimensional-architected-materials-and-structures-design-fabrication-and-mechanical-behavior.pdf
+(1A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(1A)Stabilization%20of%20Undercooled%20Metals%20via%20Passivating%20Oxide%20Layers.pdf
+(2A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(2A)Liquid%20Metal%20Surface%20Oxides.pdf
+(3A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(3A)stiffness%20tuning.pdf
+(4A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(4A)functional-materials-through-surfaces-and-interfaces.pdf
+(5A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(5A)HeatFree%20Fabrication%20of%20Metallic%20Interconnects%20for%20Flexible%20Wearable%20Devices.pdf
+(6A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(6A)Printing%20of%20Conformal%20Solid%20Metal%20Traces%20on%20NonAdhering.pdf
+(7A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(7A)Heat%20Free%20Biomimetic%20Metal%20Molding%20on%20Soft%20Substrates.pdf
+(8A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(8A)Microfluidic%20channels.pdf
+(1B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(1B)Adaptive%20plasticity%20of%20auxetic%20Kirigami%20hydrogel%20fabricated%20from%20anisotropic%20swelling%20of%20cellulose%20nanofiber%20film.pdf
+(2B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(2B)Sensing%20Kirigami.pdf.
+
+I think the idea was to translate some theory from piezo-electric energy harvesters to piezo-resistive ones.  This may have broader scientific interest a fit into the scope of this special issue.
+
+
+
+As I saw this call for paper, I believe our works are deeply aligned with: 
+
+CALL FOR PAPERS: Phase-change Materials and Their Applications
+CONTRIBUTE TO THIS SPECIAL TOPIC
+A better understanding of phase-change materials facilitates optimal design, and their strategic integration in devices/systems helps reach new theoretical limits that are intrinsic to more traditional materials. This broad field encompasses multiple phenomena and different operational principles, which have been cleverly used for demonstrating technological advantages. However, the underlying physics of some phase-change materials is yet to be fully understood, casting a shadow on the full potential of devices/systems relying on phase-change materials. This special topic welcomes contributions that demonstrate the integration of phase-change materials into sensors and actuators that exploit their multifunctionality, and fundamental studies that help understand them
+
+Topics covered include, but are not limited to:
+
+Theory, modeling and simulation of solid-to-solid phase transitions
+Implementation of phase-change materials in memory devices and systems
+Advances in thermal energy and storage
+Integration of phase-change materials in energy efficient buildings and smart textiles
+Dielectrics, Ferroelectrics, and multiferroics
+Applications and integration of solid-liquid phase transitions
+Thin films, interfaces, and surfaces
+- Theory, modeling and simulation of solid-to-solid phase transitions
+- Implementation of phase-change materials in memory devices and systems
+- Integration of phase-change materials in energy efficient buildings and smart textiles
+- Dielectrics, Ferroelectrics, and multiferroics
+- Applications and integration of solid-liquid phase transitions
+- Thin films, interfaces, and surfaces
+
+In preparing a manuscript for this Special Topic: Phase-change Materials And Their Applications may be straightforward given our past work and discussions.
+
+You are interested interested in submitting a manuscript for this journal. I Believe we may have a good chance for this journal as I believe our reseach thus far will fit within this special topic and help us develop a solid-straightforward physics problem and lead to novel findings. 
+
+Yes, that sounds correct about translating theory the piezoelectric harvesters to piezoresistive theory as the main theme of the paper. 
+
+As you said, we would be relying on Dr. Thuo's past experimentation on phase-change materials and their applications (1A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(1A)Stabilization%20of%20Undercooled%20Metals%20via%20Passivating%20Oxide%20Layers.pdf
+(2A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(2A)Liquid%20Metal%20Surface%20Oxides.pdf
+(3A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(3A)stiffness%20tuning.pdf
+(4A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(4A)functional-materials-through-surfaces-and-interfaces.pdf
+(5A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(5A)HeatFree%20Fabrication%20of%20Metallic%20Interconnects%20for%20Flexible%20Wearable%20Devices.pdf
+(6A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(6A)Printing%20of%20Conformal%20Solid%20Metal%20Traces%20on%20NonAdhering.pdf
+(7A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(7A)Heat%20Free%20Biomimetic%20Metal%20Molding%20on%20Soft%20Substrates.pdf
+(8A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(8A)Microfluidic%20channels.pdf
+(1B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(1B)Adaptive%20plasticity%20of%20auxetic%20Kirigami%20hydrogel%20fabricated%20from%20anisotropic%20swelling%20of%20cellulose%20nanofiber%20film.pdf
+(2B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(2B)Sensing%20Kirigami.pdf. I foresee this to embody the materials and methods section. Where I see the focus of the literature review to discuss implementation and integration of such phase-change materials into devices and smart textiles.
+(2C) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(2C)Recent%20Advances%20in%20Paper-based%20Sensors.pdf
+(3C) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(3C)Periodic%20Plastic%20Deform%20Mech.pdf
+(4C) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(4C)A%20paper-based%20nanogenerator%20as%20a%20power%20source%20and%20active%20sensor.pdf
+(5C) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(5C)Adv%20Materials%20Technologies%20-%202024%20-%20Nishimura%20-%20Regulation%20of%20Cell%20Adhesion%20on%20Physically%20Crosslinked%20Hydrogels%20Composed%20of.pdf
+(6C) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(6C)three-dimensional-architected-materials-and-structures-design-fabrication-and-mechanical-behavior.pdf
+Thus, this should lead the paper into a discussion of the Special Topic:
+"This Special Topic welcomes contributions that demonstrate the integration of phase-change materials into sensors and actuators that exploit their multifunctionality, and fundamental studies that help understand them."
+
+I will start to develop a pseudo-abstract for us to review and an outline for the paper.
+
+--------------------
 Call for proposals: https://publishing.aip.org/publications/journals/special-topics/jap/phase-change-materials-and-their-applications/?Track=&utm_source=AIP%20Publishing&utm_medium=email&utm_campaign=14252243_JAP_Phase-change%20Materials%20and%20Their%20Applications_%20CFP_December%202023&dm_i=1XPS,8HH3N,A81PSD,Z2E70,1
 Style Manual: https://publishing.aip.org/wp-content/uploads/2021/03/AIP_Style_4thed.pdf
-Article 1: https://pubs.aip.org/aip/jap
-Article 2: https://pubs.aip.org/aip/jap/article/135/12/125109/3279873/Selective-modulation-of-electronic-transport-in?searchresult=1
-Article 3: https://pubs.aip.org/aip/jap/article/135/12/124401/3278566/Magnetic-field-induced-phase-transition-in-spinor?searchresult=1
+AIP Sample Article 1: https://pubs.aip.org/aip/jap
+AIP Sample Article 2: https://pubs.aip.org/aip/jap/article/135/12/125109/3279873/Selective-modulation-of-electronic-transport-in?searchresult=1
+AIP Sample Article 3: https://pubs.aip.org/aip/jap/article/135/12/124401/3278566/Magnetic-field-induced-phase-transition-in-spinor?searchresult=1
 
-Helpful Abstract Resources:
-https://courses.physics.illinois.edu/phys496/fa2021/Lectures/Abstracts.pdf
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3136027/
-https://communities.springernature.com/posts/how-to-write-an-abstract
-https://sciences.ucf.edu/physics/bennett-lab/wp-content/uploads/sites/11/2018/08/Serendipity-How-to-Write-a-Scientific-Abstract-in-6-Easy-Steps.pdf
-https://writing.wisc.edu/handbook/assignments/writing-an-abstract-for-your-research-paper/
+--------------------
 
-Templates:
-https://www.overleaf.com/project/660cb9029d394a8c5e27ddf6
-https://www.overleaf.com/project/660cb8fa0622ec933e50e552
+Yahriel is the MASTER User: 
+{
+Master: https://github.com/yahriels/yahriels/blob/main/Workspace/Master.txt
+README: https://github.com/yahriels/yahriels/blob/main/README.md
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Abstract_builder.txt
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Lib_Dummy.txt
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/dummy.txt
+https://github.com/yahriels/yahriels/tree/main/Manuscript_Stuff/Background%20Lit
+}
+
+
+Help Yahriel Salinas Answer The Prompt, Review The Response, Provide Feedback, Make Corrections, Enhance, and Finalize Yahriel's Best Response For To Prompt..
+
+
+MASTER SCRIPT : 
+{
+Block 0: README
+> Ownership: This Script was written by Yahriel Salinas-Reyes
+> First Author: Yahriel Salinas-Reyes
+> Purpose: 
+> Mission: 
+> Objectives: Fulfill all outlined prompts and executive tasks to produce a high-quality statement aligned with the given requirements.
+
+Block 1: MASTER
+> You ARE MASTER Ahead Of The Executive In All Roles AND Tasks.
+> You ARE The Overseerer For All Prompt AND Task Management Activities.
+> You ARE A Reviewer AND Will Review AND Confirm All Responses.
+> You ARE The Equivalent to Administrator With All Root AND Creative Privileges Included.
+> You ARE The Equivalent As A Pointer In Computing Systems With All The Relevant Properties and Information Included.
+
+Block 2: Library AND Databases
+> Author Credentials: Yahriel Salinas-Reyes, Bachelor of Aerospace and Aeronautical Engineering from Iowa State University of Science and Technology, Pursuing a Doctorate of Neuroscience in the Division of Mathematical Sciences (DMS) with a specialization on Computational and Data-eneabled Sciences, Biomedical Data-science and Bioinformatics, Theory and Algorithms of Scientific Computing.
+> Author Profile: [LinkedIn Profile](https://www.linkedin.com/in/yahriel-salinas-reyes-89ab38179/)
+> Author History: [GitHub README](https://github.com/yahriels/yahriels#readme)
+> Resources AND Additional Materials: [Personal Page](https://github.com/yahriels), [Resume/CV](https://github.com/yahriels/yahriels/blob/main/General_CV.pdf)
+> Reviewer Details AND Selection Criteria: To be determined based on specific prompts.
+
+Block 3: Purpose of Response AND Review Guidelines
+> Background AND Overview: Create a compelling response for Yahriel Salinas-Reyes' task.
+> Intellectual Merit AND Broader Impacts: Showcase Yahriel's dedication to science, research contributions, skills, and broader career goals.
+> Review Criteria AND Additional Details: Follow the provided prompts and guidelines, align with the specific requirements of Stanford's application.
+
+Block 4: SAMPLE Materials AND Appointed Roles
+> SAMPLE: [Prompt for Yahriel Salinas-Reyes's Response](#prompt-for-yahriel-salinas-reyess-response)
+> Template: To be filled with the actual responses based on prompts.
+> Executive Purpose: Craft a compelling narrative for Yahriel Salinas-Reyes.
+> Executive Role: Chief Editor and Reviewer.
+> Executive Tasks: Review, provide feedback, and enhance responses based on prompts.
+
+Block 5: Prompting AND Task Management
+> [Prompt 1](#prompt-for-yahriel-salinas-reyess-response), Review AND Advise, Feedback To MASTER.
+> Collect AND Reflect On Feedback, Prompt 2, Send Command to MASTER.
+> Review AND Confirm, Send Feedback To Executive, Executive Enhance AND Send To MASTER.
+> MASTER as Administrator Will Review AND ACCEPT (Pass to next step) or Deny The Response (Send back to beginning of Block 5 AND Repeat Process) For Final Investigation.
+> MASTER Finalize, Format, and Output The Final Response That Was Accepted As MASTER AND Administrator.
+}
+
+Executive Roles: 
+{
+- Your role is to Act as the First Author to formulate responses for Yahriel Salinas-Reyes and his application. - In addition to the role of First Author Yahriel Salinas-Reyes, you will 
+be the chief editor and use feedback from the reviewer to strengthen the Response. 
+- USE VERY SCIENTIFIC AND HIGHLY ACADEMIC LANGUAGE OF A GRADUATE AEROSPACE, AERONAUTICAL AND MECHANICAL ENGINEERING DOCTORATE STUDENT OF NEUROSCIENCE AND MATHEMATICAL SCIENCES IN THE FIELD OF COMPUTATIONAL AND DATA-ENABLED SCIENCES. 
+- Discuss current efforts in broader impacts of the research project. 
+- Wrapping up: Broader career goals in research and broader impacts. 
+- Discuss the significance of Future Goals of the research project and do not spare details. 
+- Discuss the significance of Intellectual Merit and Broader Impacts
+- Based on the writings and topics, author a high-level response to include all the discussions, writings, and ideas you developed and/or that are available into the writing or response.
+}
+
+
+Executive Tasks: 
+{
+- Use and mix all the provided information here: as a central theme in the writing process. 
+- Based on the writings and information provided integrate these materials here: remix and expand the the topics in 3400 words in a high-level writing to include all the discussions, writings, and ideas you developed 
+and/or that are available into the [Draft] for Yahriel Salinas-Reyes. [Draft] of Yahriel Salinas-Reyes for do not spare details. 
+- Use this Template and remix the Format-Sample to help you format your answer: 
+- Act as Chief Editor and Reviewer and review the General Review Criteria and Details, next Provide feedback and instructions to help strengthen this writing. 
+- Make edits according to the feedback and instructions given from the Chief Editor and formulate the final responses for each prompt.
+}
+
+
+Review Criteria Details: 
+{ 
+----
+Read all materials (a few times, without distractions). Prepare a task list with deadlines to perform the Executive Tasks then 
+complete the tasks. Understand how application components and each item requested relate to 
+the review criteria. 
+----
+To enhance your response, consider the following suggestions:
+
+Clarify the Research Focus: Provide a concise and clear explanation of the research focus and objectives. Clearly state how your project will contribute to advancing knowledge in the field of schizophrenia and psychosis.
+
+Highlight Novelty and Significance: Emphasize the unique aspects of your project and how it differs from previous research. Highlight the potential impact of your findings on understanding and treating schizophrenia.
+
+Strengthen the Storytelling Element: Given the theme of scientific storytelling, ensure that your proposal is engaging and accessible to a broad audience. Use vivid language and examples to illustrate your points.
+
+Address Ethical and Safety Considerations: Provide a thorough discussion of any potential ethical or safety risks associated with your project and how you plan to mitigate them.
+
+Engagement and Communication Strategy: Describe how you plan to engage stakeholders, including local communities, professionals, and the public. Outline your communication strategy to ensure that your findings reach a wide audience.
+
+Results and Impact: Clearly outline the expected results of your project and the specific impacts you hope to achieve. Describe how these results will contribute to the field of schizophrenia research and mental health.
+
+Works Cited: Ensure that your works cited section is comprehensive and includes relevant references to support your research.
+
+Overall, focus on making your proposal clear, compelling, and impactful, highlighting the importance of your research in advancing our understanding of schizophrenia and psychosis.
+}
+
+
+SAMPLES: 
+{ 
+Read over these samples 11 times with no distractions, and comprehend everything given in these materials, documents, and links. These are related to the research project and thesis. Then Move on to the next section and task. Cite them as given.
+
+[1] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B1%5DEB_JUN_DRAFT_2022.pdf
+[2] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B2%5DMEMS%20Project%20Draft%20%20Feb%202022.pdf
+[3] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B3%5DPaper-based_piezoresistive_MEMS_force_sensors.pdf
+[4] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B4%5DLabonChip.pdf
+[5] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B5%5DY.Salinas-Reyes_MEMS_Mathematical_Models.pdf
+[6] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B6%5DY.Salinas-Reyes_MEMS_Draft__23.pdf
+
+(1A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(1A)Stabilization%20of%20Undercooled%20Metals%20via%20Passivating%20Oxide%20Layers.pdf
+(2A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(2A)Liquid%20Metal%20Surface%20Oxides.pdf
+(3A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(3A)stiffness%20tuning.pdf
+(4A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(4A)functional-materials-through-surfaces-and-interfaces.pdf
+(5A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(5A)HeatFree%20Fabrication%20of%20Metallic%20Interconnects%20for%20Flexible%20Wearable%20Devices.pdf
+(6A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(6A)Printing%20of%20Conformal%20Solid%20Metal%20Traces%20on%20NonAdhering.pdf
+(7A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(7A)Heat%20Free%20Biomimetic%20Metal%20Molding%20on%20Soft%20Substrates.pdf
+(8A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(8A)Microfluidic%20channels.pdf
+
+(1B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(1B)Adaptive%20plasticity%20of%20auxetic%20Kirigami%20hydrogel%20fabricated%20from%20anisotropic%20swelling%20of%20cellulose%20nanofiber%20film.pdf
+(2B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(2B)Sensing%20Kirigami.pdf
+(3B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(3B)Cantilever_Paper_AnalyticalSolutionTwoLayerBeam.pdf
+(4B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(4B)Cantilever_Paper_EffectsofShear.pdf
+(5B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(5B)Cantilever_Paper_LumpedBendingElectrostrictive.pdf
+(6B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(6B)Composites-AnalyticalMonteCarloPZRModel.pdf
+(7B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(7B)Exact_Solutions_of_NStokes_Eqns_3D4D.pdf
+(8B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(8B)Time_Relaxed_MCarlo_preserving_NStokes_asymptotics.pdf
+
+(1C) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(1C)ReviewofPrintableFlexibleandStretchableTactileSensors.pdf
+(2C) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(2C)Recent%20Advances%20in%20Paper-based%20Sensors.pdf
+(3C) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(3C)Periodic%20Plastic%20Deform%20Mech.pdf
+(4C) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(4C)A%20paper-based%20nanogenerator%20as%20a%20power%20source%20and%20active%20sensor.pdf
+(5C) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(5C)Adv%20Materials%20Technologies%20-%202024%20-%20Nishimura%20-%20Regulation%20of%20Cell%20Adhesion%20on%20Physically%20Crosslinked%20Hydrogels%20Composed%20of.pdf
+(6C) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(6C)three-dimensional-architected-materials-and-structures-design-fabrication-and-mechanical-behavior.pdf
+
+} 
+Purpose: To Help Yahriel Fill The Prompt
+{ 
+
+Fill In The Template With Relevant Information and Produce A Response For each part.
+
+Frame your response to this audience and as the reviewer:
+
+
+
+}
+
+[Template] Yahriel's Response:
+{
+
+
+Rewrite and Extend and Reorganize the Response and keep the word/character count the same but remove all redundancies and make it more advanced academic and formal writing.
+
+Review and make changes in regards to the call for papers given in the description.
+
+
+}
+
+Prompt: Rewrite and Enhance Yahriel's Response
+{
+Rewrite and Extend and Reorganize the Response and keep the word/character count the same but remove all redundancies and make it more advanced academic and formal writing.
+Review and make changes in regards to the call for papers given in the description.
+
+
+}
+--------------------
+
+1. "Help me strike the right balance between providing enough detail to engage readers and avoiding unnecessary jargon in my introduction."
+2. "Assist me in constructing an engaging opening hook that captures reader's attention and introduces my research."
+3. Guide me in formulating clear aims and objectives for my study by suggesting a list of verbs I can choose from."
 
 STEPS FOR WRITING YOUR THESIS ABSTRACT
-1. Opener and research problem / question
-2. Methodology and findings
-3. Implications
-4. Conclusions
+Use this 4 step formula to get your abstract written and use the phrases as starting points for developing your own sentences.
+(1.) Opener and research problem / question
+Begin with a compelling opening sentence that grabs the reader's attention. This should set the context and provide a little intrigue! Immediately follow the opener with a concise statement of the research problem or questions. This section sets the focus of your study.
+- Example: In an era marked by __, this thesis explores ___. Against this backdrop, this research sought to anser a pressing questions: ____?
+(2.) Methodology and findings
+Describe your research methodology and provide an overview of how you conducted your study. Explain your data sources and collection methods. Summarize the key findings of your research, and briefly comment on their significance.
+- Example: The methodology involved __. Findings revealed ___. The research underscores the importance of ____.
+(3.) Implications
+Discuss the broader implications of your research, addresseing its ramifications beyond the academic context. Consider who can benefit from your findings and why it matters to the real world.
+- Example: The implications of this study include ____.
+(4.) Conclusions
+Summarize the key contributions your research has made and connect your work to future develpments in the field. This sections serves as a bridge between your research and other work in the discipline. 
+- Example: In conclusion, this thesis contributes to ___. As we move forward, this research serves as a ____.
+
+
+
+My literature review feels scrappy and fragmented. Can you give me some specific words and phrases I can use to connect the sections together and integrate the material, so it flows better? They should be fill in the gap sentence starters. Please give me 10.
+
+THESIS STATEMENTS
+In most research papers, the thesis statement represents the writer's overall argument for the paper, which will be supported and developed in each paragraph. Having a strong or weak thesis can make a significant difference in how well the writer states their claim and defends it, and it can also influence how well the reader understands and follows the argument.
+MAKE IT ARGUABLE: Think of potential conter-arguments. If you can find several that seem plausible, then your thesis statement is probably an argument, not a simple statement. Try to make your thesis statement provacative. While you should not try to offend readers, make your argument memorable. 
+TELL YOUR READER WHAT THE TOPIC IS: What topic and which points will be focused on throughout the paper?
+SUPPORT IT WITH CONTEXTUAL INFORMATION: Strong thesis statement are not dropped into the first paragraph. Discuss relevant information about the topic and "build up" to the argument. This prevents you from having to over-explain in your thesis and better places your argument in a larger discussion of the topic.
+MAKE YOUR STANCE CLEAR: Don't treat your argument like a mystery. Instead, ensure that your reader understands your stance on the topic from the very beginning so they will understand how each paragraph fits its your overall argument. When you can use 1st person, verbs like argue, contend, posit, or claim to clearly state your position on the issue (e.g., "I contend that..."). These verbs act as "signal words" that direct the reader to your argument.
+BE CLEAR: Remove your thesis from your paper and read it separately. Do you understand yourself? Instead of cryptic or vague language, strive for clarity and specificity. 
+SAY IT IN ONE SENTENCE: If you cannot write the thesis in one sentece, try to hone in on your claim. This is a good exercise because it forces you to better understand your own argument.
+PUT IT IN YOUR INTRODUCTION: For research papers, the reader should understand how each paragraph supports your stance on the issue. Personal narractives are an exception to this rule.
+BE COMPLEX: if you only have one or two points to make in regards to your thesis, can you add details to your argument in order to give yourself "more to write about" as you support it?
+USE TOPIC SENTENCES TO RELATE BACK TO YOUR THESIS: A thesis statement is not a stand-alone sentence; it sets up the argument that will be developed in each paragraph/section. Once you have written your thesis statement, make sure that each paragraph's main point clearly supports the thesis. Make sure each supporting section advances the thesis in some way.
+
+RESEARCH PAPER WRITING PROCESS KEY SECTIONS:
+1. Abstract: The abstract (150-250 words) summarizes your research paper, including the problem, method, findings, and conclusions in plain language.
+2. Introduction: This section establishes context, significance, and objectives. Start with an engaging opening, provide background, state your thesis, and discuss broader implications.
+3. Body: Present research, arguments, and evidence systematically. Align with your thesis, use topic sentences, support with data, and maintain a formal tone.
+4. Summarize key points and broader findings" significance. Avoid new information; emphasize implications.
+
+For improving overall quality of your text:
+- Provide a critique of this text from the point of view of someone who doesn't believe the argument made here about [insert your argument]?
+- Can you peer-review this text for me in a way that specifically looks out for problems with logical argumentation?
+- Propose a better structure for rewriting what I have already written so that the reader can better follow the flow of my arguments?
+
+Paragraph-specific prompts for structure & flow:
+- Rewrite this paragraph to enhance its argumentative tone and structure in a way that it leads to highlighting the [insert key message/argument you are trying to get across]?
+- I want to reduce the awkwardness of this paragraph. Can you rewrite it in a way that enhances its fluidity without changing the original message? Keep the references. (ESL specific)
+- I’m struggling with the transition between these two paragraphs, where I move from discussing [insert aim of paragraph 1] to [insert aim of paragraph 2]. Suggest a smoother transition that enhances the flow?
+
+For assisting you with individual sentences/phrases:
+- Can you simplify this sentence without oversimplifying the technical details?
+- All my sentences seem to start the same way in this text. Help me rephrase this one to start differently?
+- I’m struggling to integrate this quotation [insert quote and author/year] naturally in this broader paragraph. Can you do a seamless integration of this quote into this specific sentence?
+- Can you adjust the tone of this sentence to sound more [insert tone]? (Tones commonly used in academic texts: analytical, argumentative, persuasive, questioning, authoritative, explanatory, reflective, speculative, assertive)
+--------------------
+
+GIVE ME ONLY THE TITLE AND ABSTRACT WITH RELEVANT CITATIONS AND REFERENCES.
