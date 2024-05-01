@@ -54,6 +54,23 @@ Overall, focus on making your proposal clear, compelling, and impactful, highlig
 2. "Assist me in constructing an engaging opening hook that captures reader's attention and introduces my research."
 3. Guide me in formulating clear aims and objectives for my study by suggesting a list of verbs I can choose from."
 
+STEPS FOR WRITING YOUR THESIS ABSTRACT
+Use this 4 step formula to get your abstract written and use the phrases as starting points for developing your own sentences.
+(1.) Opener and research problem / question
+Begin with a compelling opening sentence that grabs the reader's attention. This should set the context and provide a little intrigue! Immediately follow the opener with a concise statement of the research problem or questions. This section sets the focus of your study.
+- Example: In an era marked by __, this thesis explores ___. Against this backdrop, this research sought to anser a pressing questions: ____?
+(2.) Methodology and findings
+Describe your research methodology and provide an overview of how you conducted your study. Explain your data sources and collection methods. Summarize the key findings of your research, and briefly comment on their significance.
+- Example: The methodology involved __. Findings revealed ___. The research underscores the importance of ____.
+(3.) Implications
+Discuss the broader implications of your research, addresseing its ramifications beyond the academic context. Consider who can benefit from your findings and why it matters to the real world.
+- Example: The implications of this study include ____.
+(4.) Conclusions
+Summarize the key contributions your research has made and connect your work to future develpments in the field. This sections serves as a bridge between your research and other work in the discipline. 
+- Example: In conclusion, this thesis contributes to ___. As we move forward, this research serves as a ____.
+
+
+
 My literature review feels scrappy and fragmented. Can you give me some specific words and phrases I can use to connect the sections together and integrate the material, so it flows better? They should be fill in the gap sentence starters. Please give me 10.
 
 THESIS STATEMENTS

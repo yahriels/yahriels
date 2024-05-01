@@ -14,3 +14,9 @@ https://writing.wisc.edu/handbook/assignments/writing-an-abstract-for-your-resea
 Templates:
 https://www.overleaf.com/project/660cb9029d394a8c5e27ddf6
 https://www.overleaf.com/project/660cb8fa0622ec933e50e552
+
+STEPS FOR WRITING YOUR THESIS ABSTRACT
+1. Opener and research problem / question
+2. Methodology and findings
+3. Implications
+4. Conclusions
