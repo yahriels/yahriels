@@ -1,3 +1,5 @@
+
+
  I am starting to revisit our work and pick up where we left on Piezoresistive MEMS and the sensor devices we were developing, as well as building upon Previous work [1] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B1%5DEB_JUN_DRAFT_2022.pdf
 [2] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B2%5DMEMS%20Project%20Draft%20%20Feb%202022.pdf
 [3] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B3%5DPaper-based_piezoresistive_MEMS_force_sensors.pdf
@@ -12,7 +14,14 @@
 (1A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(1A)Stabilization%20of%20Undercooled%20Metals%20via%20Passivating%20Oxide%20Layers.pdf
 (2A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(2A)Liquid%20Metal%20Surface%20Oxides.pdf
 (3A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(3A)stiffness%20tuning.pdf
-(4A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(4A)functional-materials-through-surfaces-and-interfaces.pdf
+(4A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(4A)functional-materials-through-surfaces-and-interfaces.pdf.
+
+These are the methods and theoretical frameworks (3B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(3B)Cantilever_Paper_AnalyticalSolutionTwoLayerBeam.pdf
+(4B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(4B)Cantilever_Paper_EffectsofShear.pdf
+(5B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(5B)Cantilever_Paper_LumpedBendingElectrostrictive.pdf
+(6B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(6B)Composites-AnalyticalMonteCarloPZRModel.pdf
+(7B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(7B)Exact_Solutions_of_NStokes_Eqns_3D4D.pdf
+(8B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(8B)Time_Relaxed_MCarlo_preserving_NStokes_asymptotics.pdf
 (5A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(5A)HeatFree%20Fabrication%20of%20Metallic%20Interconnects%20for%20Flexible%20Wearable%20Devices.pdf
 (6A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(6A)Printing%20of%20Conformal%20Solid%20Metal%20Traces%20on%20NonAdhering.pdf
 (7A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(7A)Heat%20Free%20Biomimetic%20Metal%20Molding%20on%20Soft%20Substrates.pdf
@@ -67,6 +76,16 @@ As you said, we would be relying on Dr. Thuo's past experimentation on phase-cha
 (4C) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(4C)A%20paper-based%20nanogenerator%20as%20a%20power%20source%20and%20active%20sensor.pdf
 (5C) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(5C)Adv%20Materials%20Technologies%20-%202024%20-%20Nishimura%20-%20Regulation%20of%20Cell%20Adhesion%20on%20Physically%20Crosslinked%20Hydrogels%20Composed%20of.pdf
 (6C) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(6C)three-dimensional-architected-materials-and-structures-design-fabrication-and-mechanical-behavior.pdf
+
+These are the methods and theoretical frameworks (3B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(3B)Cantilever_Paper_AnalyticalSolutionTwoLayerBeam.pdf
+(4B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(4B)Cantilever_Paper_EffectsofShear.pdf
+(5B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(5B)Cantilever_Paper_LumpedBendingElectrostrictive.pdf
+(6B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(6B)Composites-AnalyticalMonteCarloPZRModel.pdf
+(7B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(7B)Exact_Solutions_of_NStokes_Eqns_3D4D.pdf
+(8B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(8B)Time_Relaxed_MCarlo_preserving_NStokes_asymptotics.pdf
+(1B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(1B)Adaptive%20plasticity%20of%20auxetic%20Kirigami%20hydrogel%20fabricated%20from%20anisotropic%20swelling%20of%20cellulose%20nanofiber%20film.pdf
+(2B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(2B)Sensing%20Kirigami.pdf.
+
 Thus, this should lead the paper into a discussion of the Special Topic:
 "This Special Topic welcomes contributions that demonstrate the integration of phase-change materials into sensors and actuators that exploit their multifunctionality, and fundamental studies that help understand them."
 
@@ -81,8 +100,10 @@ AIP Sample Article 3: https://pubs.aip.org/aip/jap/article/135/12/124401/3278566
 
 --------------------
 
+
 Yahriel is the MASTER User: 
 {
+Read over these samples 11 times with no distractions, and comprehend everything given in these materials, documents, and links. These are related to the research project and thesis. Then Move on to the next section and task.
 Master: https://github.com/yahriels/yahriels/blob/main/Workspace/Master.txt
 README: https://github.com/yahriels/yahriels/blob/main/README.md
 https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Abstract_builder.txt
