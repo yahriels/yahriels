@@ -59,7 +59,7 @@ In preparing a manuscript for this Special Topic: Phase-change Materials And The
 
 You are interested interested in submitting a manuscript for this journal. I Believe we may have a good chance for this journal as I believe our reseach thus far will fit within this special topic and help us develop a solid-straightforward physics problem and lead to novel findings. 
 
-Yes, that sounds correct about translating theory the piezoelectric harvesters to piezoresistive theory as the main theme of the paper. 
+Yes, that sounds correct about translating theory the analysis of the piezoelectric harvesters to modeling piezoresistive theory as the main theme of the paper. 
 
 As you said, we would be relying on Dr. Thuo's past experimentation on phase-change materials and their applications (1A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(1A)Stabilization%20of%20Undercooled%20Metals%20via%20Passivating%20Oxide%20Layers.pdf
 (2A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(2A)Liquid%20Metal%20Surface%20Oxides.pdf
