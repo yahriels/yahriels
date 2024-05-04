@@ -4,7 +4,7 @@ GIVE ME ONLY THE TITLE, THE THESIS STATEMENT, THE 250 WORD ABSTRACT, AND DETAILE
 
  I am starting to revisit our work and pick up where we left on Piezoresistive MEMS and the sensor devices we were developing, as well as building upon Previous work.
 
-I think the idea was to translate some theory from piezo-electric energy harvesters to piezo-resistive MEMS devices that are kirigami-inspired and paper-based(cellulose-based).  This may have broader scientific interest a fit into the scope of this special issue of Phase Change Materials.
+I think the idea was to translate some theory from piezo-electric energy harvesters to paper-based piezo-resistive MEMS devices that are multi-functional, kirigami-inspired, and utilize novel phase change materials. This may have broader scientific interest a fit into the scope of this special issue of Phase Change Materials.
 
 
 
