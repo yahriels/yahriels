@@ -1,3 +1,71 @@
+List of In-text Citations:
+
+
+Previous Research Work and Background (Y.Salinas-Reyes)
+[1] "EB_JUN_DRAFT_2022" in the publication journal indicated by the URL.
+- [1] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B1%5DEB_JUN_DRAFT_2022.pdf
+[2] "MEMS Project Draft Feb 2022" in the publication journal indicated by the URL.
+- [2] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B2%5DMEMS%20Project%20Draft%20%20Feb%202022.pdf
+[3] "Paper-based piezoresistive MEMS force sensors" in the publication journal indicated by the URL.
+- [3] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B3%5DPaper-based_piezoresistive_MEMS_force_sensors.pdf
+[4] "LabonChip" in the publication journal indicated by the URL.
+- [4] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B4%5DLabonChip.pdf
+[5] "Y.Salinas-Reyes MEMS Mathematical Models" in the publication journal indicated by the URL.
+- [5] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B5%5DY.Salinas-Reyes_MEMS_Mathematical_Models.pdf
+[6] "Y.Salinas-Reyes MEMS Draft 23" in the publication journal indicated by the URL.
+- [6] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B6%5DY.Salinas-Reyes_MEMS_Draft__23.pdf
+
+Phase-Change Materials and Experimentation (Dr. Thuo)
+1A. "(1A) Stabilization of Undercooled Metals via Passivating Oxide Layers" in the publication journal indicated by the URL.
+- (1A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(1A)Stabilization%20of%20Undercooled%20Metals%20via%20Passivating%20Oxide%20Layers.pdf
+2A. "(2A) Liquid Metal Surface Oxides" in the publication journal indicated by the URL.
+- (2A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(2A)Liquid%20Metal%20Surface%20Oxides.pdf
+3A. "(3A) Stiffness Tuning" in the publication journal indicated by the URL.
+- (3A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(3A)stiffness%20tuning.pdf
+4A. "(4A) Functional Materials Through Surfaces and Interfaces" in the publication journal indicated by the URL.
+- (4A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(4A)functional-materials-through-surfaces-and-interfaces.pdf
+5A. "(5A) HeatFree Fabrication of Metallic Interconnects for Flexible Wearable Devices" in the publication journal indicated by the URL.
+- (5A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(5A)HeatFree%20Fabrication%20of%20Metallic%20Interconnects%20for%20Flexible%20Wearable%20Devices.pdf
+6A. "(6A) Printing of Conformal Solid Metal Traces on NonAdhering" in the publication journal indicated by the URL.
+- (6A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(6A)Printing%20of%20Conformal%20Solid%20Metal%20Traces%20on%20NonAdhering.pdf
+7A. "(7A) Heat Free Biomimetic Metal Molding on Soft Substrates" in the publication journal indicated by the URL.
+- (7A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(7A)Heat%20Free%20Biomimetic%20Metal%20Molding%20on%20Soft%20Substrates.pdf
+8A. "(8A) Microfluidic Channels" in the publication journal indicated by the URL.
+- (8A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(8A)Microfluidic%20channels.pdf
+
+Theoretical Framwework and Proposed Methodology
+1B. "(1B) Adaptive Plasticity of Auxetic Kirigami Hydrogel Fabricated from Anisotropic Swelling of Cellulose Nanofiber Film" in the publication journal indicated by the URL.
+- (1B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(1B)Adaptive%20plasticity%20of%20auxetic%20Kirigami%20hydrogel%20fabricated%20from%20anisotropic%20swelling%20of%20cellulose%20nanofiber%20film.pdf
+2B. "(2B) Sensing Kirigami" in the publication journal indicated by the URL.
+- (2B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(2B)Sensing%20Kirigami.pdf
+3B. "(3B) Cantilever Paper AnalyticalSolutionTwoLayerBeam" in the publication journal indicated by the URL.
+- (3B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(3B)Cantilever_Paper_AnalyticalSolutionTwoLayerBeam.pdf
+4B. "(4B) Cantilever Paper Effects of Shear" in the publication journal indicated by the URL.
+- (4B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(4B)Cantilever_Paper_EffectsofShear.pdf
+5B. "(5B) Cantilever Paper LumpedBendingElectrostrictive" in the publication journal indicated by the URL.
+- (5B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(5B)Cantilever_Paper_LumpedBendingElectrostrictive.pdf
+6B. "(6B) Composites-AnalyticalMonteCarloPZRModel" in the publication journal indicated by the URL.
+- (6B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(6B)Composites-AnalyticalMonteCarloPZRModel.pdf
+7B. "(7B) Exact Solutions of NStokes Eqns 3D4D" in the publication journal indicated by the URL.
+- (7B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(7B)Exact_Solutions_of_NStokes_Eqns_3D4D.pdf
+8B. "(8B) Time Relaxed MCarlo preserving NStokes asymptotics" in the publication journal indicated by the URL.
+- (8B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(8B)Time_Relaxed_MCarlo_preserving_NStokes_asymptotics.pdf
+
+Advances and Applications of Phase Change Materials
+1C. "(1C) Review of Printable Flexible and Stretchable Tactile Sensors" in the publication journal indicated by the URL.
+- (1C) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(1C)ReviewofPrintableFlexibleandStretchableTactileSensors.pdf
+2C. "(2C) Recent Advances in Paper-based Sensors" in the publication journal indicated by the URL.
+- (2C) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(2C)Recent%20Advances%20in%20Paper-based%20Sensors.pdf
+3C. "(3C) Periodic Plastic Deform Mech" in the publication journal indicated by the URL.
+- (3C) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(3C)Periodic%20Plastic%20Deform%20Mech.pdf
+4C. "(4C) A paper-based nanogenerator as a power source and active sensor" in the publication journal indicated by the URL.
+- (4C) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(4C)A%20paper-based%20nanogenerator%20as%20a%20power%20source%20and%20active%20sensor.pdf
+5C. "(5C) Adv Materials Technologies - 2024 - Nishimura - Regulation of Cell Adhesion on Physically Crosslinked Hydrogels Composed of" in the publication journal indicated by the URL.
+- (5C) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(5C)Adv%20Materials%20Technologies%20-%202024%20-%20Nishimura%20-%20Regulation%20of%20Cell%20Adhesion%20on%20Physically%20Crosslinked%20Hydrogels%20Composed%20of.pdf
+6C. "(6C) Three-Dimensional Architected Materials and Structures: Design, Fabrication, and Mechanical Behavior" in the publication journal indicated by the URL.
+- (6C) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(6C)three-dimensional-architected-materials-and-structures-design-fabrication-and-mechanical-behavior.pdf
+
+---
 Title: Translating Theory: Piezoelectric to Piezoresistive MEMS Sensors Using Phase-Change Materials
 
 Abstract:
@@ -41,3 +109,60 @@ In conclusion, this manuscript presents a novel approach to integrating phase-ch
 ---
 
 This enhanced response provides a comprehensive overview of the proposed manuscript, ensuring clarity, coherence, and alignment with the call for papers on phase-change materials and their applications.
+
+Based on the provided materials, Yahriel Salinas-Reyes is preparing a manuscript for a special topic on Phase-change Materials and Their Applications. The manuscript aims to explore the translation of theory from piezoelectric energy harvesters to piezoresistive ones, aligning with the call for papers. Here's an enhanced and extended version of Yahriel's response:
+
+Abstract:
+
+Title: Translating Theory: From Piezoelectric to Piezoresistive Energy Harvesters Using Phase-change Materials
+
+In this manuscript, we investigate the translation of theory from piezoelectric energy harvesters to piezoresistive counterparts, leveraging the multifunctionality of phase-change materials. Building upon previous work, we delve into the integration of phase-change materials into sensors and actuators, exploring their theoretical frameworks and practical implementations. Through a comprehensive literature review and theoretical analysis, we elucidate the potential of phase-change materials in advancing sensor technologies. Our focus lies in bridging the gap between theoretical models and experimental demonstrations, aiming to contribute to the broader understanding and application of phase-change materials in energy harvesting and sensing applications.
+
+Keywords: phase-change materials, piezoresistive MEMS, energy harvesting, sensors, theoretical frameworks, integration
+
+Introduction:
+
+The integration of phase-change materials into sensors and actuators presents a promising avenue for advancing energy harvesting and sensing technologies. In this manuscript, we explore the translation of theory from piezoelectric energy harvesters to piezoresistive counterparts, with a focus on leveraging phase-change materials to enhance device performance. Our investigation builds upon previous research efforts, aiming to bridge the gap between theoretical models and practical implementations in the field of MEMS devices.
+
+Literature Review:
+
+Our literature review encompasses a wide range of studies related to the implementation and integration of phase-change materials in sensor devices. We draw upon past research on paper-based sensors, nanogenerators, and advanced materials technologies to inform our theoretical frameworks and methodological approaches. Additionally, we examine analytical solutions and Monte Carlo models to elucidate the underlying physics of piezoresistive MEMS devices, paving the way for novel insights and discoveries.
+
+Materials and Methods:
+
+The materials and methods section of our manuscript embodies the experimental and theoretical frameworks employed in our research. Leveraging Dr. Thuo's expertise in phase-change materials, we explore the stabilization of undercooled metals, liquid metal surface oxides, and stiffness tuning mechanisms to inform our device fabrication processes. Furthermore, we incorporate insights from recent advances in paper-based sensors and nanogenerators to develop innovative approaches for integrating phase-change materials into MEMS devices.
+
+Discussion:
+
+Our discussion revolves around the integration of phase-change materials into sensors and actuators, highlighting their multifunctionality and potential applications in energy-efficient buildings and smart textiles. We analyze the theoretical implications of our findings, addressing key challenges and opportunities in the field. By elucidating the fundamental principles underlying phase-change materials, we aim to contribute to the broader scientific understanding of these materials and their applications in MEMS devices.
+
+Conclusion:
+
+In conclusion, our manuscript offers a comprehensive exploration of the translation of theory from piezoelectric to piezoresistive energy harvesters using phase-change materials. Through a synthesis of theoretical frameworks, experimental demonstrations, and practical applications, we aim to advance the field of MEMS devices and contribute to the broader scientific community's understanding of phase-change materials and their multifunctional properties.
+
+Feedback and Corrections:
+
+- Ensure that each section provides sufficient detail to engage the audience while maintaining clarity and coherence.
+- Strengthen the connection between theoretical frameworks and practical applications to emphasize the significance of the research.
+- Incorporate additional references or examples to support key points and enhance the overall rigor of the manuscript.
+
+Overall, the response effectively addresses the call for papers on Phase-change Materials and Their Applications, providing a detailed overview of the research objectives, methods, and potential contributions to the field. 
+
+Certainly, let's enhance Yahriel's response to strike the right balance between providing enough detail to engage the audience and avoiding overwhelming them with excessive technical information. 
+
+Here's the revised response:
+
+---
+
+We aim to contribute to the Special Topic on Phase-change Materials and Their Applications by elucidating the translation of theory from piezoelectric energy harvesters to piezoresistive counterparts. Our work intersects with multiple themes outlined in the call for papers, notably the integration of phase-change materials into sensors and actuators to exploit their multifunctionality. 
+
+Drawing from our previous endeavors and discussions, our manuscript will delve into the theoretical frameworks and experimental methodologies underpinning piezoresistive MEMS devices. Leveraging insights from Dr. Thuo's exploration of phase-change materials, particularly in the stabilization of undercooled metals and the fabrication of flexible wearable devices, we intend to construct a comprehensive materials and methods section. 
+
+Moreover, our literature review will extend beyond the boundaries of traditional piezoresistive research, encompassing recent advances in paper-based sensors, plastic deformation mechanisms, and nanogenerators. By synthesizing these diverse strands of literature, we aim to contextualize our research within the broader landscape of materials science and sensor technology.
+
+The core of our manuscript will elucidate the theoretical foundations of piezoresistive MEMS, drawing parallels with established principles in piezoelectricity. The analytical solutions and computational models developed in our work will offer insights into the solid-to-solid phase transitions inherent in phase-change materials, thus contributing to a deeper understanding of their behavior in sensor applications.
+
+In addressing the call for papers' emphasis on the integration of phase-change materials into devices and systems, our manuscript will underscore the practical implications of our research. We envision our findings not only advancing fundamental knowledge but also paving the way for the development of innovative sensor technologies with diverse applications in energy harvesting, biomedical sensing, and beyond.
+
+---
+This revision maintains the depth of technical detail while ensuring clarity and coherence for the target audience.
