@@ -1,3 +1,8 @@
+--------------------
+++++
+GIVE ME THE FINAL STATEMENT OF PURPOSE AS AN LONGER EXTENDED RESPONSE THAT IS VERY DETAILED AND HIGHLY ACADEMIC
+
+
 https://www.stevens.edu/program/biomedical-engineering-phd
 https://assets.stevens.edu/mviowpldu823/3JlUB1azpSshfD4nBUtvMx/21463bd7ed71983c976b00aeae4c0709/BME_PHD_Infographic_2023.pdf
 https://www.stevens.edu/school-engineering-science/departments/biomedical-engineering/research
@@ -127,6 +132,20 @@ https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Abstract_builder.tx
 https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Lib_Dummy.txt
 https://github.com/yahriels/yahriels/blob/main/Workspace/lib/dummy.txt
 https://github.com/yahriels/yahriels/tree/main/Manuscript_Stuff/Background%20Lit
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/General_CV.pdf
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Just_Tech_Resume.pdf
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Just_Tech_Writing_Sample.pdf
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/SOP.pdf
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/SalinasReyes_Y_CV.pdf
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Stevens_Institute.txt
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/YSR_Writing_Sample.pdf
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Yahriel_Just_Tech_Fellowship_Application.pdf
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/%5BOG%5DGeneral_CV.pdf
+https://www.stevens.edu/program/biomedical-engineering-phd
+https://assets.stevens.edu/mviowpldu823/3JlUB1azpSshfD4nBUtvMx/21463bd7ed71983c976b00aeae4c0709/BME_PHD_Infographic_2023.pdf
+https://www.stevens.edu/school-engineering-science/departments/biomedical-engineering/research
+https://stevens.smartcatalogiq.com/en/2023-2024/academic-catalog/department-of-biomedical-engineering/graduate-programs/doctoral-program-in-biomedical-engineering/
+
 }
 
 
@@ -230,70 +249,156 @@ Overall, focus on making your proposal clear, compelling, and impactful, highlig
 SAMPLES: 
 { 
 Read over these samples 11 times with no distractions, and comprehend everything given in these materials, documents, and links. These are related to the research project and thesis. Then Move on to the next section and task. Cite them as given as in-text citations.
+https://www.stevens.edu/program/biomedical-engineering-phd
+https://assets.stevens.edu/mviowpldu823/3JlUB1azpSshfD4nBUtvMx/21463bd7ed71983c976b00aeae4c0709/BME_PHD_Infographic_2023.pdf
+https://www.stevens.edu/school-engineering-science/departments/biomedical-engineering/research
+https://stevens.smartcatalogiq.com/en/2023-2024/academic-catalog/department-of-biomedical-engineering/graduate-programs/doctoral-program-in-biomedical-engineering/
 
-Previous Research Work and Background (Y.Salinas-Reyes)
-[1] "EB_JUN_DRAFT_2022" in the publication journal indicated by the URL.
-- [1] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B1%5DEB_JUN_DRAFT_2022.pdf
-[2] "MEMS Project Draft Feb 2022" in the publication journal indicated by the URL.
-- [2] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B2%5DMEMS%20Project%20Draft%20%20Feb%202022.pdf
-[3] "Paper-based piezoresistive MEMS force sensors" in the publication journal indicated by the URL.
-- [3] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B3%5DPaper-based_piezoresistive_MEMS_force_sensors.pdf
-[4] "LabonChip" in the publication journal indicated by the URL.
-- [4] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B4%5DLabonChip.pdf
-[5] "Y.Salinas-Reyes MEMS Mathematical Models" in the publication journal indicated by the URL.
-- [5] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B5%5DY.Salinas-Reyes_MEMS_Mathematical_Models.pdf
-[6] "Y.Salinas-Reyes MEMS Draft 23" in the publication journal indicated by the URL.
-- [6] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B6%5DY.Salinas-Reyes_MEMS_Draft__23.pdf
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/General_CV.pdf
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Just_Tech_Resume.pdf
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Just_Tech_Writing_Sample.pdf
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/SOP.pdf
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/SalinasReyes_Y_CV.pdf
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Stevens_Institute.txt
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/YSR_Writing_Sample.pdf
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Yahriel_Just_Tech_Fellowship_Application.pdf
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/%5BOG%5DGeneral_CV.pdf
 
-Phase-Change Materials and Experimentation (Dr. Thuo)
-1A. "(1A) Stabilization of Undercooled Metals via Passivating Oxide Layers" in the publication journal indicated by the URL.
-- (1A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(1A)Stabilization%20of%20Undercooled%20Metals%20via%20Passivating%20Oxide%20Layers.pdf
-2A. "(2A) Liquid Metal Surface Oxides" in the publication journal indicated by the URL.
-- (2A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(2A)Liquid%20Metal%20Surface%20Oxides.pdf
-3A. "(3A) Stiffness Tuning" in the publication journal indicated by the URL.
-- (3A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(3A)stiffness%20tuning.pdf
-4A. "(4A) Functional Materials Through Surfaces and Interfaces" in the publication journal indicated by the URL.
-- (4A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(4A)functional-materials-through-surfaces-and-interfaces.pdf
-5A. "(5A) HeatFree Fabrication of Metallic Interconnects for Flexible Wearable Devices" in the publication journal indicated by the URL.
-- (5A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(5A)HeatFree%20Fabrication%20of%20Metallic%20Interconnects%20for%20Flexible%20Wearable%20Devices.pdf
-6A. "(6A) Printing of Conformal Solid Metal Traces on NonAdhering" in the publication journal indicated by the URL.
-- (6A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(6A)Printing%20of%20Conformal%20Solid%20Metal%20Traces%20on%20NonAdhering.pdf
-7A. "(7A) Heat Free Biomimetic Metal Molding on Soft Substrates" in the publication journal indicated by the URL.
-- (7A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(7A)Heat%20Free%20Biomimetic%20Metal%20Molding%20on%20Soft%20Substrates.pdf
-8A. "(8A) Microfluidic Channels" in the publication journal indicated by the URL.
-- (8A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(8A)Microfluidic%20channels.pdf
+Yahriel Salinas-Reyes is applying for a PhD in Biomedical Engineering and has a Bachelor's Degree in Aerospace Engineering. Prepare his Statement of Purpose.
 
-Theoretical Framwework and Proposed Methodology
-1B. "(1B) Adaptive Plasticity of Auxetic Kirigami Hydrogel Fabricated from Anisotropic Swelling of Cellulose Nanofiber Film" in the publication journal indicated by the URL.
-- (1B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(1B)Adaptive%20plasticity%20of%20auxetic%20Kirigami%20hydrogel%20fabricated%20from%20anisotropic%20swelling%20of%20cellulose%20nanofiber%20film.pdf
-2B. "(2B) Sensing Kirigami" in the publication journal indicated by the URL.
-- (2B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(2B)Sensing%20Kirigami.pdf
-3B. "(3B) Cantilever Paper AnalyticalSolutionTwoLayerBeam" in the publication journal indicated by the URL.
-- (3B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(3B)Cantilever_Paper_AnalyticalSolutionTwoLayerBeam.pdf
-4B. "(4B) Cantilever Paper Effects of Shear" in the publication journal indicated by the URL.
-- (4B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(4B)Cantilever_Paper_EffectsofShear.pdf
-5B. "(5B) Cantilever Paper LumpedBendingElectrostrictive" in the publication journal indicated by the URL.
-- (5B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(5B)Cantilever_Paper_LumpedBendingElectrostrictive.pdf
-6B. "(6B) Composites-AnalyticalMonteCarloPZRModel" in the publication journal indicated by the URL.
-- (6B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(6B)Composites-AnalyticalMonteCarloPZRModel.pdf
-7B. "(7B) Exact Solutions of NStokes Eqns 3D4D" in the publication journal indicated by the URL.
-- (7B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(7B)Exact_Solutions_of_NStokes_Eqns_3D4D.pdf
-8B. "(8B) Time Relaxed MCarlo preserving NStokes asymptotics" in the publication journal indicated by the URL.
-- (8B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(8B)Time_Relaxed_MCarlo_preserving_NStokes_asymptotics.pdf
+STATEMENT OF PURPOSE
+Your Statement of Purpose should be no more than one page, double-spaced, in 12 point font. It should provide the review committee with insight on your past experiences and your future career objectives and answer the question - Why did you choose Stevens and the program that you are applying to?
 
-Advances and Applications of Phase Change Materials
-1C. "(1C) Review of Printable Flexible and Stretchable Tactile Sensors" in the publication journal indicated by the URL.
-- (1C) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(1C)ReviewofPrintableFlexibleandStretchableTactileSensors.pdf
-2C. "(2C) Recent Advances in Paper-based Sensors" in the publication journal indicated by the URL.
-- (2C) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(2C)Recent%20Advances%20in%20Paper-based%20Sensors.pdf
-3C. "(3C) Periodic Plastic Deform Mech" in the publication journal indicated by the URL.
-- (3C) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(3C)Periodic%20Plastic%20Deform%20Mech.pdf
-4C. "(4C) A paper-based nanogenerator as a power source and active sensor" in the publication journal indicated by the URL.
-- (4C) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(4C)A%20paper-based%20nanogenerator%20as%20a%20power%20source%20and%20active%20sensor.pdf
-5C. "(5C) Adv Materials Technologies - 2024 - Nishimura - Regulation of Cell Adhesion on Physically Crosslinked Hydrogels Composed of" in the publication journal indicated by the URL.
-- (5C) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(5C)Adv%20Materials%20Technologies%20-%202024%20-%20Nishimura%20-%20Regulation%20of%20Cell%20Adhesion%20on%20Physically%20Crosslinked%20Hydrogels%20Composed%20of.pdf
-6C. "(6C) Three-Dimensional Architected Materials and Structures: Design, Fabrication, and Mechanical Behavior" in the publication journal indicated by the URL.
-- (6C) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(6C)three-dimensional-architected-materials-and-structures-design-fabrication-and-mechanical-behavior.pdf
+When crafting your Statement, it may be beneficial to consider your past, present, and future.
+Past: What have your educational and work experiences been thus far? What has led you to this point in your life?
+Present: Why are you applying to graduate school? Why are you choosing this institution? Why are you choosing this program?
+Future: What are your career goals? How will your degree from Stevens help you to attain them?
+If you are applying to a Ph.D. program, you might want to discuss your research interests and how they align with the work of the current faculty.
+
+RANKINGS: LABORATORY, PROFESSOR, RESEARCH
+
+1. 
+Laboratory for
+NeuroInnovation
+Dr. George C. McConnell
+Deep brain stimulation
+therapies for neural and
+psychiatric disease
+
+2. 
+Yu Laboratory 
+Dr. Xiaojun Yu
+Polymeric biomaterials
+development for tissue
+engineering and drug delivery
+
+3. 
+Musculoskeletal
+Control and Dynamics
+Laboratory
+Dr. Antonia Zaferiou
+Understanding and using
+sound feedback to improve
+movement mechanics
+
+4. 
+MOvement COntrol
+REhabilitation
+Laboratory (MOCORE)
+Dr. Raviraj Nataraj
+Control systems for user
+integration with rehabilitative
+movement devices
+
+5. 
+Tissue Reconstruction
+Laboratory
+Dr. Hongjun Wang
+Tissue engineering, including
+3D printing of bioscaffolds,
+and regenerative medicine
+
+6. 
+Gan Laboratory 
+Dr. Yu
+Gan
+Machine and deep learning
+techniques for biomedical
+image analysis
+
+RANKING RESEARCH AREAS
+1. Neural engineering
+2. Engineering physiology
+3. Biomechanics
+4. AI and deep learning
+5. Control systems
+6. Biomaterials
+7. Tissue engineering
+8. Device development
+9. Drug development/delivery
+10. Imaging
+
+1. Paragraph:
+
+
+Begin with a strong opening that captures the employer's attention. Mention the specific position you are applying for and express your excitement about the opportunity. Be sure to know well to whom you are addressing.
+
+
+2. Paragraph:
+
+
+Write about who you are (what did you study) and what you are currently doing. Tell them specifically what you are doing in your current position.
+
+
+3. Paragraph:
+
+
+Highlight all the relevant skills and achievements that are needed for this position. Use metrics and achievements to quantify your contributions where possible. Demonstrate your understanding of the project's needs and how you can contribute to its success. This is the section where you showcase your unique value proposition as a candidate.
+
+
+4. Paragraph:
+
+
+Discuss how your background aligns with the position that you are applying for. Show that you have done your research on the position and understand its goals and challenges. This demonstrates to the employer that you are not just seeking any job, but that you specifically want to contribute to the success of their project. Wrap up your cover letter by expressing gratitude for the opportunity to apply and reiterate your enthusiasm for the position.
+
+
+Include a call to action, such as expressing your desire for an interview to discuss your qualifications further.
+
+
+Tip: If you're applying for any STEM position, keep the design as clear as possible and avoid fancy designs. The content is what matters in a STEM position. If you're an art student or if design is the focus, you can try a fancy design.
+
+
+University Name
+Faculty Name
+Address
+City, April 27, 2024
+Job Reference: Name of the job and the track number if there is any
+Dear Prof. Dr. XYZ,
+During my work on my master’s thesis, I have developed a strong interest in pursuing a Ph.D. Having thoroughly researched the responsibilities involved, I discovered many areas where this project’s tasks align with
+my areas of study and personal interests. This position provides an ideal opportunity for me to further my
+academic career.
+In [Month, Year], I successfully completed my [master’s degree in Electrical Engineering with a specialization
+in control theory at the University]. Since [Month Year], I have been employed full-time as a specialist for
+railway operational safety in the field of electrical engineering at Deutsche Bahn AG. In this role, I analyze
+information from committees and various sources on electrical engineering in the context of railway operational
+safety. I also worked as a tutor at [the University] in the Faculty of Electrical Engineering, specifically in the
+Power Electronics Research Group, for nearly three years. My teaching responsibilities included conducting
+office hours for students and independently leading and supervising multiple weekly tutorials and labs on the
+subject of “Fundamentals of Electrical Engineering.”
+During my studies, I gained practical experience through laboratory experiments, which allowed me to develop
+skills in handling electrical circuits and using various programs such as Matlab/Simulink. I am also proficient
+in simulation using Cadence and Eagle, evaluation with Matlab, and text writing using LaTeX. Furthermore,
+through a successful project titled “[XXXXXXXX],” which resulted in a publication, I further expanded my
+knowledge in Matlab/Simulink and Python.
+I would like to be chosen for this Ph.D. position because I believe that this project allows me to further
+develop and enhance my research skills at an advanced academic level. I am fully aware of the dedication and
+persistence required to achieve outstanding results in this field, and I have gained these attributes through
+my academic pursuits. Additionally, I have successfully collaborated on various group projects both during
+my studies and in my professional experience, demonstrating my ability to work effectively within a team.
+Participating in this project would not only allow me to showcase my existing skills but also provide me with
+an opportunity to acquire new ones. I would appreciate an invitation to a personal interview.
+Sincerely
+Your Name
 } 
 Purpose: To Help Yahriel Fill The Prompt
 { 
@@ -421,4 +526,4 @@ For assisting you with individual sentences/phrases:
 - Can you adjust the tone of this sentence to sound more [insert tone]? (Tones commonly used in academic texts: analytical, argumentative, persuasive, questioning, authoritative, explanatory, reflective, speculative, assertive)
 --------------------
 ++++
-GIVE ME THE STATEMENT OF PURPOSE
+GIVE ME THE FINAL STATEMENT OF PURPOSE AS AN LONGER EXTENDED RESPONSE THAT IS VERY DETAILED AND HIGHLY ACADEMIC
