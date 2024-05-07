@@ -1,3 +1,5 @@
+GIVE ME ONLY THE INTRODUCTION!!
+
 BUILD UPON THE OUTLINE AND ASSEMBLE EACH SECTION AS FULLY WRITTEN ARGUMENTS AND CONVERSATIONS. NOW GO BACK THROUGH AND BUILD UPON YOUR WRITING BY ADDING IN-TEXT CITATIONS AND REFERENCES AND SUPPLEMENTING THE ARGUMENTS OF EACH SECTION.
 ----
 
@@ -258,69 +260,6 @@ SAMPLES:
 { 
 Read over these samples 11 times with no distractions, and comprehend everything given in these materials, documents, and links. These are related to the research project and thesis. Then Move on to the next section and task. Cite them as given as in-text citations.
 
- Interest in synthetic composite materials has garnered signifi
-cant attention largely due to their high specific properties,
- tunable functionalities, and potential to incorporate advanced
- responsive behaviors.1 Recent advances have largely focused on
- stimuli-responsive composites, which exhibit tunable properties
- when subjected to a specified trigger. Such materials have
- been applied as sensors, actuators, and platforms for multi
-functional devices. Mechanically reconfigurable parts are
- especially critical in soft robotics and analogous functional
- devices, whereby adaptive components are essential for con
-trolled locomotion, actuation, stiffness tuning, and as deployable
- components. In particular, initially soft materials that can
- dramatically increase in rigidity and be programmed into desired
- shapes can be utilized in fields ranging from soft and bio
-inspired robotics to reconfigurable and wearable electronics.
- Several forms of activation have been applied in responsive
- composites, and common examples include temperature,21–24
- electromagnetic radiation,25 as well as electric and magnetic
- fields. Recent developments in smart responsive composites have utilized
- various stimuli including heat, light, solvents, electricity, and
- magnetic fields to induce a change in material properties. Here, we
- report a thermodynamically driven mechanically responsive compo
-site, exploiting irreversible phase-transformation (relaxation) of meta
-stable undercooledliquid metal core shell particle fillers. Thermal and
- mechanical analysis reveals that as the composite is deformed, the
- particles transform from individual liquid droplets to a solid metal
- network, resulting in a 300 percent increase in Young’s modulus. Incontrast
- to previous phase change materials, this dramatic change in stiffness
- occurs autonomously under deformation, is insensitive to environ
-mentalconditions,and doesnotrequire externalenergy sources such
- as heat, light, or electricity. We demonstrate the utility of this
- approach by transforming a flat, flexible biocomposite strip of cellulose paper, into a highly efficient and disposable piezoresistor that is highly sensitive, also referred to as Quantum Tunnelling Composites (QTC's).
- In contemporary technology, the integration of phase-change materials (PCMs) into piezoresistive Micro-Electro-Mechanical Systems (MEMS)sensors holds promise for significantly enhancing their performance and functionality. This paper delves into the theoretical foundations and practical applications of PCM-enhanced MEMS sensors, focusing particularly on optimizing sensor design and fabrication processes. For the duration of this study, the focus was in synthesizing biocomposites with cellulose-based paper with heat-free fabrication processes. By conducting a thorough review of the literature on PCMs, MEMS sensors, and solid-to-solid phase transitions, this research aims to shed light on the transformative potential of PCMs in sensor technology. The utilization of PCMs offers the prospect of tunable mechanical properties, heightened sensitivity, and reduced power consumption, thereby revolutionizing sensor applications across various domains such as healthcare, aerospace, and structural monitoring. Dr. Thuo's Stabilization of Undercooled Metals via Passivating Oxide Layers relies on frustration of liquid solid transition mainly by an increase in activation energy. This study not only contributes to academic knowledge but also holds implications for real-world technological advancements.
- Metals and organics possess two very dissimilar surface energies, hence, 
-do not naturally adhere to each other. This incompatibility is exacerbated by 
-surface roughness yet advances in wearables and bioelectronics call for their 
-integration. Mesoscale mechanical bonds, however, transcend the necessi
-ties of surface energy matching while taking advantage of surface texture. 
- By exploiting the benefits of these undercooled core-shell 
-particles in association with piezoresistive micro electromechanical systems (MEMS), the 
-presented design creates an elegant high efficiency, frugal sensor technology. In 
-comparison to intricate electronics designs, piezoresistive MEMS devices simply create 
-connections between mechanical stimuli and resistivity via the piezoresistive effect.1 Note 
-that the main argument of this paper lies in exploiting the differences between paper
-based MEMS utilizing silver paste (Standard), 
-and emphasizing the benefits of introducing 
-this research group’s FM particles into a new 
-MEMS Design. 
-
-Previous Research Work and Background (Y.Salinas-Reyes)
-[1] "EB_JUN_DRAFT_2022" in the publication journal indicated by the URL.
-- [1] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B1%5DEB_JUN_DRAFT_2022.pdf
-[2] "MEMS Project Draft Feb 2022" in the publication journal indicated by the URL.
-- [2] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B2%5DMEMS%20Project%20Draft%20%20Feb%202022.pdf
-[3] "Paper-based piezoresistive MEMS force sensors" in the publication journal indicated by the URL.
-- [3] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B3%5DPaper-based_piezoresistive_MEMS_force_sensors.pdf
-[4] "LabonChip" in the publication journal indicated by the URL.
-- [4] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B4%5DLabonChip.pdf
-[5] "Y.Salinas-Reyes MEMS Mathematical Models" in the publication journal indicated by the URL.
-- [5] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B5%5DY.Salinas-Reyes_MEMS_Mathematical_Models.pdf
-[6] "Y.Salinas-Reyes MEMS Draft 23" in the publication journal indicated by the URL.
-- [6] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B6%5DY.Salinas-Reyes_MEMS_Draft__23.pdf
-
 Phase-Change Materials and Experimentation (Dr. Thuo)
 1A. "(1A) Stabilization of Undercooled Metals via Passivating Oxide Layers" in the publication journal indicated by the URL.
 - (1A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(1A)Stabilization%20of%20Undercooled%20Metals%20via%20Passivating%20Oxide%20Layers.pdf
@@ -392,32 +331,6 @@ Rewrite and Extend and Reorganize the Response and keep the word/character count
 Review and make changes in regards to the special topic given in the description.
 
 
-RESEARCH PAPER OUTLINE EXAMPLE:
-I. INTRODUCTION
-    a. Start with an attention-grabber (quote, statistics, story)
-    b. Provide some background information on your topic.
-    c. Write down your thesis statement (purpose of the research).
-II. BODY SECTIONS
- 1. First section: the description of the issue
-    a. Start with a topic sentence that names a certain issue.
-    b. Provide additional details on this issue.
-    c. Add your own commentary on the issue.
- 2. Second section: the history of the topic
-    a. Start with providing details on when this issue began to draw attention.
-    b. Provide more concrete information on major turning points for the issue.
-    c. Add your own commentary on the turning points.
- 3. Third section: the significance of the change
-    a. Start with answering the question "why this issue needs to be addressed?"
-    b. Describe the outcomes id the issue won't be addressed.
-    c. Provide your own comentaries on the significance.
- 4. Fourth section: the action plan for the change
-    a. Start with providing your ideas on what and how to change when it comes to the issue.
-    b. Describe in details your ideas for the changes.
-    c. Provide your own commentaties on the changes.
-II. CONCLUSION
-    a. Restate your thesis statement.
-    b. Summarize the main points of your research paper.
-    c. Describe the future of the issue with your changes.
 
 }
 
@@ -436,16 +349,6 @@ Review and make changes in regards to the special topic given in the description
 2. "Assist me in constructing an engaging opening hook that captures reader's attention and introduces my research."
 3. Guide me in formulating clear aims and objectives for my study by suggesting a list of verbs I can choose from."
 4. My literature review feels scrappy and fragmented. Can you give me some specific words and phrases I can use to connect the sections together and integrate the material, so it flows better? They should be fill in the gap sentence starters. Please give me 10.
-
-
-STEPS TO WRITE A RESEARCH PAPER:
-1. Title: The title of your proposal should be concise and clear to clearly indicate your research question.
-2. Abstract: Include your research question, hypothesis, methodology and findings in the abstract of your proposal.
-3. Introduction: Introduction should include the purpose of research, background information significance of your study.
-4. Literature Review: Conduct a detailed review to understand the topic and create a clear research question.
-5. Research Methodology: Explain the method you will go for to deal with your research question in this section of your proposal.
-6. Discussion: Describe the potential impact and mertis of your research to enchance the significance.
-7. Citation: Give references to the authors and the literature you have studies for your research.
 
 
 RESEARCH PAPER WRITING PROCESS KEY SECTIONS:
@@ -472,3 +375,4 @@ For assisting you with individual sentences/phrases:
 --------------------
 ++++
 BUILD UPON THE OUTLINE AND ASSEMBLE EACH SECTION AS FULLY WRITTEN ARGUMENTS AND CONVERSATIONS. NOW GO BACK THROUGH AND BUILD UPON YOUR WRITING BY ADDING IN-TEXT CITATIONS AND REFERENCES AND SUPPLEMENTING THE ARGUMENTS OF EACH SECTION.
+GIVE ME ONLY THE INTRODUCTION!!

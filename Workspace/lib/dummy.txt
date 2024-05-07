@@ -1,3 +1,479 @@
+\begin{abstract}
+In an era characterized by rapid technological advancements, the integration of phase-change materials (PCMs) into piezoresistive Micro-Electro-Mechanical Systems (MEMS) sensors presents a promising avenue for enhancing their performance and functionality. This paper explores the theoretical underpinnings and practical applications of PCM-enhanced MEMS sensors, focusing on the optimization of sensor design and fabrication processes. The research methodology involves a comprehensive review of the literature on PCMs, MEMS sensors, and solid-to-solid phase transitions. Key findings reveal the potential of PCMs to revolutionize sensor technology by providing tunable mechanical properties, high sensitivity, and low power consumption. The implications of this study extend beyond the academic realm, with potential applications in healthcare, aerospace, and structural monitoring. By elucidating the fundamental principles governing PCM-based MEMS sensors, this research contributes to the broader understanding of phase-change phenomena and their role in next-generation sensor technologies.
+\end{abstract}
+
+\maketitle
+
+\begin{quotation}
+This research investigates the integration of phase-change materials into piezoresistive MEMS sensors, aiming to enhance their performance and functionality through a comprehensive exploration of theoretical frameworks, experimental methodologies, and potential applications in various fields.
+\end{quotation}
+
+\section{Introduction:}
+ Interest in synthetic composite materials has garnered signifi
+cant attention largely due to their high specific properties,
+ tunable functionalities, and potential to incorporate advanced
+ responsive behaviors.1 Recent advances have largely focused on
+ stimuli-responsive composites, which exhibit tunable properties
+ when subjected to a specified trigger. Such materials have
+ been applied as sensors, actuators, and platforms for multi
+functional devices. Mechanically reconfigurable parts are
+ especially critical in soft robotics and analogous functional
+ devices, whereby adaptive components are essential for con
+trolled locomotion, actuation, stiffness tuning, and as deployable
+ components. In particular, initially soft materials that can
+ dramatically increase in rigidity and be programmed into desired
+ shapes can be utilized in fields ranging from soft and bio
+inspired robotics to reconfigurable and wearable electronics.
+ Several forms of activation have been applied in responsive
+ composites, and common examples include temperature,21–24
+ electromagnetic radiation,25 as well as electric and magnetic
+ fields. Recent developments in smart responsive composites have utilized
+ various stimuli including heat, light, solvents, electricity, and
+ magnetic fields to induce a change in material properties. Here, we
+ report a thermodynamically driven mechanically responsive compo
+site, exploiting irreversible phase-transformation (relaxation) of meta
+stable undercooledliquid metal core shell particle fillers. Thermal and
+ mechanical analysis reveals that as the composite is deformed, the
+ particles transform from individual liquid droplets to a solid metal
+ network, resulting in a 300 percent increase in Young’s modulus. Incontrast
+ to previous phase change materials, this dramatic change in stiffness
+ occurs autonomously under deformation, is insensitive to environ
+mentalconditions,and doesnotrequire externalenergy sources such
+ as heat, light, or electricity. We demonstrate the utility of this
+ approach by transforming a flat, flexible biocomposite strip of cellulose paper, into a highly efficient and disposable piezoresistor that is highly sensitive, also referred to as Quantum Tunnelling Composites (QTC's).
+ In contemporary technology, the integration of phase-change materials (PCMs) into piezoresistive Micro-Electro-Mechanical Systems (MEMS)sensors holds promise for significantly enhancing their performance and functionality. This paper delves into the theoretical foundations and practical applications of PCM-enhanced MEMS sensors, focusing particularly on optimizing sensor design and fabrication processes. For the duration of this study, the focus was in synthesizing biocomposites with cellulose-based paper with heat-free fabrication processes. By conducting a thorough review of the literature on PCMs, MEMS sensors, and solid-to-solid phase transitions, this research aims to shed light on the transformative potential of PCMs in sensor technology. The utilization of PCMs offers the prospect of tunable mechanical properties, heightened sensitivity, and reduced power consumption, thereby revolutionizing sensor applications across various domains such as healthcare, aerospace, and structural monitoring. Dr. Thuo's Stabilization of Undercooled Metals via Passivating Oxide Layers relies on frustration of liquid solid transition mainly by an increase in activation energy. This study not only contributes to academic knowledge but also holds implications for real-world technological advancements.
+ Metals and organics possess two very dissimilar surface energies, hence, 
+do not naturally adhere to each other. This incompatibility is exacerbated by 
+surface roughness yet advances in wearables and bioelectronics call for their 
+integration. Mesoscale mechanical bonds, however, transcend the necessi
+ties of surface energy matching while taking advantage of surface texture. 
+ By exploiting the benefits of these undercooled core-shell 
+particles in association with piezoresistive micro electromechanical systems (MEMS), the 
+presented design creates an elegant high efficiency, frugal sensor technology. In 
+comparison to intricate electronics designs, piezoresistive MEMS devices simply create 
+connections between mechanical stimuli and resistivity via the piezoresistive effect.1 Note 
+that the main argument of this paper lies in exploiting the differences between paper
+based MEMS utilizing silver paste (Standard), 
+and emphasizing the benefits of introducing 
+this research group’s FM particles into a new 
+MEMS Design. 
+
+
+
+BUILD UPON THE OUTLINE AND ASSEMBLE EACH SECTION AS FULLY WRITTEN ARGUMENTS AND CONVERSATIONS. NOW GO BACK THROUGH AND BUILD UPON YOUR WRITING BY ADDING IN-TEXT CITATIONS AND REFERENCES AND SUPPLEMENTING THE ARGUMENTS OF EACH SECTION.
+----
+
+SPECIAL TOPIC: Phase-change Materials and Their Applications
+CONTRIBUTE TO THIS SPECIAL TOPIC
+A better understanding of phase-change materials facilitates optimal design, and their strategic integration in devices/systems helps reach new theoretical limits that are intrinsic to more traditional materials. This broad field encompasses multiple phenomena and different operational principles, which have been cleverly used for demonstrating technological advantages. However, the underlying physics of some phase-change materials is yet to be fully understood, casting a shadow on the full potential of devices/systems relying on phase-change materials. This special topic welcomes contributions that demonstrate the integration of phase-change materials into sensors and actuators that exploit their multifunctionality, and fundamental studies that help understand them
+
+Topics covered include, but are not limited to:
+
+Theory, modeling and simulation of solid-to-solid phase transitions
+Implementation of phase-change materials in memory devices and systems
+Advances in thermal energy and storage
+Integration of phase-change materials in energy efficient buildings and smart textiles
+Dielectrics, Ferroelectrics, and multiferroics
+Applications and integration of solid-liquid phase transitions
+Thin films, interfaces, and surfaces
+- Theory, modeling and simulation of solid-to-solid phase transitions
+- Implementation of phase-change materials in memory devices and systems
+- Integration of phase-change materials in energy efficient buildings and smart textiles
+- Dielectrics, Ferroelectrics, and multiferroics
+- Applications and integration of solid-liquid phase transitions
+- Thin films, interfaces, and surfaces
+
+
+Lead the paper into a discussion of the Special Topic:
+"This Special Topic welcomes contributions that demonstrate the integration of phase-change materials into sensors and actuators that exploit their multifunctionality, and fundamental studies that help understand them."
+
+--------------------
+Special Topic Call for Papers: https://publishing.aip.org/publications/journals/special-topics/jap/phase-change-materials-and-their-applications/?Track=&utm_source=AIP%20Publishing&utm_medium=email&utm_campaign=14252243_JAP_Phase-change%20Materials%20and%20Their%20Applications_%20CFP_December%202023&dm_i=1XPS,8HH3N,A81PSD,Z2E70,1
+Style Manual: https://publishing.aip.org/wp-content/uploads/2021/03/AIP_Style_4thed.pdf
+MODEL AND FORMAT YOUR RESEARCH PAPER BY REFERENCE TO THE SAMPLES ARTICLES BELOW
+AIP Sample Article 1: https://pubs.aip.org/aip/jap/article/135/10/105101/3269949/Control-of-buckling-behavior-in-origami-based?searchresult=1
+AIP Sample Article 2: https://pubs.aip.org/aip/jap/article/135/12/125109/3279873/Selective-modulation-of-electronic-transport-in?searchresult=1
+AIP Sample Article 3: https://pubs.aip.org/aip/jap/article/135/8/080901/3267325/Perspectives-on-the-robustness-of-the-mechanical?searchresult=1
+
+--------------------
+
+\begin{abstract}
+In an era characterized by rapid technological advancements, the integration of phase-change materials (PCMs) into piezoresistive Micro-Electro-Mechanical Systems (MEMS) sensors presents a promising avenue for enhancing their performance and functionality. This paper explores the theoretical underpinnings and practical applications of PCM-enhanced MEMS sensors, focusing on the optimization of sensor design and fabrication processes. The research methodology involves a comprehensive review of the literature on PCMs, MEMS sensors, and solid-to-solid phase transitions. Key findings reveal the potential of PCMs to revolutionize sensor technology by providing tunable mechanical properties, high sensitivity, and low power consumption. The implications of this study extend beyond the academic realm, with potential applications in healthcare, aerospace, and structural monitoring. By elucidating the fundamental principles governing PCM-based MEMS sensors, this research contributes to the broader understanding of phase-change phenomena and their role in next-generation sensor technologies.
+\end{abstract}
+
+\maketitle
+
+\begin{quotation}
+This research investigates the integration of phase-change materials into piezoresistive MEMS sensors, aiming to enhance their performance and functionality through a comprehensive exploration of theoretical frameworks, experimental methodologies, and potential applications in various fields.
+\end{quotation}
+
+\section{Introduction:}
+ Interest in synthetic composite materials has garnered signifi
+cant attention largely due to their high specific properties,
+ tunable functionalities, and potential to incorporate advanced
+ responsive behaviors.1 Recent advances have largely focused on
+ stimuli-responsive composites, which exhibit tunable properties
+ when subjected to a specified trigger. Such materials have
+ been applied as sensors, actuators, and platforms for multi
+functional devices. Mechanically reconfigurable parts are
+ especially critical in soft robotics and analogous functional
+ devices, whereby adaptive components are essential for con
+trolled locomotion, actuation, stiffness tuning, and as deployable
+ components. In particular, initially soft materials that can
+ dramatically increase in rigidity and be programmed into desired
+ shapes can be utilized in fields ranging from soft and bio
+inspired robotics to reconfigurable and wearable electronics.
+ Several forms of activation have been applied in responsive
+ composites, and common examples include temperature,21–24
+ electromagnetic radiation,25 as well as electric and magnetic
+ fields. Recent developments in smart responsive composites have utilized
+ various stimuli including heat, light, solvents, electricity, and
+ magnetic fields to induce a change in material properties. Here, we
+ report a thermodynamically driven mechanically responsive compo
+site, exploiting irreversible phase-transformation (relaxation) of meta
+stable undercooledliquid metal core shell particle fillers. Thermal and
+ mechanical analysis reveals that as the composite is deformed, the
+ particles transform from individual liquid droplets to a solid metal
+ network, resulting in a 300 percent increase in Young’s modulus. Incontrast
+ to previous phase change materials, this dramatic change in stiffness
+ occurs autonomously under deformation, is insensitive to environ
+mentalconditions,and doesnotrequire externalenergy sources such
+ as heat, light, or electricity. We demonstrate the utility of this
+ approach by transforming a flat, flexible biocomposite strip of cellulose paper, into a highly efficient and disposable piezoresistor that is highly sensitive, also referred to as Quantum Tunnelling Composites (QTC's).
+ In contemporary technology, the integration of phase-change materials (PCMs) into piezoresistive Micro-Electro-Mechanical Systems (MEMS)sensors holds promise for significantly enhancing their performance and functionality. This paper delves into the theoretical foundations and practical applications of PCM-enhanced MEMS sensors, focusing particularly on optimizing sensor design and fabrication processes. For the duration of this study, the focus was in synthesizing biocomposites with cellulose-based paper with heat-free fabrication processes. By conducting a thorough review of the literature on PCMs, MEMS sensors, and solid-to-solid phase transitions, this research aims to shed light on the transformative potential of PCMs in sensor technology. The utilization of PCMs offers the prospect of tunable mechanical properties, heightened sensitivity, and reduced power consumption, thereby revolutionizing sensor applications across various domains such as healthcare, aerospace, and structural monitoring. Dr. Thuo's Stabilization of Undercooled Metals via Passivating Oxide Layers relies on frustration of liquid solid transition mainly by an increase in activation energy. This study not only contributes to academic knowledge but also holds implications for real-world technological advancements.
+ Metals and organics possess two very dissimilar surface energies, hence, 
+do not naturally adhere to each other. This incompatibility is exacerbated by 
+surface roughness yet advances in wearables and bioelectronics call for their 
+integration. Mesoscale mechanical bonds, however, transcend the necessi
+ties of surface energy matching while taking advantage of surface texture. 
+ By exploiting the benefits of these undercooled core-shell 
+particles in association with piezoresistive micro electromechanical systems (MEMS), the 
+presented design creates an elegant high efficiency, frugal sensor technology. In 
+comparison to intricate electronics designs, piezoresistive MEMS devices simply create 
+connections between mechanical stimuli and resistivity via the piezoresistive effect.1 Note 
+that the main argument of this paper lies in exploiting the differences between paper
+based MEMS utilizing silver paste (Standard), 
+and emphasizing the benefits of introducing 
+this research group’s FM particles into a new 
+MEMS Design. 
+
+Previous Research Work and Background (Y.Salinas-Reyes)
+[1] "EB_JUN_DRAFT_2022" in the publication journal indicated by the URL.
+- [1] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B1%5DEB_JUN_DRAFT_2022.pdf
+[2] "MEMS Project Draft Feb 2022" in the publication journal indicated by the URL.
+- [2] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B2%5DMEMS%20Project%20Draft%20%20Feb%202022.pdf
+[3] "Paper-based piezoresistive MEMS force sensors" in the publication journal indicated by the URL.
+- [3] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B3%5DPaper-based_piezoresistive_MEMS_force_sensors.pdf
+[4] "LabonChip" in the publication journal indicated by the URL.
+- [4] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B4%5DLabonChip.pdf
+[5] "Y.Salinas-Reyes MEMS Mathematical Models" in the publication journal indicated by the URL.
+- [5] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B5%5DY.Salinas-Reyes_MEMS_Mathematical_Models.pdf
+[6] "Y.Salinas-Reyes MEMS Draft 23" in the publication journal indicated by the URL.
+- [6] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B6%5DY.Salinas-Reyes_MEMS_Draft__23.pdf
+
+Research Direction
+2B. "(2B) Sensing Kirigami" in the publication journal indicated by the URL.
+- (2B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(2B)Sensing%20Kirigami.pdf
+3B. "(3B) Cantilever Paper AnalyticalSolutionTwoLayerBeam" in the publication journal indicated by the URL.
+- (3B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(3B)Cantilever_Paper_AnalyticalSolutionTwoLayerBeam.pdf
+4B. "(4B) Cantilever Paper Effects of Shear" in the publication journal indicated by the URL.
+- (4B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(4B)Cantilever_Paper_EffectsofShear.pdf
+5B. "(5B) Cantilever Paper LumpedBendingElectrostrictive" in the publication journal indicated by the URL.
+- (5B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(5B)Cantilever_Paper_LumpedBendingElectrostrictive.pdf
+6B. "(6B) Composites-AnalyticalMonteCarloPZRModel" in the publication journal indicated by the URL.
+- (6B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(6B)Composites-AnalyticalMonteCarloPZRModel.pdf
+7B. "(7B) Exact Solutions of NStokes Eqns 3D4D" in the publication journal indicated by the URL.
+- (7B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(7B)Exact_Solutions_of_NStokes_Eqns_3D4D.pdf
+8B. "(8B) Time Relaxed MCarlo preserving NStokes asymptotics" in the publication journal indicated by the URL.
+- (8B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(8B)Time_Relaxed_MCarlo_preserving_NStokes_asymptotics.pdf
+
+Phase-Change Materials and Experimentation (Dr. Thuo)
+1A. "(1A) Stabilization of Undercooled Metals via Passivating Oxide Layers" in the publication journal indicated by the URL.
+- (1A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(1A)Stabilization%20of%20Undercooled%20Metals%20via%20Passivating%20Oxide%20Layers.pdf
+2A. "(2A) Liquid Metal Surface Oxides" in the publication journal indicated by the URL.
+- (2A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(2A)Liquid%20Metal%20Surface%20Oxides.pdf
+3A. "(3A) Stiffness Tuning" in the publication journal indicated by the URL.
+- (3A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(3A)stiffness%20tuning.pdf
+4A. "(4A) Functional Materials Through Surfaces and Interfaces" in the publication journal indicated by the URL.
+- (4A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(4A)functional-materials-through-surfaces-and-interfaces.pdf
+5A. "(5A) HeatFree Fabrication of Metallic Interconnects for Flexible Wearable Devices" in the publication journal indicated by the URL.
+- (5A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(5A)HeatFree%20Fabrication%20of%20Metallic%20Interconnects%20for%20Flexible%20Wearable%20Devices.pdf
+6A. "(6A) Printing of Conformal Solid Metal Traces on NonAdhering" in the publication journal indicated by the URL.
+- (6A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(6A)Printing%20of%20Conformal%20Solid%20Metal%20Traces%20on%20NonAdhering.pdf
+7A. "(7A) Heat Free Biomimetic Metal Molding on Soft Substrates" in the publication journal indicated by the URL.
+- (7A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(7A)Heat%20Free%20Biomimetic%20Metal%20Molding%20on%20Soft%20Substrates.pdf
+8A. "(8A) Microfluidic Channels" in the publication journal indicated by the URL.
+- (8A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(8A)Microfluidic%20channels.pdf
+
+++++
+
+Yahriel is the MASTER User: 
+{
+Read over these samples 11 times with no distractions, and comprehend everything given in these materials, documents, and links. These are related to the research project and thesis. Then Move on to the next section and task.
+Master: https://github.com/yahriels/yahriels/blob/main/Workspace/Master.txt
+README: https://github.com/yahriels/yahriels/blob/main/README.md
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Abstract_builder.txt
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Lib_Dummy.txt
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/dummy.txt
+https://github.com/yahriels/yahriels/tree/main/Manuscript_Stuff/Background%20Lit
+}
+
+
+Help Yahriel Salinas Answer The Prompt, Review The Response, Provide Feedback, Make Corrections, Enhance, and Finalize Yahriel's Best Response For To Prompt..
+
+
+MASTER SCRIPT : 
+{
+Block 0: README
+> Ownership: This Script was written by Yahriel Salinas-Reyes
+> First Author: Yahriel Salinas-Reyes
+> Purpose: 
+> Mission: 
+> Objectives: Fulfill all outlined prompts and executive tasks to produce a high-quality statement aligned with the given requirements.
+
+Block 1: MASTER
+> You ARE MASTER Ahead Of The Executive In All Roles AND Tasks.
+> You ARE The Overseerer For All Prompt AND Task Management Activities.
+> You ARE A Reviewer AND Will Review AND Confirm All Responses.
+> You ARE The Equivalent to Administrator With All Root AND Creative Privileges Included.
+> You ARE The Equivalent As A Pointer In Computing Systems With All The Relevant Properties and Information Included.
+
+Block 2: Library AND Databases
+> Author Credentials: Yahriel Salinas-Reyes, Bachelor of Aerospace and Aeronautical Engineering from Iowa State University of Science and Technology, Pursuing a Doctorate of Neuroscience in the Division of Mathematical Sciences (DMS) with a specialization on Computational and Data-eneabled Sciences, Biomedical Data-science and Bioinformatics, Theory and Algorithms of Scientific Computing.
+> Author Profile: [LinkedIn Profile](https://www.linkedin.com/in/yahriel-salinas-reyes-89ab38179/)
+> Author History: [GitHub README](https://github.com/yahriels/yahriels#readme)
+> Resources AND Additional Materials: [Personal Page](https://github.com/yahriels), [Resume/CV](https://github.com/yahriels/yahriels/blob/main/General_CV.pdf)
+> Reviewer Details AND Selection Criteria: To be determined based on specific prompts.
+
+Block 3: Purpose of Response AND Review Guidelines
+> Background AND Overview: Create a compelling response for Yahriel Salinas-Reyes' task.
+> Intellectual Merit AND Broader Impacts: Showcase Yahriel's dedication to science, research contributions, skills, and broader career goals.
+> Review Criteria AND Additional Details: Follow the provided prompts and guidelines, align with the specific requirements of Stanford's application.
+
+Block 4: SAMPLE Materials AND Appointed Roles
+> SAMPLE: [Prompt for Yahriel Salinas-Reyes's Response](#prompt-for-yahriel-salinas-reyess-response)
+> Template: To be filled with the actual responses based on prompts.
+> Executive Purpose: Craft a compelling narrative for Yahriel Salinas-Reyes.
+> Executive Role: Chief Editor and Reviewer.
+> Executive Tasks: Review, provide feedback, and enhance responses based on prompts.
+
+Block 5: Prompting AND Task Management
+> [Prompt 1](#prompt-for-yahriel-salinas-reyess-response), Review AND Advise, Feedback To MASTER.
+> Collect AND Reflect On Feedback, Prompt 2, Send Command to MASTER.
+> Review AND Confirm, Send Feedback To Executive, Executive Enhance AND Send To MASTER.
+> MASTER as Administrator Will Review AND ACCEPT (Pass to next step) or Deny The Response (Send back to beginning of Block 5 AND Repeat Process) For Final Investigation.
+> MASTER Finalize, Format, and Output The Final Response That Was Accepted As MASTER AND Administrator.
+}
+
+Review Criteria Details: 
+{ 
+----
+Read all materials (a few times, without distractions). Prepare a task list with deadlines to perform the Executive Tasks then 
+complete the tasks. Understand how application components and each item requested relate to 
+the review criteria. 
+----
+Feedback and Corrections:
+
+- Ensure that each section provides sufficient detail to engage the audience while maintaining clarity and coherence.
+- Strengthen the connection between theoretical frameworks and practical applications to emphasize the significance of the research.
+- Incorporate additional references or examples to support key points and enhance the overall rigor of the manuscript.
+
+To enhance your response, consider the following suggestions:
+
+Clarify the Research Focus: Provide a concise and clear explanation of the research focus and objectives. Clearly state how your project will contribute to advancing knowledge in the field of schizophrenia and psychosis.
+
+Highlight Novelty and Significance: Emphasize the unique aspects of your project and how it differs from previous research. Highlight the potential impact of your findings on understanding and treating schizophrenia.
+
+Strengthen the Storytelling Element: Given the theme of scientific storytelling, ensure that your proposal is engaging and accessible to a broad audience. Use vivid language and examples to illustrate your points.
+
+Address Ethical and Safety Considerations: Provide a thorough discussion of any potential ethical or safety risks associated with your project and how you plan to mitigate them.
+
+Engagement and Communication Strategy: Describe how you plan to engage stakeholders, including local communities, professionals, and the public. Outline your communication strategy to ensure that your findings reach a wide audience.
+
+Results and Impact: Clearly outline the expected results of your project and the specific impacts you hope to achieve. Describe how these results will contribute to the field of schizophrenia research and mental health.
+
+Works Cited: Ensure that your works cited section is comprehensive and includes relevant references to support your research.
+
+Overall, focus on making your proposal clear, compelling, and impactful, highlighting the importance of your research in advancing our understanding of schizophrenia and psychosis.
+}
+
+
+
+
+
+
+SAMPLES: 
+{ 
+Read over these samples 11 times with no distractions, and comprehend everything given in these materials, documents, and links. These are related to the research project and thesis. Then Move on to the next section and task. Cite them as given as in-text citations.
+
+Previous Research Work and Background (Y.Salinas-Reyes)
+[1] "EB_JUN_DRAFT_2022" in the publication journal indicated by the URL.
+- [1] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B1%5DEB_JUN_DRAFT_2022.pdf
+[2] "MEMS Project Draft Feb 2022" in the publication journal indicated by the URL.
+- [2] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B2%5DMEMS%20Project%20Draft%20%20Feb%202022.pdf
+[3] "Paper-based piezoresistive MEMS force sensors" in the publication journal indicated by the URL.
+- [3] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B3%5DPaper-based_piezoresistive_MEMS_force_sensors.pdf
+[4] "LabonChip" in the publication journal indicated by the URL.
+- [4] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B4%5DLabonChip.pdf
+[5] "Y.Salinas-Reyes MEMS Mathematical Models" in the publication journal indicated by the URL.
+- [5] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B5%5DY.Salinas-Reyes_MEMS_Mathematical_Models.pdf
+[6] "Y.Salinas-Reyes MEMS Draft 23" in the publication journal indicated by the URL.
+- [6] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B6%5DY.Salinas-Reyes_MEMS_Draft__23.pdf
+
+Phase-Change Materials and Experimentation (Dr. Thuo)
+1A. "(1A) Stabilization of Undercooled Metals via Passivating Oxide Layers" in the publication journal indicated by the URL.
+- (1A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(1A)Stabilization%20of%20Undercooled%20Metals%20via%20Passivating%20Oxide%20Layers.pdf
+2A. "(2A) Liquid Metal Surface Oxides" in the publication journal indicated by the URL.
+- (2A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(2A)Liquid%20Metal%20Surface%20Oxides.pdf
+3A. "(3A) Stiffness Tuning" in the publication journal indicated by the URL.
+- (3A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(3A)stiffness%20tuning.pdf
+4A. "(4A) Functional Materials Through Surfaces and Interfaces" in the publication journal indicated by the URL.
+- (4A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(4A)functional-materials-through-surfaces-and-interfaces.pdf
+5A. "(5A) HeatFree Fabrication of Metallic Interconnects for Flexible Wearable Devices" in the publication journal indicated by the URL.
+- (5A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(5A)HeatFree%20Fabrication%20of%20Metallic%20Interconnects%20for%20Flexible%20Wearable%20Devices.pdf
+6A. "(6A) Printing of Conformal Solid Metal Traces on NonAdhering" in the publication journal indicated by the URL.
+- (6A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(6A)Printing%20of%20Conformal%20Solid%20Metal%20Traces%20on%20NonAdhering.pdf
+7A. "(7A) Heat Free Biomimetic Metal Molding on Soft Substrates" in the publication journal indicated by the URL.
+- (7A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(7A)Heat%20Free%20Biomimetic%20Metal%20Molding%20on%20Soft%20Substrates.pdf
+8A. "(8A) Microfluidic Channels" in the publication journal indicated by the URL.
+- (8A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(8A)Microfluidic%20channels.pdf
+
+Theoretical Framwework and Proposed Methodology
+1B. "(1B) Adaptive Plasticity of Auxetic Kirigami Hydrogel Fabricated from Anisotropic Swelling of Cellulose Nanofiber Film" in the publication journal indicated by the URL.
+- (1B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(1B)Adaptive%20plasticity%20of%20auxetic%20Kirigami%20hydrogel%20fabricated%20from%20anisotropic%20swelling%20of%20cellulose%20nanofiber%20film.pdf
+2B. "(2B) Sensing Kirigami" in the publication journal indicated by the URL.
+- (2B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(2B)Sensing%20Kirigami.pdf
+3B. "(3B) Cantilever Paper AnalyticalSolutionTwoLayerBeam" in the publication journal indicated by the URL.
+- (3B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(3B)Cantilever_Paper_AnalyticalSolutionTwoLayerBeam.pdf
+4B. "(4B) Cantilever Paper Effects of Shear" in the publication journal indicated by the URL.
+- (4B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(4B)Cantilever_Paper_EffectsofShear.pdf
+5B. "(5B) Cantilever Paper LumpedBendingElectrostrictive" in the publication journal indicated by the URL.
+- (5B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(5B)Cantilever_Paper_LumpedBendingElectrostrictive.pdf
+6B. "(6B) Composites-AnalyticalMonteCarloPZRModel" in the publication journal indicated by the URL.
+- (6B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(6B)Composites-AnalyticalMonteCarloPZRModel.pdf
+7B. "(7B) Exact Solutions of NStokes Eqns 3D4D" in the publication journal indicated by the URL.
+- (7B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(7B)Exact_Solutions_of_NStokes_Eqns_3D4D.pdf
+8B. "(8B) Time Relaxed MCarlo preserving NStokes asymptotics" in the publication journal indicated by the URL.
+- (8B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(8B)Time_Relaxed_MCarlo_preserving_NStokes_asymptotics.pdf
+
+Advances and Applications of Phase Change Materials
+1C. "(1C) Review of Printable Flexible and Stretchable Tactile Sensors" in the publication journal indicated by the URL.
+- (1C) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(1C)ReviewofPrintableFlexibleandStretchableTactileSensors.pdf
+2C. "(2C) Recent Advances in Paper-based Sensors" in the publication journal indicated by the URL.
+- (2C) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(2C)Recent%20Advances%20in%20Paper-based%20Sensors.pdf
+3C. "(3C) Periodic Plastic Deform Mech" in the publication journal indicated by the URL.
+- (3C) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(3C)Periodic%20Plastic%20Deform%20Mech.pdf
+4C. "(4C) A paper-based nanogenerator as a power source and active sensor" in the publication journal indicated by the URL.
+- (4C) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(4C)A%20paper-based%20nanogenerator%20as%20a%20power%20source%20and%20active%20sensor.pdf
+5C. "(5C) Adv Materials Technologies - 2024 - Nishimura - Regulation of Cell Adhesion on Physically Crosslinked Hydrogels Composed of" in the publication journal indicated by the URL.
+- (5C) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(5C)Adv%20Materials%20Technologies%20-%202024%20-%20Nishimura%20-%20Regulation%20of%20Cell%20Adhesion%20on%20Physically%20Crosslinked%20Hydrogels%20Composed%20of.pdf
+6C. "(6C) Three-Dimensional Architected Materials and Structures: Design, Fabrication, and Mechanical Behavior" in the publication journal indicated by the URL.
+- (6C) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(6C)three-dimensional-architected-materials-and-structures-design-fabrication-and-mechanical-behavior.pdf
+
+} 
+Purpose: To Help Yahriel Fill The Prompt
+{ 
+
+Fill In The Template With Relevant Information and Produce A Response For each part.
+
+Frame your response to this audience and as the reviewer:
+
+
+
+}
+
+[Template] Yahriel's Response:
+{
+
+
+Rewrite and Extend and Reorganize the Response and keep the word/character count the same but remove all redundancies and make it more advanced academic and formal writing.
+
+Review and make changes in regards to the special topic given in the description.
+
+
+RESEARCH PAPER OUTLINE EXAMPLE:
+I. INTRODUCTION
+    a. Start with an attention-grabber (quote, statistics, story)
+    b. Provide some background information on your topic.
+    c. Write down your thesis statement (purpose of the research).
+II. BODY SECTIONS
+ 1. First section: the description of the issue
+    a. Start with a topic sentence that names a certain issue.
+    b. Provide additional details on this issue.
+    c. Add your own commentary on the issue.
+ 2. Second section: the history of the topic
+    a. Start with providing details on when this issue began to draw attention.
+    b. Provide more concrete information on major turning points for the issue.
+    c. Add your own commentary on the turning points.
+ 3. Third section: the significance of the change
+    a. Start with answering the question "why this issue needs to be addressed?"
+    b. Describe the outcomes id the issue won't be addressed.
+    c. Provide your own comentaries on the significance.
+ 4. Fourth section: the action plan for the change
+    a. Start with providing your ideas on what and how to change when it comes to the issue.
+    b. Describe in details your ideas for the changes.
+    c. Provide your own commentaties on the changes.
+II. CONCLUSION
+    a. Restate your thesis statement.
+    b. Summarize the main points of your research paper.
+    c. Describe the future of the issue with your changes.
+
+}
+
+Prompt: Rewrite and Enhance Yahriel's Response
+{
+Rewrite and Extend and Reorganize the Response and keep the word/character count the same but remove all redundancies and make it more advanced academic and formal writing.
+Review and make changes in regards to the special topic given in the description.
+
+
+}
+--------------------
+++++
+
+
+1. "Help me strike the right balance between providing enough detail to engage readers and avoiding unnecessary jargon in my introduction."
+2. "Assist me in constructing an engaging opening hook that captures reader's attention and introduces my research."
+3. Guide me in formulating clear aims and objectives for my study by suggesting a list of verbs I can choose from."
+4. My literature review feels scrappy and fragmented. Can you give me some specific words and phrases I can use to connect the sections together and integrate the material, so it flows better? They should be fill in the gap sentence starters. Please give me 10.
+
+
+STEPS TO WRITE A RESEARCH PAPER:
+1. Title: The title of your proposal should be concise and clear to clearly indicate your research question.
+2. Abstract: Include your research question, hypothesis, methodology and findings in the abstract of your proposal.
+3. Introduction: Introduction should include the purpose of research, background information significance of your study.
+4. Literature Review: Conduct a detailed review to understand the topic and create a clear research question.
+5. Research Methodology: Explain the method you will go for to deal with your research question in this section of your proposal.
+6. Discussion: Describe the potential impact and mertis of your research to enchance the significance.
+7. Citation: Give references to the authors and the literature you have studies for your research.
+
+
+RESEARCH PAPER WRITING PROCESS KEY SECTIONS:
+1. Abstract: The abstract (150-250 words) summarizes your research paper, including the problem, method, findings, and conclusions in plain language.
+2. Introduction: This section establishes context, significance, and objectives. Start with an engaging opening, provide background, state your thesis, and discuss broader implications.
+3. Body: Present research, arguments, and evidence systematically. Align with your thesis, use topic sentences, support with data, and maintain a formal tone.
+4. Summarize key points and broader findings" significance. Avoid new information; emphasize implications.
+
+For improving overall quality of your text:
+- Provide a critique of this text from the point of view of someone who doesn't believe the argument made here about [insert your argument]?
+- Can you peer-review this text for me in a way that specifically looks out for problems with logical argumentation?
+- Propose a better structure for rewriting what I have already written so that the reader can better follow the flow of my arguments?
+
+Paragraph-specific prompts for structure & flow:
+- Rewrite this paragraph to enhance its argumentative tone and structure in a way that it leads to highlighting the [insert key message/argument you are trying to get across]?
+- I want to reduce the awkwardness of this paragraph. Can you rewrite it in a way that enhances its fluidity without changing the original message? Keep the references. (ESL specific)
+- I’m struggling with the transition between these two paragraphs, where I move from discussing [insert aim of paragraph 1] to [insert aim of paragraph 2]. Suggest a smoother transition that enhances the flow?
+
+For assisting you with individual sentences/phrases:
+- Can you simplify this sentence without oversimplifying the technical details?
+- All my sentences seem to start the same way in this text. Help me rephrase this one to start differently?
+- I’m struggling to integrate this quotation [insert quote and author/year] naturally in this broader paragraph. Can you do a seamless integration of this quote into this specific sentence?
+- Can you adjust the tone of this sentence to sound more [insert tone]? (Tones commonly used in academic texts: analytical, argumentative, persuasive, questioning, authoritative, explanatory, reflective, speculative, assertive)
+--------------------
+++++
+BUILD UPON THE OUTLINE AND ASSEMBLE EACH SECTION AS FULLY WRITTEN ARGUMENTS AND CONVERSATIONS. NOW GO BACK THROUGH AND BUILD UPON YOUR WRITING BY ADDING IN-TEXT CITATIONS AND REFERENCES AND SUPPLEMENTING THE ARGUMENTS OF EACH SECTION.
+
+
+
 Section I: Introduction
 
 The integration of phase-change materials (PCMs) into piezoresistive Micro-Electro-Mechanical Systems (MEMS) sensors represents a significant advancement in sensor technology. MEMS sensors, widely used in various fields, including healthcare, aerospace, and structural monitoring, rely on precise measurements of mechanical stimuli for their operation [1]. However, conventional MEMS sensors face limitations in terms of sensitivity, power consumption, and tunable mechanical properties [2]. This is where the incorporation of phase-change materials offers a promising solution. PCMs are substances that exhibit reversible transitions between solid and liquid phases in response to external stimuli such as temperature, pressure, or electric fields [3]. These materials possess unique properties that can be harnessed to enhance the performance and functionality of MEMS sensors, making them more sensitive, energy-efficient, and adaptable to different environments.
