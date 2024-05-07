@@ -1,14 +1,7 @@
+NOW GO BACK THROUGH THE ABSTRACT AND OUTLINE AND ADD IN-TEXT CITATIONS AND REFERENCES TO THE OUTLINE AND ABSTRACT.
 ++++
-GIVE ME ONLY THE TITLE, THE THESIS STATEMENT, THE 250 WORD ABSTRACT, AND DETAILED OUTLINE, ALL WITH RELEVANT IN-TEXT CITATIONS AND REFERENCES INCLUDED.
+GIVE ME ONLY THE TITLE, THE THESIS STATEMENT, THE 250 WORD ABSTRACT, AND DETAILED OUTLINE, ALL WITH RELEVANT IN-TEXT CITATIONS AND REFERENCES INCLUDED. NOW GO BACK THROUGH THE ABSTRACT AND OUTLINE AND ADD IN-TEXT CITATIONS AND REFERENCES TO THE OUTLINE AND ABSTRACT.
 ----
-
- I am starting to revisit our work and pick up where we left on Piezoresistive MEMS and the sensor devices we were developing, as well as building upon Previous work.
-
-I think the idea was to translate some theory from piezo-electric energy harvesters to paper-based piezo-resistive MEMS devices that are multi-functional, kirigami-inspired, and utilize novel phase change materials. This may have broader scientific interest a fit into the scope of this special issue of Phase Change Materials.
-
-
-
-As I saw this Special Topic, I believe our works are deeply aligned with: 
 
 SPECIAL TOPIC: Phase-change Materials and Their Applications
 CONTRIBUTE TO THIS SPECIAL TOPIC
@@ -161,6 +154,22 @@ Works Cited: Ensure that your works cited section is comprehensive and includes 
 
 Overall, focus on making your proposal clear, compelling, and impactful, highlighting the importance of your research in advancing our understanding of schizophrenia and psychosis.
 }
+
+
+Feedback and Corrections:
+
+- Ensure that each section provides sufficient detail to engage the audience while maintaining clarity and coherence.
+- Strengthen the connection between theoretical frameworks and practical applications to emphasize the significance of the research.
+- Incorporate additional references or examples to support key points and enhance the overall rigor of the manuscript.
+
+
+Aims and Objectives:
+
+To investigate the feasibility of integrating phase-change materials into piezoresistive MEMS sensors for enhanced performance and functionality.
+To develop theoretical frameworks and experimental methodologies for characterizing the behavior of phase-change material-based MEMS sensors.
+To explore potential applications of phase-change material-enhanced MEMS sensors in fields such as healthcare, aerospace, and structural monitoring.
+To contribute to the fundamental understanding of solid-to-solid phase transitions and their implications for sensor design and fabrication.
+
 
 
 SAMPLES: 
@@ -357,4 +366,5 @@ For assisting you with individual sentences/phrases:
 - Can you adjust the tone of this sentence to sound more [insert tone]? (Tones commonly used in academic texts: analytical, argumentative, persuasive, questioning, authoritative, explanatory, reflective, speculative, assertive)
 --------------------
 ++++
-GIVE ME ONLY THE TITLE, THE THESIS STATEMENT, THE 250 WORD ABSTRACT, AND DETAILED OUTLINE, ALL WITH RELEVANT IN-TEXT CITATIONS AND REFERENCES INCLUDED.
+GIVE ME ONLY THE TITLE, THE THESIS STATEMENT, THE 250 WORD ABSTRACT, AND DETAILED OUTLINE, ALL WITH RELEVANT IN-TEXT CITATIONS AND REFERENCES INCLUDED. NOW GO BACK THROUGH THE ABSTRACT AND OUTLINE AND ADD IN-TEXT CITATIONS AND REFERENCES TO THE OUTLINE AND ABSTRACT.
+NOW GO BACK THROUGH THE ABSTRACT AND OUTLINE AND ADD IN-TEXT CITATIONS AND REFERENCES TO THE OUTLINE AND ABSTRACT.
