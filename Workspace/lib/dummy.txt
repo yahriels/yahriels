@@ -1,5 +1,60 @@
-List of In-text Citations:
+Title: Phase-change Materials in MEMS Sensors: Expanding Functionalities
 
+Thesis Statement: Through a strategic integration of phase-change materials (PCMs) in piezoresistive Micro-Electro-Mechanical Systems (MEMS) sensors, this research aims to enhance sensor performance and multifunctionality, leveraging the unique properties of PCMs to address pressing challenges in various fields, including healthcare, aerospace, and structural monitoring.
+
+Abstract:
+In an era marked by technological advancements, the strategic integration of phase-change materials (PCMs) into Micro-Electro-Mechanical Systems (MEMS) sensors represents a promising avenue for enhancing sensor performance and multifunctionality. Against this backdrop, this research explores the feasibility and potential applications of PCM-enhanced MEMS sensors, aiming to address pressing challenges in diverse fields such as healthcare, aerospace, and structural monitoring. The methodology involved theoretical frameworks and experimental methodologies for characterizing the behavior of PCM-based MEMS sensors. Findings revealed the significant potential of PCM integration in enhancing sensor sensitivity, response time, and energy efficiency. The research underscores the importance of understanding solid-to-solid phase transitions and their implications for sensor design and fabrication. The implications of this study include the development of advanced MEMS sensor platforms with improved performance and functionality, enabling innovations in areas such as remote health monitoring, environmental sensing, and aerospace technology. In conclusion, this research contributes to the advancement of sensor technology, paving the way for transformative applications in various industries.
+
+Outline: 
+{
+I. Introduction
+a. Background on MEMS sensors and their significance in modern technology.
+b. Introduction to phase-change materials (PCMs) and their unique properties.
+c. Thesis statement: Integration of PCMs in piezoresistive MEMS sensors for enhanced performance and multifunctionality.
+
+II. Literature Review
+Overview of MEMS sensor technology and recent advancements.
+[2] MEMS Project Draft Feb 2022 [2]
+[3][4] Paper-based piezoresistive MEMS force sensors [3], LabonChip [4]
+Introduction to phase-change materials and their applications in various fields.
+(1C) Review of Printable Flexible and Stretchable Tactile Sensors [1C]
+(2C) Recent Advances in Paper-based Sensors [2C]
+Previous research on PCM integration in MEMS sensors and its outcomes.
+(6A) Printing of Conformal Solid Metal Traces on NonAdhering [6A]
+(7A) Heat Free Biomimetic Metal Molding on Soft Substrates [7A]
+
+III. Theoretical Framework and Methodology
+Theoretical background on solid-to-solid phase transitions and their relevance to sensor design.
+(3B) Cantilever Paper AnalyticalSolutionTwoLayerBeam [3B]
+(4B) Cantilever Paper Effects of Shear [4B]
+Methodological approach for characterizing PCM behavior in MEMS sensors.
+(5B) Cantilever Paper LumpedBendingElectrostrictive [5B]
+(6B) Composites-AnalyticalMonteCarloPZRModel [6B]
+
+IV. Experimental Findings
+Sensitivity enhancement through PCM integration: experimental results and analysis.
+(1A) Stabilization of Undercooled Metals via Passivating Oxide Layers [1A]
+(2A) Liquid Metal Surface Oxides [2A]
+Response time improvement with PCM-based MEMS sensors: experimental validation.
+(3A) Stiffness Tuning [3A]
+(4A) Functional Materials Through Surfaces and Interfaces [4A]
+
+V. Applications and Future Directions
+Potential applications of PCM-enhanced MEMS sensors in healthcare.
+(4C) A paper-based nanogenerator as a power source and active sensor [4C]
+(5C) Adv Materials Technologies - 2024 - Nishimura - Regulation of Cell Adhesion on Physically Crosslinked Hydrogels Composed of [5C]
+Integration of PCM sensors in aerospace technology and structural monitoring systems.
+(8A) Microfluidic Channels [8A]
+(6C) Three-Dimensional Architected Materials and Structures: Design, Fabrication, and Mechanical Behavior [6C]
+
+VI. Conclusion
+a. Recap of the significance of PCM integration in MEMS sensors.
+b. Summary of key findings and contributions to sensor technology.
+c. Discussion on future research directions and potential impact on various industries.
+}
+---
+
+List of In-text Citations:
 
 Previous Research Work and Background (Y.Salinas-Reyes)
 [1] "EB_JUN_DRAFT_2022" in the publication journal indicated by the URL.
@@ -66,247 +121,3 @@ Advances and Applications of Phase Change Materials
 - (6C) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(6C)three-dimensional-architected-materials-and-structures-design-fabrication-and-mechanical-behavior.pdf
 
 ---
-Title: Translating Theory: Piezoelectric to Piezoresistive MEMS Sensors Using Phase-Change Materials
-
-Thesis Statement: This paper aims to investigate the translation of theory from piezoelectric energy harvesters to paper-based piezoresistive MEMS devices that are multi-functional, kirigami-inspired, and employ novel phase change materials. Through this exploration, we seek to address the broader scientific interest in the integration of phase-change materials into sensors and actuators, exploiting their multifunctionality and paving the way for fundamental studies that deepen our understanding of these materials.
-
-Abstract:
-In an era marked by the rapid advancement of smart materials and their applications, this study delves into the development of multi-functional paper-based piezoresistive MEMS devices. Grounded in the translation of theory from piezoelectric energy harvesters, our research seeks to exploit the potential of novel phase change materials within the realm of MEMS devices. Employing a kirigami-inspired design, these devices aim to exhibit multifunctionality, catering to various sensing and actuating needs. Our methodology involves a comprehensive investigation into the integration of phase-change materials, coupled with theoretical modeling and simulation of solid-to-solid phase transitions. Through experimentation and analysis, we reveal the underlying physics governing the behavior of these devices, shedding light on their potential applications in sensors and actuators. The findings underscore the importance of phase-change materials in advancing MEMS technology, offering insights into their multifunctional capabilities and paving the way for future developments in this field.
-
-Detailed Outline:
-
-I. Introduction
-   a. Background on MEMS devices and their applications
-   b. Significance of phase-change materials in MEMS technology
-   c. Research objectives and scope of the study
-
-II. Literature Review
-   1. Overview of piezoelectric energy harvesters and their limitations
-   2. Introduction to paper-based piezoresistive MEMS devices
-   3. Exploration of phase-change materials and their applications in sensors and actuators
-   4. Previous studies on kirigami-inspired designs in MEMS technology
-
-III. Theoretical Framework
-   a. Theory and modeling of solid-to-solid phase transitions
-   b. Principles underlying the behavior of piezoresistive materials
-   c. Integration of phase-change materials in MEMS devices: challenges and opportunities
-
-IV. Methodology
-   1. Design and fabrication of paper-based piezoresistive MEMS devices
-   2. Experimental setup for characterization and testing
-   3. Simulation techniques for studying phase transitions and device behavior
-
-V. Results and Discussion
-   a. Characterization of device performance under various conditions
-   b. Analysis of phase-change effects on device functionality
-   c. Comparison with theoretical predictions and simulation results
-
-VI. Implications and Future Directions
-   a. Practical applications of multi-functional MEMS devices
-   b. Potential for further research and development in the field
-   c. Broader impacts on MEMS technology and related disciplines
-
-
-
-Thesis Statement: This paper proposes the development of multi-functional kirigami-inspired paper-based piezoresistive MEMS devices, leveraging phase change materials, to address the need for versatile sensors and actuators with enhanced efficiency and functionality.
-
-Abstract:
-In an era marked by rapid technological advancements, this research explores the integration of phase-change materials into paper-based piezoresistive MEMS devices, inspired by the art of kirigami. Against this backdrop, this study seeks to address the pressing need for sensors and actuators that are not only multi-functional but also efficient and adaptable. The methodology involved theoretical modeling, simulation, and experimental validation, with findings revealing the potential of utilizing phase-change materials to enhance the performance and functionality of MEMS devices. The research underscores the importance of exploring novel materials and design concepts to meet the evolving demands of various applications, ranging from biomedical to environmental sensing. The implications of this study include the development of innovative sensor platforms with improved sensitivity, selectivity, and energy efficiency. In conclusion, this research contributes to advancing the field of MEMS technology by exploring new avenues for integrating phase-change materials into paper-based devices, paving the way for future developments in multifunctional sensing and actuation systems.
-
-Detailed Outline:
-
-I. Introduction
-    a. Background and Motivation
-        - Overview of MEMS devices and their applications
-        - Importance of multi-functional sensors and actuators
-        - Potential of phase-change materials in enhancing device performance
-    b. Research Objective
-        - Proposal to develop paper-based piezoresistive MEMS devices
-        - Utilization of kirigami-inspired designs for versatility
-        - Integration of phase-change materials for enhanced functionality
-    c. Scope and Significance
-        - Potential applications in various fields
-        - Contribution to advancing MEMS technology
-
-II. Literature Review
-    1. Theory and Principles of Piezoresistive MEMS Devices
-        - Overview of piezoresistive effect and its applications
-        - Previous research on paper-based MEMS sensors
-    2. Kirigami-Inspired Design Concepts
-        - Introduction to kirigami and its relevance to MEMS
-        - Examples of kirigami-based sensor designs
-    3. Phase Change Materials in MEMS
-        - Properties and characteristics of phase-change materials
-        - Applications of phase-change materials in MEMS devices
-    4. Integration of Multiple Functionalities
-        - Challenges and opportunities in developing multifunctional MEMS devices
-        - Strategies for integrating phase-change materials into sensor platforms
-
-III. Methodology
-    a. Theoretical Modeling and Simulation
-        - Mathematical models for piezoresistive behavior and phase change phenomena
-        - Finite element analysis and computational simulations
-    b. Fabrication and Experimental Validation
-        - Fabrication techniques for paper-based MEMS devices
-        - Experimental setup for characterizing device performance
-        - Measurement of electrical and mechanical properties
-
-IV. Results and Discussion
-    a. Performance Evaluation of Prototype Devices
-        - Analysis of sensitivity, response time, and stability
-        - Comparison with conventional MEMS sensors
-    b. Effect of Phase Change Materials
-        - Influence of phase transitions on device behavior
-        - Optimization of material parameters for enhanced performance
-    c. Potential Applications and Future Directions
-        - Biomedical sensing, environmental monitoring, and beyond
-        - Opportunities for further research and development
-
-V. Conclusion
-    a. Summary of Key Findings
-        - Achievements in developing multi-functional MEMS devices
-        - Contributions to advancing sensor technology
-    b. Implications and Outlook
-        - Potential impact on various industries and applications
-        - Future directions for research and innovation
-
-
-Title: Multi-Functional Kirigami-Inspired Paper-Based Piezoresistive MEMS Devices Utilizing Phase Change Materials
-
-Thesis Statement: This research aims to develop multi-functional kirigami-inspired paper-based piezoresistive MEMS devices incorporating novel phase change materials, translating theory from piezoelectric energy harvesters to paper-based piezoresistive MEMS devices for broader scientific interest and potential integration into sensors and actuators exploiting their multifunctionality.
-
-Abstract:
-In an era driven by the quest for multifunctional, energy-efficient sensor devices, this study explores the development of kirigami-inspired paper-based piezoresistive MEMS devices incorporating phase change materials. The research problem centers on the translation of theory from piezoelectric energy harvesters to paper-based piezoresistive MEMS devices, aiming for broader scientific interest and integration into sensors and actuators exploiting their multifunctionality. Methodologically, the research involves theoretical modeling, simulation, and experimentation, utilizing Dr. Thuo's past work on phase change materials. Findings reveal promising insights into the feasibility and performance of the proposed devices, underscoring their potential significance in advancing sensor technology. The implications of this study extend beyond academia, potentially impacting various industries reliant on sensor devices for diverse applications. In conclusion, this research contributes to the development of innovative sensor technologies, bridging theory with practical applications, and paving the way for future advancements in the field.
-
-Detailed Outline:
-I. Introduction
-   a. Context and motivation for multi-functional sensor devices
-   b. Background on piezoresistive MEMS devices and phase change materials
-   c. Thesis statement and research objectives
-   
-II. Literature Review
-   1. Theory and modeling of piezoelectric energy harvesters
-       a. Principles of piezoelectricity and energy harvesting
-       b. Previous research on piezoelectric MEMS devices
-   2. Phase change materials in sensor technology
-       a. Properties and applications of phase change materials
-       b. Integration of phase change materials in MEMS devices
-   3. Kirigami-inspired designs in sensor devices
-       a. Overview of kirigami techniques and their benefits
-       b. Previous studies on kirigami-based sensor devices
-
-III. Methodology
-   1. Design and fabrication of paper-based piezoresistive MEMS devices
-       a. Selection of phase change materials and substrates
-       b. Kirigami-inspired design considerations
-   2. Theoretical modeling and simulation
-       a. Finite element analysis of device performance
-       b. Optimization of device parameters
-   3. Experimental characterization
-       a. Fabrication process and experimental setup
-       b. Measurement of device performance under various conditions
-
-IV. Results and Discussion
-   1. Theoretical predictions of device behavior
-       a. Analysis of simulation results
-       b. Comparison with theoretical models
-   2. Experimental validation
-       a. Measurement of electrical and mechanical properties
-       b. Correlation with simulation predictions
-   3. Discussion of findings
-       a. Implications for sensor technology
-       b. Limitations and future directions
-
-V. Conclusion
-   a. Summary of key findings
-   b. Contributions to the field
-   c. Future prospects and recommendations for further research
-Aims and Objectives:
-
-To investigate the feasibility of integrating phase-change materials into piezoresistive MEMS sensors for enhanced performance and functionality.
-To develop theoretical frameworks and experimental methodologies for characterizing the behavior of phase-change material-based MEMS sensors.
-To explore potential applications of phase-change material-enhanced MEMS sensors in fields such as healthcare, aerospace, and structural monitoring.
-To contribute to the fundamental understanding of solid-to-solid phase transitions and their implications for sensor design and fabrication.
-
-
-
-**Title: Exploring the Integration of Phase-Change Materials in Piezoresistive MEMS for Advanced Sensor Applications**
-
-**Abstract:**
-This manuscript proposes an innovative approach to integrating phase-change materials (PCMs) into piezoresistive microelectromechanical systems (MEMS) for advanced sensor applications. Building upon previous work in piezoresistive MEMS and the translation of theory from piezoelectric to piezoresistive energy harvesters, our research addresses a significant gap in understanding the physics of PCMs' solid-to-solid phase transitions and their strategic integration into devices/systems. Leveraging Dr. Thuo's experimentation on PCM applications, particularly in stabilizing undercooled metals via passivating oxide layers and tuning stiffness, we formulate a comprehensive materials and methods section. Our literature review delves into recent advances in PCM integration into sensors, actuators, and smart textiles, aligning with the special topic's focus on the multifunctionality of PCMs. Theoretical frameworks, including analytical solutions for two-layer beam structures and Monte Carlo models for composites, underpin our discussion, emphasizing the fundamental studies needed to understand PCMs' behavior in MEMS devices. By elucidating the integration of PCMs into piezoresistive MEMS, this manuscript contributes to advancing knowledge in both materials science and sensor technology.
-
-**Introduction:**
-Piezoresistive MEMS have emerged as promising platforms for various sensor applications due to their small size, low cost, and compatibility with integrated circuitry. However, to unlock their full potential, it is essential to explore novel materials and methodologies that enhance their sensing capabilities. Phase-change materials (PCMs) offer unique properties, such as reversible solid-state phase transitions, making them attractive candidates for sensor integration. This paper aims to bridge the gap between PCM research and piezoresistive MEMS by investigating their synergistic integration and potential applications in advanced sensor systems.
-
-**Materials and Methods:**
-Our approach leverages previous research on PCM applications, particularly focusing on Dr. Thuo's work on stabilizing undercooled metals and tuning stiffness using passivating oxide layers. We adapt these methodologies to integrate PCMs into piezoresistive MEMS devices, ensuring compatibility with existing fabrication techniques and sensor architectures. Furthermore, we employ theoretical frameworks, such as analytical solutions for two-layer beam structures and Monte Carlo models for composites, to guide our experimental design and interpretation.
-
-**Literature Review:**
-Recent advances in PCM integration into sensors, actuators, and smart textiles provide valuable insights into the multifunctionality of these materials. By reviewing seminal works in the field, we identify key challenges and opportunities for integrating PCMs into piezoresistive MEMS. Furthermore, we explore theoretical studies elucidating the underlying physics of PCM phase transitions and their implications for sensor design and performance.
-
-**Discussion:**
-Our discussion focuses on the strategic integration of PCMs into piezoresistive MEMS, emphasizing the potential applications in advanced sensor systems. We highlight the importance of fundamental studies in understanding PCM behavior and its impact on sensor performance. Additionally, we discuss future research directions, including optimization of PCM properties for specific sensor applications and the development of novel sensing modalities enabled by PCM integration.
-
-**Conclusion:**
-In conclusion, this manuscript presents a novel approach to integrating phase-change materials into piezoresistive MEMS for advanced sensor applications. By leveraging theoretical frameworks and experimental methodologies, we demonstrate the feasibility and potential benefits of PCM integration. Our findings contribute to advancing knowledge in both materials science and sensor technology, paving the way for the development of next-generation sensor systems.
-
----
-
-This enhanced response provides a comprehensive overview of the proposed manuscript, ensuring clarity, coherence, and alignment with the call for papers on phase-change materials and their applications.
-
-Based on the provided materials, Yahriel Salinas-Reyes is preparing a manuscript for a special topic on Phase-change Materials and Their Applications. The manuscript aims to explore the translation of theory from piezoelectric energy harvesters to piezoresistive ones, aligning with the call for papers. Here's an enhanced and extended version of Yahriel's response:
-
-Abstract:
-
-Title: Translating Theory: From Piezoelectric to Piezoresistive Energy Harvesters Using Phase-change Materials
-
-In this manuscript, we investigate the translation of theory from piezoelectric energy harvesters to piezoresistive counterparts, leveraging the multifunctionality of phase-change materials. Building upon previous work, we delve into the integration of phase-change materials into sensors and actuators, exploring their theoretical frameworks and practical implementations. Through a comprehensive literature review and theoretical analysis, we elucidate the potential of phase-change materials in advancing sensor technologies. Our focus lies in bridging the gap between theoretical models and experimental demonstrations, aiming to contribute to the broader understanding and application of phase-change materials in energy harvesting and sensing applications.
-
-Keywords: phase-change materials, piezoresistive MEMS, energy harvesting, sensors, theoretical frameworks, integration
-
-Introduction:
-
-The integration of phase-change materials into sensors and actuators presents a promising avenue for advancing energy harvesting and sensing technologies. In this manuscript, we explore the translation of theory from piezoelectric energy harvesters to piezoresistive counterparts, with a focus on leveraging phase-change materials to enhance device performance. Our investigation builds upon previous research efforts, aiming to bridge the gap between theoretical models and practical implementations in the field of MEMS devices.
-
-Literature Review:
-
-Our literature review encompasses a wide range of studies related to the implementation and integration of phase-change materials in sensor devices. We draw upon past research on paper-based sensors, nanogenerators, and advanced materials technologies to inform our theoretical frameworks and methodological approaches. Additionally, we examine analytical solutions and Monte Carlo models to elucidate the underlying physics of piezoresistive MEMS devices, paving the way for novel insights and discoveries.
-
-Materials and Methods:
-
-The materials and methods section of our manuscript embodies the experimental and theoretical frameworks employed in our research. Leveraging Dr. Thuo's expertise in phase-change materials, we explore the stabilization of undercooled metals, liquid metal surface oxides, and stiffness tuning mechanisms to inform our device fabrication processes. Furthermore, we incorporate insights from recent advances in paper-based sensors and nanogenerators to develop innovative approaches for integrating phase-change materials into MEMS devices.
-
-Discussion:
-
-Our discussion revolves around the integration of phase-change materials into sensors and actuators, highlighting their multifunctionality and potential applications in energy-efficient buildings and smart textiles. We analyze the theoretical implications of our findings, addressing key challenges and opportunities in the field. By elucidating the fundamental principles underlying phase-change materials, we aim to contribute to the broader scientific understanding of these materials and their applications in MEMS devices.
-
-Conclusion:
-
-In conclusion, our manuscript offers a comprehensive exploration of the translation of theory from piezoelectric to piezoresistive energy harvesters using phase-change materials. Through a synthesis of theoretical frameworks, experimental demonstrations, and practical applications, we aim to advance the field of MEMS devices and contribute to the broader scientific community's understanding of phase-change materials and their multifunctional properties.
-
-Feedback and Corrections:
-
-- Ensure that each section provides sufficient detail to engage the audience while maintaining clarity and coherence.
-- Strengthen the connection between theoretical frameworks and practical applications to emphasize the significance of the research.
-- Incorporate additional references or examples to support key points and enhance the overall rigor of the manuscript.
-
-Overall, the response effectively addresses the call for papers on Phase-change Materials and Their Applications, providing a detailed overview of the research objectives, methods, and potential contributions to the field. 
-
-Certainly, let's enhance Yahriel's response to strike the right balance between providing enough detail to engage the audience and avoiding overwhelming them with excessive technical information. 
-
-Here's the revised response:
-
----
-
-We aim to contribute to the Special Topic on Phase-change Materials and Their Applications by elucidating the translation of theory from piezoelectric energy harvesters to piezoresistive counterparts. Our work intersects with multiple themes outlined in the call for papers, notably the integration of phase-change materials into sensors and actuators to exploit their multifunctionality. 
-
-Drawing from our previous endeavors and discussions, our manuscript will delve into the theoretical frameworks and experimental methodologies underpinning piezoresistive MEMS devices. Leveraging insights from Dr. Thuo's exploration of phase-change materials, particularly in the stabilization of undercooled metals and the fabrication of flexible wearable devices, we intend to construct a comprehensive materials and methods section. 
-
-Moreover, our literature review will extend beyond the boundaries of traditional piezoresistive research, encompassing recent advances in paper-based sensors, plastic deformation mechanisms, and nanogenerators. By synthesizing these diverse strands of literature, we aim to contextualize our research within the broader landscape of materials science and sensor technology.
-
-The core of our manuscript will elucidate the theoretical foundations of piezoresistive MEMS, drawing parallels with established principles in piezoelectricity. The analytical solutions and computational models developed in our work will offer insights into the solid-to-solid phase transitions inherent in phase-change materials, thus contributing to a deeper understanding of their behavior in sensor applications.
-
-In addressing the call for papers' emphasis on the integration of phase-change materials into devices and systems, our manuscript will underscore the practical implications of our research. We envision our findings not only advancing fundamental knowledge but also paving the way for the development of innovative sensor technologies with diverse applications in energy harvesting, biomedical sensing, and beyond.
-
----
-This revision maintains the depth of technical detail while ensuring clarity and coherence for the target audience.
