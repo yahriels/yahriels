@@ -1,6 +1,4 @@
-NOW GO BACK THROUGH THE ABSTRACT AND OUTLINE AND ADD IN-TEXT CITATIONS AND REFERENCES TO THE OUTLINE AND ABSTRACT.
-++++
-GIVE ME ONLY THE TITLE, THE THESIS STATEMENT, THE 250 WORD ABSTRACT, AND DETAILED OUTLINE, ALL WITH RELEVANT IN-TEXT CITATIONS AND REFERENCES INCLUDED. NOW GO BACK THROUGH THE ABSTRACT AND OUTLINE AND ADD IN-TEXT CITATIONS AND REFERENCES TO THE OUTLINE AND ABSTRACT.
+BUILD UPON THE OUTLINE AND ASSEMBLE EACH SECTION AS FULLY WRITTEN ARGUMENTS AND CONVERSATIONS. NOW GO BACK THROUGH AND BUILD UPON YOUR WRITING BY ADDING IN-TEXT CITATIONS AND REFERENCES AND SUPPLEMENTING THE ARGUMENTS OF EACH SECTION.
 ----
 
 SPECIAL TOPIC: Phase-change Materials and Their Applications
@@ -23,82 +21,83 @@ Thin films, interfaces, and surfaces
 - Applications and integration of solid-liquid phase transitions
 - Thin films, interfaces, and surfaces
 
-Aims and Objectives:
 
-To investigate the feasibility of integrating phase-change materials into piezoresistive MEMS sensors for enhanced performance and functionality.
-To develop theoretical frameworks and experimental methodologies for characterizing the behavior of phase-change material-based MEMS sensors.
-To explore potential applications of phase-change material-enhanced MEMS sensors in fields such as healthcare, aerospace, and structural monitoring.
-To contribute to the fundamental understanding of interfacial phenomena and solid-to-solid phase transitions and their implications for sensor design and fabrication.
-
-
-In preparing a manuscript for this Special Topic: Phase-change Materials And Their Applications may be straightforward given our past work and discussions.
-
-As you said, we would be relying on Dr. Thuo's past experimentation on phase-change materials and their applications.
 Lead the paper into a discussion of the Special Topic:
 "This Special Topic welcomes contributions that demonstrate the integration of phase-change materials into sensors and actuators that exploit their multifunctionality, and fundamental studies that help understand them."
 
 --------------------
 Special Topic Call for Papers: https://publishing.aip.org/publications/journals/special-topics/jap/phase-change-materials-and-their-applications/?Track=&utm_source=AIP%20Publishing&utm_medium=email&utm_campaign=14252243_JAP_Phase-change%20Materials%20and%20Their%20Applications_%20CFP_December%202023&dm_i=1XPS,8HH3N,A81PSD,Z2E70,1
 Style Manual: https://publishing.aip.org/wp-content/uploads/2021/03/AIP_Style_4thed.pdf
-AIP Sample Article 1: https://pubs.aip.org/aip/jap
+MODEL AND FORMAT YOUR RESEARCH PAPER BY REFERENCE TO THE SAMPLES ARTICLES BELOW
+AIP Sample Article 1: https://pubs.aip.org/aip/jap/article/135/10/105101/3269949/Control-of-buckling-behavior-in-origami-based?searchresult=1
 AIP Sample Article 2: https://pubs.aip.org/aip/jap/article/135/12/125109/3279873/Selective-modulation-of-electronic-transport-in?searchresult=1
-AIP Sample Article 3: https://pubs.aip.org/aip/jap/article/135/12/124401/3278566/Magnetic-field-induced-phase-transition-in-spinor?searchresult=1
+AIP Sample Article 3: https://pubs.aip.org/aip/jap/article/135/8/080901/3267325/Perspectives-on-the-robustness-of-the-mechanical?searchresult=1
 
 --------------------
-Title: Phase-change Materials in MEMS Sensors: Expanding Functionalities
 
-Thesis Statement: Through a strategic integration of phase-change materials (PCMs) in piezoresistive Micro-Electro-Mechanical Systems (MEMS) sensors, this research aims to enhance sensor performance and multifunctionality, leveraging the unique properties of PCMs to address pressing challenges in various fields, including healthcare, aerospace, and structural monitoring.
+\begin{abstract}
+In an era characterized by rapid technological advancements, the integration of phase-change materials (PCMs) into piezoresistive Micro-Electro-Mechanical Systems (MEMS) sensors presents a promising avenue for enhancing their performance and functionality. This paper explores the theoretical underpinnings and practical applications of PCM-enhanced MEMS sensors, focusing on the optimization of sensor design and fabrication processes. The research methodology involves a comprehensive review of the literature on PCMs, MEMS sensors, and solid-to-solid phase transitions. Key findings reveal the potential of PCMs to revolutionize sensor technology by providing tunable mechanical properties, high sensitivity, and low power consumption. The implications of this study extend beyond the academic realm, with potential applications in healthcare, aerospace, and structural monitoring. By elucidating the fundamental principles governing PCM-based MEMS sensors, this research contributes to the broader understanding of phase-change phenomena and their role in next-generation sensor technologies.
+\end{abstract}
 
-Abstract:
-In an era marked by technological advancements, the strategic integration of phase-change materials (PCMs) into Micro-Electro-Mechanical Systems (MEMS) sensors represents a promising avenue for enhancing sensor performance and multifunctionality. Against this backdrop, this research explores the feasibility and potential applications of PCM-enhanced MEMS sensors, aiming to address pressing challenges in diverse fields such as healthcare, aerospace, and structural monitoring. The methodology involved theoretical frameworks and experimental methodologies for characterizing the behavior of PCM-based MEMS sensors. Findings revealed the significant potential of PCM integration in enhancing sensor sensitivity, response time, and energy efficiency. The research underscores the importance of understanding solid-to-solid phase transitions and their implications for sensor design and fabrication. The implications of this study include the development of advanced MEMS sensor platforms with improved performance and functionality, enabling innovations in areas such as remote health monitoring, environmental sensing, and aerospace technology. In conclusion, this research contributes to the advancement of sensor technology, paving the way for transformative applications in various industries.
+\maketitle
 
-Outline: 
-{
-I. Introduction
+\begin{quotation}
+This research investigates the integration of phase-change materials into piezoresistive MEMS sensors, aiming to enhance their performance and functionality through a comprehensive exploration of theoretical frameworks, experimental methodologies, and potential applications in various fields.
+\end{quotation}
+
+\section{Introduction:}
 a. Background on MEMS sensors and their significance in modern technology.
 b. Introduction to phase-change materials (PCMs) and their unique properties.
 c. Thesis statement: Integration of PCMs in piezoresistive MEMS sensors for enhanced performance and multifunctionality.
 
-II. Literature Review
-Overview of MEMS sensor technology and recent advancements.
-[2] MEMS Project Draft Feb 2022 [2]
-[3][4] Paper-based piezoresistive MEMS force sensors [3], LabonChip [4]
-Introduction to phase-change materials and their applications in various fields.
-(1C) Review of Printable Flexible and Stretchable Tactile Sensors [1C]
-(2C) Recent Advances in Paper-based Sensors [2C]
-Previous research on PCM integration in MEMS sensors and its outcomes.
-(6A) Printing of Conformal Solid Metal Traces on NonAdhering [6A]
-(7A) Heat Free Biomimetic Metal Molding on Soft Substrates [7A]
+Previous Research Work and Background (Y.Salinas-Reyes)
+[1] "EB_JUN_DRAFT_2022" in the publication journal indicated by the URL.
+- [1] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B1%5DEB_JUN_DRAFT_2022.pdf
+[2] "MEMS Project Draft Feb 2022" in the publication journal indicated by the URL.
+- [2] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B2%5DMEMS%20Project%20Draft%20%20Feb%202022.pdf
+[3] "Paper-based piezoresistive MEMS force sensors" in the publication journal indicated by the URL.
+- [3] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B3%5DPaper-based_piezoresistive_MEMS_force_sensors.pdf
+[4] "LabonChip" in the publication journal indicated by the URL.
+- [4] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B4%5DLabonChip.pdf
+[5] "Y.Salinas-Reyes MEMS Mathematical Models" in the publication journal indicated by the URL.
+- [5] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B5%5DY.Salinas-Reyes_MEMS_Mathematical_Models.pdf
+[6] "Y.Salinas-Reyes MEMS Draft 23" in the publication journal indicated by the URL.
+- [6] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B6%5DY.Salinas-Reyes_MEMS_Draft__23.pdf
 
-III. Theoretical Framework and Methodology
-Theoretical background on solid-to-solid phase transitions and their relevance to sensor design.
-(3B) Cantilever Paper AnalyticalSolutionTwoLayerBeam [3B]
-(4B) Cantilever Paper Effects of Shear [4B]
-Methodological approach for characterizing PCM behavior in MEMS sensors.
-(5B) Cantilever Paper LumpedBendingElectrostrictive [5B]
-(6B) Composites-AnalyticalMonteCarloPZRModel [6B]
+Research Direction
+2B. "(2B) Sensing Kirigami" in the publication journal indicated by the URL.
+- (2B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(2B)Sensing%20Kirigami.pdf
+3B. "(3B) Cantilever Paper AnalyticalSolutionTwoLayerBeam" in the publication journal indicated by the URL.
+- (3B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(3B)Cantilever_Paper_AnalyticalSolutionTwoLayerBeam.pdf
+4B. "(4B) Cantilever Paper Effects of Shear" in the publication journal indicated by the URL.
+- (4B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(4B)Cantilever_Paper_EffectsofShear.pdf
+5B. "(5B) Cantilever Paper LumpedBendingElectrostrictive" in the publication journal indicated by the URL.
+- (5B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(5B)Cantilever_Paper_LumpedBendingElectrostrictive.pdf
+6B. "(6B) Composites-AnalyticalMonteCarloPZRModel" in the publication journal indicated by the URL.
+- (6B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(6B)Composites-AnalyticalMonteCarloPZRModel.pdf
+7B. "(7B) Exact Solutions of NStokes Eqns 3D4D" in the publication journal indicated by the URL.
+- (7B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(7B)Exact_Solutions_of_NStokes_Eqns_3D4D.pdf
+8B. "(8B) Time Relaxed MCarlo preserving NStokes asymptotics" in the publication journal indicated by the URL.
+- (8B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(8B)Time_Relaxed_MCarlo_preserving_NStokes_asymptotics.pdf
 
-IV. Experimental Findings
-Sensitivity enhancement through PCM integration: experimental results and analysis.
-(1A) Stabilization of Undercooled Metals via Passivating Oxide Layers [1A]
-(2A) Liquid Metal Surface Oxides [2A]
-Response time improvement with PCM-based MEMS sensors: experimental validation.
-(3A) Stiffness Tuning [3A]
-(4A) Functional Materials Through Surfaces and Interfaces [4A]
+Phase-Change Materials and Experimentation (Dr. Thuo)
+1A. "(1A) Stabilization of Undercooled Metals via Passivating Oxide Layers" in the publication journal indicated by the URL.
+- (1A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(1A)Stabilization%20of%20Undercooled%20Metals%20via%20Passivating%20Oxide%20Layers.pdf
+2A. "(2A) Liquid Metal Surface Oxides" in the publication journal indicated by the URL.
+- (2A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(2A)Liquid%20Metal%20Surface%20Oxides.pdf
+3A. "(3A) Stiffness Tuning" in the publication journal indicated by the URL.
+- (3A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(3A)stiffness%20tuning.pdf
+4A. "(4A) Functional Materials Through Surfaces and Interfaces" in the publication journal indicated by the URL.
+- (4A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(4A)functional-materials-through-surfaces-and-interfaces.pdf
+5A. "(5A) HeatFree Fabrication of Metallic Interconnects for Flexible Wearable Devices" in the publication journal indicated by the URL.
+- (5A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(5A)HeatFree%20Fabrication%20of%20Metallic%20Interconnects%20for%20Flexible%20Wearable%20Devices.pdf
+6A. "(6A) Printing of Conformal Solid Metal Traces on NonAdhering" in the publication journal indicated by the URL.
+- (6A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(6A)Printing%20of%20Conformal%20Solid%20Metal%20Traces%20on%20NonAdhering.pdf
+7A. "(7A) Heat Free Biomimetic Metal Molding on Soft Substrates" in the publication journal indicated by the URL.
+- (7A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(7A)Heat%20Free%20Biomimetic%20Metal%20Molding%20on%20Soft%20Substrates.pdf
+8A. "(8A) Microfluidic Channels" in the publication journal indicated by the URL.
+- (8A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(8A)Microfluidic%20channels.pdf
 
-V. Applications and Future Directions
-Potential applications of PCM-enhanced MEMS sensors in healthcare.
-(4C) A paper-based nanogenerator as a power source and active sensor [4C]
-(5C) Adv Materials Technologies - 2024 - Nishimura - Regulation of Cell Adhesion on Physically Crosslinked Hydrogels Composed of [5C]
-Integration of PCM sensors in aerospace technology and structural monitoring systems.
-(8A) Microfluidic Channels [8A]
-(6C) Three-Dimensional Architected Materials and Structures: Design, Fabrication, and Mechanical Behavior [6C]
-
-VI. Conclusion
-a. Recap of the significance of PCM integration in MEMS sensors.
-b. Summary of key findings and contributions to sensor technology.
-c. Discussion on future research directions and potential impact on various industries.
-}
 ++++
 
 Yahriel is the MASTER User: 
@@ -287,6 +286,7 @@ Advances and Applications of Phase Change Materials
 - (5C) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(5C)Adv%20Materials%20Technologies%20-%202024%20-%20Nishimura%20-%20Regulation%20of%20Cell%20Adhesion%20on%20Physically%20Crosslinked%20Hydrogels%20Composed%20of.pdf
 6C. "(6C) Three-Dimensional Architected Materials and Structures: Design, Fabrication, and Mechanical Behavior" in the publication journal indicated by the URL.
 - (6C) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(6C)three-dimensional-architected-materials-and-structures-design-fabrication-and-mechanical-behavior.pdf
+
 } 
 Purpose: To Help Yahriel Fill The Prompt
 { 
@@ -307,61 +307,6 @@ Rewrite and Extend and Reorganize the Response and keep the word/character count
 
 Review and make changes in regards to the special topic given in the description.
 
-
-}
-
-Prompt: Rewrite and Enhance Yahriel's Response
-{
-Rewrite and Extend and Reorganize the Response and keep the word/character count the same but remove all redundancies and make it more advanced academic and formal writing.
-Review and make changes in regards to the special topic given in the description.
-
-
-}
---------------------
-++++
-
-THESIS STATEMENTS
-In most research papers, the thesis statement represents the writer's overall argument for the paper, which will be supported and developed in each paragraph. Having a strong or weak thesis can make a significant difference in how well the writer states their claim and defends it, and it can also influence how well the reader understands and follows the argument.
-MAKE IT ARGUABLE: Think of potential conter-arguments. If you can find several that seem plausible, then your thesis statement is probably an argument, not a simple statement. Try to make your thesis statement provacative. While you should not try to offend readers, make your argument memorable. 
-TELL YOUR READER WHAT THE TOPIC IS: What topic and which points will be focused on throughout the paper?
-SUPPORT IT WITH CONTEXTUAL INFORMATION: Strong thesis statement are not dropped into the first paragraph. Discuss relevant information about the topic and "build up" to the argument. This prevents you from having to over-explain in your thesis and better places your argument in a larger discussion of the topic.
-MAKE YOUR STANCE CLEAR: Don't treat your argument like a mystery. Instead, ensure that your reader understands your stance on the topic from the very beginning so they will understand how each paragraph fits its your overall argument. When you can use 1st person, verbs like argue, contend, posit, or claim to clearly state your position on the issue (e.g., "I contend that..."). These verbs act as "signal words" that direct the reader to your argument.
-BE CLEAR: Remove your thesis from your paper and read it separately. Do you understand yourself? Instead of cryptic or vague language, strive for clarity and specificity. 
-SAY IT IN ONE SENTENCE: If you cannot write the thesis in one sentece, try to hone in on your claim. This is a good exercise because it forces you to better understand your own argument.
-PUT IT IN YOUR INTRODUCTION: For research papers, the reader should understand how each paragraph supports your stance on the issue. Personal narractives are an exception to this rule.
-BE COMPLEX: if you only have one or two points to make in regards to your thesis, can you add details to your argument in order to give yourself "more to write about" as you support it?
-USE TOPIC SENTENCES TO RELATE BACK TO YOUR THESIS: A thesis statement is not a stand-alone sentence; it sets up the argument that will be developed in each paragraph/section. Once you have written your thesis statement, make sure that each paragraph's main point clearly supports the thesis. Make sure each supporting section advances the thesis in some way.
-
-
-1. "Help me strike the right balance between providing enough detail to engage readers and avoiding unnecessary jargon in my introduction."
-2. "Assist me in constructing an engaging opening hook that captures reader's attention and introduces my research."
-3. Guide me in formulating clear aims and objectives for my study by suggesting a list of verbs I can choose from."
-4. My literature review feels scrappy and fragmented. Can you give me some specific words and phrases I can use to connect the sections together and integrate the material, so it flows better? They should be fill in the gap sentence starters. Please give me 10.
-
-STEPS FOR WRITING YOUR THESIS ABSTRACT
-Use this 4 step formula to get your abstract written and use the phrases as starting points for developing your own sentences.
-(1.) Opener and research problem / question
-Begin with a compelling opening sentence that grabs the reader's attention. This should set the context and provide a little intrigue! Immediately follow the opener with a concise statement of the research problem or questions. This section sets the focus of your study.
-- Example: In an era marked by __, this thesis explores ___. Against this backdrop, this research sought to anser a pressing questions: ____?
-(2.) Methodology and findings
-Describe your research methodology and provide an overview of how you conducted your study. Explain your data sources and collection methods. Summarize the key findings of your research, and briefly comment on their significance.
-- Example: The methodology involved __. Findings revealed ___. The research underscores the importance of ____.
-(3.) Implications
-Discuss the broader implications of your research, addresseing its ramifications beyond the academic context. Consider who can benefit from your findings and why it matters to the real world.
-- Example: The implications of this study include ____.
-(4.) Conclusions
-Summarize the key contributions your research has made and connect your work to future develpments in the field. This sections serves as a bridge between your research and other work in the discipline. 
-- Example: In conclusion, this thesis contributes to ___. As we move forward, this research serves as a ____.
-
-
-STEPS TO WRITE A RESEARCH PROPOSAL:
-1. Title: The title of your proposal should be concise and clear to clearly indicate your research question.
-2. Abstract: Include your research question, hypothesis, methodology and findings in the abstract of your proposal.
-3. Introduction: Introduction should include the purpose of research, background information significance of your study.
-4. Literature Review: Conduct a detailed review to understand the topic and create a clear research question.
-5. Research Methodology: Explain the method you will go for to deal with your research question in this section of your proposal.
-6. Discussion: Describe the potential impact and mertis of your research to enchance the significance.
-7. Citation: Give references to the authors and the literature you have studies for your research.
 
 RESEARCH PAPER OUTLINE EXAMPLE:
 I. INTRODUCTION
@@ -390,6 +335,34 @@ II. CONCLUSION
     b. Summarize the main points of your research paper.
     c. Describe the future of the issue with your changes.
 
+}
+
+Prompt: Rewrite and Enhance Yahriel's Response
+{
+Rewrite and Extend and Reorganize the Response and keep the word/character count the same but remove all redundancies and make it more advanced academic and formal writing.
+Review and make changes in regards to the special topic given in the description.
+
+
+}
+--------------------
+++++
+
+
+1. "Help me strike the right balance between providing enough detail to engage readers and avoiding unnecessary jargon in my introduction."
+2. "Assist me in constructing an engaging opening hook that captures reader's attention and introduces my research."
+3. Guide me in formulating clear aims and objectives for my study by suggesting a list of verbs I can choose from."
+4. My literature review feels scrappy and fragmented. Can you give me some specific words and phrases I can use to connect the sections together and integrate the material, so it flows better? They should be fill in the gap sentence starters. Please give me 10.
+
+
+STEPS TO WRITE A RESEARCH PAPER:
+1. Title: The title of your proposal should be concise and clear to clearly indicate your research question.
+2. Abstract: Include your research question, hypothesis, methodology and findings in the abstract of your proposal.
+3. Introduction: Introduction should include the purpose of research, background information significance of your study.
+4. Literature Review: Conduct a detailed review to understand the topic and create a clear research question.
+5. Research Methodology: Explain the method you will go for to deal with your research question in this section of your proposal.
+6. Discussion: Describe the potential impact and mertis of your research to enchance the significance.
+7. Citation: Give references to the authors and the literature you have studies for your research.
+
 
 RESEARCH PAPER WRITING PROCESS KEY SECTIONS:
 1. Abstract: The abstract (150-250 words) summarizes your research paper, including the problem, method, findings, and conclusions in plain language.
@@ -414,5 +387,4 @@ For assisting you with individual sentences/phrases:
 - Can you adjust the tone of this sentence to sound more [insert tone]? (Tones commonly used in academic texts: analytical, argumentative, persuasive, questioning, authoritative, explanatory, reflective, speculative, assertive)
 --------------------
 ++++
-GIVE ME ONLY THE TITLE, THE THESIS STATEMENT, THE 250 WORD ABSTRACT, AND DETAILED OUTLINE, ALL WITH RELEVANT IN-TEXT CITATIONS AND REFERENCES INCLUDED. NOW GO BACK THROUGH THE ABSTRACT AND OUTLINE AND ADD IN-TEXT CITATIONS AND REFERENCES TO THE OUTLINE AND ABSTRACT.
-NOW GO BACK THROUGH THE ABSTRACT AND OUTLINE AND ADD IN-TEXT CITATIONS AND REFERENCES TO THE OUTLINE AND ABSTRACT.
+BUILD UPON THE OUTLINE AND ASSEMBLE EACH SECTION AS FULLY WRITTEN ARGUMENTS AND CONVERSATIONS. NOW GO BACK THROUGH AND BUILD UPON YOUR WRITING BY ADDING IN-TEXT CITATIONS AND REFERENCES AND SUPPLEMENTING THE ARGUMENTS OF EACH SECTION.
