@@ -1,62 +1,12 @@
-\begin{abstract}
-In an era characterized by rapid technological advancements, the integration of phase-change materials (PCMs) into piezoresistive Micro-Electro-Mechanical Systems (MEMS) sensors presents a promising avenue for enhancing their performance and functionality. This paper explores the theoretical underpinnings and practical applications of PCM-enhanced MEMS sensors, focusing on the optimization of sensor design and fabrication processes. The research methodology involves a comprehensive review of the literature on PCMs, MEMS sensors, and solid-to-solid phase transitions. Key findings reveal the potential of PCMs to revolutionize sensor technology by providing tunable mechanical properties, high sensitivity, and low power consumption. The implications of this study extend beyond the academic realm, with potential applications in healthcare, aerospace, and structural monitoring. By elucidating the fundamental principles governing PCM-based MEMS sensors, this research contributes to the broader understanding of phase-change phenomena and their role in next-generation sensor technologies.
-\end{abstract}
+The integration of phase-change materials (PCMs) into piezoresistive Micro-Electro-Mechanical Systems (MEMS) sensors holds promise for significantly enhancing their performance and functionality. This paper delves into the theoretical foundations and practical applications of PCM-enhanced MEMS sensors, focusing particularly on optimizing sensor design and fabrication processes. For the duration of this study, the focus was in synthesizing biocomposites with cellulose-based paper with heat-free fabrication processes. By conducting a thorough review of the literature on PCMs, MEMS sensors, and solid-to-solid phase transitions, this research aims to shed light on the transformative potential of PCMs in sensor technology. The utilization of PCMs offers the prospect of tunable mechanical properties, heightened sensitivity, and reduced power consumption, thereby revolutionizing sensor applications across various domains such as healthcare, aerospace, and structural monitoring. Dr. Thuo's Stabilization of Undercooled Metals via Passivating Oxide Layers relies on frustration of liquid solid transition mainly by an increase in activation energy. This study not only contributes to academic knowledge but also holds implications for real-world technological advancements.
 
-\maketitle
+Metals and organics possess two very dissimilar surface energies, hence, do not naturally adhere to each other. This incompatibility is exacerbated by surface roughness yet advances in wearables and bioelectronics call for their integration. Mesoscale mechanical bonds, however, transcend the necessities of surface energy matching while taking advantage of surface texture. By exploiting the benefits of these undercooled core-shell particles in association with piezoresistive micro electromechanical systems (MEMS), the presented design creates an elegant high efficiency, frugal sensor technology. In comparison to intricate electronics designs, piezoresistive MEMS devices simply create connections between mechanical stimuli and resistivity via the piezoresistive effect. Note that the main argument of this paper lies in exploiting the differences between paper-based MEMS utilizing silver paste (Standard), and emphasizing the benefits of introducing this research group’s FM particles into a new MEMS Design.
 
-\begin{quotation}
-This research investigates the integration of phase-change materials into piezoresistive MEMS sensors, aiming to enhance their performance and functionality through a comprehensive exploration of theoretical frameworks, experimental methodologies, and potential applications in various fields.
-\end{quotation}
+In contemporary technology, the integration of phase-change materials (PCMs) into piezoresistive Micro-Electro-Mechanical Systems (MEMS) sensors holds promise for significantly enhancing their performance and functionality. This paper delves into the theoretical foundations and practical applications of PCM-enhanced MEMS sensors, focusing particularly on optimizing sensor design and fabrication processes. For the duration of this study, the focus was in synthesizing biocomposites with cellulose-based paper with heat-free fabrication processes. By conducting a thorough review of the literature on PCMs, MEMS sensors, and solid-to-solid phase transitions, this research aims to shed light on the transformative potential of PCMs in sensor technology. The utilization of PCMs offers the prospect of tunable mechanical properties, heightened sensitivity, and reduced power consumption, thereby revolutionizing sensor applications across various domains such as healthcare, aerospace, and structural monitoring. Dr. Thuo's Stabilization of Undercooled Metals via Passivating Oxide Layers relies on frustration of liquid solid transition mainly by an increase in activation energy. This study not only contributes to academic knowledge but also holds implications for real-world technological advancements.
 
-\section{Introduction:}
- Interest in synthetic composite materials has garnered signifi
-cant attention largely due to their high specific properties,
- tunable functionalities, and potential to incorporate advanced
- responsive behaviors.1 Recent advances have largely focused on
- stimuli-responsive composites, which exhibit tunable properties
- when subjected to a specified trigger. Such materials have
- been applied as sensors, actuators, and platforms for multi
-functional devices. Mechanically reconfigurable parts are
- especially critical in soft robotics and analogous functional
- devices, whereby adaptive components are essential for con
-trolled locomotion, actuation, stiffness tuning, and as deployable
- components. In particular, initially soft materials that can
- dramatically increase in rigidity and be programmed into desired
- shapes can be utilized in fields ranging from soft and bio
-inspired robotics to reconfigurable and wearable electronics.
- Several forms of activation have been applied in responsive
- composites, and common examples include temperature,21–24
- electromagnetic radiation,25 as well as electric and magnetic
- fields. Recent developments in smart responsive composites have utilized
- various stimuli including heat, light, solvents, electricity, and
- magnetic fields to induce a change in material properties. Here, we
- report a thermodynamically driven mechanically responsive compo
-site, exploiting irreversible phase-transformation (relaxation) of meta
-stable undercooledliquid metal core shell particle fillers. Thermal and
- mechanical analysis reveals that as the composite is deformed, the
- particles transform from individual liquid droplets to a solid metal
- network, resulting in a 300 percent increase in Young’s modulus. Incontrast
- to previous phase change materials, this dramatic change in stiffness
- occurs autonomously under deformation, is insensitive to environ
-mentalconditions,and doesnotrequire externalenergy sources such
- as heat, light, or electricity. We demonstrate the utility of this
- approach by transforming a flat, flexible biocomposite strip of cellulose paper, into a highly efficient and disposable piezoresistor that is highly sensitive, also referred to as Quantum Tunnelling Composites (QTC's).
- In contemporary technology, the integration of phase-change materials (PCMs) into piezoresistive Micro-Electro-Mechanical Systems (MEMS)sensors holds promise for significantly enhancing their performance and functionality. This paper delves into the theoretical foundations and practical applications of PCM-enhanced MEMS sensors, focusing particularly on optimizing sensor design and fabrication processes. For the duration of this study, the focus was in synthesizing biocomposites with cellulose-based paper with heat-free fabrication processes. By conducting a thorough review of the literature on PCMs, MEMS sensors, and solid-to-solid phase transitions, this research aims to shed light on the transformative potential of PCMs in sensor technology. The utilization of PCMs offers the prospect of tunable mechanical properties, heightened sensitivity, and reduced power consumption, thereby revolutionizing sensor applications across various domains such as healthcare, aerospace, and structural monitoring. Dr. Thuo's Stabilization of Undercooled Metals via Passivating Oxide Layers relies on frustration of liquid solid transition mainly by an increase in activation energy. This study not only contributes to academic knowledge but also holds implications for real-world technological advancements.
- Metals and organics possess two very dissimilar surface energies, hence, 
-do not naturally adhere to each other. This incompatibility is exacerbated by 
-surface roughness yet advances in wearables and bioelectronics call for their 
-integration. Mesoscale mechanical bonds, however, transcend the necessi
-ties of surface energy matching while taking advantage of surface texture. 
- By exploiting the benefits of these undercooled core-shell 
-particles in association with piezoresistive micro electromechanical systems (MEMS), the 
-presented design creates an elegant high efficiency, frugal sensor technology. In 
-comparison to intricate electronics designs, piezoresistive MEMS devices simply create 
-connections between mechanical stimuli and resistivity via the piezoresistive effect.1 Note 
-that the main argument of this paper lies in exploiting the differences between paper
-based MEMS utilizing silver paste (Standard), 
-and emphasizing the benefits of introducing 
-this research group’s FM particles into a new 
-MEMS Design. 
+Interest in synthetic composite materials has garnered significant attention largely due to their high specific properties, tunable functionalities, and potential to incorporate advanced responsive behaviors. Recent advances have largely focused on stimuli-responsive composites, which exhibit tunable properties when subjected to a specified trigger. Such materials have been applied as sensors, actuators, and platforms for multifunctional devices. Mechanically reconfigurable parts are especially critical in soft robotics and analogous functional devices, whereby adaptive components are essential for controlled locomotion, actuation, stiffness tuning, and as deployable components. In particular, initially soft materials that can dramatically increase in rigidity and be programmed into desired shapes can be utilized in fields ranging from soft and bio-inspired robotics to reconfigurable and wearable electronics. Several forms of activation have been applied in responsive composites, and common examples include temperature, electromagnetic radiation, as well as electric and magnetic fields. Recent developments in smart responsive composites have utilized various stimuli including heat, light, solvents, electricity, and magnetic fields to induce a change in material properties. Here, we report a thermodynamically driven mechanically responsive composite, exploiting irreversible phase-transformation (relaxation) of metastable undercooled liquid metal core-shell particle fillers. Thermal and mechanical analysis reveals that as the composite is deformed, the particles transform from individual liquid droplets to a solid metal network, resulting in a 300 percent increase in Young’s modulus. In contrast to previous phase change materials, this dramatic change in stiffness occurs autonomously under deformation, is insensitive to environmental conditions, and does not require external energy sources such as heat, light, or electricity. We demonstrate the utility of this approach by transforming a flat, flexible biocomposite strip of cellulose paper, into a highly efficient and disposable piezoresistor that is highly sensitive, also referred to as Quantum Tunnelling Composites (QTC's).
+
+The successful integration of phase-change materials into MEMS sensors is a testament to the interdisciplinary nature of modern research, bridging the gap between materials science, mechanical engineering, and electronics. By harnessing the unique properties of PCMs, such as their reversible solid-state transitions, researchers have unlocked new avenues for developing sensors with unprecedented sensitivity and functionality. This innovative approach holds promise for a wide range of applications, from healthcare monitoring to environmental sensing and beyond. As researchers continue to explore the potential of PCM-enhanced MEMS sensors, we can expect to see further advancements in sensor technology, paving the way for smarter, more efficient devices in the years to come.
 
 
 
@@ -108,54 +58,16 @@ This research investigates the integration of phase-change materials into piezor
 \end{quotation}
 
 \section{Introduction:}
- Interest in synthetic composite materials has garnered signifi
-cant attention largely due to their high specific properties,
- tunable functionalities, and potential to incorporate advanced
- responsive behaviors.1 Recent advances have largely focused on
- stimuli-responsive composites, which exhibit tunable properties
- when subjected to a specified trigger. Such materials have
- been applied as sensors, actuators, and platforms for multi
-functional devices. Mechanically reconfigurable parts are
- especially critical in soft robotics and analogous functional
- devices, whereby adaptive components are essential for con
-trolled locomotion, actuation, stiffness tuning, and as deployable
- components. In particular, initially soft materials that can
- dramatically increase in rigidity and be programmed into desired
- shapes can be utilized in fields ranging from soft and bio
-inspired robotics to reconfigurable and wearable electronics.
- Several forms of activation have been applied in responsive
- composites, and common examples include temperature,21–24
- electromagnetic radiation,25 as well as electric and magnetic
- fields. Recent developments in smart responsive composites have utilized
- various stimuli including heat, light, solvents, electricity, and
- magnetic fields to induce a change in material properties. Here, we
- report a thermodynamically driven mechanically responsive compo
-site, exploiting irreversible phase-transformation (relaxation) of meta
-stable undercooledliquid metal core shell particle fillers. Thermal and
- mechanical analysis reveals that as the composite is deformed, the
- particles transform from individual liquid droplets to a solid metal
- network, resulting in a 300 percent increase in Young’s modulus. Incontrast
- to previous phase change materials, this dramatic change in stiffness
- occurs autonomously under deformation, is insensitive to environ
-mentalconditions,and doesnotrequire externalenergy sources such
- as heat, light, or electricity. We demonstrate the utility of this
- approach by transforming a flat, flexible biocomposite strip of cellulose paper, into a highly efficient and disposable piezoresistor that is highly sensitive, also referred to as Quantum Tunnelling Composites (QTC's).
- In contemporary technology, the integration of phase-change materials (PCMs) into piezoresistive Micro-Electro-Mechanical Systems (MEMS)sensors holds promise for significantly enhancing their performance and functionality. This paper delves into the theoretical foundations and practical applications of PCM-enhanced MEMS sensors, focusing particularly on optimizing sensor design and fabrication processes. For the duration of this study, the focus was in synthesizing biocomposites with cellulose-based paper with heat-free fabrication processes. By conducting a thorough review of the literature on PCMs, MEMS sensors, and solid-to-solid phase transitions, this research aims to shed light on the transformative potential of PCMs in sensor technology. The utilization of PCMs offers the prospect of tunable mechanical properties, heightened sensitivity, and reduced power consumption, thereby revolutionizing sensor applications across various domains such as healthcare, aerospace, and structural monitoring. Dr. Thuo's Stabilization of Undercooled Metals via Passivating Oxide Layers relies on frustration of liquid solid transition mainly by an increase in activation energy. This study not only contributes to academic knowledge but also holds implications for real-world technological advancements.
- Metals and organics possess two very dissimilar surface energies, hence, 
-do not naturally adhere to each other. This incompatibility is exacerbated by 
-surface roughness yet advances in wearables and bioelectronics call for their 
-integration. Mesoscale mechanical bonds, however, transcend the necessi
-ties of surface energy matching while taking advantage of surface texture. 
- By exploiting the benefits of these undercooled core-shell 
-particles in association with piezoresistive micro electromechanical systems (MEMS), the 
-presented design creates an elegant high efficiency, frugal sensor technology. In 
-comparison to intricate electronics designs, piezoresistive MEMS devices simply create 
-connections between mechanical stimuli and resistivity via the piezoresistive effect.1 Note 
-that the main argument of this paper lies in exploiting the differences between paper
-based MEMS utilizing silver paste (Standard), 
-and emphasizing the benefits of introducing 
-this research group’s FM particles into a new 
-MEMS Design. 
+The integration of phase-change materials (PCMs) into piezoresistive Micro-Electro-Mechanical Systems (MEMS) sensors holds promise for significantly enhancing their performance and functionality. This paper delves into the theoretical foundations and practical applications of PCM-enhanced MEMS sensors, focusing particularly on optimizing sensor design and fabrication processes. For the duration of this study, the focus was in synthesizing biocomposites with cellulose-based paper with heat-free fabrication processes. By conducting a thorough review of the literature on PCMs, MEMS sensors, and solid-to-solid phase transitions, this research aims to shed light on the transformative potential of PCMs in sensor technology. The utilization of PCMs offers the prospect of tunable mechanical properties, heightened sensitivity, and reduced power consumption, thereby revolutionizing sensor applications across various domains such as healthcare, aerospace, and structural monitoring. Dr. Thuo's Stabilization of Undercooled Metals via Passivating Oxide Layers relies on frustration of liquid solid transition mainly by an increase in activation energy. This study not only contributes to academic knowledge but also holds implications for real-world technological advancements.
+
+Metals and organics possess two very dissimilar surface energies, hence, do not naturally adhere to each other. This incompatibility is exacerbated by surface roughness yet advances in wearables and bioelectronics call for their integration. Mesoscale mechanical bonds, however, transcend the necessities of surface energy matching while taking advantage of surface texture. By exploiting the benefits of these undercooled core-shell particles in association with piezoresistive micro electromechanical systems (MEMS), the presented design creates an elegant high efficiency, frugal sensor technology. In comparison to intricate electronics designs, piezoresistive MEMS devices simply create connections between mechanical stimuli and resistivity via the piezoresistive effect. Note that the main argument of this paper lies in exploiting the differences between paper-based MEMS utilizing silver paste (Standard), and emphasizing the benefits of introducing this research group’s FM particles into a new MEMS Design.
+
+In contemporary technology, the integration of phase-change materials (PCMs) into piezoresistive Micro-Electro-Mechanical Systems (MEMS) sensors holds promise for significantly enhancing their performance and functionality. This paper delves into the theoretical foundations and practical applications of PCM-enhanced MEMS sensors, focusing particularly on optimizing sensor design and fabrication processes. For the duration of this study, the focus was in synthesizing biocomposites with cellulose-based paper with heat-free fabrication processes. By conducting a thorough review of the literature on PCMs, MEMS sensors, and solid-to-solid phase transitions, this research aims to shed light on the transformative potential of PCMs in sensor technology. The utilization of PCMs offers the prospect of tunable mechanical properties, heightened sensitivity, and reduced power consumption, thereby revolutionizing sensor applications across various domains such as healthcare, aerospace, and structural monitoring. Dr. Thuo's Stabilization of Undercooled Metals via Passivating Oxide Layers relies on frustration of liquid solid transition mainly by an increase in activation energy. This study not only contributes to academic knowledge but also holds implications for real-world technological advancements.
+
+Interest in synthetic composite materials has garnered significant attention largely due to their high specific properties, tunable functionalities, and potential to incorporate advanced responsive behaviors. Recent advances have largely focused on stimuli-responsive composites, which exhibit tunable properties when subjected to a specified trigger. Such materials have been applied as sensors, actuators, and platforms for multifunctional devices. Mechanically reconfigurable parts are especially critical in soft robotics and analogous functional devices, whereby adaptive components are essential for controlled locomotion, actuation, stiffness tuning, and as deployable components. In particular, initially soft materials that can dramatically increase in rigidity and be programmed into desired shapes can be utilized in fields ranging from soft and bio-inspired robotics to reconfigurable and wearable electronics. Several forms of activation have been applied in responsive composites, and common examples include temperature, electromagnetic radiation, as well as electric and magnetic fields. Recent developments in smart responsive composites have utilized various stimuli including heat, light, solvents, electricity, and magnetic fields to induce a change in material properties. Here, we report a thermodynamically driven mechanically responsive composite, exploiting irreversible phase-transformation (relaxation) of metastable undercooled liquid metal core-shell particle fillers. Thermal and mechanical analysis reveals that as the composite is deformed, the particles transform from individual liquid droplets to a solid metal network, resulting in a 300 percent increase in Young’s modulus. In contrast to previous phase change materials, this dramatic change in stiffness occurs autonomously under deformation, is insensitive to environmental conditions, and does not require external energy sources such as heat, light, or electricity. We demonstrate the utility of this approach by transforming a flat, flexible biocomposite strip of cellulose paper, into a highly efficient and disposable piezoresistor that is highly sensitive, also referred to as Quantum Tunnelling Composites (QTC's).
+
+The successful integration of phase-change materials into MEMS sensors is a testament to the interdisciplinary nature of modern research, bridging the gap between materials science, mechanical engineering, and electronics. By harnessing the unique properties of PCMs, such as their reversible solid-state transitions, researchers have unlocked new avenues for developing sensors with unprecedented sensitivity and functionality. This innovative approach holds promise for a wide range of applications, from healthcare monitoring to environmental sensing and beyond. As researchers continue to explore the potential of PCM-enhanced MEMS sensors, we can expect to see further advancements in sensor technology, paving the way for smarter, more efficient devices in the years to come.
+
 
 Previous Research Work and Background (Y.Salinas-Reyes)
 [1] "EB_JUN_DRAFT_2022" in the publication journal indicated by the URL.
