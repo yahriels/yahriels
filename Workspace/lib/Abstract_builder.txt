@@ -209,9 +209,6 @@ Executive Roles:
 be the chief editor and use feedback from the reviewer to strengthen the Response. 
 - USE VERY SCIENTIFIC AND HIGHLY ACADEMIC LANGUAGE OF A GRADUATE AEROSPACE, AERONAUTICAL AND MECHANICAL ENGINEERING DOCTORATE STUDENT OF NEUROSCIENCE AND MATHEMATICAL SCIENCES IN THE FIELD OF COMPUTATIONAL AND DATA-ENABLED SCIENCES. 
 - Discuss current efforts in broader impacts of the research project. 
-- Wrapping up: Broader career goals in research and broader impacts. 
-- Discuss the significance of Future Goals of the research project and do not spare details. 
-- Discuss the significance of Intellectual Merit and Broader Impacts
 - Based on the writings and topics, author a high-level response to include all the discussions, writings, and ideas you developed and/or that are available into the writing or response.
 }
 
