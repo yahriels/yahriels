@@ -124,8 +124,6 @@ to inform three design propositions—tangible interfaces that range
 from part to product.
 2B. "(2B) Sensing Kirigami" 
 - (2B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(2B)Sensing%20Kirigami.pdf
-1B. "(1B) Adaptive Plasticity of Auxetic Kirigami Hydrogel Fabricated from Anisotropic Swelling of Cellulose Nanofiber Film" 
-- (1B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(1B)Adaptive%20plasticity%20of%20auxetic%20Kirigami%20hydrogel%20fabricated%20from%20anisotropic%20swelling%20of%20cellulose%20nanofiber%20film.pdf
 
 \subsection{Theoretical Underpinnings:Theorems and Analytical Solutions}
 To construct our ideal model, we make a number of assumptions and assume ideal conditions in all aspects of the experiment. The sensor therefore is a finite cantilevered beam with fixed-free boundary conditions and uniaxial loading (or excitation) on the top surface-place. Assuming an ideal thermo-mechanical system, the response to work-energy input on the MEMS is recorded as total deformation of the body $\varepsilon$ and dimensionless power signal $R^*$. Therefore we define our principal axes in Fig [4] where longitudinal (beam-wise) strain $\varepsilon_x$ is measured as well as lateral strain $\varepsilon_y$. The degree of deformation (i.e. Polarization) at a plane/spot is the total body deformation $\delta \propto \varepsilon$ and surface slope of $\theta$. Equation [15] is a spot deflection approximation where the third term is the dynamic deflection coefficient of the surface $(\frac{Q}{\omega_n^3})^{1/2}$ and the Power Spectral Density (PSD) at the natural frequency for the ladder calculated from $\phi(t)$.
@@ -135,15 +133,6 @@ To construct our ideal model piezoresistivity and investigate electrostrictive e
  fixed-free boundary conditions and uniaxial loading (or excitation) on the top surface-place.
  Assuming an ideal thermo-mechanical system, the response to work-energy input on the
  MEMS is recorded as total deformation of the body recorded by the feedback signal which is related to the relative resistance change.
-3B. "(3B) Cantilever Paper AnalyticalSolutionTwoLayerBeam" 
-- (3B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(3B)Cantilever_Paper_AnalyticalSolutionTwoLayerBeam.pdf
-4B. "(4B) Cantilever Paper Effects of Shear" 
-- (4B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(4B)Cantilever_Paper_EffectsofShear.pdf
-5B. "(5B) Cantilever Paper LumpedBendingElectrostrictive" 
-- (5B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(5B)Cantilever_Paper_LumpedBendingElectrostrictive.pdf
-6B. "(6B) Composites-AnalyticalMonteCarloPZRModel" 
-- (6B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(6B)Composites-AnalyticalMonteCarloPZRModel.pdf
-
 
 
 ++++
@@ -273,9 +262,6 @@ Phase-Change Materials and Experimentation (Dr. Thuo)
 - (6A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(6A)Printing%20of%20Conformal%20Solid%20Metal%20Traces%20on%20NonAdhering.pdf
 7A. "(7A) Heat Free Biomimetic Metal Molding on Soft Substrates" 
 - (7A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(7A)Heat%20Free%20Biomimetic%20Metal%20Molding%20on%20Soft%20Substrates.pdf
-8A. "(8A) Microfluidic Channels" 
-- (8A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(8A)Microfluidic%20channels.pdf
-
 
 Theoretical Framwework
 3B. "(3B) Cantilever Paper AnalyticalSolutionTwoLayerBeam" 
@@ -340,8 +326,6 @@ Review and make changes in regards to the special topic given in the description
 --------------------
 ++++
 
-Can you give me some specific words and phrases I can use to connect the sections together and integrate the material, so it flows better? They should be fill in the gap sentence starters. Please give me 10.
-Propose a better structure for rewriting what I have already written so that the reader can better follow the flow of my arguments?
 
 HOW TO WRITE AN METHODOLOGY
 > Describe your methodological approach by introducing the way you researched the topic.
@@ -357,12 +341,19 @@ TIPS FOR WRITING A METHODOLOGY
 - Write for your audience: Craft a methodology that is clearly written and well-structured. Address the audience of your research with good writing, providing more than a list of technical details and procedures.
 
 
+Can you give me some specific words and phrases I can use to connect the sections together and integrate the material, so it flows better? They should be fill in the gap sentence starters. Please give me 10.
+Propose a better structure for rewriting what I have already written so that the reader can better follow the flow of my arguments?
+
 The subject of this paper and research, is to compare the fabrication processes, characteristics, and performance of the piezoresistive force sensors that use low-resistance silver paste as thin film electrodes to piezoresistive force sensors that are enhanced with Phase-Change Material thin film electrodes. 
 The effect of Y on X is real.
+Methodology and findings
+Describe your research methodology and provide an overview of how you conducted your study. Explain your data sources and collection methods. Summarize the key findings of your research, and briefly comment on their significance.
+- Example: The methodology involved __. Findings revealed ___. The research underscores the importance of ____.
+
 METHODOLOGY
-Questionable proxies for Y and X
 
 
+Research Methodology: Explain the method you will go for to deal with your research question in this section of your proposal.
 
 
 For improving overall quality of your text:

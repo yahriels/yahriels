@@ -34,7 +34,7 @@ CONCLUSION
 
 In conclusion, the study provides empirical support for the efficacy of Phase-Change Material thin film electrodes in enhancing the performance of piezoresistive force sensors. Despite inherent limitations, the findings suggest a promising avenue for advancing sensor technology, paving the way for improved sensing capabilities in various applications.
 
-HOW TO WRITW AN METHODOLOGY
+HOW TO WRITE AN METHODOLOGY
 > Describe your methodological approach by introducing the way you researched the topic.
 > Explain your methods of data collection
 > Define each method that you have used for analyzing the topic.

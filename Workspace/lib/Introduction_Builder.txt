@@ -1,8 +1,6 @@
 GIVE ME ONLY THE FINAL EXTENDED INTRODUCTION WITH IN-TEXT CITATIONS AND REFERENCES ADDED!!
-GIVE ME A TITLE
+
 BUILD UPON THE OUTLINE AND ASSEMBLE EACH SECTION AS FULLY WRITTEN ARGUMENTS AND CONVERSATIONS. NOW GO BACK THROUGH AND BUILD UPON YOUR WRITING BY ADDING IN-TEXT CITATIONS AND REFERENCES AND SUPPLEMENTING THE ARGUMENTS OF EACH SECTION.
-Can you give me some specific words and phrases I can use to connect the sections together and integrate the material, so it flows better? They should be fill in the gap sentence starters. Please give me 10.
-Propose a better structure for rewriting what I have already written so that the reader can better follow the flow of my arguments?
 \title[Heat-Free Fabrication of Paper-Based Piezoresistive MEMS Devices via Mechanical Processing]{Heat-Free Fabrication of Paper-Based Piezoresistive MEMS Devices via Mechanical Processing}
 \begin{abstract}
 ----
@@ -303,9 +301,6 @@ Review and make changes in regards to the special topic given in the description
 }
 --------------------
 ++++
-Can you give me some specific words and phrases I can use to connect the sections together and integrate the material, so it flows better? They should be fill in the gap sentence starters. Please give me 10.
-Propose a better structure for rewriting what I have already written so that the reader can better follow the flow of my arguments?
-
 
 I. INTRODUCTION
     a. Start with an attention-grabber (quote, statistics, story)
@@ -328,6 +323,10 @@ STEPS TO WRITE A RESEARCH PROPOSAL:
 3. Guide me in formulating clear aims and objectives for my study by suggesting a list of verbs I can choose from."
 4. Can you give me some specific words and phrases I can use to connect the sections together and integrate the material, so it flows better? They should be fill in the gap sentence starters. Please give me 10.
 
+Can you give me some specific words and phrases I can use to connect the sections together and integrate the material, so it flows better? They should be fill in the gap sentence starters. Please give me 10.
+Propose a better structure for rewriting what I have already written so that the reader can better follow the flow of my arguments?
+
+
 
 For improving overall quality of your text:
 - Provide a critique of this text from the point of view of someone who doesn't believe the argument made here about [insert your argument]?
@@ -348,4 +347,3 @@ For assisting you with individual sentences/phrases:
 ++++
 BUILD UPON THE OUTLINE AND ASSEMBLE EACH SECTION AS FULLY WRITTEN ARGUMENTS AND CONVERSATIONS. NOW GO BACK THROUGH AND BUILD UPON YOUR WRITING BY ADDING IN-TEXT CITATIONS AND REFERENCES AND SUPPLEMENTING THE ARGUMENTS OF EACH SECTION.
 GIVE ME ONLY THE FINAL EXTENDED INTRODUCTION WITH IN-TEXT CITATIONS AND REFERENCES ADDED!!
-GIVE ME A TITLE
