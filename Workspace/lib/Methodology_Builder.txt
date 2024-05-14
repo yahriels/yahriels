@@ -3,12 +3,12 @@
 Special Topic Call for Papers: https://publishing.aip.org/publications/journals/special-topics/jap/phase-change-materials-and-their-applications/?Track=&utm_source=AIP%20Publishing&utm_medium=email&utm_campaign=14252243_JAP_Phase-change%20Materials%20and%20Their%20Applications_%20CFP_December%202023&dm_i=1XPS,8HH3N,A81PSD,Z2E70,1
 Style Manual: https://publishing.aip.org/wp-content/uploads/2021/03/AIP_Style_4thed.pdf
 MODEL AND FORMAT YOUR RESEARCH PAPER BY REFERENCE TO THE SAMPLES ARTICLES BELOW
-AIP Sample Article 1: https://pubs.aip.org/aip/jap/article/135/10/105101/3269949/Control-of-buckling-behavior-in-origami-based?searchresult=1
-AIP Sample Article 2: https://pubs.aip.org/aip/jap/article/135/12/125109/3279873/Selective-modulation-of-electronic-transport-in?searchresult=1
-AIP Sample Article 3: https://pubs.aip.org/aip/jap/article/135/8/080901/3267325/Perspectives-on-the-robustness-of-the-mechanical?searchresult=1
+AIP Sample Article 1: https://www.aje.com/arc/materials-and-methods-7-writing-tips/
+AIP Sample Article 2: https://web.physics.ucsb.edu/~martinisgroup/classnotes/WritingPapers/NotesOnWritingPaper12.pdf
+AIP Sample Article 3: https://www.customwritings.com/howtowrite/post/physics-research-paper-guide/
 
 --------------------
-
+\title[Heat-Free Fabrication of Paper-Based Piezoresistive MEMS Devices via Mechanical Processing]{Heat-Free Fabrication of Paper-Based Piezoresistive MEMS Devices via Mechanical Processing}
 \section{Methodology}
 We are principally probing and developing theory of piezoresistivity and electrical conductivity of polymeric nanocomposites filled with hybrid carbon nanotubes/graphene nanoplatelets, which will be referred to as Carbon Resistor Ink.
 The research investigates the impact of incorporating Phase-Change Material (PCM) thin film electrodes in piezoresistive force sensors, comparing them to sensors utilizing conventional low-resistance silver paste electrodes. The effect of this enhancement on sensor fabrication processes, characteristics, and performance is explored.
@@ -339,7 +339,11 @@ Review and make changes in regards to the special topic given in the description
 }
 --------------------
 ++++
-HOW TO WRITW AN METHODOLOGY
+
+Can you give me some specific words and phrases I can use to connect the sections together and integrate the material, so it flows better? They should be fill in the gap sentence starters. Please give me 10.
+Propose a better structure for rewriting what I have already written so that the reader can better follow the flow of my arguments?
+
+HOW TO WRITE AN METHODOLOGY
 > Describe your methodological approach by introducing the way you researched the topic.
 > Explain your methods of data collection
 > Define each method that you have used for analyzing the topic.
@@ -357,6 +361,7 @@ The subject of this paper and research, is to compare the fabrication processes,
 The effect of Y on X is real.
 METHODOLOGY
 Questionable proxies for Y and X
+
 
 
 

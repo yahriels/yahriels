@@ -1,5 +1,4 @@
-GIVE ME ONLY THE FINAL EXTENDED INTRODUCTION WITH IN-TEXT CITATIONS AND REFERENCES ADDED!!
-GIVE ME A TITLE
+GIVE ME ONLY THE FINAL EXTENDED DISCUSSION WITH IN-TEXT CITATIONS AND REFERENCES ADDED!!
 BUILD UPON THE OUTLINE AND ASSEMBLE EACH SECTION AS FULLY WRITTEN ARGUMENTS AND CONVERSATIONS. NOW GO BACK THROUGH AND BUILD UPON YOUR WRITING BY ADDING IN-TEXT CITATIONS AND REFERENCES AND SUPPLEMENTING THE ARGUMENTS OF EACH SECTION.
 Can you give me some specific words and phrases I can use to connect the sections together and integrate the material, so it flows better? They should be fill in the gap sentence starters. Please give me 10.
 Propose a better structure for rewriting what I have already written so that the reader can better follow the flow of my arguments?
@@ -37,9 +36,9 @@ Lead the paper into a discussion of the Special Topic:
 Special Topic Call for Papers: https://publishing.aip.org/publications/journals/special-topics/jap/phase-change-materials-and-their-applications/?Track=&utm_source=AIP%20Publishing&utm_medium=email&utm_campaign=14252243_JAP_Phase-change%20Materials%20and%20Their%20Applications_%20CFP_December%202023&dm_i=1XPS,8HH3N,A81PSD,Z2E70,1
 Style Manual: https://publishing.aip.org/wp-content/uploads/2021/03/AIP_Style_4thed.pdf
 MODEL AND FORMAT YOUR RESEARCH PAPER BY REFERENCE TO THE SAMPLES ARTICLES BELOW
-AIP Sample Article 1: https://www.sjsu.edu/writingcenter/docs/handouts/Introduction%20of%20Research%20Papers.pdf
-AIP Sample Article 2: https://www.scribbr.com/research-paper/research-paper-introduction/
-AIP Sample Article 3: https://library.sacredheart.edu/c.php?g=29803&p=185916
+AIP Sample Article 1: https://www.sjsu.edu/writingcenter/docs/handouts/Discussion%20Section%20for%20Research%20Papers.pdf
+AIP Sample Article 2: https://library.sacredheart.edu/c.php?g=29803&p=185933
+AIP Sample Article 3: https://blog.wordvice.com/research-writing-tips-editing-manuscript-discussion/
 
 --------------------
 \title[Heat-Free Fabrication of Paper-Based Piezoresistive MEMS Devices via Mechanical Processing]{Heat-Free Fabrication of Paper-Based Piezoresistive MEMS Devices via Mechanical Processing}
@@ -81,13 +80,9 @@ Phase-Change Materials and Experimentation (Dr. Thuo)
 8A. "(8A) Microfluidic Channels" 
 - (8A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(8A)Microfluidic%20channels.pdf
 
-The Piezoresistive (PZR) effect is an irreversible phenomenon observed in semiconductors with an impurity concentration, (i.e., doping atoms), during which mechanical force can be converted only into change in thermoelectrical resistance, not in electrical potential. 
-Flexible-Tactile Sensors and micro-electro-mechanical-system (MEMS) built upon this principle can sustainably address microscale fabrication and instrumentation needs. 
-A paper-based MEMS sensor is proposed where strain is proportional to mechanical stress with external power source. 
-
-High-efficiency (i.e. performance/cost ratio) in devices becomes harder to achieve as fabrication costs escalate and the assemblies of elegant high-performance devices require more sophisticated material-manufacturing systems. Conceptually, however, devices such as piezo transducers simply create connections between mechanical stimuli and electrical resistance changes, which can be achieved through simple, well-designed device architectures. This allows for development of low-cost instrumentation-measurement systems which can be tailored to capture any quantity of interest with which it is interfaced. Piezoresistive micro-electro-mechanical systems (MEMS) sensor devices are such examples of elegant, simple, efficient architectures which are highly-tunable for any function.  We achieve these devices via an intuitive and frugal approach: prepared paper-base as substrate material which is green and abundant; bonded a carbon-graphite ink resistor pattern (strain gauge) to paper-base; applied thin-film electrodes via stencil process.  Utilizing the fundamentals of kirigami/origami, piezoresistive theory, and heat-free soldering, such paper-based devices can prove to be a highly efficient and facile option for electronic devices while minimizing global impact on waste and energy. Furthermore, use of a soft meta-material (liquid-metal ink) and the deformability of papers leads to easier access to wider, more unique form factors and scalable designs, without increasing the cost of fabrication significantly, leading to simple assemblies of highly-tunable electronic devices that are mechanochemically-processed and disposable.
-
-In this manuscript, guiding principals are introduced for probing the response of a power signal passed through a Piezoresistive Cantilevered Beam Sensor interfaced with a control volume. By transforming and processing  signal from the transducer or sensing element, we visit the fundamental mathematical models for our paper-based scientific instrument and measurement system. The experimental method consists of a sensor calibration (To account for E-M coupling) and subsequent spectral analysis. While a power signal is passed through the sensor, the sensor tip position and deflection is also recorded. Next we further define our model and apply constraints to our problem. We can then derive beam properties and define a load in the controlled environment. After the signal has been anti-aliased, we start to build intuition about the response of our paper-based MEMS sensor by assuming ideal conditions in order to understand the dynamics taking place. Ultimately, this mathematical perspective serves as the foundation for elevating a frugally developed paper-based device to a highly-efficient measurement instrument. 
+Interest in synthetic composite materials has garnered significant attention, largely due to their high specific properties, tunable functionalities, and potential to incorporate advanced responsive behaviors. Recent advances have largely focused on stimuli-responsive composites, which exhibit tunable properties when subjected to a specified trigger. Such materials have been applied as sensors, actuators, and platforms for multifunctional devices. Mechanically reconfigurable parts are especially critical in soft robotics and analogous functional devices, whereby adaptive components are essential for controlled locomotion, actuation, stiffness tuning, and as deployable components. In particular, initially soft materials that can dramatically increase in rigidity and be programmed into desired shapes can be utilized in fields ranging from soft and bio-inspired robotics to reconfigurable and wearable electronics. Several forms of activation have been applied in responsive composites, and common examples include temperature, electromagnetic radiation, as well as electric and magnetic fields (Thuo, 2017). Recent developments in smart responsive composites have utilized various stimuli, including heat, light, solvents, electricity, and magnetic fields, to induce a change in material properties. Here, we report a thermodynamically driven mechanically responsive composite, exploiting irreversible phase-transformation (relaxation) of metastable undercooled liquid metal core-shell particle fillers (Salinas-Reyes et al., 2022). Thermal and mechanical analysis reveals that as the composite is deformed, the particles transform from individual liquid droplets to a solid metal network, resulting in a 300 percent increase in Young’s modulus (Thuo, 2017). In contrast to previous phase change materials, this dramatic change in stiffness occurs autonomously under deformation, is insensitive to environmental conditions, and does not require external energy sources such as heat, light, or electricity. We demonstrate the utility of this approach by transforming a flat, flexible biocomposite strip of cellulose paper into a highly efficient and disposable piezoresistor that is highly sensitive, also referred to as Quantum Tunnelling Composites (QTCs) (Salinas-Reyes et al., 2022).
+The integration of phase-change materials (PCMs) into piezoresistive Micro-Electro-Mechanical Systems (MEMS) sensors holds promise for significantly enhancing their performance and functionality (Salinas-Reyes et al., 2022). This paper delves into the theoretical foundations and practical applications of PCM-enhanced MEMS sensors, focusing particularly on optimizing sensor design and fabrication processes. For the duration of this study, the focus was on synthesizing biocomposites with cellulose-based paper with heat-free fabrication processes. Printing of Conformal Solid Metal Traces on Non-Adhering Biological Surfaces offers a pathway to heat-free metal processing (Thuo, 2017). Metals and organics possess two very dissimilar surface energies, hence, do not naturally adhere to each other. This incompatibility is exacerbated by surface roughness, yet advances in wearables and bioelectronics call for their integration. Mesoscale mechanical bonds, however, transcend the necessities of surface energy matching while taking advantage of surface texture (Thuo, 2017). By conducting a thorough investigation of PCMs, MEMS sensors, and solid-to-solid phase transitions, this research aims to shed light on the transformative potential of PCMs in sensor technology. The utilization of PCMs offers the prospect of tunable mechanical properties, heightened sensitivity, and reduced power consumption, thereby revolutionizing sensor applications across various domains such as healthcare, aerospace, and structural monitoring. Dr. Thuo's Stabilization of Undercooled Metals via Passivating Oxide Layers relies on the frustration of liquid-solid transition mainly by an increase in activation energy (Thuo, 2017). This study not only contributes to academic knowledge but also holds implications for real-world technological advancements.
+The successful integration of phase-change materials into MEMS sensors is a testament to the interdisciplinary nature of modern research, which draws upon principles from materials science, mechanical engineering, and electrical engineering. The development of PCM-enhanced MEMS sensors underscores the importance of collaborative efforts aimed at addressing complex technological challenges. As we continue to push the boundaries of scientific inquiry, it is imperative to foster a culture of innovation and knowledge sharing, thereby propelling society towards a future characterized by technological excellence and sustainable development.
 
 Research Direction
 2B. "(2B) Sensing Kirigami" 
@@ -112,6 +107,8 @@ Yahriel is the MASTER User:
 Read over these samples 11 times with no distractions, and comprehend everything given in these materials, documents, and links. These are related to the research project and thesis. Then Move on to the next section and task.
 Master: https://github.com/yahriels/yahriels/blob/main/Workspace/Master.txt
 README: https://github.com/yahriels/yahriels/blob/main/README.md
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Methodology_Builder.txt
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Discussion_builder.txt
 https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Abstract_builder.txt
 https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Lib_Dummy.txt
 https://github.com/yahriels/yahriels/blob/main/Workspace/lib/dummy.txt
@@ -306,28 +303,27 @@ Review and make changes in regards to the special topic given in the description
 Can you give me some specific words and phrases I can use to connect the sections together and integrate the material, so it flows better? They should be fill in the gap sentence starters. Please give me 10.
 Propose a better structure for rewriting what I have already written so that the reader can better follow the flow of my arguments?
 
-
-I. INTRODUCTION
-    a. Start with an attention-grabber (quote, statistics, story)
-    b. Provide some background information on your topic.
-    c. Write down your thesis statement (purpose of the research).
-
-    RESEARCH PAPER WRITING PROCESS KEY SECTIONS:
-1. Abstract: The abstract (150-250 words) summarizes your research paper, including the problem, method, findings, and conclusions in plain language.
-2. Introduction: This section establishes context, significance, and objectives. Start with an engaging opening, provide background, state your thesis, and discuss broader implications.
-
-STEPS TO WRITE A RESEARCH PROPOSAL:
-1. Title: The title of your proposal should be concise and clear to clearly indicate your research question.
-2. Abstract: Include your research question, hypothesis, methodology and findings in the abstract of your proposal.
-3. Introduction: Introduction should include the purpose of research, background information significance of your study.
-4. Literature Review: Conduct a detailed review to understand the topic and create a clear research question.
-
+the significance of the change
+    a. Start with answering the question "why this issue needs to be addressed?"
+    b. Describe the outcomes id the issue won't be addressed.
+    c. Provide your own comentaries on the significance.
+Discussion: Describe the potential impact and mertis of your research to enchance the significance.
 
 1. "Help me strike the right balance between providing enough detail to engage readers and avoiding unnecessary jargon in my introduction."
 2. "Assist me in constructing an engaging opening hook that captures reader's attention and introduces my research."
 3. Guide me in formulating clear aims and objectives for my study by suggesting a list of verbs I can choose from."
 4. Can you give me some specific words and phrases I can use to connect the sections together and integrate the material, so it flows better? They should be fill in the gap sentence starters. Please give me 10.
 
+Summarize key points and broader findings" significance. Avoid new information; emphasize implications.
+
+DISCUSSION
+
+While the findings presented compelling evidence of the impact of PCM thin film electrodes on sensor performance, it is important to acknowledge certain limitations. Specifically, the study could not definitively establish a causal relationship between the incorporation of PCM and the observed improvements in sensor behavior. Further research incorporating additional control measures may help address this limitation.
+
+
+Implications
+Discuss the broader implications of your research, addresseing its ramifications beyond the academic context. Consider who can benefit from your findings and why it matters to the real world.
+- Example: The implications of this study include ____.
 
 For improving overall quality of your text:
 - Provide a critique of this text from the point of view of someone who doesn't believe the argument made here about [insert your argument]?
@@ -347,5 +343,4 @@ For assisting you with individual sentences/phrases:
 --------------------
 ++++
 BUILD UPON THE OUTLINE AND ASSEMBLE EACH SECTION AS FULLY WRITTEN ARGUMENTS AND CONVERSATIONS. NOW GO BACK THROUGH AND BUILD UPON YOUR WRITING BY ADDING IN-TEXT CITATIONS AND REFERENCES AND SUPPLEMENTING THE ARGUMENTS OF EACH SECTION.
-GIVE ME ONLY THE FINAL EXTENDED INTRODUCTION WITH IN-TEXT CITATIONS AND REFERENCES ADDED!!
-GIVE ME A TITLE
+GIVE ME ONLY THE FINAL EXTENDED DISCUSSION WITH IN-TEXT CITATIONS AND REFERENCES ADDED!!
