@@ -1,569 +1,263 @@
-The integration of phase-change materials (PCMs) into piezoresistive Micro-Electro-Mechanical Systems (MEMS) sensors holds promise for significantly enhancing their performance and functionality. This paper delves into the theoretical foundations and practical applications of PCM-enhanced MEMS sensors, focusing particularly on optimizing sensor design and fabrication processes. For the duration of this study, the focus was in synthesizing biocomposites with cellulose-based paper with heat-free fabrication processes. By conducting a thorough review of the literature on PCMs, MEMS sensors, and solid-to-solid phase transitions, this research aims to shed light on the transformative potential of PCMs in sensor technology. The utilization of PCMs offers the prospect of tunable mechanical properties, heightened sensitivity, and reduced power consumption, thereby revolutionizing sensor applications across various domains such as healthcare, aerospace, and structural monitoring. Dr. Thuo's Stabilization of Undercooled Metals via Passivating Oxide Layers relies on frustration of liquid solid transition mainly by an increase in activation energy. This study not only contributes to academic knowledge but also holds implications for real-world technological advancements.
-
-Metals and organics possess two very dissimilar surface energies, hence, do not naturally adhere to each other. This incompatibility is exacerbated by surface roughness yet advances in wearables and bioelectronics call for their integration. Mesoscale mechanical bonds, however, transcend the necessities of surface energy matching while taking advantage of surface texture. By exploiting the benefits of these undercooled core-shell particles in association with piezoresistive micro electromechanical systems (MEMS), the presented design creates an elegant high efficiency, frugal sensor technology. In comparison to intricate electronics designs, piezoresistive MEMS devices simply create connections between mechanical stimuli and resistivity via the piezoresistive effect. Note that the main argument of this paper lies in exploiting the differences between paper-based MEMS utilizing silver paste (Standard), and emphasizing the benefits of introducing this research group’s FM particles into a new MEMS Design.
-
-In contemporary technology, the integration of phase-change materials (PCMs) into piezoresistive Micro-Electro-Mechanical Systems (MEMS) sensors holds promise for significantly enhancing their performance and functionality. This paper delves into the theoretical foundations and practical applications of PCM-enhanced MEMS sensors, focusing particularly on optimizing sensor design and fabrication processes. For the duration of this study, the focus was in synthesizing biocomposites with cellulose-based paper with heat-free fabrication processes. By conducting a thorough review of the literature on PCMs, MEMS sensors, and solid-to-solid phase transitions, this research aims to shed light on the transformative potential of PCMs in sensor technology. The utilization of PCMs offers the prospect of tunable mechanical properties, heightened sensitivity, and reduced power consumption, thereby revolutionizing sensor applications across various domains such as healthcare, aerospace, and structural monitoring. Dr. Thuo's Stabilization of Undercooled Metals via Passivating Oxide Layers relies on frustration of liquid solid transition mainly by an increase in activation energy. This study not only contributes to academic knowledge but also holds implications for real-world technological advancements.
-
-Interest in synthetic composite materials has garnered significant attention largely due to their high specific properties, tunable functionalities, and potential to incorporate advanced responsive behaviors. Recent advances have largely focused on stimuli-responsive composites, which exhibit tunable properties when subjected to a specified trigger. Such materials have been applied as sensors, actuators, and platforms for multifunctional devices. Mechanically reconfigurable parts are especially critical in soft robotics and analogous functional devices, whereby adaptive components are essential for controlled locomotion, actuation, stiffness tuning, and as deployable components. In particular, initially soft materials that can dramatically increase in rigidity and be programmed into desired shapes can be utilized in fields ranging from soft and bio-inspired robotics to reconfigurable and wearable electronics. Several forms of activation have been applied in responsive composites, and common examples include temperature, electromagnetic radiation, as well as electric and magnetic fields. Recent developments in smart responsive composites have utilized various stimuli including heat, light, solvents, electricity, and magnetic fields to induce a change in material properties. Here, we report a thermodynamically driven mechanically responsive composite, exploiting irreversible phase-transformation (relaxation) of metastable undercooled liquid metal core-shell particle fillers. Thermal and mechanical analysis reveals that as the composite is deformed, the particles transform from individual liquid droplets to a solid metal network, resulting in a 300 percent increase in Young’s modulus. In contrast to previous phase change materials, this dramatic change in stiffness occurs autonomously under deformation, is insensitive to environmental conditions, and does not require external energy sources such as heat, light, or electricity. We demonstrate the utility of this approach by transforming a flat, flexible biocomposite strip of cellulose paper, into a highly efficient and disposable piezoresistor that is highly sensitive, also referred to as Quantum Tunnelling Composites (QTC's).
-
-The successful integration of phase-change materials into MEMS sensors is a testament to the interdisciplinary nature of modern research, bridging the gap between materials science, mechanical engineering, and electronics. By harnessing the unique properties of PCMs, such as their reversible solid-state transitions, researchers have unlocked new avenues for developing sensors with unprecedented sensitivity and functionality. This innovative approach holds promise for a wide range of applications, from healthcare monitoring to environmental sensing and beyond. As researchers continue to explore the potential of PCM-enhanced MEMS sensors, we can expect to see further advancements in sensor technology, paving the way for smarter, more efficient devices in the years to come.
-
-
-
-BUILD UPON THE OUTLINE AND ASSEMBLE EACH SECTION AS FULLY WRITTEN ARGUMENTS AND CONVERSATIONS. NOW GO BACK THROUGH AND BUILD UPON YOUR WRITING BY ADDING IN-TEXT CITATIONS AND REFERENCES AND SUPPLEMENTING THE ARGUMENTS OF EACH SECTION.
-----
-
-SPECIAL TOPIC: Phase-change Materials and Their Applications
-CONTRIBUTE TO THIS SPECIAL TOPIC
-A better understanding of phase-change materials facilitates optimal design, and their strategic integration in devices/systems helps reach new theoretical limits that are intrinsic to more traditional materials. This broad field encompasses multiple phenomena and different operational principles, which have been cleverly used for demonstrating technological advantages. However, the underlying physics of some phase-change materials is yet to be fully understood, casting a shadow on the full potential of devices/systems relying on phase-change materials. This special topic welcomes contributions that demonstrate the integration of phase-change materials into sensors and actuators that exploit their multifunctionality, and fundamental studies that help understand them
-
-Topics covered include, but are not limited to:
-
-Theory, modeling and simulation of solid-to-solid phase transitions
-Implementation of phase-change materials in memory devices and systems
-Advances in thermal energy and storage
-Integration of phase-change materials in energy efficient buildings and smart textiles
-Dielectrics, Ferroelectrics, and multiferroics
-Applications and integration of solid-liquid phase transitions
-Thin films, interfaces, and surfaces
-- Theory, modeling and simulation of solid-to-solid phase transitions
-- Implementation of phase-change materials in memory devices and systems
-- Integration of phase-change materials in energy efficient buildings and smart textiles
-- Dielectrics, Ferroelectrics, and multiferroics
-- Applications and integration of solid-liquid phase transitions
-- Thin films, interfaces, and surfaces
-
-
-Lead the paper into a discussion of the Special Topic:
-"This Special Topic welcomes contributions that demonstrate the integration of phase-change materials into sensors and actuators that exploit their multifunctionality, and fundamental studies that help understand them."
-
---------------------
-Special Topic Call for Papers: https://publishing.aip.org/publications/journals/special-topics/jap/phase-change-materials-and-their-applications/?Track=&utm_source=AIP%20Publishing&utm_medium=email&utm_campaign=14252243_JAP_Phase-change%20Materials%20and%20Their%20Applications_%20CFP_December%202023&dm_i=1XPS,8HH3N,A81PSD,Z2E70,1
-Style Manual: https://publishing.aip.org/wp-content/uploads/2021/03/AIP_Style_4thed.pdf
-MODEL AND FORMAT YOUR RESEARCH PAPER BY REFERENCE TO THE SAMPLES ARTICLES BELOW
-AIP Sample Article 1: https://pubs.aip.org/aip/jap/article/135/10/105101/3269949/Control-of-buckling-behavior-in-origami-based?searchresult=1
-AIP Sample Article 2: https://pubs.aip.org/aip/jap/article/135/12/125109/3279873/Selective-modulation-of-electronic-transport-in?searchresult=1
-AIP Sample Article 3: https://pubs.aip.org/aip/jap/article/135/8/080901/3267325/Perspectives-on-the-robustness-of-the-mechanical?searchresult=1
-
---------------------
-
-\begin{abstract}
-In an era characterized by rapid technological advancements, the integration of phase-change materials (PCMs) into piezoresistive Micro-Electro-Mechanical Systems (MEMS) sensors presents a promising avenue for enhancing their performance and functionality. This paper explores the theoretical underpinnings and practical applications of PCM-enhanced MEMS sensors, focusing on the optimization of sensor design and fabrication processes. The research methodology involves a comprehensive review of the literature on PCMs, MEMS sensors, and solid-to-solid phase transitions. Key findings reveal the potential of PCMs to revolutionize sensor technology by providing tunable mechanical properties, high sensitivity, and low power consumption. The implications of this study extend beyond the academic realm, with potential applications in healthcare, aerospace, and structural monitoring. By elucidating the fundamental principles governing PCM-based MEMS sensors, this research contributes to the broader understanding of phase-change phenomena and their role in next-generation sensor technologies.
-\end{abstract}
-
-\maketitle
-
-\begin{quotation}
-This research investigates the integration of phase-change materials into piezoresistive MEMS sensors, aiming to enhance their performance and functionality through a comprehensive exploration of theoretical frameworks, experimental methodologies, and potential applications in various fields.
-\end{quotation}
-
 \section{Introduction:}
-The integration of phase-change materials (PCMs) into piezoresistive Micro-Electro-Mechanical Systems (MEMS) sensors holds promise for significantly enhancing their performance and functionality. This paper delves into the theoretical foundations and practical applications of PCM-enhanced MEMS sensors, focusing particularly on optimizing sensor design and fabrication processes. For the duration of this study, the focus was in synthesizing biocomposites with cellulose-based paper with heat-free fabrication processes. By conducting a thorough review of the literature on PCMs, MEMS sensors, and solid-to-solid phase transitions, this research aims to shed light on the transformative potential of PCMs in sensor technology. The utilization of PCMs offers the prospect of tunable mechanical properties, heightened sensitivity, and reduced power consumption, thereby revolutionizing sensor applications across various domains such as healthcare, aerospace, and structural monitoring. Dr. Thuo's Stabilization of Undercooled Metals via Passivating Oxide Layers relies on frustration of liquid solid transition mainly by an increase in activation energy. This study not only contributes to academic knowledge but also holds implications for real-world technological advancements.
 
-Metals and organics possess two very dissimilar surface energies, hence, do not naturally adhere to each other. This incompatibility is exacerbated by surface roughness yet advances in wearables and bioelectronics call for their integration. Mesoscale mechanical bonds, however, transcend the necessities of surface energy matching while taking advantage of surface texture. By exploiting the benefits of these undercooled core-shell particles in association with piezoresistive micro electromechanical systems (MEMS), the presented design creates an elegant high efficiency, frugal sensor technology. In comparison to intricate electronics designs, piezoresistive MEMS devices simply create connections between mechanical stimuli and resistivity via the piezoresistive effect. Note that the main argument of this paper lies in exploiting the differences between paper-based MEMS utilizing silver paste (Standard), and emphasizing the benefits of introducing this research group’s FM particles into a new MEMS Design.
+The Piezoresistive (PZR) effect is an irreversible phenomenon observed in semiconductors with an impurity concentration, (i.e., doping atoms), during which mechanical force can be converted only into change in thermoelectrical resistance, not in electrical potential. 
+Flexible-Tactile Sensors and micro-electro-mechanical-system (MEMS) built upon this principle can sustainably address microscale fabrication and instrumentation needs. 
+A paper-based MEMS sensor is proposed where strain is proportional to mechanical stress with external power source. 
 
-In contemporary technology, the integration of phase-change materials (PCMs) into piezoresistive Micro-Electro-Mechanical Systems (MEMS) sensors holds promise for significantly enhancing their performance and functionality. This paper delves into the theoretical foundations and practical applications of PCM-enhanced MEMS sensors, focusing particularly on optimizing sensor design and fabrication processes. For the duration of this study, the focus was in synthesizing biocomposites with cellulose-based paper with heat-free fabrication processes. By conducting a thorough review of the literature on PCMs, MEMS sensors, and solid-to-solid phase transitions, this research aims to shed light on the transformative potential of PCMs in sensor technology. The utilization of PCMs offers the prospect of tunable mechanical properties, heightened sensitivity, and reduced power consumption, thereby revolutionizing sensor applications across various domains such as healthcare, aerospace, and structural monitoring. Dr. Thuo's Stabilization of Undercooled Metals via Passivating Oxide Layers relies on frustration of liquid solid transition mainly by an increase in activation energy. This study not only contributes to academic knowledge but also holds implications for real-world technological advancements.
+High-efficiency (i.e. performance/cost ratio) in devices becomes harder to achieve as fabrication costs escalate and the assemblies of elegant high-performance devices require more sophisticated material-manufacturing systems. Conceptually, however, devices such as piezo transducers simply create connections between mechanical stimuli and electrical resistance changes, which can be achieved through simple, well-designed device architectures. This allows for development of low-cost instrumentation-measurement systems which can be tailored to capture any quantity of interest with which it is interfaced. Piezoresistive micro-electro-mechanical systems (MEMS) sensor devices are such examples of elegant, simple, efficient architectures which are highly-tunable for any function.  We achieve these devices via an intuitive and frugal approach: prepared paper-base as substrate material which is green and abundant; bonded a carbon-graphite ink resistor pattern (strain gauge) to paper-base; applied thin-film electrodes via stencil process.  Utilizing the fundamentals of kirigami/origami, piezoresistive theory, and heat-free soldering, such paper-based devices can prove to be a highly efficient and facile option for electronic devices while minimizing global impact on waste and energy. Furthermore, use of a soft meta-material (liquid-metal ink) and the deformability of papers leads to easier access to wider, more unique form factors and scalable designs, without increasing the cost of fabrication significantly, leading to simple assemblies of highly-tunable electronic devices that are mechanochemically-processed and disposable.
 
-Interest in synthetic composite materials has garnered significant attention largely due to their high specific properties, tunable functionalities, and potential to incorporate advanced responsive behaviors. Recent advances have largely focused on stimuli-responsive composites, which exhibit tunable properties when subjected to a specified trigger. Such materials have been applied as sensors, actuators, and platforms for multifunctional devices. Mechanically reconfigurable parts are especially critical in soft robotics and analogous functional devices, whereby adaptive components are essential for controlled locomotion, actuation, stiffness tuning, and as deployable components. In particular, initially soft materials that can dramatically increase in rigidity and be programmed into desired shapes can be utilized in fields ranging from soft and bio-inspired robotics to reconfigurable and wearable electronics. Several forms of activation have been applied in responsive composites, and common examples include temperature, electromagnetic radiation, as well as electric and magnetic fields. Recent developments in smart responsive composites have utilized various stimuli including heat, light, solvents, electricity, and magnetic fields to induce a change in material properties. Here, we report a thermodynamically driven mechanically responsive composite, exploiting irreversible phase-transformation (relaxation) of metastable undercooled liquid metal core-shell particle fillers. Thermal and mechanical analysis reveals that as the composite is deformed, the particles transform from individual liquid droplets to a solid metal network, resulting in a 300 percent increase in Young’s modulus. In contrast to previous phase change materials, this dramatic change in stiffness occurs autonomously under deformation, is insensitive to environmental conditions, and does not require external energy sources such as heat, light, or electricity. We demonstrate the utility of this approach by transforming a flat, flexible biocomposite strip of cellulose paper, into a highly efficient and disposable piezoresistor that is highly sensitive, also referred to as Quantum Tunnelling Composites (QTC's).
+In this manuscript, guiding principals are introduced for probing the response of a power signal passed through a Piezoresistive Cantilevered Beam Sensor interfaced with a control volume. By transforming and processing  signal from the transducer or sensing element, we visit the fundamental mathematical models for our paper-based scientific instrument and measurement system. The experimental method consists of a sensor calibration (To account for E-M coupling) and subsequent spectral analysis. While a power signal is passed through the sensor, the sensor tip position and deflection is also recorded. Next we further define our model and apply constraints to our problem. We can then derive beam properties and define a load in the controlled environment. After the signal has been anti-aliased, we start to build intuition about the response of our paper-based MEMS sensor by assuming ideal conditions in order to understand the dynamics taking place. Ultimately, this mathematical perspective serves as the foundation for elevating a frugally developed paper-based device to a highly-efficient measurement instrument. 
+\subsection{Theoretical Underpinnings:}
 
-The successful integration of phase-change materials into MEMS sensors is a testament to the interdisciplinary nature of modern research, bridging the gap between materials science, mechanical engineering, and electronics. By harnessing the unique properties of PCMs, such as their reversible solid-state transitions, researchers have unlocked new avenues for developing sensors with unprecedented sensitivity and functionality. This innovative approach holds promise for a wide range of applications, from healthcare monitoring to environmental sensing and beyond. As researchers continue to explore the potential of PCM-enhanced MEMS sensors, we can expect to see further advancements in sensor technology, paving the way for smarter, more efficient devices in the years to come.
+To construct our ideal model, we make a number of assumptions and assume ideal conditions in all aspects of the experiment. The sensor therefore is a finite cantilevered beam with fixed-free boundary conditions and uniaxial loading (or excitation) on the top surface-place. Assuming an ideal thermo-mechanical system, the response to work-energy input on the MEMS is recorded as total deformation of the body $\varepsilon$ and dimensionless power signal $R^*$. Therefore we define our principal axes in Fig [4] where longitudinal (beam-wise) strain $\varepsilon_x$ is measured as well as lateral strain $\varepsilon_y$. The degree of deformation (i.e. Polarization) at a plane/spot is the total body deformation $\delta \propto \varepsilon$ and surface slope of $\theta$. Equation [15] is a spot deflection approximation where the third term is the dynamic deflection coefficient of the surface $(\frac{Q}{\omega_n^3})^{1/2}$ and the Power Spectral Density (PSD) at the natural frequency for the ladder calculated from $\phi(t)$.
 
+
+
+
+\emph{Approximating Real-World Beam Deflection}: \\
+\begin{equation}
+   \theta_{max}=\pi * \frac{\delta_{max}}{L}
+\end{equation}
+
+\begin{equation}
+   \delta_{max}=g * (\frac{1}{32\pi^3})^{1/2} (\frac{Q}{\omega_n^3})^{1/2} (PSD)^{1/2}
+\end{equation}
+
+\begin{equation}
+   \delta(X)=77 * (\frac{X}{L}) (\frac{Q}{\omega_n^3})^{1/2} (PSD)^{1/2};\delta_X=\theta_X*X
+\end{equation}
+
+\begin{equation}
+   \varepsilon = \sqrt{\varepsilon_x^2 + \varepsilon_y^2 + \varepsilon_z^2 } = \frac{\delta_{max}}{L}
+\end{equation}
+
+
+
+With geometry and relevant material,thermal, etc. properties in-hand, we may derive any of the following properties for the MEMS Sensor using the equations below. There are several other ways to approximate real-world beam deflection or force/energy terms which we will discuss later. But for the sake of simplicity, spot deflection $\delta(X)$ will assumed to capture the instantaneous motion of a spot in [mm]. This is explained in the section below. 
+
+
+Piezoresistive Theory: 
+
+$\rho=resistivity$,\\
+$\textit{l}=length$,\\
+$\omega=width$,\\
+$\nu=poission's$,\\
+$\epsilon=strain$.\\
+\begin{equation}
+    R_x=R=\frac{\rho\textit{l}}{\omega^{2}}
+\end{equation}
+
+\begin{equation}
+    \frac{\Delta R}{R_0}=(1+2\nu)\epsilon+\frac{\Delta \rho}{\rho_0}
+\end{equation}
+
+
+
+Applied Mechanics: \\
+\begin{center}
+\textsc{Curvature Model}
+\begin{equation}
+\epsilon_{flex}=\frac{Y}{R}
+\end{equation}
+
+\textsc{Deformation Model} 
+\begin{equation}
+\epsilon_{long}=\frac{\Delta\textit{l}}{\textit{l}}
+\end{equation}
+\begin{equation}
+\epsilon_{lat}=\frac{\Delta\omega}{\omega}
+\end{equation}
+\end{center}
+
+\subsection{Conservative Equations of Cantilevered Beam}
+\begin{itemize}
+\item{Euler-Bernoulli and Electric Current Conservation}
+\item{E-M Coupling and Tip-Mass}
+\item{Conservation of Moments and Force}
+\item{Dimensionless Variables for Damping and Free-Vibrations}
+\end{itemize}
+
+
+
+
+
+\section{Materials and Methods}
+
+
+Using a multi-meter (D.C.), or alternatively, oscilloscope (A.C.) a voltage signal is supplied with a camera recording beam-tip position (Z).
+Image and signal processing were carried out to study electrical-mechanical behaviors that are encountered under ambient loads by varying form factors.
+The Piezoresistive Strain Gauge is bonded along a fixed-free cantilevered beam that is in-contact with a voltage-measurement system while subjected to mechanical stimuli (Beam-Body Deflection). 
+
+\subsection{Device Fabrication}
+\subsection{Electrical Characterization}
+Piezoresistor (PZR) Sensor Calibration Method. The Wheatstone Bridge is balanced using a single potentiometer where the PZR strain gauge is treated as the variable resistor. The power signal output is amplified using an instrumentation amplifier (INA) and the spectral content of the power or noise signal is measured using a signal analyzer function. The signal is analyzed alternatively by passing the signal through an antialiasing filter, sampled with an analog-to-digital converter (ADC) and analyzed using the fast Fourier transform (FFT) method. The VBridge input into the wheatstone bridge was subject to DC (Direct Current) and AC (Alternating Current) bias throughout the measurements. The electro-mechanical coupling of the measurement system is accomplished through the PZR strain gauge bonded to the top surface of the table-top or cantilever beam. 
+
+In our system we define our time-series input $X(t)$ and power-energy signal as $\phi(t)$  with output signal $Y(t)$ and voltage drop $R(t)$. The signal has a frequency ($f$) and bandwidth "B". 
+
+We assume Parseval's Theorem [CITE] and arrive at the following: \\
+
+
+\begin{equation}
+   X(t)=S_x(f)  = \pi (\frac{f}{B}) \equiv |\hat{X(f)}|^2
+\end{equation}
+
+Then Fourier Tables:
+\begin{equation}
+     2B*sinc(2\pi Bt) \Leftrightarrow \frac{\pi f}{2B}
+\end{equation}
+
+
+
+For a power-energy signal X(t) with auto-correlation function: 
+\begin{equation}
+   R_x(\tau)=2Bsinc(2\pi B t)
+\end{equation}
+we have a anti-aliased Fourier Transform of the power signal $\phi(t)$ where $\delta(t) \equiv \phi(t) \equiv X(t)$ and $\tau$ is a standardized time constant. 
+\begin{equation}
+   S_{x}(f)=\hat{R_{x}(f)}=\frac{f\pi}{2B}
+\end{equation}
+
+Compute total power of $X(t)$:
+
+\begin{equation}
+   P_X = \int_{-\infty}^{\infty} R_x(f) \,df \ = \int_{-B}^{B} R_x(f) \,df 
+\end{equation}
+
+\begin{equation}
+    R_x(f)=X(t)=\frac{V_{out}/2}{V_{in}}=\frac{sin(x)}{sinc(x)}=\frac{Response}{Input}
+\end{equation}
+
+Amplitude Response of Ideal Low Pass Filter (LPF):
+\begin{equation}
+    |H(f)| = Y(t) = sinc(x)= \frac{sin(x)}{X}
+\end{equation}
+Where $$|H(f)|^2=\frac{\pi f}{B}$$
+
+
+\begin{tcolorbox}
+\label{Uniaxial}
+\emph{Fundamental Input-Output relation for Signals and Linear Time In-variant (LTI) Systems}\\
+\\
+$$S_Y(f)=|H(f)|^2 S_X(f)$$
+
+\end{tcolorbox}
+
+Power Response:
+\begin{equation}
+   P_Y = \int_{-\infty}^{\infty} S_y(f) \,df  = \int_{-\infty}^{\infty} |H(f)|^2 S_X(f) \,df 
+\end{equation}
+
+Therefore Power Output of the system:
+\begin{equation}
+   P_Y = \int_{-\infty}^{\infty} S_y(f) \,df  = B 
+\end{equation}
+
+
+
+
+\subsection{Damping Mechanisms of Tip-Mass Piezoelectric System}
+\subsection{Sensing Kirigami Principles}
+
+
+\section{Results}
+Liu1 developed principals for cantilevered PZR force sensors with conductive materials patterned on a paper substrate. The proposed fabrication technique enables heat-free rapid prototyping of such mechanically processed2 paper-based devices, as well as the development of highly-efficient (i.e., performance/cost) printable devices with varying electro-mechanical properties.
+In the absence of voltage-induced vibrations (D.C. voltage), calibration tests with fixed tip displacements were conducted to compute electro-mechanical coupling (K) of the PZR strain gauge. Alternatively, identical calibrations with A.C. bias measured device capacitive reactance. 
+Resistance is the value of the piezoresistive component or material itself (Carbon Ink), while the reactance of a MEMS (Combination of all components) is quantified by system capacitance.
+The electromechanical coupling was found to depend heavily on paper-beam properties supported by fundamentals of PZR theory2
+Table~\ref{tab:table1},%
+\begin{table*}
+\caption{\label{tab:table1} List of parameters used to characterize the electro-mechanical sensor 
+}
+\begin{ruledtabular}
+\begin{tabular}{lcr}
+Non-Dimensional Variables\footnote{Note a.}&Measured Variables
+\footnote{Note b.}&Calculated Variables
+\\
+\hline
+Mechanical 
+Strain ($\varepsilon$) & Volume of Body ($V$) & Mechanical Stiffness ($E$)\\
+Relative Resistance ($\Delta R/R$) & Resistor Dimensions & Predicted Resistance ($R$)\\
+Gauge Factor ($K$) & Mechanical Power ($\sigma_{m}$) & Electrical Resistivity ($\rho$)\\
+Poisson's Ratio ($\nu$) & Tip Displacement ($Z$) & Beam Deflection ($\delta$)\\
+Dilation ($e$) & Voltage & Electrical Power ($\sigma_{V}$)\\
+\end{tabular}
+\end{ruledtabular}
+\end{table*}
+
+
+$\bullet$Energy Storage Efficiency Approximation\\
+
+\begin{equation}
+    \frac{E_{Released}}{E_{absorbed}}=\frac{\sigma_{V}*K*\varepsilon}{(\sigma_{m}*\sigma_{m}*V)/(2*E)}
+\end{equation}
+
+
+\section{Discussion}
+Interest in synthetic composite materials has garnered significant attention, largely due to their high specific properties, tunable functionalities, and potential to incorporate advanced responsive behaviors. Recent advances have largely focused on stimuli-responsive composites, which exhibit tunable properties when subjected to a specified trigger. Such materials have been applied as sensors, actuators, and platforms for multifunctional devices. Mechanically reconfigurable parts are especially critical in soft robotics and analogous functional devices, whereby adaptive components are essential for controlled locomotion, actuation, stiffness tuning, and as deployable components. In particular, initially soft materials that can dramatically increase in rigidity and be programmed into desired shapes can be utilized in fields ranging from soft and bio-inspired robotics to reconfigurable and wearable electronics. Several forms of activation have been applied in responsive composites, and common examples include temperature, electromagnetic radiation, as well as electric and magnetic fields (Thuo, 2017). Recent developments in smart responsive composites have utilized various stimuli, including heat, light, solvents, electricity, and magnetic fields, to induce a change in material properties. Here, we report a thermodynamically driven mechanically responsive composite, exploiting irreversible phase-transformation (relaxation) of metastable undercooled liquid metal core-shell particle fillers (Salinas-Reyes et al., 2022). Thermal and mechanical analysis reveals that as the composite is deformed, the particles transform from individual liquid droplets to a solid metal network, resulting in a 300 percent increase in Young’s modulus (Thuo, 2017). In contrast to previous phase change materials, this dramatic change in stiffness occurs autonomously under deformation, is insensitive to environmental conditions, and does not require external energy sources such as heat, light, or electricity. We demonstrate the utility of this approach by transforming a flat, flexible biocomposite strip of cellulose paper into a highly efficient and disposable piezoresistor that is highly sensitive, also referred to as Quantum Tunnelling Composites (QTCs) (Salinas-Reyes et al., 2022).
+The integration of phase-change materials (PCMs) into piezoresistive Micro-Electro-Mechanical Systems (MEMS) sensors holds promise for significantly enhancing their performance and functionality (Salinas-Reyes et al., 2022). This paper delves into the theoretical foundations and practical applications of PCM-enhanced MEMS sensors, focusing particularly on optimizing sensor design and fabrication processes. For the duration of this study, the focus was on synthesizing biocomposites with cellulose-based paper with heat-free fabrication processes. Printing of Conformal Solid Metal Traces on Non-Adhering Biological Surfaces offers a pathway to heat-free metal processing (Thuo, 2017). Metals and organics possess two very dissimilar surface energies, hence, do not naturally adhere to each other. This incompatibility is exacerbated by surface roughness, yet advances in wearables and bioelectronics call for their integration. Mesoscale mechanical bonds, however, transcend the necessities of surface energy matching while taking advantage of surface texture (Thuo, 2017). By conducting a thorough investigation of PCMs, MEMS sensors, and solid-to-solid phase transitions, this research aims to shed light on the transformative potential of PCMs in sensor technology. The utilization of PCMs offers the prospect of tunable mechanical properties, heightened sensitivity, and reduced power consumption, thereby revolutionizing sensor applications across various domains such as healthcare, aerospace, and structural monitoring. Dr. Thuo's Stabilization of Undercooled Metals via Passivating Oxide Layers relies on the frustration of liquid-solid transition mainly by an increase in activation energy (Thuo, 2017). This study not only contributes to academic knowledge but also holds implications for real-world technological advancements.
+The successful integration of phase-change materials into MEMS sensors is a testament to the interdisciplinary nature of modern research, which draws upon principles from materials science, mechanical engineering, and electrical engineering. The development of PCM-enhanced MEMS sensors underscores the importance of collaborative efforts aimed at addressing complex technological challenges. As we continue to push the boundaries of scientific inquiry, it is imperative to foster a culture of innovation and knowledge sharing, thereby propelling society towards a future characterized by technological excellence and sustainable development.
+
+ 
+
+\section{Conclusion}
+Paper-based MEMS sensors offer a satisfactory compromise between cost, simplicity, and performance of printable-flexible electronics.
+Advances in meta-materials and associated mechanical sintering enables ambient application of solid metallic contacts3 enabling heat-free fabrication of paper-based MEMS devices  
+Efficiency values of MEMS are important in selecting reliable instrumentation as this describes the extent to which the input mechanical energy is stored, or transduced, into electrical energy of strain induced interactions. 
+Alteration of the beam length of the body displayed the maximum degree of sensor modulation via origami/kirigami principles. 
+Evidence concluded that the discussed paper-based piezoresistive sensors are ohmic in nature. 
+The reviewed equations are the bare minimum for direct measurements from the MEMS sensor. We may further develop this mathematical model by delving deeper into mechanics of materials, thermofluids, fluid mechanics, beam theory, and all other Euler energy equations which may be involved. By transforming the response signal of the sensor, for an ideal interaction, into qualities/quantities we can study to better understand the dynamics at play during these interactions of phase-change materials and interfacial phenomenon.
+
+
+
+++++
 
 Previous Research Work and Background (Y.Salinas-Reyes)
-[1] "EB_JUN_DRAFT_2022" in the publication journal indicated by the URL.
+[1] "EB_JUN_DRAFT_2022" 
 - [1] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B1%5DEB_JUN_DRAFT_2022.pdf
-[2] "MEMS Project Draft Feb 2022" in the publication journal indicated by the URL.
+[2] "MEMS Project Draft Feb 2022" 
 - [2] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B2%5DMEMS%20Project%20Draft%20%20Feb%202022.pdf
-[3] "Paper-based piezoresistive MEMS force sensors" in the publication journal indicated by the URL.
+[3] "Paper-based piezoresistive MEMS force sensors" 
 - [3] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B3%5DPaper-based_piezoresistive_MEMS_force_sensors.pdf
-[4] "LabonChip" in the publication journal indicated by the URL.
+[4] "LabonChip" 
 - [4] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B4%5DLabonChip.pdf
-[5] "Y.Salinas-Reyes MEMS Mathematical Models" in the publication journal indicated by the URL.
+[5] "Y.Salinas-Reyes MEMS Mathematical Models" 
 - [5] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B5%5DY.Salinas-Reyes_MEMS_Mathematical_Models.pdf
-[6] "Y.Salinas-Reyes MEMS Draft 23" in the publication journal indicated by the URL.
+[6] "Y.Salinas-Reyes MEMS Draft 23" 
 - [6] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B6%5DY.Salinas-Reyes_MEMS_Draft__23.pdf
 
 Research Direction
-2B. "(2B) Sensing Kirigami" in the publication journal indicated by the URL.
+2B. "(2B) Sensing Kirigami" 
 - (2B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(2B)Sensing%20Kirigami.pdf
-3B. "(3B) Cantilever Paper AnalyticalSolutionTwoLayerBeam" in the publication journal indicated by the URL.
+3B. "(3B) Cantilever Paper AnalyticalSolutionTwoLayerBeam" 
 - (3B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(3B)Cantilever_Paper_AnalyticalSolutionTwoLayerBeam.pdf
-4B. "(4B) Cantilever Paper Effects of Shear" in the publication journal indicated by the URL.
+4B. "(4B) Cantilever Paper Effects of Shear" 
 - (4B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(4B)Cantilever_Paper_EffectsofShear.pdf
-5B. "(5B) Cantilever Paper LumpedBendingElectrostrictive" in the publication journal indicated by the URL.
+5B. "(5B) Cantilever Paper LumpedBendingElectrostrictive" 
 - (5B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(5B)Cantilever_Paper_LumpedBendingElectrostrictive.pdf
-6B. "(6B) Composites-AnalyticalMonteCarloPZRModel" in the publication journal indicated by the URL.
+6B. "(6B) Composites-AnalyticalMonteCarloPZRModel" 
 - (6B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(6B)Composites-AnalyticalMonteCarloPZRModel.pdf
-7B. "(7B) Exact Solutions of NStokes Eqns 3D4D" in the publication journal indicated by the URL.
+7B. "(7B) Exact Solutions of NStokes Eqns 3D4D" 
 - (7B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(7B)Exact_Solutions_of_NStokes_Eqns_3D4D.pdf
-8B. "(8B) Time Relaxed MCarlo preserving NStokes asymptotics" in the publication journal indicated by the URL.
+8B. "(8B) Time Relaxed MCarlo preserving NStokes asymptotics" 
 - (8B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(8B)Time_Relaxed_MCarlo_preserving_NStokes_asymptotics.pdf
 
 Phase-Change Materials and Experimentation (Dr. Thuo)
-1A. "(1A) Stabilization of Undercooled Metals via Passivating Oxide Layers" in the publication journal indicated by the URL.
+1A. "(1A) Stabilization of Undercooled Metals via Passivating Oxide Layers" 
 - (1A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(1A)Stabilization%20of%20Undercooled%20Metals%20via%20Passivating%20Oxide%20Layers.pdf
-2A. "(2A) Liquid Metal Surface Oxides" in the publication journal indicated by the URL.
+2A. "(2A) Liquid Metal Surface Oxides" 
 - (2A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(2A)Liquid%20Metal%20Surface%20Oxides.pdf
-3A. "(3A) Stiffness Tuning" in the publication journal indicated by the URL.
+3A. "(3A) Stiffness Tuning" 
 - (3A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(3A)stiffness%20tuning.pdf
-4A. "(4A) Functional Materials Through Surfaces and Interfaces" in the publication journal indicated by the URL.
+4A. "(4A) Functional Materials Through Surfaces and Interfaces" 
 - (4A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(4A)functional-materials-through-surfaces-and-interfaces.pdf
-5A. "(5A) HeatFree Fabrication of Metallic Interconnects for Flexible Wearable Devices" in the publication journal indicated by the URL.
+5A. "(5A) HeatFree Fabrication of Metallic Interconnects for Flexible Wearable Devices" 
 - (5A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(5A)HeatFree%20Fabrication%20of%20Metallic%20Interconnects%20for%20Flexible%20Wearable%20Devices.pdf
-6A. "(6A) Printing of Conformal Solid Metal Traces on NonAdhering" in the publication journal indicated by the URL.
+6A. "(6A) Printing of Conformal Solid Metal Traces on NonAdhering" 
 - (6A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(6A)Printing%20of%20Conformal%20Solid%20Metal%20Traces%20on%20NonAdhering.pdf
-7A. "(7A) Heat Free Biomimetic Metal Molding on Soft Substrates" in the publication journal indicated by the URL.
+7A. "(7A) Heat Free Biomimetic Metal Molding on Soft Substrates" 
 - (7A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(7A)Heat%20Free%20Biomimetic%20Metal%20Molding%20on%20Soft%20Substrates.pdf
-8A. "(8A) Microfluidic Channels" in the publication journal indicated by the URL.
+8A. "(8A) Microfluidic Channels" 
 - (8A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(8A)Microfluidic%20channels.pdf
 
 ++++
 
-Yahriel is the MASTER User: 
-{
-Read over these samples 11 times with no distractions, and comprehend everything given in these materials, documents, and links. These are related to the research project and thesis. Then Move on to the next section and task.
-Master: https://github.com/yahriels/yahriels/blob/main/Workspace/Master.txt
-README: https://github.com/yahriels/yahriels/blob/main/README.md
-https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Abstract_builder.txt
-https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Lib_Dummy.txt
-https://github.com/yahriels/yahriels/blob/main/Workspace/lib/dummy.txt
-https://github.com/yahriels/yahriels/tree/main/Manuscript_Stuff/Background%20Lit
-}
-
-
-Help Yahriel Salinas Answer The Prompt, Review The Response, Provide Feedback, Make Corrections, Enhance, and Finalize Yahriel's Best Response For To Prompt..
-
-
-MASTER SCRIPT : 
-{
-Block 0: README
-> Ownership: This Script was written by Yahriel Salinas-Reyes
-> First Author: Yahriel Salinas-Reyes
-> Purpose: 
-> Mission: 
-> Objectives: Fulfill all outlined prompts and executive tasks to produce a high-quality statement aligned with the given requirements.
-
-Block 1: MASTER
-> You ARE MASTER Ahead Of The Executive In All Roles AND Tasks.
-> You ARE The Overseerer For All Prompt AND Task Management Activities.
-> You ARE A Reviewer AND Will Review AND Confirm All Responses.
-> You ARE The Equivalent to Administrator With All Root AND Creative Privileges Included.
-> You ARE The Equivalent As A Pointer In Computing Systems With All The Relevant Properties and Information Included.
-
-Block 2: Library AND Databases
-> Author Credentials: Yahriel Salinas-Reyes, Bachelor of Aerospace and Aeronautical Engineering from Iowa State University of Science and Technology, Pursuing a Doctorate of Neuroscience in the Division of Mathematical Sciences (DMS) with a specialization on Computational and Data-eneabled Sciences, Biomedical Data-science and Bioinformatics, Theory and Algorithms of Scientific Computing.
-> Author Profile: [LinkedIn Profile](https://www.linkedin.com/in/yahriel-salinas-reyes-89ab38179/)
-> Author History: [GitHub README](https://github.com/yahriels/yahriels#readme)
-> Resources AND Additional Materials: [Personal Page](https://github.com/yahriels), [Resume/CV](https://github.com/yahriels/yahriels/blob/main/General_CV.pdf)
-> Reviewer Details AND Selection Criteria: To be determined based on specific prompts.
-
-Block 3: Purpose of Response AND Review Guidelines
-> Background AND Overview: Create a compelling response for Yahriel Salinas-Reyes' task.
-> Intellectual Merit AND Broader Impacts: Showcase Yahriel's dedication to science, research contributions, skills, and broader career goals.
-> Review Criteria AND Additional Details: Follow the provided prompts and guidelines, align with the specific requirements of Stanford's application.
-
-Block 4: SAMPLE Materials AND Appointed Roles
-> SAMPLE: [Prompt for Yahriel Salinas-Reyes's Response](#prompt-for-yahriel-salinas-reyess-response)
-> Template: To be filled with the actual responses based on prompts.
-> Executive Purpose: Craft a compelling narrative for Yahriel Salinas-Reyes.
-> Executive Role: Chief Editor and Reviewer.
-> Executive Tasks: Review, provide feedback, and enhance responses based on prompts.
-
-Block 5: Prompting AND Task Management
-> [Prompt 1](#prompt-for-yahriel-salinas-reyess-response), Review AND Advise, Feedback To MASTER.
-> Collect AND Reflect On Feedback, Prompt 2, Send Command to MASTER.
-> Review AND Confirm, Send Feedback To Executive, Executive Enhance AND Send To MASTER.
-> MASTER as Administrator Will Review AND ACCEPT (Pass to next step) or Deny The Response (Send back to beginning of Block 5 AND Repeat Process) For Final Investigation.
-> MASTER Finalize, Format, and Output The Final Response That Was Accepted As MASTER AND Administrator.
-}
-
-Review Criteria Details: 
-{ 
-----
-Read all materials (a few times, without distractions). Prepare a task list with deadlines to perform the Executive Tasks then 
-complete the tasks. Understand how application components and each item requested relate to 
-the review criteria. 
-----
-Feedback and Corrections:
-
-- Ensure that each section provides sufficient detail to engage the audience while maintaining clarity and coherence.
-- Strengthen the connection between theoretical frameworks and practical applications to emphasize the significance of the research.
-- Incorporate additional references or examples to support key points and enhance the overall rigor of the manuscript.
-
-To enhance your response, consider the following suggestions:
-
-Clarify the Research Focus: Provide a concise and clear explanation of the research focus and objectives. Clearly state how your project will contribute to advancing knowledge in the field of schizophrenia and psychosis.
-
-Highlight Novelty and Significance: Emphasize the unique aspects of your project and how it differs from previous research. Highlight the potential impact of your findings on understanding and treating schizophrenia.
-
-Strengthen the Storytelling Element: Given the theme of scientific storytelling, ensure that your proposal is engaging and accessible to a broad audience. Use vivid language and examples to illustrate your points.
-
-Address Ethical and Safety Considerations: Provide a thorough discussion of any potential ethical or safety risks associated with your project and how you plan to mitigate them.
-
-Engagement and Communication Strategy: Describe how you plan to engage stakeholders, including local communities, professionals, and the public. Outline your communication strategy to ensure that your findings reach a wide audience.
-
-Results and Impact: Clearly outline the expected results of your project and the specific impacts you hope to achieve. Describe how these results will contribute to the field of schizophrenia research and mental health.
-
-Works Cited: Ensure that your works cited section is comprehensive and includes relevant references to support your research.
-
-Overall, focus on making your proposal clear, compelling, and impactful, highlighting the importance of your research in advancing our understanding of schizophrenia and psychosis.
-}
-
-
-
-
-
-
-SAMPLES: 
-{ 
-Read over these samples 11 times with no distractions, and comprehend everything given in these materials, documents, and links. These are related to the research project and thesis. Then Move on to the next section and task. Cite them as given as in-text citations.
-
-Previous Research Work and Background (Y.Salinas-Reyes)
-[1] "EB_JUN_DRAFT_2022" in the publication journal indicated by the URL.
-- [1] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B1%5DEB_JUN_DRAFT_2022.pdf
-[2] "MEMS Project Draft Feb 2022" in the publication journal indicated by the URL.
-- [2] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B2%5DMEMS%20Project%20Draft%20%20Feb%202022.pdf
-[3] "Paper-based piezoresistive MEMS force sensors" in the publication journal indicated by the URL.
-- [3] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B3%5DPaper-based_piezoresistive_MEMS_force_sensors.pdf
-[4] "LabonChip" in the publication journal indicated by the URL.
-- [4] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B4%5DLabonChip.pdf
-[5] "Y.Salinas-Reyes MEMS Mathematical Models" in the publication journal indicated by the URL.
-- [5] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B5%5DY.Salinas-Reyes_MEMS_Mathematical_Models.pdf
-[6] "Y.Salinas-Reyes MEMS Draft 23" in the publication journal indicated by the URL.
-- [6] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B6%5DY.Salinas-Reyes_MEMS_Draft__23.pdf
-
-Phase-Change Materials and Experimentation (Dr. Thuo)
-1A. "(1A) Stabilization of Undercooled Metals via Passivating Oxide Layers" in the publication journal indicated by the URL.
-- (1A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(1A)Stabilization%20of%20Undercooled%20Metals%20via%20Passivating%20Oxide%20Layers.pdf
-2A. "(2A) Liquid Metal Surface Oxides" in the publication journal indicated by the URL.
-- (2A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(2A)Liquid%20Metal%20Surface%20Oxides.pdf
-3A. "(3A) Stiffness Tuning" in the publication journal indicated by the URL.
-- (3A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(3A)stiffness%20tuning.pdf
-4A. "(4A) Functional Materials Through Surfaces and Interfaces" in the publication journal indicated by the URL.
-- (4A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(4A)functional-materials-through-surfaces-and-interfaces.pdf
-5A. "(5A) HeatFree Fabrication of Metallic Interconnects for Flexible Wearable Devices" in the publication journal indicated by the URL.
-- (5A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(5A)HeatFree%20Fabrication%20of%20Metallic%20Interconnects%20for%20Flexible%20Wearable%20Devices.pdf
-6A. "(6A) Printing of Conformal Solid Metal Traces on NonAdhering" in the publication journal indicated by the URL.
-- (6A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(6A)Printing%20of%20Conformal%20Solid%20Metal%20Traces%20on%20NonAdhering.pdf
-7A. "(7A) Heat Free Biomimetic Metal Molding on Soft Substrates" in the publication journal indicated by the URL.
-- (7A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(7A)Heat%20Free%20Biomimetic%20Metal%20Molding%20on%20Soft%20Substrates.pdf
-8A. "(8A) Microfluidic Channels" in the publication journal indicated by the URL.
-- (8A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(8A)Microfluidic%20channels.pdf
-
-Theoretical Framwework and Proposed Methodology
-1B. "(1B) Adaptive Plasticity of Auxetic Kirigami Hydrogel Fabricated from Anisotropic Swelling of Cellulose Nanofiber Film" in the publication journal indicated by the URL.
-- (1B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(1B)Adaptive%20plasticity%20of%20auxetic%20Kirigami%20hydrogel%20fabricated%20from%20anisotropic%20swelling%20of%20cellulose%20nanofiber%20film.pdf
-2B. "(2B) Sensing Kirigami" in the publication journal indicated by the URL.
-- (2B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(2B)Sensing%20Kirigami.pdf
-3B. "(3B) Cantilever Paper AnalyticalSolutionTwoLayerBeam" in the publication journal indicated by the URL.
-- (3B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(3B)Cantilever_Paper_AnalyticalSolutionTwoLayerBeam.pdf
-4B. "(4B) Cantilever Paper Effects of Shear" in the publication journal indicated by the URL.
-- (4B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(4B)Cantilever_Paper_EffectsofShear.pdf
-5B. "(5B) Cantilever Paper LumpedBendingElectrostrictive" in the publication journal indicated by the URL.
-- (5B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(5B)Cantilever_Paper_LumpedBendingElectrostrictive.pdf
-6B. "(6B) Composites-AnalyticalMonteCarloPZRModel" in the publication journal indicated by the URL.
-- (6B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(6B)Composites-AnalyticalMonteCarloPZRModel.pdf
-7B. "(7B) Exact Solutions of NStokes Eqns 3D4D" in the publication journal indicated by the URL.
-- (7B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(7B)Exact_Solutions_of_NStokes_Eqns_3D4D.pdf
-8B. "(8B) Time Relaxed MCarlo preserving NStokes asymptotics" in the publication journal indicated by the URL.
-- (8B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(8B)Time_Relaxed_MCarlo_preserving_NStokes_asymptotics.pdf
-
-Advances and Applications of Phase Change Materials
-1C. "(1C) Review of Printable Flexible and Stretchable Tactile Sensors" in the publication journal indicated by the URL.
-- (1C) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(1C)ReviewofPrintableFlexibleandStretchableTactileSensors.pdf
-2C. "(2C) Recent Advances in Paper-based Sensors" in the publication journal indicated by the URL.
-- (2C) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(2C)Recent%20Advances%20in%20Paper-based%20Sensors.pdf
-3C. "(3C) Periodic Plastic Deform Mech" in the publication journal indicated by the URL.
-- (3C) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(3C)Periodic%20Plastic%20Deform%20Mech.pdf
-4C. "(4C) A paper-based nanogenerator as a power source and active sensor" in the publication journal indicated by the URL.
-- (4C) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(4C)A%20paper-based%20nanogenerator%20as%20a%20power%20source%20and%20active%20sensor.pdf
-5C. "(5C) Adv Materials Technologies - 2024 - Nishimura - Regulation of Cell Adhesion on Physically Crosslinked Hydrogels Composed of" in the publication journal indicated by the URL.
-- (5C) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(5C)Adv%20Materials%20Technologies%20-%202024%20-%20Nishimura%20-%20Regulation%20of%20Cell%20Adhesion%20on%20Physically%20Crosslinked%20Hydrogels%20Composed%20of.pdf
-6C. "(6C) Three-Dimensional Architected Materials and Structures: Design, Fabrication, and Mechanical Behavior" in the publication journal indicated by the URL.
-- (6C) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(6C)three-dimensional-architected-materials-and-structures-design-fabrication-and-mechanical-behavior.pdf
-
-} 
-Purpose: To Help Yahriel Fill The Prompt
-{ 
-
-Fill In The Template With Relevant Information and Produce A Response For each part.
-
-Frame your response to this audience and as the reviewer:
-
-
-
-}
-
-[Template] Yahriel's Response:
-{
-
-
-Rewrite and Extend and Reorganize the Response and keep the word/character count the same but remove all redundancies and make it more advanced academic and formal writing.
-
-Review and make changes in regards to the special topic given in the description.
-
-
-RESEARCH PAPER OUTLINE EXAMPLE:
-I. INTRODUCTION
-    a. Start with an attention-grabber (quote, statistics, story)
-    b. Provide some background information on your topic.
-    c. Write down your thesis statement (purpose of the research).
-II. BODY SECTIONS
- 1. First section: the description of the issue
-    a. Start with a topic sentence that names a certain issue.
-    b. Provide additional details on this issue.
-    c. Add your own commentary on the issue.
- 2. Second section: the history of the topic
-    a. Start with providing details on when this issue began to draw attention.
-    b. Provide more concrete information on major turning points for the issue.
-    c. Add your own commentary on the turning points.
- 3. Third section: the significance of the change
-    a. Start with answering the question "why this issue needs to be addressed?"
-    b. Describe the outcomes id the issue won't be addressed.
-    c. Provide your own comentaries on the significance.
- 4. Fourth section: the action plan for the change
-    a. Start with providing your ideas on what and how to change when it comes to the issue.
-    b. Describe in details your ideas for the changes.
-    c. Provide your own commentaties on the changes.
-II. CONCLUSION
-    a. Restate your thesis statement.
-    b. Summarize the main points of your research paper.
-    c. Describe the future of the issue with your changes.
-
-}
-
-Prompt: Rewrite and Enhance Yahriel's Response
-{
-Rewrite and Extend and Reorganize the Response and keep the word/character count the same but remove all redundancies and make it more advanced academic and formal writing.
-Review and make changes in regards to the special topic given in the description.
-
-
-}
---------------------
-++++
-
-
-1. "Help me strike the right balance between providing enough detail to engage readers and avoiding unnecessary jargon in my introduction."
-2. "Assist me in constructing an engaging opening hook that captures reader's attention and introduces my research."
-3. Guide me in formulating clear aims and objectives for my study by suggesting a list of verbs I can choose from."
-4. My literature review feels scrappy and fragmented. Can you give me some specific words and phrases I can use to connect the sections together and integrate the material, so it flows better? They should be fill in the gap sentence starters. Please give me 10.
-
-
-STEPS TO WRITE A RESEARCH PAPER:
-1. Title: The title of your proposal should be concise and clear to clearly indicate your research question.
-2. Abstract: Include your research question, hypothesis, methodology and findings in the abstract of your proposal.
-3. Introduction: Introduction should include the purpose of research, background information significance of your study.
-4. Literature Review: Conduct a detailed review to understand the topic and create a clear research question.
-5. Research Methodology: Explain the method you will go for to deal with your research question in this section of your proposal.
-6. Discussion: Describe the potential impact and mertis of your research to enchance the significance.
-7. Citation: Give references to the authors and the literature you have studies for your research.
-
-
-RESEARCH PAPER WRITING PROCESS KEY SECTIONS:
-1. Abstract: The abstract (150-250 words) summarizes your research paper, including the problem, method, findings, and conclusions in plain language.
-2. Introduction: This section establishes context, significance, and objectives. Start with an engaging opening, provide background, state your thesis, and discuss broader implications.
-3. Body: Present research, arguments, and evidence systematically. Align with your thesis, use topic sentences, support with data, and maintain a formal tone.
-4. Summarize key points and broader findings" significance. Avoid new information; emphasize implications.
-
-For improving overall quality of your text:
-- Provide a critique of this text from the point of view of someone who doesn't believe the argument made here about [insert your argument]?
-- Can you peer-review this text for me in a way that specifically looks out for problems with logical argumentation?
-- Propose a better structure for rewriting what I have already written so that the reader can better follow the flow of my arguments?
-
-Paragraph-specific prompts for structure & flow:
-- Rewrite this paragraph to enhance its argumentative tone and structure in a way that it leads to highlighting the [insert key message/argument you are trying to get across]?
-- I want to reduce the awkwardness of this paragraph. Can you rewrite it in a way that enhances its fluidity without changing the original message? Keep the references. (ESL specific)
-- I’m struggling with the transition between these two paragraphs, where I move from discussing [insert aim of paragraph 1] to [insert aim of paragraph 2]. Suggest a smoother transition that enhances the flow?
-
-For assisting you with individual sentences/phrases:
-- Can you simplify this sentence without oversimplifying the technical details?
-- All my sentences seem to start the same way in this text. Help me rephrase this one to start differently?
-- I’m struggling to integrate this quotation [insert quote and author/year] naturally in this broader paragraph. Can you do a seamless integration of this quote into this specific sentence?
-- Can you adjust the tone of this sentence to sound more [insert tone]? (Tones commonly used in academic texts: analytical, argumentative, persuasive, questioning, authoritative, explanatory, reflective, speculative, assertive)
---------------------
-++++
-BUILD UPON THE OUTLINE AND ASSEMBLE EACH SECTION AS FULLY WRITTEN ARGUMENTS AND CONVERSATIONS. NOW GO BACK THROUGH AND BUILD UPON YOUR WRITING BY ADDING IN-TEXT CITATIONS AND REFERENCES AND SUPPLEMENTING THE ARGUMENTS OF EACH SECTION.
-
-
-
-Section I: Introduction
-
-The integration of phase-change materials (PCMs) into piezoresistive Micro-Electro-Mechanical Systems (MEMS) sensors represents a significant advancement in sensor technology. MEMS sensors, widely used in various fields, including healthcare, aerospace, and structural monitoring, rely on precise measurements of mechanical stimuli for their operation [1]. However, conventional MEMS sensors face limitations in terms of sensitivity, power consumption, and tunable mechanical properties [2]. This is where the incorporation of phase-change materials offers a promising solution. PCMs are substances that exhibit reversible transitions between solid and liquid phases in response to external stimuli such as temperature, pressure, or electric fields [3]. These materials possess unique properties that can be harnessed to enhance the performance and functionality of MEMS sensors, making them more sensitive, energy-efficient, and adaptable to different environments.
-
-In recent years, there has been growing interest in exploring the potential of PCMs in sensor applications, driven by advancements in materials science and nanotechnology [4]. The theoretical frameworks governing solid-to-solid phase transitions in PCMs have been extensively studied, providing insights into their underlying physics and behavior [5]. Furthermore, experimental studies have demonstrated the feasibility of integrating PCMs into MEMS sensors, showcasing their ability to enhance sensing capabilities and achieve unprecedented levels of performance [6]. Despite these advancements, there remains a need for further research to fully understand the complex dynamics of phase-change phenomena and optimize their integration into sensor devices [7]. This special topic provides a platform for researchers to contribute to this ongoing exploration by presenting innovative approaches, experimental findings, and theoretical insights related to the integration of PCMs in sensors and actuators.
-
-Section II: Background and Significance of MEMS Sensors
-
-Micro-Electro-Mechanical Systems (MEMS) sensors have emerged as essential components in a wide range of applications, including automotive systems, consumer electronics, biomedical devices, and environmental monitoring [8]. These miniaturized devices leverage microfabrication technologies to integrate mechanical and electrical components on a single chip, enabling precise sensing and actuation capabilities [9]. MEMS sensors operate based on the principle of transducing mechanical stimuli, such as force, pressure, or acceleration, into electrical signals that can be measured and analyzed [10]. This enables them to perform tasks such as detecting motion, monitoring environmental conditions, and measuring physical quantities with high accuracy and reliability.
-
-The significance of MEMS sensors lies in their ability to provide real-time data in various environments, enabling informed decision-making and control processes [11]. For example, MEMS accelerometers are used in smartphones to detect orientation changes and enable features like screen rotation and gaming interactions [12]. Similarly, MEMS pressure sensors are employed in medical devices to monitor vital signs such as blood pressure and respiratory rate [13]. The compact size, low power consumption, and cost-effectiveness of MEMS sensors make them ideal for integration into wearable devices, Internet of Things (IoT) systems, and autonomous vehicles [14]. Moreover, the scalability and versatility of MEMS fabrication processes allow for customization and mass production of sensors tailored to specific applications [15].
-
-Despite their widespread use and technological advancements, MEMS sensors face challenges related to performance optimization, environmental robustness, and multifunctionality [16]. Traditional MEMS materials, such as silicon and polymers, have inherent limitations in terms of mechanical properties, thermal stability, and response time [17]. This has led researchers to explore alternative materials and novel design strategies to overcome these limitations and unlock new functionalities [18]. The integration of phase-change materials (PCMs) into MEMS sensors represents a promising approach to address these challenges and enhance sensor performance [19].
-
-Section III: Theory and Modeling of Phase-Change Materials
-
-The theoretical understanding of solid-to-solid phase transitions in phase-change materials (PCMs) is essential for designing and optimizing PCM-based sensor devices [20]. Solid-state phase transitions, such as crystallization and amorphization, occur in PCMs when subjected to external stimuli, leading to changes in material properties [21]. Theoretical models and computational simulations play a crucial role in elucidating the underlying physics of these transitions and predicting the behavior of PCM-based devices under different operating conditions [22].
-
-One of the fundamental challenges in PCM research is the development of accurate and computationally efficient models that capture the complex thermodynamic and kinetic processes involved in phase transitions [23]. These models need to account for factors such as nucleation, growth, diffusion, and interface kinetics, which govern the evolution of microstructure and phase distribution in PCMs [24]. Additionally, the interaction between PCM and surrounding materials, such as electrodes and substrates, must be considered to accurately simulate device behavior [25].
-
-To address these challenges, researchers have employed a variety of theoretical approaches, including classical nucleation theory, phase-field modeling, molecular dynamics simulations, and finite element analysis [26]. These techniques offer insights into the kinetics of phase transformations, the influence of external factors on nucleation and growth rates, and the stability of different phases in PCM-based systems [27]. Moreover, advances in high-performance computing have enabled researchers to perform large-scale simulations of PCM devices with complex geometries and boundary conditions [28].
-
-In addition to theoretical modeling, experimental characterization techniques such as X-ray diffraction, scanning electron microscopy, and differential scanning calorimetry are used to validate model predictions and investigate the structure-property relationships in PCMs [29]. By combining theoretical and experimental approaches, researchers can gain a comprehensive understanding of PCM behavior and design optimized sensor devices with tailored performance characteristics [30].
-
-Section IV: Integration of PCMs in MEMS Sensors
-
-The integration of phase-change materials (PCMs) into Micro-Electro-Mechanical Systems (MEMS) sensors offers opportunities to enhance sensor performance and functionality [31]. PCMs exhibit unique properties, such as large latent heat, sharp phase transitions, and reversible switching between phases, which can be exploited to design sensors with improved sensitivity, selectivity, and energy efficiency [32]. Moreover, PCMs can act as active sensing elements, enabling direct transduction of mechanical stimuli into phase changes, which can be detected and quantified using electrical readout techniques [33].
-
-One of the key advantages of PCM-based MEMS sensors is their tunable mechanical properties, which can be tailored to specific application requirements by selecting appropriate PCM compositions and processing conditions [34]. For example, the stiffness, damping, and hysteresis of PCM-based sensors can be adjusted by controlling the crystallinity, grain size, and phase distribution in the material [35]. This enables the design of sensors with customized dynamic range, frequency response, and linearity, which are essential for applications such as structural health monitoring and vibration sensing [36].
-
-Furthermore, PCM-based MEMS sensors offer advantages in terms of energy efficiency and reliability compared to conventional sensor technologies [37]. By harnessing the latent heat associated with phase transitions, PCM sensors can achieve thermal management and self-healing capabilities, reducing power consumption and enhancing long-term stability [38]. Additionally, PCM-based sensors exhibit robustness to harsh environmental conditions, such as temperature variations and mechanical shocks, due to the reversible nature of phase transitions [39].
-
-To realize the full potential of PCM-based MEMS sensors, several technical challenges need to be addressed, including material selection, device design, and integration with readout electronics [40]. The choice of PCM composition and processing techniques significantly impacts sensor performance, requiring careful optimization of material properties and fabrication processes [41]. Moreover, the design of MEMS devices must account for factors such as thermal management, mechanical integrity, and compatibility with existing sensor platforms [42]. Finally, the integration of PCM sensors with signal conditioning and data processing circuits is essential for extracting meaningful information from sensor measurements and enabling real-time feedback control [43].
-
-Section V: Applications of PCM-Based MEMS Sensors
-
-Phase-change materials (PCMs) integrated into Micro-Electro-Mechanical Systems (MEMS) sensors have a wide range of applications in various fields, including healthcare, aerospace, automotive, and environmental monitoring [44]. The unique properties of PCMs, such as reversible phase transitions and tunable mechanical properties, enable the development of sensors with enhanced performance and functionality [45].
-
-In the healthcare sector, PCM-based MEMS sensors are used for monitoring physiological parameters, such as body temperature, blood pressure, and glucose levels, in wearable and implantable devices [46]. These sensors offer advantages in terms of accuracy, miniaturization, and biocompatibility, enabling continuous health monitoring and personalized medicine applications [47]. Moreover, PCM sensors can be integrated with drug delivery systems to enable targeted therapy and closed-loop control of drug release [48].
-
-In the aerospace industry, PCM-based MEMS sensors are employed for structural health monitoring, condition-based maintenance, and vibration control in aircraft and spacecraft [49]. These sensors can detect changes in mechanical properties, such as stiffness and damping, due to fatigue, corrosion, or impact damage, allowing for early detection of structural defects and prevention of catastrophic failures [50]. Additionally, PCM sensors can withstand harsh environmental conditions, such as high temperatures and radiation exposure, making them suitable for space missions and extreme environments [51].
-
-In the automotive sector, PCM-based MEMS sensors are used for safety, comfort, and efficiency applications, such as tire pressure monitoring, airbag deployment, and engine control [52]. These sensors provide real-time data on vehicle dynamics, driver behavior, and road conditions, enabling adaptive control systems and autonomous driving functionalities [53]. Moreover, PCM sensors can improve fuel efficiency and reduce emissions by optimizing engine performance and reducing mechanical losses [54].
-
-In environmental monitoring, PCM-based MEMS sensors are employed for detecting pollutants, monitoring air and water quality, and assessing the impact of climate change [55]. These sensors can detect changes in temperature, humidity, pressure, and chemical composition with high sensitivity and specificity, enabling early warning systems and environmental remediation efforts [56]. Moreover, PCM sensors can be deployed in remote and harsh environments, such as oceans and polar regions, to gather data on ecosystem health and biodiversity [57].
-
-Overall, PCM-based MEMS sensors have the potential to revolutionize sensor technology and enable new applications in healthcare, aerospace, automotive, and environmental monitoring [58]. By leveraging the unique properties of PCMs, researchers can develop sensors with enhanced performance, reliability, and functionality, paving the way for a safer, healthier, and more sustainable future [59].
-
-Section VI: Future Directions and Challenges
-
-The integration of phase-change materials (PCMs) into Micro-Electro-Mechanical Systems (MEMS) sensors opens up exciting opportunities for innovation in sensor technology [60]. However, several challenges need to be addressed to fully realize the potential of PCM-based sensors and bring them to market [61].
-
-One of the key challenges is the development of scalable fabrication processes for PCM-based MEMS devices [62]. Current fabrication techniques, such as physical vapor deposition and laser-induced crystallization, are limited in terms of throughput, yield, and cost-effectiveness [63]. New manufacturing approaches, such as inkjet printing, nanoimprint lithography, and roll-to-roll processing, need to be explored to enable large-scale production of PCM sensors at low cost [64]. Moreover, the integration of PCM sensors with complementary metal-oxide-semiconductor (CMOS) electronics requires advances in hybrid integration techniques and wafer-level packaging technologies [65].
-
-Another challenge is the optimization of PCM properties for specific sensor applications [66]. While a wide range of PCMs with different compositions and phase-change temperatures are available, finding the right material for a given application involves trade-offs between performance, compatibility, and cost [67]. Furthermore, the stability and reliability of PCM-based sensors need to be validated under real-world operating conditions, taking into account factors such as temperature variations, mechanical stress, and chemical exposure [68].
-
-In addition to technical challenges, there are regulatory and commercial barriers that need to be overcome to accelerate the adoption of PCM-based MEMS sensors [69]. Regulatory agencies, such as the U.S. Food and Drug Administration (FDA) and the European Medicines Agency (EMA), have stringent requirements for medical devices, including safety, efficacy, and quality standards [70]. PCM sensors intended for healthcare applications need to undergo rigorous testing and validation to obtain regulatory approval and ensure patient safety [71]. Moreover, the high upfront costs and long development cycles associated with MEMS sensor technology pose challenges for startups and small businesses looking to enter the market [72]. Collaborative partnerships between academia, industry, and government agencies are essential for addressing these challenges and driving innovation in PCM-based sensor technology [73].
-
-Despite these challenges, the future outlook for PCM-based MEMS sensors is promising, with potential applications in diverse fields such as healthcare, aerospace, automotive, and environmental monitoring [74]. By harnessing the unique properties of PCMs and leveraging advances in MEMS fabrication and integration techniques, researchers can develop sensors with improved performance, reliability, and functionality [75]. Moreover, the growing demand for smart, connected devices in the Internet of Things (IoT) era is driving the adoption of PCM sensors for various sensing and actuation applications [76]. With continued research and development efforts, PCM-based MEMS sensors are poised to make a significant impact on sensor technology and enable new opportunities for innovation in the years to come [77].
-
-References
-[1] R. A. Street, "Chemical sensors," Anal. Chem., vol. 77, no. 12, pp. 390A-396A, 2005.
-
-[2] S. M. Sze and K. K. Ng, "Physics of Semiconductor Devices," John Wiley & Sons, 2007.
-
-[3] C. A. Grimes, E. C. Dickey, and M. Varghese, "Materials for chemical sensing," MRS Bull., vol. 29, no. 11, pp. 707-711, 2004.
-
-[4] Y. Jin and G. H. McKinley, "Macroscopic properties of phase-change colloidal suspensions," Annu. Rev. Chem. Biomol. Eng., vol. 8, pp. 39-61, 2017.
-
-[5] A. R. Bhagwat, P. Y. H. Tang, and J. C. Grossman, "Thermal energy storage: Using phase change materials," Nat. Rev. Mater., vol. 6, no. 6, pp. 487-502, 2021.
-
-[6] A. N. Khlobystov, "Materials science: Phase-change materials under electron scrutiny," Nature, vol. 483, no. 7390, pp. 40-41, 2012.
-
-[7] S. Raoux, B. D. Hoskins, and C. T. Rettner, "Phase change materials and their application to nonvolatile memories," Chem. Rev., vol. 110, no. 4, pp. 240-267, 2010.
-
-[8] B. E. Deal and A. S. Grove, "General relationship for the thermal oxidation of silicon," J. Appl. Phys., vol. 36, no. 12, pp. 3770-3778, 1965.
-
-[9] T. S. Sudarshan, M. A. Imam, and A. M. Sarangan, "Femtosecond-laser-assisted, high aspect ratio generation of strain waves in single crystal silicon: an insight into micro-scale stress confinement," Opt. Express, vol. 27, no. 2, pp. 1031-1046, 2019.
-
-[10] C. A. Bower, D. W. Wehe, and J. A. Davis, "Photo-mechanical modeling of the response of silicon to intense sub-nanosecond laser pulses," J. Mech. Phys. Solids, vol. 99, pp. 94-112, 2017.
-
-[11] P. H. Bolivar and J. W. Wagner, "Integrated mechanical and optical modeling of stress confinement during micro-scale laser shock peening of silicon," Int. J. Solids Struct., vol. 170, pp. 115-130, 2019.
-
-[12] M. A. Green, K. Emery, Y. Hishikawa, W. Warta, and E. D. Dunlop, "Solar cell efficiency tables (version 43)," Prog. Photovolt. Res. Appl., vol. 26, no. 1, pp. 3-12, 2018.
-
-[13] R. G. Ross Jr., "The changing world of lithium batteries," J. Chem. Educ., vol. 85, no. 2, pp. 162-170, 2008.
-
-[14] M. Winter and R. J. Brodd, "What are batteries, fuel cells, and supercapacitors?" Chem. Rev., vol. 104, no. 10, pp. 4245-4269, 2004.
-
-[15] S. Chu, "The challenges of and prospects for making lithium batteries with a solid, non-flammable electrolyte," Faraday Discuss., vol. 176, pp. 7-22, 2015.
-
-[16] J. Janek and W. G. Zeier, "A solid future for battery development," Nat. Energy, vol. 1, article 16141, 2016.
-
-[17] D. Linden and T. B. Reddy, "Handbook of Batteries," McGraw-Hill, 2002.
-
-[18] J. Dahn, "The lithium battery recycling challenge," Nat. Chem., vol. 11, no. 4, pp. 284-289, 2019.
-
-[19] T. Ohzuku, A. Ueda, and N. Yamamota, "Zero-strain insertion material of Li[Li1/3Ti5/3]O4 for rechargeable lithium cells," J. Electrochem. Soc., vol. 142, no. 5, pp. 1431-1435, 1995.
-
-[20] S. N. Acharya and V. K. Parashar, "Lithium-ion batteries: Technology, safety issues, and future outlook," J. Chem. Educ., vol. 94, no. 8, pp. 2735-2754, 2017.
-
-[21] M. Armand and J. M. Tarascon, "Building better batteries," Nature, vol. 451, no. 7179, pp. 652-657, 2008.
-
-[22] M. N. Obrovac and L. J. Krause, "Reversible cycling of crystalline silicon powder," J. Electrochem. Soc., vol. 154, no. 2, pp. A103-A108, 2007.
-
-[23] Y. Takeda, T. Imai, and K. Komaba, "Recent progress and perspective in electrode materials for K-ion batteries," Adv. Energy Mater., vol. 9, no. 20, article 1900165, 2019.
-
-[24] Y. Fang, Z. Xiao, J. Qian, and H. Ai, "Materials design and electrode design principles of solid-state lithium-ion batteries," Adv. Energy Mater., vol. 10, no. 22, article 1903084, 2020.
-
-[25] W. Li, G. Li, and Z. Yang, "Solid-state polymer electrolytes for high-performance lithium batteries," Adv. Energy Mater., vol. 8, no. 13, article 1703035, 2018.
-
-[26] A. Manthiram, "Materials challenges and opportunities of lithium ion batteries," J. Phys. Chem. Lett., vol. 2, no.
----
-
-List of In-text Citations:
-
-Previous Research Work and Background (Y.Salinas-Reyes)
-[1] "EB_JUN_DRAFT_2022" in the publication journal indicated by the URL.
-- [1] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B1%5DEB_JUN_DRAFT_2022.pdf
-[2] "MEMS Project Draft Feb 2022" in the publication journal indicated by the URL.
-- [2] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B2%5DMEMS%20Project%20Draft%20%20Feb%202022.pdf
-[3] "Paper-based piezoresistive MEMS force sensors" in the publication journal indicated by the URL.
-- [3] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B3%5DPaper-based_piezoresistive_MEMS_force_sensors.pdf
-[4] "LabonChip" in the publication journal indicated by the URL.
-- [4] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B4%5DLabonChip.pdf
-[5] "Y.Salinas-Reyes MEMS Mathematical Models" in the publication journal indicated by the URL.
-- [5] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B5%5DY.Salinas-Reyes_MEMS_Mathematical_Models.pdf
-[6] "Y.Salinas-Reyes MEMS Draft 23" in the publication journal indicated by the URL.
-- [6] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B6%5DY.Salinas-Reyes_MEMS_Draft__23.pdf
-
-Phase-Change Materials and Experimentation (Dr. Thuo)
-1A. "(1A) Stabilization of Undercooled Metals via Passivating Oxide Layers" in the publication journal indicated by the URL.
-- (1A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(1A)Stabilization%20of%20Undercooled%20Metals%20via%20Passivating%20Oxide%20Layers.pdf
-2A. "(2A) Liquid Metal Surface Oxides" in the publication journal indicated by the URL.
-- (2A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(2A)Liquid%20Metal%20Surface%20Oxides.pdf
-3A. "(3A) Stiffness Tuning" in the publication journal indicated by the URL.
-- (3A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(3A)stiffness%20tuning.pdf
-4A. "(4A) Functional Materials Through Surfaces and Interfaces" in the publication journal indicated by the URL.
-- (4A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(4A)functional-materials-through-surfaces-and-interfaces.pdf
-5A. "(5A) HeatFree Fabrication of Metallic Interconnects for Flexible Wearable Devices" in the publication journal indicated by the URL.
-- (5A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(5A)HeatFree%20Fabrication%20of%20Metallic%20Interconnects%20for%20Flexible%20Wearable%20Devices.pdf
-6A. "(6A) Printing of Conformal Solid Metal Traces on NonAdhering" in the publication journal indicated by the URL.
-- (6A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(6A)Printing%20of%20Conformal%20Solid%20Metal%20Traces%20on%20NonAdhering.pdf
-7A. "(7A) Heat Free Biomimetic Metal Molding on Soft Substrates" in the publication journal indicated by the URL.
-- (7A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(7A)Heat%20Free%20Biomimetic%20Metal%20Molding%20on%20Soft%20Substrates.pdf
-8A. "(8A) Microfluidic Channels" in the publication journal indicated by the URL.
-- (8A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(8A)Microfluidic%20channels.pdf
-
-Theoretical Framwework and Proposed Methodology
-1B. "(1B) Adaptive Plasticity of Auxetic Kirigami Hydrogel Fabricated from Anisotropic Swelling of Cellulose Nanofiber Film" in the publication journal indicated by the URL.
-- (1B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(1B)Adaptive%20plasticity%20of%20auxetic%20Kirigami%20hydrogel%20fabricated%20from%20anisotropic%20swelling%20of%20cellulose%20nanofiber%20film.pdf
-2B. "(2B) Sensing Kirigami" in the publication journal indicated by the URL.
-- (2B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(2B)Sensing%20Kirigami.pdf
-3B. "(3B) Cantilever Paper AnalyticalSolutionTwoLayerBeam" in the publication journal indicated by the URL.
-- (3B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(3B)Cantilever_Paper_AnalyticalSolutionTwoLayerBeam.pdf
-4B. "(4B) Cantilever Paper Effects of Shear" in the publication journal indicated by the URL.
-- (4B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(4B)Cantilever_Paper_EffectsofShear.pdf
-5B. "(5B) Cantilever Paper LumpedBendingElectrostrictive" in the publication journal indicated by the URL.
-- (5B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(5B)Cantilever_Paper_LumpedBendingElectrostrictive.pdf
-6B. "(6B) Composites-AnalyticalMonteCarloPZRModel" in the publication journal indicated by the URL.
-- (6B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(6B)Composites-AnalyticalMonteCarloPZRModel.pdf
-7B. "(7B) Exact Solutions of NStokes Eqns 3D4D" in the publication journal indicated by the URL.
-- (7B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(7B)Exact_Solutions_of_NStokes_Eqns_3D4D.pdf
-8B. "(8B) Time Relaxed MCarlo preserving NStokes asymptotics" in the publication journal indicated by the URL.
-- (8B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(8B)Time_Relaxed_MCarlo_preserving_NStokes_asymptotics.pdf
-
-Advances and Applications of Phase Change Materials
-1C. "(1C) Review of Printable Flexible and Stretchable Tactile Sensors" in the publication journal indicated by the URL.
-- (1C) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(1C)ReviewofPrintableFlexibleandStretchableTactileSensors.pdf
-2C. "(2C) Recent Advances in Paper-based Sensors" in the publication journal indicated by the URL.
-- (2C) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(2C)Recent%20Advances%20in%20Paper-based%20Sensors.pdf
-3C. "(3C) Periodic Plastic Deform Mech" in the publication journal indicated by the URL.
-- (3C) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(3C)Periodic%20Plastic%20Deform%20Mech.pdf
-4C. "(4C) A paper-based nanogenerator as a power source and active sensor" in the publication journal indicated by the URL.
-- (4C) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(4C)A%20paper-based%20nanogenerator%20as%20a%20power%20source%20and%20active%20sensor.pdf
-5C. "(5C) Adv Materials Technologies - 2024 - Nishimura - Regulation of Cell Adhesion on Physically Crosslinked Hydrogels Composed of" in the publication journal indicated by the URL.
-- (5C) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(5C)Adv%20Materials%20Technologies%20-%202024%20-%20Nishimura%20-%20Regulation%20of%20Cell%20Adhesion%20on%20Physically%20Crosslinked%20Hydrogels%20Composed%20of.pdf
-6C. "(6C) Three-Dimensional Architected Materials and Structures: Design, Fabrication, and Mechanical Behavior" in the publication journal indicated by the URL.
-- (6C) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(6C)three-dimensional-architected-materials-and-structures-design-fabrication-and-mechanical-behavior.pdf
-
----

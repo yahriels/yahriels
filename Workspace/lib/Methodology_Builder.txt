@@ -1,23 +1,3 @@
-GIVE ME ONLY THE FINAL REWRITTEN ENHANCED EXTENDED METHODOLOGY WITH IN-TEXT CITATIONS AND REFERENCES ADDED!!
-BUILD UPON THE OUTLINE AND ASSEMBLE EACH SECTION AS FULLY WRITTEN ARGUMENTS AND CONVERSATIONS. NOW GO BACK THROUGH AND BUILD UPON YOUR WRITING BY ADDING IN-TEXT CITATIONS AND REFERENCES AND SUPPLEMENTING THE ARGUMENTS OF EACH SECTION.
-----
-
-SPECIAL TOPIC: Phase-change Materials and Their Applications
-CONTRIBUTE TO THIS SPECIAL TOPIC
-A better understanding of phase-change materials facilitates optimal design, and their strategic integration in devices/systems helps reach new theoretical limits that are intrinsic to more traditional materials. This broad field encompasses multiple phenomena and different operational principles, which have been cleverly used for demonstrating technological advantages. However, the underlying physics of some phase-change materials is yet to be fully understood, casting a shadow on the full potential of devices/systems relying on phase-change materials. This special topic welcomes contributions that demonstrate the integration of phase-change materials into sensors and actuators that exploit their multifunctionality, and fundamental studies that help understand them
-
-Topics covered include, but are not limited to:
-- Theory, modeling and simulation of solid-to-solid phase transitions
-- Implementation of phase-change materials in memory devices and systems
-- Integration of phase-change materials in energy efficient buildings and smart textiles
-- Dielectrics, Ferroelectrics, and multiferroics
-- Applications and integration of solid-liquid phase transitions
-- Thin films, interfaces, and surfaces
-
-
-Lead the paper into a discussion of the Special Topic:
-"This Special Topic welcomes contributions that demonstrate the integration of phase-change materials into sensors and actuators that exploit their multifunctionality, and fundamental studies that help understand them."
-
 
 --------------------
 Special Topic Call for Papers: https://publishing.aip.org/publications/journals/special-topics/jap/phase-change-materials-and-their-applications/?Track=&utm_source=AIP%20Publishing&utm_medium=email&utm_campaign=14252243_JAP_Phase-change%20Materials%20and%20Their%20Applications_%20CFP_December%202023&dm_i=1XPS,8HH3N,A81PSD,Z2E70,1
@@ -36,6 +16,10 @@ To address the research objectives, the study employed a comparative approach. F
 Furthermore, the characteristics of the sensors were extensively analyzed. This included studying their electrical properties, mechanical stability, and sensitivity to external forces. Special attention was given to the differences arising from the integration of PCM thin film electrodes, such as phase transition behavior and thermal properties.
 In terms of performance evaluation, experimental tests were conducted to measure the response of both types of sensors to varying force inputs. This involved utilizing specialized test setups and measurement equipment to capture relevant data. Additionally, statistical analyses were performed to compare the performance metrics of the two sensor configurations.
 The results of the study revealed significant differences between the sensors equipped with PCM thin film electrodes and those with conventional silver paste electrodes. Detailed analyses, including tables and consideration of covariates, demonstrated the distinct characteristics and performance profiles of each sensor type.
+\section{Materials and Methods}
+Using a multi-meter (D.C.), or alternatively, oscilloscope (A.C.) a voltage signal is supplied with a camera recording beam-tip position (Z).
+Image and signal processing were carried out to study electrical-mechanical behaviors that are encountered under ambient loads by varying form factors.
+The Piezoresistive Strain Gauge is bonded along a fixed-free cantilevered beam that is in-contact with a voltage-measurement system while subjected to mechanical stimuli (Beam-Body Deflection). 
 \subsection{Device Fabrication}
 In fabricating a paper-based 
 sensor, a precise, programmable paper cutter 
@@ -74,6 +58,7 @@ piezoresistive sensor which is illustrated as a
 calibration curve of the output voltage of the Wheatstone 
 bridge circuit as a function of the applied force. 
 \subsection{Electrical Characterization}
+Piezoresistor (PZR) Sensor Calibration Method. The Wheatstone Bridge is balanced using a single potentiometer where the PZR strain gauge is treated as the variable resistor. The power signal output is amplified using an instrumentation amplifier (INA) and the spectral content of the power or noise signal is measured using a signal analyzer function. The signal is analyzed alternatively by passing the signal through an antialiasing filter, sampled with an analog-to-digital converter (ADC) and analyzed using the fast Fourier transform (FFT) method. The VBridge input into the wheatstone bridge was subject to DC (Direct Current) and AC (Alternating Current) bias throughout the measurements. The electro-mechanical coupling of the measurement system is accomplished through the PZR strain gauge bonded to the top surface of the table-top or cantilever beam. 
 Electrical characterization was performed using two Keithley
 2400 Source Measuring Units attached to a probe station with a
 grounded and movable stage. Film resistivity was determined by measuring the
@@ -109,7 +94,7 @@ the beam was deflection was varied from 0mm to 20 mm in 5 mm increments. The
 experimental control was the ohmic response (I-V curve data) a reference 100kohm 
 resistor. 
 \subsection{Damping Mechanisms of Tip-Mass Piezoelectric System}
-[1] "EB_JUN_DRAFT_2022" in the publication journal indicated by the URL.
+[1] "EB_JUN_DRAFT_2022" 
 - [1] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B1%5DEB_JUN_DRAFT_2022.pdf
 By employing the Lumped model of bending electrostrictive transducers for energy harvesting, previous experimentation of damping mechanisms of a tip-mass piezoelectric system can be considered toward the piezoresistor force sensor system to develop a theoretical-numerical model for uniaxial loading (excitation). 
 Theory of a tip-mass piezoelectric system can now be translated to a cantilevered piezoresistive system to study electromechanical and electrostrictive effects by applying similar boundary conditions and assumptions. 
@@ -119,12 +104,8 @@ Here we characterize the damping response from a commercial piezoelectric transd
  it is subjected to free-vibrations. The problem under study is an electromechanical problem and
  hence a combination of dimensionless parameters including the natural frequency of the system,
  are used to study and understand the damping characteristics of the tip-mass-piezoelectric system.
- Rectangular prisms with varying aspect ratios(0.5-3.0) are loaded onto two exible piezoelectric
- transducers rendering the setup to resemble a cantilever tip-mass system.To directly visualize the
- e ect of tip displacement on the voltage generated, high-speed imaging studies of the cantilever are
- performed in addition to separate measurements of the voltage response using an oscilloscope. In
- this paper, we will discuss how these results can further studies into the development of e cient
- energy harvesters.
+ To directly visualize the tip displacement on the voltage generated, high-speed imaging studies of the cantilever are
+ performed in addition to separate measurements of the voltage response using an oscilloscope. 
 \subsection{Sensing Kirigami Principles}
 By employing programmable lasercutters and papercutters, we can adjust the mechanical properties of the paper substrate by applying principles of sensing kirigami.
 Paper is a modest material with rich affordances for craft and design. 
@@ -141,13 +122,19 @@ affected by folding and bending. We investigated two types of paper for
 sensing tangible interactions and harnessed insights gained from them 
 to inform three design propositions—tangible interfaces that range  
 from part to product.
-2B. "(2B) Sensing Kirigami" in the publication journal indicated by the URL.
+2B. "(2B) Sensing Kirigami" 
 - (2B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(2B)Sensing%20Kirigami.pdf
-1B. "(1B) Adaptive Plasticity of Auxetic Kirigami Hydrogel Fabricated from Anisotropic Swelling of Cellulose Nanofiber Film" in the publication journal indicated by the URL.
+1B. "(1B) Adaptive Plasticity of Auxetic Kirigami Hydrogel Fabricated from Anisotropic Swelling of Cellulose Nanofiber Film" 
 - (1B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(1B)Adaptive%20plasticity%20of%20auxetic%20Kirigami%20hydrogel%20fabricated%20from%20anisotropic%20swelling%20of%20cellulose%20nanofiber%20film.pdf
 
-\subsection{Theoretical Underpinnings:}
+\subsection{Theoretical Underpinnings:Theorems and Analytical Solutions}
+To construct our ideal model, we make a number of assumptions and assume ideal conditions in all aspects of the experiment. The sensor therefore is a finite cantilevered beam with fixed-free boundary conditions and uniaxial loading (or excitation) on the top surface-place. Assuming an ideal thermo-mechanical system, the response to work-energy input on the MEMS is recorded as total deformation of the body $\varepsilon$ and dimensionless power signal $R^*$. Therefore we define our principal axes in Fig [4] where longitudinal (beam-wise) strain $\varepsilon_x$ is measured as well as lateral strain $\varepsilon_y$. The degree of deformation (i.e. Polarization) at a plane/spot is the total body deformation $\delta \propto \varepsilon$ and surface slope of $\theta$. Equation [15] is a spot deflection approximation where the third term is the dynamic deflection coefficient of the surface $(\frac{Q}{\omega_n^3})^{1/2}$ and the Power Spectral Density (PSD) at the natural frequency for the ladder calculated from $\phi(t)$.
 Based on the experimental set-up, there are several models of analytical solutions for a cantilevered paper piezoresistor that we can draw inspiration from including a lumped electrostrictive model for a bending transducer, an analytical solution for a two layer beam including a timoshenko, a analytical solution for interlayer slip and effects of shear in a cantilevered paper beam, and finally a composites-computaional Monte Carlo method for simulating piezoresistance with a geometrical-analytical solution.
+To construct our ideal model piezoresistivity and investigate electrostrictive effects, we make a number of assumptions and assume ideal conditions
+ in all aspects of the experiment. The sensor therefore is a finite cantilevered beam with
+ fixed-free boundary conditions and uniaxial loading (or excitation) on the top surface-place.
+ Assuming an ideal thermo-mechanical system, the response to work-energy input on the
+ MEMS is recorded as total deformation of the body recorded by the feedback signal which is related to the relative resistance change.
 3B. "(3B) Cantilever Paper AnalyticalSolutionTwoLayerBeam" 
 - (3B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(3B)Cantilever_Paper_AnalyticalSolutionTwoLayerBeam.pdf
 4B. "(4B) Cantilever Paper Effects of Shear" 
@@ -158,12 +145,6 @@ Based on the experimental set-up, there are several models of analytical solutio
 - (6B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(6B)Composites-AnalyticalMonteCarloPZRModel.pdf
 
 
-\subsection{Theorems and Analytical Solutions}
-To construct our ideal model piezoresistivity and investigate electrostrictive effects, we make a number of assumptions and assume ideal conditions
- in all aspects of the experiment. The sensor therefore is a finite cantilevered beam with
- fixed-free boundary conditions and uniaxial loading (or excitation) on the top surface-place.
- Assuming an ideal thermo-mechanical system, the response to work-energy input on the
- MEMS is recorded as total deformation of the body recorded by the feedback signal which is related to the relative resistance change.
 
 ++++
 
@@ -251,11 +232,7 @@ and/or that are available into the [Draft] for Yahriel Salinas-Reyes. [Draft] of
 
 Review Criteria Details: 
 { 
-----
-Read all materials (a few times, without distractions). Prepare a task list with deadlines to perform the Executive Tasks then 
-complete the tasks. Understand how application components and each item requested relate to 
-the review criteria. 
-----
+
 Feedback and Corrections:
 
 - Ensure that each section provides sufficient detail to engage the audience while maintaining clarity and coherence.
@@ -278,7 +255,7 @@ Overall, focus on making your paper clear, compelling, and impactful, highlighti
 
 SAMPLES: 
 { 
-Read over these samples 11 times with no distractions, and comprehend everything given in these materials, documents, and links. These are related to the research project and thesis. Then Move on to the next section and task. Cite them as given as in-text citations.
+Read over these samples 11 times with no distractions, and comprehend everything given in these materials, documents, and links. These are related to the research project and thesis and incorporate them into the response. Then Move on to the next section and task. Cite them as given as in-text citations.
 
 
 Phase-Change Materials and Experimentation (Dr. Thuo)

@@ -43,35 +43,35 @@ In an era characterized by rapid technological advancements, the integration of 
 This research investigates the integration of phase-change materials into piezoresistive MEMS sensors, aiming to enhance their performance and functionality through a comprehensive exploration of theoretical frameworks, experimental methodologies, and potential applications in various fields.
 \end{quotation}
 Previous Research Work and Background (Y.Salinas-Reyes)
-[1] "EB_JUN_DRAFT_2022" in the publication journal indicated by the URL.
+[1] "EB_JUN_DRAFT_2022" 
 - [1] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B1%5DEB_JUN_DRAFT_2022.pdf
-[2] "MEMS Project Draft Feb 2022" in the publication journal indicated by the URL.
+[2] "MEMS Project Draft Feb 2022" 
 - [2] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B2%5DMEMS%20Project%20Draft%20%20Feb%202022.pdf
-[3] "Paper-based piezoresistive MEMS force sensors" in the publication journal indicated by the URL.
+[3] "Paper-based piezoresistive MEMS force sensors" 
 - [3] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B3%5DPaper-based_piezoresistive_MEMS_force_sensors.pdf
-[4] "LabonChip" in the publication journal indicated by the URL.
+[4] "LabonChip" 
 - [4] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B4%5DLabonChip.pdf
-[5] "Y.Salinas-Reyes MEMS Mathematical Models" in the publication journal indicated by the URL.
+[5] "Y.Salinas-Reyes MEMS Mathematical Models" 
 - [5] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B5%5DY.Salinas-Reyes_MEMS_Mathematical_Models.pdf
-[6] "Y.Salinas-Reyes MEMS Draft 23" in the publication journal indicated by the URL.
+[6] "Y.Salinas-Reyes MEMS Draft 23" 
 - [6] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B6%5DY.Salinas-Reyes_MEMS_Draft__23.pdf
 \section{Introduction:}
 Phase-Change Materials and Experimentation (Dr. Thuo)
-1A. "(1A) Stabilization of Undercooled Metals via Passivating Oxide Layers" in the publication journal indicated by the URL.
+1A. "(1A) Stabilization of Undercooled Metals via Passivating Oxide Layers" 
 - (1A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(1A)Stabilization%20of%20Undercooled%20Metals%20via%20Passivating%20Oxide%20Layers.pdf
-2A. "(2A) Liquid Metal Surface Oxides" in the publication journal indicated by the URL.
+2A. "(2A) Liquid Metal Surface Oxides" 
 - (2A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(2A)Liquid%20Metal%20Surface%20Oxides.pdf
-3A. "(3A) Stiffness Tuning" in the publication journal indicated by the URL.
+3A. "(3A) Stiffness Tuning" 
 - (3A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(3A)stiffness%20tuning.pdf
-4A. "(4A) Functional Materials Through Surfaces and Interfaces" in the publication journal indicated by the URL.
+4A. "(4A) Functional Materials Through Surfaces and Interfaces" 
 - (4A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(4A)functional-materials-through-surfaces-and-interfaces.pdf
-5A. "(5A) HeatFree Fabrication of Metallic Interconnects for Flexible Wearable Devices" in the publication journal indicated by the URL.
+5A. "(5A) HeatFree Fabrication of Metallic Interconnects for Flexible Wearable Devices" 
 - (5A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(5A)HeatFree%20Fabrication%20of%20Metallic%20Interconnects%20for%20Flexible%20Wearable%20Devices.pdf
-6A. "(6A) Printing of Conformal Solid Metal Traces on NonAdhering" in the publication journal indicated by the URL.
+6A. "(6A) Printing of Conformal Solid Metal Traces on NonAdhering" 
 - (6A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(6A)Printing%20of%20Conformal%20Solid%20Metal%20Traces%20on%20NonAdhering.pdf
-7A. "(7A) Heat Free Biomimetic Metal Molding on Soft Substrates" in the publication journal indicated by the URL.
+7A. "(7A) Heat Free Biomimetic Metal Molding on Soft Substrates" 
 - (7A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(7A)Heat%20Free%20Biomimetic%20Metal%20Molding%20on%20Soft%20Substrates.pdf
-8A. "(8A) Microfluidic Channels" in the publication journal indicated by the URL.
+8A. "(8A) Microfluidic Channels" 
 - (8A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(8A)Microfluidic%20channels.pdf
 Interest in synthetic composite materials has garnered significant attention largely due to their high specific properties, tunable functionalities, and potential to incorporate advanced responsive behaviors. Recent advances have largely focused on stimuli-responsive composites, which exhibit tunable properties when subjected to a specified trigger. Such materials have been applied as sensors, actuators, and platforms for multifunctional devices. Mechanically reconfigurable parts are especially critical in soft robotics and analogous functional devices, whereby adaptive components are essential for controlled locomotion, actuation, stiffness tuning, and as deployable components. In particular, initially soft materials that can dramatically increase in rigidity and be programmed into desired shapes can be utilized in fields ranging from soft and bio-inspired robotics to reconfigurable and wearable electronics. Several forms of activation have been applied in responsive composites, and common examples include temperature, electromagnetic radiation, as well as electric and magnetic fields. Recent developments in smart responsive composites have utilized various stimuli including heat, light, solvents, electricity, and magnetic fields to induce a change in material properties. Here, we report a thermodynamically driven mechanically responsive composite, exploiting irreversible phase-transformation (relaxation) of metastable undercooled liquid metal core-shell particle fillers. Thermal and mechanical analysis reveals that as the composite is deformed, the particles transform from individual liquid droplets to a solid metal network, resulting in a 300 percent increase in Young’s modulus. In contrast to previous phase change materials, this dramatic change in stiffness occurs autonomously under deformation, is insensitive to environmental conditions, and does not require external energy sources such as heat, light, or electricity. We demonstrate the utility of this approach by transforming a flat, flexible biocomposite strip of cellulose paper, into a highly efficient and disposable piezoresistor that is highly sensitive, also referred to as Quantum Tunnelling Composites (QTCs).
 The integration of phase-change materials (PCMs) into piezoresistive Micro-Electro-Mechanical Systems (MEMS) sensors holds promise for significantly enhancing their performance and functionality. This paper delves into the theoretical foundations and practical applications of PCM-enhanced MEMS sensors, focusing particularly on optimizing sensor design and fabrication processes. For the duration of this study, the focus was in synthesizing biocomposites with cellulose-based paper with heat-free fabrication processes. Printing of Conformal Solid Metal Traces on Non-Adhering Biological Surfaces offers a pathway to heat-free metal processing. As Metals and organics possess two very dissimilar surface energies, hence, do not naturally adhere to each other. This incompatibility is exacerbated by surface roughness yet advances in wearables and bioelectronics call for their integration. Mesoscale mechanical bonds, however, transcend the necessities of surface energy matching while taking advantage of surface texture. By conducting a thorough investigation on PCMs, MEMS sensors, and solid-to-solid phase transitions, this research aims to shed light on the transformative potential of PCMs in sensor technology. The utilization of PCMs offers the prospect of tunable mechanical properties, heightened sensitivity, and reduced power consumption, thereby revolutionizing sensor applications across various domains such as healthcare, aerospace, and structural monitoring. Dr. Thuo's Stabilization of Undercooled Metals via Passivating Oxide Layers relies on frustration of liquid solid transition mainly by an increase in activation energy. This study not only contributes to academic knowledge but also holds implications for real-world technological advancements.
@@ -79,19 +79,19 @@ The integration of phase-change materials (PCMs) into piezoresistive Micro-Elect
 The utilization of PCMs offers the prospect of tunable mechanical properties, heightened sensitivity, and reduced power consumption, thereby revolutionizing sensor applications across various domains such as soft robotics, flexible/wearable devices, and heat-free metal tracing. Dr. Thuo's perspective on Functional Materials through Surfaces grants insights into Interfaces  Heat-Free Biomimetic Metal Molding on Soft Substrates. This study not only contributes to academic knowledge but also holds implications for real-world technological advancements as well as biomedical applications. By exploiting the benefits of these undercooled core-shell particles in association with piezoresistive micro electromechanical systems (MEMS), the presented design creates an elegant high efficiency, frugal sensor technology. In comparison to intricate electronics designs, piezoresistive MEMS devices simply create connections between mechanical stimuli and resistivity via the piezoresistive effect. Note that the main argument of this paper lies in exploiting the differences between paper-based MEMS utilizing silver paste (Control), and emphasizing the benefits of introducing this phase-change materials into a new MEMS Design.
 The successful integration of phase-change materials into MEMS sensors is a testament to the interdisciplinary nature of modern research, bridging the gap between materials science, mechanical engineering, and electronics. By harnessing the unique properties of PCMs, such as their reversible solid-state transitions, researchers have unlocked new avenues for developing sensors with unprecedented sensitivity and functionality. This innovative approach holds promise for a wide range of applications, from healthcare monitoring to environmental sensing and beyond. As researchers continue to explore the potential of PCM-enhanced MEMS sensors, we can expect to see further advancements in sensor technology, paving the way for smarter, more efficient devices in the years to come.
 Research Direction
-2B. "(2B) Sensing Kirigami" in the publication journal indicated by the URL.
+2B. "(2B) Sensing Kirigami" 
 - (2B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(2B)Sensing%20Kirigami.pdf
-3B. "(3B) Cantilever Paper AnalyticalSolutionTwoLayerBeam" in the publication journal indicated by the URL.
+3B. "(3B) Cantilever Paper AnalyticalSolutionTwoLayerBeam" 
 - (3B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(3B)Cantilever_Paper_AnalyticalSolutionTwoLayerBeam.pdf
-4B. "(4B) Cantilever Paper Effects of Shear" in the publication journal indicated by the URL.
+4B. "(4B) Cantilever Paper Effects of Shear" 
 - (4B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(4B)Cantilever_Paper_EffectsofShear.pdf
-5B. "(5B) Cantilever Paper LumpedBendingElectrostrictive" in the publication journal indicated by the URL.
+5B. "(5B) Cantilever Paper LumpedBendingElectrostrictive" 
 - (5B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(5B)Cantilever_Paper_LumpedBendingElectrostrictive.pdf
-6B. "(6B) Composites-AnalyticalMonteCarloPZRModel" in the publication journal indicated by the URL.
+6B. "(6B) Composites-AnalyticalMonteCarloPZRModel" 
 - (6B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(6B)Composites-AnalyticalMonteCarloPZRModel.pdf
-7B. "(7B) Exact Solutions of NStokes Eqns 3D4D" in the publication journal indicated by the URL.
+7B. "(7B) Exact Solutions of NStokes Eqns 3D4D" 
 - (7B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(7B)Exact_Solutions_of_NStokes_Eqns_3D4D.pdf
-8B. "(8B) Time Relaxed MCarlo preserving NStokes asymptotics" in the publication journal indicated by the URL.
+8B. "(8B) Time Relaxed MCarlo preserving NStokes asymptotics" 
 - (8B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(8B)Time_Relaxed_MCarlo_preserving_NStokes_asymptotics.pdf
 
 ++++
@@ -210,53 +210,53 @@ SAMPLES:
 Read over these samples 11 times with no distractions, and comprehend everything given in these materials, documents, and links. These are related to the research project and thesis. Then Move on to the next section and task. Cite them as given as in-text citations.
 
 Phase-Change Materials and Experimentation (Dr. Thuo)
-1A. "(1A) Stabilization of Undercooled Metals via Passivating Oxide Layers" in the publication journal indicated by the URL.
+1A. "(1A) Stabilization of Undercooled Metals via Passivating Oxide Layers" 
 - (1A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(1A)Stabilization%20of%20Undercooled%20Metals%20via%20Passivating%20Oxide%20Layers.pdf
-2A. "(2A) Liquid Metal Surface Oxides" in the publication journal indicated by the URL.
+2A. "(2A) Liquid Metal Surface Oxides" 
 - (2A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(2A)Liquid%20Metal%20Surface%20Oxides.pdf
-3A. "(3A) Stiffness Tuning" in the publication journal indicated by the URL.
+3A. "(3A) Stiffness Tuning" 
 - (3A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(3A)stiffness%20tuning.pdf
-4A. "(4A) Functional Materials Through Surfaces and Interfaces" in the publication journal indicated by the URL.
+4A. "(4A) Functional Materials Through Surfaces and Interfaces" 
 - (4A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(4A)functional-materials-through-surfaces-and-interfaces.pdf
-5A. "(5A) HeatFree Fabrication of Metallic Interconnects for Flexible Wearable Devices" in the publication journal indicated by the URL.
+5A. "(5A) HeatFree Fabrication of Metallic Interconnects for Flexible Wearable Devices" 
 - (5A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(5A)HeatFree%20Fabrication%20of%20Metallic%20Interconnects%20for%20Flexible%20Wearable%20Devices.pdf
-6A. "(6A) Printing of Conformal Solid Metal Traces on NonAdhering" in the publication journal indicated by the URL.
+6A. "(6A) Printing of Conformal Solid Metal Traces on NonAdhering" 
 - (6A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(6A)Printing%20of%20Conformal%20Solid%20Metal%20Traces%20on%20NonAdhering.pdf
-7A. "(7A) Heat Free Biomimetic Metal Molding on Soft Substrates" in the publication journal indicated by the URL.
+7A. "(7A) Heat Free Biomimetic Metal Molding on Soft Substrates" 
 - (7A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(7A)Heat%20Free%20Biomimetic%20Metal%20Molding%20on%20Soft%20Substrates.pdf
-8A. "(8A) Microfluidic Channels" in the publication journal indicated by the URL.
+8A. "(8A) Microfluidic Channels" 
 - (8A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(8A)Microfluidic%20channels.pdf
 
 Research Directions and Advances
-1B. "(1B) Adaptive Plasticity of Auxetic Kirigami Hydrogel Fabricated from Anisotropic Swelling of Cellulose Nanofiber Film" in the publication journal indicated by the URL.
+1B. "(1B) Adaptive Plasticity of Auxetic Kirigami Hydrogel Fabricated from Anisotropic Swelling of Cellulose Nanofiber Film" 
 - (1B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(1B)Adaptive%20plasticity%20of%20auxetic%20Kirigami%20hydrogel%20fabricated%20from%20anisotropic%20swelling%20of%20cellulose%20nanofiber%20film.pdf
-2B. "(2B) Sensing Kirigami" in the publication journal indicated by the URL.
+2B. "(2B) Sensing Kirigami" 
 - (2B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(2B)Sensing%20Kirigami.pdf
-3B. "(3B) Cantilever Paper AnalyticalSolutionTwoLayerBeam" in the publication journal indicated by the URL.
+3B. "(3B) Cantilever Paper AnalyticalSolutionTwoLayerBeam" 
 - (3B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(3B)Cantilever_Paper_AnalyticalSolutionTwoLayerBeam.pdf
-4B. "(4B) Cantilever Paper Effects of Shear" in the publication journal indicated by the URL.
+4B. "(4B) Cantilever Paper Effects of Shear" 
 - (4B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(4B)Cantilever_Paper_EffectsofShear.pdf
-5B. "(5B) Cantilever Paper LumpedBendingElectrostrictive" in the publication journal indicated by the URL.
+5B. "(5B) Cantilever Paper LumpedBendingElectrostrictive" 
 - (5B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(5B)Cantilever_Paper_LumpedBendingElectrostrictive.pdf
-6B. "(6B) Composites-AnalyticalMonteCarloPZRModel" in the publication journal indicated by the URL.
+6B. "(6B) Composites-AnalyticalMonteCarloPZRModel" 
 - (6B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(6B)Composites-AnalyticalMonteCarloPZRModel.pdf
-7B. "(7B) Exact Solutions of NStokes Eqns 3D4D" in the publication journal indicated by the URL.
+7B. "(7B) Exact Solutions of NStokes Eqns 3D4D" 
 - (7B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(7B)Exact_Solutions_of_NStokes_Eqns_3D4D.pdf
-8B. "(8B) Time Relaxed MCarlo preserving NStokes asymptotics" in the publication journal indicated by the URL.
+8B. "(8B) Time Relaxed MCarlo preserving NStokes asymptotics" 
 - (8B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(8B)Time_Relaxed_MCarlo_preserving_NStokes_asymptotics.pdf
 
 Advances and Applications of Phase Change Materials
-1C. "(1C) Review of Printable Flexible and Stretchable Tactile Sensors" in the publication journal indicated by the URL.
+1C. "(1C) Review of Printable Flexible and Stretchable Tactile Sensors" 
 - (1C) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(1C)ReviewofPrintableFlexibleandStretchableTactileSensors.pdf
-2C. "(2C) Recent Advances in Paper-based Sensors" in the publication journal indicated by the URL.
+2C. "(2C) Recent Advances in Paper-based Sensors" 
 - (2C) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(2C)Recent%20Advances%20in%20Paper-based%20Sensors.pdf
-3C. "(3C) Periodic Plastic Deform Mech" in the publication journal indicated by the URL.
+3C. "(3C) Periodic Plastic Deform Mech" 
 - (3C) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(3C)Periodic%20Plastic%20Deform%20Mech.pdf
-4C. "(4C) A paper-based nanogenerator as a power source and active sensor" in the publication journal indicated by the URL.
+4C. "(4C) A paper-based nanogenerator as a power source and active sensor" 
 - (4C) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(4C)A%20paper-based%20nanogenerator%20as%20a%20power%20source%20and%20active%20sensor.pdf
-5C. "(5C) Adv Materials Technologies - 2024 - Nishimura - Regulation of Cell Adhesion on Physically Crosslinked Hydrogels Composed of" in the publication journal indicated by the URL.
+5C. "(5C) Adv Materials Technologies - 2024 - Nishimura - Regulation of Cell Adhesion on Physically Crosslinked Hydrogels Composed of" 
 - (5C) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(5C)Adv%20Materials%20Technologies%20-%202024%20-%20Nishimura%20-%20Regulation%20of%20Cell%20Adhesion%20on%20Physically%20Crosslinked%20Hydrogels%20Composed%20of.pdf
-6C. "(6C) Three-Dimensional Architected Materials and Structures: Design, Fabrication, and Mechanical Behavior" in the publication journal indicated by the URL.
+6C. "(6C) Three-Dimensional Architected Materials and Structures: Design, Fabrication, and Mechanical Behavior" 
 - (6C) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(6C)three-dimensional-architected-materials-and-structures-design-fabrication-and-mechanical-behavior.pdf
 
 } 

@@ -96,51 +96,51 @@ this research group’s FM particles into a new
 MEMS Design. 
 
 Previous Research Work and Background (Y.Salinas-Reyes)
-[1] "EB_JUN_DRAFT_2022" in the publication journal indicated by the URL.
+[1] "EB_JUN_DRAFT_2022" 
 - [1] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B1%5DEB_JUN_DRAFT_2022.pdf
-[2] "MEMS Project Draft Feb 2022" in the publication journal indicated by the URL.
+[2] "MEMS Project Draft Feb 2022" 
 - [2] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B2%5DMEMS%20Project%20Draft%20%20Feb%202022.pdf
-[3] "Paper-based piezoresistive MEMS force sensors" in the publication journal indicated by the URL.
+[3] "Paper-based piezoresistive MEMS force sensors" 
 - [3] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B3%5DPaper-based_piezoresistive_MEMS_force_sensors.pdf
-[4] "LabonChip" in the publication journal indicated by the URL.
+[4] "LabonChip" 
 - [4] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B4%5DLabonChip.pdf
-[5] "Y.Salinas-Reyes MEMS Mathematical Models" in the publication journal indicated by the URL.
+[5] "Y.Salinas-Reyes MEMS Mathematical Models" 
 - [5] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B5%5DY.Salinas-Reyes_MEMS_Mathematical_Models.pdf
-[6] "Y.Salinas-Reyes MEMS Draft 23" in the publication journal indicated by the URL.
+[6] "Y.Salinas-Reyes MEMS Draft 23" 
 - [6] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B6%5DY.Salinas-Reyes_MEMS_Draft__23.pdf
 
 Research Direction
-2B. "(2B) Sensing Kirigami" in the publication journal indicated by the URL.
+2B. "(2B) Sensing Kirigami" 
 - (2B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(2B)Sensing%20Kirigami.pdf
-3B. "(3B) Cantilever Paper AnalyticalSolutionTwoLayerBeam" in the publication journal indicated by the URL.
+3B. "(3B) Cantilever Paper AnalyticalSolutionTwoLayerBeam" 
 - (3B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(3B)Cantilever_Paper_AnalyticalSolutionTwoLayerBeam.pdf
-4B. "(4B) Cantilever Paper Effects of Shear" in the publication journal indicated by the URL.
+4B. "(4B) Cantilever Paper Effects of Shear" 
 - (4B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(4B)Cantilever_Paper_EffectsofShear.pdf
-5B. "(5B) Cantilever Paper LumpedBendingElectrostrictive" in the publication journal indicated by the URL.
+5B. "(5B) Cantilever Paper LumpedBendingElectrostrictive" 
 - (5B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(5B)Cantilever_Paper_LumpedBendingElectrostrictive.pdf
-6B. "(6B) Composites-AnalyticalMonteCarloPZRModel" in the publication journal indicated by the URL.
+6B. "(6B) Composites-AnalyticalMonteCarloPZRModel" 
 - (6B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(6B)Composites-AnalyticalMonteCarloPZRModel.pdf
-7B. "(7B) Exact Solutions of NStokes Eqns 3D4D" in the publication journal indicated by the URL.
+7B. "(7B) Exact Solutions of NStokes Eqns 3D4D" 
 - (7B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(7B)Exact_Solutions_of_NStokes_Eqns_3D4D.pdf
-8B. "(8B) Time Relaxed MCarlo preserving NStokes asymptotics" in the publication journal indicated by the URL.
+8B. "(8B) Time Relaxed MCarlo preserving NStokes asymptotics" 
 - (8B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(8B)Time_Relaxed_MCarlo_preserving_NStokes_asymptotics.pdf
 
 Phase-Change Materials and Experimentation (Dr. Thuo)
-1A. "(1A) Stabilization of Undercooled Metals via Passivating Oxide Layers" in the publication journal indicated by the URL.
+1A. "(1A) Stabilization of Undercooled Metals via Passivating Oxide Layers" 
 - (1A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(1A)Stabilization%20of%20Undercooled%20Metals%20via%20Passivating%20Oxide%20Layers.pdf
-2A. "(2A) Liquid Metal Surface Oxides" in the publication journal indicated by the URL.
+2A. "(2A) Liquid Metal Surface Oxides" 
 - (2A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(2A)Liquid%20Metal%20Surface%20Oxides.pdf
-3A. "(3A) Stiffness Tuning" in the publication journal indicated by the URL.
+3A. "(3A) Stiffness Tuning" 
 - (3A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(3A)stiffness%20tuning.pdf
-4A. "(4A) Functional Materials Through Surfaces and Interfaces" in the publication journal indicated by the URL.
+4A. "(4A) Functional Materials Through Surfaces and Interfaces" 
 - (4A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(4A)functional-materials-through-surfaces-and-interfaces.pdf
-5A. "(5A) HeatFree Fabrication of Metallic Interconnects for Flexible Wearable Devices" in the publication journal indicated by the URL.
+5A. "(5A) HeatFree Fabrication of Metallic Interconnects for Flexible Wearable Devices" 
 - (5A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(5A)HeatFree%20Fabrication%20of%20Metallic%20Interconnects%20for%20Flexible%20Wearable%20Devices.pdf
-6A. "(6A) Printing of Conformal Solid Metal Traces on NonAdhering" in the publication journal indicated by the URL.
+6A. "(6A) Printing of Conformal Solid Metal Traces on NonAdhering" 
 - (6A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(6A)Printing%20of%20Conformal%20Solid%20Metal%20Traces%20on%20NonAdhering.pdf
-7A. "(7A) Heat Free Biomimetic Metal Molding on Soft Substrates" in the publication journal indicated by the URL.
+7A. "(7A) Heat Free Biomimetic Metal Molding on Soft Substrates" 
 - (7A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(7A)Heat%20Free%20Biomimetic%20Metal%20Molding%20on%20Soft%20Substrates.pdf
-8A. "(8A) Microfluidic Channels" in the publication journal indicated by the URL.
+8A. "(8A) Microfluidic Channels" 
 - (8A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(8A)Microfluidic%20channels.pdf
 
 ++++
@@ -305,67 +305,67 @@ this research group’s FM particles into a new
 MEMS Design. 
 
 Previous Research Work and Background (Y.Salinas-Reyes)
-[1] "EB_JUN_DRAFT_2022" in the publication journal indicated by the URL.
+[1] "EB_JUN_DRAFT_2022" 
 - [1] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B1%5DEB_JUN_DRAFT_2022.pdf
-[2] "MEMS Project Draft Feb 2022" in the publication journal indicated by the URL.
+[2] "MEMS Project Draft Feb 2022" 
 - [2] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B2%5DMEMS%20Project%20Draft%20%20Feb%202022.pdf
-[3] "Paper-based piezoresistive MEMS force sensors" in the publication journal indicated by the URL.
+[3] "Paper-based piezoresistive MEMS force sensors" 
 - [3] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B3%5DPaper-based_piezoresistive_MEMS_force_sensors.pdf
-[4] "LabonChip" in the publication journal indicated by the URL.
+[4] "LabonChip" 
 - [4] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B4%5DLabonChip.pdf
-[5] "Y.Salinas-Reyes MEMS Mathematical Models" in the publication journal indicated by the URL.
+[5] "Y.Salinas-Reyes MEMS Mathematical Models" 
 - [5] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B5%5DY.Salinas-Reyes_MEMS_Mathematical_Models.pdf
-[6] "Y.Salinas-Reyes MEMS Draft 23" in the publication journal indicated by the URL.
+[6] "Y.Salinas-Reyes MEMS Draft 23" 
 - [6] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B6%5DY.Salinas-Reyes_MEMS_Draft__23.pdf
 
 Phase-Change Materials and Experimentation (Dr. Thuo)
-1A. "(1A) Stabilization of Undercooled Metals via Passivating Oxide Layers" in the publication journal indicated by the URL.
+1A. "(1A) Stabilization of Undercooled Metals via Passivating Oxide Layers" 
 - (1A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(1A)Stabilization%20of%20Undercooled%20Metals%20via%20Passivating%20Oxide%20Layers.pdf
-2A. "(2A) Liquid Metal Surface Oxides" in the publication journal indicated by the URL.
+2A. "(2A) Liquid Metal Surface Oxides" 
 - (2A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(2A)Liquid%20Metal%20Surface%20Oxides.pdf
-3A. "(3A) Stiffness Tuning" in the publication journal indicated by the URL.
+3A. "(3A) Stiffness Tuning" 
 - (3A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(3A)stiffness%20tuning.pdf
-4A. "(4A) Functional Materials Through Surfaces and Interfaces" in the publication journal indicated by the URL.
+4A. "(4A) Functional Materials Through Surfaces and Interfaces" 
 - (4A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(4A)functional-materials-through-surfaces-and-interfaces.pdf
-5A. "(5A) HeatFree Fabrication of Metallic Interconnects for Flexible Wearable Devices" in the publication journal indicated by the URL.
+5A. "(5A) HeatFree Fabrication of Metallic Interconnects for Flexible Wearable Devices" 
 - (5A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(5A)HeatFree%20Fabrication%20of%20Metallic%20Interconnects%20for%20Flexible%20Wearable%20Devices.pdf
-6A. "(6A) Printing of Conformal Solid Metal Traces on NonAdhering" in the publication journal indicated by the URL.
+6A. "(6A) Printing of Conformal Solid Metal Traces on NonAdhering" 
 - (6A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(6A)Printing%20of%20Conformal%20Solid%20Metal%20Traces%20on%20NonAdhering.pdf
-7A. "(7A) Heat Free Biomimetic Metal Molding on Soft Substrates" in the publication journal indicated by the URL.
+7A. "(7A) Heat Free Biomimetic Metal Molding on Soft Substrates" 
 - (7A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(7A)Heat%20Free%20Biomimetic%20Metal%20Molding%20on%20Soft%20Substrates.pdf
-8A. "(8A) Microfluidic Channels" in the publication journal indicated by the URL.
+8A. "(8A) Microfluidic Channels" 
 - (8A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(8A)Microfluidic%20channels.pdf
 
 Theoretical Framwework and Proposed Methodology
-1B. "(1B) Adaptive Plasticity of Auxetic Kirigami Hydrogel Fabricated from Anisotropic Swelling of Cellulose Nanofiber Film" in the publication journal indicated by the URL.
+1B. "(1B) Adaptive Plasticity of Auxetic Kirigami Hydrogel Fabricated from Anisotropic Swelling of Cellulose Nanofiber Film" 
 - (1B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(1B)Adaptive%20plasticity%20of%20auxetic%20Kirigami%20hydrogel%20fabricated%20from%20anisotropic%20swelling%20of%20cellulose%20nanofiber%20film.pdf
-2B. "(2B) Sensing Kirigami" in the publication journal indicated by the URL.
+2B. "(2B) Sensing Kirigami" 
 - (2B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(2B)Sensing%20Kirigami.pdf
-3B. "(3B) Cantilever Paper AnalyticalSolutionTwoLayerBeam" in the publication journal indicated by the URL.
+3B. "(3B) Cantilever Paper AnalyticalSolutionTwoLayerBeam" 
 - (3B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(3B)Cantilever_Paper_AnalyticalSolutionTwoLayerBeam.pdf
-4B. "(4B) Cantilever Paper Effects of Shear" in the publication journal indicated by the URL.
+4B. "(4B) Cantilever Paper Effects of Shear" 
 - (4B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(4B)Cantilever_Paper_EffectsofShear.pdf
-5B. "(5B) Cantilever Paper LumpedBendingElectrostrictive" in the publication journal indicated by the URL.
+5B. "(5B) Cantilever Paper LumpedBendingElectrostrictive" 
 - (5B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(5B)Cantilever_Paper_LumpedBendingElectrostrictive.pdf
-6B. "(6B) Composites-AnalyticalMonteCarloPZRModel" in the publication journal indicated by the URL.
+6B. "(6B) Composites-AnalyticalMonteCarloPZRModel" 
 - (6B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(6B)Composites-AnalyticalMonteCarloPZRModel.pdf
-7B. "(7B) Exact Solutions of NStokes Eqns 3D4D" in the publication journal indicated by the URL.
+7B. "(7B) Exact Solutions of NStokes Eqns 3D4D" 
 - (7B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(7B)Exact_Solutions_of_NStokes_Eqns_3D4D.pdf
-8B. "(8B) Time Relaxed MCarlo preserving NStokes asymptotics" in the publication journal indicated by the URL.
+8B. "(8B) Time Relaxed MCarlo preserving NStokes asymptotics" 
 - (8B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(8B)Time_Relaxed_MCarlo_preserving_NStokes_asymptotics.pdf
 
 Advances and Applications of Phase Change Materials
-1C. "(1C) Review of Printable Flexible and Stretchable Tactile Sensors" in the publication journal indicated by the URL.
+1C. "(1C) Review of Printable Flexible and Stretchable Tactile Sensors" 
 - (1C) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(1C)ReviewofPrintableFlexibleandStretchableTactileSensors.pdf
-2C. "(2C) Recent Advances in Paper-based Sensors" in the publication journal indicated by the URL.
+2C. "(2C) Recent Advances in Paper-based Sensors" 
 - (2C) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(2C)Recent%20Advances%20in%20Paper-based%20Sensors.pdf
-3C. "(3C) Periodic Plastic Deform Mech" in the publication journal indicated by the URL.
+3C. "(3C) Periodic Plastic Deform Mech" 
 - (3C) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(3C)Periodic%20Plastic%20Deform%20Mech.pdf
-4C. "(4C) A paper-based nanogenerator as a power source and active sensor" in the publication journal indicated by the URL.
+4C. "(4C) A paper-based nanogenerator as a power source and active sensor" 
 - (4C) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(4C)A%20paper-based%20nanogenerator%20as%20a%20power%20source%20and%20active%20sensor.pdf
-5C. "(5C) Adv Materials Technologies - 2024 - Nishimura - Regulation of Cell Adhesion on Physically Crosslinked Hydrogels Composed of" in the publication journal indicated by the URL.
+5C. "(5C) Adv Materials Technologies - 2024 - Nishimura - Regulation of Cell Adhesion on Physically Crosslinked Hydrogels Composed of" 
 - (5C) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(5C)Adv%20Materials%20Technologies%20-%202024%20-%20Nishimura%20-%20Regulation%20of%20Cell%20Adhesion%20on%20Physically%20Crosslinked%20Hydrogels%20Composed%20of.pdf
-6C. "(6C) Three-Dimensional Architected Materials and Structures: Design, Fabrication, and Mechanical Behavior" in the publication journal indicated by the URL.
+6C. "(6C) Three-Dimensional Architected Materials and Structures: Design, Fabrication, and Mechanical Behavior" 
 - (6C) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(6C)three-dimensional-architected-materials-and-structures-design-fabrication-and-mechanical-behavior.pdf
 
 } 
