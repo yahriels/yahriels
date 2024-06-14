@@ -1,3 +1,270 @@
+
+\section{Introduction:}
+
+The Piezoresistive (PZR) effect is an irreversible phenomenon observed in semiconductors with an impurity concentration, (i.e., doping atoms), during which mechanical force can be converted only into change in thermoelectrical resistance, not in electrical potential. 
+Flexible-Tactile Sensors and micro-electro-mechanical-system (MEMS) built upon this principle can sustainably address microscale fabrication and instrumentation needs. 
+A paper-based MEMS sensor is proposed where strain is proportional to mechanical stress with external power source. 
+
+High-efficiency (i.e. performance/cost ratio) in devices becomes harder to achieve as fabrication costs escalate and the assemblies of elegant high-performance devices require more sophisticated material-manufacturing systems. Conceptually, however, devices such as piezo transducers simply create connections between mechanical stimuli and electrical resistance changes, which can be achieved through simple, well-designed device architectures. This allows for development of low-cost instrumentation-measurement systems which can be tailored to capture any quantity of interest with which it is interfaced. Piezoresistive micro-electro-mechanical systems (MEMS) sensor devices are such examples of elegant, simple, efficient architectures which are highly-tunable for any function.  We achieve these devices via an intuitive and frugal approach: prepared paper-base as substrate material which is green and abundant; bonded a carbon-graphite ink resistor pattern (strain gauge) to paper-base; applied thin-film electrodes via stencil process.  Utilizing the fundamentals of kirigami/origami, piezoresistive theory, and heat-free soldering, such paper-based devices can prove to be a highly efficient and facile option for electronic devices while minimizing global impact on waste and energy. Furthermore, use of a soft meta-material (liquid-metal ink) and the deformability of papers leads to easier access to wider, more unique form factors and scalable designs, without increasing the cost of fabrication significantly, leading to simple assemblies of highly-tunable electronic devices that are mechanochemically-processed and disposable.
+
+In this manuscript, guiding principals are introduced for probing the response of a power signal passed through a Piezoresistive Cantilevered Beam Sensor interfaced with a control volume. By transforming and processing  signal from the transducer or sensing element, we visit the fundamental mathematical models for our paper-based scientific instrument and measurement system. The experimental method consists of a sensor calibration (To account for E-M coupling) and subsequent spectral analysis. While a power signal is passed through the sensor, the sensor tip position and deflection is also recorded. Next we further define our model and apply constraints to our problem. We can then derive beam properties and define a load in the controlled environment. After the signal has been anti-aliased, we start to build intuition about the response of our paper-based MEMS sensor by assuming ideal conditions in order to understand the dynamics taking place. Ultimately, this mathematical perspective serves as the foundation for elevating a frugally developed paper-based device to a highly-efficient measurement instrument. 
+\subsection{Theoretical Underpinnings:}
+
+To construct our ideal model, we make a number of assumptions and assume ideal conditions in all aspects of the experiment. The sensor therefore is a finite cantilevered beam with fixed-free boundary conditions and uniaxial loading (or excitation) on the top surface-place. Assuming an ideal thermo-mechanical system, the response to work-energy input on the MEMS is recorded as total deformation of the body $\varepsilon$ and dimensionless power signal $R^*$. Therefore we define our principal axes in Fig [4] where longitudinal (beam-wise) strain $\varepsilon_x$ is measured as well as lateral strain $\varepsilon_y$. The degree of deformation (i.e. Polarization) at a plane/spot is the total body deformation $\delta \propto \varepsilon$ and surface slope of $\theta$. Equation [15] is a spot deflection approximation where the third term is the dynamic deflection coefficient of the surface $(\frac{Q}{\omega_n^3})^{1/2}$ and the Power Spectral Density (PSD) at the natural frequency for the ladder calculated from $\phi(t)$.
+
+
+
+
+\emph{Approximating Real-World Beam Deflection}: \\
+\begin{equation}
+   \theta_{max}=\pi * \frac{\delta_{max}}{L}
+\end{equation}
+
+\begin{equation}
+   \delta_{max}=g * (\frac{1}{32\pi^3})^{1/2} (\frac{Q}{\omega_n^3})^{1/2} (PSD)^{1/2}
+\end{equation}
+
+\begin{equation}
+   \delta(X)=77 * (\frac{X}{L}) (\frac{Q}{\omega_n^3})^{1/2} (PSD)^{1/2};\delta_X=\theta_X*X
+\end{equation}
+
+\begin{equation}
+   \varepsilon = \sqrt{\varepsilon_x^2 + \varepsilon_y^2 + \varepsilon_z^2 } = \frac{\delta_{max}}{L}
+\end{equation}
+
+
+
+With geometry and relevant material,thermal, etc. properties in-hand, we may derive any of the following properties for the MEMS Sensor using the equations below. There are several other ways to approximate real-world beam deflection or force/energy terms which we will discuss later. But for the sake of simplicity, spot deflection $\delta(X)$ will assumed to capture the instantaneous motion of a spot in [mm]. This is explained in the section below. 
+
+
+Piezoresistive Theory: 
+
+$\rho=resistivity$,\\
+$\textit{l}=length$,\\
+$\omega=width$,\\
+$\nu=poission's$,\\
+$\epsilon=strain$.\\
+\begin{equation}
+    R_x=R=\frac{\rho\textit{l}}{\omega^{2}}
+\end{equation}
+
+\begin{equation}
+    \frac{\Delta R}{R_0}=(1+2\nu)\epsilon+\frac{\Delta \rho}{\rho_0}
+\end{equation}
+
+
+
+Applied Mechanics: \\
+\begin{center}
+\textsc{Curvature Model}
+\begin{equation}
+\epsilon_{flex}=\frac{Y}{R}
+\end{equation}
+
+\textsc{Deformation Model} 
+\begin{equation}
+\epsilon_{long}=\frac{\Delta\textit{l}}{\textit{l}}
+\end{equation}
+\begin{equation}
+\epsilon_{lat}=\frac{\Delta\omega}{\omega}
+\end{equation}
+\end{center}
+
+\subsection{Conservative Equations of Cantilevered Beam}
+\begin{itemize}
+\item{Euler-Bernoulli and Electric Current Conservation}
+\item{E-M Coupling and Tip-Mass}
+\item{Conservation of Moments and Force}
+\item{Dimensionless Variables for Damping and Free-Vibrations}
+\end{itemize}
+
+
+
+
+
+\section{Materials and Methods}
+
+
+Using a multi-meter (D.C.), or alternatively, oscilloscope (A.C.) a voltage signal is supplied with a camera recording beam-tip position (Z).
+Image and signal processing were carried out to study electrical-mechanical behaviors that are encountered under ambient loads by varying form factors.
+The Piezoresistive Strain Gauge is bonded along a fixed-free cantilevered beam that is in-contact with a voltage-measurement system while subjected to mechanical stimuli (Beam-Body Deflection). 
+
+\subsection{Device Fabrication}
+\subsection{Electrical Characterization}
+Piezoresistor (PZR) Sensor Calibration Method. The Wheatstone Bridge is balanced using a single potentiometer where the PZR strain gauge is treated as the variable resistor. The power signal output is amplified using an instrumentation amplifier (INA) and the spectral content of the power or noise signal is measured using a signal analyzer function. The signal is analyzed alternatively by passing the signal through an antialiasing filter, sampled with an analog-to-digital converter (ADC) and analyzed using the fast Fourier transform (FFT) method. The VBridge input into the wheatstone bridge was subject to DC (Direct Current) and AC (Alternating Current) bias throughout the measurements. The electro-mechanical coupling of the measurement system is accomplished through the PZR strain gauge bonded to the top surface of the table-top or cantilever beam. 
+
+In our system we define our time-series input $X(t)$ and power-energy signal as $\phi(t)$  with output signal $Y(t)$ and voltage drop $R(t)$. The signal has a frequency ($f$) and bandwidth "B". 
+
+We assume Parseval's Theorem [CITE] and arrive at the following: \\
+
+
+\begin{equation}
+   X(t)=S_x(f)  = \pi (\frac{f}{B}) \equiv |\hat{X(f)}|^2
+\end{equation}
+
+Then Fourier Tables:
+\begin{equation}
+     2B*sinc(2\pi Bt) \Leftrightarrow \frac{\pi f}{2B}
+\end{equation}
+
+
+
+For a power-energy signal X(t) with auto-correlation function: 
+\begin{equation}
+   R_x(\tau)=2Bsinc(2\pi B t)
+\end{equation}
+we have a anti-aliased Fourier Transform of the power signal $\phi(t)$ where $\delta(t) \equiv \phi(t) \equiv X(t)$ and $\tau$ is a standardized time constant. 
+\begin{equation}
+   S_{x}(f)=\hat{R_{x}(f)}=\frac{f\pi}{2B}
+\end{equation}
+
+Compute total power of $X(t)$:
+
+\begin{equation}
+   P_X = \int_{-\infty}^{\infty} R_x(f) \,df \ = \int_{-B}^{B} R_x(f) \,df 
+\end{equation}
+
+\begin{equation}
+    R_x(f)=X(t)=\frac{V_{out}/2}{V_{in}}=\frac{sin(x)}{sinc(x)}=\frac{Response}{Input}
+\end{equation}
+
+Amplitude Response of Ideal Low Pass Filter (LPF):
+\begin{equation}
+    |H(f)| = Y(t) = sinc(x)= \frac{sin(x)}{X}
+\end{equation}
+Where $$|H(f)|^2=\frac{\pi f}{B}$$
+
+
+\begin{tcolorbox}
+\label{Uniaxial}
+\emph{Fundamental Input-Output relation for Signals and Linear Time In-variant (LTI) Systems}\\
+\\
+$$S_Y(f)=|H(f)|^2 S_X(f)$$
+
+\end{tcolorbox}
+
+Power Response:
+\begin{equation}
+   P_Y = \int_{-\infty}^{\infty} S_y(f) \,df  = \int_{-\infty}^{\infty} |H(f)|^2 S_X(f) \,df 
+\end{equation}
+
+Therefore Power Output of the system:
+\begin{equation}
+   P_Y = \int_{-\infty}^{\infty} S_y(f) \,df  = B 
+\end{equation}
+
+
+
+
+\subsection{Damping Mechanisms of Tip-Mass Piezoelectric System}
+\subsection{Sensing Kirigami Principles}
+
+
+\section{Results}
+Liu1 developed principals for cantilevered PZR force sensors with conductive materials patterned on a paper substrate. The proposed fabrication technique enables heat-free rapid prototyping of such mechanically processed2 paper-based devices, as well as the development of highly-efficient (i.e., performance/cost) printable devices with varying electro-mechanical properties.
+In the absence of voltage-induced vibrations (D.C. voltage), calibration tests with fixed tip displacements were conducted to compute electro-mechanical coupling (K) of the PZR strain gauge. Alternatively, identical calibrations with A.C. bias measured device capacitive reactance. 
+Resistance is the value of the piezoresistive component or material itself (Carbon Ink), while the reactance of a MEMS (Combination of all components) is quantified by system capacitance.
+The electromechanical coupling was found to depend heavily on paper-beam properties supported by fundamentals of PZR theory2
+Table~\ref{tab:table1},%
+\begin{table*}
+\caption{\label{tab:table1} List of parameters used to characterize the electro-mechanical sensor 
+}
+\begin{ruledtabular}
+\begin{tabular}{lcr}
+Non-Dimensional Variables\footnote{Note a.}&Measured Variables
+\footnote{Note b.}&Calculated Variables
+\\
+\hline
+Mechanical 
+Strain ($\varepsilon$) & Volume of Body ($V$) & Mechanical Stiffness ($E$)\\
+Relative Resistance ($\Delta R/R$) & Resistor Dimensions & Predicted Resistance ($R$)\\
+Gauge Factor ($K$) & Mechanical Power ($\sigma_{m}$) & Electrical Resistivity ($\rho$)\\
+Poisson's Ratio ($\nu$) & Tip Displacement ($Z$) & Beam Deflection ($\delta$)\\
+Dilation ($e$) & Voltage & Electrical Power ($\sigma_{V}$)\\
+\end{tabular}
+\end{ruledtabular}
+\end{table*}
+
+
+$\bullet$Energy Storage Efficiency Approximation\\
+
+\begin{equation}
+    \frac{E_{Released}}{E_{absorbed}}=\frac{\sigma_{V}*K*\varepsilon}{(\sigma_{m}*\sigma_{m}*V)/(2*E)}
+\end{equation}
+
+
+\section{Discussion}
+Interest in synthetic composite materials has garnered significant attention, largely due to their high specific properties, tunable functionalities, and potential to incorporate advanced responsive behaviors. Recent advances have largely focused on stimuli-responsive composites, which exhibit tunable properties when subjected to a specified trigger. Such materials have been applied as sensors, actuators, and platforms for multifunctional devices. Mechanically reconfigurable parts are especially critical in soft robotics and analogous functional devices, whereby adaptive components are essential for controlled locomotion, actuation, stiffness tuning, and as deployable components. In particular, initially soft materials that can dramatically increase in rigidity and be programmed into desired shapes can be utilized in fields ranging from soft and bio-inspired robotics to reconfigurable and wearable electronics. Several forms of activation have been applied in responsive composites, and common examples include temperature, electromagnetic radiation, as well as electric and magnetic fields (Thuo, 2017). Recent developments in smart responsive composites have utilized various stimuli, including heat, light, solvents, electricity, and magnetic fields, to induce a change in material properties. Here, we report a thermodynamically driven mechanically responsive composite, exploiting irreversible phase-transformation (relaxation) of metastable undercooled liquid metal core-shell particle fillers (Salinas-Reyes et al., 2022). Thermal and mechanical analysis reveals that as the composite is deformed, the particles transform from individual liquid droplets to a solid metal network, resulting in a 300 percent increase in Young’s modulus (Thuo, 2017). In contrast to previous phase change materials, this dramatic change in stiffness occurs autonomously under deformation, is insensitive to environmental conditions, and does not require external energy sources such as heat, light, or electricity. We demonstrate the utility of this approach by transforming a flat, flexible biocomposite strip of cellulose paper into a highly efficient and disposable piezoresistor that is highly sensitive, also referred to as Quantum Tunnelling Composites (QTCs) (Salinas-Reyes et al., 2022).
+The integration of phase-change materials (PCMs) into piezoresistive Micro-Electro-Mechanical Systems (MEMS) sensors holds promise for significantly enhancing their performance and functionality (Salinas-Reyes et al., 2022). This paper delves into the theoretical foundations and practical applications of PCM-enhanced MEMS sensors, focusing particularly on optimizing sensor design and fabrication processes. For the duration of this study, the focus was on synthesizing biocomposites with cellulose-based paper with heat-free fabrication processes. Printing of Conformal Solid Metal Traces on Non-Adhering Biological Surfaces offers a pathway to heat-free metal processing (Thuo, 2017). Metals and organics possess two very dissimilar surface energies, hence, do not naturally adhere to each other. This incompatibility is exacerbated by surface roughness, yet advances in wearables and bioelectronics call for their integration. Mesoscale mechanical bonds, however, transcend the necessities of surface energy matching while taking advantage of surface texture (Thuo, 2017). By conducting a thorough investigation of PCMs, MEMS sensors, and solid-to-solid phase transitions, this research aims to shed light on the transformative potential of PCMs in sensor technology. The utilization of PCMs offers the prospect of tunable mechanical properties, heightened sensitivity, and reduced power consumption, thereby revolutionizing sensor applications across various domains such as healthcare, aerospace, and structural monitoring. Dr. Thuo's Stabilization of Undercooled Metals via Passivating Oxide Layers relies on the frustration of liquid-solid transition mainly by an increase in activation energy (Thuo, 2017). This study not only contributes to academic knowledge but also holds implications for real-world technological advancements.
+The successful integration of phase-change materials into MEMS sensors is a testament to the interdisciplinary nature of modern research, which draws upon principles from materials science, mechanical engineering, and electrical engineering. The development of PCM-enhanced MEMS sensors underscores the importance of collaborative efforts aimed at addressing complex technological challenges. As we continue to push the boundaries of scientific inquiry, it is imperative to foster a culture of innovation and knowledge sharing, thereby propelling society towards a future characterized by technological excellence and sustainable development.
+
+ 
+
+\section{Conclusion}
+Paper-based MEMS sensors offer a satisfactory compromise between cost, simplicity, and performance of printable-flexible electronics.
+Advances in meta-materials and associated mechanical sintering enables ambient application of solid metallic contacts3 enabling heat-free fabrication of paper-based MEMS devices  
+Efficiency values of MEMS are important in selecting reliable instrumentation as this describes the extent to which the input mechanical energy is stored, or transduced, into electrical energy of strain induced interactions. 
+Alteration of the beam length of the body displayed the maximum degree of sensor modulation via origami/kirigami principles. 
+Evidence concluded that the discussed paper-based piezoresistive sensors are ohmic in nature. 
+The reviewed equations are the bare minimum for direct measurements from the MEMS sensor. We may further develop this mathematical model by delving deeper into mechanics of materials, thermofluids, fluid mechanics, beam theory, and all other Euler energy equations which may be involved. By transforming the response signal of the sensor, for an ideal interaction, into qualities/quantities we can study to better understand the dynamics at play during these interactions of phase-change materials and interfacial phenomenon.
+
+
+
+++++
+
+Previous Research Work and Background (Y.Salinas-Reyes)
+[1] "EB_JUN_DRAFT_2022" 
+- [1] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B1%5DEB_JUN_DRAFT_2022.pdf
+[2] "MEMS Project Draft Feb 2022" 
+- [2] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B2%5DMEMS%20Project%20Draft%20%20Feb%202022.pdf
+[3] "Paper-based piezoresistive MEMS force sensors" 
+- [3] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B3%5DPaper-based_piezoresistive_MEMS_force_sensors.pdf
+[4] "LabonChip" 
+- [4] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B4%5DLabonChip.pdf
+[5] "Y.Salinas-Reyes MEMS Mathematical Models" 
+- [5] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B5%5DY.Salinas-Reyes_MEMS_Mathematical_Models.pdf
+[6] "Y.Salinas-Reyes MEMS Draft 23" 
+- [6] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B6%5DY.Salinas-Reyes_MEMS_Draft__23.pdf
+
+Research Direction
+2B. "(2B) Sensing Kirigami" 
+- (2B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(2B)Sensing%20Kirigami.pdf
+3B. "(3B) Cantilever Paper AnalyticalSolutionTwoLayerBeam" 
+- (3B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(3B)Cantilever_Paper_AnalyticalSolutionTwoLayerBeam.pdf
+4B. "(4B) Cantilever Paper Effects of Shear" 
+- (4B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(4B)Cantilever_Paper_EffectsofShear.pdf
+5B. "(5B) Cantilever Paper LumpedBendingElectrostrictive" 
+- (5B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(5B)Cantilever_Paper_LumpedBendingElectrostrictive.pdf
+6B. "(6B) Composites-AnalyticalMonteCarloPZRModel" 
+- (6B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(6B)Composites-AnalyticalMonteCarloPZRModel.pdf
+7B. "(7B) Exact Solutions of NStokes Eqns 3D4D" 
+- (7B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(7B)Exact_Solutions_of_NStokes_Eqns_3D4D.pdf
+8B. "(8B) Time Relaxed MCarlo preserving NStokes asymptotics" 
+- (8B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(8B)Time_Relaxed_MCarlo_preserving_NStokes_asymptotics.pdf
+
+Phase-Change Materials and Experimentation (Dr. Thuo)
+1A. "(1A) Stabilization of Undercooled Metals via Passivating Oxide Layers" 
+- (1A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(1A)Stabilization%20of%20Undercooled%20Metals%20via%20Passivating%20Oxide%20Layers.pdf
+2A. "(2A) Liquid Metal Surface Oxides" 
+- (2A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(2A)Liquid%20Metal%20Surface%20Oxides.pdf
+3A. "(3A) Stiffness Tuning" 
+- (3A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(3A)stiffness%20tuning.pdf
+4A. "(4A) Functional Materials Through Surfaces and Interfaces" 
+- (4A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(4A)functional-materials-through-surfaces-and-interfaces.pdf
+5A. "(5A) HeatFree Fabrication of Metallic Interconnects for Flexible Wearable Devices" 
+- (5A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(5A)HeatFree%20Fabrication%20of%20Metallic%20Interconnects%20for%20Flexible%20Wearable%20Devices.pdf
+6A. "(6A) Printing of Conformal Solid Metal Traces on NonAdhering" 
+- (6A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(6A)Printing%20of%20Conformal%20Solid%20Metal%20Traces%20on%20NonAdhering.pdf
+7A. "(7A) Heat Free Biomimetic Metal Molding on Soft Substrates" 
+- (7A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(7A)Heat%20Free%20Biomimetic%20Metal%20Molding%20on%20Soft%20Substrates.pdf
+8A. "(8A) Microfluidic Channels" 
+- (8A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(8A)Microfluidic%20channels.pdf
+
+++++
+
+
+
+
 ABSTRACT
 The effect of Y on X is real.
 METHODOLOGY

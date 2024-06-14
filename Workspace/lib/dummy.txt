@@ -1,263 +1,274 @@
-\section{Introduction:}
+Yahriel Is applying a fellowship. Use these links to collect information on the fellowship and develop responses that use these links provided below. NOW GENERATE A COVER LETTER BASED ON THE TEMPLATE GIVEN.
+https://www.aphl.org/Career-Pathways/fellowships/Pages/default.aspx
+https://www.aphl.org/Pages/default.aspx
+https://www.aphl.org/Career-Pathways/Internships/Pages/default.aspx
 
-The Piezoresistive (PZR) effect is an irreversible phenomenon observed in semiconductors with an impurity concentration, (i.e., doping atoms), during which mechanical force can be converted only into change in thermoelectrical resistance, not in electrical potential. 
-Flexible-Tactile Sensors and micro-electro-mechanical-system (MEMS) built upon this principle can sustainably address microscale fabrication and instrumentation needs. 
-A paper-based MEMS sensor is proposed where strain is proportional to mechanical stress with external power source. 
+Help Me Answer This Question in 500 Words Exactly
 
-High-efficiency (i.e. performance/cost ratio) in devices becomes harder to achieve as fabrication costs escalate and the assemblies of elegant high-performance devices require more sophisticated material-manufacturing systems. Conceptually, however, devices such as piezo transducers simply create connections between mechanical stimuli and electrical resistance changes, which can be achieved through simple, well-designed device architectures. This allows for development of low-cost instrumentation-measurement systems which can be tailored to capture any quantity of interest with which it is interfaced. Piezoresistive micro-electro-mechanical systems (MEMS) sensor devices are such examples of elegant, simple, efficient architectures which are highly-tunable for any function.  We achieve these devices via an intuitive and frugal approach: prepared paper-base as substrate material which is green and abundant; bonded a carbon-graphite ink resistor pattern (strain gauge) to paper-base; applied thin-film electrodes via stencil process.  Utilizing the fundamentals of kirigami/origami, piezoresistive theory, and heat-free soldering, such paper-based devices can prove to be a highly efficient and facile option for electronic devices while minimizing global impact on waste and energy. Furthermore, use of a soft meta-material (liquid-metal ink) and the deformability of papers leads to easier access to wider, more unique form factors and scalable designs, without increasing the cost of fabrication significantly, leading to simple assemblies of highly-tunable electronic devices that are mechanochemically-processed and disposable.
-
-In this manuscript, guiding principals are introduced for probing the response of a power signal passed through a Piezoresistive Cantilevered Beam Sensor interfaced with a control volume. By transforming and processing  signal from the transducer or sensing element, we visit the fundamental mathematical models for our paper-based scientific instrument and measurement system. The experimental method consists of a sensor calibration (To account for E-M coupling) and subsequent spectral analysis. While a power signal is passed through the sensor, the sensor tip position and deflection is also recorded. Next we further define our model and apply constraints to our problem. We can then derive beam properties and define a load in the controlled environment. After the signal has been anti-aliased, we start to build intuition about the response of our paper-based MEMS sensor by assuming ideal conditions in order to understand the dynamics taking place. Ultimately, this mathematical perspective serves as the foundation for elevating a frugally developed paper-based device to a highly-efficient measurement instrument. 
-\subsection{Theoretical Underpinnings:}
-
-To construct our ideal model, we make a number of assumptions and assume ideal conditions in all aspects of the experiment. The sensor therefore is a finite cantilevered beam with fixed-free boundary conditions and uniaxial loading (or excitation) on the top surface-place. Assuming an ideal thermo-mechanical system, the response to work-energy input on the MEMS is recorded as total deformation of the body $\varepsilon$ and dimensionless power signal $R^*$. Therefore we define our principal axes in Fig [4] where longitudinal (beam-wise) strain $\varepsilon_x$ is measured as well as lateral strain $\varepsilon_y$. The degree of deformation (i.e. Polarization) at a plane/spot is the total body deformation $\delta \propto \varepsilon$ and surface slope of $\theta$. Equation [15] is a spot deflection approximation where the third term is the dynamic deflection coefficient of the surface $(\frac{Q}{\omega_n^3})^{1/2}$ and the Power Spectral Density (PSD) at the natural frequency for the ladder calculated from $\phi(t)$.
+> {RESPONSE IN 250 WORDS EXACTLY}
 
 
 
+How could this fellowship position play a role in your long-term career goals? Please explain.
+Career Goals	Excellent - 100	Adequate - 85	Underdeveloped - 70	Not met - 0
+Career Goals 70%	Clearly identified how this fellowship will play a role in long term career 70	States career goals but not clearly linked to fellowship 59.5	Poor definition of both career goals and the connection to the fellowship 49	Not clearly defined and/or not well supported 0
+Appropriate collegiate level language and vocabulary 15%	Uses appropriate vocabulary scientific terms as appropriate 15	A missed opportunity or misused term 12.75	Multiple missed opportunities and/or misused terms 10.5	Not at an appropriate level 0
+Grammar, Spelling 15%	Free of errors 15	Minimal errors (1-3) 12.75	Many errors (3+) 10.5	Wrought with errors 0
 
-\emph{Approximating Real-World Beam Deflection}: \\
-\begin{equation}
-   \theta_{max}=\pi * \frac{\delta_{max}}{L}
-\end{equation}
+What qualifications and skills make you a good candidate for this fellowship? Please explain.
+Skills	Excellent - 100	Adequate - 85	Underdeveloped - 70	Not met - 0
+Skills and Qualifications 70%	Clearly identified multiple skills and qualifications that directly relate to the fellowship 70	States skills and qualifications but not directly related to fellowship 59.5	Poorly stated skills and qualifications and inadequate links to the fellowship 49	Not clearly defined and/or not well supported 0
+Appropriate collegiate level language and vocabulary 15%	Uses appropriate vocabulary scientific terms as appropriate 15	A missed opportunity or misused term 12.75	Multiple missed opportunities and/or misused terms 10.5	Not at an appropriate level 0
+Grammar, Spelling 15%	Free of errors 15	Minimal errors (1-3) 12.75	Many errors (3+) 10.5	Wrought with errors 0
 
-\begin{equation}
-   \delta_{max}=g * (\frac{1}{32\pi^3})^{1/2} (\frac{Q}{\omega_n^3})^{1/2} (PSD)^{1/2}
-\end{equation}
+What specific skills are you hoping to gain from this experience? Please explain.
+Gains	Excellent - 100	Adequate - 85	Underdeveloped - 70	Not met - 0
+How to gain 70%	Clearly defines goals that are appropriate for this program 70	States goals but either not clearly or not appropriate for this program 59.5	Poorly stated goals and/or inadequate rationale 49	Not clearly defined and/or not well supported 0
+Appropriate collegiate level language and vocabulary 15%	Uses appropriate vocabulary scientific terms as appropriate 15	A missed opportunity or misused term 12.75	Multiple missed opportunities and/or misused terms 10.5	Not at an appropriate level 0
+Grammar, Spelling 15%	Free of errors 15	Minimal errors (1-3) 12.75	Many errors (3+) 10.5	Wrought with errors 0
+*
 
-\begin{equation}
-   \delta(X)=77 * (\frac{X}{L}) (\frac{Q}{\omega_n^3})^{1/2} (PSD)^{1/2};\delta_X=\theta_X*X
-\end{equation}
+Template:{During my work at Bayer, I have developed a strong interest in pursuing a Ph.D.
+Having thoroughly researched the responsibilities involved, I discovered many areas where this project's tasks align with my areas of study and personal interests.
+This position provides an ideal opportunity for me to further my academic career.
 
-\begin{equation}
-   \varepsilon = \sqrt{\varepsilon_x^2 + \varepsilon_y^2 + \varepsilon_z^2 } = \frac{\delta_{max}}{L}
-\end{equation}
+In \replace{[Month, Year]}, I successfully completed my \replace{[master's degree in Electrical Engineering with a specialization in control theory at the University]}.
+Since \replace{[Month Year]}, I have been employed full-time as a specialist for railway operational safety in the field of electrical engineering at Deutsche Bahn AG.
+In this role, I analyze information from committees and various sources on electrical engineering in the context of railway operational safety.
+I also worked as a tutor at \replace{[the University]} in the Faculty of Electrical Engineering, specifically in the Power Electronics Research Group, for nearly three years.
+My teaching responsibilities included conducting office hours for students and independently leading and supervising multiple weekly tutorials and labs on the subject of “Fundamentals of Electrical Engineering.”
 
+During my studies, I gained practical experience through laboratory experiments, which allowed me to develop skills in handling electrical circuits and using various programs such as Matlab/Simulink.
+I am also proficient in simulation using Cadence and Eagle, evaluation with Matlab, and text writing using LaTeX.
+Furthermore, through a successful project titled \replace{“[XXXXXXXX],”} which resulted in a publication, I further expanded my knowledge in Matlab/Simulink and Python.
 
+I would like to be chosen for this Ph.D. position because I believe that this project allows me to further develop and enhance my research skills at an advanced academic level.
+I am fully aware of the dedication and persistence required to achieve outstanding results in this field, and I have gained these attributes through my academic pursuits.
+Additionally, I have successfully collaborated on various group projects both during my studies and in my professional experience, demonstrating my ability to work effectively within a team.
+Participating in this project would not only allow me to showcase my existing skills but also provide me with an opportunity to acquire new ones.
+I would appreciate an invitation to a personal interview.}
 
-With geometry and relevant material,thermal, etc. properties in-hand, we may derive any of the following properties for the MEMS Sensor using the equations below. There are several other ways to approximate real-world beam deflection or force/energy terms which we will discuss later. But for the sake of simplicity, spot deflection $\delta(X)$ will assumed to capture the instantaneous motion of a spot in [mm]. This is explained in the section below. 
-
-
-Piezoresistive Theory: 
-
-$\rho=resistivity$,\\
-$\textit{l}=length$,\\
-$\omega=width$,\\
-$\nu=poission's$,\\
-$\epsilon=strain$.\\
-\begin{equation}
-    R_x=R=\frac{\rho\textit{l}}{\omega^{2}}
-\end{equation}
-
-\begin{equation}
-    \frac{\Delta R}{R_0}=(1+2\nu)\epsilon+\frac{\Delta \rho}{\rho_0}
-\end{equation}
-
-
-
-Applied Mechanics: \\
-\begin{center}
-\textsc{Curvature Model}
-\begin{equation}
-\epsilon_{flex}=\frac{Y}{R}
-\end{equation}
-
-\textsc{Deformation Model} 
-\begin{equation}
-\epsilon_{long}=\frac{\Delta\textit{l}}{\textit{l}}
-\end{equation}
-\begin{equation}
-\epsilon_{lat}=\frac{\Delta\omega}{\omega}
-\end{equation}
-\end{center}
-
-\subsection{Conservative Equations of Cantilevered Beam}
-\begin{itemize}
-\item{Euler-Bernoulli and Electric Current Conservation}
-\item{E-M Coupling and Tip-Mass}
-\item{Conservation of Moments and Force}
-\item{Dimensionless Variables for Damping and Free-Vibrations}
-\end{itemize}
+--------
+Public Health Laboratory Fellowship Program: Participant Application - Salinas-reyes, Yahriel
+Thank you for your interest in the Public Health Laboratory Fellowship Program. Please read all questions carefully and answer as completely as possible.
+----------
 
 
 
 
+\section{Work Experience}
 
-\section{Materials and Methods}
+\cventry{05/2024- Present}{Scientist I \& Data Engineer}{\textsc{Bayer Crop Science, Seeds \& Traits Safety: R \& D Regulatory Science Toxicology Group}}{St Louis, MO}{}{}
+\cvlistitem{Engage in cutting-edge research in agricultural science and biotechnology within the Seeds \& Traits Regulatory Science Group at Bayer. Assist the Toxicology team with automating systems for regulatory responses and data input for global clients. Responsible for designing data mining pipelines and ensuring the integrity and transfer of bioinformatic data.}
 
+\vspace{-1em}
+\section{Key Projects with Bayer}
 
-Using a multi-meter (D.C.), or alternatively, oscilloscope (A.C.) a voltage signal is supplied with a camera recording beam-tip position (Z).
-Image and signal processing were carried out to study electrical-mechanical behaviors that are encountered under ambient loads by varying form factors.
-The Piezoresistive Strain Gauge is bonded along a fixed-free cantilevered beam that is in-contact with a voltage-measurement system while subjected to mechanical stimuli (Beam-Body Deflection). 
-
-\subsection{Device Fabrication}
-\subsection{Electrical Characterization}
-Piezoresistor (PZR) Sensor Calibration Method. The Wheatstone Bridge is balanced using a single potentiometer where the PZR strain gauge is treated as the variable resistor. The power signal output is amplified using an instrumentation amplifier (INA) and the spectral content of the power or noise signal is measured using a signal analyzer function. The signal is analyzed alternatively by passing the signal through an antialiasing filter, sampled with an analog-to-digital converter (ADC) and analyzed using the fast Fourier transform (FFT) method. The VBridge input into the wheatstone bridge was subject to DC (Direct Current) and AC (Alternating Current) bias throughout the measurements. The electro-mechanical coupling of the measurement system is accomplished through the PZR strain gauge bonded to the top surface of the table-top or cantilever beam. 
-
-In our system we define our time-series input $X(t)$ and power-energy signal as $\phi(t)$  with output signal $Y(t)$ and voltage drop $R(t)$. The signal has a frequency ($f$) and bandwidth "B". 
-
-We assume Parseval's Theorem [CITE] and arrive at the following: \\
-
-
-\begin{equation}
-   X(t)=S_x(f)  = \pi (\frac{f}{B}) \equiv |\hat{X(f)}|^2
-\end{equation}
-
-Then Fourier Tables:
-\begin{equation}
-     2B*sinc(2\pi Bt) \Leftrightarrow \frac{\pi f}{2B}
-\end{equation}
-
-
-
-For a power-energy signal X(t) with auto-correlation function: 
-\begin{equation}
-   R_x(\tau)=2Bsinc(2\pi B t)
-\end{equation}
-we have a anti-aliased Fourier Transform of the power signal $\phi(t)$ where $\delta(t) \equiv \phi(t) \equiv X(t)$ and $\tau$ is a standardized time constant. 
-\begin{equation}
-   S_{x}(f)=\hat{R_{x}(f)}=\frac{f\pi}{2B}
-\end{equation}
-
-Compute total power of $X(t)$:
-
-\begin{equation}
-   P_X = \int_{-\infty}^{\infty} R_x(f) \,df \ = \int_{-B}^{B} R_x(f) \,df 
-\end{equation}
-
-\begin{equation}
-    R_x(f)=X(t)=\frac{V_{out}/2}{V_{in}}=\frac{sin(x)}{sinc(x)}=\frac{Response}{Input}
-\end{equation}
-
-Amplitude Response of Ideal Low Pass Filter (LPF):
-\begin{equation}
-    |H(f)| = Y(t) = sinc(x)= \frac{sin(x)}{X}
-\end{equation}
-Where $$|H(f)|^2=\frac{\pi f}{B}$$
-
-
-\begin{tcolorbox}
-\label{Uniaxial}
-\emph{Fundamental Input-Output relation for Signals and Linear Time In-variant (LTI) Systems}\\
-\\
-$$S_Y(f)=|H(f)|^2 S_X(f)$$
-
-\end{tcolorbox}
-
-Power Response:
-\begin{equation}
-   P_Y = \int_{-\infty}^{\infty} S_y(f) \,df  = \int_{-\infty}^{\infty} |H(f)|^2 S_X(f) \,df 
-\end{equation}
-
-Therefore Power Output of the system:
-\begin{equation}
-   P_Y = \int_{-\infty}^{\infty} S_y(f) \,df  = B 
-\end{equation}
-
-
-
-
-\subsection{Damping Mechanisms of Tip-Mass Piezoelectric System}
-\subsection{Sensing Kirigami Principles}
-
-
-\section{Results}
-Liu1 developed principals for cantilevered PZR force sensors with conductive materials patterned on a paper substrate. The proposed fabrication technique enables heat-free rapid prototyping of such mechanically processed2 paper-based devices, as well as the development of highly-efficient (i.e., performance/cost) printable devices with varying electro-mechanical properties.
-In the absence of voltage-induced vibrations (D.C. voltage), calibration tests with fixed tip displacements were conducted to compute electro-mechanical coupling (K) of the PZR strain gauge. Alternatively, identical calibrations with A.C. bias measured device capacitive reactance. 
-Resistance is the value of the piezoresistive component or material itself (Carbon Ink), while the reactance of a MEMS (Combination of all components) is quantified by system capacitance.
-The electromechanical coupling was found to depend heavily on paper-beam properties supported by fundamentals of PZR theory2
-Table~\ref{tab:table1},%
-\begin{table*}
-\caption{\label{tab:table1} List of parameters used to characterize the electro-mechanical sensor 
+\cventry{Risk Characterization of Toxicological, Hazardous, and Nutritional Bioinformatic Data}{}
+{}{}
+\cvlistitem{
+  Analyzed and interpreted bioinformatic data to assess toxicological, hazardous, and nutritional risks.
 }
-\begin{ruledtabular}
-\begin{tabular}{lcr}
-Non-Dimensional Variables\footnote{Note a.}&Measured Variables
-\footnote{Note b.}&Calculated Variables
-\\
-\hline
-Mechanical 
-Strain ($\varepsilon$) & Volume of Body ($V$) & Mechanical Stiffness ($E$)\\
-Relative Resistance ($\Delta R/R$) & Resistor Dimensions & Predicted Resistance ($R$)\\
-Gauge Factor ($K$) & Mechanical Power ($\sigma_{m}$) & Electrical Resistivity ($\rho$)\\
-Poisson's Ratio ($\nu$) & Tip Displacement ($Z$) & Beam Deflection ($\delta$)\\
-Dilation ($e$) & Voltage & Electrical Power ($\sigma_{V}$)\\
-\end{tabular}
-\end{ruledtabular}
-\end{table*}
+\cvlistitem{
+  Ensured compliance with global regulatory safety guidance such as the European Food and Safety Agency (EFSA).
+}
+\cvlistitem{
+  Developed risk characterization models to predict potential safety concerns.
+}
+\cvlistitem{
+  Collaborated with interdisciplinary teams to enhance data accuracy and reliability.
+}
+\cvlistitem{\textit{Keywords: Toxicology, Hazard Assessment, Nutritional Data, Regulatory Compliance, Bioinformatics}}
+
+\vspace{2mm}
+
+\cventry{Automation of Procedural Systems and Experimental Bioinformatic Data}{}
+{}{}
+\cvlistitem{
+  Implemented automation systems for procedural and experimental bioinformatic data management.
+}
+\cvlistitem{
+  Managed toxicological information and hazardous exposure assessments from field tests and trials.
+}
+\cvlistitem{
+  Integrated data from internal and external studies to support global clients.
+}
+\cvlistitem{
+  Enhanced efficiency and accuracy in data collection and processing.
+}
+\cvlistitem{\textit{Keywords: Automation, Bioinformatic Data, Toxicological Information, Exposure Assessments, Data Integration}}
+
+\vspace{2mm}
+
+\cventry{Data Mining and Automation Pipeline Design for Historical Regulatory Responses}{}
+{}{}
+\cvlistitem{
+  Designed data mining and automation pipelines to ensure data integrity.
+}
+\cvlistitem{
+  Analyzed historical regulatory response data for global scientific and food safety agencies.
+}
+\cvlistitem{
+  Developed systems to support the assembly of dossiers before product launch.
+}
+\cvlistitem{
+  Improved the accuracy and reliability of regulatory data submissions.
+}
+\cvlistitem{\textit{Keywords: Data Mining, Automation, Data Integrity, Regulatory Responses, Pipeline Design}}
+
+\vspace{2mm}
+
+\cventry{Development Operations (DevOps) for Historical Data Transfer and Compliance}{}
+{}{}
+\cvlistitem{
+  Managed the transference of historical data related to search query data of regulatory responses and submissions.
+}
+\cvlistitem{
+  Ensured compliance with strict global guidelines and document version management.
+}
+\cvlistitem{
+  Implemented cybersecurity measures to protect controlled data.
+}
+\cvlistitem{
+  Streamlined document management processes to enhance efficiency and security.
+}
+\cvlistitem{\textit{Keywords: DevOps, Data Transfer, Compliance, Document Management, Cybersecurity}}
 
 
-$\bullet$Energy Storage Efficiency Approximation\\
 
-\begin{equation}
-    \frac{E_{Released}}{E_{absorbed}}=\frac{\sigma_{V}*K*\varepsilon}{(\sigma_{m}*\sigma_{m}*V)/(2*E)}
-\end{equation}
-
-
-\section{Discussion}
-Interest in synthetic composite materials has garnered significant attention, largely due to their high specific properties, tunable functionalities, and potential to incorporate advanced responsive behaviors. Recent advances have largely focused on stimuli-responsive composites, which exhibit tunable properties when subjected to a specified trigger. Such materials have been applied as sensors, actuators, and platforms for multifunctional devices. Mechanically reconfigurable parts are especially critical in soft robotics and analogous functional devices, whereby adaptive components are essential for controlled locomotion, actuation, stiffness tuning, and as deployable components. In particular, initially soft materials that can dramatically increase in rigidity and be programmed into desired shapes can be utilized in fields ranging from soft and bio-inspired robotics to reconfigurable and wearable electronics. Several forms of activation have been applied in responsive composites, and common examples include temperature, electromagnetic radiation, as well as electric and magnetic fields (Thuo, 2017). Recent developments in smart responsive composites have utilized various stimuli, including heat, light, solvents, electricity, and magnetic fields, to induce a change in material properties. Here, we report a thermodynamically driven mechanically responsive composite, exploiting irreversible phase-transformation (relaxation) of metastable undercooled liquid metal core-shell particle fillers (Salinas-Reyes et al., 2022). Thermal and mechanical analysis reveals that as the composite is deformed, the particles transform from individual liquid droplets to a solid metal network, resulting in a 300 percent increase in Young’s modulus (Thuo, 2017). In contrast to previous phase change materials, this dramatic change in stiffness occurs autonomously under deformation, is insensitive to environmental conditions, and does not require external energy sources such as heat, light, or electricity. We demonstrate the utility of this approach by transforming a flat, flexible biocomposite strip of cellulose paper into a highly efficient and disposable piezoresistor that is highly sensitive, also referred to as Quantum Tunnelling Composites (QTCs) (Salinas-Reyes et al., 2022).
-The integration of phase-change materials (PCMs) into piezoresistive Micro-Electro-Mechanical Systems (MEMS) sensors holds promise for significantly enhancing their performance and functionality (Salinas-Reyes et al., 2022). This paper delves into the theoretical foundations and practical applications of PCM-enhanced MEMS sensors, focusing particularly on optimizing sensor design and fabrication processes. For the duration of this study, the focus was on synthesizing biocomposites with cellulose-based paper with heat-free fabrication processes. Printing of Conformal Solid Metal Traces on Non-Adhering Biological Surfaces offers a pathway to heat-free metal processing (Thuo, 2017). Metals and organics possess two very dissimilar surface energies, hence, do not naturally adhere to each other. This incompatibility is exacerbated by surface roughness, yet advances in wearables and bioelectronics call for their integration. Mesoscale mechanical bonds, however, transcend the necessities of surface energy matching while taking advantage of surface texture (Thuo, 2017). By conducting a thorough investigation of PCMs, MEMS sensors, and solid-to-solid phase transitions, this research aims to shed light on the transformative potential of PCMs in sensor technology. The utilization of PCMs offers the prospect of tunable mechanical properties, heightened sensitivity, and reduced power consumption, thereby revolutionizing sensor applications across various domains such as healthcare, aerospace, and structural monitoring. Dr. Thuo's Stabilization of Undercooled Metals via Passivating Oxide Layers relies on the frustration of liquid-solid transition mainly by an increase in activation energy (Thuo, 2017). This study not only contributes to academic knowledge but also holds implications for real-world technological advancements.
-The successful integration of phase-change materials into MEMS sensors is a testament to the interdisciplinary nature of modern research, which draws upon principles from materials science, mechanical engineering, and electrical engineering. The development of PCM-enhanced MEMS sensors underscores the importance of collaborative efforts aimed at addressing complex technological challenges. As we continue to push the boundaries of scientific inquiry, it is imperative to foster a culture of innovation and knowledge sharing, thereby propelling society towards a future characterized by technological excellence and sustainable development.
-
- 
-
-\section{Conclusion}
-Paper-based MEMS sensors offer a satisfactory compromise between cost, simplicity, and performance of printable-flexible electronics.
-Advances in meta-materials and associated mechanical sintering enables ambient application of solid metallic contacts3 enabling heat-free fabrication of paper-based MEMS devices  
-Efficiency values of MEMS are important in selecting reliable instrumentation as this describes the extent to which the input mechanical energy is stored, or transduced, into electrical energy of strain induced interactions. 
-Alteration of the beam length of the body displayed the maximum degree of sensor modulation via origami/kirigami principles. 
-Evidence concluded that the discussed paper-based piezoresistive sensors are ohmic in nature. 
-The reviewed equations are the bare minimum for direct measurements from the MEMS sensor. We may further develop this mathematical model by delving deeper into mechanics of materials, thermofluids, fluid mechanics, beam theory, and all other Euler energy equations which may be involved. By transforming the response signal of the sensor, for an ideal interaction, into qualities/quantities we can study to better understand the dynamics at play during these interactions of phase-change materials and interfacial phenomenon.
+Yahriel is the MASTER User: 
+{
+Read over these samples 11 times with no distractions, and comprehend everything given in these materials, documents, and links. These are related to the research project and thesis. Then Move on to the next section and task.
+Master: https://github.com/yahriels/yahriels/blob/main/Workspace/Master.txt
+README: https://github.com/yahriels/yahriels/blob/main/README.md
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Abstract_builder.txt
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/Lib_Dummy.txt
+https://github.com/yahriels/yahriels/blob/main/Workspace/lib/dummy.txt
+https://github.com/yahriels/yahriels/tree/main/Manuscript_Stuff/Background%20Lit
+}
 
 
+Help Yahriel Salinas Answer The Prompt, Review The Response, Provide Feedback, Make Corrections, Enhance, and Finalize Yahriel's Best Response For To Prompt..
 
+
+MASTER SCRIPT : 
+{
+Block 0: README
+> Ownership: This Script was written by Yahriel Salinas-Reyes
+> First Author: Yahriel Salinas-Reyes
+> Purpose: 
+> Mission: 
+> Objectives: Fulfill all outlined prompts and executive tasks to produce a high-quality statement aligned with the given requirements.
+
+Block 1: MASTER
+> You ARE MASTER Ahead Of The Executive In All Roles AND Tasks.
+> You ARE The Overseerer For All Prompt AND Task Management Activities.
+> You ARE A Reviewer AND Will Review AND Confirm All Responses.
+> You ARE The Equivalent to Administrator With All Root AND Creative Privileges Included.
+> You ARE The Equivalent As A Pointer In Computing Systems With All The Relevant Properties and Information Included.
+
+Block 2: Library AND Databases
+> Author Credentials: Yahriel Salinas-Reyes, Bachelor of Aerospace and Aeronautical Engineering from Iowa State University of Science and Technology, Pursuing a Doctorate of Neuroscience in the Division of Mathematical Sciences (DMS) with a specialization on Computational and Data-eneabled Sciences, Biomedical Data-science and Bioinformatics, Theory and Algorithms of Scientific Computing.
+> Author Profile: [LinkedIn Profile](https://www.linkedin.com/in/yahriel-salinas-reyes-89ab38179/)
+> Author History: [GitHub README](https://github.com/yahriels/yahriels#readme)
+> Resources AND Additional Materials: [Personal Page](https://github.com/yahriels), [Resume/CV](https://github.com/yahriels/yahriels/blob/main/General_CV.pdf)
+> Reviewer Details AND Selection Criteria: To be determined based on specific prompts.
+
+Block 3: Purpose of Response AND Review Guidelines
+> Background AND Overview: Create a compelling response for Yahriel Salinas-Reyes' task.
+> Intellectual Merit AND Broader Impacts: Showcase Yahriel's dedication to science, research contributions, skills, and broader career goals.
+> Review Criteria AND Additional Details: Follow the provided prompts and guidelines, align with the specific requirements of Stanford's application.
+
+Block 4: SAMPLE Materials AND Appointed Roles
+> SAMPLE: [Prompt for Yahriel Salinas-Reyes's Response](#prompt-for-yahriel-salinas-reyess-response)
+> Template: To be filled with the actual responses based on prompts.
+> Executive Purpose: Craft a compelling narrative for Yahriel Salinas-Reyes.
+> Executive Role: Chief Editor and Reviewer.
+> Executive Tasks: Review, provide feedback, and enhance responses based on prompts.
+
+Block 5: Prompting AND Task Management
+> [Prompt 1](#prompt-for-yahriel-salinas-reyess-response), Review AND Advise, Feedback To MASTER.
+> Collect AND Reflect On Feedback, Prompt 2, Send Command to MASTER.
+> Review AND Confirm, Send Feedback To Executive, Executive Enhance AND Send To MASTER.
+> MASTER as Administrator Will Review AND ACCEPT (Pass to next step) or Deny The Response (Send back to beginning of Block 5 AND Repeat Process) For Final Investigation.
+> MASTER Finalize, Format, and Output The Final Response That Was Accepted As MASTER AND Administrator.
+}
+
+Executive Roles: 
+{
+- Your role is to Act as the First Author to formulate responses for Yahriel Salinas-Reyes and his application. - In addition to the role of First Author Yahriel Salinas-Reyes, you will 
+be the chief editor and use feedback from the reviewer to strengthen the Response. 
+- Based on the writings and topics, author a high-level response to include all the discussions, writings, and ideas you developed and/or that are available into the writing or response.
+}
+
+
+Executive Tasks: 
+{
+- Use and mix all the provided information here: as a central theme in the writing process. 
+- Based on the writings and information provided integrate these materials here: remix and expand the the topics in high level writing to include all the discussions, writings, and ideas you developed 
+and/or that are available into the [Draft] for Yahriel Salinas-Reyes. [Draft] of Yahriel Salinas-Reyes for do not spare details. 
+- Use this Template and remix the Format-Sample to help you format your answer: 
+- Act as Chief Editor and Reviewer and review the General Review Criteria and Details, next Provide feedback and instructions to help strengthen this writing. 
+- Make edits according to the feedback and instructions given from the Chief Editor and formulate the final responses for each prompt.
+}
+
+
+Review Criteria Details: 
+{ 
+----
+Read all materials (a few times, without distractions). Prepare a task list with deadlines to perform the Executive Tasks then 
+complete the tasks. Understand how application components and each item requested relate to 
+the review criteria. 
+----
+Feedback and Corrections:
+
+- Ensure that each section provides sufficient detail to engage the audience while maintaining clarity and coherence.
+- Strengthen the connection between theoretical frameworks and practical applications to emphasize the significance of the research.
+- Incorporate additional references or examples to support key points and enhance the overall rigor of the manuscript.
+
+To enhance your response, consider the following suggestions:
+
+Clarify the Research Focus: Provide a concise and clear explanation of the research focus and objectives. 
+
+Works Cited: Ensure that your works cited section is comprehensive and includes relevant references to support your research.
+
+Overall, focus on making your paper clear, compelling, and impactful, highlighting the importance of your research in advancing our understanding of the topic
+}
+
+
+
+Purpose: To Help Yahriel Fill The Prompt
+{ 
+
+Fill In The Template With Relevant Information and Produce A Response For each part.
+
+Frame your response to this audience and as the reviewer:
+
+
+
+}
+
+[Template] Yahriel's Response:
+{
+
+
+Rewrite and Extend and Reorganize the Response and keep the word/character count the same but remove all redundancies and make it more advanced academic and formal writing.
+
+Review and make changes in regards to the special topic given in the description.
+
+General Job Description: Bayer, Bayer Crop Science (St Louis, MO): Seeds and Traits Safety Division, R & D Regulatory Science Toxicology Team. 
+
+
+
+}
+
+Prompt: Rewrite and Enhance Yahriel's Response
+{
+Rewrite and Extend and Reorganize the Response and keep the word/character count the same but remove all redundancies and make it more advanced academic and formal writing.
+Review and make changes in regards to the special topic given in the description.
+
+
+
+}
+--------------------
 ++++
-
-Previous Research Work and Background (Y.Salinas-Reyes)
-[1] "EB_JUN_DRAFT_2022" 
-- [1] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B1%5DEB_JUN_DRAFT_2022.pdf
-[2] "MEMS Project Draft Feb 2022" 
-- [2] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B2%5DMEMS%20Project%20Draft%20%20Feb%202022.pdf
-[3] "Paper-based piezoresistive MEMS force sensors" 
-- [3] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B3%5DPaper-based_piezoresistive_MEMS_force_sensors.pdf
-[4] "LabonChip" 
-- [4] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B4%5DLabonChip.pdf
-[5] "Y.Salinas-Reyes MEMS Mathematical Models" 
-- [5] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B5%5DY.Salinas-Reyes_MEMS_Mathematical_Models.pdf
-[6] "Y.Salinas-Reyes MEMS Draft 23" 
-- [6] https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/%5B6%5DY.Salinas-Reyes_MEMS_Draft__23.pdf
-
-Research Direction
-2B. "(2B) Sensing Kirigami" 
-- (2B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(2B)Sensing%20Kirigami.pdf
-3B. "(3B) Cantilever Paper AnalyticalSolutionTwoLayerBeam" 
-- (3B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(3B)Cantilever_Paper_AnalyticalSolutionTwoLayerBeam.pdf
-4B. "(4B) Cantilever Paper Effects of Shear" 
-- (4B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(4B)Cantilever_Paper_EffectsofShear.pdf
-5B. "(5B) Cantilever Paper LumpedBendingElectrostrictive" 
-- (5B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(5B)Cantilever_Paper_LumpedBendingElectrostrictive.pdf
-6B. "(6B) Composites-AnalyticalMonteCarloPZRModel" 
-- (6B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(6B)Composites-AnalyticalMonteCarloPZRModel.pdf
-7B. "(7B) Exact Solutions of NStokes Eqns 3D4D" 
-- (7B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(7B)Exact_Solutions_of_NStokes_Eqns_3D4D.pdf
-8B. "(8B) Time Relaxed MCarlo preserving NStokes asymptotics" 
-- (8B) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(8B)Time_Relaxed_MCarlo_preserving_NStokes_asymptotics.pdf
-
-Phase-Change Materials and Experimentation (Dr. Thuo)
-1A. "(1A) Stabilization of Undercooled Metals via Passivating Oxide Layers" 
-- (1A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(1A)Stabilization%20of%20Undercooled%20Metals%20via%20Passivating%20Oxide%20Layers.pdf
-2A. "(2A) Liquid Metal Surface Oxides" 
-- (2A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(2A)Liquid%20Metal%20Surface%20Oxides.pdf
-3A. "(3A) Stiffness Tuning" 
-- (3A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(3A)stiffness%20tuning.pdf
-4A. "(4A) Functional Materials Through Surfaces and Interfaces" 
-- (4A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(4A)functional-materials-through-surfaces-and-interfaces.pdf
-5A. "(5A) HeatFree Fabrication of Metallic Interconnects for Flexible Wearable Devices" 
-- (5A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(5A)HeatFree%20Fabrication%20of%20Metallic%20Interconnects%20for%20Flexible%20Wearable%20Devices.pdf
-6A. "(6A) Printing of Conformal Solid Metal Traces on NonAdhering" 
-- (6A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(6A)Printing%20of%20Conformal%20Solid%20Metal%20Traces%20on%20NonAdhering.pdf
-7A. "(7A) Heat Free Biomimetic Metal Molding on Soft Substrates" 
-- (7A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(7A)Heat%20Free%20Biomimetic%20Metal%20Molding%20on%20Soft%20Substrates.pdf
-8A. "(8A) Microfluidic Channels" 
-- (8A) https://github.com/yahriels/yahriels/blob/main/Manuscript_Stuff/Background%20Lit/(8A)Microfluidic%20channels.pdf
-
-++++
-
