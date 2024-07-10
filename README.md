@@ -46,8 +46,8 @@ Operational Research Techniques, Electrical Components (PCB) Circuit Design & An
 
 ### RESUME/CV 
 
-> Fellowship Awards
-> Program Institution/Board Year
+> Fellowship Awards 
+Program Institution/Board Year
 GEM Ph.D. Fellowship* (Sci.&Eng.)
 Open/Study Research Award(Finalist)
 ACCT Cert.(Order of The Engineer)
@@ -75,6 +75,8 @@ Louis Stokes Alliances for Minority Participation (LSAMP)
 2021-2022
 2021-2022
 2019-2021
+
+
 > Work Experience
 Bayer Crop Science, Seeds & Traits Safety: R & D Regulatory Science Toxicology Group St Louis, MO
 Scientist I & Data Engineer 05/2024- Present
@@ -118,7 +120,8 @@ Information Technology Specialist & Data Scientist 08/2019- 05/2023
 { Provided technical expertise and operated in cross-functional teams with effective communication of controlled
 data, contributing to the implementation, monitoring, and maintenance of IT systems while leveraging data science
 techniques for analysis and decision-making. Gained experience in full-stack development & CS infrastructure systems.}
-> Key Projects within Regulatory Science & Bioinformatics
+> 
+Key Projects within Regulatory Science & Bioinformatics
 1. Risk Characterization of Toxicological, Hazardous, and Nutritional Bioinformatic Data May 2024 - Present
 Regulatory Science Group in Seeds and Traits Safety Division / (Mentor: Dr. Kimberly Hodge-Bell) Bayer Crop Science
 { Analyzed and interpreted bioinformatic data to assess toxicological, hazardous, and nutritional risks.}
