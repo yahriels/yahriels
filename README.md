@@ -35,8 +35,7 @@ Mobile: +1-515-314-4160
 
 -----
 ### Training and Additional Information
-  Other education/training/skills
- GEM Fellowship PhD Science and Engineering, Regulatory Science Affairs R & D, Clean Room Operations, Scientific Instrumentation Troubleshooting, Computational Modeling, Materials Sciences, Applied Mathematics & Numerical Methods, Nanoscience/technology, Data Science, Electrical/Industrial Engineering, Systems Engineering, Design of Experiments (DOE), Signals and Controls Systems, Statistics, Machine Learning and Deep Learning, Neural Networks, Software Development/Engineering, Full-Stack Development.
+> Scientific Instrumentation Troubleshooting, Computational Modeling, Materials Sciences, Applied Mathematics & Numerical Methods, Nanoscience/technology, Data Science, Electrical/Industrial Engineering, Systems Engineering, Design of Experiments (DOE), Signals and Controls Systems, Statistics, Machine Learning and Deep Learning, Neural Networks, Software Development/Engineering, Full-Stack Development, Clean Room Operations.
 
 ### Computer skills (hardware and software)
 > {Programming}: Python, R, Linux, .NET, C, C++, C\#, Java/JavaScript, HTML/CSS, MATLAB, SQL, GO, AWS
@@ -47,7 +46,7 @@ Operational Research Techniques, Electrical Components (PCB) Circuit Design & An
 
 ### RESUME/CV 
 
-Fellowship Awards
+> Fellowship Awards
 Program Institution/Board Year
 GEM Ph.D. Fellowship* (Sci.&Eng.)
 Open/Study Research Award(Finalist)
@@ -76,7 +75,7 @@ Louis Stokes Alliances for Minority Participation (LSAMP)
 2021-2022
 2021-2022
 2019-2021
-Work Experience
+> Work Experience
 Bayer Crop Science, Seeds & Traits Safety: R & D Regulatory Science Toxicology Group St Louis, MO
 Scientist I & Data Engineer 05/2024- Present
 { Operate in Automation/Deep Learning & provide digital/software solutions aligned with the RAG Pipeline to crossfunctional teams in agricultural science and biotechnology, specifically, the Macromolecular Toxicology in the Seeds &
@@ -119,7 +118,7 @@ Information Technology Specialist & Data Scientist 08/2019- 05/2023
 { Provided technical expertise and operated in cross-functional teams with effective communication of controlled
 data, contributing to the implementation, monitoring, and maintenance of IT systems while leveraging data science
 techniques for analysis and decision-making. Gained experience in full-stack development & CS infrastructure systems.}
-Key Projects within Regulatory Science & Bioinformatics
+> Key Projects within Regulatory Science & Bioinformatics
 1. Risk Characterization of Toxicological, Hazardous, and Nutritional Bioinformatic Data May 2024 - Present
 Regulatory Science Group in Seeds and Traits Safety Division / (Mentor: Dr. Kimberly Hodge-Bell) Bayer Crop Science
 { Analyzed and interpreted bioinformatic data to assess toxicological, hazardous, and nutritional risks.}
@@ -149,7 +148,7 @@ GEM Fellow / Software & Data Engineering, Regulatory Macromolecular Toxicology T
 { Implemented cybersecurity measures to protect controlled data.}
 { Streamlined document management processes to enhance efficiency and security.}
 { Keywords: DevOps, Data Transfer, Compliance, Document Management, Cybersecurity}
-Research and Development Projects
+> Research and Development Projects
 1. Experimental Techniques: Flow Separation & Chemical Sintering August 2019 - August 2023
 B.Tech / (Prof: Dr. Martin Thuo, Dr. Thomas Ward) Iowa State University of Science & Technology
 { Developed hardware-software components and signal processing circuits for detecting flow instabilities in paper-based
@@ -175,10 +174,10 @@ Prof: Dr. Martin Thuo Dept. of Materials Science and Engineering, ISU NSF-LSAMP,
 { Collaborated on developing novel materials with unique properties for various industrial applications.}
 { Investigated the behavior of phase-change materials under different conditions for practical utilization}
 { Keywords: Materials Science, Chemical Synthesis, Solid-State Physics, Advanced Materials, Applications}
-Course Work
+> Course Work
 Key Courses August 2019-December 2023
 (Fundamentals and Formal Methods) Iowa State University: College of Engineering}
-{ Courses: Applied Mechanics & Physics, Materials Science & Engineering, Engineering & Polymeric Chemistry, Engineering Statistics, Machine-Learning/Data-Science, Finite Element Method, Bayesian Methods, Systems Engineering}
+{ Courses: Applied Mechanics & Physics, Materials Science & Engineering, Engineering & Polymeric Chemistry, Engineering Statistics, Machine-Learning/Data-Science, Finite Element Method, Bayesian Methods, Systems Engineering}
 { Lab: Numerical & Graphical Techniques, Advanced Computing/Programming, Advanced Data Structures & Algorithms}
 Online Courses
 { Deep Learning/CS: Digital System Testing & Testable Design, Theory & Applications of Data Structures and
