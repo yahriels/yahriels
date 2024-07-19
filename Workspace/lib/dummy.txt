@@ -1,138 +1,20 @@
-Yahriel Is applying a fellowship. Use these links to collect information on the fellowship and develop responses that use these links provided below. NOW GENERATE A COVER LETTER BASED ON THE TEMPLATE GIVEN.
-https://www.aphl.org/Career-Pathways/fellowships/Pages/default.aspx
-https://www.aphl.org/Pages/default.aspx
-https://www.aphl.org/Career-Pathways/Internships/Pages/default.aspx
+Help me write an email to this professor https://be.utdallas.edu/people/faculty/gu-eon-kang/ https://labs.utdallas.edu/nmbl/emotion-on-motion/ https://labs.utdallas.edu/nmbl/dual-task/. In the email include incorporate some details about your interests: {Subject: Inquiry About Research/Contract Position and Potential PhD Opportunities  I have been accepted into a PhD Science and Engineering Fellowship, in my current situation I am taking a gap year before entering graduate school and am seeking a research/contract position. Beyond the year, I am looking for graduate student research positions for my PhD. My interests in PhD are in neuroscience, bioinformatics, biomedical engineering, with a focus on mental health and neurological disorders (such as schizophrenia, speech pathology, etc.) and I am greatly interested in this lab. 
+I align with your broad range of interests includes areas of research committed to []. 
+This is because I have direct interest in [ https://labs.utdallas.edu/nmbl/dual-task/ https://labs.utdallas.edu/nmbl/emotion-on-motion/]
+Your research makes use of technologies such as []. 
 
-Help Me Answer This Question in 500 Words Exactly
+Biomechanics, Gait, Posture, Wearable sensors, Motion analysis, Computational modeling, Finite element analysis, Physical activity, Physiological monitoring
+Neurophysiology and Neuroimaging of the Human Brain
+Neurological Bases of Motor and Mental Health Disorders
+Brain Stimulation and Neurofeedback Training
+Signal Processing and Computational Modeling.
 
-> {RESPONSE IN 250 WORDS EXACTLY}
-
-
-
-How could this fellowship position play a role in your long-term career goals? Please explain.
-Career Goals	Excellent - 100	Adequate - 85	Underdeveloped - 70	Not met - 0
-Career Goals 70%	Clearly identified how this fellowship will play a role in long term career 70	States career goals but not clearly linked to fellowship 59.5	Poor definition of both career goals and the connection to the fellowship 49	Not clearly defined and/or not well supported 0
-Appropriate collegiate level language and vocabulary 15%	Uses appropriate vocabulary scientific terms as appropriate 15	A missed opportunity or misused term 12.75	Multiple missed opportunities and/or misused terms 10.5	Not at an appropriate level 0
-Grammar, Spelling 15%	Free of errors 15	Minimal errors (1-3) 12.75	Many errors (3+) 10.5	Wrought with errors 0
-
-What qualifications and skills make you a good candidate for this fellowship? Please explain.
-Skills	Excellent - 100	Adequate - 85	Underdeveloped - 70	Not met - 0
-Skills and Qualifications 70%	Clearly identified multiple skills and qualifications that directly relate to the fellowship 70	States skills and qualifications but not directly related to fellowship 59.5	Poorly stated skills and qualifications and inadequate links to the fellowship 49	Not clearly defined and/or not well supported 0
-Appropriate collegiate level language and vocabulary 15%	Uses appropriate vocabulary scientific terms as appropriate 15	A missed opportunity or misused term 12.75	Multiple missed opportunities and/or misused terms 10.5	Not at an appropriate level 0
-Grammar, Spelling 15%	Free of errors 15	Minimal errors (1-3) 12.75	Many errors (3+) 10.5	Wrought with errors 0
-
-What specific skills are you hoping to gain from this experience? Please explain.
-Gains	Excellent - 100	Adequate - 85	Underdeveloped - 70	Not met - 0
-How to gain 70%	Clearly defines goals that are appropriate for this program 70	States goals but either not clearly or not appropriate for this program 59.5	Poorly stated goals and/or inadequate rationale 49	Not clearly defined and/or not well supported 0
-Appropriate collegiate level language and vocabulary 15%	Uses appropriate vocabulary scientific terms as appropriate 15	A missed opportunity or misused term 12.75	Multiple missed opportunities and/or misused terms 10.5	Not at an appropriate level 0
-Grammar, Spelling 15%	Free of errors 15	Minimal errors (1-3) 12.75	Many errors (3+) 10.5	Wrought with errors 0
-*
-
-Template:{During my work at Bayer, I have developed a strong interest in pursuing a Ph.D.
-Having thoroughly researched the responsibilities involved, I discovered many areas where this project's tasks align with my areas of study and personal interests.
-This position provides an ideal opportunity for me to further my academic career.
-
-In \replace{[Month, Year]}, I successfully completed my \replace{[master's degree in Electrical Engineering with a specialization in control theory at the University]}.
-Since \replace{[Month Year]}, I have been employed full-time as a specialist for railway operational safety in the field of electrical engineering at Deutsche Bahn AG.
-In this role, I analyze information from committees and various sources on electrical engineering in the context of railway operational safety.
-I also worked as a tutor at \replace{[the University]} in the Faculty of Electrical Engineering, specifically in the Power Electronics Research Group, for nearly three years.
-My teaching responsibilities included conducting office hours for students and independently leading and supervising multiple weekly tutorials and labs on the subject of “Fundamentals of Electrical Engineering.”
-
-During my studies, I gained practical experience through laboratory experiments, which allowed me to develop skills in handling electrical circuits and using various programs such as Matlab/Simulink.
-I am also proficient in simulation using Cadence and Eagle, evaluation with Matlab, and text writing using LaTeX.
-Furthermore, through a successful project titled \replace{“[XXXXXXXX],”} which resulted in a publication, I further expanded my knowledge in Matlab/Simulink and Python.
-
-I would like to be chosen for this Ph.D. position because I believe that this project allows me to further develop and enhance my research skills at an advanced academic level.
-I am fully aware of the dedication and persistence required to achieve outstanding results in this field, and I have gained these attributes through my academic pursuits.
-Additionally, I have successfully collaborated on various group projects both during my studies and in my professional experience, demonstrating my ability to work effectively within a team.
-Participating in this project would not only allow me to showcase my existing skills but also provide me with an opportunity to acquire new ones.
-I would appreciate an invitation to a personal interview.}
-
---------
-Public Health Laboratory Fellowship Program: Participant Application - Salinas-reyes, Yahriel
-Thank you for your interest in the Public Health Laboratory Fellowship Program. Please read all questions carefully and answer as completely as possible.
-----------
+This is because I have interest in studying Schizophrenia which is described as four characteristics (Bleuler's 4A's): Alogia (poverty of thought/speech), Autism, Ambivalence, and Affect Blunting. Given your expertise, I am interested in studying the theoretical underpinnings of Alogia and speech pathology in this conditions (schizophrenia). 
+In addition, I am passionate about this area of research because I myself have struggled with biomechanics (Gait), numerous soft tissue (fascia) injuries, and other muscoskeletal disorders in part due to posture, intense physical activity training, as well as neurological disorders I faced early in my life. 
+I am aligned with the interests of your lab because I am very strong in signals and controls, systems engineering, data science, and particularly strong in finite element analysis & computational modeling with an interest in understanding the neurophysiological, neurological, and neurobiological underpinnings of conditions such as these. Thank you for considering my candidacy and I would like to schedule and informational interview to learn more about your groundbreaking work.}
 
 
-
-
-\section{Work Experience}
-
-\cventry{05/2024- Present}{Scientist I \& Data Engineer}{\textsc{Bayer Crop Science, Seeds \& Traits Safety: R \& D Regulatory Science Toxicology Group}}{St Louis, MO}{}{}
-\cvlistitem{Engage in cutting-edge research in agricultural science and biotechnology within the Seeds \& Traits Regulatory Science Group at Bayer. Assist the Toxicology team with automating systems for regulatory responses and data input for global clients. Responsible for designing data mining pipelines and ensuring the integrity and transfer of bioinformatic data.}
-
-\vspace{-1em}
-\section{Key Projects with Bayer}
-
-\cventry{Risk Characterization of Toxicological, Hazardous, and Nutritional Bioinformatic Data}{}
-{}{}
-\cvlistitem{
-  Analyzed and interpreted bioinformatic data to assess toxicological, hazardous, and nutritional risks.
-}
-\cvlistitem{
-  Ensured compliance with global regulatory safety guidance such as the European Food and Safety Agency (EFSA).
-}
-\cvlistitem{
-  Developed risk characterization models to predict potential safety concerns.
-}
-\cvlistitem{
-  Collaborated with interdisciplinary teams to enhance data accuracy and reliability.
-}
-\cvlistitem{\textit{Keywords: Toxicology, Hazard Assessment, Nutritional Data, Regulatory Compliance, Bioinformatics}}
-
-\vspace{2mm}
-
-\cventry{Automation of Procedural Systems and Experimental Bioinformatic Data}{}
-{}{}
-\cvlistitem{
-  Implemented automation systems for procedural and experimental bioinformatic data management.
-}
-\cvlistitem{
-  Managed toxicological information and hazardous exposure assessments from field tests and trials.
-}
-\cvlistitem{
-  Integrated data from internal and external studies to support global clients.
-}
-\cvlistitem{
-  Enhanced efficiency and accuracy in data collection and processing.
-}
-\cvlistitem{\textit{Keywords: Automation, Bioinformatic Data, Toxicological Information, Exposure Assessments, Data Integration}}
-
-\vspace{2mm}
-
-\cventry{Data Mining and Automation Pipeline Design for Historical Regulatory Responses}{}
-{}{}
-\cvlistitem{
-  Designed data mining and automation pipelines to ensure data integrity.
-}
-\cvlistitem{
-  Analyzed historical regulatory response data for global scientific and food safety agencies.
-}
-\cvlistitem{
-  Developed systems to support the assembly of dossiers before product launch.
-}
-\cvlistitem{
-  Improved the accuracy and reliability of regulatory data submissions.
-}
-\cvlistitem{\textit{Keywords: Data Mining, Automation, Data Integrity, Regulatory Responses, Pipeline Design}}
-
-\vspace{2mm}
-
-\cventry{Development Operations (DevOps) for Historical Data Transfer and Compliance}{}
-{}{}
-\cvlistitem{
-  Managed the transference of historical data related to search query data of regulatory responses and submissions.
-}
-\cvlistitem{
-  Ensured compliance with strict global guidelines and document version management.
-}
-\cvlistitem{
-  Implemented cybersecurity measures to protect controlled data.
-}
-\cvlistitem{
-  Streamlined document management processes to enhance efficiency and security.
-}
-\cvlistitem{\textit{Keywords: DevOps, Data Transfer, Compliance, Document Management, Cybersecurity}}
+USE THIS RESUME/FILE AS A BASELINE TO HELP DESCRIBE YAHRIEL'S BACKGROUND AND CAREER: https://github.com/yahriels/yahriels/blob/main/Yahriel_Resume_CV.pdf
 
 
 
