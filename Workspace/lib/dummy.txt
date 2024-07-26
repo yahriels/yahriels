@@ -1,17 +1,34 @@
-Help me write an email to this professor https://be.utdallas.edu/people/faculty/gu-eon-kang/ https://labs.utdallas.edu/nmbl/emotion-on-motion/ https://labs.utdallas.edu/nmbl/dual-task/. In the email include incorporate some details about your interests: {Subject: Inquiry About Research/Contract Position and Potential PhD Opportunities  I have been accepted into a PhD Science and Engineering Fellowship, in my current situation I am taking a gap year before entering graduate school and am seeking a research/contract position. Beyond the year, I am looking for graduate student research positions for my PhD. My interests in PhD are in neuroscience, bioinformatics, biomedical engineering, with a focus on mental health and neurological disorders (such as schizophrenia, speech pathology, etc.) and I am greatly interested in this lab. 
-I align with your broad range of interests includes areas of research committed to []. 
-This is because I have direct interest in [ https://labs.utdallas.edu/nmbl/dual-task/ https://labs.utdallas.edu/nmbl/emotion-on-motion/]
-Your research makes use of technologies such as []. 
+Help me write an email to this professor about inquiring about opportunities matriculating as a GEM Fellow of the PhD Science and Engineering Fellowship
 
-Biomechanics, Gait, Posture, Wearable sensors, Motion analysis, Computational modeling, Finite element analysis, Physical activity, Physiological monitoring
-Neurophysiology and Neuroimaging of the Human Brain
-Neurological Bases of Motor and Mental Health Disorders
-Brain Stimulation and Neurofeedback Training
-Signal Processing and Computational Modeling.
+https://www.ll.mit.edu/
 
-This is because I have interest in studying Schizophrenia which is described as four characteristics (Bleuler's 4A's): Alogia (poverty of thought/speech), Autism, Ambivalence, and Affect Blunting. Given your expertise, I am interested in studying the theoretical underpinnings of Alogia and speech pathology in this conditions (schizophrenia). 
-In addition, I am passionate about this area of research because I myself have struggled with biomechanics (Gait), numerous soft tissue (fascia) injuries, and other muscoskeletal disorders in part due to posture, intense physical activity training, as well as neurological disorders I faced early in my life. 
-I am aligned with the interests of your lab because I am very strong in signals and controls, systems engineering, data science, and particularly strong in finite element analysis & computational modeling with an interest in understanding the neurophysiological, neurological, and neurobiological underpinnings of conditions such as these. Thank you for considering my candidacy and I would like to schedule and informational interview to learn more about your groundbreaking work.}
+Interested in this area of research https://www.ll.mit.edu/r-d/biotechnology-and-human-systems
+
+
+“The National GEM Consortium is a critically important part of MIT Lincoln Laboratory’s diversity and inclusion programs. GEM has connected us to a much wider pool of top talent pursuing STEM-related degrees.”
+Dr. Eric D. Evans
+MIT Lincoln Laboratory
+Director
+
+
+
+Dr. Eric D. Evans served as the 11th director of MIT Lincoln Laboratory from 2006 to 2024. During his 18 years of leadership, Evans led the Laboratory to adapt and strengthen during a time of significant change for national security needs. His tenure was marked by the establishment of new R&D mission areas, the strengthening of ties to the MIT community, the improvement of technology transfer processes, and an increase in inclusion and educational outreach efforts. He also served as a key advisor on technology strategy to senior government leaders. 
+
+
+
+
+
+
+I hope this email finds you well. My name is Yahriel Salinas-Reyes, and I have been accepted into a PhD Science and Engineering Fellowship. Before beginning my doctoral studies, I am taking a gap year and am seeking a research or contract position. I am also looking for potential graduate student research positions for my PhD, focusing on neuroscience, bioinformatics, and biomedical engineering, with a particular interest in mental health, disease, and neurological disorders, including schizophrenia and speech pathology. The alignment of your lab's research with my academic and professional aspirations is highly compelling. I am keenly interested in studying schizophrenia, particularly exploring the theoretical underpinnings of Alogia and speech pathology within this condition, characterized by Bleuler's 4A's: Alogia (poverty of thought/speech), Autism, Ambivalence, and Affect Blunting.
+
+
+I am particularly interested in studying the theoretical underpinnings of mental health disorders and diseases, aiming to engineer and develop safe solutions and medical devices to advance global public health. My personal journey with auditory processing, speech pathology, and hearing loss has fueled my commitment to advancing knowledge in these fields especially in neuropathy and brain & brain sciences.
+
+I would greatly appreciate the opportunity to discuss your groundbreaking work and explore how my background and interests might align with the goals of your lab. I am eager to contribute to your research and learn from your expertise. Could we schedule an informational interview at your convenience?
+
+This is because I have interest in studying [] I am interested in studying the theoretical underpinnings of mental health disorders, illness, and disease with the ability to engineering and develop safe solutions and medical devices to advance global public health. 
+In addition, I am passionate about this area of research because I myself have struggled with [] I faced early in my life. 
+I am aligned with the interests of your lab because I am very strong in signals and controls, systems engineering, data science, and particularly strong in finite element analysis & computational modeling with an interest in understanding the neurophysiological, neurological, and neurobiological foundations of conditions such as these. Thank you for considering my candidacy and I would like to schedule and informational interview to learn more about your groundbreaking work.}
 
 
 USE THIS RESUME/FILE AS A BASELINE TO HELP DESCRIBE YAHRIEL'S BACKGROUND AND CAREER: https://github.com/yahriels/yahriels/blob/main/Yahriel_Resume_CV.pdf
