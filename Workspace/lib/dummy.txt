@@ -1,37 +1,217 @@
-Help me write an email to this professor about inquiring about opportunities matriculating as a GEM Fellow of the PhD Science and Engineering Fellowship
-
-https://www.ll.mit.edu/
-
-Interested in this area of research https://www.ll.mit.edu/r-d/biotechnology-and-human-systems
-
-
-“The National GEM Consortium is a critically important part of MIT Lincoln Laboratory’s diversity and inclusion programs. GEM has connected us to a much wider pool of top talent pursuing STEM-related degrees.”
-Dr. Eric D. Evans
-MIT Lincoln Laboratory
-Director
+Help me write a reccomendation letter that is written from the perspective of Dr. Matias Attene-Ramos, a former mentor of Yahriel Salinas-Reyes, for Yahriel's Graduate School Application. Highlight how his experience aligns with his goals and how we is prepared to understand graduate study and a PhD.
+Also mention how his current internship with Bayer has helped him in his transition to medical sciences and biomedical engineering and prepared him with real-world industry experience directly related to his PhD program of interest.
+Use these resources to help you draft your letter of recommendation from the perspective/author of Dr. Matias Attene-Ramos on behalf of Yahriel Salinas-Reyes:
+https://online.usc.edu/news/how-to-write-a-letter-of-recommendation-for-graduate-school/
+https://www.indeed.com/career-advice/career-development/graduate-school-recommendation-letter
+https://blog.wordvice.com/graduate-school-recommendation-letter-templates-and-examples/
+https://career.sites.clemson.edu/documents/faculty_writing_guidelines.pdf
+https://www.shemmassianconsulting.com/blog/letter-of-recommendation-for-graduate-school
 
 
+Dr. Matias Attene-Ramos: {
 
-Dr. Eric D. Evans served as the 11th director of MIT Lincoln Laboratory from 2006 to 2024. During his 18 years of leadership, Evans led the Laboratory to adapt and strengthen during a time of significant change for national security needs. His tenure was marked by the establishment of new R&D mission areas, the strengthening of ties to the MIT community, the improvement of technology transfer processes, and an increase in inclusion and educational outreach efforts. He also served as a key advisor on technology strategy to senior government leaders. 
+Dr. Matias Attene-Ramos title of Senior Toxicologist, served as the mentor to Yahriel Salinas-Reyes throughout his internship with Bayer Research and Development LLC. 
+Dr. Matias Attene-Ramos is a former Professor  at George Washington University | GW · Department of Environmental and Occupational Health
+Matias S. Attene-Ramos is an academic researcher from National Institutes of Health. The author has contributed to research in topics: DNA damage & Chemistry. The author has an hindex of 19, co-authored 28 publications receiving 2114 citations. Previous affiliations of Matias S. Attene-Ramos include National Center for Supercomputing Applications & University of Illinois at Urbana–Champaign.
+https://typeset.io/authors/matias-s-attene-ramos-2qzahmcml7
+https://www.researchgate.net/profile/Matias-Attene-Ramos
+
+Impact Statement From Yahriel's Internship: By enabling efficient navigation and retrieval of data
+from the regulatory responses database, our work saves valuable resources
+and streamlines the process of accessing critical information for regulatory
+compliance and decision-making.
+}
+ EXAMPLE: {
+    
+    University Texas Dallas, Graduate Application for Admission
+Applicant: Yahriel Salinas-Reyes
+Program: [Biomedical Engineering/Cognition and Neuroscience] 
+Department: [Department of Bioengineering/School of Behavioral and Brain Sciences]
+
+
+Essay
+
+for my PhD, focusing on neuroscience, bioinformatics, and biomedical engineering, with a particular emphasis on mental health, neurological disorders, including schizophrenia and speech pathology. The alignment of your lab's research with my academic and professional aspirations is highly compelling. I am keenly interested in studying schizophrenia, particularly exploring the theoretical underpinnings of Alogia and speech pathology within this condition, characterized by Bleuler's 4A's: Alogia (poverty of thought/speech), Autism, Ambivalence, and Affect Blunting.
+
+Introduction
+My journey towards pursuing a Doctor of Philosophy in Biomedical Engineering at the University of Texas Dallas is driven by a deep commitment to advancing global healthcare through innovative research and engineering solutions with a special interest in translating scientific discovery to real-world application and real-world solutions to benefit society. This essay outlines my academic interests, professional objectives, and the personal growth that has defined my path.
+
+Academic and Professional Objectives
+My professional interests focus on advancing science and technology in medical sciences, with a particular emphasis on computational neuroscience and biomedical engineering. My intellectual pursuits encompass the theoretical and neurobiological underpinnings of mental health disorders, auditory processing, and musculoskeletal disorders. I am especially driven by the goal of developing novel solutions to aid individuals suffering from chronic pain and stress.
+
+Academic Background and Transformation
+Throughout my academic career, I have continually challenged myself to step out of my comfort zone, seeking growth and development in every endeavor. My undergraduate studies in Aerospace Engineering at Iowa State University provided me with a strong foundation in engineering principles. However, as I approached the end of my curriculum, I experienced a significant shift in my interests and values.
+
+The aerospace industry primarily focuses on developing military aircraft and weaponry, which conflicted with my core values of serving people and advancing global health. Despite my academic success, I experienced a period of intense self-reflection, leading me to re-evaluate my goals and ultimately choose a path aligned with my passion for biomedical sciences and global healthcare.
+
+Navigating Challenges and Embracing Growth
+The discrepancies in my GPA during the last two semesters of my undergraduate studies reflect this challenging period of transition. While my academic performance temporarily declined, this phase was marked by significant personal growth and a deeper understanding of true learning and development. I realized that grades, while important, are not the sole indicators of one's abilities and potential. Instead, qualities such as critical thinking, resilience, and the capacity to accept constructive criticism are far more valuable.
+
+During this period, I learned to listen to myself, continuously re-evaluating my core values and ensuring that my actions aligned with them. This transformation was not easy, but it was necessary for me to become the most authentic version of myself. Embracing this new path, I redirected my focus towards contributing to medical sciences, developing biomedical solutions, and advancing global healthcare.
+
+Research Contributions and Future Aspirations
+As an R&D Engineer with over seven years of experience in designing hardware and software solutions, I bring a robust background in various engineering disciplines. My work has encompassed both front-end and back-end technologies, and I have contributed to multiple submitted manuscripts and publications during my undergraduate studies. Notably, I co-authored a manuscript titled "Characterizing Damping Mechanisms in Piezoelectric Wind-Energy Harvesters," submitted to the Journal of Applied Physics in 2023. Additionally, I prepared a first-author manuscript, "Quantum Tunneling Composites: Analytical Monte Carlo Model & Navier-Stokes," submitted to the Applied Physics Journal in 2023.
+
+My long-standing interests in biomedical engineering and neuroscience have led me to focus on advancing stewardship in global healthcare systems. I am particularly passionate about developing therapeutics for chronic pain and stress, understanding the mechanisms underlying mental health disorders, and improving access to healthcare for underserved populations.
+
+Conclusion
+Today, I stand before you as a transformed individual, ready to contribute to the University of Texas Dallas's PhD program in Biomedical Engineering. My journey has been marked by significant challenges and profound growth, solidifying my dedication to leveraging my diverse expertise to impact the well-being of individuals worldwide. I am eager to advance science and technology practices in global healthcare systems and medicine, bringing my broad and expansive knowledge set to your esteemed program. Together, we can reach for the stars while raising our communities with us.
+
+-----
+
+Addressing GPA Discrepancies
+The lower than expected GPA in my final semesters as an undergraduate at Iowa State University does not fully represent my academic journey or capabilities. It was during this time that I grappled with the ethical implications of my chosen field of Aerospace Engineering. The realization that my work would contribute to military applications clashed with my core values of serving humanity and advancing global health. This internal conflict led to a period of intense self-reflection and transformation.
+
+While my academic performance suffered, this phase was crucial for my personal and professional growth. I realized that true learning extends beyond grades to include critical thinking, resilience, and the ability to accept and grow from constructive criticism. This understanding has been fundamental in my transition to biomedical engineering, where I now strive to develop solutions that align with my values and contribute to global healthcare.
+
+Transition to Biomedical Sciences
+The turning point in my career came when I joined the GEM PhD Science and Engineering Fellowship and interned at Bayer R&D in Crop Science. Working with cross-functional teams in Regulatory Science & Affairs within the Toxicology Team, I gained invaluable experience in pharmaceuticals and health solutions. This role reaffirmed my commitment to biomedical sciences and my dedication to advancing global healthcare.
+
+Commitment to Core Values
+Faced with the decision to pursue a straightforward academic path or follow my core values, I chose the latter. This decision, though difficult, has led me to a career path that truly aligns with my passion for biomedical engineering, neuroscience, and global health stewardship. I am committed to developing therapeutics for chronic pain and stress, improving healthcare access for underserved populations, and advancing global health systems.
+
+Final Thoughts
+Today, I stand as a transformed individual, dedicated to leveraging my expertise to impact global healthcare positively. I am eager to contribute to the PhD program in Biomedical Engineering at the University of Texas Dallas, where I believe I can advance science and technology practices in medicine. I bring a wealth of knowledge and experience, ready to face new challenges and contribute to the community and the field.
+}
+----
+
+University Texas Dallas, Graduate Application for Admission
+Essay 
+Applicant: Yahriel Salinas-Reyes
+
+Applying for admission for Doctor of Philosophy in Biomedical Engineering, as well as Cognition and Neuroscience: https://bbs.utdallas.edu/departments/neuroscience/graduate-programs/cognition-and-neuroscience-phd/
+https://www.utdallas.edu/fact-sheets/ecs/phd-biomedical-engineering/
+https://catalog.utdallas.edu/now/graduate/programs/ecs/biomedical-engineering#biomedical-engineering-phd
 
 
 
 
+SAMPLE THIS INFORMATION FOR THE RESPONSE WHICH ARE ROLES AND ACTIVITIES ASSOCIATED WITH DR. Matias Attene-Ramos:
+{
+
+Dear Members of the Admissions Committee,
+
+I am writing to provide my enthusiastic recommendation for Yahriel Salinas-Reyes, who is applying for admission to the Doctor of Philosophy in Biomedical Engineering program at the University of Texas at Dallas. Having had the privilege of mentoring Yahriel during his internship at Bayer Crop Science in the Seeds and Traits Safety Division, I can attest to his exceptional abilities, dedication, and readiness for graduate study.
+
+Yahriel’s journey into biomedical sciences has been marked by a strong foundation in engineering, underscored by his past experiences in Aerospace Engineering and his recent role in Bayer’s Regulatory Science Toxicology Team. His transition from Aerospace Engineering to biomedical sciences and engineering exemplifies his adaptability and commitment to pursuing meaningful scientific challenges. At Bayer, Yahriel’s work on risk characterization, data mining, and automation pipeline design has been instrumental in enhancing our understanding of toxicological risks and improving regulatory compliance. His proficiency in handling complex bioinformatic data and developing innovative solutions reflects his deep analytical skills and technical expertise.
+
+During his tenure with us, Yahriel demonstrated a keen ability to apply theoretical knowledge to real-world problems. His contributions included the development of automated dashboards, enhancing data processing speeds, and managing historical data transfers with precision. These experiences have not only provided him with valuable industry insights but have also solidified his understanding of biomedical engineering principles and their practical applications.
+
+Yahriel’s drive to advance global healthcare through innovative research and engineering solutions is particularly noteworthy. His academic background, combined with his hands-on experience at Bayer, has prepared him exceptionally well for the challenges of a PhD program. His work on the risk assessment and bioinformatics data directly aligns with his research interests in computational neuroscience and biomedical engineering, particularly in understanding and developing therapeutics for chronic pain and neurological disorders.
+
+Moreover, Yahriel's ability to integrate his engineering skills with his growing knowledge of biomedical sciences is evident in his recent projects. He has adeptly utilized his expertise in data science, automation, and computational modeling to address complex questions in toxicology and regulatory science, showcasing his readiness to undertake advanced research.
+
+In conclusion, I am confident that Yahriel Salinas-Reyes possesses the intellectual curiosity, technical skills, and dedication necessary for success in your PhD program. His strong background in both engineering and biomedical sciences, coupled with his hands-on experience in industry, makes him an ideal candidate for the Doctor of Philosophy in Biomedical Engineering at the University of Texas at Dallas. I wholeheartedly support his application and believe he will make significant contributions to your program.
+
+Thank you for considering Yahriel’s application. Please feel free to contact me if you require any additional information.
 
 
-I hope this email finds you well. My name is Yahriel Salinas-Reyes, and I have been accepted into a PhD Science and Engineering Fellowship. Before beginning my doctoral studies, I am taking a gap year and am seeking a research or contract position. I am also looking for potential graduate student research positions for my PhD, focusing on neuroscience, bioinformatics, and biomedical engineering, with a particular interest in mental health, disease, and neurological disorders, including schizophrenia and speech pathology. The alignment of your lab's research with my academic and professional aspirations is highly compelling. I am keenly interested in studying schizophrenia, particularly exploring the theoretical underpinnings of Alogia and speech pathology within this condition, characterized by Bleuler's 4A's: Alogia (poverty of thought/speech), Autism, Ambivalence, and Affect Blunting.
+Course Work (Fundamentals and Formal Methods)
+ Courses: Applied Physics & Mathematics, Materials Science & Engineering, Engineering Chemistry, Engineering
+Statistics, Machine-Learning/Data-Science, Finite Element Method (FEA), Bayesian Methods, Signals & Controls
+ Lab: Numerical & Graphical Techniques, Advanced Computing/Programming, Advanced Data Structures & Algorithms
+Career Overview
+ Dynamic R&D Engineer with 6+ years of experience in designing hardware/software solutions for operating systems,
+developing computational models for validation, and implementing innovative solutions across various engineering
+disciplines in front-end & back-end technologies. Skilled Programmer experienced in multiple programming languages.
+ Seeking admission to UT Dallas Cognition and Neuroscience PhD Program and Biomedical Engineering PhD Program,
+eager to transition R&D expertise into medical sciences & biotech development, looking to enter medical sciences &
+bioinformatics to provide clients high-performing technology to translate discovery to real-world application/ solutions
+
+Bayer Crop Science, Seeds & Traits Safety: R & D Regulatory Science Toxicology Group St Louis, MO
+GEM Employer* / Intern: Technology Development Center / Scientist I & Data Engineer 05/2024- Present
+ Operate in Automation/Deep Learning & provide digital/software solutions aligned to cross-functional teams in
+agricultural science and biotechnology, specifically, the R&D Division of Regulatory Science & Affairs Team at Bayer.
+Responsible for full-stack development of archiving "system of record" data base for Regulatory Affairs to consolidate
+GLP and transference of historical risk assessment data directly to global regulatory agencies before product launch.
+
+Key Projects within Regulatory Science & Bioinformatics (Bayer Internship)
+1. Risk Characterization of Toxicological, Risk Assessment, and Bioinformatic Data May 2024 - Present
+GEM Fellow, Regulatory Science & Affairs: Toxicology / (Mentor: Dr. Matias Attene-Ramos) Bayer Crop Science
+ Analyzed and interpreted bioinformatic data to assess toxicological, hazardous, and nutritional risks.
+ Ensured compliance with global regulatory safety guidance such as the European Food and Safety Agency (EFSA).
+ Developed risk characterization models to predict potential safety concerns (toxicology, hazard ID, etc.).
+ Managed transfer of regulatory efficacy data, assembled regulatory dossiers, enhanced data processing speed by 40%.
+ Keywords: Toxicology, Risk Assessment, Hazard Assessment, Nutritional Data, Regulatory Compliance, Bioinformatics
+2. Automation of Procedural Systems and Experimental Bioinformatic Data May 2024 - Present
+GEM Fellow / Crop Field Protection Digital Solutions Automation & Pipeline Design Bayer Crop Science
+ Implemented automation solutions, developed an automated dashboard and reduced report generation time by 30% .
+ Managed transference of toxicological information, hazardous exposure, and risk assessments from field tests & trials.
+ Integrated data from internal & external studies to support regulatory responses to global regulatory agencies (EFSA).
+ Enhanced efficiency of archiving knowledge documents and processing of SECRET data to generate regulatory dossiers.
+ Keywords: Automation, Bioinformatic Data, Toxicological Information, Exposure Assessments, Data Integration
+3. Data Mining and Automation Pipeline Design for Historical Regulatory Responses May 2024 - Present
+GEM Fellow / R & D Regulatory Science Group Digital Solutions Automation & Pipeline Design Bayer Crop Science
+ Designed automation data mining pipelines for efficacy data, resulting in enhanced data processing speeds by 35%.
+ Analyzed historical regulatory response data for global scientific and food safety agencies (EFSA) for risk assessment.
+ Developed archive data-basing systems (full-stack) to support the assembly of dossiers before product launch.
+Improved the accuracy and reliability of regulatory data submissions ensuring compliance with global guidelines.
+ Keywords: Data Mining, Automation, Data Integrity, Risk Assessment, Regulatory Efficacy Data, Pipeline Design
+4. Development Operations (DevOps) for Historical Data Transfer and Compliance May 2024 - Present
+GEM Fellow / Software & Data Engineering, Regulatory Macromolecular Toxicology Team Bayer Crop Science
+ Managed the transference of historical data related to search query data of regulatory responses & risk assess efficacy.
+ Database design & optimization, increased system efficiency by 20% through the development of searchable database.
+ Deployed searchable database software solution and implemented cybersecurity measures to protect controlled data.
+ Developed database search/query tools, improved data retrieval times by 40% through advanced query optimizations.
+ Keywords: DevOps, Data Transfer, Compliance, Document Management, AI Tools, Cybersecurity, Search Query
 
 
-I am particularly interested in studying the theoretical underpinnings of mental health disorders and diseases, aiming to engineer and develop safe solutions and medical devices to advance global public health. My personal journey with auditory processing, speech pathology, and hearing loss has fueled my commitment to advancing knowledge in these fields especially in neuropathy and brain & brain sciences.
-
-I would greatly appreciate the opportunity to discuss your groundbreaking work and explore how my background and interests might align with the goals of your lab. I am eager to contribute to your research and learn from your expertise. Could we schedule an informational interview at your convenience?
-
-This is because I have interest in studying [] I am interested in studying the theoretical underpinnings of mental health disorders, illness, and disease with the ability to engineering and develop safe solutions and medical devices to advance global public health. 
-In addition, I am passionate about this area of research because I myself have struggled with [] I faced early in my life. 
-I am aligned with the interests of your lab because I am very strong in signals and controls, systems engineering, data science, and particularly strong in finite element analysis & computational modeling with an interest in understanding the neurophysiological, neurological, and neurobiological foundations of conditions such as these. Thank you for considering my candidacy and I would like to schedule and informational interview to learn more about your groundbreaking work.}
+Mentor: Dr. Martin Thuo, The Soft Matter Material Transport Group Ames, IA
+Undergraduate Researcher & Systems Engineer 08/2019- 05/2022
+ Played a key role in the Soft Matter Material Transport Group’s research initiatives, focusing on the design of
+experiments (DOE) and advanced development (phase II/III) of multi-functional piezoelectric devices for aeronautical
+applications and renewable energy. Statistical methods showcasing skills in systems engineering and materials science.
 
 
-USE THIS RESUME/FILE AS A BASELINE TO HELP DESCRIBE YAHRIEL'S BACKGROUND AND CAREER: https://github.com/yahriels/yahriels/blob/main/Yahriel_Resume_CV.pdf
+DARPA: Recovering Rare-Earth Elements from E-Waste Ames, IA
+Research Assistant & Lab Technician, NSF Award No. 1757393 05/2022- 12/2023
+ Contributed to efforts in recycling at the point of disposal in direct development (phase I-III of R&D) of computer vision
+system, flow sensor technology, and experimental methods (validation) in rotating tank experiment to characterize
+mechano-chemical processes. Contributed to DARPA’s mission to recover rare-earth elements from electronic waste.
+The Microscale & Interfacial Fluid Physics Laboratory Ames, IA
+Experimental Systems & Automation Engineer 08/2021- 12/2023
+Demonstrated expertise in experimental systems and automation engineering, contributing to groundbreaking research
+in fluid mechanics/dynamics and interfacial phenomena. Focused on the PCB* design, development, and optimization
+of experimental apparatus and automation protocols, significantly enhancing research efficiency and data accuracy
+
+ Served as a Boeing Aerospace Research Fellow, spearheading projects in wind energy research and development, with
+a focus on characterizing damping mechanisms in piezoelectric wind-energy harvesters, demonstrating expertise in
+aerospace engineering and renewable energy technologies. Produced computational model for energy harvesting.
+
+Research and Development Projects
+1. Experimental Techniques: Flow Separation & Chemical Sintering August 2019 - August 2023
+Prof: Dr. Martin Thuo, Dr. Thomas Ward / DARPA Iowa State University of Science & Technology
+ Developed hardware-software components & signal processing circuits for detecting flow instabilities in MEMS devices.
+ Designed and conducted experiments to characterize rate of shear to build computational model of viscous forces.
+ Aimed to simulate viscosity measurements at the thermal boundary for potential applications in chemical sintering.
+ Keywords: Systems Analysis, Interfacial Phenomena, Computational Modeling & Analysis, Navier Stokes Equations
+2. Damping Mechanisms in Piezoelectric Wind-Energy Harvesters August 2021 - August 2022
+Prof Dr. Martin Thuo Dept. of Materials Science and Engineering, ISU Research Fellow/Intern, Boeing Aerospace
+ Designed experimental setups and measurement-calibration systems for piezoelectric wind-energy harvesters.
+ Collaborated on solution algorithms and continuum mechanics of conductivity to optimize wind-tunnel experiments.
+ Objective was to define thermodynamic properties for characterizing & enhancing wind-energy harvesting efficiency.
+ Keywords: Aerodynamics Analysis, Harmonic Response, Computational Methods, Energy Storage, Soft Matter Physics
+
+
+4. Meta-stable Particles: Phase-change Materials and their Applications August 2019 - May 2022
+Prof: Dr. Martin Thuo Dept. of Materials Science and Engineering, ISU NSF-LSAMP, NSF Award No. 1757393
+ Conducted exploratory research on meta-stable particles and their applications in phase-change enabled materials.
+ Focused on developing mechano-chemical processes for novel materials with unique properties for industrial application.
+ Investigated the chemical synthesis of phase-change materials under different conditions for printing of conformal
+solid metal traces on non-adhering biological surfaces and heat-free biomimetic metal molding on soft substrates
+ Keywords: Materials Science, Chemical Synthesis, Solid-State Physics, Advanced Materials, Industrial Application
+
+
+Boeing Undergraduate Research Excellence in Engineering Fellowhips Dec 2020 - Dec 2021
+(B.Tech / Research Fellow: Wind Energy and Harvesting / Mentor: Dr. Martin Thuo)
+ Research internship at Boeing, focused on wind energy harvesting, engineering instrumentation, & energy technology
+
+}
+
+USE THIS RESUME/FILE AS A BASELINE TO HELP DESCRIBE YAHRIEL'S BACKGROUND AND CAREER: 
+https://github.com/yahriels/yahriels/blob/main/Yahriel_Resume_CV(3-Page).pdf
+https://github.com/yahriels/yahriels/blob/main/Yahriel_Resume_CV(EXTENDED).pdf
+https://github.com/yahriels/yahriels/blob/main/Yahriel_Resume_CV.pdf
 
 
 
