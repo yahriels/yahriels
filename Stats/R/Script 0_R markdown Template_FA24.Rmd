@@ -1,0 +1,49 @@
+---
+title: "R Markdown Template"
+author: "Yahriel Salinas-Reyes"
+date: "`r Sys.Date()`"
+output: word_document
+---
+## clean R environment 
+```{r}
+rm(list = ls(all=TRUE))
+graphics.off()
+shell("cls")
+```
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Text 
+
+This is an example of R Markdown document.  
+You can insert an R code chunk  
+1. Using the RStudio toolbar (the Insert button)  
+2. Keyboard shortcut Ctrl + Alt + I ( Cmd + Option + I on macOS)  
+3. End a line with two spaces to start a new paragraph.
+
+
+# Insert Source R Code Here
+```{r}
+install.packages("datasets")
+install.packages("ggplot2")
+install.packages.("MASS")
+install.packages.("dplyer")
+
+library(datasets)
+library(ggplot2)
+library(MASS)
+lubrary(dplyr)
+
+```
+
+```{r}
+view(iris)
+mydata<- iris
+head(mydata)
+str(mydata)
+
+hist(mydata)
+
+```

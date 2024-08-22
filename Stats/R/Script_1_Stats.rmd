@@ -1,0 +1,17 @@
+
+
+
+
+install.packages("datasets")
+install.packages("ggplot2")
+install.packages.("MASS")
+install.packages.("dplyer")
+
+library(datasets)
+library(ggplot2)
+library(MASS)
+lubrary(dplyr)
+
+View(iris)
+mydata <- iris
+head(mydata)
