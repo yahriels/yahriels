@@ -1,6 +1,6 @@
 ---
 title: "R Markdown Template_FA24"
-author: "Fang Bian"
+author: "Yahriel Salinas-Reyes"
 date: "`r Sys.Date()`"
 output: word_document
 ---
@@ -16,24 +16,20 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## Text 
+TEST
 
-This is an example of R Markdown document.  
-You can insert an R code chunk  
-1. Using the RStudio toolbar (the Insert button)  
-2. Keyboard shortcut Ctrl + Alt + I ( Cmd + Option + I on macOS)  
-3. End a line with two spaces to start a new paragraph.
 
 ```{r, include=FALSE}
-library(ggplot2)
 library(datasets) 
+library(ggplot2)
 library(MASS)
 library(dplyr)
 ```
 ```{r, out.width="60%"}
-# install.packages("datasets")
-# install.packages("ggplot2")
-# install.packages("MASS")
-# install.packages("dplyr")
+install.packages("datasets")
+install.packages("ggplot2")
+install.packages("MASS")
+install.packages("dplyr")
 
 View(iris)
 mydata <- iris
@@ -57,3 +53,24 @@ detach(mydata)
 ## Don't forget to click "Knit"
 
 # END
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
