@@ -1,6 +1,6 @@
 ---
-title: "R Markdown Template"
-author: "Yahriel Salinas-Reyes"
+title: "R Markdown Template_FA24"
+author: "Fang Bian"
 date: "`r Sys.Date()`"
 output: word_document
 ---
@@ -23,27 +23,37 @@ You can insert an R code chunk
 2. Keyboard shortcut Ctrl + Alt + I ( Cmd + Option + I on macOS)  
 3. End a line with two spaces to start a new paragraph.
 
-
-# Insert Source R Code Here
-```{r}
-install.packages("datasets")
-install.packages("ggplot2")
-install.packages.("MASS")
-install.packages.("dplyer")
-
-library(datasets)
+```{r, include=FALSE}
 library(ggplot2)
+library(datasets) 
 library(MASS)
-lubrary(dplyr)
-
+library(dplyr)
 ```
+```{r, out.width="60%"}
+# install.packages("datasets")
+# install.packages("ggplot2")
+# install.packages("MASS")
+# install.packages("dplyr")
 
-```{r}
-view(iris)
-mydata<- iris
+View(iris)
+mydata <- iris
 head(mydata)
 str(mydata)
 
-hist(mydata)
-
+# histogram 
+hist(mydata$Sepal.Length)
 ```
+
+# sub-setting with "[]" and "=="
+
+```{r, out.width="60%", fig.align = 'left', fig.cap="This is a histogram."}
+# sub-setting with "[]" and "=="
+attach(mydata)
+hist(Sepal.Length [Species == "setosa"])
+detach(mydata)
+```
+
+
+## Don't forget to click "Knit"
+
+# END

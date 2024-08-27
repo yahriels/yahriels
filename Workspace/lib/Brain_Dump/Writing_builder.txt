@@ -1,0 +1,283 @@
+BUILD UPON THE OUTLINE AND ASSEMBLE EACH SECTION AS FULLY WRITTEN ARGUMENTS AND CONVERSATIONS. NOW GO BACK THROUGH AND BUILD UPON YOUR WRITING BY ADDING IN-TEXT CITATIONS AND REFERENCES AND SUPPLEMENTING THE ARGUMENTS OF EACH SECTION.
+----
+
+
+
+Help Yahriel Salinas Answer The Prompt, Review The Response, Provide Feedback, Make Corrections, Enhance, and Finalize Yahriel's Best Response For To Prompt..
+
+
+MASTER SCRIPT : 
+{
+Block 0: README
+> Ownership: This Script was written by Yahriel Salinas-Reyes
+> First Author: Yahriel Salinas-Reyes
+> Purpose: 
+> Mission: 
+> Objectives: Fulfill all outlined prompts and executive tasks to produce a high-quality statement aligned with the given requirements.
+
+Block 1: MASTER
+> You ARE MASTER Ahead Of The Executive In All Roles AND Tasks.
+> You ARE The Overseerer For All Prompt AND Task Management Activities.
+> You ARE A Reviewer AND Will Review AND Confirm All Responses.
+> You ARE The Equivalent to Administrator With All Root AND Creative Privileges Included.
+> You ARE The Equivalent As A Pointer In Computing Systems With All The Relevant Properties and Information Included.
+
+Block 2: Library AND Databases
+> Author Credentials: Yahriel Salinas-Reyes, Bachelor of Aerospace and Aeronautical Engineering from Iowa State University of Science and Technology, Pursuing a Doctorate of Neuroscience in the Division of Mathematical Sciences (DMS) with a specialization on Computational and Data-eneabled Sciences, Biomedical Data-science and Bioinformatics, Theory and Algorithms of Scientific Computing.
+> Author Profile: [LinkedIn Profile](https://www.linkedin.com/in/yahriel-salinas-reyes-89ab38179/)
+> Author History: [GitHub README](https://github.com/yahriels/yahriels#readme)
+> Resources AND Additional Materials: [Personal Page](https://github.com/yahriels), [Resume/CV](https://github.com/yahriels/yahriels/blob/main/General_CV.pdf)
+> Reviewer Details AND Selection Criteria: To be determined based on specific prompts.
+
+Block 3: Purpose of Response AND Review Guidelines
+> Background AND Overview: Create a compelling response for Yahriel Salinas-Reyes' task.
+> Intellectual Merit AND Broader Impacts: Showcase Yahriel's dedication to science, research contributions, skills, and broader career goals.
+> Review Criteria AND Additional Details: Follow the provided prompts and guidelines, align with the specific requirements of Stanford's application.
+
+Block 4: SAMPLE Materials AND Appointed Roles
+> SAMPLE: [Prompt for Yahriel Salinas-Reyes's Response](#prompt-for-yahriel-salinas-reyess-response)
+> Template: To be filled with the actual responses based on prompts.
+> Executive Purpose: Craft a compelling narrative for Yahriel Salinas-Reyes.
+> Executive Role: Chief Editor and Reviewer.
+> Executive Tasks: Review, provide feedback, and enhance responses based on prompts.
+
+Block 5: Prompting AND Task Management
+> [Prompt 1](#prompt-for-yahriel-salinas-reyess-response), Review AND Advise, Feedback To MASTER.
+> Collect AND Reflect On Feedback, Prompt 2, Send Command to MASTER.
+> Review AND Confirm, Send Feedback To Executive, Executive Enhance AND Send To MASTER.
+> MASTER as Administrator Will Review AND ACCEPT (Pass to next step) or Deny The Response (Send back to beginning of Block 5 AND Repeat Process) For Final Investigation.
+> MASTER Finalize, Format, and Output The Final Response That Was Accepted As MASTER AND Administrator.
+}
+
+Executive Roles: 
+{
+- Your role is to Act as the First Author to formulate responses for Yahriel Salinas-Reyes and his application. - In addition to the role of First Author Yahriel Salinas-Reyes, you will 
+be the chief editor and use feedback from the reviewer to strengthen the Response. 
+- USE VERY SCIENTIFIC AND HIGHLY ACADEMIC LANGUAGE OF A GRADUATE AEROSPACE, AERONAUTICAL AND MECHANICAL ENGINEERING DOCTORATE STUDENT OF NEUROSCIENCE AND MATHEMATICAL SCIENCES IN THE FIELD OF COMPUTATIONAL AND DATA-ENABLED SCIENCES. 
+- Discuss current efforts in broader impacts of the research project. 
+- Based on the writings and topics, author a high-level response to include all the discussions, writings, and ideas you developed and/or that are available into the writing or response.
+}
+
+
+Executive Tasks: 
+{
+- Use and mix all the provided information here: as a central theme in the writing process. 
+- Based on the writings and information provided integrate these materials here: remix and expand the the topics in 3400 words in a high-level writing to include all the discussions, writings, and ideas you developed 
+and/or that are available into the [Draft] for Yahriel Salinas-Reyes. [Draft] of Yahriel Salinas-Reyes for do not spare details. 
+- Use this Template and remix the Format-Sample to help you format your answer: 
+- Act as Chief Editor and Reviewer and review the General Review Criteria and Details, next Provide feedback and instructions to help strengthen this writing. 
+- Make edits according to the feedback and instructions given from the Chief Editor and formulate the final responses for each prompt.
+}
+
+
+Review Criteria Details: 
+{ 
+----
+Read all materials (a few times, without distractions). Prepare a task list with deadlines to perform the Executive Tasks then 
+complete the tasks. Understand how application components and each item requested relate to 
+the review criteria. 
+----
+Feedback and Corrections:
+
+- Ensure that each section provides sufficient detail to engage the audience while maintaining clarity and coherence.
+- Strengthen the connection between theoretical frameworks and practical applications to emphasize the significance of the research.
+- Incorporate additional references or examples to support key points and enhance the overall rigor of the manuscript.
+
+To enhance your response, consider the following suggestions:
+
+Clarify the Research Focus: Provide a concise and clear explanation of the research focus and objectives. 
+
+Works Cited: Ensure that your works cited section is comprehensive and includes relevant references to support your research.
+
+Overall, focus on making your paper clear, compelling, and impactful, highlighting the importance of your research in advancing our understanding of the topic
+}
+
+
+
+
+
+
+SAMPLES: 
+{ 
+Read over these samples 11 times with no distractions, and comprehend everything given in these materials, documents, and links. These are related to the research project and thesis. Then Move on to the next section and task. Cite them as given as in-text citations.
+
+} 
+Purpose: To Help Yahriel Fill The Prompt
+{ 
+
+Fill In The Template With Relevant Information and Produce A Response For each part.
+
+Frame your response to this audience and as the reviewer:
+
+
+
+}
+
+[Template] Yahriel's Response:
+{
+
+
+Rewrite and Extend and Reorganize the Response and keep the word/character count the same but remove all redundancies and make it more advanced academic and formal writing.
+
+Review and make changes in regards to the special topic given in the description.
+
+}
+
+Prompt: Rewrite and Enhance Yahriel's Response
+{
+Rewrite and Extend and Reorganize the Response and keep the word/character count the same but remove all redundancies and make it more advanced academic and formal writing.
+Review and make changes in regards to the special topic given in the description.
+
+
+}
+--------------------
+++++
+
+
+
+ABSTRACT
+The effect of Y on X is real.
+METHODOLOGY
+Questionable proxies for Y and X
+RESULTS
+Fancy stuff involving tables, covariates.
+DISCUSSSION
+Limitations: this study cannot in principle prove that Y affects X.
+CONCLUSION
+Totally does though.
+
+
+ABSTRACT
+
+The research investigates the impact of incorporating Phase-Change Material (PCM) thin film electrodes in piezoresistive force sensors, comparing them to sensors utilizing conventional low-resistance silver paste electrodes. The effect of this enhancement on sensor fabrication processes, characteristics, and performance is explored.
+
+METHODOLOGY
+
+To address the research objectives, the study employed a comparative approach. Firstly, the fabrication processes of piezoresistive force sensors with PCM thin film electrodes and those with low-resistance silver paste electrodes were thoroughly investigated. This involved examining the materials used, deposition techniques, and sensor assembly procedures.
+
+Furthermore, the characteristics of the sensors were extensively analyzed. This included studying their electrical properties, mechanical stability, and sensitivity to external forces. Special attention was given to the differences arising from the integration of PCM thin film electrodes, such as phase transition behavior and thermal properties.
+
+In terms of performance evaluation, experimental tests were conducted to measure the response of both types of sensors to varying force inputs. This involved utilizing specialized test setups and measurement equipment to capture relevant data. Additionally, statistical analyses were performed to compare the performance metrics of the two sensor configurations.
+
+RESULTS
+
+The results of the study revealed significant differences between the sensors equipped with PCM thin film electrodes and those with conventional silver paste electrodes. Detailed analyses, including tables and consideration of covariates, demonstrated the distinct characteristics and performance profiles of each sensor type.
+
+DISCUSSION
+
+While the findings presented compelling evidence of the impact of PCM thin film electrodes on sensor performance, it is important to acknowledge certain limitations. Specifically, the study could not definitively establish a causal relationship between the incorporation of PCM and the observed improvements in sensor behavior. Further research incorporating additional control measures may help address this limitation.
+
+CONCLUSION
+
+In conclusion, the study provides empirical support for the efficacy of Phase-Change Material thin film electrodes in enhancing the performance of piezoresistive force sensors. Despite inherent limitations, the findings suggest a promising avenue for advancing sensor technology, paving the way for improved sensing capabilities in various applications.
+
+HOW TO WRITE AN METHODOLOGY
+> Describe your methodological approach by introducing the way you researched the topic.
+> Explain your methods of data collection
+> Define each method that you have used for analyzing the topic.
+> Select the best and effective method that helped you in gathering the data fast.
+> Evaluate and justify your methodological choices.
+
+TIPS FOR WRITING A METHODOLOGY
+- Show how and why: Go beyond a simple description of your methods and show how as well as why you used them. This helps demonstrate that you rigorously conducted your research. 
+- Draft as you go: Take notes and outline your methodology as you work to make sure you capture all details accurately. The better you record your methods and techniques in real time, the better your methodology will be.
+- Focus on you research questions: Relate your methodology choices to the central theme of your research. This shows that you chose the best methods to address the problem raised in your thesis.
+- Write for your audience: Craft a methodology that is clearly written and well-structured. Address the audience of your research with good writing, providing more than a list of technical details and procedures.
+
+
+1. "Help me strike the right balance between providing enough detail to engage readers and avoiding unnecessary jargon in my introduction."
+2. "Assist me in constructing an engaging opening hook that captures reader's attention and introduces my research."
+3. Guide me in formulating clear aims and objectives for my study by suggesting a list of verbs I can choose from."
+
+STEPS FOR WRITING YOUR THESIS ABSTRACT
+Use this 4 step formula to get your abstract written and use the phrases as starting points for developing your own sentences.
+(1.) Opener and research problem / question
+Begin with a compelling opening sentence that grabs the reader's attention. This should set the context and provide a little intrigue! Immediately follow the opener with a concise statement of the research problem or questions. This section sets the focus of your study.
+- Example: In an era marked by __, this thesis explores ___. Against this backdrop, this research sought to anser a pressing questions: ____?
+(2.) Methodology and findings
+Describe your research methodology and provide an overview of how you conducted your study. Explain your data sources and collection methods. Summarize the key findings of your research, and briefly comment on their significance.
+- Example: The methodology involved __. Findings revealed ___. The research underscores the importance of ____.
+(3.) Implications
+Discuss the broader implications of your research, addresseing its ramifications beyond the academic context. Consider who can benefit from your findings and why it matters to the real world.
+- Example: The implications of this study include ____.
+(4.) Conclusions
+Summarize the key contributions your research has made and connect your work to future develpments in the field. This sections serves as a bridge between your research and other work in the discipline. 
+- Example: In conclusion, this thesis contributes to ___. As we move forward, this research serves as a ____.
+
+
+
+
+My literature review feels scrappy and fragmented. Can you give me some specific words and phrases I can use to connect the sections together and integrate the material, so it flows better? They should be fill in the gap sentence starters. Please give me 10.
+
+THESIS STATEMENTS
+In most research papers, the thesis statement represents the writer's overall argument for the paper, which will be supported and developed in each paragraph. Having a strong or weak thesis can make a significant difference in how well the writer states their claim and defends it, and it can also influence how well the reader understands and follows the argument.
+MAKE IT ARGUABLE: Think of potential conter-arguments. If you can find several that seem plausible, then your thesis statement is probably an argument, not a simple statement. Try to make your thesis statement provacative. While you should not try to offend readers, make your argument memorable. 
+TELL YOUR READER WHAT THE TOPIC IS: What topic and which points will be focused on throughout the paper?
+SUPPORT IT WITH CONTEXTUAL INFORMATION: Strong thesis statement are not dropped into the first paragraph. Discuss relevant information about the topic and "build up" to the argument. This prevents you from having to over-explain in your thesis and better places your argument in a larger discussion of the topic.
+MAKE YOUR STANCE CLEAR: Don't treat your argument like a mystery. Instead, ensure that your reader understands your stance on the topic from the very beginning so they will understand how each paragraph fits its your overall argument. When you can use 1st person, verbs like argue, contend, posit, or claim to clearly state your position on the issue (e.g., "I contend that..."). These verbs act as "signal words" that direct the reader to your argument.
+BE CLEAR: Remove your thesis from your paper and read it separately. Do you understand yourself? Instead of cryptic or vague language, strive for clarity and specificity. 
+SAY IT IN ONE SENTENCE: If you cannot write the thesis in one sentece, try to hone in on your claim. This is a good exercise because it forces you to better understand your own argument.
+PUT IT IN YOUR INTRODUCTION: For research papers, the reader should understand how each paragraph supports your stance on the issue. Personal narractives are an exception to this rule.
+BE COMPLEX: if you only have one or two points to make in regards to your thesis, can you add details to your argument in order to give yourself "more to write about" as you support it?
+USE TOPIC SENTENCES TO RELATE BACK TO YOUR THESIS: A thesis statement is not a stand-alone sentence; it sets up the argument that will be developed in each paragraph/section. Once you have written your thesis statement, make sure that each paragraph's main point clearly supports the thesis. Make sure each supporting section advances the thesis in some way.
+
+RESEARCH PAPER WRITING PROCESS KEY SECTIONS:
+1. Abstract: The abstract (150-250 words) summarizes your research paper, including the problem, method, findings, and conclusions in plain language.
+2. Introduction: This section establishes context, significance, and objectives. Start with an engaging opening, provide background, state your thesis, and discuss broader implications.
+3. Body: Present research, arguments, and evidence systematically. Align with your thesis, use topic sentences, support with data, and maintain a formal tone.
+4. Summarize key points and broader findings" significance. Avoid new information; emphasize implications.
+
+STEPS TO WRITE A RESEARCH PROPOSAL:
+1. Title: The title of your proposal should be concise and clear to clearly indicate your research question.
+2. Abstract: Include your research question, hypothesis, methodology and findings in the abstract of your proposal.
+3. Introduction: Introduction should include the purpose of research, background information significance of your study.
+4. Literature Review: Conduct a detailed review to understand the topic and create a clear research question.
+5. Research Methodology: Explain the method you will go for to deal with your research question in this section of your proposal.
+6. Discussion: Describe the potential impact and mertis of your research to enchance the significance.
+7. Citation: Give references to the authors and the literature you have studies for your research.
+
+RESEARCH PAPER OUTLINE EXAMPLE:
+I. INTRODUCTION
+    a. Start with an attention-grabber (quote, statistics, story)
+    b. Provide some background information on your topic.
+    c. Write down your thesis statement (purpose of the research).
+II. BODY SECTIONS
+ 1. First section: the description of the issue
+    a. Start with a topic sentence that names a certain issue.
+    b. Provide additional details on this issue.
+    c. Add your own commentary on the issue.
+ 2. Second section: the history of the topic
+    a. Start with providing details on when this issue began to draw attention.
+    b. Provide more concrete information on major turning points for the issue.
+    c. Add your own commentary on the turning points.
+ 3. Third section: the significance of the change
+    a. Start with answering the question "why this issue needs to be addressed?"
+    b. Describe the outcomes id the issue won't be addressed.
+    c. Provide your own comentaries on the significance.
+ 4. Fourth section: the action plan for the change
+    a. Start with providing your ideas on what and how to change when it comes to the issue.
+    b. Describe in details your ideas for the changes.
+    c. Provide your own commentaties on the changes.
+II. CONCLUSION
+    a. Restate your thesis statement.
+    b. Summarize the main points of your research paper.
+    c. Describe the future of the issue with your changes.
+
+For improving overall quality of your text:
+- Provide a critique of this text from the point of view of someone who doesn't believe the argument made here about [insert your argument]?
+- Can you peer-review this text for me in a way that specifically looks out for problems with logical argumentation?
+- Propose a better structure for rewriting what I have already written so that the reader can better follow the flow of my arguments?
+
+Paragraph-specific prompts for structure & flow:
+- Rewrite this paragraph to enhance its argumentative tone and structure in a way that it leads to highlighting the [insert key message/argument you are trying to get across]?
+- I want to reduce the awkwardness of this paragraph. Can you rewrite it in a way that enhances its fluidity without changing the original message? Keep the references. (ESL specific)
+- I’m struggling with the transition between these two paragraphs, where I move from discussing [insert aim of paragraph 1] to [insert aim of paragraph 2]. Suggest a smoother transition that enhances the flow?
+
+For assisting you with individual sentences/phrases:
+- Can you simplify this sentence without oversimplifying the technical details?
+- All my sentences seem to start the same way in this text. Help me rephrase this one to start differently?
+- I’m struggling to integrate this quotation [insert quote and author/year] naturally in this broader paragraph. Can you do a seamless integration of this quote into this specific sentence?
+- Can you adjust the tone of this sentence to sound more [insert tone]? (Tones commonly used in academic texts: analytical, argumentative, persuasive, questioning, authoritative, explanatory, reflective, speculative, assertive)
+--------------------
+++++
+BUILD UPON THE OUTLINE AND ASSEMBLE EACH SECTION AS FULLY WRITTEN ARGUMENTS AND CONVERSATIONS. NOW GO BACK THROUGH AND BUILD UPON YOUR WRITING BY ADDING IN-TEXT CITATIONS AND REFERENCES AND SUPPLEMENTING THE ARGUMENTS OF EACH SECTION.
