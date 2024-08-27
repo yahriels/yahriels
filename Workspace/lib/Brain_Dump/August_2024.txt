@@ -1,0 +1,34 @@
+General Idea: Record  diaphram respiration while rats are awake to monitor amplitude (and to eventually perform with jaw experiments)
+-> Use threshold of H-Reflex to set frequency and amplitude range (we also may use Myomatrix that provide 16 arrays)
+
+
+30 Hz Frequecy with Amplitude Sweep for EMG Recordings
+
+
+Will be performing EMG Recordings and VNS at the same time.
+
+Recordings are are stages 
+
+Artifact: *Unwanted portion of the signal that saturates the signal from the recording channel*
+
+Components
+- Head plate
+- Pre-Amp
+- Stimulator
+- Wave Form Generator
+- Commutator
+- DAQ
+- 4 electrodes [2 for VNS][2 For dEMG]
+- Collection of needed cords and connectors
+
+Behavior Cases (8)
+- Already Exists
+- Jaw + VNS
+- 5x Per week
+- Behavior VNS post jaw pairings
+
+Parameter EMG Cases (1 or 2)
+- Needs to be built
+- 1x per week
+- 
+
