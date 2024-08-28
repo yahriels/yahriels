@@ -1,6 +1,15 @@
 General Idea: Record  diaphram respiration while rats are awake to monitor amplitude (and to eventually perform with jaw experiments)
 -> Use threshold of H-Reflex to set frequency and amplitude range (we also may use Myomatrix that provide 16 arrays)
 
+Set-up dEMG recordings to monitor respiration and detect H-Reflex (while rat is awake)
+Repurpose already existing Behavioral Testing Set-up (Jaw+VNS) for our experiments
+Build system for Parameter EMG Cases (30 Hz, Amplitude Parameter Sweep)
+Build system that can administer VNS and record dEMG at the same time
+
+
+
+Mechanisms: alpha recepters blocking plasticity has been done somewhat, what if we do experiments to see if beta recepters block or promote plasticity and how does it interact with alpha. 
+
 
 30 Hz Frequecy with Amplitude Sweep for EMG Recordings
 
