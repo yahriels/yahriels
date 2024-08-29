@@ -20,16 +20,18 @@ TEST
 
 
 ```{r, include=FALSE}
-library(datasets) 
-library(ggplot2)
-library(MASS)
-library(dplyr)
-```
-```{r, out.width="60%"}
+
 install.packages("datasets")
 install.packages("ggplot2")
 install.packages("MASS")
 install.packages("dplyr")
+
+```
+```{r, out.width="60%"}
+library(datasets) 
+library(ggplot2)
+library(MASS)
+library(dplyr)
 
 View(iris)
 mydata <- iris
