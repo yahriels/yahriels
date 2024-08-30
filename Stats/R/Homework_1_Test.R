@@ -53,7 +53,31 @@ ggplot(mydata, aes(x=Sepal.Width, y=Sepal.Length, col=Species))+
 
 
 # Question 5
-pnorm(q=.01, mean=0, sd=1, lower.tail=F) 
+# 5.1
+## Given
+mean <- 0
+sd <- 1
+## Z0.01 is the z-score separating the bottom 99% from the top 1%
+Z0.01 <- qnorm(p=.01, mean, sd, lower.tail=F)
+Z0.01
+# 5.2
+## Find the Z score for the bottom 2%
+cutoff_low <- qnorm(p=0.02, mean, sd, lower.tail=T)
+## Find the Z score for the top 2%
+cutoff_high <- qnorm(p=0.98, mean, sd, lower.tail=T)
+## Output the results
+cutoff_low
+cutoff_high
+
+
+# Question 6
+## 6.1 Probability of the bone density test score between -2.75 and 2.75
+prob_1 <- pnorm(2.75, mean, sd, lower.tail=T) - pnorm(-2.75, mean, sd, lower.tail=T)
+prob_1
+##6.2Probability of the bone density test score between -2.0 and 2.0
+prob_2 <- pnorm(2.0, mean, sd, lower.tail=T) - pnorm(-2.0, mean, sd, lower.tail=T)
+prob_2
+
 
 
 #Import Body Data

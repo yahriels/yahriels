@@ -11,33 +11,6 @@ Build system that can administer VNS and record dEMG at the same time
 Mechanisms: alpha recepters blocking plasticity has been done somewhat, what if we do experiments to see if beta recepters block or promote plasticity and how does it interact with alpha. 
 
 
-30 Hz Frequecy with Amplitude Sweep for EMG Recordings
+Pictures / Schematics / Block Diagrams
 
-
-Will be performing EMG Recordings and VNS at the same time.
-
-Recordings are are stages 
-
-Artifact: *Unwanted portion of the signal that saturates the signal from the recording channel*
-
-Components
-- Head plate
-- Pre-Amp
-- Stimulator
-- Wave Form Generator
-- Commutator
-- DAQ
-- 4 electrodes [2 for VNS][2 For dEMG]
-- Collection of needed cords and connectors
-
-Behavior Cases (8)
-- Already Exists
-- Jaw + VNS
-- 5x Per week
-- Behavior VNS post jaw pairings
-
-Parameter EMG Cases (1 or 2)
-- Needs to be built
-- 1x per week
-- 
 
