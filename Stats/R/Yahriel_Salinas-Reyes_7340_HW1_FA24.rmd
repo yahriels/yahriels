@@ -1,0 +1,141 @@
+---
+title: "Yahriel_Salinas-Reyes_7340_HW1_FA24.rmd"
+author: "Yahriel Salinas-Reyes"
+date: "`r Sys.Date()`"
+output: word_document
+---
+## clean R environment 
+```{r}
+rm(list = ls(all=TRUE))
+graphics.off()
+shell("cls")
+```
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Include Packages
+
+
+
+```{r, include=FALSE}
+
+#install.packages("datasets")
+#install.packages("ggplot2")
+#install.packages("MASS")
+#install.packages("dplyr")
+
+```
+```{r, out.width="60%"}
+library(datasets) 
+library(ggplot2)
+library(MASS)
+library(dplyr)
+
+
+```
+
+# Question 1
+```{r}
+
+# Question 1
+birthweight <- c(3600,1700,4000,3900,3100,3800,2200,3000)
+summary(birthweight)
+sd(birthweight)
+hist(birthweight)
+
+# Question 2
+Ar_rice <- c(6.1, 5.4, 6.9, 4.9, 6.6, 6.3, 6.7, 8.2, 7.8, 1.5, 5.4, 7.3)
+hist(Ar_rice, 
+     main = "Measured amount of arsenic in brown rice", 
+     # xlab = ""
+     ylab = "Amount (ug/serving)",
+     breaks = 2)
+
+# Question 3
+father <- c(73.0, 75.5, 75.0, 75.0, 75.0, 74.0, 74.0, 73.0, 73.0, 78.5)
+son <- c(74.0, 73.5, 71.0, 70.5, 72.0, 76.5, 74.0, 71.0, 72.0, 73.2)
+summary(father)
+sd(father)
+var(father)
+str(father)
+summary(son)
+sd(son)
+var(son)
+str(son)
+plot(father,son)
+cor(father,son)
+
+# Question 4
+mydata <- iris
+head(mydata)
+str(mydata)
+
+ggplot(mydata, aes(x=Sepal.Width, y=Sepal.Length, col=Species))+
+  geom_point()+
+  ggtitle("Sepal width vs. Sepal length")
+
+
+# Question 5
+# 5.1
+## Given
+mean <- 0
+sd <- 1
+## Z0.01 is the z-score separating the bottom 99% from the top 1%
+Z0.01 <- qnorm(p=.01, mean, sd, lower.tail=F)
+Z0.01
+# 5.2
+## Find the Z score for the bottom 2%
+cutoff_low <- qnorm(p=0.02, mean, sd, lower.tail=T)
+## Find the Z score for the top 2%
+cutoff_high <- qnorm(p=0.98, mean, sd, lower.tail=T)
+## Output the results
+cutoff_low
+cutoff_high
+
+
+# Question 6
+## 6.1 Probability of the bone density test score between -2.75 and 2.75
+prob_1 <- pnorm(2.75, mean, sd, lower.tail=T) - pnorm(-2.75, mean, sd, lower.tail=T)
+prob_1
+##6.2Probability of the bone density test score between -2.0 and 2.0
+prob_2 <- pnorm(2.0, mean, sd, lower.tail=T) - pnorm(-2.0, mean, sd, lower.tail=T)
+prob_2
+
+```
+# Example sub-setting with "[]" and "=="
+
+```{r, out.width="60%", fig.align = 'left', fig.cap="This is a histogram."}
+# sub-setting with "[]" and "=="
+#attach(mydata)
+
+#hist(Sepal.Length [Species == "setosa"])
+#detach(mydata)
+```
+
+
+## Don't forget to click "Knit"
+
+# END
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
