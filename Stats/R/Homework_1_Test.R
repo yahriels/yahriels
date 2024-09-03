@@ -79,12 +79,101 @@ prob_2 <- pnorm(2.0, mean, sd, lower.tail=T) - pnorm(-2.0, mean, sd, lower.tail=
 prob_2
 
 
+# Question 7
 
-#Import Body Data
+
+
+# Question 8
+# Given probabilities
+prob_1 <- 0.10
+prob_2 <- 0.97
+prob_3 <- 0.025
+
+# Finding the Z critical values
+z_0.10 <- round(qnorm(prob_1, mean = 0, sd = 1), 2)
+z_0.97 <- round(qnorm(prob_2, mean = 0, sd = 1), 2)
+z_0.025 <- round(qnorm(prob_3, mean = 0, sd = 1), 2)
+
+# Display the results
+z_0.10
+z_0.97
+z_0.025
+
+
+
+
+
+# Question 9
 library(readxl)
-Body_Data <- read_excel("C:/Users/yahri/yahriels/Stats/R/Body Data.xlsx")
+Body_Data <- read_excel("Body Data.xlsx")
 View(Body_Data)
+# Filter the data to include only females (0 = Female, 1 = Male)
+females <- subset(Body_Data, GENDER == 0)
 
+# Extract the pulse rates of females
+female_pulse_rates <- females$PULSE
+
+# Construct a histogram of females' pulse rates
+hist(female_pulse_rates, 
+     main = "Histogram of Females' Pulse Rates",
+     xlab = "Pulse Rate (beats per minute)", 
+     ylab = "Frequency", 
+     col = "lightblue", 
+     border = "black",
+     breaks = 10)
+
+
+# Add a normal distribution curve for comparison
+x <- seq(min(female_pulse_rates), max(female_pulse_rates), length = 100)
+y <- dnorm(x, mean = mean(female_pulse_rates), sd = sd(female_pulse_rates))
+y <- y * diff(hist(female_pulse_rates, plot = FALSE)$mids[1:2]) * length(female_pulse_rates)
+lines(x, y, col = "darkgreen", lwd = 2)
+
+# Answer
+### In general, the female pulse rates do follow a normal distribution to some extent, as evidenced by the histogram with the overlayed bell curve. As we can see, the higher frequencies are concentrated toward the middle of the spread (~55-90) and flatten out toward the edges. We do see some outliers and see the highest frequency towards the middle of the spread (~70-80), which does fit the general behavior of a normal distribution.
+
+
+# Question 10
+# Data: Measured radiation emissions (W/kg) from the selected cell phones
+radiation_data <- c(0.38, 0.55, 1.54, 1.55, 0.50, 0.60, 0.92, 0.96, 1.00, 0.86, 1.46)
+
+# Calculate the mean and standard deviation of the sample
+mean_radiation <- mean(radiation_data)
+sd_radiation <- sd(radiation_data)
+n <- length(radiation_data)
+
+# Calculate the 90% confidence interval
+confidence_level <- 0.90
+alpha <- 1 - confidence_level
+t_value <- qt(1 - alpha/2, df = n - 1)
+
+# Margin of error
+margin_of_error <- t_value * (sd_radiation / sqrt(n))
+
+# Confidence interval
+lower_bound <- mean_radiation - margin_of_error
+upper_bound <- mean_radiation + margin_of_error
+confidence_interval <- c(lower_bound, upper_bound)
+
+# Output the confidence interval
+cat("90% Confidence Interval for the population mean:", confidence_interval, "\n")
+
+# Compare with FCC standard of 1.6 W/kg
+if (upper_bound < 1.6) {
+  cat("The result suggests that the population mean radiation is less than the FCC standard of 1.6 W/kg.\n")
+} else {
+  cat("The result does not conclusively suggest that the population mean radiation is less than the FCC standard of 1.6 W/kg.\n")
+}
+
+
+
+# Question 11
+
+# Question 12
+
+
+
+# Question 13
 #Import LC Data
 library(readxl)
 LC_Data <- read_excel("C:/Users/yahri/yahriels/Stats/R/LCData.xlsx")
