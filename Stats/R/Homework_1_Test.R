@@ -80,7 +80,7 @@ prob_2
 
 
 # Question 7
-
+cat("\nGiven that the general characteristics of a normal distrubution are with mean=1 and std=1, then we expect anything to that is above the value of '2' and below the value of'0' to be an outlier.\n")
 
 
 # Question 8
@@ -130,7 +130,7 @@ y <- y * diff(hist(female_pulse_rates, plot = FALSE)$mids[1:2]) * length(female_
 lines(x, y, col = "darkgreen", lwd = 2)
 
 # Answer
-### In general, the female pulse rates do follow a normal distribution to some extent, as evidenced by the histogram with the overlayed bell curve. As we can see, the higher frequencies are concentrated toward the middle of the spread (~55-90) and flatten out toward the edges. We do see some outliers and see the highest frequency towards the middle of the spread (~70-80), which does fit the general behavior of a normal distribution.
+cat("\nIn general, the female pulse rates do follow a normal distribution to some extent, as evidenced by the histogram with the overlayed bell curve. As we can see, the higher frequencies are concentrated toward the middle of the spread (~55-90) and flatten out toward the edges. We do see some outliers and see the highest frequency towards the middle of the spread (~70-80), which does fit the general behavior of a normal distribution.\n")
 
 
 # Question 10
@@ -160,7 +160,7 @@ cat("90% Confidence Interval for the population mean:", confidence_interval, "\n
 
 # Compare with FCC standard of 1.6 W/kg
 if (upper_bound < 1.6) {
-  cat("The result suggests that the population mean radiation is less than the FCC standard of 1.6 W/kg.\n")
+  cat("\nThe result suggests that the population mean radiation is less than the FCC standard of 1.6 W/kg.\n")
 } else {
   cat("The result does not conclusively suggest that the population mean radiation is less than the FCC standard of 1.6 W/kg.\n")
 }
@@ -168,9 +168,63 @@ if (upper_bound < 1.6) {
 
 
 # Question 11
+# Data given
+n_placebo <- 43
+mean_placebo <- 21.57
+sd_placebo <- 3.87
+
+n_treatment <- 33
+mean_treatment <- 20.38
+sd_treatment <- 3.91
+
+# Perform a two-sample t-test
+t_test_result <- t.test(
+  x = c(rnorm(n_placebo, mean = mean_placebo, sd = sd_placebo)),
+  y = c(rnorm(n_treatment, mean = mean_treatment, sd = sd_treatment)),
+  var.equal = TRUE, # Assume equal variances
+  alternative = "two.sided", # Two-tailed test
+  conf.level = 0.05 # Significance level
+)
+
+# Output the result
+t_test_result
+if (t_test_result$p.value < 0.05) {
+  cat("There is significant evidence to suggest that paroxetine has a different effect on bipolar depression compared to the placebo.\n")
+} else {
+  cat("There is not enough evidence to suggest that paroxetine is more effective than the placebo for treating bipolar depression.\n")
+}
+
+
+
+
 
 # Question 12
+library(readxl)
+Body_Data <- read_excel("Body Data.xlsx")
+View(Body_Data)
+female_BP <- Body_Data$DIASTOLIC[Body_Data$GENDER == 0]
 
+# Perform a one-sample t-test to test the claim that the mean diastolic blood pressure is less than 90 mmHg
+t_test_result <- t.test(female_BP, mu = 90, alternative = "less")
+
+# Print the test results
+print(t_test_result)
+
+# Conclusion based on the p-value
+if (t_test_result$p.value < 0.05) {
+  cat("At the 0.05 significance level, we reject the null hypothesis.\n")
+  cat("This suggests that the mean diastolic blood pressure for adult females is significantly less than 90 mmHg.\n")
+} else {
+  cat("At the 0.05 significance level, we fail to reject the null hypothesis.\n")
+  cat("This suggests that we do not have enough evidence to claim that the mean diastolic blood pressure for adult females is less than 90 mmHg.\n")
+}
+
+# Interpretation regarding hypertension
+if (t_test_result$conf.int[2] < 90) {
+  cat("Based on the result, we can conclude that it is unlikely that any of the adult females in the sample have hypertension (diastolic BP > 90 mmHg).\n")
+} else {
+  cat("Based on the result, we cannot conclusively state that none of the adult females in the sample have hypertension.\n")
+}
 
 
 # Question 13
@@ -178,3 +232,86 @@ if (upper_bound < 1.6) {
 library(readxl)
 LC_Data <- read_excel("C:/Users/yahri/yahriels/Stats/R/LCData.xlsx")
 View(LC_Data)
+
+# View the data structure
+str(LC_Data)
+summary(LC_Data)
+
+# a. Boxplot to examine the relationship between lung capacity and smoking status
+boxplot(LC ~ Smoke, data = LC_Data, 
+        main = "Lung Capacity by Smoking Status",
+        xlab = "Smoking Status",
+        ylab = "Lung Capacity (liters)",
+        col = c("lightblue", "lightgreen"))
+
+# b. State the hypotheses
+cat("\n Null Hypothesis (Ho): There is no difference in mean lung capacity between smokers and nonsmokers (μ_smokers = μ_nonsmokers).\n")
+cat("Alternative Hypothesis (Ha): There is a difference in mean lung capacity between smokers and nonsmokers (μ_smokers ≠ μ_nonsmokers).\n")
+
+# Assumptions check
+cat("1. Normality: Check if lung capacities are approximately normally distributed for each group. (can use histograms or Shapiro-Wilk test)\n")
+cat("2. Equal variances: Check if the variances of lung capacities are equal for smokers and nonsmokers. (can use F-test)\n")
+
+# Normality check using Shapiro-Wilk test
+shapiro.test(LC_Data$LC[LC_Data$Smoke == "yes"])
+shapiro.test(LC_Data$LC[LC_Data$Smoke == "no"])
+
+# Variance check using Bartlett's test
+bartlett.test(LC ~ Smoke, data = LC_Data)
+
+# c. Decide on a test type and significance level
+# Given the research question, a two-sided test is appropriate.
+# Set significance level (alpha)
+alpha <- 0.05
+
+# d. Perform t-test assuming equal variances
+t_test_result <- t.test(LC ~ Smoke, data = LC_Data, var.equal = TRUE)
+t_test_result
+
+# e. Interpret the R output and identify key statistics
+test_statistic <- t_test_result$statistic
+df <- t_test_result$parameter
+p_value <- t_test_result$p.value
+CI <- t_test_result$conf.int
+means <- t_test_result$estimate
+
+# Print out the key statistics
+cat("Test Statistic (t):", test_statistic, "\n")
+cat("Degrees of Freedom (df):", df, "\n")
+cat("P-value:", p_value, "\n")
+cat("95% Confidence Interval:", CI, "\n")
+cat("Means for Smokers and Nonsmokers:", means, "\n")
+
+# f. Interpret the CI and use it to conclude
+# If the 95% CI does not include 0, we reject the null hypothesis (Ho).
+if(CI[1] > 0 | CI[2] < 0) {
+  cat("Reject Ho: There is a significant difference in lung capacity between smokers and nonsmokers.\n")
+} else {
+  cat("Fail to Reject Ho: There is no significant difference in lung capacity between smokers and nonsmokers.\n")
+}
+
+# g. Manually calculate the mean difference’s 95% CI
+n1 <- length(LC_Data$LC[LC_Data$Smoke == "yes"])
+n2 <- length(LC_Data$LC[LC_Data$Smoke == "no"])
+mean_diff <- means[1] - means[2]
+pooled_sd <- sqrt(((n1-1)*var(LC_Data$LC[LC_Data$Smoke == "yes"]) + 
+                     (n2-1)*var(LC_Data$LC[LC_Data$Smoke == "no"])) / (n1 + n2 - 2))
+se_diff <- pooled_sd * sqrt(1/n1 + 1/n2)
+manual_CI <- mean_diff + c(-1, 1) * qt(1 - alpha/2, df) * se_diff
+
+cat("Manually Calculated 95% Confidence Interval for Mean Difference:", manual_CI, "\n")
+
+# h. Manually calculate the t-statistic and p-value
+manual_t_statistic <- mean_diff / se_diff
+manual_p_value <- 2 * pt(-abs(manual_t_statistic), df)
+
+cat("Manually Calculated t-Statistic:", manual_t_statistic, "\n")
+cat("Manually Calculated P-value:", manual_p_value, "\n")
+
+# Conclusion based on manual calculations
+if(manual_p_value < alpha) {
+  cat("Reject Ho based on manual calculation: There is a significant difference in lung capacity between smokers and nonsmokers.\n")
+} else {
+  cat("Fail to Reject Ho based on manual calculation: There is no significant difference in lung capacity between smokers and nonsmokers.\n")
+}
+
