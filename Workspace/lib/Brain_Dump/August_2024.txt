@@ -10,7 +10,10 @@ Build system that can administer VNS and record dEMG at the same time
 
 Mechanisms: alpha recepters blocking plasticity has been done somewhat, what if we do experiments to see if beta recepters block or promote plasticity and how does it interact with alpha. 
 
+Question: Can we monitor respiration & detect VNS activity?
+Long-term: Personalization of therapy (Parameter Set) unique to each patients for recovery after SPI
 
-Pictures / Schematics / Block Diagrams
 
-
+Artifact: *Unwanted natural noise of the wave form that saturates the signal from the recording channel*
+-> Use H-Reflex to define threshold to set frequency and amplitude range
+How bad does the artifact signal bleed through?

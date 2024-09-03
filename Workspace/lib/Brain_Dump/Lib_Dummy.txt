@@ -1,25 +1,53 @@
 Priority
+Ask Eric and Jonathon Riley about setting up new experiments
 - Read Neuroscience Ch. 16-17
 - Myomatrix paper
 - Respiration VNS paper
-- Read/Skim rest of papers
-- Look for EMG implantable electrodes and how to make the wires
-
-
-In-Progress
-- Put together a Presentation/PPT of research proposal for First Year Project (FYP)
--- Schematic
--- Relevant papers
 -- Experimental Design and Objectives
 -- Experimental Questions and Hypothesis
 
 
-- Finishing putting together thoughts and research notes
-- Go back through papers and take meaningful notes
+In-Progress
+- Look for EMG implantable electrodes for *Muscles* and how to make the wires
+- Put together a Presentation/PPT of research proposal for First Year Project (FYP)
+- Read/Skim rest of papers
+- Ask Dr. Meyers about collaboration for Paired Corticospinal-motor neruonal stimulation (PCMS) with Joseph
 
 
 
 Backlog
+- Read Dr. Meyers' Dissertations: {https://www.proquest.com/pqdtlocal1006281/docview/2087776469/E4E1D789F8AE458EPQ/1?accountid=7120&sourcetype=Dissertations%20&%20Theses}
 - Set-Up Zotero and Writing Tools
+- Set-up workflow for Literature Reviews
 - Set-up routine for writing and doing literature reviews
 --- READ TxBDC PI Dissertations
+
+
+----------------------------------------
+
+QE is Spring 2025
+8:30 AM - 2:00 PM
+Present in conference room of your research
+- expected to know your area of research
+- know what people have done
+- know the background of your work
+- know the what is going on in your area of research
+
+Quad shot  (Keep words to a minimum and use concept diagrams)
+1. Description:
+- Please describe the broad of your research (Your why and your area of research, what is the significance)
+2. Concept Diagram:
+- Draw a schematic concept diagram summarizing key features of your research 
+3. Objectives:
+- Initial understanding of the objectives of your research (What are objectives/aims of the research, personal contributions )
+4. Scope of Research:
+- State the areas of implementation of your research (What is my research going to cover, what I will have explained through my PhD, expected outcomes)
+
+
+What are faculty looking
+- Single Slide and the importance (spend a lot of time putting it together), and know everything you're putting on it
+- How are you gonna process this data, complications, how to interpret, etc...
+- What is the central DOGMA
+
+
+The PI has an opporunity to make a statement, what the strengths are, weaknesses, etc. 
