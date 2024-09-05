@@ -1,11 +1,11 @@
-General Idea: Record  diaphram respiration while rats are awake to monitor amplitude (and to eventually perform with jaw experiments)
--> Use threshold of H-Reflex to set frequency and amplitude range (we also may use Myomatrix that provide 16 arrays)
+Keep Working on Powerpoint Presentation
 
-Set-up dEMG recordings to monitor respiration and detect H-Reflex (while rat is awake)
-Repurpose already existing Behavioral Testing Set-up (Jaw+VNS) for our experiments
-Build system for Parameter EMG Cases (30 Hz, Amplitude Parameter Sweep)
-Build system that can administer VNS and record dEMG at the same time
+- Talk to Isabella about getting rats for pilot experiments
 
+Key Papers:
+- A limited range of vagus nerve stimulation intensities produce motor cortex reorganization when delivered during training: {https://www.sciencedirect.com/science/article/pii/S0166432820304046?ref=pdf_download&fr=RR-2&rr=8bb547432c71a915}
+---- "However, the failure of higher intensity stimulation to enhance plasticity suggests that over-activation of these networks also prevents plasticity."
+- Parametric characterization of the rat Hering-Breuer reflex evoked with implanted and non-invasive vagus nerve stimulation: {https://www.sciencedirect.com/science/article/pii/S0014488620300510}
 
 
 Mechanisms: alpha recepters blocking plasticity has been done somewhat, what if we do experiments to see if beta recepters block or promote plasticity and how does it interact with alpha. 

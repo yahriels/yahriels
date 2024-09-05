@@ -1,16 +1,14 @@
 Priority
 Ask Eric and Jonathon Riley about setting up new experiments
 - Read Neuroscience Ch. 16-17
-- Myomatrix paper
-- Respiration VNS paper
--- Experimental Design and Objectives
--- Experimental Questions and Hypothesis
+- Read VNS Papers from Dr. Hays and Dr. Kilgard
+- Go through Python Stuff
+- Get integrated into behavioral and lab stuff with Joseph and Conner
 
 
 In-Progress
 - Look for EMG implantable electrodes for *Muscles* and how to make the wires
 - Put together a Presentation/PPT of research proposal for First Year Project (FYP)
-- Read/Skim rest of papers
 - Ask Dr. Meyers about collaboration for Paired Corticospinal-motor neruonal stimulation (PCMS) with Joseph
 
 

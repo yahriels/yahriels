@@ -52,7 +52,7 @@ hist(Ar_rice,
      main = "Measured amount of arsenic in brown rice", 
      xlab = "Amount (ug/serving)",
      ylab = "Frequency",
-     breaks = 2)
+     breaks = seq(min(Ar_rice)-1, max(Ar_rice)+1, by=2))
 
 ```
 
@@ -115,7 +115,7 @@ prob_2
 ```
 # Question 7
 
-Given that the general characteristics of a normal distrubution are with mean=1 and std=1, then we expect anything to that is above the value of '2' and below the value of'0' to be an outlier.
+Given that the general characteristics of a normal distrubution are with mean=1 and std=1, then we expect anything to that is above the value of '2' and below the value of'0' to be an outlier. This is abiding by the "Range Rule of Thumb for Identifying Significant Values" as referenced in the lecture slides (wk 2 Tuesday)
 
 # Question 8
 ```{r}
@@ -153,6 +153,8 @@ hist(female_pulse_rates,
      border = "black",
      breaks = 10)
 
+qqnorm(female_pulse_rates)
+qqline(female_pulse_rates)
 
 # Add a normal distribution curve for comparison
 x <- seq(min(female_pulse_rates), max(female_pulse_rates), length = 100)
@@ -265,15 +267,13 @@ if (t_test_result$conf.int[2] < 90) {
 ```{r}
 #Import LC Data
 library(readxl)
-LC_Data <- read_excel("C:/Users/yahri/yahriels/Stats/R/LCData.xlsx")
-View(LC_Data)
-
+LCData <- read_xlsx("LCData.xlsx")
 # View the data structure
-str(LC_Data)
-summary(LC_Data)
+str(LCData)
+summary(LCData)
 
 # a. Boxplot to examine the relationship between lung capacity and smoking status
-boxplot(LC ~ Smoke, data = LC_Data, 
+boxplot(LC ~ Smoke, data = LCData, 
         main = "Lung Capacity by Smoking Status",
         xlab = "Smoking Status",
         ylab = "Lung Capacity (liters)",
@@ -288,11 +288,11 @@ cat("1. Normality: Check if lung capacities are approximately normally distribut
 cat("2. Equal variances: Check if the variances of lung capacities are equal for smokers and nonsmokers. (can use F-test)\n")
 
 # Normality check using Shapiro-Wilk test
-shapiro.test(LC_Data$LC[LC_Data$Smoke == "yes"])
-shapiro.test(LC_Data$LC[LC_Data$Smoke == "no"])
+shapiro.test(LCData$LC[LCData$Smoke == "yes"])
+shapiro.test(LCData$LC[LCData$Smoke == "no"])
 
 # Variance check using Bartlett's test
-bartlett.test(LC ~ Smoke, data = LC_Data)
+bartlett.test(LC ~ Smoke, data = LCData)
 
 # c. Decide on a test type and significance level
 # Given the research question, a two-sided test is appropriate.
@@ -300,7 +300,7 @@ bartlett.test(LC ~ Smoke, data = LC_Data)
 alpha <- 0.05
 
 # d. Perform t-test assuming equal variances
-t_test_result <- t.test(LC ~ Smoke, data = LC_Data, var.equal = TRUE)
+t_test_result <- t.test(LC ~ Smoke, data = LCData, var.equal = TRUE)
 t_test_result
 
 # e. Interpret the R output and identify key statistics
@@ -326,11 +326,11 @@ if(CI[1] > 0 | CI[2] < 0) {
 }
 
 # g. Manually calculate the mean difference’s 95% CI
-n1 <- length(LC_Data$LC[LC_Data$Smoke == "yes"])
-n2 <- length(LC_Data$LC[LC_Data$Smoke == "no"])
+n1 <- length(LCData$LC[LCData$Smoke == "yes"])
+n2 <- length(LCData$LC[LCData$Smoke == "no"])
 mean_diff <- means[1] - means[2]
-pooled_sd <- sqrt(((n1-1)*var(LC_Data$LC[LC_Data$Smoke == "yes"]) + 
-                     (n2-1)*var(LC_Data$LC[LC_Data$Smoke == "no"])) / (n1 + n2 - 2))
+pooled_sd <- sqrt(((n1-1)*var(LCData$LC[LCData$Smoke == "yes"]) + 
+                     (n2-1)*var(LCData$LC[LCData$Smoke == "no"])) / (n1 + n2 - 2))
 se_diff <- pooled_sd * sqrt(1/n1 + 1/n2)
 manual_CI <- mean_diff + c(-1, 1) * qt(1 - alpha/2, df) * se_diff
 
