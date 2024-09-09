@@ -4,6 +4,8 @@ Help me write a response to the following prompts: "Experimental Design:" "Key F
 
 Relevant Paper: {}
 seminar notes: {
+
+
 }
 
 
@@ -95,7 +97,7 @@ Feedback and Corrections:
 - Strengthen the connection between theoretical frameworks and practical applications to emphasize the significance of the research.
 - Incorporate additional references or examples to support key points and enhance the overall rigor of the manuscript.
 
-To enhance your response, consider the following suggestions:
+To enhance your response, consideSr the following suggestions:
 
 Clarify the Research Focus: Provide a concise and clear explanation of the research focus and objectives. 
 
@@ -132,6 +134,23 @@ Frame your response to this audience and as the reviewer:
 Rewrite and Extend and Reorganize the Response and keep the word/character count the same but remove all redundancies and make it more advanced academic and formal writing.
 
 Review and make changes in regards to the special topic given in the description.
+
+Date of Seminar: 
+
+Title of Seminar: 
+
+Name of Presenter: 
+
+Objective of the Research Presented:
+
+Hypothesis/Premise (if any):
+
+Experimental Design: 
+
+Key Findings, Conclusions, Future Directions:
+
+
+
 
 }
 

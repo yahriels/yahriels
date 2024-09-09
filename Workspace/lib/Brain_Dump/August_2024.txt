@@ -6,6 +6,8 @@ Key Papers:
 - A limited range of vagus nerve stimulation intensities produce motor cortex reorganization when delivered during training: {https://www.sciencedirect.com/science/article/pii/S0166432820304046?ref=pdf_download&fr=RR-2&rr=8bb547432c71a915}
 ---- "However, the failure of higher intensity stimulation to enhance plasticity suggests that over-activation of these networks also prevents plasticity."
 - Parametric characterization of the rat Hering-Breuer reflex evoked with implanted and non-invasive vagus nerve stimulation: {https://www.sciencedirect.com/science/article/pii/S0014488620300510}
+- A new electrode configuration for recording electromyographic activity in behaving mice: {https://www.sciencedirect.com/science/article/pii/S0165027005001159}
+- Behaviorally Selective Engagement of Short-Latency Effector Pathways by Motor Cortex: {https://www.cell.com/neuron/fulltext/S0896-6273(17)30594-9} 
 
 
 Mechanisms: alpha recepters blocking plasticity has been done somewhat, what if we do experiments to see if beta recepters block or promote plasticity and how does it interact with alpha. 
