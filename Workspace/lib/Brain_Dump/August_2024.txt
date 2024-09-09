@@ -19,3 +19,19 @@ Long-term: Personalization of therapy (Parameter Set) unique to each patients fo
 Artifact: *Unwanted natural noise of the wave form that saturates the signal from the recording channel*
 -> Use H-Reflex to define threshold to set frequency and amplitude range
 How bad does the artifact signal bleed through?
+
+
+---------------
+
+
+2 Females 11- MOnths old (VPA injection)
+2 Males 6-Months old
+2 Females 8-months (Wildtype control group)
+
+-------
+6-7  1-Month old Wildtype Females
+
+1-2 Male wildtype males
+-----
+
+
