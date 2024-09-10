@@ -1,24 +1,64 @@
 Priority
-Ask Eric and Jonathon Riley about setting up new experiments
-- Read Neuroscience Ch. 16-17
-- Read VNS Papers from Dr. Hays and Dr. Kilgard
-- Go through Python Stuff
-- Get integrated into behavioral and lab stuff with Joseph and Conner
+- H-Reflex Papers
+- H-Reflex Condition 
+- Look through dEMG paper for length of wire electrodes from 
 
 
 In-Progress
-- Look for EMG implantable electrodes for *Muscles* and how to make the wires
-- Put together a Presentation/PPT of research proposal for First Year Project (FYP)
-- Ask Dr. Meyers about collaboration for Paired Corticospinal-motor neruonal stimulation (PCMS) with Joseph
+- Microconstruction Trainings
+- dEMG Electrodes 
+- Get integrated into behavioral and lab stuff with Joseph and Conner
+- Keep working on Powerpoint (Quad Shot)
 
 
 
 Backlog
 - Read Dr. Meyers' Dissertations: {https://www.proquest.com/pqdtlocal1006281/docview/2087776469/E4E1D789F8AE458EPQ/1?accountid=7120&sourcetype=Dissertations%20&%20Theses}
-- Set-Up Zotero and Writing Tools
-- Set-up workflow for Literature Reviews
-- Set-up routine for writing and doing literature reviews
---- READ TxBDC PI Dissertations
+- Talk to Meyer's and 'David' about Software Development
+- Read Neuroscience Ch. 16-17
+- Read VNS Papers from Dr. Hays and Dr. Kilgard
+- Go through Python Stuff
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ----------------------------------------

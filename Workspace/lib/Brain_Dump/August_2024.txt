@@ -1,37 +1,41 @@
-Keep Working on Powerpoint Presentation
+H-Reflex Conditioning Operant System Mapping Architecture
 
-- Talk to Isabella about getting rats for pilot experiments
+H-Reflex Conditioning Papers
+- https://physoc.onlinelibrary.wiley.com/doi/full/10.1113/JP283875 
+- https://physoc.onlinelibrary.wiley.com/doi/full/10.1113/JP278173
+- https://www.frontiersin.org/journals/rehabilitation-sciences/articles/10.3389/fresc.2023.1198679/full
 
 Key Papers:
-- A limited range of vagus nerve stimulation intensities produce motor cortex reorganization when delivered during training: {https://www.sciencedirect.com/science/article/pii/S0166432820304046?ref=pdf_download&fr=RR-2&rr=8bb547432c71a915}
----- "However, the failure of higher intensity stimulation to enhance plasticity suggests that over-activation of these networks also prevents plasticity."
+STILL NEED TO FINISH READING
+- Vagus nerve stimulation for stroke rehabilitation: Neural substrates, neuromodulatory effects and therapeutic implications: {https://physoc.onlinelibrary.wiley.com/doi/full/10.1113/JP285566}
+    - VNS review - neural substrates
+- Awake behaving electrophysiological correlates of forelimb hyperreflexia, weakness and disrupted muscular synchronization following cervical spinal cord injury in the rat: {https://www.sciencedirect.com/science/article/pii/S0166432816301826}
+    - First step in project for awake rats
 - Parametric characterization of the rat Hering-Breuer reflex evoked with implanted and non-invasive vagus nerve stimulation: {https://www.sciencedirect.com/science/article/pii/S0014488620300510}
+    - VNS and Hering-Breuer Effect
+
+FINISHED READING
 - A new electrode configuration for recording electromyographic activity in behaving mice: {https://www.sciencedirect.com/science/article/pii/S0165027005001159}
-- Behaviorally Selective Engagement of Short-Latency Effector Pathways by Motor Cortex: {https://www.cell.com/neuron/fulltext/S0896-6273(17)30594-9} 
+    - For making EMG electrodes for dEMG
+- A limited range of vagus nerve stimulation intensities produce motor cortex reorganization when delivered during training: {https://www.sciencedirect.com/science/article/pii/S0166432820304046?ref=pdf_download&fr=RR-2&rr=8bb547432c71a915}
+    - Behavioral Testing: *Nose Poke Experiment in Red Room*
++ Read the most recent papers and most cited papers on VNS by Dr. Kilgard and Dr. Hays +
 
 
-Mechanisms: alpha recepters blocking plasticity has been done somewhat, what if we do experiments to see if beta recepters block or promote plasticity and how does it interact with alpha. 
 
-Question: Can we monitor respiration & detect VNS activity?
-Long-term: Personalization of therapy (Parameter Set) unique to each patients for recovery after SPI
-
-
-Artifact: *Unwanted natural noise of the wave form that saturates the signal from the recording channel*
--> Use H-Reflex to define threshold to set frequency and amplitude range
-How bad does the artifact signal bleed through?
-
-
----------------
-
-
-2 Females 11- MOnths old (VPA injection)
-2 Males 6-Months old
-2 Females 8-months (Wildtype control group)
-
--------
-6-7  1-Month old Wildtype Females
-
-1-2 Male wildtype males
------
+Week To do 
+- Figure out how to make EMG electrodes
+    - Electrode Configuration: {https://www.sciencedirect.com/science/article/pii/S0165027005001159}
+    - Look through dEMG paper for length of wire from diaghram to headcap
+- Get trained on Microconstruction and Surgeries
+    - Need to get familiar with the Headcap and Cuff components
+    - Need to start training on Bananas (Undergraduate Surgery Trainings)
+- VNS and dEMG electrodes surgery and connection to Headcap
+    - Follow-up with Jonathon Riley (Start experimentation 2-3 weeks tentatively)
+    - Talk to Tanya about having her do the Surgeries
+- Meet with Tanya  
+    - EMG electrode wires, Surturing needle with eyehole, connectors
+    - Microconstruction and Banana Trainings
+    - Outsourcing VNS and dEMG Surgeries
 
 
