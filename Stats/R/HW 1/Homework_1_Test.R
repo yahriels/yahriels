@@ -230,15 +230,20 @@ if (t_test_result$conf.int[2] < 90) {
 # Question 13
 #Import LC Data
 library(readxl)
-LC_Data <- read_excel("C:/Users/yahri/yahriels/Stats/R/LCData.xlsx")
-View(LC_Data)
+LCData <- read_excel("LCData.xlsx")
+View(LCData)
 
 # View the data structure
-str(LC_Data)
-summary(LC_Data)
+str(LCData)
+summary(LCData)
+
+# a. (KEY VERSION)
+SmokeStatus <- LCData$'Smoke'
+LungC <- LCData$'LC'
+ggplot(LCData, aes( x = SmokeStatus, y = LungC)) + geom_boxplot()
 
 # a. Boxplot to examine the relationship between lung capacity and smoking status
-boxplot(LC ~ Smoke, data = LC_Data, 
+boxplot(LC ~ Smoke, data = LCData, 
         main = "Lung Capacity by Smoking Status",
         xlab = "Smoking Status",
         ylab = "Lung Capacity (liters)",
@@ -252,12 +257,16 @@ cat("Alternative Hypothesis (Ha): There is a difference in mean lung capacity be
 cat("1. Normality: Check if lung capacities are approximately normally distributed for each group. (can use histograms or Shapiro-Wilk test)\n")
 cat("2. Equal variances: Check if the variances of lung capacities are equal for smokers and nonsmokers. (can use F-test)\n")
 
+# b. KEY VERSION
+nonSm <- LCData$'LC'[LCData$'Smoke' == c("no")]
+Smokers <- LCData$'LC'[LCData$'Smoke' == c("yes")]
+
 # Normality check using Shapiro-Wilk test
-shapiro.test(LC_Data$LC[LC_Data$Smoke == "yes"])
-shapiro.test(LC_Data$LC[LC_Data$Smoke == "no"])
+shapiro.test(LCData$LC[LCData$Smoke == "yes"])
+shapiro.test(LCData$LC[LCData$Smoke == "no"])
 
 # Variance check using Bartlett's test
-bartlett.test(LC ~ Smoke, data = LC_Data)
+bartlett.test(LC ~ Smoke, data = LCData)
 
 # c. Decide on a test type and significance level
 # Given the research question, a two-sided test is appropriate.
@@ -265,8 +274,11 @@ bartlett.test(LC ~ Smoke, data = LC_Data)
 alpha <- 0.05
 
 # d. Perform t-test assuming equal variances
-t_test_result <- t.test(LC ~ Smoke, data = LC_Data, var.equal = TRUE)
+t_test_result <- t.test(LC ~ Smoke, data = LCData, var.equal = TRUE)
 t_test_result
+
+# d. KEY VERSION
+t.test(nonSm, Smokers, mu = 0, alt= "two.sided", var.eq = T, conf = 0.95, paired=F)
 
 # e. Interpret the R output and identify key statistics
 test_statistic <- t_test_result$statistic
@@ -291,19 +303,32 @@ if(CI[1] > 0 | CI[2] < 0) {
 }
 
 # g. Manually calculate the mean difference’s 95% CI
-n1 <- length(LC_Data$LC[LC_Data$Smoke == "yes"])
-n2 <- length(LC_Data$LC[LC_Data$Smoke == "no"])
+n1 <- length(LCData$LC[LCData$Smoke == "yes"])
+n2 <- length(LCData$LC[LCData$Smoke == "no"])
 mean_diff <- means[1] - means[2]
-pooled_sd <- sqrt(((n1-1)*var(LC_Data$LC[LC_Data$Smoke == "yes"]) + 
-                     (n2-1)*var(LC_Data$LC[LC_Data$Smoke == "no"])) / (n1 + n2 - 2))
+pooled_sd <- sqrt(((n1-1)*var(LCData$LC[LCData$Smoke == "yes"]) + 
+                     (n2-1)*var(LCData$LC[LCData$Smoke == "no"])) / (n1 + n2 - 2))
 se_diff <- pooled_sd * sqrt(1/n1 + 1/n2)
 manual_CI <- mean_diff + c(-1, 1) * qt(1 - alpha/2, df) * se_diff
 
 cat("Manually Calculated 95% Confidence Interval for Mean Difference:", manual_CI, "\n")
 
+# g KEY VERSION
+mean.diff <- mean(nonSm)-mean(Smokers)
+df <- length(nonSm)-1
+tcrit <- qt(0.025, df, lower.tail = F)
+SEM <- sqrt(sd(nonSm)^2/182 + sd(Smokers)^2/18)
+ME <- tcrit*SEM
+upper <- mean.diff+ME
+lower <- mean.diff-ME
+
 # h. Manually calculate the t-statistic and p-value
 manual_t_statistic <- mean_diff / se_diff
 manual_p_value <- 2 * pt(-abs(manual_t_statistic), df)
+
+# h KEY VERSION
+ttest.stat <- (mean.diff-0)/SEM
+pvalue <- 2*pt(-0.4057, df=18, lower.tail=F)
 
 cat("Manually Calculated t-Statistic:", manual_t_statistic, "\n")
 cat("Manually Calculated P-value:", manual_p_value, "\n")
