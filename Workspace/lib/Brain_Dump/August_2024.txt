@@ -27,6 +27,7 @@ Week To do
 - Figure out how to make EMG electrodes
     - Electrode Configuration: {https://www.sciencedirect.com/science/article/pii/S0165027005001159}
     - Look through dEMG paper for length of wire from diaghram to headcap
+    - Figure out how much length we need to tunnel from 
 - Get trained on Microconstruction and Surgeries
     - Need to get familiar with the Headcap and Cuff components
     - Need to start training on Bananas (Undergraduate Surgery Trainings)
@@ -39,3 +40,5 @@ Week To do
     - Outsourcing VNS and dEMG Surgeries
 
 
+dEMG Electrode to VNS Electrode Tunnel...
+"A midline incision was made on the ventral surface of the neck and the left cervical vagus nerve exposed. A transverse incision was then made on the dorsal surface, approximately 1 cm below the rat’s shoulders blades, and a subcutaneous tunnel opened between the two incisions. The VNS electrodes were placed subcutaneously in the tunnel and the cuff placed carefully around the cervical vagus. A lateral transverse incision was then made across the most distal rib on the left side, and another subcutaneous tunnel made to the dorsal incision. The dEMG electrodes were placed through this tunnel and sutured to the left costal diaphragm, through a small sub-diaphragmatic incision. At this point the VNS electrode was connected to a stimulator (ISO-Flex with Master-8, A.M.P·I, Jerusalem, Israel) delivering electrical pulses (100 μs pulse width, 0.8 mA at 20 Hz for 5s)."
