@@ -22,3 +22,7 @@ FINISHED READING
 + Read the most recent papers and most cited papers on VNS by Dr. Kilgard and Dr. Hays +
 
 
+
+
+Take into account gender for length of EMG electrode 
+Surgical protocol 
