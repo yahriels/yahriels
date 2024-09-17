@@ -1,0 +1,133 @@
+---
+title: "R Markdown Yahriel Salinas-Reyes HW 2"
+author: "Yahriel Salinas-Reyes"
+date: "`r Sys.Date()`"
+output: word_document
+---
+
+```{r, include=FALSE}
+## clean R environment 
+rm(list = ls(all=TRUE))
+graphics.off()
+shell("cls")
+```
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r, include=FALSE}
+# Include Libraries
+library(readxl)
+library(ggplot2)
+library(here)
+library(epiR)
+library(MASS)
+library(nnet)
+library(car)
+library(PairedData)
+library(pwr)
+library(dplyr)
+library(FSA) #posthoc
+
+```
+
+# Question 1
+## 1. State the Ho, Ha Hypothesis
+Null hypothesis (Ho): The dietary supplement has no effect on blood pressure. That is, the mean blood pressure after taking the supplement is the same as before (mu_before=mu_after)
+
+
+Alternative hypothesis (Ha): The dietary supplement reduces blood pressure. That is, the mean blood pressure after taking the supplement is less than before. (mu_before > mu_after)
+
+## Q1.2. 
+```{r, out.width="60%"}
+# Blood pressure before taking the supplement
+before <- c(130, 125, 140, 135, 138, 132, 137, 142, 129, 136, 133, 139, 140, 150)
+# Blood pressure after taking the supplement for 8 weeks
+after <- c(122, 118, 133, 127, 129, 124, 130, 135, 121, 128, 126, 132, 120, 123)
+
+# Run a paired t-test
+t_test_result <- t.test(after, before, paired = TRUE, alternative = "less")
+
+```
+
+## Q1.3
+```{r, out.width="60%"}
+# View the results
+print(t_test_result)
+```
+Based on the Output, we get the following results
+
+t-statistic = -6.1753
+Degrees of freedom (df) = 13
+p-value = .00001674
+95% CI for the difference in means: (-INF, -7.030364)
+
+## Q1.4
+# If the Ho is true, the probability of having a statistic as extreme as -6.1753 or more extreme, is .001674%.
+# Since the value of Ho is outside of the 95% interval # we reject the null hypothesis.
+# We conclude that there is a significant reduction in blood pressure after taking the dietary supplement.
+
+# Question 2
+```{r, out.width="60%"}
+
+```
+
+# Question 3
+```{r, out.width="60%"}
+
+```
+
+# Question 4
+```{r, out.width="60%"}
+
+```
+
+# Question 5
+```{r, out.width="60%"}
+
+```
+
+# Question 6
+```{r, out.width="60%"}
+
+```
+
+# Question 7
+```{r, out.width="60%"}
+
+```
+
+# Question 8
+```{r, out.width="60%"}
+
+```
+
+# Question 9
+```{r, out.width="60%"}
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
