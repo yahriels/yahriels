@@ -33,13 +33,13 @@ library(FSA) #posthoc
 ```
 
 # Question 1
-## 1. State the Ho, Ha Hypothesis
+## Q.1.1 State the Ho, Ha Hypothesis
 Null hypothesis (Ho): The dietary supplement has no effect on blood pressure. That is, the mean blood pressure after taking the supplement is the same as before (mu_before=mu_after)
 
 
 Alternative hypothesis (Ha): The dietary supplement reduces blood pressure. That is, the mean blood pressure after taking the supplement is less than before. (mu_before > mu_after)
 
-## Q1.2. 
+## Q.1.2. 
 ```{r, out.width="60%"}
 # Blood pressure before taking the supplement
 before <- c(130, 125, 140, 135, 138, 132, 137, 142, 129, 136, 133, 139, 140, 150)
@@ -51,7 +51,7 @@ t_test_result <- t.test(after, before, paired = TRUE, alternative = "less")
 
 ```
 
-## Q1.3
+## Q.1.3
 ```{r, out.width="60%"}
 # View the results
 print(t_test_result)
@@ -63,18 +63,18 @@ Degrees of freedom (df) = 13
 p-value = .00001674
 95% CI for the difference in means: (-INF, -7.030364)
 
-## Q1.4
+## Q.1.4
 # If the Ho is true, the probability of having a statistic as extreme as -6.1753 or more extreme, is .001674%.
 # Since the value of Ho is outside of the 95% interval # we reject the null hypothesis.
 # We conclude that there is a significant reduction in blood pressure after taking the dietary supplement.
 
 # Question 2
 
-## Q2.1
+## Q.2.1
 - Null Hypothesis (Ho): There is no significant difference in productivity before and after the training program (mu_before = mu_after).
 - Alternative Hypothesis (Ha): There is a significant difference in productivity before and after the training program (mu_before =/ mu_after)
 
-## Q2.2
+## Q.2.2
 Since we have two sets of related measurements that are paired (before and after), we can use a paired t-test to compare the means. The asumptions for a paired t-test include: 
 - The difference between the pairs of data (before-after) should be approximately normally distributed.
 We can check this by doing a normality test (Shapiro-Wilk test) and then performing a paired t-test.
@@ -95,10 +95,10 @@ t.test(before, after, paired = TRUE)
 
 ```
 
-## Q2.3
+## Q.2.3
 The P-Value = 0.08079
 
-## Q2.4
+## Q.2.4
 Based on the p-value 0.08079, explain the result using the following language 
 # If the Ho is true, the probability of having a difference of this magnitude
 # or more extreme, is 8.079%
@@ -113,36 +113,35 @@ library(ggplot2)
 library(dplyr)
 library(readxl)
 Births <- read_excel("Births.xlsx")
+#View(Births)
 
 
-# Read the data from Births.xlsx
-Births <- read_excel("Births.xlsx")
 
 # Convert GENDER to a factor
-Births$GENDER <- as.factor(Births$GENDER)
-levels(Births$GENDER) <- c("Female", "Male")
+Births$`GENDER (1=M)` <- as.factor(Births$`GENDER (1=M)`)
+levels(Births$`GENDER (1=M)`) <- c("0", "1")
 
 # Check the structure of the data
 str(Births)
 
 # Visualize the birth weight distribution
-ggplot(Births, aes(x = GENDER, y = `BIRTH WEIGHT`, fill = GENDER)) +
+ggplot(Births, aes(x = `GENDER (1=M)`, y = `BIRTH WEIGHT`, fill = 'GENDER (1=M)')) +
   geom_boxplot() +
   labs(title = "Birth Weight Distribution by Gender",
-       x = "Gender",
+       x = "Gender (1=M)",
        y = "Birth Weight (g)") +
   theme_minimal()
 
 # Perform normality test for each group (Shapiro-Wilk Test)
-shapiro.test(Births$`BIRTH WEIGHT`[Births$GENDER == "Female"])
-shapiro.test(Births$`BIRTH WEIGHT`[Births$GENDER == "Male"])
+shapiro.test(Births$`BIRTH WEIGHT`[Births$`GENDER (1=M)` == "0"])
+shapiro.test(Births$`BIRTH WEIGHT`[Births$`GENDER (1=M)` == "1"])
 
 # Since the data may not be normally distributed, use the Mann-Whitney U test
-wilcox.test(`BIRTH WEIGHT` ~ GENDER, data = Births, alternative = "two.sided")
+wilcox.test(`BIRTH WEIGHT` ~ `GENDER (1=M)`, data = Births, alternative = "two.sided")
 
 # Display summary statistics
 Births %>%
-  group_by(GENDER) %>%
+  group_by(`GENDER (1=M)`) %>%
   summarise(median_bw = median(`BIRTH WEIGHT`),
             mean_bw = mean(`BIRTH WEIGHT`),
             sd_bw = sd(`BIRTH WEIGHT`))
@@ -159,29 +158,114 @@ To test the claim that girls and boys have the same median birth weight using a 
 
 ## R Output Interpretations
 - Boxplot: Visualizes if any obvious difference in birth weights between boys and girls.
-- Shapiro-Wilk Test: Checks if birth weights for both genders are normally distributed. If p < 0.05, the data is not normally distributed.
+- Shapiro-Wilk Test: Checks if birth weights for both genders are normally distributed. If p < 0.05, the data is not normally distributed. FOr both groups, the p-value is less than alpha and therefore not normally distributed. 
 - Mann-Whitney U Test: This test outputs a p-value. If p < 0.05, you reject the null hypothesis.
 
 ## Conclusion
 If p < 0.05: There is sufficient evidence to reject the null hypothesis, meaning there is a significant difference in the median birth weight between boys and girls.
-If p ≥ 0.05: There is not enough evidence to reject the null hypothesis, so we conclude that the median birth weights of boys and girls are statistically similar.
+Since the p-value is for both male and female is less than 0.05, we reject the null hypothesis and therefore they are not normally distributed and a significant difference in the median birth weights. 
 
 # Question 4
+
 ```{r, out.width="60%"}
+
+
+
+```
+
+
+```{r, out.width="60%"}
+
 
 ```
 
 # Question 5
 ```{r, out.width="60%"}
+# Original data
+set.seed(123)
+steps <- c(3200, 2900, 3100, 3000, 2800, 3500, 3100, 3000, 3300, 3400,
+ 2800, 2900, 3200, 3000, 3100, 3300, 3400, 3600, 3500, 3400,
+ 3000, 2900, 3100, 3200, 3100, 3000, 2800, 2900, 3200, 3100,
+ 3000, 3200, 3300, 3400, 3500, 3600, 3400, 3300, 3200, 3100)
+
+## Q.5.1
+# Plotting histogram of original data
+hist(steps, prob = TRUE, main = "Histogram of Original Step Data with Normal Density Curve", xlab = "Steps")
+curve(dnorm(x, mean = mean(steps), sd = sd(steps)), add = TRUE, col = "blue", lwd = 2)
+
+## Q.5.2
+# Log transformation
+log_steps <- log(steps)
+
+# Plotting histogram of log-transformed data
+hist(log_steps, prob = TRUE, main = "Histogram of Log-Transformed Step Data with Normal Density Curve", xlab = "Log(Steps)")
+curve(dnorm(x, mean = mean(log_steps), sd = sd(log_steps)), add = TRUE, col = "blue", lwd = 2)
+
+## Q.5.3
+# Shapiro-Wilk test for original data
+shapiro_original <- shapiro.test(steps)
+
+# Shapiro-Wilk test for log-transformed data
+shapiro_log <- shapiro.test(log_steps)
+
+# Display results
+shapiro_original
+shapiro_log
 
 ```
+## Q.5.4
+Interpretation and Conclusion:
+- Visual Inspection (Histogram): The histogram of the original data likely shows a skewed distribution, while the log-transformed data may appear closer to normal (depending on how the data looks).
+- Normality Test (Shapiro-Wilk): The p-value from the Shapiro-Wilk test helps determine if the data follows a normal distribution. A p-value greater than 0.05 would indicates the data is normally distributed. Comparing the p-values of the original and log-transformed data shows that normality improved.
 
 # Question 6
+## Hypothesis
+- Null Hypothesis (Ho): The mean arsenic levels in rice from Arkansas, California, and Texas are the same.
+- Alternative Hypothesis (Ha): At least one of the states has a different mean arsenic level in rice.
+
+## Assumptions for One-way ANOVA
+- Normality: The arsenic levels within each state should be normally distributed. We can use Q-Q plots or the Shapiro-Wilk test to check this.
+- Homogeneity of variances: The variances of arsenic levels across the groups should be equal. We can check this using Levene’s test.
+- Independent observations: The samples from each state should be independent of each other.
 ```{r, out.width="60%"}
 library(readxl)
 Arsenic <- read_excel("Arsenic.xlsx")
 View(Arsenic)
+
+Arsenic$STATE <- as.factor(Arsenic$STATE)
+
+# Check assumptions
+
+# 1. Check normality using Q-Q plot for each group
+par(mfrow = c(1, 3))  # Set up plotting area
+qqnorm(Arsenic$ARSENIC[Arsenic$STATE == "Arkansas"], main = "Arkansas")
+qqline(Arsenic$ARSENIC[Arsenic$STATE == "Arkansas"])
+qqnorm(Arsenic$ARSENIC[Arsenic$STATE == "California"], main = "California")
+qqline(Arsenic$ARSENIC[Arsenic$STATE == "California"])
+qqnorm(Arsenic$ARSENIC[Arsenic$STATE == "Texas"], main = "Texas")
+qqline(Arsenic$ARSENIC[Arsenic$STATE == "Texas"])
+
+# 2. Perform Levene's test for homogeneity of variance
+leveneTest(ARSENIC ~ STATE, data = Arsenic)
+
+# Perform the one-way ANOVA
+anova_result <- aov(ARSENIC ~ STATE, data = Arsenic)
+
+# Summary of the ANOVA
+summary(anova_result)
+
+# If significant, conduct a post-hoc test to see which groups differ
+TukeyHSD(anova_result)
+
+# Visualize the group means
+boxplot(ARSENIC ~ STATE, data = Arsenic, main = "Arsenic Levels by State",
+        xlab = "State", ylab = "Arsenic Levels", col = c("lightblue", "lightgreen", "lightcoral"))
 ```
+Based on the Post-hoc test, we test the claim that these states have the same amount of arsenic. Based on the difference, we can conclude that they do not...
+                          diff 
+California-Arkansas -0.7666667 
+Texas-Arkansas       1.4916667  
+Texas-California     2.2583333  
 
 # Question 7
 ```{r, out.width="60%"}
