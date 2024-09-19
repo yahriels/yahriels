@@ -1,5 +1,6 @@
 Priority
 - dEMG Electrodes
+    - Start with trying to make a single 1mm cut with a razor and/or surgical scalpel
 - Mapping H-Reflex Conditioning Architecture
 
 In-Progress
@@ -9,7 +10,7 @@ In-Progress
     - Control Mode
     - Conditioning Mode (Up/Down)
 - Schematics of with Hardware and Instrumentation
-
+- Eventually get trained on Surgery Stuff
 
 
 Week To do 
@@ -17,15 +18,10 @@ Week To do
     - Electrode Configuration: {https://www.sciencedirect.com/science/article/pii/S0165027005001159}
     - Length of wire from diaghram to headcap
     - Figure out tunneling channel and Rat Anatomical Features
-- Get trained on Microconstruction and Surgeries
-    - Need to get familiar with the Headcap and Cuff components
-    - Need to start training on surturing with fake skin (Undergraduate Surgery Trainings)
 - VNS and dEMG electrodes surgery and connection to Headcap
     - Follow-up with Jonathon Riley (Start experimentation 2-3 weeks tentatively)
     - Talk to Tanya about having her do the Surgeries
 
-VNS Surgeries 
-- Go through manual and Watch Video Again
 
 
 
