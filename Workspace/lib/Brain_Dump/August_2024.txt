@@ -23,6 +23,19 @@ FINISHED READING
 
 
 
+Email to "Electrode Configuration Group" for pilot experiment
+{keir.pearson@ualberta.ca}
+- Ask about procedure to fabricate electrodes
+- Ask about surgical protocol to implant electrodes
+
+Email to "dEMG Paper Group" for pilot experiment
+{a.allen@unimelb.edu.au}{stuart.mcdougall@florey.edu.au}
+- Ask about surgical protocol
+- Ask about tunneling distance from diaphragm to headcap
+
+Questions for Dr. Meyers
+- Are we going to be using male or females? (Cuz physiologically they will be different and the distances will also be different)
+
 
 Take into account gender for length of EMG electrode 
 Surgical protocol 

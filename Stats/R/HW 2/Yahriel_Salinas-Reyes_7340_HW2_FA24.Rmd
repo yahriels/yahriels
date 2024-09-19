@@ -69,14 +69,102 @@ p-value = .00001674
 # We conclude that there is a significant reduction in blood pressure after taking the dietary supplement.
 
 # Question 2
+
+## Q2.1
+- Null Hypothesis (Ho): There is no significant difference in productivity before and after the training program (mu_before = mu_after).
+- Alternative Hypothesis (Ha): There is a significant difference in productivity before and after the training program (mu_before =/ mu_after)
+
+## Q2.2
+Since we have two sets of related measurements that are paired (before and after), we can use a paired t-test to compare the means. The asumptions for a paired t-test include: 
+- The difference between the pairs of data (before-after) should be approximately normally distributed.
+We can check this by doing a normality test (Shapiro-Wilk test) and then performing a paired t-test.
+
 ```{r, out.width="60%"}
+# Data
+before <- c(20, 22, 19, 5, 23, 21, 25, 22, 24, 10)
+after <- c(15, 26, 21, 10, 27, 23, 60, 26, 27, 50)
+
+# Differences
+diff <- before - after
+
+# Check normality of the differences (Shapiro-Wilk test)
+shapiro.test(diff)
+
+# Perform a paired t-test
+t.test(before, after, paired = TRUE)
 
 ```
+
+## Q2.3
+The P-Value = 0.08079
+
+## Q2.4
+Based on the p-value 0.08079, explain the result using the following language 
+# If the Ho is true, the probability of having a difference of this magnitude
+# or more extreme, is 8.079%
+# Since the value of p value 0.08079 is greater than .05 # we fail to reject the null
+hypothesis. 
+# We conclude that there is not a significant difference in productivity before and after the training program.
+
 
 # Question 3
 ```{r, out.width="60%"}
+library(ggplot2)
+library(dplyr)
+library(readxl)
+Births <- read_excel("Births.xlsx")
 
+
+# Read the data from Births.xlsx
+Births <- read_excel("Births.xlsx")
+
+# Convert GENDER to a factor
+Births$GENDER <- as.factor(Births$GENDER)
+levels(Births$GENDER) <- c("Female", "Male")
+
+# Check the structure of the data
+str(Births)
+
+# Visualize the birth weight distribution
+ggplot(Births, aes(x = GENDER, y = `BIRTH WEIGHT`, fill = GENDER)) +
+  geom_boxplot() +
+  labs(title = "Birth Weight Distribution by Gender",
+       x = "Gender",
+       y = "Birth Weight (g)") +
+  theme_minimal()
+
+# Perform normality test for each group (Shapiro-Wilk Test)
+shapiro.test(Births$`BIRTH WEIGHT`[Births$GENDER == "Female"])
+shapiro.test(Births$`BIRTH WEIGHT`[Births$GENDER == "Male"])
+
+# Since the data may not be normally distributed, use the Mann-Whitney U test
+wilcox.test(`BIRTH WEIGHT` ~ GENDER, data = Births, alternative = "two.sided")
+
+# Display summary statistics
+Births %>%
+  group_by(GENDER) %>%
+  summarise(median_bw = median(`BIRTH WEIGHT`),
+            mean_bw = mean(`BIRTH WEIGHT`),
+            sd_bw = sd(`BIRTH WEIGHT`))
 ```
+To test the claim that girls and boys have the same median birth weight using a 0.05 significance level, we can conduct a Mann-Whitney U test (A.K.A. Wilcoxon rank-sum test) since it's a non-parametric test suitable when testing the difference in medians between two independent groups. This test is used instead of a t-test if the assumption of normality is violated.
+
+## Hypothesis
+- Null Hypothesis (H0): The median birth weights of boys and girls are the same.
+- Alternative Hypothesis (Ha): The median birth weights of boys and girls are different.
+
+## Assumption Checks
+- Independence: The birth weight of one child does not influence another child’s birth weight.
+- Non-normality: Birth weight data may not be normally distributed. This can be checked visually (using histograms or boxplots) or by a normality test (e.g., Shapiro-Wilk test). If the data is not normal, the Mann-Whitney U test will be appropriate.
+
+## R Output Interpretations
+- Boxplot: Visualizes if any obvious difference in birth weights between boys and girls.
+- Shapiro-Wilk Test: Checks if birth weights for both genders are normally distributed. If p < 0.05, the data is not normally distributed.
+- Mann-Whitney U Test: This test outputs a p-value. If p < 0.05, you reject the null hypothesis.
+
+## Conclusion
+If p < 0.05: There is sufficient evidence to reject the null hypothesis, meaning there is a significant difference in the median birth weight between boys and girls.
+If p ≥ 0.05: There is not enough evidence to reject the null hypothesis, so we conclude that the median birth weights of boys and girls are statistically similar.
 
 # Question 4
 ```{r, out.width="60%"}
@@ -90,7 +178,9 @@ p-value = .00001674
 
 # Question 6
 ```{r, out.width="60%"}
-
+library(readxl)
+Arsenic <- read_excel("Arsenic.xlsx")
+View(Arsenic)
 ```
 
 # Question 7
