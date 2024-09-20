@@ -1,9 +1,90 @@
-I am writing a "Seminar Summary" for a Seminar given by: {}
+I am writing a "Seminar Summary" for a Seminar given by: {Dr. Owen McCarty with the Title:The blood microenvironment and medical devices: the good, bad and the sticky and Description: Sespis remains a leading cause of morbidity and mortality worldwide. Select medical devices, such as ECMO, can provide life-saving support; however, their use is plagued by striking rates of thrombosis and bleeding. Likewise, mortality remains poor in the population of critically ill patients requiring ECMO, driven by a proinflammatory and prothrombotic pathologic host response. Our current focus is to evaluate the mechanistic roles of coagulation FXII as a key driver of both device thrombosis and septic thrombinflammation. We will discuss our recent discovery that uncoupling the contact activation pathway of coagulation mitigates device associated thrombosis in human and animal models. New data will be presented suggesting that FXII plays a pathologic role in systemic inflammation and organ compromise in bacterial and polymicrobial sepsis. The seminar will conclude by outlining a roadmap for pharmacological targeting of FXII to safely reduce or prevent ECMO-associated thromboinflammation.}
 
 Help me write a response to the following prompts: "Experimental Design:" "Key Findings, Conclusions, Future Directions:" based on the information and my seminar notes given below.
 
-Relevant Paper: {}
+Relevant Paper: {https://www.sciencedirect.com/science/article/pii/S0006497120311204
+https://www.sciencedirect.com/science/article/pii/S0006497120358973
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8623470/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3935341/}
 seminar notes: {
+Scaling the Blood Microenvironment (This is the context)
+-	Circulation
+-	Coagulation Factor XI (FXI)
+-	Platelet (building blocks like bricks/cells)
+o	They are responsible for bleeding and plugging all holes to ensure transport of blood
+-	Endothelial cells (the lining)
+-	CTC’s 
+
+What are the skills that we need in Biomedical Engineering and how do we apply them, basically what are we doing?
+
+Goals of this talk:
+-	Entertain the audience
+-	Tell a story of scaling FXI from structure to clinical trials
+-	Show some cool technology (Imaging and Detection Techniques)
+Part 1: Scaling Factor XI (FXI)
+Part 2: Models of Disease
+Part 3: Clinical Trials
+
+Part 1: Scaling FXI (Coagulation Factor) down at the biochemical level
+
+Coagulation Cascade
+Coagulation factor is an amplifier
+Everything that interacts with Factor XI is concerned with modulation (start, stop, self-regulation, amplification)
+
+Scaling from biochemistry to functional assays
+-	Then his team of compuational and engineers looked at rate factors and mechanistic activation (modes of action) taking place in the system, specifically, Factor XI
+
+
+Why Factor XI (FXI)
+-	People with high factor XI has higher risk of heart disease and infection and vice versa.
+-	Factor XII however is a complete mystery and hasn’t been pathologized 
+For people that have lung problems, what they do is they send their blood through an oxygenator (which heats it up and gets rid of and studies the blood clots) and feed it back into the patient. 
+
+
+Function of FXI
+-	Barrier Function
+-	Coagulation
+-	Immune Response
+-	Inflammation
+-	Platelet Activation
+What they do is they inhibit expression of FXI 
+FXI creates/cleaves FIX (forward) but it can also create/cleave FXII (backward) showing it can work in both directions with the function of an Enzyme  (this was eventually used and commercialized by pharma like Bayer)
+
+In general they analyzed and measured various nodes of where FXI sits and analyzed it as a circuit and were able to discover many properties
+
+THey took ways to take experimental and the central dogma and taking a computational biology approach to create a new model for inhibitors that can make predictions, which overlapped with data they experimentally acquired while older models could not. 
+
+By taking the amplification factor and scaling it down, they were able to inhibit blood clotting. 
+
+Contact activation by foreign surfaces (Biomaterials)
+
+Part 2: Models of Disease, what is a foreign surface?
+-	What is the relevance of the surface activation
+-	In this step, people work in the “thank you for the knowledge (Past discovery) and are concerned with how to use this (application)”. 
+
+Bacterial Challenges
+-	They took a group (sham) and a group that was pre-treated, only the pre-treated subjects survived
+-	After this they started to look at biomarkers, they built a model, then started to look at relevance.
+Part 3: Clinical Trials 
+
+Catheter-Associated Thrombosis
+-	Clotting actually happens on the biomaterial itself which was a good idea for a clinical trial
+They ran two trials
+1.	Give everyone the antibody (Intervention Study)
+2.	Looked to see if people developed clotting/bleeding and no administration of antibody (Control Study)
+Phase I Clinical Trial
+-	No serious adverse events
+o	One guy got orange discoloration, but turns out he had gone on a carrot cleanse
+-	No drug-related bleeding events
+
+They studied coagulation with Thrombin production. In an experiment with oncology patients some people developed inflammation. Then they gave them this FXIA enzyme that inhibited inflammation and results showed a substantial statistical reduction in inflammation in oncology patients. 
+
+Foreign Surfaces = Medical Devices
+
+Scaling from structure ot clinical assays
+-	Some people are interested in the discovery part
+-	Some people are interested in applying knowledge
+-	Some people are interested in the translation to clinical settings
 
 
 }
