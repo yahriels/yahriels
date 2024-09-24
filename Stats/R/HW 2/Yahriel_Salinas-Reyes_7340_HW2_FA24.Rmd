@@ -168,12 +168,51 @@ Since the p-value is for both male and female is less than 0.05, we reject the n
 # Question 4
 
 ```{r, out.width="60%"}
+library(readxl)
+IQ_Brain_Size <- read_excel("IQ_Brain_Size.xlsx")
+data <- IQ_Brain_Size 
 
+library(ggplot2)
 
+# Assumption check: Scatter plot
+ggplot(data, aes(x = IQ, y = VOL)) +
+  geom_point() +
+  geom_smooth(method = "lm", se = FALSE, color = "blue") +
+  labs(title = "Scatterplot of IQ vs Brain Volume", x = "IQ", y = "Brain Volume (VOL)")
+
+# Pearson correlation test
+cor_test <- cor.test(data$IQ, data$VOL)
+
+# Output correlation coefficient and p-value
+cor_test
+
+# Plot residuals for assumption check
+model <- lm(VOL ~ IQ, data = data)
+ggplot(data, aes(x = IQ, y = model$residuals)) +
+  geom_point() +
+  geom_hline(yintercept = 0, color = "red", linetype = "dashed") +
+  labs(title = "Residual Plot", x = "IQ", y = "Residuals")
+
+# Summary of the linear regression model (optional)
+summary(model)
 
 ```
+## Hypothesis: 
+- Null Hypothesis (Ho): There is no linear correlation between IQ and Brain Volume (VOL), (correlation coeff.=0).
+- Alternative Hypothesis (Ha): There is a linear correlation between IQ and Brain Volume (VOL), (correlation coeff. =/ 0).
+
+## Assumption Checks:
+- Both IQ and VOL should be continuous variables.
+- Data should follow a bivariate normal distribution.
+- Check linearity through scatter plots.
+ 
+## Interpretation of Output
+- Correlation Coefficient (r): Since the Correlation Coeff. = -0.06339202 , we can see that there is a negative correlation between the two groups.
+- p-value: Since the p-value = 0.7906, we fail to reject Null and conclude that there is not a significant linear correlation between IQ and Brain Volume.
 
 
+## Conclusions
+- Since the p-value is greater than 0.05, we fail to reject Null and conclude that there is not enough evidence to support the claim of a linear correlation.
 ```{r, out.width="60%"}
 
 
@@ -219,56 +258,126 @@ Interpretation and Conclusion:
 - Normality Test (Shapiro-Wilk): The p-value from the Shapiro-Wilk test helps determine if the data follows a normal distribution. A p-value greater than 0.05 would indicates the data is normally distributed. Comparing the p-values of the original and log-transformed data shows that normality improved.
 
 # Question 6
-## Hypothesis
+## Q.6.1 Hypothesis
 - Null Hypothesis (Ho): The mean arsenic levels in rice from Arkansas, California, and Texas are the same.
 - Alternative Hypothesis (Ha): At least one of the states has a different mean arsenic level in rice.
 
-## Assumptions for One-way ANOVA
+## Q.6.2 Assumptions for One-way ANOVA
 - Normality: The arsenic levels within each state should be normally distributed. We can use Q-Q plots or the Shapiro-Wilk test to check this.
 - Homogeneity of variances: The variances of arsenic levels across the groups should be equal. We can check this using Levene’s test.
 - Independent observations: The samples from each state should be independent of each other.
+
+
 ```{r, out.width="60%"}
 library(readxl)
-Arsenic <- read_excel("Arsenic.xlsx")
-View(Arsenic)
+arsenic_data <- read_excel("Arsenic.xlsx")
 
-Arsenic$STATE <- as.factor(Arsenic$STATE)
+# Convert STATE to a factor
+arsenic_data$STATE <- as.factor(arsenic_data$STATE)
 
-# Check assumptions
+# Check the structure of the data
+str(arsenic_data)
 
-# 1. Check normality using Q-Q plot for each group
-par(mfrow = c(1, 3))  # Set up plotting area
-qqnorm(Arsenic$ARSENIC[Arsenic$STATE == "Arkansas"], main = "Arkansas")
-qqline(Arsenic$ARSENIC[Arsenic$STATE == "Arkansas"])
-qqnorm(Arsenic$ARSENIC[Arsenic$STATE == "California"], main = "California")
-qqline(Arsenic$ARSENIC[Arsenic$STATE == "California"])
-qqnorm(Arsenic$ARSENIC[Arsenic$STATE == "Texas"], main = "Texas")
-qqline(Arsenic$ARSENIC[Arsenic$STATE == "Texas"])
+# Q.6.2. Assumption Checks
+# Check for homogeneity of variances using Levene's Test
+leveneTest(ARSENIC ~ STATE, data = arsenic_data)
 
-# 2. Perform Levene's test for homogeneity of variance
-leveneTest(ARSENIC ~ STATE, data = Arsenic)
+# Check for normality using QQ plots and Shapiro-Wilk test for each group
+par(mfrow = c(1, 3))  # Set up a 1x3 plotting area
+with(arsenic_data, {
+  qqnorm(ARSENIC[STATE == "Arkansas"], main = "Arkansas")
+  qqline(ARSENIC[STATE == "Arkansas"])
+  qqnorm(ARSENIC[STATE == "California"], main = "California")
+  qqline(ARSENIC[STATE == "California"])
+  qqnorm(ARSENIC[STATE == "Texas"], main = "Texas")
+  qqline(ARSENIC[STATE == "Texas"])
+})
 
-# Perform the one-way ANOVA
-anova_result <- aov(ARSENIC ~ STATE, data = Arsenic)
+shapiro.test(arsenic_data$ARSENIC[arsenic_data$STATE == "Arkansas"])
+shapiro.test(arsenic_data$ARSENIC[arsenic_data$STATE == "California"])
+shapiro.test(arsenic_data$ARSENIC[arsenic_data$STATE == "Texas"])
 
-# Summary of the ANOVA
-summary(anova_result)
+# Q.6.3. Perform the one-way ANOVA
+anova_model <- aov(ARSENIC ~ STATE, data = arsenic_data)
 
-# If significant, conduct a post-hoc test to see which groups differ
-TukeyHSD(anova_result)
 
-# Visualize the group means
-boxplot(ARSENIC ~ STATE, data = Arsenic, main = "Arsenic Levels by State",
-        xlab = "State", ylab = "Arsenic Levels", col = c("lightblue", "lightgreen", "lightcoral"))
+# Get the summary of the ANOVA (provides MS Between, MS Within, and F value)
+summary(anova_model)
+
+cat("Q.6.3. Mean Squared Between (MS Between) = 15.83")
+cat("Q.6.4. Mean Squared Between (Ms Within) = 0.69")
+cat("Q.6.5. F-Value = 22.95")
+
+
+# Q.6.6. Interpretation of the p-value
+p_value <- .000000568
+
+# Q.6.7. Conclusion based on the p-value
+cat("Reject Ho: The mean arsenic levels differ between states since the p-value < 0.005\n")
+  
+# Q.6.8. Post-hoc test (Tukey's HSD)
+tukey_test <- TukeyHSD(anova_model)
+print(tukey_test)
 ```
-Based on the Post-hoc test, we test the claim that these states have the same amount of arsenic. Based on the difference, we can conclude that they do not...
+
+## Conclusions
+Based on the Post-hoc test, we test the claim that these states have the same amount of arsenic. Based on the difference, we can conclude that they do not... Therefore we reject the Null. 
                           diff 
 California-Arkansas -0.7666667 
 Texas-Arkansas       1.4916667  
 Texas-California     2.2583333  
 
 # Question 7
+
+## Q.7.1
+- Null Hypothesis (Ho): The median femur loads are the same across the different car categories (small car, medium car, large car).
+- Alternatice Hypothesis (Ha): The median femur loads differ across at least one car category.
+
+
+
 ```{r, out.width="60%"}
+
+# Load necessary libraries
+library(ggplot2)
+
+# Define the data
+smallcar <- c(548,782,1188,707,324,320,634,501,274,437)
+mcar <- c(194,280,1076,411,617,133,719,656,874,445)
+largecar <- c(215,937,953,1636,937,472,882,562,656,433)
+
+# Combine the data into a single dataframe
+car_data <- data.frame(
+  load = c(smallcar, mcar, largecar),
+  car_type = factor(rep(c("Small Car", "Medium Car", "Large Car"), each = 10))
+)
+
+## Q.7.2 Descriptive statistics plot: Boxplot
+ggplot(car_data, aes(x = car_type, y = load)) +
+  geom_boxplot(fill = c("lightblue", "lightgreen", "lightcoral")) +
+  theme_minimal() +
+  labs(title = "Load on Left Femur of Crash Test Dummies by Car Type", 
+       x = "Car Type", 
+       y = "Load (lb)")
+
+## Q.7.3 Perform Kruskal-Wallis Test
+kruskal_test <- kruskal.test(load ~ car_type, data = car_data)
+print(kruskal_test)
+
+## Q.7.4 Interpretation of results
+if(kruskal_test$p.value < 0.05) {
+  cat("Reject the null hypothesis: There is a significant difference in medians between car types.\n")
+} else {
+  cat("Fail to reject the null hypothesis: There is no significant difference in medians between car types.\n")
+}
+
+## Q.7.5 Discuss safety
+if(median(largecar) < median(smallcar)) {
+  cat("Based on the medians, larger cars appear to exert less load on the femur, suggesting they might be safer.")
+} else {
+  cat("There is no evidence to suggest larger cars are safer based on this data.")
+}
+
+
 
 ```
 
