@@ -2,9 +2,9 @@ Sprint
 - Verify with Intan systems that their RHS system can do Bipolar and has 2nd channel of stimulation
 - Check with Myomatrix and see if it done Bipolar
 - Talk to Jonathon about AM Systems (4100 & 2200)
-- Get surgery stuff for tomorrow figured out (find the rat ID)
-- Look into that system and see if its essentially just a wrapped RHS system?
-- Watch some youtube videos on rat diaphragm anatomy
+- Check for info on their sdk/api (Ripple)
+- And also intan/openephys sdk/api 
+ 
 
 
 
