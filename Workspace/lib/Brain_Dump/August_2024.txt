@@ -1,9 +1,29 @@
-H-Reflex Conditioning Operant System Mapping Architecture
+Papers from Eric
+VNS-induced apnea: https://www.sciencedirect.com/science/article/pii/S1935861X21000401
+ 
+VNS:
+https://www.ahajournals.org/doi/full/10.1161/STROKEAHA.117.019202
+https://elifesciences.org/articles/32058
+https://www.nature.com/articles/s41467-019-13695-0
+https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00475-X/abstract
+https://www.sciencedirect.com/science/article/pii/S1935861X23018818
+ 
+Hreflex conditioning
+https://physoc.onlinelibrary.wiley.com/doi/full/10.1113/JP283875 
+https://physoc.onlinelibrary.wiley.com/doi/full/10.1113/JP278173
+https://www.frontiersin.org/journals/rehabilitation-sciences/articles/10.3389/fresc.2023.1198679/full
+ 
+HDEMG
+https://elifesciences.org/articles/88551
+https://pubmed.ncbi.nlm.nih.gov/35902304/
+https://elifesciences.org/reviewed-preprints/97085
 
-H-Reflex Conditioning Papers
-- https://physoc.onlinelibrary.wiley.com/doi/full/10.1113/JP283875 
-- https://physoc.onlinelibrary.wiley.com/doi/full/10.1113/JP278173
-- https://www.frontiersin.org/journals/rehabilitation-sciences/articles/10.3389/fresc.2023.1198679/full
+
+Journal Club
+- Week 1: 
+- Week 2: Enhancing plasticity in central networks improves motor and sensory recovery after nerve damage {https://www.nature.com/articles/s41467-019-13695-0}
+- Week 3: Operant conditioning of spinal reflexes: from basic science to clinical therapy {https://www.frontiersin.org/journals/integrative-neuroscience/articles/10.3389/fnint.2014.00025/full}
+
 
 Key Papers:
 STILL NEED TO FINISH READING
@@ -20,5 +40,9 @@ FINISHED READING
 - A limited range of vagus nerve stimulation intensities produce motor cortex reorganization when delivered during training: {https://www.sciencedirect.com/science/article/pii/S0166432820304046?ref=pdf_download&fr=RR-2&rr=8bb547432c71a915}
     - Behavioral Testing: *Nose Poke Experiment in Red Room*
 + Read the most recent papers and most cited papers on VNS by Dr. Kilgard and Dr. Hays +
+
+
+FROM MODELING TO --> MECHANISTIC STUDIES --> THERAPEUTIC APPLICATIONS
+
 
 

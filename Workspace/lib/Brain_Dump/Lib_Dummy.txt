@@ -1,25 +1,15 @@
-- Set up meeting with David Pruitt Next Monday
-    - Make slide deck of H-Reflex Conditioning Architecture
-    - Block diagrams
-    - SDK options with Software
-    - Transfer notes from tablet
-
 
 Sprint
-- Verify with Intan systems that their RHS system can do Bipolar and has 2nd channel of stimulation
-- Check with Myomatrix and see if it done Bipolar
+
+- Check with Myomatrix and see if it done Bipolar [It can do Bipolar]
+    - By switching out different headstages, data from the same 32 electrode channels on each Myomatrix array could be recorded either as 32 unipolar channels or as 16 bipolar channels, where each bipolar signal is computed by subtracting the signals from physically adjacent electrode contacts.
 - Talk to Jonathon about AM Systems (4100 & 2200)
-- Check for info on their sdk/api (Ripple)
-- And also intan/openephys sdk/api 
+- Make slide for Pre-clinical meeting and VNS meeting next week
 
-
-
- 
 
 
 
 In-Progress
-
 - Start interviewing CS Students
 - Prepare slides to present at Next Meeting 
 - H-Reflex Operant Conditioning Architecture
@@ -27,14 +17,6 @@ In-Progress
 - Eventually get trained on Surgery Stuff
 
 
-Week To do 
-- Figure out how to make EMG electrodes
-    - Electrode Configuration: {https://www.sciencedirect.com/science/article/pii/S0165027005001159}
-    - Length of wire from diaghram to headcap
-    - Figure out tunneling channel and Rat Anatomical Features
-- VNS and dEMG electrodes surgery and connection to Headcap
-    - Follow-up with Jonathon Riley (Start experimentation 2-3 weeks tentatively)
-    - Talk to Tanya about having her do the Surgeries
 
 
 
@@ -50,6 +32,7 @@ Backlog
 
 
 
+FROM MODELING TO --> MECHANISTIC STUDIES --> THERAPEUTIC APPLICATIONS
 
 
 
