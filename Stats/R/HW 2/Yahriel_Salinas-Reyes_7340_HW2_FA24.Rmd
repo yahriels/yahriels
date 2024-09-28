@@ -363,31 +363,115 @@ ggplot(car_data, aes(x = car_type, y = load)) +
 kruskal_test <- kruskal.test(load ~ car_type, data = car_data)
 print(kruskal_test)
 
+```
+
 ## Q.7.4 Interpretation of results
-if(kruskal_test$p.value < 0.05) {
-  cat("Reject the null hypothesis: There is a significant difference in medians between car types.\n")
-} else {
-  cat("Fail to reject the null hypothesis: There is no significant difference in medians between car types.\n")
-}
+Fail to reject the null hypothesis: There is no significant difference in medians between car types As to suggest that larger cars are safer in anyway. Therefore, the data does not suggest that the larger cars are safer. 
 
 ## Q.7.5 Discuss safety
-if(median(largecar) < median(smallcar)) {
-  cat("Based on the medians, larger cars appear to exert less load on the femur, suggesting they might be safer.")
-} else {
-  cat("There is no evidence to suggest larger cars are safer based on this data.")
-}
+Based on the medians, larger cars appear to exert a higher load, howevere, there is no evidence to suggest larger cars are safer based on this data. Such as to ask the question, how much of the the load is absorbed by the car before it reaches the passenger, or the type of collision that has occurred that are under investigation.
 
 
-
-```
 
 # Question 8
 ```{r, out.width="60%"}
+# Question #8: Sample Size Calculation for Calcium Intake Study
+
+# Q.8.1. Load the necessary library
+if(!require(pwr)) install.packages("pwr")
+library(pwr)
+
+# Q.8.2. Define Pilot Study Statistics for both groups
+# Below poverty level
+mean_below_poverty <- 6.56  # Mean calcium intake
+sd_below_poverty <- 0.64    # Standard deviation
+n_below_poverty <- 25       # Number of girls
+
+# Above poverty level
+mean_above_poverty <- 6.80  # Mean calcium intake
+sd_above_poverty <- 0.76    # Standard deviation
+n_above_poverty <- 40       # Number of girls
+
+# Q.8.3. Calculate the Pooled Standard Deviation (sp)
+# Formula: sp = sqrt(((n1 - 1)*sd1^2 + (n2 - 1)*sd2^2) / (n1 + n2 - 2))
+sp <- sqrt(((n_below_poverty - 1) * sd_below_poverty^2 + 
+            (n_above_poverty - 1) * sd_above_poverty^2) / 
+           (n_below_poverty + n_above_poverty - 2))
+
+# Q.8.4. Calculate the Effect Size (Cohen's d)
+# Formula: d = (mean1 - mean2) / sp
+effect_size <- abs(mean_below_poverty - mean_above_poverty) / sp
+
+# Q.8.5. Perform the Power Calculation using power.t.test
+# Arguments:
+#   power = 0.80 (80% chance of detecting a significant difference)
+#   delta = effect size (Cohen's d)
+#   sd = pooled standard deviation
+#   sig.level = 0.05 (alpha level for a two-sided test)
+#   type = "two.sample" (two independent groups)
+sample_size <- power.t.test(power = 0.80, 
+                            delta = effect_size, 
+                            sd = sp, 
+                            sig.level = 0.05, 
+                            type = "two.sample")
+
+# Q.8.6. Print the Sample Size per Group
+cat("Sample size required per group:", ceiling(sample_size$n), "\n")
+
 
 ```
 
 # Question 9
 ```{r, out.width="60%"}
+# Load necessary library
+library(pwr)
+
+# Q.9.1. Define parameters for the study
+# Sample sizes
+n1 <- 50  # girls above poverty level
+n2 <- 50  # girls below poverty level
+
+# Mean and standard deviation from the pilot study
+mean1 <- 6.80  # mean calcium intake above poverty level
+sd1 <- 0.76    # standard deviation above poverty level
+mean2 <- 6.56  # mean calcium intake below poverty level
+sd2 <- 0.64    # standard deviation below poverty level
+
+# Significance level (alpha)
+alpha <- 0.05
+
+# Q.9.2. Calculate the effect size (Cohen's d)
+# Pooled standard deviation
+pooled_sd <- sqrt(((n1 - 1) * sd1^2 + (n2 - 1) * sd2^2) / (n1 + n2 - 2))
+
+# Cohen's d effect size calculation
+effect_size <- (mean1 - mean2) / pooled_sd
+cat("Effect size (Cohen's d):", effect_size, "\n")
+
+# Q.9.3. Calculate the power of the study
+# Perform two-sample t-test power analysis using the calculated effect size
+power_result <- pwr.t.test(n = n1, 
+                           d = effect_size, 
+                           sig.level = alpha, 
+                           type = "two.sample", 
+                           alternative = "two.sided")
+
+cat("Power of the study with sample size n=50 per group:", power_result$power, "\n")
+
+# Q.9.4. Calculate the required sample size for 80% power
+# Set desired power level to 0.80
+desired_power <- 0.80
+
+# Perform sample size calculation for desired power level
+sample_size_result <- pwr.t.test(power = desired_power, 
+                                 d = effect_size, 
+                                 sig.level = alpha, 
+                                 type = "two.sample", 
+                                 alternative = "two.sided")
+
+cat("Required sample size per group for 80% power:", ceiling(sample_size_result$n), "\n")
+
+
 
 ```
 
