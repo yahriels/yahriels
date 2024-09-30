@@ -1,0 +1,2 @@
+Anaconda Prompt -->
+    pyside6-designer

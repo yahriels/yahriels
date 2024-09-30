@@ -1,8 +1,5 @@
 
 Sprint
-
-- Check with Myomatrix and see if it done Bipolar [It can do Bipolar]
-    - By switching out different headstages, data from the same 32 electrode channels on each Myomatrix array could be recorded either as 32 unipolar channels or as 16 bipolar channels, where each bipolar signal is computed by subtracting the signals from physically adjacent electrode contacts.
 - Talk to Jonathon about AM Systems (4100 & 2200)
 - Make slide for Pre-clinical meeting and VNS meeting next week
 

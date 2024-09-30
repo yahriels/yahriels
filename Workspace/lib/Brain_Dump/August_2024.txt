@@ -1,5 +1,18 @@
-Papers from Eric
+Key Papers:
 VNS-induced apnea: https://www.sciencedirect.com/science/article/pii/S1935861X21000401
+H-Reflex Conditioning Project: https://physoc.onlinelibrary.wiley.com/doi/full/10.1113/JP283875 
+dEMG electrodes: https://www.sciencedirect.com/science/article/pii/S0165027005001159
+
+
+Erica Dale and dEMG Support Team:
+https://neuroscience.ufl.edu/profile/dale-erica/
+https://www.sciencedirect.com/science/article/pii/S1569904823001702
+
+
+dEMG Biomarker Related Papers:
+https://www.nature.com/articles/s41593-024-01767-4 
+    - This one used heartrate as a VNS Biomarker
+
  
 VNS:
 https://www.ahajournals.org/doi/full/10.1161/STROKEAHA.117.019202
@@ -19,13 +32,14 @@ https://pubmed.ncbi.nlm.nih.gov/35902304/
 https://elifesciences.org/reviewed-preprints/97085
 
 
+
+
 Journal Club
 - Week 1: 
 - Week 2: Enhancing plasticity in central networks improves motor and sensory recovery after nerve damage {https://www.nature.com/articles/s41467-019-13695-0}
 - Week 3: Operant conditioning of spinal reflexes: from basic science to clinical therapy {https://www.frontiersin.org/journals/integrative-neuroscience/articles/10.3389/fnint.2014.00025/full}
 
 
-Key Papers:
 STILL NEED TO FINISH READING
 - Vagus nerve stimulation for stroke rehabilitation: Neural substrates, neuromodulatory effects and therapeutic implications: {https://physoc.onlinelibrary.wiley.com/doi/full/10.1113/JP285566}
     - VNS review - neural substrates
@@ -34,6 +48,7 @@ STILL NEED TO FINISH READING
 - Parametric characterization of the rat Hering-Breuer reflex evoked with implanted and non-invasive vagus nerve stimulation: {https://www.sciencedirect.com/science/article/pii/S0014488620300510}
     - VNS and Hering-Breuer Effect
 
+
 FINISHED READING
 - A new electrode configuration for recording electromyographic activity in behaving mice: {https://www.sciencedirect.com/science/article/pii/S0165027005001159}
     - For making EMG electrodes for dEMG
@@ -41,8 +56,6 @@ FINISHED READING
     - Behavioral Testing: *Nose Poke Experiment in Red Room*
 + Read the most recent papers and most cited papers on VNS by Dr. Kilgard and Dr. Hays +
 
-
-FROM MODELING TO --> MECHANISTIC STUDIES --> THERAPEUTIC APPLICATIONS
 
 
 
