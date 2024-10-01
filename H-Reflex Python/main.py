@@ -1,10 +1,19 @@
-from Pyside6.QtWidgets import QApplication, QWidget
-
 import sys
+from PySide6 import QtWidgets
+from hreflex_txbdc.view.main_window import MainWindow
 
-app = QApplication(sys.argv)
+if __name__ == "__main__":
+    #Create the QT application
+    app = QtWidgets.QApplication(sys.argv)
 
-window = QWidget()
-window.show()
+    #Instantiate the MainWindow object
+    window = MainWindow()
 
-app.exec()
+    #Display the main window
+    window.show()
+
+    #Turn control over to QT's main loop
+    sys.exit(app.exec())
+
+
+
