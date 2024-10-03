@@ -1,7 +1,10 @@
 
 Sprint
-- Talk to Jonathon about AM Systems (4100 & 2200)
-- Make slide for Pre-clinical meeting and VNS meeting next week
+- GUI Stuff
+- Read Neuroscience Stuff
+- Search For Needles 
+    - In the paper they use a 27 Gauge Needle 
+    - Andrew Butler uses a 21 Gauge Needle (or 23-25)
 
 
 
