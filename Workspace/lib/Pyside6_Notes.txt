@@ -10,5 +10,18 @@ https://www.youtube.com/watch?v=Z1N9JzNax2k
 Create Pyside6 App
 - Requires 2 scripts
 1. Mainwindow.py: to building the windows and including all the modules and functions within windows
-2. Main.pu: To import the window and call the application. This is the main executable of the GUI app.
+2. Main.py: To import the window and call the application. This is the main executable of the GUI app.
+
+QtWidgets: Can import some already loaded widgets into the window
+
+Signals & Slots & Events: 
+Many signals are initiated by user action, but this is not a rule.
+In addition to notifying about something happening, signals can also send data to provide additional context about what happened. You can also create your own too.
+- Slots: Slots is the name Qt uses for the receivers of signals. In Python, any function (or method) in your application can be used as a slot -- simply by connecting the signal to it. If the signal sends data, then the receiving function will receive that data too. Many Qt widgets also have their own built-in slots, meaning you can hook Qt widgets together directly.
+- Receiving Data: You can also create another slot (like a def ("","") function that can take in/receive an argument or data) and print it out
+- Storing Data: Often it is useful to store the current state of a widget in a Python variable. This allows you to work with the values like any other Python variable without accessing the original widget. You can either store these values as individual variables or use a dictionary if you prefer. If a widget does not provide a signal that sends the current state, you will need to retrieve the value from the widget directly in your handler
+- Changing the interface: You can use super() as the parent function and use "self" as the reference to the window itself.
+- Connecting Widgets Together Directly:  we've seen examples of connecting widget signals to Python methods. When a signal is fired from the widget, our Python method is called and receives the data from the signal. But you don't always need to use a Python function to handle signals -- you can also connect Qt widgets directly to one another. Like "QLineEdit" and "QLabel"
+- Events: Every interaction the user has with a Qt application is an event. These events are passed to specific event handlers on the widget where the interaction occurred. By defining custom, or extended event handlers, you can alter the way your widgets respond to these events. Event handlers are defined just like any other method, but the name is specific for the type of event they handle. One of the main events which widgets receive is the QMouseEvent. 
+- Python Inheritance Forwarding: If your object is inherited from a standard widget, it will likely have sensible behavior implemented by default. You can trigger this by calling up the parent's implementation using super().
 
