@@ -3,6 +3,9 @@ VNS-induced apnea: https://www.sciencedirect.com/science/article/pii/S1935861X21
 H-Reflex Conditioning Project: https://physoc.onlinelibrary.wiley.com/doi/full/10.1113/JP283875 
 dEMG electrodes: https://www.sciencedirect.com/science/article/pii/S0165027005001159
 
+
+
+
 Kaggle Trainings and Theory Stuff:
 https://ahleighton.github.io/OE-ephys-course/EEA/theoryday1.html#
 https://www.kaggle.com/code/dansbecker/your-first-machine-learning-model

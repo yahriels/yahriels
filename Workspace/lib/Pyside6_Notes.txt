@@ -1,0 +1,14 @@
+PySide6 GUI Building Resources:
+https://www.datagrads.com/building-your-first-desktop-application-using-pyside6/
+    - https://github.com/arunnthevapalan/valentines-day-desktop-gui-app/blob/main/valentines_app.py
+https://www.pythonguis.com/tutorials/pyside6-signals-slots-events/
+https://doc.qt.io/qtforpython-6/?ref=datagrads.com
+https://www.youtube.com/watch?v=Z1N9JzNax2k
+
+
+
+Create Pyside6 App
+- Requires 2 scripts
+1. Mainwindow.py: to building the windows and including all the modules and functions within windows
+2. Main.pu: To import the window and call the application. This is the main executable of the GUI app.
+
