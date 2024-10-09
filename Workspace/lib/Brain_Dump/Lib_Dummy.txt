@@ -3,10 +3,9 @@
 
 Sprint
 - GUI Stuff
-- Read Neuroscience Stuff
-- Search For Needles 
-    - In the paper they use a 27 Gauge Needle 
-    - Andrew Butler uses a 21 Gauge Needle (or 23-25)
+    - Build Requirements
+    - Map out interface, signals, and slots needed
+- Interview on Friday and Next Thursday
 
 
 Send out email for interviews. 
