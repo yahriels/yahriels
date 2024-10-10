@@ -78,41 +78,48 @@ legend("topright", legend = c("df1=5, df2=2", "df1=10, df2=5", "df1=30, df2=25")
 
 ## Research Question and Introduction:   
 Formulate a research question relevant to your field of study. Provide a brief introductory paragraph that includes the context of the case and the units of measurement used.  
+
 > Research Question: How does Vagus Nerve Stimulation (VNS) influence the diaphragmatic electromyographic (dEMG) activity related to the Hering-Breuer Reflex (HBR) in rats?
 
 > Introduction: Vagus Nerve Stimulation (VNS) has been shown to affect various physiological responses, including diaphragmatic activity and respiration rate. This study focuses on measuring diaphragm EMG (dEMG) in response to VNS, particularly the induction of the Hering-Breuer Reflex (HBR), which is known to inhibit respiration when activated by a certain amplitude of VNS. This study will investigate how VNS amplitudes affect dEMG, and determine the threshold amplitude at which the HBR is triggered in rats. The units of measurement are the VNS amplitude (in mA) and dEMG activity (in microvolts).
 
 ## Identify Variables:  
 Determine the independent variable (IV) and the dependent variable (DV) in your study.  
+
 > Independent Variable (IV): VNS amplitude [Units in mA]
 
 > Dependent Variable (DV): Diaphragmatic EMG (dEMG) activity [Units in microvolts]
 
 ## Data Levels:  
 Specify the levels of measurement for both the IV and DV. Since these experiments are In-Vivo we are doing continuous recordings, therefore both of our variable levels are continuous.   
+
 > IV: Continuous (interval level, measured in mA)
 
 > DV: Continuous (interval level, measured in microvolts)
 
 ## Outcome Measurement:  
 Based on your research question, clearly define the outcome you intend to measure.    
+
 > The outcome is the dEMG response, defined by the onset of the Hering-Breuer Reflex (HBR), characterized by a cessation or reduction in respiration due to increased VNS amplitude. The HBR is a physiological mechanism that prevents the lungs from over-inflating during breathing.
 
 # Statistical Analysis:   
 Select an appropriate statistical analysis method based on the outcome. Consider options such as a two-sample mean test (parametric or non-parametric), one-way ANOVA (parametric or non-parametric), or correlation (parametric or non-parametric).    
+
 > Test 1: A correlation analysis will be used to determine the relationship between VNS amplitude and dEMG activity.
 
 > Test 2: If the data do not follow a normal distribution, a Spearman's rank correlation (non-parametric) will be applied.
 
 ## Hypotheses Formulation:  
 Based on the chosen statistical method, formulate the null hypothesis (Ho) and the alternative hypothesis (Ha).    
+
 > Null Hypothesis (Ho): There is no significant correlation between VNS amplitude and dEMG activity in rats.
 
 > Alternative Hypothesis (Ha): There is a significant correlation between VNS amplitude and dEMG activity in rats.
 
 
 ## Data Generation:  
-Assuming your samples are drawn using simple random sampling (SRS), use R code to generate a simulated dataset with a sample size greater than 30.    
+Assuming your samples are drawn using simple random sampling (SRS), use R code to generate a simulated dataset with a sample size greater than 30.  
+
 > To simulate the data, we assume a simple random sampling approach. The code below generates a dataset for 40 rats with varying VNS amplitudes and corresponding dEMG activity: 
 
 ```{r, out.width="60%"}
@@ -136,6 +143,7 @@ head(data)
 
 ## Data Visualization:
 Employ appropriate descriptive statistical tools to visualize the data using histograms, scatterplots, or boxplots.  
+
 > A scatterplot can visualize the relationship between VNS amplitude and dEMG activity: 
 
 ```{r, out.width="60%"}
@@ -151,6 +159,7 @@ plot(data$VNS_amplitude, data$dEMG_activity,
 
 ## Hypothesis Testing:
 Use the relevant inferential statistical tool to test your hypotheses.    
+
 > To test our hypothesis, we need to perform a correlation test to determine the relationship between VNS amplitude and dEMG activity:
 
 ```{r, out.width="60%"}
@@ -166,6 +175,7 @@ cor.test(data$VNS_amplitude, data$dEMG_activity, method = "spearman")
 
 ## Assumptions Check:  
 List the assumptions related to your statistical method and verify that they are met. Here we check three assumptions
+
 > 1. Normality: Use the Shapiro test to check if the data is normally distributed
 
 ```{r, out.width="60%"}
@@ -186,16 +196,20 @@ Present the R output, including the test statistic, degrees of freedom (df), con
 correlation_test <- cor.test(data$VNS_amplitude, data$dEMG_activity, method = "pearson")
 print(correlation_test)
 ```
-> Test statistic (correlation coefficient): Measure of strength and direction of the relationship.
+## Test statistic (correlation coefficient): Measure of strength and direction of the relationship.
+
 > t = 3.8772
 
-> Degrees of freedom (df): Sample size minus 2.
+## Degrees of freedom (df): Sample size minus 2.
+
 > df = 28
 
-> Confidence Interval (CI): Range within which the true correlation lies.
+## Confidence Interval (CI): Range within which the true correlation lies.
+
 > CI = (0.2932053, 0.7843052)
 
-> p-value: Determines significance of the result.
+## p-value: Determines significance of the result.
+
 > p-value = 0.0005835
 
 ## Power Analysis: 
