@@ -5,20 +5,15 @@ Sprint
 - GUI Stuff
     - Build Requirements
     - Map out interface, signals, and slots needed
-- Interview on Friday and Next Thursday
-
-
-Send out email for interviews. 
+    - Work on H-Reflex GUI Building Code
 
 
 
 In-Progress
-- Start interviewing CS Students
-- Prepare slides to present at Next Meeting 
+- Waiting to hear back from manufacturer about suturing needles
+- Interview CS Students 
 - H-Reflex Operant Conditioning Architecture
 - Schematics of with Hardware and Instrumentation
-- Eventually get trained on Surgery Stuff
-
 
 
 
@@ -27,15 +22,10 @@ In-Progress
 
 Backlog
 - Read Dr. Meyers' Dissertations: {https://www.proquest.com/pqdtlocal1006281/docview/2087776469/E4E1D789F8AE458EPQ/1?accountid=7120&sourcetype=Dissertations%20&%20Theses}
-- Talk to Meyer's and 'David' about Software Development
-- Read Neuroscience Ch. 16-17
+- Read Neuroscience CH. 1-8, then Ch. 16-17
 - Read VNS Papers from Dr. Hays and Dr. Kilgard
 - Go through Python Stuff
 
-
-
-
-FROM MODELING TO --> MECHANISTIC STUDIES --> THERAPEUTIC APPLICATIONS
 
 
 

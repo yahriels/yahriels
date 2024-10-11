@@ -1,0 +1,103 @@
+
+
+                ~~{{R-CODE}}~~ 
+Think about the responses, then give me the complete and full solution with the source R code when necessary to the following question based on my project notes. Question :{# Design a study: 
+
+## Research Question and Introduction:   
+Formulate a research question relevant to your field of study. Provide a brief introductory paragraph that includes the context of the case and the units of measurement used.  
+
+## Identify Variables:  
+Determine the independent variable (IV) and the dependent variable (DV) in your study.  
+
+## Data Levels:  
+Specify the levels of measurement for both the IV and DV.  
+
+## Outcome Measurement:  
+Based on your research question, clearly define the outcome you intend to measure.    
+# Statistical Analysis:   
+Select an appropriate statistical analysis method based on the outcome. Consider options such as a two-sample mean test (parametric or non-parametric), one-way ANOVA (parametric or non-parametric), or correlation (parametric or non-parametric).    
+
+## Hypotheses Formulation:  
+Based on the chosen statistical method, formulate the null hypothesis (Ho) and the alternative hypothesis (Ha).    
+
+## Data Generation:  
+Assuming your samples are drawn using simple random sampling (SRS), use R code to generate a simulated dataset with a sample size greater than 30.    
+
+## Data Visualization:
+Employ appropriate descriptive statistical tools to visualize the data using histograms, scatterplots, or boxplots.  
+
+## Hypothesis Testing:
+Use the relevant inferential statistical tool to test your hypotheses.    
+
+## Assumptions Check:  
+List the assumptions related to your statistical method and verify that they are met.   
+
+## Report R Output:  
+Present the R output, including the test statistic, degrees of freedom (df), confidence interval (CI), and p-value, where applicable.  
+
+## Power Analysis: 
+Calculate the statistical power of your study.   
+
+## Conclusion:  
+Summarize the findings of your study, ensuring to include the content of your research and the units of measurement.  
+
+### To generage a normally distibuted random sample with sample size more than 30
+{r}
+
+# Set the sample size
+sample_size <- 30
+# Generate a normally distributed random sample
+random_sample <- rnorm(sample_size, mean = 20, sd = 2.5)
+# You can adjust the mean and sd parameters to fit your needs.
+
+
+### To generate pairs of 𝑥and𝑦for a correlation study 
+{r}
+# Set the sample size
+sample_size <- 30
+# Generate x values from a normal distribution
+set.seed(123)  # Set seed for reproducibility
+x <- rnorm(sample_size, mean = 5, sd = 2)
+# Generate y values with some noise
+y <- 1 + 2 * x + rnorm(sample_size, mean = 0, sd = 1)
+# Combine x and y into a data frame and give a name "data"
+data <- data.frame(x = x, y = y)
+# Display the first few rows of the data
+head(data)
+plot(x, y)
+
+
+### To generate a non-normally distributed random sample.
+{r}
+# Set the sample size
+sample_size <- 30 
+# Generate an exponentially distributed random sample
+set.seed(123)  # Set seed for reproducibility
+exp_sample <- rexp(sample_size, rate = 1)  # rate parameter
+# Display the first few values
+head(exp_sample)
+shapiro.test(exp_sample)
+
+ } Project Notes:{Here are the notes and goals of my project: Objectives and Goals of Experiments; VNS-induced apnea project  Goal: Develop system to monitor diaphragm respiration (dEMG) & deliver VNS (Vagus Nerve Stimulation)  simultaneously for continuous recordings.  
+
+General Idea: Record  diaphragm respiration while rats are awake to monitor identify which VNS amplitude causes the Hering Breuer Reflex (HBR) [30 Hz Freq.] (and to eventually perform with jaw experiments)
+--> Use threshold of HBR to set VNS amplitude based on their HBR threshold     My Project  overview called dEMG VNS Biomarker In-Vivo Validation uses *Respiration Response to create ---> Personalized parameter set for plasticity and recovery in patients* It Consists of 5 steps. Step 1: Acute Effects of VNS on Respiratory (Anesthetized) "LC (Locus coeruleus) System" (Animal) Step 2: Acute Effects of VNS on Respiratory (Awake) "LC System" (Animal) Step 3: Jaw VNS: Can respiration optimize VNS for plasticity? Plasticity Experiments (Animal) Step 4: Recovery Model: Can respiration optimize VNS for recovery after stroke? Recovery Experiments (Animal) Step 5: Patients "Personalized VNS" (Clinical)
+ My Project is heavily based in the application of this paper: Use of a physiological reflex to standardize vagal nerve stimulation intensity improves data reproducibility in a memory extinction assay (link: https://www.sciencedirect.com/science/article/pii/S1935861X21000401) with the following highlights and abstract Highlights 
+•
+We show that reliable assessment electrode viability for vagal nerve stimulation is essential for long-term experiments.
+•
+The vagal afferent Hering-Breuer reflex is a reliable means of confirming effective vagal nerve stimulation.
+•
+By contrast change in electrode resistance is a poor indicator of effective vagal nerve stimulation.
+•
+When referenced to Hering-Breuer reflex threshold, vagal nerve stimulation accelerated extinction of a contextual memory.
+Abstract
+Background
+Modulating brainstem activity, via electrical vagus nerve stimulation (VNS), influences cognitive functions, including memory. However, controlling for changes in stimulus efficacy during chronic studies, and response variability between subjects, is problematic.
+Objective/Hypothesis: We hypothesized that recruitment of an autonomic reflex, the Hering-Breuer reflex, would provide robust confirmation of VNS efficacy. We compared this to measurement of electrode resistance over time. We also examined whether VNS modulates contextual memory extinction.
+Methods
+Electrodes for VNS and diaphragm electromyography recording were implanted into anesthetized Sprague Dawley rats. When conscious, we measured the electrode resistance as well as the minimum VNS current required to evoke the Hering-Breuer reflex, before, and after, an inhibitory avoidance assay - a two chamber, dark/light model, where the dark compartment was paired with an aversive foot shock. The extinction of this contextual memory was assessed in sham and VNS treated rats, with VNS administered for 30 s at 1.5 times the Hering-Breuer reflex threshold during extinction memory formation.
+Results
+Assessment of VNS-evoked Hering-Breuer reflex successfully identified defective electrodes. VNS accelerated extinction memory and decreased multiple physiological metrics of fear expression. We observed an inverse relationship between memory extinction and respiratory rate during the behavioural assay. Additionally, no current - response relationship between VNS and extinction memory formation was established.
+Conclusion
+These data demonstrate that reliable, experimental VNS studies can be produced by verifying reflex initiation as a consequence of stimulation. Further, studies could be standardised by indexing stimulator efficacy to initiation of autonomic reflexes.   }

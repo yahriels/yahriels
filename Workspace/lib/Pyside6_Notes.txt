@@ -25,3 +25,14 @@ In addition to notifying about something happening, signals can also send data t
 - Events: Every interaction the user has with a Qt application is an event. These events are passed to specific event handlers on the widget where the interaction occurred. By defining custom, or extended event handlers, you can alter the way your widgets respond to these events. Event handlers are defined just like any other method, but the name is specific for the type of event they handle. One of the main events which widgets receive is the QMouseEvent. 
 - Python Inheritance Forwarding: If your object is inherited from a standard widget, it will likely have sensible behavior implemented by default. You can trigger this by calling up the parent's implementation using super().
 
+PySide6 Widgets
+- QLabel
+- QCheckBox
+- QComboBox
+- QListWidget
+- QLineEdit
+- QSpinBox and QDoubleSpinBox
+- QSlider
+- QDial
+
+PySide6 Layouts 
