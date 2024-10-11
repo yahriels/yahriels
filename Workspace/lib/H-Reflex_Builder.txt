@@ -19,6 +19,10 @@ The system shall have a free text enter slot to put in subject name
 The system shall have a free text enter slot to enter booth number (location)
 The system shall have a signal slot that receives, stores, and displays EMG Trial Data using matplotlib package in center of console
 The system shall have a signal slot that receives, stores, and displays raw EMG data as continuous data using matplotlib package in the bottom of the console
+
+
+The system shall have a static plot of "Trial EMG" that is populated with EMG data (100 ms long) after stimulation is performed in the middle of the console.
+The system shall have 
 }
 
 
