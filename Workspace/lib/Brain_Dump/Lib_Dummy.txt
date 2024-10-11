@@ -6,6 +6,7 @@ Sprint
     - Build Requirements
     - Map out interface, signals, and slots needed
     - Work on H-Reflex GUI Building Code
+- Build requirements reiterate 
 
 
 
@@ -14,7 +15,6 @@ In-Progress
 - Interview CS Students 
 - H-Reflex Operant Conditioning Architecture
 - Schematics of with Hardware and Instrumentation
-
 
 
 
