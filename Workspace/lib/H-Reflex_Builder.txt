@@ -3,9 +3,6 @@ Think about the responses, First Give Me All The System Requirements Including T
 Executive Task :{I Am designing and building a GUI in PySide6 and am in the stage of developing requirements including overall/general requirements and technical requirements for an H-Reflex App}
 
 Project Notes: {We are modeling a H-Reflex Conditioning Operant System Architecture to create a GUI app called H-Reflex App that is heavily modeled off of this paper: Motor learning changes the axon initial segment of the spinal motoneuron (Link: https://physoc.onlinelibrary.wiley.com/doi/full/10.1113/JP283875) and this specific section to perform simultaneous recording and stimulation of Vagus Nerve Stimulation Therapy with H-Reflex Conditioning: 
-H-reflex elicitation and operant conditioning
-record soleus EMG activity, a pair of fine-wire electrodes were inserted in the right soleus muscle. The Teflon-coated wires from the nerve cuff and muscle passed subcutaneously to a connector plug mounted on the skull.
-Data collection started at least 20 days after implantation. During data collection, each rat lived in a standard rat cage with a flexible cable attached to the head plug. The cable, which allowed the animal to move freely about the cage, carried the wires from the electrodes to a commutator above the cage that connected to an EMG amplifier (gain 1000, bandwidth 100–1000 Hz) and a nerve-cuff stimulation unit. The rat had free access to water and food, except that during H-reflex conditioning it received food mainly by performing the task described below. Animal well-being was carefully checked several times each day; body weight was measured weekly. Laboratory lighting was reduced from 21.00 to 06.00 h each day.
 Stimulus delivery and data collection were controlled by a computer that monitored soleus EMG activity (sampled at 5000 Hz) continuously for the entire period of data collection. The soleus H-reflex was elicited as follows. Whenever the absolute value (equivalent to the full-wave rectified value) of background (i.e. ongoing) EMG activity in the soleus muscle remained within a pre-defined range for a randomly varying 2.3–2.7 s period, the computer initiated a trial. The EMG range was based on the rat's typical soleus EMG level as it moved about the cage; it was typically 1–2% of the maximum possible EMG activity as assessed by the maximum M wave (i.e. the direct muscle response; Pierrot-Deseilligny & Burke, 2012). In each trial, the computer stored the most recent 50 ms of soleus EMG activity (i.e. the background EMG interval), delivered a monophasic stimulus pulse (typically 0.5 ms in duration) through the cuff on the posterior tibial nerve, and stored soleus EMG activity for the next 100 ms. Pulse amplitude was initially set just above M-wave threshold; it was subsequently automatically adjusted by the computer after each trial to maintain M-wave size unchanged throughout the entire period of data collection. Thus, the background EMG (reflecting soleus motoneuron tone at the time of H-reflex elicitation) and the M-wave (reflecting the effective strength of the nerve-cuff stimulus) remained stable throughout data collection.
 Under the control mode, the computer simply digitized and stored the absolute value of EMG activity from the soleus muscle for 100 ms following nerve stimulation. Under the soleus H-reflex conditioning mode, it gave a food-pellet reward 200 ms after stimulation if EMG amplitude in the H-reflex interval (typically 6–10 ms after stimulation) was above (H-reflex up-conditioning mode) or below (H-reflex down-conditioning mode) a criterion value. The criterion was set and adjusted daily as needed so that the rat received an adequate amount of food (∼1000 pellets/day for a 500 g rat). H-reflex size was calculated as average EMG amplitude in the H-reflex interval minus average background EMG amplitude and was expressed in units of average background EMG amplitude.
 Each rat was first exposed to the control mode for 20 days to determine the control H-reflex size, and then exposed to the up-conditioning (HRup rats) or down-conditioning (HRdown rats) mode for 50 days. The last 10 control-mode days and the last 10 up- or down-conditioning days (i.e. days 41–50 of conditioning) provided the data used to determine the impact of H-reflex conditioning on soleus H-reflex size. Average final (days 41–50) H-reflex size was calculated as a percentage of the control H-reflex size. Successful H-reflex conditioning was defined as a change of at least 20% in the correct direction (i.e. to ≥120% for HRup rats, to ≤80% for HRdown rats) (Wolpaw et al., 1993; Chen & Wolpaw, 1995). Thus, the rats fell into five groups: naive control (NC) rats; successful HRup (US) rats; failed HRup (UF) rats; successful HRdown (DS) rats; and failed HRdown rats (DF) rats. “
@@ -15,10 +12,45 @@ PySide6 Resources: https://www.pythonguis.com/pyside6-tutorial/
 
 
 Example Requirements:{
-The system shall have a free text enter slot to put in subject name
-The system shall have a free text enter slot to enter booth number (location)
-The system shall have a signal slot that receives, stores, and displays EMG Trial Data using matplotlib package in center of console
-The system shall have a signal slot that receives, stores, and displays raw EMG data as continuous data using matplotlib package in the bottom of the console
+
+General GUI Interface Reqiurements:
+The UI shall have 3 sections using the vertical alignment configuration consisting of a top section, middle section, and bottom section.
+
+The top section (top third) of GUI Console:
+{
+The system shall have a free input text slot labelled "Subject".
+The system shall have a drop down slot labelled "Stage".
+The sysem shall have a drop down slot labelled "Booth #".
+The system shall have free text slot labelled "VNS".
+The system shall have a free text slot labelled "H-Amp".
+The system shall have a free text slot labelled "%" for percentile.
+
+However, instead of having these as free entry and input slots, I want these slots to pull information only from an excel CSV file instead of free-text entry or input. In order to do this, I need a separate excel CSV file. Please see the Skeleton CSV File Structure below.
+
+Skeleton CSV File Structure:
+{
+Subject | Stage | Booth # | VNS | H-Amp (mV) | Percentile (%) | Mode              | Reward Given (Yes/No) |
+--------|-------|---------|-----|------------|----------------|-------------------|-----------------------|
+001     | 1     | 2       | 0   | 10         | 50             | Control           | No                    |
+002     | 2     | 3       | 1   | 30         | 10             | Up-conditioning   | Yes                   |
+003     | 3     | 1       | 1   | 25         | 15             | Down-conditioning | Yes                   |
+004     | 1     | 4       | 0   | 20         | 80             | Control           | No                    |
+005     | 2     | 2       | 1   | 35         | 70             | Up-conditioning   | Yes                   |
+}
+
+}
+
+The middle section (middle third) of GUI Console:
+{
+The system shall have a signal slot called "Trial EMG" on the left half of the console that receives, stores, and displays EMG Trial Data using matplotlib package with horizontal axis called "Time" and vertical axis called "EMG (mV)"; this plot has a time window of 150 ms that starts at -50 ms and shows a stimulation signal at the start of the trial at 0 ms, followed by an m-wave and h-wave where the peaks are labelled with a point corresponding to the peak of the m-wave and h-wave.
+The system shall have a signal slot called "Last 50 Trials" on the right hald of the console that receives, stores, and displays compiled EMG Trial Data as a scatter plot on a horizontal axis called "Trial #" and vertical axis called "EMG (mV)" using matplotlib package; this scatter plot will plot the recorded m-wave and h-wave recorded for each individual trials (labelled) and arrows for when "VNS" stimulation is administered, as well as a "Success threshold" that is represented by a fitted line for when there is successful VNS stimulations for each trial.
+}
+
+The bottom section (bottom third) of GUI Console:
+{
+The system shall have a signal slot called "Filtered Live EMG" that receives, stores, and displays raw EMG data as continuous data using matplotlib package in the bottom of the console with the horizontal axis called "Time (last 5s)" and vertical axis called "EMG %"; this plot displayed Raw EMG data with an Initiation Threshold represented as two horizontal lines called "Initiation Threshold" and only initiates a trial that feed and initialize into the two plots called "Trial EMG" and "Last 50 Trials" IF AND ONLY IF the Raw EMG data range falls within the criterion values of the "Initiation Window" within a 2.5-2.7s window. 
+}
+
 }
 
 
@@ -104,3 +136,5 @@ class MainWindow (QMainWindow):
         self.text_label.setText(str(self._count))
 
     #endregion}
+
+

@@ -36,3 +36,23 @@ PySide6 Widgets
 - QDial
 
 PySide6 Layouts 
+- QHBoxLayout	Linear horizontal layout
+- QVBoxLayout	Linear vertical layout
+- QGridLayout	In indexable grid XxY
+- QStackedLayout	Stacked (z) in front of one another
+There are many configurations to arrange and make color maps and grids
+
+
+PySide6 Toolbars & Menus — QAction
+You can create a custom tool bar or menu in 
+- Add Toolbar with: QToolBar
+- You can add more interactive functions with QAction
+    - QAction is a class that provides a way to describe abstract user interfaces.
+- Add Status bar with: QStatusBar
+
+PySide6 Dialogs and Alerts
+Dialogs are useful GUI components that allow you to communicate with the user (hence the name dialog). They are commonly used for file Open/Save, settings, preferences, or for functions that do not fit into the main UI of the application
+- QDialog creates an entirely new event loop with a new window that will pop up''
+    - These block the execution of the rest of the app
+    
+Multi-window PySide6
