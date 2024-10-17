@@ -1,5 +1,10 @@
 7340QUIZROOM
 
+A	B	C	D	E	F	G	H	I	J	K	L	M	N	O	P	Q	R
+Student name	What is your unbiased research question of interest?	What is your BIASED research question of interest?	Is your study an observational study?	Is your study an experimental study?	Name the primary independent variable	What is your primary X's data type?	Name the other x variables in your study design.	What is the main outcome variable?	What is the outcome variable's data type?	What is your negative controls?	Do you have any randomization planned in your design?	What is the anticipated power of your study?	What is the minimum effect size (include unit)?	How many replicate, or what is the sample size n?	Name your study design: pre-post test, solomen design, dismantling design, two group analysis, three group analysis, association study, indepenence study, prediciton study, survival study…..	What is the planned statistical method?	What are the assumptions need to be checked?
+Austin Bollinger	When a muscle activation occurs through electrical stimulas a response occurs and can be recorded using EMG electrodes. During this activation we can record motor units. Do motor units respond in different phases of the activation? 	Motor units response during stimulation or muscle activation occur at different phases of EMG. 	No	Yes	Motor Units that respond in M wave phase, Motor Units that respond in H-reflux phase, motor units that respond in both phases	Categorical	Electircal Stimulation Trials(constant stimulation, ramped stimulation, evoked max muscle contraction)	Categories of muscle motor units	Numerical 	Control Trials of constant stimulation, what changed in the ramped stimulation trials	Trial order was randimized 			8 human subjects		ANOVA	
+Yahriel Salinas-Reyes
+
 
 Sprint
 - GUI Stuff
