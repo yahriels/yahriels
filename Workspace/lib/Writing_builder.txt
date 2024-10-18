@@ -1,9 +1,84 @@
-I am writing a "Seminar Summary" for a Seminar given by: {}
+I am writing a "Seminar Summary" for a Seminar given by: {Dr. Swathi Balaji, Department of Pediatric Surgery, Baylor College of Medicine & Texas Children's Hospital . Title of Seminar: Engineering Novel Roles for Lymphocytes in Achieving Regenerative Wound}
 
 Help me write a response to the following prompts: "Experimental Design:" "Key Findings, Conclusions, Future Directions:" based on the information and my seminar notes given below.
 
 Relevant Paper: {}
 seminar notes: {
+
+Title: Engineering Novel Roles for Lymphocytes in Achieving Regenerative Wound Abstract Summary: Repair Dermal injury triggers inflammatory and fibrogenic reactions, involving mechanotransduction, immune cell responses, and fibroblast regulation of extracellular matrix (ECM) remodeling, that results in scar formation. Scarring remains a complex and poorly understood health concern, despite its pervasiveness and significant functional and psychosocial morbidity. Scarring outcomes are highly variable, resulting in a phenotypic spectrum that ranges from minimal (low-scarer) to excessive (high-scarer) scar formation in different people to similar injuries. Understanding, the factors that influence scarring phenotypes can lead to the discovery of new anti-fibrotic therapies. Our lab has shown that variations in fibroblast metabolism, mechanical signaling, and function of regulatory T lymphocytes may contribute to these differences. We recently reported that Tr1, a subtype of regulatory T cells, promote regenerative wound repair. In addition, we recently leamed that injured tissues retain cytokines like IL-2 bound to heparan sulfate (HS), a component of the ECM which may serve as a cytokine repository in wounds, or "cytokine memory" to regulate T cell functions. This talk will explore the novel roles of lymphocytes in the regulation of fibroblast functions and wound healing, and how engineering Tr1 cells to use the enzyme heparanase (HPSE) to access tissue HS-bound IL-2 and regulate fibroblast-mediated scarring phenotypes can be utilized to achieve regenerative healing.
+
+
+Her motivation is centered around translation medicine with preclinical models of regenerative tissue repair such as biomaterials with a focus on regenerative wound healing and fibrosis.
+
+More tension strongly leads to more scarring and fibrosis
+
+Next, they asked what is the effect of mechanical tension on the phenotype of fibrosis and scarring of the fibroblasts
+
+They found that tension does have a cell phenotypical effect on fibroblasts. 
+
+They came with the hypothesis that because in large wounds, there is more tension, perhaps more tension leads to more scarring and fibrosis. 
+And it's been proven many times over in research now in multiple different model systems that it is indeed true tension directly contributes to scarring. 
+
+Key concepts, scarring: 
+Inherently, we all scar differently to similar injuries. 
+But within each one of us, our own scarring is very much regulated by the mechanical forces, the oxidative stress, other comorbid conditions like diabetes, hypertension, history of smoking and alcohol consumption. 
+These are all the factors that we try to systematically investigate in our research. 
+
+
+
+T Cells have a role in skin wound healing. Paper: Mechanical force prolongs acute inflammation via T-cel-dependent pathways during scar formation
+It's interesting, I wanted to put this here because this was one of our more recent papers, but it's the highest cited paper, which shows that there is a lot of groups studying il ten in the context of regeneration and wound healing. 
+And one of the papers that followed up was how is il ten inducing regenerative wound healing? 
+How do we connect all of these mechanisms? In this paper, we showed that this Il ten binds to receptors on fibroblasts and initiate a signaling cascade of Jak stat pathway, ultimately regulating hyaluronic production. 
+And if you remember, hyaluron is a unique coat around the fetal fibroblasts that makes it more regenerative. 
+We showed il ten induces high molecular weight hyaluronic production by fibroblasts. 
+That was the way it facilitated or promoted regenerative wound healing
+
+
+
+They performed a test with SCID Mice (Lack T and B Lymphocytes) to demonstrate dysfunctional healing. They showed that a certain group of rats which had a deficit T and B lymphocytes were shown to heal faster than the SHAM or Wild type rats and didn’t scar as much, with the caveat that have more inflammatory cells
+Loading is adding more tension. This group has shown that when you put more tension on a mouse wound, it has more scar, but when you don't have t cells in that mouse, it doesn't have the same scarring response. 
+This told us something about the role of t cells in responding to the tension in the skin and regulating the overall fibrosis and scarring phenotype. 
+Naturally, the first question we asked was, where are these T cells? 
+At what time frame are they coming into the wound? 
+This is what we found. T cells are there right from the get go, but they peak at day seven and they stay until day 14. 
+This is usually the time when a lot of remodeling of the collagen and scar formation is happening. 
+This was one of our first papers we put out there role of t cells in normal wound healing. 
+
+
+What they learned about Tr1 Regulation of Hyaluronan
+
+Outline: 
+1.	Mechanical tension and scarring
+Large wounds with more tension lead to increased scarring and fibrosis
+2.	Fetal fibroblast unique phenotype
+Role of high molecular weight hyaluron in faster migration and regenerative wound healing
+3.	Histology in skin repair
+Comparison of unwounded skin, normal scar, and treated scar with overexpression of IL-10 and hyaluronan
+4.	Regenerative wound healing
+IL-10 drives wound regeneration; suppressing IL-10 in fibroblasts hinders regeneration phenotype
+5.	Cell response to tension
+Tension induces phenotypic changes in fibroblasts, affecting cytoskeletal structure and signaling pathways
+6.	Cellular differences in scarring
+Fetal fibroblasts show potential to mimic adult phenotype under tension for scarring research
+7.	Scarring research insights
+Exploration of scar scoring system, RNA sequencing analysis, and role of lymphocytes in wound healing
+8.	T cell dynamics in wound healing
+Investigation on timing and influence on remodeling and scar formation in mice wounds
+9.	Wound healing in t cell studies
+Skid mice without T cells heal faster but scar more, IL-10 production regulates scarring
+10.	Regenerative potential of TR ones
+TR ones enhance wound healing by increasing vessel formation and regulating fibroblast phenotype
+11.	Tenexvisium technology
+Spatial identification of cell interactions in histology tissues using barcoding and sequencing
+12.	Analysis of wound gene subsets
+Different treatments yield varied subsets like granulation tissue, epithelium, and smooth muscle
+13.	Wound healing analysis
+Different fibroblast subsets enriched in untreated vs treated wounds, impacting gene expression
+14.	T Cell Research Insights
+Differential impact of IL-2 on TR cells in regulating fibroblast milieu
+15.	Interconnection of T cells with ECM
+Il two activation and heparinase activity in T cell function regulating scars
 
 
 }
