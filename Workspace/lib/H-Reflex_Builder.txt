@@ -5,52 +5,56 @@ Executive Task :{I Am designing and building a GUI in PySide6 and am in the stag
 Example Requirements:{
 
 General GUI Interface Requirements:
-Layout Structure:
+The H-Reflex App graphical user interface (GUI) shall consist of three vertically aligned sections: the top, middle, and bottom sections.
 
-The GUI shall be divided into three distinct sections aligned vertically: a top section, a middle section, and a bottom section.
-Top Section (Top Third of the GUI Console):{
-The system shall include a free input text slot labeled "Subject".
-The system shall include a dropdown selection slot labeled "Stage".
-The system shall include a dropdown selection slot labeled "Booth #".
-The system shall include a free input text slot labeled "VNS".
-The system shall include a free input text slot labeled "H-Amp".
-The system shall include a free input text slot labeled "%" to represent a percentile value.
-Data Integration Requirement:
+The Top Section (Top One-Third) of the GUI Console:
+{
+The system shall have a text input field labeled "Subject" that retrieves its value from an external CSV file.
+The system shall have a dropdown labeled "Stage" populated with metadata from an external CSV file.
+The system shall have a dropdown labeled "Booth #" populated with metadata from an external CSV file.
+The system shall have a text input field labeled "VNS", which shall automatically pull its value from the CSV file.
+The system shall have a text input field labeled "H-Amp", which shall pull its value from the CSV file.
+The system shall have a text input field labeled "%", representing a percentile, with its value pulled from the external CSV file.
+The external metadata source shall be an Excel CSV file named "H-Reflex_Metadata.csv", located in the app’s working directory. The structure of this CSV file is outlined below:
 
-All fields (Subject, Stage, Booth #, VNS, H-Amp, %) shall automatically pull data from a pre-existing CSV file named "H-Reflex_Metadata.csv" located in the working directory.
-Manual text entry shall be disabled for these fields, relying solely on the metadata provided in the CSV file.
-CSV File Structure:
-
-The system shall use a structured file named "H-Reflex_Metadata.csv" with the following columns:
-mathematica
-Copy code
-Subject | Stage | Booth # | VNS | H-Amp (mV) | Percentile (%) | Mode              | Reward Given (Yes/No)
---------|-------|---------|-----|------------|----------------|-------------------|-----------------------
-001     | 1     | 2       | 0   | 10         | 50             | Control           | No
-002     | 2     | 3       | 1   | 30         | 10             | Up-conditioning   | Yes
-003     | 3     | 1       | 1   | 25         | 15             | Down-conditioning | Yes
-004     | 1     | 4       | 0   | 20         | 80             | Control           | No
-005     | 2     | 2       | 1   | 35         | 70             | Up-conditioning   | Yes
+Skeleton Structure of "H-Reflex_Metadata.csv": {
+Subject	Stage	Booth #	VNS	H-Amp (mV)	Percentile (%)	Mode	Reward Given (Yes/No)
+001	1	2	0	10	50	Control	No
+002	2	3	1	30	10	Up-conditioning	Yes
+003	3	1	1	25	15	Down-conditioning	Yes
+004	1	4	0	20	80	Control	No
+005	2	2	1	35	70	Up-conditioning	Yes
 }
-
-Middle Section (Middle Third of the GUI Console):{ 
-Trial EMG Plot (Left Half of Console):{
-
-The system shall include a plot labeled "Trial EMG" on the left-hand side.
-The plot shall receive, store, and display EMG trial data using the matplotlib library.
-The horizontal axis shall be labeled "Time (ms)", and the vertical axis labeled "EMG (mV)".
-The time window of this plot shall span 150 ms, showcasing the stimulation action potential at the start of the trial.
-The system shall use the emgdecomp Python library to identify spike times and individual motor unit firings (M-wave and H-wave) in each trial.
-The peaks of the M-wave and H-wave shall be automatically labeled on the plot.
 }
+The Middle Section (Middle One-Third) of the GUI Console:{
+The system shall have a signal plot labeled "Trial EMG" located on the left side of the middle section.
 
-Last 50 Trials Plot (Right Half of Console):{
-The system shall include a scatter plot labeled "Last 50 Trials" on the right-hand side. 
-The plot shall store and display EMG data for the last 50 trials using the matplotlib library.
-The horizontal axis shall be labeled "Trial #", and the vertical axis labeled "EMG (mV)".
-The emgdecomp library shall be used to identify and plot spike times for the M-wave and H-wave of each trial.
-The plot shall also indicate VNS stimulation points and display a success threshold line indicating successful VNS stimulation for each trial.
-}
+The Trial EMG plot shall display stimulation signal data using matplotlib, with the x-axis labeled "Time (ms)" and the y-axis labeled "EMG (mV)".
+The plot shall cover a 150 ms window, and it shall display the initiation of stimulation with corresponding EMG signals, showing peaks for both the M-Wave and H-Wave.
+The M-Wave shall be identified as the first spike in the motor unit response, and the H-Wave shall be the second spike.
+The system shall have a signal plot labeled "Last 50 Trials" located on the right side of the middle section.
+
+The Last 50 Trials plot shall show a scatter plot with the x-axis labeled "Trial #" and the y-axis labeled "EMG (mV)".
+Each trial in the scatter plot shall display data points for identified M-Wave and H-Wave peaks for each trial.
+The system shall display a fitted line representing the threshold for successful VNS administration and plot VNS data points.
+The Bottom Section (Bottom One-Third) of the GUI Console:
+The system shall have a Start/Stop Recording button that, when activated, initiates the recording of EMG data.
+
+The system shall have a signal plot labeled "Filtered Live EMG".
+
+This plot shall continuously display raw EMG data with the x-axis labeled "Time (last 5s)" and the y-axis labeled "EMG (%)".
+The Filtered Live EMG plot shall identify the peaks for M-Wave and H-Wave from continuous data in real-time.
+The system shall include horizontal lines representing the Initiation Threshold to identify when a trial begins.
+The system shall initiate a trial in the Trial EMG and Last 50 Trials plots only if the continuous EMG data falls within the Initiation Window for 2.5-2.7 seconds.
+Additional Technical Requirements:
+Data Sampling and Storage:
+The system shall continuously sample EMG activity at 5000 Hz during data collection.
+All data (EMG, M-Wave, H-Wave, and VNS status) shall be stored in a local data file, and the system must maintain data accuracy in the range of 0.5–0.8 milliseconds for motor unit firing identification.
+Signal Processing and Trial Logic:
+The system shall compute the H-Reflex size as the difference between the EMG amplitude during the H-reflex interval (6–10 ms) and the background EMG amplitude.
+Each trial shall include the last 50 ms of background EMG, the stimulation pulse, and the subsequent 100 ms of EMG data for analysis.
+Trials shall be triggered based on a random, varying 2.5–2.7 second interval during which the EMG stays within a predefined threshold range for trial initiation.
+A successful VNS stimulation trial shall be recorded if the amplitude meets the preset Success Threshold.
 }
 
 Bottom Section (Bottom Third of the GUI Console):{
@@ -58,6 +62,7 @@ Bottom Section (Bottom Third of the GUI Console):{
 Start/Stop Recording Button:
 The system shall include a button labeled "Start/Stop Recording" that initiates the live recording process.
 
+}
 Filtered Live EMG Plot:{
 The system shall include a plot labeled "Filtered Live EMG" that continuously receives, stores, and displays raw EMG data.
 The horizontal axis of the plot shall be labeled "Time (last 5s)", and the vertical axis shall be labeled "EMG (%)".
@@ -65,7 +70,7 @@ The system shall use the emgdecomp library to identify motor unit firings and la
 The plot shall include two horizontal lines representing the Initiation Threshold.
 A trial shall only be initiated and fed into the Trial EMG and Last 50 Trials plots if the raw EMG data falls within the Initiation Window (2.5-2.7s).
 }
-}
+
 
 Performance and Technical Requirements:{
 Real-Time Data Handling:
@@ -117,64 +122,126 @@ if __name__ == "__main__":
 
 main_window.py:
 {
-from PySide6.QtWidgets import QMainWindow, QPushButton, QLabel, QVBoxLayout, QWidget
-from PySide6 import QtCore
-from dataclasses import dataclass, field
+from PySide6.QtWidgets import QMainWindow, QLabel, QVBoxLayout, QWidget, QLineEdit, QComboBox, QHBoxLayout
+from matplotlib.backends.backend_qt5agg import FigureCanvasQTAgg as FigureCanvas
+from matplotlib.figure import Figure
+import numpy as np
+import pandas as pd
 
-@dataclass
-class MainWindow (QMainWindow):
-
-    #region Private data members
-
-    _count: int = 0
-
-    #endregion
-
-    #region Constructor
-
-    def __init__ (self):
+class MainWindow(QMainWindow):
+    def __init__(self):
         super().__init__()
 
-        #Create an example button
-        self.button = QPushButton("Click me!")
-        # Create Signal Slot which accepts the clicked signal from the QPushButton object
-        self.button.clicked.connect(self.handle_button_clicked)
+        self.setWindowTitle("H-Reflex Conditioning")
+        self.resize(800, 600)
 
-        #Create an example label
-        self.text_label = QLabel(str(self._count), alignment=QtCore.Qt.AlignCenter)
+        # Main layout
+        self.layout = QVBoxLayout()
 
-        #Add the button and the label to a vertical box layout
-        self.layout = QVBoxLayout(self)
-        self.layout.addWidget(self.button)
-        self.layout.addWidget(self.text_label)
+        # Create sections
+        self._create_top_section()
+        self._create_middle_section()
+        self._create_bottom_section()
 
-        #Set the central widget of the window
-        self.central_widget = QWidget()
-        self.central_widget.setLayout(self.layout)
-        self.setCentralWidget(self.central_widget)
+        # Set the central widget
+        central_widget = QWidget()
+        central_widget.setLayout(self.layout)
+        self.setCentralWidget(central_widget)
 
-        #Set the window title
-        self.setWindowTitle("TxBDC H-Reflex Conditioning")
-        self.resize(500, 300)
-        
+    def _create_top_section(self):
+        top_layout = QHBoxLayout()
 
-    #endregion
+        # Input Fields for Subject, Stage, Booth, VNS, H-Amp, %
+        self.subject_input = QLineEdit()
+        self.subject_input.setPlaceholderText("Subject")
 
-    #region Methods
+        self.stage_input = QComboBox()
+        self.stage_input.addItems(["Control", "Up-conditioning", "Down-conditioning"])
 
-    @QtCore.Slot()
-    def handle_button_clicked(self) -> None:
-        '''
-        This method increments the count and then displays the new count.
-        '''
+        self.booth_input = QComboBox()
+        self.booth_input.addItems(["Booth 1", "Booth 2", "Booth 3"])
 
-        #Increment the count
-        self._count = self._count + 1
+        self.vns_input = QLineEdit()
+        self.vns_input.setPlaceholderText("VNS")
 
-        #Set the text of the label
-        self.text_label.setText(str(self._count))
+        self.h_amp_input = QLineEdit()
+        self.h_amp_input.setPlaceholderText("H-Amp")
 
-    #endregion
+        self.percent_input = QLineEdit()
+        self.percent_input.setPlaceholderText("%")
+
+        # Add to layout
+        top_layout.addWidget(QLabel("Subject:"))
+        top_layout.addWidget(self.subject_input)
+        top_layout.addWidget(QLabel("Stage:"))
+        top_layout.addWidget(self.stage_input)
+        top_layout.addWidget(QLabel("Booth #:"))
+        top_layout.addWidget(self.booth_input)
+        top_layout.addWidget(QLabel("VNS:"))
+        top_layout.addWidget(self.vns_input)
+        top_layout.addWidget(QLabel("H-Amp:"))
+        top_layout.addWidget(self.h_amp_input)
+        top_layout.addWidget(QLabel("%:"))
+        top_layout.addWidget(self.percent_input)
+
+        self.layout.addLayout(top_layout)
+
+    def _create_middle_section(self):
+        middle_layout = QHBoxLayout()
+
+        # Trial EMG plot
+        self.trial_emg_plot = FigureCanvas(Figure(figsize=(5, 3)))
+        self._plot_trial_emg(self.trial_emg_plot.figure)
+
+        # Last 50 Trials plot
+        self.last_50_trials_plot = FigureCanvas(Figure(figsize=(5, 3)))
+        self._plot_last_50_trials(self.last_50_trials_plot.figure)
+
+        middle_layout.addWidget(self.trial_emg_plot)
+        middle_layout.addWidget(self.last_50_trials_plot)
+
+        self.layout.addLayout(middle_layout)
+
+    def _create_bottom_section(self):
+        # Live EMG plot
+        self.live_emg_plot = FigureCanvas(Figure(figsize=(10, 3)))
+        self._plot_live_emg(self.live_emg_plot.figure)
+
+        self.layout.addWidget(self.live_emg_plot)
+
+    def _plot_trial_emg(self, figure):
+        ax = figure.add_subplot(111)
+        time = np.linspace(-50, 100, 150)
+        emg_signal = np.sin(time / 10)
+        ax.plot(time, emg_signal)
+        ax.set_title("Trial EMG")
+        ax.set_xlabel("Time (ms)")
+        ax.set_ylabel("EMG (mV)")
+        ax.axvline(x=0, color='r', linestyle='--')
+
+    def _plot_last_50_trials(self, figure):
+        ax = figure.add_subplot(111)
+        trials = np.arange(1, 51)
+        emg_values = np.random.rand(50) * 0.5 + 1
+        ax.scatter(trials, emg_values, label="H-Wave")
+        ax.set_title("Last 50 Trials")
+        ax.set_xlabel("Trial #")
+        ax.set_ylabel("EMG (mV)")
+        ax.axhline(y=1.2, color='g', linestyle='--', label="Success Threshold")
+        ax.legend()
+
+    def _plot_live_emg(self, figure):
+        ax = figure.add_subplot(111)
+        time = np.linspace(-5, 0, 500)
+        emg_signal = np.random.rand(500) * 0.1 + 1
+        ax.plot(time, emg_signal)
+        ax.set_title("Filtered Live EMG")
+        ax.set_xlabel("Time (last 5s)")
+        ax.set_ylabel("EMG (%)")
+        ax.axhline(y=1.05, color='r', linestyle='--', label="Initiation Threshold")
+        ax.axhline(y=0.95, color='r', linestyle='--')
+        ax.legend()
+
 }
 
 
