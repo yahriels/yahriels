@@ -72,7 +72,7 @@ Outcomes of EMG Biomarker
     - Delta F: Recruitment-derecruitment interval of motor unit firing rates
 
 Outcomes of Additional Physiological Measurements (dEMG to Monitor Respiration)
-    - Respiration: could show a decrease in peak amplitude when paired with VNS, due to the recruitment of the Hering-Beruer (HB) Effect.
+    - RespirACtion: could show a decrease in peak amplitude when paired with VNS, due to the recruitment of the Hering-Beruer (HB) Effect.
 
 Main Takeaways:
     - We know VNS + Rehabilitation works in multiple neurological deficit individuals
