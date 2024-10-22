@@ -3,7 +3,9 @@ VNS-induced apnea: https://www.sciencedirect.com/science/article/pii/S1935861X21
 H-Reflex Conditioning Project: https://physoc.onlinelibrary.wiley.com/doi/full/10.1113/JP283875 
 dEMG electrodes: https://www.sciencedirect.com/science/article/pii/S0165027005001159
 
-
+dEMG and Fear Extinction:
+https://pmc.ncbi.nlm.nih.gov/articles/PMC5670354/ (Diaphragm operant condition)
+https://www.sciencedirect.com/science/article/pii/S1935861X18303152 (Fear extinction paired with VNS)
 
 
 Kaggle Trainings and Theory Stuff:

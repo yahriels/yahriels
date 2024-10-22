@@ -9,12 +9,15 @@ Excel Sheet:
 A	B	C	D	E	F	G	H	I	J	K	L	M	N	O	P	Q	R
 Student name	What is your unbiased research question of interest?	What is your BIASED research question of interest?	Is your study an observational study?	Is your study an experimental study?	Name the primary independent variable	What is your primary X's data type?	Name the other x variables in your study design.	What is the main outcome variable?	What is the outcome variable's data type?	What is your negative controls?	Do you have any randomization planned in your design?	What is the anticipated power of your study?	What is the minimum effect size (include unit)?	How many replicate, or what is the sample size n?	Name your study design: pre-post test, solomen design, dismantling design, two group analysis, three group analysis, association study, indepenence study, prediciton study, survival study…..	What is the planned statistical method?	What are the assumptions need to be checked?
 Austin Bollinger	When a muscle activation occurs through electrical stimulas a response occurs and can be recorded using EMG electrodes. During this activation we can record motor units. Do motor units respond in different phases of the activation? 	Motor units response during stimulation or muscle activation occur at different phases of EMG.? (To study the response of EMG to muscle activation?) (non-based)  (IV: muscle activation, DV: EMG measures	No	Yes	Motor Units that respond in M wave phase, Motor Units that respond in H-reflux phase, motor units that respond in both phases (movementss) 	Categorical (small, big, three levels) 	Electircal Stimulation Trials(constant stimulation, ramped stimulation, evoked max muscle contraction) (sponta muscle movment ) 	Categories of muscle motor units	Numerical 	Control Trials of constant stimulation, what changed in the ramped stimulation trials	Trial order was randimized 	80%		8 human subjects		ANOVA (one way), (two way anova) 	
-Yahriel Salinas-Reyes
+Yahriel Salinas-Reyes	What diaphragm electromyographic (dEMG) biomarker can be identified as a physiological indicator of vagus nerve stimulation (VNS) efficacy in rats?	How does vagus nerve stimulation (VNS) alter diaphragm electromyographic (dEMG) activity to recruit the Hering-Breuer reflex (HBR) and identify a reliable biomarker for VNS intensity?	No	Yes	Vagus nerve stimulation (VNS) intensity	Continuous	Animal awake state, breathing exercises, electrode placement, trial number, respiration frequency, HBR reflex occurrence	Diaphragm EMG activity and HBR threshold	Numerical	Trials without VNS or VNS at sub-threshold intensity	Yes, randomized trial order for VNS amplitude	80%	Minimum effect size: 10% reduction in respiration amplitude (µV)	15 rats	Pre-post test design with acute and chronic exposure phases	One-way ANOVA, regression analysis (for biomarker prediction)	Normal distribution of dEMG responses, consistency of VNS application
 }
 
-                ~~{{R-CODE}}~~ 
-Think about the responses, then give me the complete and full solution based on my project notes. 
-Question :{# Design a study: 
+Question :{
+The main question is if VNS paired with breathing exercises to operantly condition slow breathing to Reduce Sensitivity to Experimental Stressors {https://pmc.ncbi.nlm.nih.gov/articles/PMC5670354/} and fear memory exctinction {https://www.sciencedirect.com/science/article/pii/S1935861X18303152}. 
+
+
+
+# Design a study: 
 
 ## Research Question and Introduction:   
 Formulate a research question relevant to your field of study. Provide a brief introductory paragraph that includes the context of the case and the units of measurement used.  
@@ -39,22 +42,53 @@ Use the relevant inferential statistical tool to test your hypotheses.
 ## Assumptions Check:  
 List the assumptions related to your statistical method and verify that they are met.   
 
+A	B	C	D	E	F	G	H	I	J	K	L	M	N	O	P	Q	R
+Student name	What is your unbiased research question of interest?	What is your BIASED research question of interest?	Is your study an observational study?	Is your study an experimental study?	Name the primary independent variable	What is your primary X's data type?	Name the other x variables in your study design.	What is the main outcome variable?	What is the outcome variable's data type?	What is your negative controls?	Do you have any randomization planned in your design?	What is the anticipated power of your study?	What is the minimum effect size (include unit)?	How many replicate, or what is the sample size n?	Name your study design: pre-post test, solomen design, dismantling design, two group analysis, three group analysis, association study, indepenence study, prediciton study, survival study…..	What is the planned statistical method?	What are the assumptions need to be checked?
 
 
- } Project Notes:{Here are the notes and goals of my project: Objectives and Goals of Experiments; VNS-induced apnea project  Goal: Develop system to monitor diaphragm respiration (dEMG) & deliver VNS (Vagus Nerve Stimulation)  simultaneously for continuous recordings.  
+ } 
+
+dEMG Biomarker (Diaphragmatic EMG) to Observe Respiration Project Notes :{
+Here are the notes and goals of my project: Objectives and Goals of Experiments; VNS-induced apnea project  Goal: Develop system to monitor diaphragm respiration (dEMG) & deliver VNS (Vagus Nerve Stimulation)  simultaneously for continuous recordings.  
+
+The main question is if VNS paired with breathing exercises to operantly condition slow breathing to Reduce Sensitivity to Experimental Stressors {https://pmc.ncbi.nlm.nih.gov/articles/PMC5670354/} and fear memory exctinction {https://www.sciencedirect.com/science/article/pii/S1935861X18303152}. 
+
+
+
+Outcomes of EMG Biomarker
+    - Vagus Nerve Stimulation (VNS) increases cortical motor coherence
+    - Delta F: Recruitment-derecruitment interval of motor unit firing rates
+
+Outcomes of Additional Physiological Measurements (dEMG to Monitor Respiration)
+    - Respiration: could show a decrease in peak amplitude when paired with VNS, due to the recruitment of the Hering-Beruer (HB) Effect.
+
+Main Takeaways:
+    - We know VNS + Rehabilitation works in multiple neurological deficit individuals
+        - Causes increase in synaptic reorganization and recruitment of neurons for specific tasks
+        - No biomarker to identify physiological changes to VNS in Humans, only recovery metrics
+    - Physiological monitoring during VNS may show effects on EEG, EMG respiration, ECG, etc.
+        - EEG: Evoked potentials and change in specific frequency bands
+        - EMG: Increase in delta F and cortical muscular coherence 
+        - Respiration: Reduction in amplitude during VNS (Hering-Breuer reflex)
+        - ECG: Heart rate drop and reduction of arrythmias
+        - Identify acute and long-term changes due to different VNS parameters
+    - Use acute changes to predict long-term changes to identify specific VNS parameters per personal
+        - Retroactively confirm participant's best parameter 
+        - Future clinical trial to confirm predictions of parameters
+    - The merit of monitoring respiration is to check that VNS is working correctly and effectively or is present in other therapies used here in the lab and to develop personalized parameter sets for each patient.
+
+
+
 
 General Idea: Record  diaphragm respiration while rats are awake to monitor identify which VNS amplitude causes the Hering Breuer Reflex (HBR) [30 Hz Freq.] (and to eventually perform with jaw experiments)
 --> Use threshold of HBR to set VNS amplitude based on their HBR threshold     My Project  overview called dEMG VNS Biomarker In-Vivo Validation uses *Respiration Response to create ---> Personalized parameter set for plasticity and recovery in patients* It Consists of 5 steps. Step 1: Acute Effects of VNS on Respiratory (Anesthetized) "LC (Locus coeruleus) System" (Animal) Step 2: Acute Effects of VNS on Respiratory (Awake) "LC System" (Animal) Step 3: Jaw VNS: Can respiration optimize VNS for plasticity? Plasticity Experiments (Animal) Step 4: Recovery Model: Can respiration optimize VNS for recovery after stroke? Recovery Experiments (Animal) Step 5: Patients "Personalized VNS" (Clinical)
  My Project is heavily based in the application of this paper: Use of a physiological reflex to standardize vagal nerve stimulation intensity improves data reproducibility in a memory extinction assay (link: https://www.sciencedirect.com/science/article/pii/S1935861X21000401) with the following highlights and abstract Highlights 
-•
-We show that reliable assessment electrode viability for vagal nerve stimulation is essential for long-term experiments.
-•
-The vagal afferent Hering-Breuer reflex is a reliable means of confirming effective vagal nerve stimulation.
-•
-By contrast change in electrode resistance is a poor indicator of effective vagal nerve stimulation.
-•
-When referenced to Hering-Breuer reflex threshold, vagal nerve stimulation accelerated extinction of a contextual memory.
+
 Abstract
+We show that reliable assessment electrode viability for vagal nerve stimulation is essential for long-term experiments.
+The vagal afferent Hering-Breuer reflex is a reliable means of confirming effective vagal nerve stimulation.
+By contrast change in electrode resistance is a poor indicator of effective vagal nerve stimulation.
+When referenced to Hering-Breuer reflex threshold, vagal nerve stimulation accelerated extinction of a contextual memory.
 Background
 Modulating brainstem activity, via electrical vagus nerve stimulation (VNS), influences cognitive functions, including memory. However, controlling for changes in stimulus efficacy during chronic studies, and response variability between subjects, is problematic.
 Objective/Hypothesis: We hypothesized that recruitment of an autonomic reflex, the Hering-Breuer reflex, would provide robust confirmation of VNS efficacy. We compared this to measurement of electrode resistance over time. We also examined whether VNS modulates contextual memory extinction.
