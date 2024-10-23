@@ -1,16 +1,18 @@
 Swaminathan Gopalakrishnan
-NetId: sxg230058 
+NetId: sxg230058
 
 Rohan Thomas
 NetID: rxt200031
 
 
-Required Trainings: 
+Required Trainings:
 Animal handling- research activities
 Blood/bloodborne pathogen exposure
 Frequent work with toxic or hazardous substances (ethylene oxide)
 Hazardous waste operations
 Emergency response activities - hazardous materials
+
+Talk to guy about doing vivarium tour to get Vivarium Access
 
 
 Sprint
@@ -18,7 +20,7 @@ Sprint
     - Build Requirements
     - Map out interface, signals, and slots needed
     - Work on H-Reflex GUI Building Code
-- Build requirements reiterate 
+- Build requirements reiterate
 
 - Talk to Jonathon about needles and ordering the suture needles
 
@@ -26,7 +28,7 @@ Sprint
 
 In-Progress
 - Waiting to hear back from manufacturer about suturing needles
-- Interview CS Students 
+- Interview CS Students
 - H-Reflex Operant Conditioning Architecture
 - Schematics of with Hardware and Instrumentation
 
@@ -90,7 +92,7 @@ Quad shot  (Keep words to a minimum and use concept diagrams)
 1. Description:
 - Please describe the broad of your research (Your why and your area of research, what is the significance)
 2. Concept Diagram:
-- Draw a schematic concept diagram summarizing key features of your research 
+- Draw a schematic concept diagram summarizing key features of your research
 3. Objectives:
 - Initial understanding of the objectives of your research (What are objectives/aims of the research, personal contributions )
 4. Scope of Research:
@@ -103,4 +105,4 @@ What are faculty looking
 - What is the central DOGMA
 
 
-The PI has an opporunity to make a statement, what the strengths are, weaknesses, etc. 
+The PI has an opporunity to make a statement, what the strengths are, weaknesses, etc.
