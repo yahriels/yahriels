@@ -1,0 +1,341 @@
+---
+title: "Homework 4 Submission"
+author: "Yahriel Salinas-Reyes"
+date: "`r Sys.Date()`"
+output: word_document
+---
+
+```{r setup, include=FALSE}
+rm(list = ls(all=TRUE))
+graphics.off()
+shell("cls")
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+```{r, include=FALSE}
+library(readxl)
+library(here)
+library(epiR)
+library(MASS)
+library(nnet)
+library(car)
+library(PairedData)
+library(tidyverse)
+library(ggplot2)
+library(pwr)
+library(FSA)
+library(ggpubr)
+library(rstatix)
+library(datarium)
+library(emmeans)
+library(sjstats)
+library(lme4)
+library(lmerTest)
+library(MuMIn)
+library(forcats)
+
+library(readxl)  
+library(tidyverse)  
+library(dplyr)  
+library(ggplot2)  
+library(pwr)  
+library(ggpubr)  
+library(rstatix)  
+library(datarium)  
+library(emmeans)  
+library(sjstats)  
+library(lme4)  
+library(lmerTest)  
+library(MuMIn)  
+library(dplyr)  
+library(forcats)  
+```
+
+# Question 1
+a. Evaluate the null hypothesis that the population proportions of students who drove while drinking are the same in the two calendar years (2010 and 2014).
+
+> For this analysis, we can use the Chi-square test to compare the proportions of students who drove while drinking in both years.
+
+```{r, out.width="60%",}
+# Create the contingency table
+data1 <- matrix(c(1250, 991, 1387, 1666), nrow = 2, byrow = TRUE)
+colnames(data1) <- c("2010", "2014")
+rownames(data1) <- c("Yes", "No")
+data1 <- as.table(data1)
+
+# Perform the Chi-square test
+chi_square_test <- chisq.test(data1)
+
+# Print the result
+print(chi_square_test)
+
+```
+b. What do you conclude about the behavior of college students?
+
+> Since the p-value (1.241e-13) from the Chi-squared rest is less than the significance level, we reject the null hypothesis, indicating that there is a significant difference in the proportions of students who drove while drinking between the two years.
+
+# Question 2
+a. Do these data support the null hypothesis that there is no association between the time of screening and diagnosis?
+
+> Here, we can also use the Chi-square test to assess the association between the first and second screenings.
+
+```{r, out.width="60%",}
+# Create the contingency table
+data2 <- matrix(c(1763, 489, 403, 670), nrow = 2, byrow = TRUE)
+colnames(data2) <- c("Present", "Absent")
+rownames(data2) <- c("Present", "Absent")
+data2 <- as.table(data2)
+
+# Perform the Chi-square test
+chi_square_test2 <- chisq.test(data2)
+
+# Print the result
+print(chi_square_test2)
+
+```
+
+> Since the p-value (< 2.2e-16) from the Chi-squared rest is less than the significance level, we reject the null hypothesis, indicating that there is a significant difference or association between the time of screening and diagnosis.
+
+b. The data could also be displayed in a different manner. Is there anything wrong with this presentation? Why?
+
+> The alternative presentation aggregates the results, which could obscure variability in the data. This format might hide differences in screening consistency between the two tests, making it challenging to assess intra-observer reliability accurately.
+
+# Question 3
+a. Test the null hypothesis that there is no association between drinking status on the two different types of questionnaires.
+
+> Since we want to compare two categorical variables (drinking status from two different questionnaires), a Chi-square test is appropriate.
+
+```{r, out.width="60%",}
+# Load the necessary library
+library(readxl)
+
+# Import the dataset
+alcohol_data <- read_excel("alcohol.xls")
+
+# Create a contingency table
+contingency_table <- table(alcohol_data$genques, alcohol_data$alcques)
+
+# Perform the Chi-square test
+chi_square_result <- chisq.test(contingency_table)
+
+# Display the result
+print(chi_square_result)
+
+```
+b. What do you conclude?
+
+> Based on the p-value from the Chi-square test result which is less than 0.05, we reject the null hypothesis and we can conclude there is a significant association between the two questionnaires.
+
+# Question 4
+a. Create a two-way scatter plot for these data.
+```{r, out.width="60%",}
+# Load the necessary library
+library(readxl)
+library(ggplot2)
+
+# Import the dataset
+ischemic_data <- read_excel("ischemic.xls")
+
+# Create a scatter plot
+ggplot(ischemic_data, aes(x = time, y = duration)) +
+  geom_point() +
+  labs(title = "Scatter Plot of Time to Angina vs Duration of Angina",
+       x = "Time to Angina (seconds)",
+       y = "Duration of Angina (seconds)")
+```
+b. In the population of patients with ischemic heart disease, does there appear to be any evidence of a linear relationship between time to angina and the duration of the attack?
+
+> We can inspect the scatter plot for a linear trend. Since the points suggest a linear relationship, we can proceed with correlation analysis.
+
+c. In calculating the correlation coefficient, which test will you use, Pearson or Spearman? Why?
+
+> Since both variables are continuous and likely normally distributed, use Pearson's correlation. If not normally distributed, use Spearman.
+
+d. Test the null hypothesis that the population correlation is equal to 0.
+
+```{r, out.width="60%",}
+# Perform hypothesis test for correlation
+cor_test_result <- cor.test(ischemic_data$time, ischemic_data$duration)
+
+# Print results
+cor_test_result
+```
+> Since the p-value here is greater than 0.05, then we fail to reject the null and conclude that there is no significant correlation, correlation = 0. 
+
+# Question 5
+
+> Use Spearman's rank correlation because the Apgar score is ordinal.
+
+```{r, out.width="60%",}
+# Import dataset
+lowbwt <- read_excel("lowbwt.xls")
+
+# View the dataset
+View(lowbwt)
+
+# Conduct Spearman correlation
+spearman_result <- cor.test(lowbwt$sbp, lowbwt$apgar5, method="spearman")
+
+# Print results
+spearman_result
+
+```
+b. Null hypothesis and conclusion?
+
+> We fail to reject the null hypothesis that there is no correlation between systolic blood pressure and Apgar score, since the p-value is greater than 0.05.
+
+# Question 6
+a. Construct a scatter plot for these data.
+b. Calculate correlation.
+c. Is this correlation significantly different from 0?
+```{r, out.width="60%",}
+# Import dataset
+water <- read_excel("water.xls")
+
+# View the dataset
+View(water)
+
+# Create scatter plot
+plot(water$fluoride, water$caries,
+     main="Scatter Plot of Fluoride vs Dental Caries",
+     xlab="Fluoride Content (ppm)",
+     ylab="Number of Caries per 100 Children",
+     pch=19, col='green')
+
+## B. 
+# Calculate correlation
+fluoride_caries_correlation <- cor(water$fluoride, water$caries)
+fluoride_caries_correlation
+
+## C. 
+# Conduct hypothesis test
+correlation_test <- cor.test(water$fluoride, water$caries)
+
+# Print results
+correlation_test
+
+```
+> Since the p-value is than 0.05, we conclude that the correlation is significantly different from 0.
+
+# Question 7
+a. Calculate correlations between ranks.
+b. Is each correlation significantly different from 0?
+
+```{r, out.width="60%",}
+# Import dataset
+actions <- read_excel("actions.xls")
+
+# View the dataset
+View(actions)
+
+# Calculate correlations
+correlation_1991_1992 <- cor(actions$rank91, actions$rank92)
+correlation_1991_1993 <- cor(actions$rank91, actions$rank93)
+correlation_1991_1994 <- cor(actions$rank91, actions$rank94)
+correlation_1991_1995 <- cor(actions$rank91, actions$rank95)
+
+# Print results
+correlation_1991_1992
+correlation_1991_1993
+correlation_1991_1994
+correlation_1991_1995
+## The Correlation decreases with the increasing year. 
+
+## B. 
+# Conduct hypothesis tests
+test_1991_1992 <- cor.test(actions$rank91, actions$rank92)
+test_1991_1993 <- cor.test(actions$rank91, actions$rank93)
+test_1991_1994 <- cor.test(actions$rank91, actions$rank94)
+test_1991_1995 <- cor.test(actions$rank91, actions$rank95)
+
+# Print results
+test_1991_1992
+test_1991_1993
+test_1991_1994
+test_1991_1995
+ 
+## Yes, they all are significanctly different from zero.
+```
+c. Are states equally strict?
+
+> Since the correlations are low as years increase, it may indicate inconsistency among states.
+
+```{r, out.width="60%",}
+
+```
+
+```{r, out.width="60%",}
+
+```
+
+```{r, out.width="60%",}
+
+```
+
+```{r, out.width="60%",}
+
+```
+
+```{r, out.width="60%",}
+
+```
+
+```{r, out.width="60%",}
+
+```
+
+```{r, out.width="60%",}
+
+```
+
+
+```{r, out.width="60%",}
+
+```
+
+```{r, out.width="60%",}
+
+```
+
+```{r, out.width="60%",}
+
+```
+
+```{r, out.width="60%",}
+
+```
+
+```{r, out.width="60%",}
+
+```
+
+```{r, out.width="60%",}
+
+```
+
+```{r, out.width="60%",}
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

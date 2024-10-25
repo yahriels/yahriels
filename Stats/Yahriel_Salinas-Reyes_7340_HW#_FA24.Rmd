@@ -21,25 +21,42 @@ TEST
 
 ```{r, include=FALSE}
 
-install.packages("datasets")
-install.packages("ggplot2")
-install.packages("MASS")
-install.packages("dplyr")
-
-```
-```{r, out.width="60%"}
-library(datasets) 
-library(ggplot2)
+library(readxl)
+library(here)
+library(epiR)
 library(MASS)
-library(dplyr)
+library(nnet)
+library(car)
+library(PairedData)
+library(tidyverse)
+library(ggplot2)
+library(pwr)
+library(FSA)
+library(ggpubr)
+library(rstatix)
+library(datarium)
+library(emmeans)
+library(sjstats)
+library(lme4)
+library(lmerTest)
+library(MuMIn)
+library(forcats)
 
-View(iris)
-mydata <- iris
-head(mydata)
-str(mydata)
-
-# histogram 
-hist(mydata$Sepal.Length)
+library(readxl)  
+library(tidyverse)  
+library(dplyr)  
+library(ggplot2)  
+library(pwr)  
+library(ggpubr)  
+library(rstatix)  
+library(datarium)  
+library(emmeans)  
+library(sjstats)  
+library(lme4)  
+library(lmerTest)  
+library(MuMIn)  
+library(dplyr)  
+library(forcats)  
 ```
 
 # sub-setting with "[]" and "=="

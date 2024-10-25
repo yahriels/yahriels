@@ -8,6 +8,18 @@ https://pmc.ncbi.nlm.nih.gov/articles/PMC5670354/ (Diaphragm operant condition)
 https://www.sciencedirect.com/science/article/pii/S1935861X18303152 (Fear extinction paired with VNS)
 
 
+Hreflex conditioning
+https://physoc.onlinelibrary.wiley.com/doi/full/10.1113/JP283875 
+https://physoc.onlinelibrary.wiley.com/doi/full/10.1113/JP278173
+https://www.frontiersin.org/journals/rehabilitation-sciences/articles/10.3389/fresc.2023.1198679/full
+ 
+
+
+
+dEMG Biomarker Related Papers:
+https://www.nature.com/articles/s41593-024-01767-4 
+    - This one used heartrate as a VNS Biomarker
+
 Kaggle Trainings and Theory Stuff:
 https://ahleighton.github.io/OE-ephys-course/EEA/theoryday1.html#
 https://www.kaggle.com/code/dansbecker/your-first-machine-learning-model
@@ -17,11 +29,6 @@ Erica Dale and dEMG Support Team:
 https://neuroscience.ufl.edu/profile/dale-erica/
 https://www.sciencedirect.com/science/article/pii/S1569904823001702
 
-
-dEMG Biomarker Related Papers:
-https://www.nature.com/articles/s41593-024-01767-4 
-    - This one used heartrate as a VNS Biomarker
-
  
 VNS:
 https://www.ahajournals.org/doi/full/10.1161/STROKEAHA.117.019202
@@ -30,11 +37,7 @@ https://www.nature.com/articles/s41467-019-13695-0
 https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(21)00475-X/abstract
 https://www.sciencedirect.com/science/article/pii/S1935861X23018818
  
-Hreflex conditioning
-https://physoc.onlinelibrary.wiley.com/doi/full/10.1113/JP283875 
-https://physoc.onlinelibrary.wiley.com/doi/full/10.1113/JP278173
-https://www.frontiersin.org/journals/rehabilitation-sciences/articles/10.3389/fresc.2023.1198679/full
- 
+
 HDEMG
 https://elifesciences.org/articles/88551
 https://pubmed.ncbi.nlm.nih.gov/35902304/

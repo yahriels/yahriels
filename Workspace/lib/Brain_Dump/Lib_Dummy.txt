@@ -1,19 +1,8 @@
-Swaminathan Gopalakrishnan
-NetId: sxg230058
-
-Rohan Thomas
-NetID: rxt200031
+- Ask Intan and OpenEphys people about compatibility of Python with API and GUI
+- Look at documentation for OpenEphys and Intan stuff to see if they can be operated similarly. 
 
 
-Required Trainings:
-Animal handling- research activities
-Blood/bloodborne pathogen exposure
-Frequent work with toxic or hazardous substances (ethylene oxide)
-Hazardous waste operations
-Emergency response activities - hazardous materials
-
-Talk to guy about doing vivarium tour to get Vivarium Access
-
+- Vivarium 
 
 Sprint
 - GUI Stuff

@@ -1,0 +1,255 @@
+
+Executive Task :{I Am designing and building a GUI in PySide6 and am in the stage of developing requirements including overall/general requirements and technical requirements for an H-Reflex App}
+
+
+Example Requirements:{
+
+General GUI Interface Requirements:
+The H-Reflex App graphical user interface (GUI) shall consist of three vertically aligned sections: the top, middle, and bottom sections.
+
+The Top Section (Top One-Third) of the GUI Console:
+{
+The system shall have field labeled "Subject" that retrieves its value from an external CSV file and is displayed.
+The system shall have a dropdown labeled "Stage" populated with metadata from an external CSV file and is displayed at the top of the console.
+The system shall have a dropdown labeled "Booth #" populated with metadata from an external CSV file and is displayed at the top of the console.
+The system shall have a field labeled "VNS", which shall automatically pull its value from the CSV file and is displayed at the top of the console.
+The system shall have a field labeled "H-Amp", which shall pull its value from the CSV file and is displayed at the top of the console.
+The system shall have a field labeled "%", representing a percentile, with its value pulled from the external CSV file and is displayed at the top of the console.
+The external metadata source shall be an Excel CSV file named "H-Reflex_Metadata.csv", located in the app’s working directory. The structure of this CSV file is outlined below:
+
+Skeleton Structure of "H-Reflex_Metadata.csv": {
+Subject	Stage	Booth #	VNS	H-Amp (mV)	Percentile (%)	Mode	Reward Given (Yes/No)
+001	1	2	0	10	50	Control	No
+002	2	3	1	30	10	Up-conditioning	Yes
+003	3	1	1	25	15	Down-conditioning	Yes
+004	1	4	0	20	80	Control	No
+005	2	2	1	35	70	Up-conditioning	Yes
+}
+}
+The Middle Section (Middle One-Third) of the GUI Console:{
+The system shall have a signal plot labeled "Trial EMG" located on the left side of the middle section.
+
+The Trial EMG plot shall display stimulation signal data using matplotlib, with the x-axis labeled "Time (ms)" and the y-axis labeled "EMG (mV)".
+The plot shall cover a 150 ms window, and it shall display the initiation of stimulation with corresponding EMG signals, showing peaks for both the M-Wave and H-Wave.
+The M-Wave shall be identified as the first spike in the motor unit response, and the H-Wave shall be the second spike.
+The system shall have a signal plot labeled "Last 50 Trials" located on the right side of the middle section.
+
+The Last 50 Trials plot shall show a scatter plot with the x-axis labeled "Trial #" and the y-axis labeled "EMG (mV)".
+Each trial in the scatter plot shall display data points for identified M-Wave and H-Wave peaks for each trial.
+The system shall display a fitted line representing the threshold for successful VNS administration and plot VNS data points.
+The Bottom Section (Bottom One-Third) of the GUI Console:
+The system shall have a Start/Stop Recording button that, when activated, initiates the recording of EMG data.
+
+The system shall have a signal plot labeled "Filtered Live EMG".
+
+This plot shall continuously display raw EMG data with the x-axis labeled "Time (last 5s)" and the y-axis labeled "EMG (%)".
+The Filtered Live EMG plot shall identify the peaks for M-Wave and H-Wave from continuous data in real-time.
+The system shall include horizontal lines representing the Initiation Threshold to identify when a trial begins.
+The system shall initiate a trial in the Trial EMG and Last 50 Trials plots only if the continuous EMG data falls within the Initiation Window for 2.5-2.7 seconds.
+Additional Technical Requirements:
+Data Sampling and Storage:
+The system shall continuously sample EMG activity at 5000 Hz during data collection.
+All data (EMG, M-Wave, H-Wave, and VNS status) shall be stored in a local data file, and the system must maintain data accuracy in the range of 0.5–0.8 milliseconds for motor unit firing identification.
+Signal Processing and Trial Logic:
+The system shall compute the H-Reflex size as the difference between the EMG amplitude during the H-reflex interval (6–10 ms) and the background EMG amplitude.
+Each trial shall include the last 50 ms of background EMG, the stimulation pulse, and the subsequent 100 ms of EMG data for analysis.
+Trials shall be triggered based on a random, varying 2.5–2.7 second interval during which the EMG stays within a predefined threshold range for trial initiation.
+A successful VNS stimulation trial shall be recorded if the amplitude meets the preset Success Threshold.
+}
+
+Bottom Section (Bottom Third of the GUI Console):{
+
+Start/Stop Recording Button:
+The system shall include a button labeled "Start/Stop Recording" that initiates the live recording process.
+
+}
+Filtered Live EMG Plot:{
+The system shall include a plot labeled "Filtered Live EMG" that continuously receives, stores, and displays raw EMG data.
+The horizontal axis of the plot shall be labeled "Time (last 5s)", and the vertical axis shall be labeled "EMG (%)".
+The system shall use the emgdecomp library to identify motor unit firings and label the M-wave and H-wave peaks within the data.
+The plot shall include two horizontal lines representing the Initiation Threshold.
+A trial shall only be initiated and fed into the Trial EMG and Last 50 Trials plots if the raw EMG data falls within the Initiation Window (2.5-2.7s).
+}
+
+
+Performance and Technical Requirements:{
+Real-Time Data Handling:
+The system shall sample and display real-time EMG activity at 3000 Hz.
+Latency:
+
+Data processing and visualization must occur in real-time to ensure low-latency interaction and feedback.
+Data Storage:
+
+The system shall save the EMG trial data for each session to a local file or database.
+Session Management:
+
+Users shall be able to save and load session data from within the GUI for later review and analysis.
+}
+}
+
+
+Project Notes: {We are modeling a H-Reflex Conditioning Operant System Architecture to create a GUI app called H-Reflex App that is heavily modeled off of this paper: Motor learning changes the axon initial segment of the spinal motoneuron (Link: https://physoc.onlinelibrary.wiley.com/doi/full/10.1113/JP283875) and this specific section to perform simultaneous recording and stimulation of Vagus Nerve Stimulation Therapy with H-Reflex Conditioning: 
+Stimulus delivery and data collection were controlled by a computer that monitored soleus EMG activity (sampled at 5000 Hz) continuously for the entire period of data collection. The soleus H-reflex was elicited as follows. Whenever the absolute value (equivalent to the full-wave rectified value) of background (i.e. ongoing) EMG activity in the soleus muscle remained within a pre-defined range for a randomly varying 2.3–2.7 s period, the computer initiated a trial. The EMG range was based on the rat's typical soleus EMG level as it moved about the cage; it was typically 1–2% of the maximum possible EMG activity as assessed by the maximum M wave (i.e. the direct muscle response; Pierrot-Deseilligny & Burke, 2012). In each trial, the computer stored the most recent 50 ms of soleus EMG activity (i.e. the background EMG interval), delivered a monophasic stimulus pulse (typically 0.5 ms in duration) through the cuff on the posterior tibial nerve, and stored soleus EMG activity for the next 100 ms. Pulse amplitude was initially set just above M-wave threshold; it was subsequently automatically adjusted by the computer after each trial to maintain M-wave size unchanged throughout the entire period of data collection. Thus, the background EMG (reflecting soleus motoneuron tone at the time of H-reflex elicitation) and the M-wave (reflecting the effective strength of the nerve-cuff stimulus) remained stable throughout data collection.
+Under the control mode, the computer simply digitized and stored the absolute value of EMG activity from the soleus muscle for 100 ms following nerve stimulation. Under the soleus H-reflex conditioning mode, it gave a food-pellet reward 200 ms after stimulation if EMG amplitude in the H-reflex interval (typically 6–10 ms after stimulation) was above (H-reflex up-conditioning mode) or below (H-reflex down-conditioning mode) a criterion value. The criterion was set and adjusted daily as needed so that the rat received an adequate amount of food (∼1000 pellets/day for a 500 g rat). H-reflex size was calculated as average EMG amplitude in the H-reflex interval minus average background EMG amplitude and was expressed in units of average background EMG amplitude.
+Each rat was first exposed to the control mode for 20 days to determine the control H-reflex size, and then exposed to the up-conditioning (HRup rats) or down-conditioning (HRdown rats) mode for 50 days. The last 10 control-mode days and the last 10 up- or down-conditioning days (i.e. days 41–50 of conditioning) provided the data used to determine the impact of H-reflex conditioning on soleus H-reflex size. Average final (days 41–50) H-reflex size was calculated as a percentage of the control H-reflex size. Successful H-reflex conditioning was defined as a change of at least 20% in the correct direction (i.e. to ≥120% for HRup rats, to ≤80% for HRdown rats) (Wolpaw et al., 1993; Chen & Wolpaw, 1995). Thus, the rats fell into five groups: naive control (NC) rats; successful HRup (US) rats; failed HRup (UF) rats; successful HRdown (DS) rats; and failed HRdown rats (DF) rats. “
+
+PySide6 Resources: https://www.pythonguis.com/pyside6-tutorial/
+} 
+
+
+Example Starter Codes
+main.py:{import sys
+from PySide6 import QtWidgets
+from hreflex_txbdc.view.main_window import MainWindow
+
+if __name__ == "__main__":
+    #Create the QT application
+    app = QtWidgets.QApplication(sys.argv)
+
+    #Instantiate the MainWindow object
+    window = MainWindow()
+
+    #Display the main window
+    window.show()
+
+    #Turn control over to QT's main loop
+    sys.exit(app.exec())
+
+
+
+}
+
+
+main_window.py:
+{
+from PySide6.QtWidgets import QMainWindow, QLabel, QVBoxLayout, QWidget, QLineEdit, QComboBox, QHBoxLayout
+from matplotlib.backends.backend_qt5agg import FigureCanvasQTAgg as FigureCanvas
+from matplotlib.figure import Figure
+import numpy as np
+import pandas as pd
+
+class MainWindow(QMainWindow):
+    def __init__(self):
+        super().__init__()
+
+        self.setWindowTitle("H-Reflex Conditioning")
+        self.resize(800, 600)
+
+        # Main layout
+        self.layout = QVBoxLayout()
+
+        # Create sections
+        self._create_top_section()
+        self._create_middle_section()
+        self._create_bottom_section()
+
+        # Set the central widget
+        central_widget = QWidget()
+        central_widget.setLayout(self.layout)
+        self.setCentralWidget(central_widget)
+
+    def _create_top_section(self):
+        top_layout = QHBoxLayout()
+
+        # Input Fields for Subject, Stage, Booth, VNS, H-Amp, %
+        self.subject_input = QLineEdit()
+        self.subject_input.setPlaceholderText("Subject")
+
+        self.stage_input = QComboBox()
+        self.stage_input.addItems(["Control", "Up-conditioning", "Down-conditioning"])
+
+        self.booth_input = QComboBox()
+        self.booth_input.addItems(["Booth 1", "Booth 2", "Booth 3"])
+
+        self.vns_input = QLineEdit()
+        self.vns_input.setPlaceholderText("VNS")
+
+        self.h_amp_input = QLineEdit()
+        self.h_amp_input.setPlaceholderText("H-Amp")
+
+        self.percent_input = QLineEdit()
+        self.percent_input.setPlaceholderText("%")
+
+        # Add to layout
+        top_layout.addWidget(QLabel("Subject:"))
+        top_layout.addWidget(self.subject_input)
+        top_layout.addWidget(QLabel("Stage:"))
+        top_layout.addWidget(self.stage_input)
+        top_layout.addWidget(QLabel("Booth #:"))
+        top_layout.addWidget(self.booth_input)
+        top_layout.addWidget(QLabel("VNS:"))
+        top_layout.addWidget(self.vns_input)
+        top_layout.addWidget(QLabel("H-Amp:"))
+        top_layout.addWidget(self.h_amp_input)
+        top_layout.addWidget(QLabel("%:"))
+        top_layout.addWidget(self.percent_input)
+
+        self.layout.addLayout(top_layout)
+
+    def _create_middle_section(self):
+        middle_layout = QHBoxLayout()
+
+        # Trial EMG plot
+        self.trial_emg_plot = FigureCanvas(Figure(figsize=(5, 3)))
+        self._plot_trial_emg(self.trial_emg_plot.figure)
+
+        # Last 50 Trials plot
+        self.last_50_trials_plot = FigureCanvas(Figure(figsize=(5, 3)))
+        self._plot_last_50_trials(self.last_50_trials_plot.figure)
+
+        middle_layout.addWidget(self.trial_emg_plot)
+        middle_layout.addWidget(self.last_50_trials_plot)
+
+        self.layout.addLayout(middle_layout)
+
+    def _create_bottom_section(self):
+        # Live EMG plot
+        self.live_emg_plot = FigureCanvas(Figure(figsize=(10, 3)))
+        self._plot_live_emg(self.live_emg_plot.figure)
+
+        self.layout.addWidget(self.live_emg_plot)
+
+    def _plot_trial_emg(self, figure):
+        ax = figure.add_subplot(111)
+        time = np.linspace(-50, 100, 150)
+        emg_signal = np.sin(time / 10)
+        ax.plot(time, emg_signal)
+        ax.set_title("Trial EMG")
+        ax.set_xlabel("Time (ms)")
+        ax.set_ylabel("EMG (mV)")
+        ax.axvline(x=0, color='r', linestyle='--')
+
+    def _plot_last_50_trials(self, figure):
+        ax = figure.add_subplot(111)
+        trials = np.arange(1, 51)
+        emg_values = np.random.rand(50) * 0.5 + 1
+        ax.scatter(trials, emg_values, label="H-Wave")
+        ax.set_title("Last 50 Trials")
+        ax.set_xlabel("Trial #")
+        ax.set_ylabel("EMG (mV)")
+        ax.axhline(y=1.2, color='g', linestyle='--', label="Success Threshold")
+        ax.legend()
+
+    def _plot_live_emg(self, figure):
+        ax = figure.add_subplot(111)
+        time = np.linspace(-5, 0, 500)
+        emg_signal = np.random.rand(500) * 0.1 + 1
+        ax.plot(time, emg_signal)
+        ax.set_title("Filtered Live EMG")
+        ax.set_xlabel("Time (last 5s)")
+        ax.set_ylabel("EMG (%)")
+        ax.axhline(y=1.05, color='r', linestyle='--', label="Initiation Threshold")
+        ax.axhline(y=0.95, color='r', linestyle='--')
+        ax.legend()
+
+}
+
+
+Python Code Formatting and Commenting Guidelines:
+{
+Please aggressively comment code. Each function should have a comment header using the Python triple-quote string comment-style. One exception to this is the __init__ function of each class doesn't really need a comment header. But all other functions should get a comment header unless there is a really good reason not to have one.
+ 
+I also really like to use code regions. You will notice that I have already defined some code regions in my main_window.py code file. If you're unfamiliar with code regions, I'm happy to give you a brief intro. I like to use seperate out the following into their own code regions: Private data members, public data members, properties, constructors, public methods, private methods, static methods, etc...
+ 
+Type hints: always use type hints. I am a big fan of statically typed languages, because variable types are a way of self-documenting code and making it clear what a variable is supposed to be. Unfortunately, Python is not a statically-typed language, but they have given us type hints. So always use them. If you don't know what type hints are, let me know, and I am happy to go over them with you.
+}
