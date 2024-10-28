@@ -10,25 +10,54 @@ Enhancing neurorehabilitation by targeting beneficial plasticity (Link: https://
 H-reflex conditioning during locomotion in people with spinal cord injury (Link: https://physoc.onlinelibrary.wiley.com/doi/full/10.1113/JP278173)
 Motor training induces experience-specific patterns of plasticity across motor cortex and spinal cord (Link: https://journals.physiology.org/doi/full/10.1152/japplphysiol.00515.2006?utm_source=TrendMD&utm_medium=cpc&utm_campaign=Journal_of_Applied_Physiology_TrendMD_0&)
 
+This project and Design of Experiments will include 4 groups which we will be testing.
+Group 1: H-Reflex conditioning (no pellet reward) (Sham)
+Group 2: H-Reflex conditioning (w/ pellet reward)
+Group 3: H-Reflex conditioning (w/ pellet reward)+ VNS Reward
+Group 4: H-Reflex conditioning (w/ VNS reward)
+
+Here are three experiments we are for sure going to run.
+Experiment 1: 
+Group 1: H-Reflex conditioning (no pellet reward) (Sham)
+Group 2: H-Reflex conditioning (w/ pellet reward)
+
+Question: Does the “clinically viable” h-reflex conditioning work? In the context of adapting the clinical motivation and models to a pre-clinical study and experimental paradigm.
+
+Hypothesis: 
+
+Experiment 2: 
+Group 1: H-Reflex conditioning (no pellet reward) (Sham)
+Group 2: H-Reflex conditioning (w/ pellet reward)
+Group 3: H-Reflex conditioning (w/ pellet reward)+ VNS Reward
+
+Question: Can VNS enhance HROC (H-Reflex Operant Conditioning)?
+
+Hypothesis: 
+
+Experiment 3: 
+Group 1: H-Reflex conditioning (no pellet reward) (Sham)
+Group 2: H-Reflex conditioning (w/ pellet reward) 
+Group 4: H-Reflex conditioning (w/ VNS reward)
+
+Question: Can VNS replace the pellet reward for HROC?
+
+Hypothesis: 
+
+Future experiments: 
+HROC in the forelimb
+HROC during behavior / movements instead of stationary
+Forelimb: during skilled reaching
+Hindlimb: during locomotion
+
+
 Excel Sheet: 
 {
 A	B	C	D	E	F	G	H	I	J	K	L	M	N	O	P	Q	R
 Project Name	What is your unbiased research question of interest?	What is your BIASED research question of interest?	Is your study an observational study?	Is your study an experimental study?	Name the primary independent variable	What is your primary X's data type?	Name the other x variables in your study design.	What is the main outcome variable?	What is the outcome variable's data type?	What is your negative controls?	Do you have any randomization planned in your design?	What is the anticipated power of your study?	What is the minimum effect size (include unit)?	How many replicate, or what is the sample size n?	Name your study design: pre-post test, solomen design, dismantling design, two group analysis, three group analysis, association study, indepenence study, prediciton study, survival study…..	What is the planned statistical method?	What are the assumptions need to be checked?
 dEMG Respiration Biomarker Project	What diaphragm electromyographic (dEMG) biomarker can be identified as a physiological indicator of vagus nerve stimulation (VNS) efficacy in rats?	How does vagus nerve stimulation (VNS) alter diaphragm electromyographic (dEMG) activity to recruit the Hering-Breuer reflex (HBR) and identify a reliable biomarker for VNS intensity?	No	Yes	Vagus nerve stimulation (VNS) intensity	Continuous	Animal awake state, electrode placement, respiration rate, HBR reflex occurrence, trial number	Diaphragm EMG activity and HBR reflex threshold	Numerical	Trials without VNS or VNS at sub-threshold intensity	Yes, randomized trial order for VNS intensity	80%	Minimum effect size: 10% reduction in respiration amplitude (µV)	15 rats	Pre-post test design with acute and chronic exposure phases	One-way ANOVA, regression analysis for biomarker prediction	Normal distribution of dEMG responses, consistent VNS application
-H-Reflex Operant Conditioning Project	What effect does operant conditioning of the soleus H-reflex using VNS and food-pellet rewards have on motor unit recruitment patterns in rats?	Does VNS-based operant conditioning of the soleus H-reflex in rats increase or decrease H-wave amplitude, indicating a modified peripheral motor response?	No	Yes	Vagus Nerve Stimulation (VNS)	Continuous	H-reflex conditioning mode, reward type (food/VNS), M-wave amplitude, EMG background level	H-wave amplitude	Continuous	Trials without VNS or using control mode	Yes	85%	Minimum effect size: 20% change in H-wave amplitude	20 rats	Pre-post test with control/experimental phases	Two-sample t-test, repeated measures ANOVA	Normal distribution of H-reflex responses, stable EMG baseline, consistent VNS application
+H-Reflex Operant Conditioning Project	What effect does VNS paired with operant conditioning of the soleus H-reflex using rewarding system have on motor unit recruitment patterns in rats?	Does VNS-based operant conditioning of the soleus H-reflex in rats significantly alter the H-wave amplitude, indicating a modified peripheral motor response?	No	Yes	Vagus Nerve Stimulation (VNS) intensity (Current Amplitude in [mA])	Continuous	H-reflex conditioning mode, reward type (food/VNS), M-wave amplitude, EMG background level (baseline)	H-wave amplitude, expressed as percentage of background EMG activity (EMG in [mV])	Continuous	Trials without VNS or using control mode	Yes, randomized trial order for VNS intensity	85%	Minimum effect size: 20% change in H-wave amplitude	10-15 rats	Pre-post test design with control/experimental phases	Two-sample t-test, repeated measures ANOVA	Normal distribution of H-reflex responses, stable EMG baseline, consistent VNS application // Normality, Independence, Homogeneity of Variance
 
 
-Additional Study Design Notes
-Research Context:
-The primary goal of this study is to investigate if operant conditioning of the soleus H-reflex in rats, reinforced with Vagus Nerve Stimulation (VNS) as a reward, can be used to modify motor unit recruitment patterns. This study seeks to examine whether changes in H-wave amplitude, representing the H-reflex, serve as an indicator of peripheral motor response to conditioning stimuli, potentially leading to applications in neurorehabilitation. The study is motivated by translational applications as described in foundational research on motor learning and reflex plasticity.
-
-Hypotheses Formulation:
-Null Hypothesis (H₀): VNS-based operant conditioning has no effect on the amplitude of the H-reflex (no significant increase/decrease).
-Alternative Hypothesis (Hₐ): VNS-based operant conditioning causes a significant increase (up-conditioning) or decrease (down-conditioning) in the H-reflex amplitude.
-Assumptions and Checks:
-The soleus EMG activity remains consistent within trials, with M-wave amplitude unchanged by external factors.
-Background EMG level stability and absence of confounding noise or signal artifacts in the recording system.
-Normal distribution of reflex amplitude data, allowing for parametric testing when appropriate.
 
 }
 
@@ -66,6 +95,22 @@ A	B	C	D	E	F	G	H	I	J	K	L	M	N	O	P	Q	R
 Student name	What is your unbiased research question of interest?	What is your BIASED research question of interest?	Is your study an observational study?	Is your study an experimental study?	Name the primary independent variable	What is your primary X's data type?	Name the other x variables in your study design.	What is the main outcome variable?	What is the outcome variable's data type?	What is your negative controls?	Do you have any randomization planned in your design?	What is the anticipated power of your study?	What is the minimum effect size (include unit)?	How many replicate, or what is the sample size n?	Name your study design: pre-post test, solomen design, dismantling design, two group analysis, three group analysis, association study, indepenence study, prediciton study, survival study…..	What is the planned statistical method?	What are the assumptions need to be checked?
 
 
+A.	Experimental Questions, indicating Xs and Ys of each question. (3 points)
+Poster naming FirstLastName_7340_FINAL poster_FA24 (1 point)				
+B.	Naming the study design (2 points)
+C.	Naming of the sampling method (2 points)				
+D.	Data levels (2 points)
+E.	Assumption checks (R code) (2 points)
+F.	Choose of correct statistical method(s) with R code
+(2 points)				
+G.	Positive or Negative Controls (2 points)				
+H.	Biological /Technical /Exp replicates (2 points)				
+I.	Calculate the power, sample size and R code (4 points) (justification given if no power can be calculated)
+J.	Explain the R output and p value in writing (4 points)				
+K.	Figure descriptive and/or inferential (at least 2) produced using R studio with R code (6 points)
+L.	Figure legend(s) with simulated or experimental data is indicated (2 points)				
+M.	Address the potential pitfalls and problems of your project or your solutions (2 points)				
+
  } 
 
  H-Reflex Operant Conditioning Project Project Notes :{
@@ -98,6 +143,19 @@ Under the control mode, the computer simply digitized and stored the absolute va
 Each rat was first exposed to the control mode for 20 days to determine the control H-reflex size, and then exposed to the up-conditioning (HRup rats) or down-conditioning (HRdown rats) mode for 50 days. The last 10 control-mode days and the last 10 up- or down-conditioning days (i.e. days 41–50 of conditioning) provided the data used to determine the impact of H-reflex conditioning on soleus H-reflex size. Average final (days 41–50) H-reflex size was calculated as a percentage of the control H-reflex size. Successful H-reflex conditioning was defined as a change of at least 20% in the correct direction (i.e. to ≥120% for HRup rats, to ≤80% for HRdown rats) (Wolpaw et al., 1993; Chen & Wolpaw, 1995). Thus, the rats fell into five groups: naive control (NC) rats; successful HRup (US) rats; failed HRup (UF) rats; successful HRdown (DS) rats; and failed HRdown rats (DF) rats. “
 
 
+Additional Study Design Notes
+Research Context:
+The primary goal of this study is to investigate if operant conditioning of the soleus H-reflex in rats, reinforced with Vagus Nerve Stimulation (VNS) as a reward, can be used to modify motor unit recruitment patterns. This study seeks to examine whether changes in H-wave amplitude, representing the H-reflex, serve as an indicator of peripheral motor response to conditioning stimuli, potentially leading to applications in neurorehabilitation. The study is motivated by translational applications as described in foundational research on motor learning and reflex plasticity.
+
+Hypotheses Formulation:
+Null Hypothesis (H₀): VNS-based operant conditioning has no effect on the amplitude of the H-reflex (no significant increase/decrease).
+Alternative Hypothesis (Hₐ): VNS-based operant conditioning causes a significant increase (up-conditioning) or decrease (down-conditioning) in the H-reflex amplitude.
+Assumptions and Checks:
+The soleus EMG activity remains consistent within trials, with M-wave amplitude unchanged by external factors.
+Background EMG level stability and absence of confounding noise or signal artifacts in the recording system.
+Normal distribution of reflex amplitude data, allowing for parametric testing when appropriate.
+
+Additional Study Design Notes
 Research Question and Introduction:
 The study investigates how operant conditioning of the soleus H-reflex, enhanced by VNS and food-pellet rewards, impacts motor unit recruitment patterns in rats. The primary outcome is the change in H-wave amplitude, which reflects the peripheral motor response to conditioning stimuli, measured through continuous EMG recordings.
 

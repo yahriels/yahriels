@@ -51,6 +51,20 @@ library(lmerTest)
 library(MuMIn)  
 library(dplyr)  
 library(forcats)  
+
+## Import Data Sets
+alcohol <- read_excel("alcohol.xls")
+ischemic <- read_excel("ischemic.xls")
+lowbwt <- read_excel("lowbwt.xls")
+water <- read_excel("water.xls")
+actions <- read_excel("actions.xls")
+hospital <- read_excel("hospital.xls")
+heart <- read_excel("heart.xls")
+detroit <- read_excel("detroit.xls")
+stenosis <- read_excel("stenosis.xls")
+dialysis <- read_excel("dialysis.xls")
+cyto <- read_excel("cyto.xls")
+bladder <- read_excel("bladder.xls")
 ```
 
 # Question 1
@@ -172,8 +186,7 @@ cor_test_result
 # Import dataset
 lowbwt <- read_excel("lowbwt.xls")
 
-# View the dataset
-View(lowbwt)
+
 
 # Conduct Spearman correlation
 spearman_result <- cor.test(lowbwt$sbp, lowbwt$apgar5, method="spearman")
@@ -193,9 +206,6 @@ c. Is this correlation significantly different from 0?
 ```{r, out.width="60%",}
 # Import dataset
 water <- read_excel("water.xls")
-
-# View the dataset
-View(water)
 
 # Create scatter plot
 plot(water$fluoride, water$caries,
@@ -226,9 +236,6 @@ b. Is each correlation significantly different from 0?
 ```{r, out.width="60%",}
 # Import dataset
 actions <- read_excel("actions.xls")
-
-# View the dataset
-View(actions)
 
 # Calculate correlations
 correlation_1991_1992 <- cor(actions$rank91, actions$rank92)
@@ -262,61 +269,254 @@ c. Are states equally strict?
 
 > Since the correlations are low as years increase, it may indicate inconsistency among states.
 
+# Question 8
+
 ```{r, out.width="60%",}
+
+# Import dataset
+library(readxl)
+lowbwt <- read_excel("lowbwt.xls")
+
+
+# a. Compute least-squares regression line
+lm_sbp_gestage <- lm(sbp ~ gestage, data = lowbwt)
+summary(lm_sbp_gestage)
+
+# Interpretation: The estimated slope (b1) represents the change in systolic blood pressure for each week increase in gestational age.
+
+# b. Hypothesis Test for Slope
+summary(lm_sbp_gestage)$coefficients
+
+# Interpretation: Since the P-value for b1 is less than 0.05, we conclude that b1 differs significantly from zero.
+
+# c. Predicted systolic blood pressure at gestational age of 31 weeks
+predict(lm_sbp_gestage, newdata = data.frame(gestage = 31))
 
 ```
 
+# Question 9
+
+
 ```{r, out.width="60%",}
+# Load dataset
+miner <- data.frame(year=1:12, rate=c(2.419, 1.732, 1.361, 1.108, 0.996, 0.952, 0.904, 0.792, 0.701, 0.890, 0.799, 1.084))
+
+# a) Scatter plot
+plot(miner$year, miner$rate, main="Fatality Rate vs Year", xlab="Year", ylab="Fatality Rate")
+
+# b) Least-squares regression line
+model_9b <- lm(rate ~ year, data=miner)
+summary(model_9b)
+
+# c) Transformation with ln(x)
+miner$log_year <- log(miner$year)
+model_9c <- lm(rate ~ log_year, data=miner)
+summary(model_9c)
+
+# d) Transformation with 1/x
+miner$inv_year <- 1 / miner$year
+model_9d <- lm(rate ~ inv_year, data=miner)
+summary(model_9d)
+
+# e) Choose best model based on R-squared and p-value comparisons
+## Based on the R^2 value and p-values, the first model had the moderate R^2 with the at least half of the variance explained and the p-value just above the significance interval suggesting near statistical significance.
+
+# f) Use best model to predict rate for year 9
+predict(model_9b, newdata=data.frame(year=9)) # Replace model if another is best
+```
+
+# Question 10
+
+```{r, out.width="60%",}
+# a) Numerical summaries
+summary(hospital$expadm)
+summary(hospital$los)
+
+# b) Histograms
+hist(hospital$expadm, main = "Histogram of Expense per Admission", xlab = "Expense per Admission")
+hist(hospital$los, main = "Histogram of Length of Stay", xlab = "Length of Stay")
+
+# c) Least-squares regression line
+model_exp_los <- lm(expadm ~ los, data = hospital)
+summary(model_exp_los)
+
+# d) Interpretation of the slope
+# This describes the change in expense per admission with each additional day in length of stay. While the p-value for the b1 is less than .05, we can conclude that b1 differs significancly from zero.
+
+# e) Diagnostic plots (4 plots)
+par(mfrow=c(2,2))
+plot(model_exp_los)
 
 ```
 
+# Question 11
 ```{r, out.width="60%",}
+# Load dataset
+lowbwt <- read_excel("lowbwt.xls")
+
+# (a) Construct a model using gestational age and Apgar score to predict systolic blood pressure
+model_11 <- lm(sbp ~ gestage + apgar5, data = lowbwt)
+summary(model_11)
+
+# (b) Test the null hypothesis that b1 = 0
+# When we check the p-value for gestage, we see that it is below the significance level, just like the overall p-value from the summary. We reject the null hypothesis suggesting statistical significance.
+
+# (c) Interpretation of b1 and b2 (gestage and apgar5 coefficients)
+# From the summary, we can see that both b1 and b2 are positive values for positive correlations, for b1 it is significant with a p-value below .05, while b2 is not with a p-value over the significance level. 
+
+
+# (d) Predicted systolic BP for gestage = 31 and apgar5 = 7
+predict(model_11, data.frame(gestage = 31, apgar5 = 7))
+
+# (e) Interpret R-squared
+# From the summary output, we see a very low R^2 value, suggesting that our model has a low amount of explained variance. While error is still present, it is not explained by the model.
+
+# (f) Assumption check (normality of residuals)
+par(mfrow = c(2, 2))
+plot(model_11)
 
 ```
 
+# Question 12
 ```{r, out.width="60%",}
+# (a) Construct model with gestage, apgar5, and sex as predictors
+model_12a <- lm(sbp ~ gestage + apgar5 + sex, data = lowbwt)
+summary(model_12a)
+
+# (b) Adding interaction between gestage and sex
+model_12b <- lm(sbp ~ gestage * sex + apgar5, data = lowbwt)
+summary(model_12b)
+
+# Based on the P-values which for both models are below .05, they both have statistical significance. The first one has a lower score. But looking at the interaction term in the 2nd model, it's p-value is quite high suggesting that the interaction doesn't have statistical significance. 
+```
+# Question 13
+```{r, out.width="60%",}
+# Load dataset
+heart <- read_excel("heart.xls")
+
+
+# Fit separate linear regression models for PDI and MDI
+model_13_pdi <- lm(pdi ~ trtment, data = heart)
+summary(model_13_pdi)
+
+model_13_mdi <- lm(mdi ~ trtment, data = heart)
+summary(model_13_mdi)
+
+# The first model with pdi was the more statistically significant model with a p-value below the significance level.
 
 ```
 
+# Question 14
 ```{r, out.width="60%",}
+# a. Scatter plot
+plot(hospital$salary, hospital$expadm, main = "Expense per Admission vs Salary", xlab = "Salary", ylab = "Expense per Admission")
+
+# b. Multiple regression
+model9 <- lm(expadm ~ los + salary, data = hospital)
+summary(model9)
+
+# c. 
+# Yes, the addition of length of stay does make the model better. From the summary we can see that the p-values for b1 and overall are well beloe 0.05, suggesting they have a high significance value. The R^2 value is also high, suggesting a high amount of variance in the model can be explained. 
 
 ```
 
+# Question 15
 ```{r, out.width="60%",}
+detroit <- read_excel("detroit.xls")
+# a. Multiple linear regression for homicide with predictors
+lm_homicide <- lm(homicide ~ register + police + unemp + weekly, data = detroit)
+summary(lm_homicide)
+
+#b-d
+# Based on the summary, register is the only variable which has a significant effect (but low positive correlation) on homocide rate. We can say this model is the best since the p-value is below the significance level and with a high R^2 value showing almost all of the variance explained by the model.
+
 
 ```
 
+# Question 16
 ```{r, out.width="60%",}
+
+# a. Logistic regression for hemorrhage
+glm_hemorrhage <- glm(grmhem ~ apgar5 + tox, family = binomial, data = lowbwt)
+summary(glm_hemorrhage)
+
+# b. Predicted probability for apgar5 = 3 and tox = 1
+predict(glm_hemorrhage, newdata = data.frame(apgar5 = 3, tox = 1), type = "response")
+
+# c. Hypothesis test for b1
+# Based on the model summary, we see b1 (agpar5) has a p-value below the significance level suggesting that the b1 differs significantly from zero. We reject the null hypothesis. 
 
 ```
 
-
+# Question 17
 ```{r, out.width="60%",}
+# Load dataset
+stenosis <- read_excel("stenosis.xls")
+
+# a) Logistic regression model for aortic stenosis with smoking and gender
+model_17a <- glm(disease ~ smoke + sex, family="binomial", data=stenosis)
+summary(model_17a)
+
+# Interpretation of odds
+exp(coef(model_17a)[2]) # Odds ratio for smokers vs nonsmokers
+
+# b) Discuss interaction effects
+# Based on the model summary, I believe that the presence of aortic stenosis differs between males and females. The coefficient b2 for sex is below 0.05 suggesting statistical significance.
 
 ```
 
+# Question 18
 ```{r, out.width="60%",}
+# Load dataset
+dialysis <- read_excel("dialysis.xls")
+View(dialysis)
+
+# a) Logistic regression for age, sex, and race effects on peritonitis
+model_18a_age <- glm(perito ~ age, family="binomial", data=dialysis)
+model_18a_sex <- glm(perito ~ sex, family="binomial", data=dialysis)
+model_18a_race <- glm(perito ~ race, family="binomial", data=dialysis)
+summary(model_18a_age)
+summary(model_18a_sex)
+summary(model_18a_race)
+
+# b) Prediction for white male, age 50
+predict(model_18a_age, newdata=data.frame(age=50, sex=0, race=0), type="response")
+
+# c) Response Variable Categorization
+# Yes I do see a problem specifically with how age is categorized in comparison to the other variables. While the other variables are in binomial form (binary), the presence of a ordinal set of data is mixed with the bigger data meaning that it can obscure our model and some of our interpretations since it is not consistent.
 
 ```
 
+# Question 19
 ```{r, out.width="60%",}
+# Load dataset
+cyto <- read_excel("cyto.xls")
+view(cyto)
+
+# a) Survival curves for two treatment groups
+cyto_surv <- Surv(cyto$time, cyto$censor)
+surv_fit <- survfit(cyto_surv ~ cyto$group)
+plot(surv_fit, col=c("red", "blue"))
+
+# b) Compare survival times visually
+# By inspecting the survival plot, we the blue treatment group has a much higher survival time almost 2x more than the other. 
+
+# c) Log-rank test
+survdiff(cyto_surv ~ cyto$group)
+# Based on the summary, we see a p-value below the significance value therefore we reject the null hypothesis. 
 
 ```
-
+# Question 20
 ```{r, out.width="60%",}
+# a) Survival curves by treatment group
+bladder_surv <- survfit(Surv(time, censor) ~ group, data = bladder)
+plot(bladder_surv, main = "Survival Curves by Treatment Group")
 
-```
+# b) Based on the plot, it doesn't seem like the individuals from one group have a significantly longer time to first recurrence of tumor. As we can tell, the behaviors and trends of both groups are very similar.
 
-```{r, out.width="60%",}
-
-```
-
-```{r, out.width="60%",}
-
-```
-
-```{r, out.width="60%",}
-
+# c) 
+survdiff(Surv(time, censor) ~ group, data = bladder)
+# Based on the summary p-value, it is above the significance level and we fail to reject the null hypothesis that the recurrence times are identical between the two groups. 
 ```
 
 
