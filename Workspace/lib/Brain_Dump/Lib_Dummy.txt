@@ -5,14 +5,13 @@
 - Vivarium 
 
 Sprint
-- GUI Stuff
-    - Build Requirements
-    - Map out interface, signals, and slots needed
-    - Work on H-Reflex GUI Building Code
-- Build requirements reiterate
+- Interviews
+- H-Reflex Conditioning Hardware-Software Integration
+- QE aims
+- Stats Quiz Study
+- Stats Study Research Design and Presentations
 
-- Talk to Jonathon about needles and ordering the suture needles
-
+- PicoScope Waveform Python Executable 
 
 
 In-Progress
