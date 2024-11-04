@@ -2,7 +2,7 @@
 - Look at documentation for OpenEphys and Intan stuff to see if they can be operated similarly. 
 
 
-- Vivarium 
+- Vivarium on Wednesday
 
 Sprint
 - Interviews

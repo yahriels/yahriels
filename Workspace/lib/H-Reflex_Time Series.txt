@@ -1,0 +1,327 @@
+I am making a Time Series (with predictions) R Presentation that includes all the elements of rubric in a presentation format and a R Script with Sample data and analysis. Now give me information that I can include in the Time Series R Presentation below that will be assessed by the information on the Rubric, and also give me a complete R Script with example Time Series (with Prediction Analysis) of H-Reflex EMG Data. This link was provided as a resource to help with analysis of time series in R: https://ourcodingclub.github.io/tutorials/time/ https://pmc.ncbi.nlm.nih.gov/articles/PMC1455479/ 
+
+CONTINUE TO BUILD YOUR PRESENTATION OFF OF THIS PRESENTATION BELOW AND CONTINUE WITH THE SAME STYLE AND FORMAT. THEN GIVE ME A COMPLETE R SCRIPT TIME SERIES ANALYSIS (With Prediction) USING THE DATA SET GENERATED IN THE R CODES BELOW.
+
+IMPORTANT NOTES TO INFORM TASKS:{We have 3 different observations we are looking at for this R Script with 1 predictor set that we will run ARIMA Forecast and prediction on to predict the size of the H-Reflex, and R Time Series Presentation and each of these observations has its own R Code and Data Generated Set. FOR THE FORECAST AND PREDICTION WITH ARIMA, I WANT THE MODEL/R CODE TO PREDICT THE SIZE OF THE H-REFLEX OR H-WAVE USING THE PREDICT H-REFLEX DATA GENERATE CODE PROVIDED.
+
+1. H-Reflex Baseline: With this data generated there is no H-Reflex Conditioning taking place, this is a baseline measurement (SHAM).
+
+2. H-Reflex Down-conditioning: With this data generated, the H-Reflex is Down-conditioned where the H-Wave of the H-Reflex is lower than the baseline.
+
+3. H-Reflex Up-conditioning: With this data generated, the H-Reflex is Up-conditioned where the H-Wave of the H-Reflex is higher than the baseline.
+
+X. H-Reflex Prediction: With this data generated that is cut off at 12 milliseconds, the H-Reflex is cut off from the data set to allow the H-Reflex or H-Wave to be predicted using ARIMA Forecast and prediction of the H-Wave size.
+ }
+
+Stats R Time Series Presentation:{ 
+Background
+Introduction to EMG and H-Reflex
+- Electromyography (EMG) records the electrical activity of muscles, providing insights into neuromuscular function.
+- The H-reflex (Hoffmann reflex) is a reflexive muscle response, elicited electrically, that serves as a measure of spinal cord excitability and motor pathway function.
+H-Reflex Significance
+- H-reflex conditioning is used in research and clinical settings to understand plasticity in motor pathways.
+- It is especially relevant for studying motor control, rehabilitation, and adaptive responses in response to repetitive stimuli or training.
+Time Series in EMG Analysis
+- Time series analysis in EMG studies helps capture trends, detect cycles, and identify specific response events like reflexive muscle responses.
+- Analysis often involves examining patterns and comparing different time intervals to assess changes over time.
+Goal of Analysis
+- The aim of this analysis is to examine changes in H-reflex response amplitude over time as a result of conditioning.
+- This involves statistical methods to determine if there is a significant change in H-reflex after conditioning protocols.
+
+Hypothesis Testing for H-Reflex Conditioning in EMG Data
+Hypothesis Setup
+- To determine if H-reflex conditioning has an effect, we formulate:
+    - Null Hypothesis (H₀): H-reflex amplitude does not change with conditioning.
+    - Alternative Hypothesis (H₁): H-reflex amplitude changes significantly due to conditioning.
+Statistical Tests
+- Time Series Stationarity Check:
+    - Check if the EMG data is stationary (i.e., mean and variance are constant over time) using the Augmented Dickey-Fuller (ADF) test. This ensures reliable statistical modeling.
+- Autocorrelation Analysis:
+    - Autocorrelation helps confirm repetitive patterns in time series data. We analyze auto-correlation to detect cycles or systematic responses in the H-reflex data.
+- Mean Comparison Tests:
+    - We can use a paired t-test (or non-parametric tests if data distribution is non-normal) to compare pre- and post-conditioning H-reflex amplitudes.
+- Confidence Intervals:
+    - Calculating confidence intervals for mean H-reflex amplitude helps validate the hypothesis test by showing the range within which the true mean likely falls.
+Decision Criteria
+- Set a threshold p-value (commonly 0.05) for significance. If the p-value is less than 0.05, we reject the null hypothesis, concluding conditioning had a measurable effect.
+- "Decision: p < 0.05 to reject H₀."
+- "Conclusion: Conditioning effect on H-reflex if p-value is significant."
+
+}
+
+R Code Baseline Data Generation:{
+# Load necessary libraries
+library(ggplot2)
+
+# Parameters for the signal
+sampling_rate <- 10000  # samples per second (10 kHz)
+duration <- 0.02  # 20 milliseconds
+time <- seq(0, duration, length.out = sampling_rate * duration)  # time vector
+
+# Creating the components of the EMG signal
+# 1. Stimulation spike (impulse at start)
+stimulus_start <- round(0.002 * sampling_rate)  # at 2 ms
+stimulus_duration <- round(0.0002 * sampling_rate)  # duration of 0.5 ms
+stimulus_signal <- rep(0, length(time))
+stimulus_signal[stimulus_start:(stimulus_start + stimulus_duration - 1)] <- 1
+
+# 2. M-Wave: Biphasic Gaussian pulse around 6 ms
+m_wave_center <- round(0.006 * sampling_rate)  # center at 6 ms
+m_wave_std <- 0.0007 * sampling_rate  # standard deviation to shape the Gaussian
+m_wave <- exp(-0.55 * ((time * sampling_rate - m_wave_center) / m_wave_std)^2)
+m_wave <- m_wave - exp(-0.55 * ((time * sampling_rate - m_wave_center - 0.001 * sampling_rate) / m_wave_std)^2)
+
+# 3. H-Reflex: Biphasic Gaussian pulse around 10 ms
+h_wave_center <- round(0.013 * sampling_rate)  # center at 10 ms
+h_wave_std <- 0.00015 * sampling_rate  # standard deviation to shape the Gaussian
+h_wave <- exp(-0.5 * ((time * sampling_rate - h_wave_center) / h_wave_std)^2)
+h_wave <- h_wave - exp(-0.5 * ((time * sampling_rate - h_wave_center - 0.001 * sampling_rate) / h_wave_std)^2)
+
+# Combine all signals
+emg_signal <- stimulus_signal - m_wave * 0.30 + h_wave * 1.0
+
+# Add simulated noise
+set.seed(123)
+noise <- rnorm(length(emg_signal), mean = 0, sd = 0.1)
+emg_signal_noisy <- emg_signal + noise
+
+# Plotting to visualize the created signal
+emg_data <- data.frame(Time = time * 1000, EMG_Signal = emg_signal_noisy)
+ggplot(emg_data, aes(x = Time, y = EMG_Signal)) +
+  geom_line(color = "black") +
+  labs(x = "Time (ms)", y = "Amplitude (mV)", title = "Simulated EMG Signal - Baseline") +
+  theme_minimal() +
+  theme(panel.grid.major = element_line(color = "gray", linetype = "dashed"))
+
+}
+
+R Code Down-Condition Data Generation:{
+# Combine all signals with adjusted H-Reflex amplitude for downcondition
+emg_signal <- stimulus_signal - m_wave * 0.30 + h_wave * 0.70
+
+# Add simulated noise
+emg_signal_noisy <- emg_signal + noise
+
+# Plotting to visualize the created signal
+emg_data <- data.frame(Time = time * 1000, EMG_Signal = emg_signal_noisy)
+ggplot(emg_data, aes(x = Time, y = EMG_Signal)) +
+  geom_line(color = "black") +
+  labs(x = "Time (ms)", y = "Amplitude (mV)", title = "Simulated EMG Signal - Downcondition") +
+  theme_minimal() +
+  theme(panel.grid.major = element_line(color = "gray", linetype = "dashed"))
+
+}
+
+
+R Code Up-Condition Data Generation:{
+# Combine all signals with adjusted H-Reflex amplitude for upcondition
+emg_signal <- stimulus_signal - m_wave * 0.30 + h_wave * 1.3
+
+# Add simulated noise
+emg_signal_noisy <- emg_signal + noise
+
+# Plotting to visualize the created signal
+emg_data <- data.frame(Time = time * 1000, EMG_Signal = emg_signal_noisy)
+ggplot(emg_data, aes(x = Time, y = EMG_Signal)) +
+  geom_line(color = "black") +
+  labs(x = "Time (ms)", y = "Amplitude (mV)", title = "Simulated EMG Signal - Upcondition") +
+  theme_minimal() +
+  theme(panel.grid.major = element_line(color = "gray", linetype = "dashed"))
+
+}
+
+R Code H-Reflex Prediction Data Generation:{
+# Parameters for the signal
+sampling_rate <- 10000  # samples per second (10 kHz)
+duration <- 0.013  # 20 milliseconds
+time <- seq(0, duration, length.out = sampling_rate * duration)  # time vector
+
+# Creating the components of the EMG signal
+# 1. Stimulation spike (impulse at start)
+stimulus_start <- round(0.002 * sampling_rate)  # at 2 ms
+stimulus_duration <- round(0.0002 * sampling_rate)  # duration of 0.5 ms
+stimulus_signal <- rep(0, length(time))
+stimulus_signal[stimulus_start:(stimulus_start + stimulus_duration - 1)] <- 1
+
+# 2. M-Wave: Biphasic Gaussian pulse around 6 ms
+m_wave_center <- round(0.006 * sampling_rate)  # center at 6 ms
+m_wave_std <- 0.0007 * sampling_rate  # standard deviation to shape the Gaussian
+m_wave <- exp(-0.55 * ((time * sampling_rate - m_wave_center) / m_wave_std)^2)
+m_wave <- m_wave - exp(-0.55 * ((time * sampling_rate - m_wave_center - 0.001 * sampling_rate) / m_wave_std)^2)
+
+# 3. H-Reflex: Biphasic Gaussian pulse around 10 ms
+h_wave_center = int(0.013 * sampling_rate)  # center at 10 ms
+h_wave_std = 0.00015 * sampling_rate  # standard deviation to shape the Gaussian
+h_wave = np.exp(-0.5 * ((time * sampling_rate - h_wave_center) / h_wave_std) ** 2)
+h_wave -= np.exp(-0.5 * ((time * sampling_rate - h_wave_center - 0.001 * sampling_rate) / h_wave_std) ** 2)
+
+# Combine all signals
+emg_signal = stimulus_signal - m_wave * 0.30 + h_wave * .88
+
+
+# Add simulated noise
+set.seed(123)
+noise <- rnorm(length(emg_signal), mean = 0, sd = 0.1)
+emg_signal_noisy <- emg_signal + noise
+
+# Plotting to visualize the created signal
+emg_data <- data.frame(Time = time * 1000, EMG_Signal = emg_signal_noisy)
+ggplot(emg_data, aes(x = Time, y = EMG_Signal)) +
+  geom_line(color = "black") +
+  labs(x = "Time (ms)", y = "Amplitude (mV)", title = "Predicted H-Reflex Size EMG Signal ") +
+  theme_minimal() +
+  theme(panel.grid.major = element_line(color = "gray", linetype = "dashed"))
+
+}
+
+
+Excel Sheet Project Entry Summary: 
+{
+A	B	C	D	E	F	G	H	I	J	K	L	M	N	O	P	Q	R
+Project Name	What is your unbiased research question of interest?	What is your BIASED research question of interest?	Is your study an observational study?	Is your study an experimental study?	Name the primary independent variable	What is your primary X's data type?	Name the other x variables in your study design.	What is the main outcome variable?	What is the outcome variable's data type?	What is your negative controls?	Do you have any randomization planned in your design?	What is the anticipated power of your study?	What is the minimum effect size (include unit)?	How many replicate, or what is the sample size n?	Name your study design: pre-post test, solomen design, dismantling design, two group analysis, three group analysis, association study, indepenence study, prediciton study, survival study…..	What is the planned statistical method?	What are the assumptions need to be checked?
+H-Reflex Operant Conditioning Project	What effect does VNS paired with operant conditioning of the soleus H-reflex using rewarding system have on motor unit recruitment patterns in rats?	Does VNS-based operant conditioning of the soleus H-reflex in rats significantly alter the H-wave amplitude, indicating a modified peripheral motor response?	No	Yes	Vagus Nerve Stimulation (VNS) intensity (Current Amplitude in [mA])	Continuous	H-reflex conditioning mode, reward type (food/VNS), M-wave amplitude, EMG background level (baseline)	H-wave amplitude, expressed as percentage of background EMG activity (EMG in [mV])	Continuous	Trials without VNS or using control mode	Yes, randomized trial order for VNS intensity	85%	Minimum effect size: 20% change in H-wave amplitude	10-15 rats	Pre-post test design with control/experimental phases	Two-sample t-test, repeated measures ANOVA	Normal distribution of H-reflex responses, stable EMG baseline, consistent VNS application // Normality, Independence, Homogeneity of Variance
+
+}
+
+
+Time Series (with predictions) R Presentation Rubric: {
+Time Series (with predictions)
+- Project title
+- Student name
+- Brief background (same group can use the same slides)
+- Research question(s) and hypotheses, (Individual)
+- Primary and ancillary data sources 
+- Oral presentations (individual, in class or powerpoint voice over)
+- The student's presentation should be 20 minutes.
+
+R Script and Presentation Rubric
+1. What is a time series
+2. Why is time series analysis important?
+3. What do we need to do time series analysis?
+4. Time series terminology: Stationary vs. Non-Stationary
+5. Model 
+6. Importing Time Series Data
+7. Decomposition of an additive time series
+8. Decomposition of multiplicative time series
+9. Time Series Forecasting with ARIMA method
+10. Conclusions
+11. References and Resources
+}'
+
+
+
+
+Other Questions That Are Helpful to Ask:{
+
+# Design a study: 
+
+## Research Question and Introduction:   
+Formulate a research question relevant to your field of study. Provide a brief introductory paragraph that includes the context of the case and the units of measurement used.  
+
+## Identify Variables:  
+Determine the independent variable (IV) and the dependent variable (DV) in your study.  
+
+## Data Levels:  
+Specify the levels of measurement for both the IV and DV.  
+
+## Outcome Measurement:  
+Based on your research question, clearly define the outcome you intend to measure.    
+# Statistical Analysis:   
+Select an appropriate statistical analysis method based on the outcome. Consider options such as a two-sample mean test (parametric or non-parametric), one-way ANOVA (parametric or non-parametric), or correlation (parametric or non-parametric).    
+
+## Hypotheses Formulation:  
+Based on the chosen statistical method, formulate the null hypothesis (Ho) and the alternative hypothesis (Ha).    
+
+## Hypothesis Testing:
+Use the relevant inferential statistical tool to test your hypotheses.    
+
+## Assumptions Check:  
+List the assumptions related to your statistical method and verify that they are met.   
+
+The main question is if VNS paired with breathing exercises to operantly condition slow breathing to Reduce Sensitivity to Experimental Stressors {https://pmc.ncbi.nlm.nih.gov/articles/PMC5670354/} and fear memory exctinction {https://www.sciencedirect.com/science/article/pii/S1935861X18303152}. 
+
+
+A	B	C	D	E	F	G	H	I	J	K	L	M	N	O	P	Q	R
+Student name	What is your unbiased research question of interest?	What is your BIASED research question of interest?	Is your study an observational study?	Is your study an experimental study?	Name the primary independent variable	What is your primary X's data type?	Name the other x variables in your study design.	What is the main outcome variable?	What is the outcome variable's data type?	What is your negative controls?	Do you have any randomization planned in your design?	What is the anticipated power of your study?	What is the minimum effect size (include unit)?	How many replicate, or what is the sample size n?	Name your study design: pre-post test, solomen design, dismantling design, two group analysis, three group analysis, association study, indepenence study, prediciton study, survival study…..	What is the planned statistical method?	What are the assumptions need to be checked?
+
+
+A.	Experimental Questions, indicating Xs and Ys of each question. (3 points)
+Poster naming FirstLastName_7340_FINAL poster_FA24 (1 point)				
+B.	Naming the study design (2 points)
+C.	Naming of the sampling method (2 points)				
+D.	Data levels (2 points)
+E.	Assumption checks (R code) (2 points)
+F.	Choose of correct statistical method(s) with R code
+(2 points)				
+G.	Positive or Negative Controls (2 points)				
+H.	Biological /Technical /Exp replicates (2 points)				
+I.	Calculate the power, sample size and R code (4 points) (justification given if no power can be calculated)
+J.	Explain the R output and p value in writing (4 points)				
+K.	Figure descriptive and/or inferential (at least 2) produced using R studio with R code (6 points)
+L.	Figure legend(s) with simulated or experimental data is indicated (2 points)				
+M.	Address the potential pitfalls and problems of your project or your solutions (2 points)				
+
+ } 
+
+ H-Reflex Operant Conditioning Project Project Notes :{
+
+
+
+Hoffmann reflex (H-reflex) is a peripheral reflex:
+Explanation
+The H-reflex is a peripheral reflex that's triggered by electrically stimulating a peripheral nerve. The stimulation activates the Ia fibers, which then activate the motoneurons in the spinal cord. This produces a muscle response, which is recorded using electromyography (EMG).
+Purpose
+The H-reflex is a diagnostic tool that measures the function of the peripheral and central nervous systems. It can be used to monitor the gray matter at the level of the reflex, and to estimate the conduction velocity of the monosynaptic reflex arc.
+H-index and H/M ratio
+The H-index and H/M ratio are two measurements used to analyze the H-reflex:
+H-index: The relative latency between the H- and M-waves
+H/M ratio: The ratio of the magnitudes of the maximum peak-to-peak H- and M-waves 
+
+
+
+Additional Study Design Notes
+Research Context:
+The primary goal of this study is to investigate if operant conditioning of the soleus H-reflex in rats, reinforced with Vagus Nerve Stimulation (VNS) as a reward, can be used to modify motor unit recruitment patterns. This study seeks to examine whether changes in H-wave amplitude, representing the H-reflex, serve as an indicator of peripheral motor response to conditioning stimuli, potentially leading to applications in neurorehabilitation. The study is motivated by translational applications as described in foundational research on motor learning and reflex plasticity.
+
+Hypotheses Formulation:
+Null Hypothesis (H₀): VNS-based operant conditioning has no effect on the amplitude of the H-reflex (no significant increase/decrease).
+Alternative Hypothesis (Hₐ): VNS-based operant conditioning causes a significant increase (up-conditioning) or decrease (down-conditioning) in the H-reflex amplitude.
+Assumptions and Checks:
+The soleus EMG activity remains consistent within trials, with M-wave amplitude unchanged by external factors.
+Background EMG level stability and absence of confounding noise or signal artifacts in the recording system.
+Normal distribution of reflex amplitude data, allowing for parametric testing when appropriate.
+
+Additional Study Design Notes
+Research Question and Introduction:
+The study investigates how operant conditioning of the soleus H-reflex, enhanced by VNS and food-pellet rewards, impacts motor unit recruitment patterns in rats. The primary outcome is the change in H-wave amplitude, which reflects the peripheral motor response to conditioning stimuli, measured through continuous EMG recordings.
+
+Identify Variables:
+Independent Variable (IV): Vagus Nerve Stimulation (VNS)
+Dependent Variable (DV): H-wave amplitude
+Data Levels:
+IV Type: Continuous
+DV Type: Continuous
+Outcome Measurement:
+The outcome of interest is the H-wave amplitude, assessed through electromyographic recordings during H-reflex trials.
+
+Statistical Analysis:
+The appropriate statistical analysis will be conducted using a two-sample t-test to compare H-wave amplitudes between control and conditioning phases.
+
+Hypotheses Formulation:
+Null Hypothesis (H₀): VNS-based operant conditioning has no effect on the amplitude of the H-reflex.
+Alternative Hypothesis (Hₐ): VNS-based operant conditioning causes a significant increase or decrease in the H-reflex amplitude.
+Hypothesis Testing:
+Statistical testing will be performed using a two-sample t-test to evaluate differences in H-wave amplitudes.
+
+Assumptions Check:
+Normality: The distribution of H-reflex amplitude data should be normal.
+Independence: Each measurement should be independent of the others.
+Homogeneity of Variance: Variances between groups should be equal.
+
+
+
+}
+
+
+Help Yahriel Salinas Answer The Prompt, Review The Response, Provide Feedback, Make Corrections, Enhance, and Finalize Yahriel's Best Response For To Prompt..
+
