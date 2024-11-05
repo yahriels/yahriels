@@ -1,66 +1,42 @@
-# Load necessary libraries
+# Load required libraries
 library(ggplot2)
 library(forecast)
 library(tseries)
 
-# Set parameters for sampling
-sampling_rate <- 10000  # samples per second
-duration <- 0.02  # 20 milliseconds
-time <- seq(0, duration, length.out = sampling_rate * duration + 1)  # time vector
+# Parameters for simulated data generation
+sampling_rate <- 10000   # samples per second
+duration <- 0.02         # 20 milliseconds
+time <- seq(0, duration, length.out = sampling_rate * duration + 1)
 
-# Function to generate EMG signal data
+# Function to generate EMG signal with different conditioning states
 generate_emg_signal <- function(condition = "baseline") {
-  # Stimulation spike
   stimulus_start <- round(0.002 * sampling_rate)
   stimulus_duration <- round(0.0002 * sampling_rate)
   stimulus_signal <- rep(0, length(time))
   stimulus_signal[stimulus_start:(stimulus_start + stimulus_duration - 1)] <- 1
   
-  # M-Wave parameters
   m_wave_center <- round(0.006 * sampling_rate)
   m_wave_std <- 0.0007 * sampling_rate
-  m_wave <- exp(-0.55 * ((seq(0, duration, length.out = length(time)) * sampling_rate - m_wave_center) / m_wave_std)^2)
-  m_wave <- m_wave - exp(-0.55 * ((seq(0, duration, length.out = length(time)) * sampling_rate - m_wave_center - 0.001 * sampling_rate) / m_wave_std)^2)
+  m_wave <- exp(-0.55 * ((time * sampling_rate - m_wave_center) / m_wave_std)^2)
   
-  # H-Reflex parameters
   h_wave_center <- round(0.0201 * sampling_rate)
   h_wave_std <- 0.00025 * sampling_rate
+  h_wave_amplitude <- ifelse(condition == "baseline", 1, ifelse(condition == "downconditioning", 0.7, 1.3))
+  h_wave <- exp(-0.5 * ((time * sampling_rate - h_wave_center) / h_wave_std)^2)
   
-  if (condition == "baseline") {
-    h_wave_amplitude <- 1.0
-  } else if (condition == "downconditioning") {
-    h_wave_amplitude <- 0.7
-  } else if (condition == "upconditioning") {
-    h_wave_amplitude <- 1.3
-  } else if (condition == "predict") {
-    h_wave_amplitude <- 0.88
-  } else {
-    stop("Invalid condition")
-  }
-  
-  h_wave <- exp(-0.5 * ((seq(0, duration, length.out = length(time)) * sampling_rate - h_wave_center) / h_wave_std)^2)
-  h_wave <- h_wave - exp(-0.5 * ((seq(0, duration, length.out = length(time)) * sampling_rate - h_wave_center - 0.001 * sampling_rate) / h_wave_std)^2)
-  
-  # Combine signals
   emg_signal <- stimulus_signal - m_wave * 0.30 + h_wave * h_wave_amplitude
-  
-  # Add noise
-  set.seed(123)
   noise <- rnorm(length(emg_signal), mean = 0, sd = 0.1)
-  emg_signal_noisy <- emg_signal + noise
-  
-  return(emg_signal_noisy)
+  return(emg_signal + noise)
 }
 
-# Generate EMG signals
+# Generate data for baseline, down-conditioning, and up-conditioning
 baseline_signal <- generate_emg_signal("baseline")
 downconditioning_signal <- generate_emg_signal("downconditioning")
 upconditioning_signal <- generate_emg_signal("upconditioning")
-predict_signal <- generate_emg_signal("predict")
 
-# Plot EMG signals
+# Visualize EMG signals
 plot_emg_signal <- function(signal, title) {
-  emg_data <- data.frame(Time = seq(0, duration, length.out = length(signal)) * 1000, EMG_Signal = signal)
+  emg_data <- data.frame(Time = time * 1000, EMG_Signal = signal)
   ggplot(emg_data, aes(x = Time, y = EMG_Signal)) +
     geom_line(color = "black") +
     labs(x = "Time (ms)", y = "Amplitude (mV)", title = title) +
@@ -68,79 +44,41 @@ plot_emg_signal <- function(signal, title) {
     theme(panel.grid.major = element_line(color = "gray", linetype = "dashed"))
 }
 
-# Visualize the signals
-plot_emg_signal(baseline_signal, "Simulated EMG Signal - Baseline")
-plot_emg_signal(downconditioning_signal, "Simulated EMG Signal - Down-conditioning")
-plot_emg_signal(upconditioning_signal, "Simulated EMG Signal - Up-conditioning")
-plot_emg_signal(predict_signal, "Simulated EMG Signal - Prediction")
+plot_emg_signal(baseline_signal, "Baseline Signal")
+plot_emg_signal(downconditioning_signal, "Down-conditioning Signal")
+plot_emg_signal(upconditioning_signal, "Up-conditioning Signal")
 
-# Set parameters for prediction
-predict_sampling_rate <- 10000  # samples per second
-predict_duration <- 0.0201  # 20.1 milliseconds
-predict_time <- seq(0, predict_duration, length.out = predict_sampling_rate * predict_duration + 1)  # time vector
+# Convert signals to time series (sampling frequency 10 Hz for demonstration)
+baseline_ts <- ts(baseline_signal, frequency = 10)
+downconditioning_ts <- ts(downconditioning_signal, frequency = 10)
+upconditioning_ts <- ts(upconditioning_signal, frequency = 10)
 
-# Function to generate predict EMG signal data
-generate_predict_emg_signal <- function(condition = "predict") {
-  # Stimulation spike
-  stimulus_start <- round(0.002 * predict_sampling_rate)
-  stimulus_duration <- round(0.0002 * predict_sampling_rate)
-  stimulus_signal <- rep(0, length(predict_time))
-  stimulus_signal[stimulus_start:(stimulus_start + stimulus_duration - 1)] <- 1
-  
-  # M-Wave parameters
-  m_wave_center <- round(0.006 * predict_sampling_rate)
-  m_wave_std <- 0.0007 * predict_sampling_rate
-  m_wave <- exp(-0.55 * ((predict_time * predict_sampling_rate - m_wave_center) / m_wave_std)^2)
-  m_wave <- m_wave - exp(-0.55 * ((predict_time * predict_sampling_rate - m_wave_center - 0.001 * predict_sampling_rate) / m_wave_std)^2)
-  
-  # H-Reflex parameters
-  h_wave_center <- round(0.0201 * predict_sampling_rate)
-  h_wave_std <- 0.00015 * predict_sampling_rate
-  
-  if (condition == "predict") {
-    h_wave_amplitude <- 0.88
-  } else if (condition == "downconditioning") {
-    h_wave_amplitude <- 0.7
-  } else if (condition == "upconditioning") {
-    h_wave_amplitude <- 1.3
-  } else {
-    stop("Invalid condition")
-  }
-  
-  h_wave <- exp(-0.5 * ((predict_time * predict_sampling_rate - h_wave_center) / h_wave_std)^2)
-  h_wave <- h_wave - exp(-0.5 * ((predict_time * predict_sampling_rate - h_wave_center - 0.001 * predict_sampling_rate) / h_wave_std)^2)
-  
-  # Combine signals
-  emg_predict_signal <- stimulus_signal - m_wave * 0.30 + h_wave * h_wave_amplitude
-  
-  # Add noise
-  set.seed(123)
-  noise <- rnorm(length(emg_predict_signal), mean = 0, sd = 0.1)
-  emg_predict_signal_noisy <- emg_predict_signal + noise
-  
-  return(emg_predict_signal_noisy)
-}
+# Check stationarity with Augmented Dickey-Fuller Test
+adf.test(baseline_ts)       # Null Hypothesis: non-stationary
+adf.test(downconditioning_ts)
+adf.test(upconditioning_ts)
 
-# Generate EMG signals for prediction
-predict_signal <- generate_predict_emg_signal("predict")
+# ARIMA Modeling and Forecasting
+fit_baseline <- auto.arima(baseline_ts)
+fit_down <- auto.arima(downconditioning_ts)
+fit_up <- auto.arima(upconditioning_ts)
 
-# Visualize the predicted signal
-plot_emg_signal(predict_signal, "Simulated EMG Signal - Predict")
+# Forecast next 5 time points
+forecast_baseline <- forecast(fit_baseline, h = 5)
+forecast_down <- forecast(fit_down, h = 5)
+forecast_up <- forecast(fit_up, h = 5)
 
-# ARIMA Forecasting for Down-conditioning Signal
-fit <- auto.arima(downconditioning_signal)  # Change to the correct signal
-forecasted <- forecast(fit, h = 50)  # Forecast next 50 time points
+# Plot forecasted results
+autoplot(forecast_baseline) + ggtitle("Baseline Forecast")
+autoplot(forecast_down) + ggtitle("Down-conditioning Forecast")
+autoplot(forecast_up) + ggtitle("Up-conditioning Forecast")
 
-# Plot ARIMA Forecast
-autoplot(forecasted) + ggtitle("ARIMA Forecast for Predict Signal")
+# Decomposition Analysis for Baseline Prediction Series
+decomp_baseline <- decompose(baseline_ts)
+plot(decomp_baseline)
 
-# ADF Test for Stationarity
-adf_test <- adf.test(downconditioning_signal)  # Change to the correct signal
-print(adf_test)
+# Statistical Interpretation of Tests and Analysis
+# ADF Test Results: If p < 0.05, we reject the null hypothesis, indicating stationarity.
+# ARIMA Model Fit: Automatically selects the best-fitting ARIMA model for prediction.
+# Forecast Results: Forecast future H-reflex amplitudes based on past data.
 
-# Autocorrelation Analysis
-acf(downconditioning_signal, main="ACF for Predict Signal")  # Change to the correct signal
-pacf(downconditioning_signal, main="PACF for Predict Signal")  # Change to the correct signal
-
-# Conclusion on the H-Reflex analysis and predictions
-summary(fit)

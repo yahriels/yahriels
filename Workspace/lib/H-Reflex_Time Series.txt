@@ -12,7 +12,16 @@ IMPORTANT NOTES TO INFORM TASKS:{We have 3 different observations we are looking
 
 X. H-Reflex Prediction: With this data generated that will be used for prediction, the H-Reflex is cut off from the data set to allow the H-Reflex or H-Wave to be predicted using ARIMA Forecast and prediction of the H-Wave size.
 
-Peform Decomposition of the EMG Signal
+
+PUT ALL THESE ELEMENTS STACKED ON INDIVIDUALS PLOTS: Add and plot a RMS Fit, and add a Linear Regression Fit, and Then Put and plot a horizontal line that tracks the peak amplitude value only of the H-Reflex H-Wave Spike, NOT THE Stimulation Pulse SPIKE, of the H-Reflex H-Wave. Perform all analysis on the horizontal line that tracks the peak amplitude of ONLY the H-Reflex H-Wave NOT THE PEAK AMPLITUDE OF THE FIRST STIMULATION PULSE PEAK WAVE and perform the prediction analysis on this. 
+
+Make sure to add a separate data generated set for the prediction portion of the R Code, separate from Baseline, Down-conditioning, and Up-conditioning.
+
+Also Perform a Decomposition Analysis of a Prediction Data Set like here:{
+  # Decomposition of Prediction Time Series
+decomp_baseline <- decompose(predict_ts)
+plot(decomp_predict)}
+
 }
 
 Stats R Time Series Presentation:{ 
@@ -51,131 +60,14 @@ Decision Criteria
 
 }
 
-R Code Baseline Data Generation:{
-# Load necessary libraries
-library(ggplot2)
 
-# Parameters for the signal
-sampling_rate <- 10000  # samples per second (10 kHz)
-duration <- 0.02  # 20 milliseconds
-time <- seq(0, duration, length.out = sampling_rate * duration)  # time vector
+ H-Reflex Operant Conditioning Project Project Notes :{
 
-# Creating the components of the EMG signal
-# 1. Stimulation spike (impulse at start)
-stimulus_start <- round(0.002 * sampling_rate)  # at 2 ms
-stimulus_duration <- round(0.0002 * sampling_rate)  # duration of 0.5 ms
-stimulus_signal <- rep(0, length(time))
-stimulus_signal[stimulus_start:(stimulus_start + stimulus_duration - 1)] <- 1
-
-# 2. M-Wave: Biphasic Gaussian pulse around 6 ms
-m_wave_center <- round(0.006 * sampling_rate)  # center at 6 ms
-m_wave_std <- 0.0007 * sampling_rate  # standard deviation to shape the Gaussian
-m_wave <- exp(-0.55 * ((time * sampling_rate - m_wave_center) / m_wave_std)^2)
-m_wave <- m_wave - exp(-0.55 * ((time * sampling_rate - m_wave_center - 0.001 * sampling_rate) / m_wave_std)^2)
-
-# 3. H-Reflex: Biphasic Gaussian pulse around 10 ms
-h_wave_center <- round(0.013 * sampling_rate)  # center at 10 ms
-h_wave_std <- 0.00015 * sampling_rate  # standard deviation to shape the Gaussian
-h_wave <- exp(-0.5 * ((time * sampling_rate - h_wave_center) / h_wave_std)^2)
-h_wave <- h_wave - exp(-0.5 * ((time * sampling_rate - h_wave_center - 0.001 * sampling_rate) / h_wave_std)^2)
-
-# Combine all signals
-emg_signal <- stimulus_signal - m_wave * 0.30 + h_wave * 1.0
-
-# Add simulated noise
-set.seed(123)
-noise <- rnorm(length(emg_signal), mean = 0, sd = 0.1)
-emg_signal_noisy <- emg_signal + noise
-
-# Plotting to visualize the created signal
-emg_data <- data.frame(Time = time * 1000, EMG_Signal = emg_signal_noisy)
-ggplot(emg_data, aes(x = Time, y = EMG_Signal)) +
-  geom_line(color = "black") +
-  labs(x = "Time (ms)", y = "Amplitude (mV)", title = "Simulated EMG Signal - Baseline") +
-  theme_minimal() +
-  theme(panel.grid.major = element_line(color = "gray", linetype = "dashed"))
+Additional Study Design Notes
+Research Context:
+The primary goal of this study is to investigate if operant conditioning of the soleus H-reflex in rats, reinforced with Vagus Nerve Stimulation (VNS) as a reward, can be used to modify motor unit recruitment patterns. This study seeks to examine whether changes in H-wave amplitude, representing the H-reflex, serve as an indicator of peripheral motor response to conditioning stimuli, potentially leading to applications in neurorehabilitation. The study is motivated by translational applications as described in foundational research on motor learning and reflex plasticity.
 
 }
-
-R Code Down-Condition Data Generation:{
-# Combine all signals with adjusted H-Reflex amplitude for downcondition
-emg_signal <- stimulus_signal - m_wave * 0.30 + h_wave * 0.70
-
-# Add simulated noise
-emg_signal_noisy <- emg_signal + noise
-
-# Plotting to visualize the created signal
-emg_data <- data.frame(Time = time * 1000, EMG_Signal = emg_signal_noisy)
-ggplot(emg_data, aes(x = Time, y = EMG_Signal)) +
-  geom_line(color = "black") +
-  labs(x = "Time (ms)", y = "Amplitude (mV)", title = "Simulated EMG Signal - Downcondition") +
-  theme_minimal() +
-  theme(panel.grid.major = element_line(color = "gray", linetype = "dashed"))
-
-}
-
-
-R Code Up-Condition Data Generation:{
-# Combine all signals with adjusted H-Reflex amplitude for upcondition
-emg_signal <- stimulus_signal - m_wave * 0.30 + h_wave * 1.3
-
-# Add simulated noise
-emg_signal_noisy <- emg_signal + noise
-
-# Plotting to visualize the created signal
-emg_data <- data.frame(Time = time * 1000, EMG_Signal = emg_signal_noisy)
-ggplot(emg_data, aes(x = Time, y = EMG_Signal)) +
-  geom_line(color = "black") +
-  labs(x = "Time (ms)", y = "Amplitude (mV)", title = "Simulated EMG Signal - Upcondition") +
-  theme_minimal() +
-  theme(panel.grid.major = element_line(color = "gray", linetype = "dashed"))
-
-}
-
-R Code H-Reflex Prediction Data Generation:{
-# Parameters for the signal
-sampling_rate <- 10000  # samples per second (10 kHz)
-duration <- 0.013  # 20 milliseconds
-time <- seq(0, duration, length.out = sampling_rate * duration)  # time vector
-
-# Creating the components of the EMG signal
-# 1. Stimulation spike (impulse at start)
-stimulus_start <- round(0.002 * sampling_rate)  # at 2 ms
-stimulus_duration <- round(0.0002 * sampling_rate)  # duration of 0.5 ms
-stimulus_signal <- rep(0, length(time))
-stimulus_signal[stimulus_start:(stimulus_start + stimulus_duration - 1)] <- 1
-
-# 2. M-Wave: Biphasic Gaussian pulse around 6 ms
-m_wave_center <- round(0.006 * sampling_rate)  # center at 6 ms
-m_wave_std <- 0.0007 * sampling_rate  # standard deviation to shape the Gaussian
-m_wave <- exp(-0.55 * ((time * sampling_rate - m_wave_center) / m_wave_std)^2)
-m_wave <- m_wave - exp(-0.55 * ((time * sampling_rate - m_wave_center - 0.001 * sampling_rate) / m_wave_std)^2)
-
-# 3. H-Reflex: Biphasic Gaussian pulse around 10 ms
-h_wave_center = int(0.013 * sampling_rate)  # center at 10 ms
-h_wave_std = 0.00015 * sampling_rate  # standard deviation to shape the Gaussian
-h_wave = np.exp(-0.5 * ((time * sampling_rate - h_wave_center) / h_wave_std) ** 2)
-h_wave -= np.exp(-0.5 * ((time * sampling_rate - h_wave_center - 0.001 * sampling_rate) / h_wave_std) ** 2)
-
-# Combine all signals
-emg_signal = stimulus_signal - m_wave * 0.30 + h_wave * .88
-
-
-# Add simulated noise
-set.seed(123)
-noise <- rnorm(length(emg_signal), mean = 0, sd = 0.1)
-emg_signal_noisy <- emg_signal + noise
-
-# Plotting to visualize the created signal
-emg_data <- data.frame(Time = time * 1000, EMG_Signal = emg_signal_noisy)
-ggplot(emg_data, aes(x = Time, y = EMG_Signal)) +
-  geom_line(color = "black") +
-  labs(x = "Time (ms)", y = "Amplitude (mV)", title = "Predicted H-Reflex Size EMG Signal ") +
-  theme_minimal() +
-  theme(panel.grid.major = element_line(color = "gray", linetype = "dashed"))
-
-}
-
 
 Excel Sheet Project Entry Summary: 
 {
@@ -266,19 +158,115 @@ M.	Address the potential pitfalls and problems of your project or your solutions
  } 
 
 Example H-Reflex R Script:{
+# Load necessary libraries
+library(ggplot2)
+library(forecast)
+library(tseries)
+
+# Parameters
+sampling_rate <- 10000   # samples per second
+duration <- 0.02         # 20 milliseconds
+time <- seq(0, duration, length.out = sampling_rate * duration + 1)
+
+# Function to generate EMG signal data
+generate_emg_signal <- function(condition = "baseline") {
+  stimulus_start <- round(0.002 * sampling_rate)
+  stimulus_duration <- round(0.0002 * sampling_rate)
+  stimulus_signal <- rep(0, length(time))
+  stimulus_signal[stimulus_start:(stimulus_start + stimulus_duration - 1)] <- 1
+  
+  m_wave_center <- round(0.006 * sampling_rate)
+  m_wave_std <- 0.0007 * sampling_rate
+  m_wave <- exp(-0.55 * ((time * sampling_rate - m_wave_center) / m_wave_std)^2)
+  
+  h_wave_center <- round(0.0201 * sampling_rate)
+  h_wave_std <- 0.00025 * sampling_rate
+  h_wave_amplitude <- ifelse(condition == "baseline", 1, ifelse(condition == "downconditioning", 0.7, 1.3))
+  
+  h_wave <- exp(-0.5 * ((time * sampling_rate - h_wave_center) / h_wave_std)^2)
+  
+  emg_signal <- stimulus_signal - m_wave * 0.30 + h_wave * h_wave_amplitude
+  noise <- rnorm(length(emg_signal), mean = 0, sd = 0.1)
+  return(emg_signal + noise)
+}
+
+# Generate signals
+baseline_signal <- generate_emg_signal("baseline")
+downconditioning_signal <- generate_emg_signal("downconditioning")
+upconditioning_signal <- generate_emg_signal("upconditioning")
+
+# Visualize signals
+plot_emg_signal <- function(signal, title) {
+  emg_data <- data.frame(Time = time * 1000, EMG_Signal = signal)
+  ggplot(emg_data, aes(x = Time, y = EMG_Signal)) +
+    geom_line(color = "black") +
+    labs(x = "Time (ms)", y = "Amplitude (mV)", title = title) +
+    theme_minimal() +
+    theme(panel.grid.major = element_line(color = "gray", linetype = "dashed"))
+}
+
+plot_emg_signal(baseline_signal, "Baseline Signal")
+plot_emg_signal(downconditioning_signal, "Down-conditioning Signal")
+plot_emg_signal(upconditioning_signal, "Up-conditioning Signal")
+
+# ARIMA Modeling and Prediction
+# Convert to time series object (assuming 10 observations over time intervals)
+baseline_ts <- ts(baseline_signal, frequency = 10)
+downconditioning_ts <- ts(downconditioning_signal, frequency = 10)
+upconditioning_ts <- ts(upconditioning_signal, frequency = 10)
+
+# Check for stationarity (ADF test)
+adf.test(baseline_ts)
+adf.test(downconditioning_ts)
+adf.test(upconditioning_ts)
+
+# Fit ARIMA model to each time series and make predictions
+fit_baseline <- auto.arima(baseline_ts)
+fit_down <- auto.arima(downconditioning_ts)
+fit_up <- auto.arima(upconditioning_ts)
+
+# Forecasting next 5 time points
+forecast_baseline <- forecast(fit_baseline, h = 5)
+forecast_down <- forecast(fit_down, h = 5)
+forecast_up <- forecast(fit_up, h = 5)
+
+# Plot predictions
+autoplot(forecast_baseline) + ggtitle("Baseline Forecast")
+autoplot(forecast_down) + ggtitle("Down-conditioning Forecast")
+autoplot(forecast_up) + ggtitle("Up-conditioning Forecast")
+
+# Statistical Interpretation Comments
+# - ADF Test: We interpret the p-value. If p < 0.05, we reject the null hypothesis, indicating a stationary series.
+# - Autocorrelation Check: This assesses if values at different time points are correlated, informing model selection.
+# - ARIMA Model Fit: Provides a forecast by identifying the best-fitting autoregressive integrated moving average model.
+# - Prediction Interpretation: Confidence intervals help assess prediction reliability, with smaller intervals indicating higher accuracy.
+
+# Calculate RMSE for model fit
+rmse_baseline <- accuracy(forecast_baseline)[2, "RMSE"]
+rmse_down <- accuracy(forecast_down)[2, "RMSE"]
+rmse_up <- accuracy(forecast_up)[2, "RMSE"]
+
+# Display RMSE
+cat("RMSE for Baseline:", rmse_baseline, "\n")
+cat("RMSE for Down-conditioning:", rmse_down, "\n")
+cat("RMSE for Up-conditioning:", rmse_up, "\n")
+
+}
+
+Example H-Reflex R Script:{
   # Load necessary libraries
 library(ggplot2)
 library(forecast)
 library(tseries)
 
-# Set parameters for sampling
+# Parameters for the time series
 sampling_rate <- 10000  # samples per second
 duration <- 0.02  # 20 milliseconds
 time <- seq(0, duration, length.out = sampling_rate * duration + 1)  # time vector
 
-# Function to generate EMG signal data
+# Generate EMG signals
 generate_emg_signal <- function(condition = "baseline") {
-  # Stimulation spike
+  # Stimulation parameters
   stimulus_start <- round(0.002 * sampling_rate)
   stimulus_duration <- round(0.0002 * sampling_rate)
   stimulus_signal <- rep(0, length(time))
@@ -290,136 +278,72 @@ generate_emg_signal <- function(condition = "baseline") {
   m_wave <- exp(-0.55 * ((seq(0, duration, length.out = length(time)) * sampling_rate - m_wave_center) / m_wave_std)^2)
   m_wave <- m_wave - exp(-0.55 * ((seq(0, duration, length.out = length(time)) * sampling_rate - m_wave_center - 0.001 * sampling_rate) / m_wave_std)^2)
   
-  # H-Reflex parameters
+  # H-Wave parameters for conditioning effects
   h_wave_center <- round(0.0201 * sampling_rate)
   h_wave_std <- 0.00025 * sampling_rate
   
-  if (condition == "baseline") {
-    h_wave_amplitude <- 1.0
-  } else if (condition == "downconditioning") {
-    h_wave_amplitude <- 0.7
-  } else if (condition == "upconditioning") {
-    h_wave_amplitude <- 1.3
-  } else if (condition == "predict") {
-    h_wave_amplitude <- 0.88
-  } else {
-    stop("Invalid condition")
-  }
+  h_wave_amplitude <- switch(condition,
+                             "baseline" = 1.0,
+                             "downconditioning" = 0.7,
+                             "upconditioning" = 1.3,
+                             "predict" = 0.88)
   
   h_wave <- exp(-0.5 * ((seq(0, duration, length.out = length(time)) * sampling_rate - h_wave_center) / h_wave_std)^2)
   h_wave <- h_wave - exp(-0.5 * ((seq(0, duration, length.out = length(time)) * sampling_rate - h_wave_center - 0.001 * sampling_rate) / h_wave_std)^2)
   
-  # Combine signals
+  # Combine signals with noise
   emg_signal <- stimulus_signal - m_wave * 0.30 + h_wave * h_wave_amplitude
-  
-  # Add noise
-  set.seed(123)
   noise <- rnorm(length(emg_signal), mean = 0, sd = 0.1)
-  emg_signal_noisy <- emg_signal + noise
   
-  return(emg_signal_noisy)
+  return(emg_signal + noise)
 }
 
-# Generate EMG signals
-baseline_signal <- generate_emg_signal("baseline")
-downconditioning_signal <- generate_emg_signal("downconditioning")
-upconditioning_signal <- generate_emg_signal("upconditioning")
+# Generate data for different conditions
+baseline <- generate_emg_signal("baseline")
+downconditioning <- generate_emg_signal("downconditioning")
+upconditioning <- generate_emg_signal("upconditioning")
 predict_signal <- generate_emg_signal("predict")
 
-# Plot EMG signals
+# Visualization function
 plot_emg_signal <- function(signal, title) {
-  emg_data <- data.frame(Time = seq(0, duration, length.out = length(signal)) * 1000, EMG_Signal = signal)
-  ggplot(emg_data, aes(x = Time, y = EMG_Signal)) +
-    geom_line(color = "black") +
+  data <- data.frame(Time = seq(0, duration, length.out = length(signal)) * 1000, EMG_Signal = signal)
+  ggplot(data, aes(x = Time, y = EMG_Signal)) +
+    geom_line(color = "blue") +
     labs(x = "Time (ms)", y = "Amplitude (mV)", title = title) +
-    theme_minimal() +
-    theme(panel.grid.major = element_line(color = "gray", linetype = "dashed"))
+    theme_minimal()
 }
 
-# Visualize the signals
-plot_emg_signal(baseline_signal, "Simulated EMG Signal - Baseline")
-plot_emg_signal(downconditioning_signal, "Simulated EMG Signal - Down-conditioning")
-plot_emg_signal(upconditioning_signal, "Simulated EMG Signal - Up-conditioning")
-plot_emg_signal(predict_signal, "Simulated EMG Signal - Prediction")
+# Plot each signal
+plot_emg_signal(baseline, "Baseline EMG Signal")
+plot_emg_signal(downconditioning, "Down-conditioning EMG Signal")
+plot_emg_signal(upconditioning, "Up-conditioning EMG Signal")
 
-# Set parameters for prediction
-predict_sampling_rate <- 10000  # samples per second
-predict_duration <- 0.0201  # 20.1 milliseconds
-predict_time <- seq(0, predict_duration, length.out = predict_sampling_rate * predict_duration + 1)  # time vector
+# RMS Fit and Linear Regression
+library(zoo)
+rms_baseline <- rollapply(baseline, width = 50, FUN = function(x) sqrt(mean(x^2)), by = 1, align = "right")
+data.frame(time = seq_along(rms_baseline), rms = rms_baseline) %>%
+  ggplot(aes(x = time, y = rms)) + geom_line(color = "red") +
+  labs(title = "RMS of Baseline EMG Signal")
 
-# Function to generate predict EMG signal data
-generate_predict_emg_signal <- function(condition = "predict") {
-  # Stimulation spike
-  stimulus_start <- round(0.002 * predict_sampling_rate)
-  stimulus_duration <- round(0.0002 * predict_sampling_rate)
-  stimulus_signal <- rep(0, length(predict_time))
-  stimulus_signal[stimulus_start:(stimulus_start + stimulus_duration - 1)] <- 1
-  
-  # M-Wave parameters
-  m_wave_center <- round(0.006 * predict_sampling_rate)
-  m_wave_std <- 0.0007 * predict_sampling_rate
-  m_wave <- exp(-0.55 * ((predict_time * predict_sampling_rate - m_wave_center) / m_wave_std)^2)
-  m_wave <- m_wave - exp(-0.55 * ((predict_time * predict_sampling_rate - m_wave_center - 0.001 * predict_sampling_rate) / m_wave_std)^2)
-  
-  # H-Reflex parameters
-  h_wave_center <- round(0.0201 * predict_sampling_rate)
-  h_wave_std <- 0.00015 * predict_sampling_rate
-  
-  if (condition == "predict") {
-    h_wave_amplitude <- 0.88
-  } else if (condition == "downconditioning") {
-    h_wave_amplitude <- 0.7
-  } else if (condition == "upconditioning") {
-    h_wave_amplitude <- 1.3
-  } else {
-    stop("Invalid condition")
-  }
-  
-  h_wave <- exp(-0.5 * ((predict_time * predict_sampling_rate - h_wave_center) / h_wave_std)^2)
-  h_wave <- h_wave - exp(-0.5 * ((predict_time * predict_sampling_rate - h_wave_center - 0.001 * predict_sampling_rate) / h_wave_std)^2)
-  
-  # Combine signals
-  emg_predict_signal <- stimulus_signal - m_wave * 0.30 + h_wave * h_wave_amplitude
-  
-  # Add noise
-  set.seed(123)
-  noise <- rnorm(length(emg_predict_signal), mean = 0, sd = 0.1)
-  emg_predict_signal_noisy <- emg_predict_signal + noise
-  
-  return(emg_predict_signal_noisy)
+# Predictive ARIMA Model on H-Wave Peak
+emg_ts <- ts(upconditioning, frequency = sampling_rate)
+fit <- auto.arima(emg_ts)
+pred <- forecast(fit, h = 100)
+
+plot(pred, main = "ARIMA Prediction of H-Wave Size", xlab = "Time", ylab = "H-Wave Amplitude")
+
+# Horizontal line for peak analysis
+h_wave_peak <- max(baseline)
+abline(h = h_wave_peak, col = "darkgreen", lty = "dashed", lwd = 1.5)
+
+# Statistical Interpretation
+adf_test <- adf.test(baseline)
+if (adf_test$p.value < 0.05) {
+  cat("Data is stationary; suitable for ARIMA modeling.\n")
+} else {
+  cat("Data is non-stationary; further differencing may be required.\n")
 }
 
-# Generate EMG signals for prediction
-predict_signal <- generate_predict_emg_signal("predict")
-
-# Visualize the predicted signal
-plot_emg_signal(predict_signal, "Simulated EMG Signal - Predict")
-
-# ARIMA Forecasting for Down-conditioning Signal
-fit <- auto.arima(downconditioning_signal)  # Change to the correct signal
-forecasted <- forecast(fit, h = 50)  # Forecast next 50 time points
-
-# Plot ARIMA Forecast
-autoplot(forecasted) + ggtitle("ARIMA Forecast for Predict Signal")
-
-# ADF Test for Stationarity
-adf_test <- adf.test(downconditioning_signal)  # Change to the correct signal
-print(adf_test)
-
-# Autocorrelation Analysis
-acf(downconditioning_signal, main="ACF for Predict Signal")  # Change to the correct signal
-pacf(downconditioning_signal, main="PACF for Predict Signal")  # Change to the correct signal
-
-# Conclusion on the H-Reflex analysis and predictions
-summary(fit)
-
-}
-
- H-Reflex Operant Conditioning Project Project Notes :{
-
-Additional Study Design Notes
-Research Context:
-The primary goal of this study is to investigate if operant conditioning of the soleus H-reflex in rats, reinforced with Vagus Nerve Stimulation (VNS) as a reward, can be used to modify motor unit recruitment patterns. This study seeks to examine whether changes in H-wave amplitude, representing the H-reflex, serve as an indicator of peripheral motor response to conditioning stimuli, potentially leading to applications in neurorehabilitation. The study is motivated by translational applications as described in foundational research on motor learning and reflex plasticity.
 
 }
 
