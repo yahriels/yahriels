@@ -1,6 +1,6 @@
 I am making a Time Series (with predictions) R Presentation that includes all the elements of rubric in a presentation format and a R Script with Sample data and analysis. Now give me information that I can include in the Time Series R Presentation below that will be assessed by the information on the Rubric, and also give me a complete R Script with example Time Series (with Prediction Analysis) of H-Reflex EMG Data. This link was provided as a resource to help with analysis of time series in R: https://ourcodingclub.github.io/tutorials/time/ https://pmc.ncbi.nlm.nih.gov/articles/PMC1455479/ 
 
-CONTINUE TO BUILD YOUR PRESENTATION OFF OF THIS PRESENTATION BELOW AND CONTINUE WITH THE SAME STYLE AND FORMAT. THEN GIVE ME A COMPLETE R SCRIPT TIME SERIES ANALYSIS (With Prediction) USING THE DATA SET GENERATED IN THE R CODES BELOW.
+CONTINUE TO BUILD YOUR PRESENTATION OFF OF THIS PRESENTATION BELOW AND CONTINUE WITH THE SAME STYLE AND FORMAT. THEN GIVE ME A COMPLETE R SCRIPT TIME SERIES ANALYSIS (With Prediction) USING THE DATA SET GENERATED IN THE R CODES BELOW, THEN GO BACK THROUGH AND ADD COMMENTS ABOUT HOW EACH STEP AND TEST SHOULD BE INTERPRETED IN TERMS OF STATISTICS.
 
 IMPORTANT NOTES TO INFORM TASKS:{We have 3 different observations we are looking at for this R Script with 1 predictor set that we will run ARIMA Forecast and prediction on to predict the size of the H-Reflex, and R Time Series Presentation and each of these observations has its own R Code and Data Generated Set. FOR THE FORECAST AND PREDICTION WITH ARIMA, I WANT THE MODEL/R CODE TO PREDICT THE SIZE OF THE H-REFLEX OR H-WAVE USING THE PREDICT H-REFLEX DATA GENERATE CODE PROVIDED.
 
@@ -10,8 +10,10 @@ IMPORTANT NOTES TO INFORM TASKS:{We have 3 different observations we are looking
 
 3. H-Reflex Up-conditioning: With this data generated, the H-Reflex is Up-conditioned where the H-Wave of the H-Reflex is higher than the baseline.
 
-X. H-Reflex Prediction: With this data generated that is cut off at 12 milliseconds, the H-Reflex is cut off from the data set to allow the H-Reflex or H-Wave to be predicted using ARIMA Forecast and prediction of the H-Wave size.
- }
+X. H-Reflex Prediction: With this data generated that will be used for prediction, the H-Reflex is cut off from the data set to allow the H-Reflex or H-Wave to be predicted using ARIMA Forecast and prediction of the H-Wave size.
+
+Peform Decomposition of the EMG Signal
+}
 
 Stats R Time Series Presentation:{ 
 Background
@@ -263,65 +265,164 @@ M.	Address the potential pitfalls and problems of your project or your solutions
 
  } 
 
+Example H-Reflex R Script:{
+  # Load necessary libraries
+library(ggplot2)
+library(forecast)
+library(tseries)
+
+# Set parameters for sampling
+sampling_rate <- 10000  # samples per second
+duration <- 0.02  # 20 milliseconds
+time <- seq(0, duration, length.out = sampling_rate * duration + 1)  # time vector
+
+# Function to generate EMG signal data
+generate_emg_signal <- function(condition = "baseline") {
+  # Stimulation spike
+  stimulus_start <- round(0.002 * sampling_rate)
+  stimulus_duration <- round(0.0002 * sampling_rate)
+  stimulus_signal <- rep(0, length(time))
+  stimulus_signal[stimulus_start:(stimulus_start + stimulus_duration - 1)] <- 1
+  
+  # M-Wave parameters
+  m_wave_center <- round(0.006 * sampling_rate)
+  m_wave_std <- 0.0007 * sampling_rate
+  m_wave <- exp(-0.55 * ((seq(0, duration, length.out = length(time)) * sampling_rate - m_wave_center) / m_wave_std)^2)
+  m_wave <- m_wave - exp(-0.55 * ((seq(0, duration, length.out = length(time)) * sampling_rate - m_wave_center - 0.001 * sampling_rate) / m_wave_std)^2)
+  
+  # H-Reflex parameters
+  h_wave_center <- round(0.0201 * sampling_rate)
+  h_wave_std <- 0.00025 * sampling_rate
+  
+  if (condition == "baseline") {
+    h_wave_amplitude <- 1.0
+  } else if (condition == "downconditioning") {
+    h_wave_amplitude <- 0.7
+  } else if (condition == "upconditioning") {
+    h_wave_amplitude <- 1.3
+  } else if (condition == "predict") {
+    h_wave_amplitude <- 0.88
+  } else {
+    stop("Invalid condition")
+  }
+  
+  h_wave <- exp(-0.5 * ((seq(0, duration, length.out = length(time)) * sampling_rate - h_wave_center) / h_wave_std)^2)
+  h_wave <- h_wave - exp(-0.5 * ((seq(0, duration, length.out = length(time)) * sampling_rate - h_wave_center - 0.001 * sampling_rate) / h_wave_std)^2)
+  
+  # Combine signals
+  emg_signal <- stimulus_signal - m_wave * 0.30 + h_wave * h_wave_amplitude
+  
+  # Add noise
+  set.seed(123)
+  noise <- rnorm(length(emg_signal), mean = 0, sd = 0.1)
+  emg_signal_noisy <- emg_signal + noise
+  
+  return(emg_signal_noisy)
+}
+
+# Generate EMG signals
+baseline_signal <- generate_emg_signal("baseline")
+downconditioning_signal <- generate_emg_signal("downconditioning")
+upconditioning_signal <- generate_emg_signal("upconditioning")
+predict_signal <- generate_emg_signal("predict")
+
+# Plot EMG signals
+plot_emg_signal <- function(signal, title) {
+  emg_data <- data.frame(Time = seq(0, duration, length.out = length(signal)) * 1000, EMG_Signal = signal)
+  ggplot(emg_data, aes(x = Time, y = EMG_Signal)) +
+    geom_line(color = "black") +
+    labs(x = "Time (ms)", y = "Amplitude (mV)", title = title) +
+    theme_minimal() +
+    theme(panel.grid.major = element_line(color = "gray", linetype = "dashed"))
+}
+
+# Visualize the signals
+plot_emg_signal(baseline_signal, "Simulated EMG Signal - Baseline")
+plot_emg_signal(downconditioning_signal, "Simulated EMG Signal - Down-conditioning")
+plot_emg_signal(upconditioning_signal, "Simulated EMG Signal - Up-conditioning")
+plot_emg_signal(predict_signal, "Simulated EMG Signal - Prediction")
+
+# Set parameters for prediction
+predict_sampling_rate <- 10000  # samples per second
+predict_duration <- 0.0201  # 20.1 milliseconds
+predict_time <- seq(0, predict_duration, length.out = predict_sampling_rate * predict_duration + 1)  # time vector
+
+# Function to generate predict EMG signal data
+generate_predict_emg_signal <- function(condition = "predict") {
+  # Stimulation spike
+  stimulus_start <- round(0.002 * predict_sampling_rate)
+  stimulus_duration <- round(0.0002 * predict_sampling_rate)
+  stimulus_signal <- rep(0, length(predict_time))
+  stimulus_signal[stimulus_start:(stimulus_start + stimulus_duration - 1)] <- 1
+  
+  # M-Wave parameters
+  m_wave_center <- round(0.006 * predict_sampling_rate)
+  m_wave_std <- 0.0007 * predict_sampling_rate
+  m_wave <- exp(-0.55 * ((predict_time * predict_sampling_rate - m_wave_center) / m_wave_std)^2)
+  m_wave <- m_wave - exp(-0.55 * ((predict_time * predict_sampling_rate - m_wave_center - 0.001 * predict_sampling_rate) / m_wave_std)^2)
+  
+  # H-Reflex parameters
+  h_wave_center <- round(0.0201 * predict_sampling_rate)
+  h_wave_std <- 0.00015 * predict_sampling_rate
+  
+  if (condition == "predict") {
+    h_wave_amplitude <- 0.88
+  } else if (condition == "downconditioning") {
+    h_wave_amplitude <- 0.7
+  } else if (condition == "upconditioning") {
+    h_wave_amplitude <- 1.3
+  } else {
+    stop("Invalid condition")
+  }
+  
+  h_wave <- exp(-0.5 * ((predict_time * predict_sampling_rate - h_wave_center) / h_wave_std)^2)
+  h_wave <- h_wave - exp(-0.5 * ((predict_time * predict_sampling_rate - h_wave_center - 0.001 * predict_sampling_rate) / h_wave_std)^2)
+  
+  # Combine signals
+  emg_predict_signal <- stimulus_signal - m_wave * 0.30 + h_wave * h_wave_amplitude
+  
+  # Add noise
+  set.seed(123)
+  noise <- rnorm(length(emg_predict_signal), mean = 0, sd = 0.1)
+  emg_predict_signal_noisy <- emg_predict_signal + noise
+  
+  return(emg_predict_signal_noisy)
+}
+
+# Generate EMG signals for prediction
+predict_signal <- generate_predict_emg_signal("predict")
+
+# Visualize the predicted signal
+plot_emg_signal(predict_signal, "Simulated EMG Signal - Predict")
+
+# ARIMA Forecasting for Down-conditioning Signal
+fit <- auto.arima(downconditioning_signal)  # Change to the correct signal
+forecasted <- forecast(fit, h = 50)  # Forecast next 50 time points
+
+# Plot ARIMA Forecast
+autoplot(forecasted) + ggtitle("ARIMA Forecast for Predict Signal")
+
+# ADF Test for Stationarity
+adf_test <- adf.test(downconditioning_signal)  # Change to the correct signal
+print(adf_test)
+
+# Autocorrelation Analysis
+acf(downconditioning_signal, main="ACF for Predict Signal")  # Change to the correct signal
+pacf(downconditioning_signal, main="PACF for Predict Signal")  # Change to the correct signal
+
+# Conclusion on the H-Reflex analysis and predictions
+summary(fit)
+
+}
+
  H-Reflex Operant Conditioning Project Project Notes :{
-
-
-
-Hoffmann reflex (H-reflex) is a peripheral reflex:
-Explanation
-The H-reflex is a peripheral reflex that's triggered by electrically stimulating a peripheral nerve. The stimulation activates the Ia fibers, which then activate the motoneurons in the spinal cord. This produces a muscle response, which is recorded using electromyography (EMG).
-Purpose
-The H-reflex is a diagnostic tool that measures the function of the peripheral and central nervous systems. It can be used to monitor the gray matter at the level of the reflex, and to estimate the conduction velocity of the monosynaptic reflex arc.
-H-index and H/M ratio
-The H-index and H/M ratio are two measurements used to analyze the H-reflex:
-H-index: The relative latency between the H- and M-waves
-H/M ratio: The ratio of the magnitudes of the maximum peak-to-peak H- and M-waves 
-
-
 
 Additional Study Design Notes
 Research Context:
 The primary goal of this study is to investigate if operant conditioning of the soleus H-reflex in rats, reinforced with Vagus Nerve Stimulation (VNS) as a reward, can be used to modify motor unit recruitment patterns. This study seeks to examine whether changes in H-wave amplitude, representing the H-reflex, serve as an indicator of peripheral motor response to conditioning stimuli, potentially leading to applications in neurorehabilitation. The study is motivated by translational applications as described in foundational research on motor learning and reflex plasticity.
 
-Hypotheses Formulation:
-Null Hypothesis (H₀): VNS-based operant conditioning has no effect on the amplitude of the H-reflex (no significant increase/decrease).
-Alternative Hypothesis (Hₐ): VNS-based operant conditioning causes a significant increase (up-conditioning) or decrease (down-conditioning) in the H-reflex amplitude.
-Assumptions and Checks:
-The soleus EMG activity remains consistent within trials, with M-wave amplitude unchanged by external factors.
-Background EMG level stability and absence of confounding noise or signal artifacts in the recording system.
-Normal distribution of reflex amplitude data, allowing for parametric testing when appropriate.
-
-Additional Study Design Notes
-Research Question and Introduction:
-The study investigates how operant conditioning of the soleus H-reflex, enhanced by VNS and food-pellet rewards, impacts motor unit recruitment patterns in rats. The primary outcome is the change in H-wave amplitude, which reflects the peripheral motor response to conditioning stimuli, measured through continuous EMG recordings.
-
-Identify Variables:
-Independent Variable (IV): Vagus Nerve Stimulation (VNS)
-Dependent Variable (DV): H-wave amplitude
-Data Levels:
-IV Type: Continuous
-DV Type: Continuous
-Outcome Measurement:
-The outcome of interest is the H-wave amplitude, assessed through electromyographic recordings during H-reflex trials.
-
-Statistical Analysis:
-The appropriate statistical analysis will be conducted using a two-sample t-test to compare H-wave amplitudes between control and conditioning phases.
-
-Hypotheses Formulation:
-Null Hypothesis (H₀): VNS-based operant conditioning has no effect on the amplitude of the H-reflex.
-Alternative Hypothesis (Hₐ): VNS-based operant conditioning causes a significant increase or decrease in the H-reflex amplitude.
-Hypothesis Testing:
-Statistical testing will be performed using a two-sample t-test to evaluate differences in H-wave amplitudes.
-
-Assumptions Check:
-Normality: The distribution of H-reflex amplitude data should be normal.
-Independence: Each measurement should be independent of the others.
-Homogeneity of Variance: Variances between groups should be equal.
-
-
-
 }
 
 
-Help Yahriel Salinas Answer The Prompt, Review The Response, Provide Feedback, Make Corrections, Enhance, and Finalize Yahriel's Best Response For To Prompt..
+Help Yahriel Salinas Answer The Prompt, Review The Response, Provide Feedback, Make Corrections, Enhance, and Finalize Yahriel's Best Response For The Prompt.
 
