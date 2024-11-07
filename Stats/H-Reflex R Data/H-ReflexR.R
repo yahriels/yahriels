@@ -9,7 +9,7 @@ duration <- 0.02         # 20 milliseconds
 time <- seq(0, duration, length.out = sampling_rate * duration + 1)
 
 # Define function to generate EMG signal based on conditioning state
-generate_emg_signal <- function(condition = "baseline") {
+generate_emg_signal <- function(condition = "baseline", type = "additive") {
   stimulus_start <- round(0.002 * sampling_rate)
   stimulus_duration <- round(0.0002 * sampling_rate)
   stimulus_signal <- rep(0, length(time))
@@ -24,26 +24,46 @@ generate_emg_signal <- function(condition = "baseline") {
   h_wave_amplitude <- ifelse(condition == "baseline", 1, ifelse(condition == "downconditioning", 0.7, 1.3))
   h_wave <- exp(-0.5 * ((time * sampling_rate - h_wave_center) / h_wave_std)^2)
   
-  emg_signal <- stimulus_signal * (m_wave * 0.30) * ( h_wave * h_wave_amplitude) - m_wave * .30 + h_wave * h_wave_amplitude 
+  emg_signal <- stimulus_signal + m_wave * 0.15 + h_wave * h_wave_amplitude
   noise <- rnorm(length(emg_signal), mean = 0, sd = 0.1)
-  return(emg_signal + noise)
+  
+  if (type == "additive") {
+    return(emg_signal + noise)  # Additive model
+  } else if (type == "multiplicative") {
+    return(emg_signal * (1 + noise))  # Multiplicative model
+  }
 }
 
-# Generate signals
-baseline_signal <- generate_emg_signal("baseline")
-downconditioning_signal <- generate_emg_signal("downconditioning")
-upconditioning_signal <- generate_emg_signal("upconditioning")
+
+# Generate additive and multiplicative signals
+additive_signal <- generate_emg_signal("baseline", "additive")
+multiplicative_signal <- generate_emg_signal("baseline", "multiplicative")
 
 # Convert signals to time series objects
-baseline_ts <- ts(baseline_signal, frequency = 10)
+additive_ts <- ts(additive_signal, frequency = 10)
+multiplicative_ts <- ts(multiplicative_signal, frequency = 10)
 
 # Decomposition of additive time series
-additive_decomp_baseline <- decompose(baseline_ts, type = "additive")
-plot(additive_decomp_baseline)
-title("Additive Decomposition of Baseline Signal")
+decomp_additive <- decompose(additive_ts, type = "additive")
+plot(decomp_additive)
+
 
 # Decomposition of multiplicative time series
-multiplicative_decomp_baseline <- decompose(baseline_ts, type = "multiplicative")
-plot(multiplicative_decomp_baseline)
-title("Multiplicative Decomposition of Baseline Signal")
+decomp_multiplicative <- decompose(multiplicative_ts, type = "multiplicative")
+plot(decomp_multiplicative)
+
+
+# Plot the time series
+plot_emg_signal <- function(signal, title) {
+  emg_data <- data.frame(Time = time * 1000, EMG_Signal = signal)
+  ggplot(emg_data, aes(x = Time, y = EMG_Signal)) +
+    geom_line(color = "black") +
+    labs(x = "Time (ms)", y = "Amplitude (mV)", title = title) +
+    theme_minimal() +
+    theme(panel.grid.major = element_line(color = "gray", linetype = "dashed"))
+}
+
+# Display each decomposition
+plot_emg_signal(additive_signal, "Additive Signal")
+plot_emg_signal(multiplicative_signal, "Multiplicative Signal")
 
