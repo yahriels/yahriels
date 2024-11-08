@@ -1,8 +1,15 @@
-- Ask Intan and OpenEphys people about compatibility of Python with API and GUI
-- Look at documentation for OpenEphys and Intan stuff to see if they can be operated similarly. 
+Task for volunteers
+1. Intan Installations and Presentations
+2. TCP Commands
+3. Python Repository Access and Initialization
 
 
-- Vivarium on Wednesday
+
+
+
+
+
+
 
 Sprint
 - Interviews

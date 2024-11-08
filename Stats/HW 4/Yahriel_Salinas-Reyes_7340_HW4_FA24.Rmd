@@ -227,6 +227,7 @@ correlation_test <- cor.test(water$fluoride, water$caries)
 correlation_test
 
 ```
+
 > Since the p-value is than 0.05, we conclude that the correlation is significantly different from 0.
 
 # Question 7
@@ -391,18 +392,43 @@ summary(model_12b)
 ```
 # Question 13
 ```{r, out.width="60%",}
-# Load dataset
+# Load necessary library and dataset
+library(readxl)
 heart <- read_excel("heart.xls")
 
-
-# Fit separate linear regression models for PDI and MDI
+# Part a: Fit two simple linear regression models for PDI and MDI
 model_13_pdi <- lm(pdi ~ trtment, data = heart)
-summary(model_13_pdi)
-
 model_13_mdi <- lm(mdi ~ trtment, data = heart)
-summary(model_13_mdi)
 
-# The first model with pdi was the more statistically significant model with a p-value below the significance level.
+# Display the summaries to interpret the results
+summary_pdi <- summary(model_13_pdi)
+summary_mdi <- summary(model_13_mdi)
+
+# Print summary outputs
+print(summary_pdi)
+print(summary_mdi)
+
+# Part b: Interpretation for PDI
+# Who is more likely to have a higher PDI score?
+cat("\nInterpretation for PDI:\n")
+cat("A child assigned to the low-flow bypass group is more likely to have a higher PDI score by", 
+      round(summary_pdi$coefficients["trtment", "Estimate"], 2), "points on average compared to a child in the circulatory arrest group.\n")
+
+
+# Part c: Check for statistical significance at the 0.05 level
+cat("\nStatistical significance for PDI:\n")
+cat("The treatment group difference in PDI scores is statistically significant (p-value =", 
+      round(summary_pdi$coefficients["trtment", "Pr(>|t|)"], 4), ").\n")
+
+
+cat("\nInterpretation for MDI:\n")
+cat("A child assigned to the low-flow bypass group is more likely to have a higher MDI score by", 
+      round(summary_mdi$coefficients["trtment", "Estimate"], 2), "points on average compared to a child in the circulatory arrest group.\n")
+
+  
+cat("\nStatistical significance for MDI:\n")
+cat("The treatment group difference in MDI scores is not statistically significant.\n")
+
 
 ```
 
@@ -422,13 +448,43 @@ summary(model9)
 
 # Question 15
 ```{r, out.width="60%",}
+# Load necessary library and dataset
 detroit <- read_excel("detroit.xls")
-# a. Multiple linear regression for homicide with predictors
-lm_homicide <- lm(homicide ~ register + police + unemp + weekly, data = detroit)
-summary(lm_homicide)
+summary(detroit)
 
-#b-d
-# Based on the summary, register is the only variable which has a significant effect (but low positive correlation) on homocide rate. We can say this model is the best since the p-value is below the significance level and with a high R^2 value showing almost all of the variance explained by the model.
+# Part a: Fit a multiple linear regression model with homicide as the dependent variable
+lm_homicide <- lm(homicide ~ register + police + unemp + weekly, data = detroit)
+
+# Display the summary of the model
+summary_homicide <- summary(lm_homicide)
+print(summary_homicide)
+
+# Part b: Identify significant variables
+cat("\nSignificant variables in the model:\n")
+significance_threshold <- 0.05
+significant_vars <- summary_homicide$coefficients[, "Pr(>|t|)"] < significance_threshold
+print(names(summary_homicide$coefficients)[significant_vars])
+
+# Part c: Model selection (explanation added)
+cat("\nExplanation for the best model:\n")
+cat("The best model includes all four variables since the overall p-value is significant (p =", 
+    round(summary_homicide$fstatistic[3], 5), ") and R-squared =", 
+    round(summary_homicide$r.squared, 4), "indicating a high proportion of variance explained.\n")
+
+# Part d: Coefficients explanation
+cat("\nCoefficients explanation:\n")
+cat("Intercept (b0):", round(summary_homicide$coefficients["(Intercept)", "Estimate"], 2), "- Baseline homicide rate.\n")
+cat("b1 (register):", round(summary_homicide$coefficients["register", "Estimate"], 4), "- Increase in homicide rate per additional 100,000 handgun registrations.\n")
+cat("b2 (police):", round(summary_homicide$coefficients["police", "Estimate"], 4), "- Change in homicide rate per additional 100,000 police officers.\n")
+cat("b3 (unemp):", round(summary_homicide$coefficients["unemp", "Estimate"], 4), "- Change in homicide rate per 1% increase in unemployment.\n")
+cat("b4 (weekly):", round(summary_homicide$coefficients["weekly", "Estimate"], 4), "- Change in homicide rate per increase in average weekly earnings.\n")
+
+# Part e: R-squared explanation
+cat("\nR-squared explanation:\n")
+cat("The R-squared value is", round(summary_homicide$r.squared, 4), 
+    "which indicates that", round(summary_homicide$r.squared * 100, 2), 
+    "% of the variance in the homicide rate is explained by the model.\n")
+
 
 
 ```
