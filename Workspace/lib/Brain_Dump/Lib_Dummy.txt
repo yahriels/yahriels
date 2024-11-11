@@ -1,14 +1,7 @@
-Task for volunteers
-1. Intan Installations and Presentations
-2. TCP Commands
-3. Python Repository Access and Initialization
-
-
-
-
-
-
-
+Tasks for volunteers
+1. Go over Materials in Presentation focusing on the 1st half.
+2. Work on Installing Software & Drivers on Desktop for Intan System, and looking at Intan Manuals.
+3. Dig into TCP Commands with Python for Hardware-Software Communication.
 
 
 Sprint
