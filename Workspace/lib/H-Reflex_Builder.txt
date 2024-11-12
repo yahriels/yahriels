@@ -10,52 +10,50 @@ Enhancing neurorehabilitation by targeting beneficial plasticity (Link: https://
 H-reflex conditioning during locomotion in people with spinal cord injury (Link: https://physoc.onlinelibrary.wiley.com/doi/full/10.1113/JP278173)
 Motor training induces experience-specific patterns of plasticity across motor cortex and spinal cord (Link: https://journals.physiology.org/doi/full/10.1152/japplphysiol.00515.2006?utm_source=TrendMD&utm_medium=cpc&utm_campaign=Journal_of_Applied_Physiology_TrendMD_0&)
 
-This project and Design of Experiments will include 4 groups which we will be testing.
-Group 1: H-Reflex conditioning (no pellet reward) (Sham)
-Group 2: H-Reflex conditioning (w/ pellet reward)
-Group 3: H-Reflex conditioning (w/ pellet reward)+ VNS Reward
-Group 4: H-Reflex conditioning (w/ VNS reward)
 
-Here are three experiments we are for sure going to run.
-Experiment 1: 
-Group 1: H-Reflex conditioning (no pellet reward) (Sham)
-Group 2: H-Reflex conditioning (w/ pellet reward)
+Research Question: Can VeHROC, a novel therapy combining HROC and VNS, more effectively improve recovery of hindlimb function compared to HROC or VNS alone in a rat 
+
+Background: SCI is a prevalent condition with limited treatment options, imposing a significant burden on patients. Spasticity is a common and debilitating symptom of SCI, resulting from loss of inhibitory input from the brain to the spinal cord. Vagus Nerve Stimulation-enhanced H-reflex Operant Conditioning (VeHROC))  combines HROC and VNS to enhance recovery after SCI. HROC directs plasticity in specific spinal circuits, while VNS enhances these effects by increasing plasticity in the CNS to reduce spasticity.
+
+Preclinical Observational Study
+
+Evaluating the efficacy of VeHROC to improve locomotion in a clinically relevant rat model of incomplete SCI. A Cohort Study Design with subjects exposed to VNS and SHAM. 
+Sampling Method : Stratified Random Sampling to ensure each subgroup is well represented.
+
+Independent: 
+VNS Treatment (Ordinal)
+HROC Therapy (Categorical)
+Negative Control:
+Trials with no VNS (SHAM).
+
+
+Dependent: 
+H-Reflex Size/Amplitude (Continuous Numeric)
+Positive Control:
+HROC Therapy
+*Animals are biological replicates of each other*
+
+
+Hypothesis: We hypothesize that VNS can enhance the spinal conditioning effects of HROC to improve functional recovery after SPI. (Significantly alter H-Reflex Amplitude)
+
 
 Question: Does the “clinically viable” h-reflex conditioning work? In the context of adapting the clinical motivation and models to a pre-clinical study and experimental paradigm.
 
-Hypothesis: 
+Question
+What effect does operant conditioning the soleus have on H-Reflex amplitudes over time?
 
-Experiment 2: 
-Group 1: H-Reflex conditioning (no pellet reward) (Sham)
-Group 2: H-Reflex conditioning (w/ pellet reward)
-Group 3: H-Reflex conditioning (w/ pellet reward)+ VNS Reward
+Hypothesis
+Conditioning of the soleus significantly alters the H-Reflex amplitude from baseline (pre) in post-conditioning (up/down).
 
-Question: Can VNS enhance HROC (H-Reflex Operant Conditioning)?
 
-Hypothesis: 
-
-Experiment 3: 
-Group 1: H-Reflex conditioning (no pellet reward) (Sham)
-Group 2: H-Reflex conditioning (w/ pellet reward) 
-Group 4: H-Reflex conditioning (w/ VNS reward)
-
-Question: Can VNS replace the pellet reward for HROC?
-
-Hypothesis: 
-
-Future experiments: 
-HROC in the forelimb
-HROC during behavior / movements instead of stationary
-Forelimb: during skilled reaching
-Hindlimb: during locomotion
+Clinical Relevance: These findings highlight the potential for H-reflex conditioning in motor rehabilitation strategies and improving adaptive responses.
 
 
 Excel Sheet: 
 {
 A	B	C	D	E	F	G	H	I	J	K	L	M	N	O	P	Q	R
 Project Name	What is your unbiased research question of interest?	What is your BIASED research question of interest?	Is your study an observational study?	Is your study an experimental study?	Name the primary independent variable	What is your primary X's data type?	Name the other x variables in your study design.	What is the main outcome variable?	What is the outcome variable's data type?	What is your negative controls?	Do you have any randomization planned in your design?	What is the anticipated power of your study?	What is the minimum effect size (include unit)?	How many replicate, or what is the sample size n?	Name your study design: pre-post test, solomen design, dismantling design, two group analysis, three group analysis, association study, indepenence study, prediciton study, survival study…..	What is the planned statistical method?	What are the assumptions need to be checked?
-dEMG Respiration Biomarker Project	What diaphragm electromyographic (dEMG) biomarker can be identified as a physiological indicator of vagus nerve stimulation (VNS) efficacy in rats?	How does vagus nerve stimulation (VNS) alter diaphragm electromyographic (dEMG) activity to recruit the Hering-Breuer reflex (HBR) and identify a reliable biomarker for VNS intensity?	No	Yes	Vagus nerve stimulation (VNS) intensity	Continuous	Animal awake state, electrode placement, respiration rate, HBR reflex occurrence, trial number	Diaphragm EMG activity and HBR reflex threshold	Numerical	Trials without VNS or VNS at sub-threshold intensity	Yes, randomized trial order for VNS intensity	80%	Minimum effect size: 10% reduction in respiration amplitude (µV)	15 rats	Pre-post test design with acute and chronic exposure phases	One-way ANOVA, regression analysis for biomarker prediction	Normal distribution of dEMG responses, consistent VNS application
-H-Reflex Operant Conditioning Project	What effect does VNS paired with operant conditioning of the soleus H-reflex using rewarding system have on motor unit recruitment patterns in rats?	Does VNS-based operant conditioning of the soleus H-reflex in rats significantly alter the H-wave amplitude, indicating a modified peripheral motor response?	No	Yes	Vagus Nerve Stimulation (VNS) intensity (Current Amplitude in [mA])	Continuous	H-reflex conditioning mode, reward type (food/VNS), M-wave amplitude, EMG background level (baseline)	H-wave amplitude, expressed as percentage of background EMG activity (EMG in [mV])	Continuous	Trials without VNS or using control mode	Yes, randomized trial order for VNS intensity	85%	Minimum effect size: 20% change in H-wave amplitude	10-15 rats	Pre-post test design with control/experimental phases	Two-sample t-test, repeated measures ANOVA	Normal distribution of H-reflex responses, stable EMG baseline, consistent VNS application // Normality, Independence, Homogeneity of Variance
+H-Reflex Operant Conditioning Project	What effect does vagus nerve stimulation paired with h-reflex operant conditioning (HROC) have on the soleus h-reflex parameters (amplitude) over time in rats with SCI.		No	Yes	Vagus Nerve Stimulation (VNS) intensity (Current Amplitude in [mA])	Continuous	VNS Treatment (Ordinal), HROC Therapy (Categorical)	H-wave amplitude size, expressed as percentage of background EMG activity (EMG in [mV])	Continuous	Trials without VNS or using control mode		85%	Minimum effect size: 20% change in H-wave amplitude	10-15 rats			
 
 
 
@@ -88,11 +86,10 @@ Use the relevant inferential statistical tool to test your hypotheses.
 ## Assumptions Check:  
 List the assumptions related to your statistical method and verify that they are met.   
 
-The main question is if VNS paired with breathing exercises to operantly condition slow breathing to Reduce Sensitivity to Experimental Stressors {https://pmc.ncbi.nlm.nih.gov/articles/PMC5670354/} and fear memory exctinction {https://www.sciencedirect.com/science/article/pii/S1935861X18303152}. 
 
 
 A	B	C	D	E	F	G	H	I	J	K	L	M	N	O	P	Q	R
-Student name	What is your unbiased research question of interest?	What is your BIASED research question of interest?	Is your study an observational study?	Is your study an experimental study?	Name the primary independent variable	What is your primary X's data type?	Name the other x variables in your study design.	What is the main outcome variable?	What is the outcome variable's data type?	What is your negative controls?	Do you have any randomization planned in your design?	What is the anticipated power of your study?	What is the minimum effect size (include unit)?	How many replicate, or what is the sample size n?	Name your study design: pre-post test, solomen design, dismantling design, two group analysis, three group analysis, association study, indepenence study, prediciton study, survival study…..	What is the planned statistical method?	What are the assumptions need to be checked?
+Project name	What is your unbiased research question of interest?	What is your BIASED research question of interest?	Is your study an observational study?	Is your study an experimental study?	Name the primary independent variable	What is your primary X's data type?	Name the other x variables in your study design.	What is the main outcome variable?	What is the outcome variable's data type?	What is your negative controls?	Do you have any randomization planned in your design?	What is the anticipated power of your study?	What is the minimum effect size (include unit)?	How many replicate, or what is the sample size n?	Name your study design: pre-post test, solomen design, dismantling design, two group analysis, three group analysis, association study, indepenence study, prediciton study, survival study…..	What is the planned statistical method?	What are the assumptions need to be checked?
 
 
 A.	Experimental Questions, indicating Xs and Ys of each question. (3 points)
@@ -136,113 +133,45 @@ H/M ratio: The ratio of the magnitudes of the maximum peak-to-peak H- and M-wave
 
 
 
-Here are the notes and goals of my project: 
-We are modeling a H-Reflex Conditioning Operant System Architecture to create a GUI app called H-Reflex App that is heavily modeled off of this paper: Motor learning changes the axon initial segment of the spinal motoneuron (Link: https://physoc.onlinelibrary.wiley.com/doi/full/10.1113/JP283875) and this specific section to perform simultaneous recording and stimulation of Vagus Nerve Stimulation Therapy with H-Reflex Conditioning: 
-Stimulus delivery and data collection were controlled by a computer that monitored soleus EMG activity (sampled at 5000 Hz) continuously for the entire period of data collection. The soleus H-reflex was elicited as follows. Whenever the absolute value (equivalent to the full-wave rectified value) of background (i.e. ongoing) EMG activity in the soleus muscle remained within a pre-defined range for a randomly varying 2.3–2.7 s period, the computer initiated a trial. The EMG range was based on the rat's typical soleus EMG level as it moved about the cage; it was typically 1–2% of the maximum possible EMG activity as assessed by the maximum M wave (i.e. the direct muscle response; Pierrot-Deseilligny & Burke, 2012). In each trial, the computer stored the most recent 50 ms of soleus EMG activity (i.e. the background EMG interval), delivered a monophasic stimulus pulse (typically 0.5 ms in duration) through the cuff on the posterior tibial nerve, and stored soleus EMG activity for the next 100 ms. Pulse amplitude was initially set just above M-wave threshold; it was subsequently automatically adjusted by the computer after each trial to maintain M-wave size unchanged throughout the entire period of data collection. Thus, the background EMG (reflecting soleus motoneuron tone at the time of H-reflex elicitation) and the M-wave (reflecting the effective strength of the nerve-cuff stimulus) remained stable throughout data collection.
-Under the control mode, the computer simply digitized and stored the absolute value of EMG activity from the soleus muscle for 100 ms following nerve stimulation. Under the soleus H-reflex conditioning mode, it gave a food-pellet reward 200 ms after stimulation if EMG amplitude in the H-reflex interval (typically 6–10 ms after stimulation) was above (H-reflex up-conditioning mode) or below (H-reflex down-conditioning mode) a criterion value. The criterion was set and adjusted daily as needed so that the rat received an adequate amount of food (∼1000 pellets/day for a 500 g rat). H-reflex size was calculated as average EMG amplitude in the H-reflex interval minus average background EMG amplitude and was expressed in units of average background EMG amplitude.
-Each rat was first exposed to the control mode for 20 days to determine the control H-reflex size, and then exposed to the up-conditioning (HRup rats) or down-conditioning (HRdown rats) mode for 50 days. The last 10 control-mode days and the last 10 up- or down-conditioning days (i.e. days 41–50 of conditioning) provided the data used to determine the impact of H-reflex conditioning on soleus H-reflex size. Average final (days 41–50) H-reflex size was calculated as a percentage of the control H-reflex size. Successful H-reflex conditioning was defined as a change of at least 20% in the correct direction (i.e. to ≥120% for HRup rats, to ≤80% for HRdown rats) (Wolpaw et al., 1993; Chen & Wolpaw, 1995). Thus, the rats fell into five groups: naive control (NC) rats; successful HRup (US) rats; failed HRup (UF) rats; successful HRdown (DS) rats; and failed HRdown rats (DF) rats. “
 
 
 Additional Study Design Notes
-Research Context:
-The primary goal of this study is to investigate if operant conditioning of the soleus H-reflex in rats, reinforced with Vagus Nerve Stimulation (VNS) as a reward, can be used to modify motor unit recruitment patterns. This study seeks to examine whether changes in H-wave amplitude, representing the H-reflex, serve as an indicator of peripheral motor response to conditioning stimuli, potentially leading to applications in neurorehabilitation. The study is motivated by translational applications as described in foundational research on motor learning and reflex plasticity.
-
-Hypotheses Formulation:
-Null Hypothesis (H₀): VNS-based operant conditioning has no effect on the amplitude of the H-reflex (no significant increase/decrease).
-Alternative Hypothesis (Hₐ): VNS-based operant conditioning causes a significant increase (up-conditioning) or decrease (down-conditioning) in the H-reflex amplitude.
-Assumptions and Checks:
-The soleus EMG activity remains consistent within trials, with M-wave amplitude unchanged by external factors.
-Background EMG level stability and absence of confounding noise or signal artifacts in the recording system.
-Normal distribution of reflex amplitude data, allowing for parametric testing when appropriate.
-
-Additional Study Design Notes
-Research Question and Introduction:
-The study investigates how operant conditioning of the soleus H-reflex, enhanced by VNS and food-pellet rewards, impacts motor unit recruitment patterns in rats. The primary outcome is the change in H-wave amplitude, which reflects the peripheral motor response to conditioning stimuli, measured through continuous EMG recordings.
-
-Identify Variables:
-Independent Variable (IV): Vagus Nerve Stimulation (VNS)
-Dependent Variable (DV): H-wave amplitude
-Data Levels:
-IV Type: Continuous
-DV Type: Continuous
-Outcome Measurement:
-The outcome of interest is the H-wave amplitude, assessed through electromyographic recordings during H-reflex trials.
-
-Statistical Analysis:
-The appropriate statistical analysis will be conducted using a two-sample t-test to compare H-wave amplitudes between control and conditioning phases.
-
-Hypotheses Formulation:
-Null Hypothesis (H₀): VNS-based operant conditioning has no effect on the amplitude of the H-reflex.
-Alternative Hypothesis (Hₐ): VNS-based operant conditioning causes a significant increase or decrease in the H-reflex amplitude.
-Hypothesis Testing:
-Statistical testing will be performed using a two-sample t-test to evaluate differences in H-wave amplitudes.
-
 Assumptions Check:
 Normality: The distribution of H-reflex amplitude data should be normal.
 Independence: Each measurement should be independent of the others.
 Homogeneity of Variance: Variances between groups should be equal.
-}
 
-Example Requirements of GUI Interface of Stimulation-Recording System That Will be Used to Conduct and Collect Data From These Experiments:
-{
+Background
+Introduction to EMG and H-Reflex
+Electromyography (EMG) records the electrical activity of muscles, providing insights into neuromuscular function.
+The H-reflex (Hoffmann reflex) is a reflexive muscle response, elicited electrically, that serves as a measure of spinal cord excitability and motor pathway function.
+H-Reflex Significance
+H-reflex conditioning is used in research and clinical settings to understand plasticity in motor pathways.
+It is especially relevant for studying motor control, rehabilitation, and adaptive responses in response to repetitive stimuli or training.
+Time Series in EMG Analysis
+Time series analysis in EMG studies helps capture trends, detect cycles, and identify specific response events like reflexive muscle responses.
+Analysis often involves examining patterns and comparing different time intervals to assess changes over time.
+Goal of Analysis
+The aim of this analysis is to examine changes in H-reflex response amplitude over time as a result of conditioning.
+This involves statistical methods to determine if there is a significant change in H-reflex after conditioning protocols.
 
-
-The system shall have field labeled "Subject" that retrieves its value from an external CSV file and is displayed.
-The system shall have a dropdown labeled "Stage" populated with metadata from an external CSV file and is displayed at the top of the console.
-The system shall have a dropdown labeled "Booth #" populated with metadata from an external CSV file and is displayed at the top of the console.
-The system shall have a field labeled "VNS", which shall automatically pull its value from the CSV file and is displayed at the top of the console.
-The system shall have a field labeled "H-Amp", which shall pull its value from the CSV file and is displayed at the top of the console.
-The system shall have a field labeled "%", representing a percentile, with its value pulled from the external CSV file and is displayed at the top of the console.
-The external metadata source shall be an Excel CSV file named "H-Reflex_Metadata.csv", located in the app’s working directory. The structure of this CSV file is outlined below:
-
-Skeleton Structure of "H-Reflex_Metadata.csv": {
-Subject	Stage	Booth #	VNS	H-Amp (mV)	Percentile (%)	Mode	Reward Given (Yes/No)
-001	1	2	0	10	50	Control	No
-002	2	3	1	30	10	Up-conditioning	Yes
-003	3	1	1	25	15	Down-conditioning	Yes
-004	1	4	0	20	80	Control	No
-005	2	2	1	35	70	Up-conditioning	Yes
-}
-
-The "Trial EMG" plot shall display stimulation signal data using matplotlib, with the x-axis labeled "Time (ms)" and the y-axis labeled "EMG (mV)".
-The plot shall cover a 150 ms window, and it shall display the initiation of stimulation with corresponding EMG signals, showing peaks for both the M-Wave and H-Wave.
-The M-Wave shall be identified as the first spike in the motor unit response, and the H-Wave shall be the second spike.
-The system shall have a signal plot labeled "Last 50 Trials" located on the right side of the middle section.
-
-The "Last 50 Trials" plot shall show a scatter plot with the x-axis labeled "Trial #" and the y-axis labeled "EMG (mV)".
-Each trial in the scatter plot shall display data points for identified M-Wave and H-Wave peaks for each trial.
-The system shall display a fitted line representing the threshold for successful VNS administration and plot VNS data points.
-The Bottom Section (Bottom One-Third) of the GUI Console:
-The system shall have a Start/Stop Recording button that, when activated, initiates the recording of EMG data.
-
-The system shall have a signal plot labeled "Filtered Live EMG".
-
-This plot shall continuously display raw EMG data with the x-axis labeled "Time (last 5s)" and the y-axis labeled "EMG (%)".
-The Filtered Live EMG plot shall identify the peaks for M-Wave and H-Wave from continuous data in real-time.
-The system shall include horizontal lines representing the Initiation Threshold to identify when a trial begins.
-The system shall initiate a trial in the Trial EMG and Last 50 Trials plots only if the continuous EMG data falls within the Initiation Window for 2.5-2.7 seconds.
-Additional Technical Requirements:
-Data Sampling and Storage:
-The system shall continuously sample EMG activity at 5000 Hz during data collection.
-All data (EMG, M-Wave, H-Wave, and VNS status) shall be stored in a local data file, and the system must maintain data accuracy in the range of 0.5–0.8 milliseconds for motor unit firing identification.
-Signal Processing and Trial Logic:
-The system shall compute the H-Reflex size as the difference between the EMG amplitude during the H-reflex interval (6–10 ms) and the background EMG amplitude.
-Each trial shall include the last 50 ms of background EMG, the stimulation pulse, and the subsequent 100 ms of EMG data for analysis.
-Trials shall be triggered based on a random, varying 2.5–2.7 second interval during which the EMG stays within a predefined threshold range for trial initiation.
-A successful VNS stimulation trial shall be recorded if the amplitude meets the preset Success Threshold.
-
-
-
-Filtered Live EMG Plot:{
-The system shall include a plot labeled "Filtered Live EMG" that continuously receives, stores, and displays raw EMG data.
-The horizontal axis of the plot shall be labeled "Time (last 5s)", and the vertical axis shall be labeled "EMG (%)".
-The system shall use the emgdecomp library to identify motor unit firings and label the M-wave and H-wave peaks within the data.
-The plot shall include two horizontal lines representing the Initiation Threshold.
-A trial shall only be initiated and fed into the Trial EMG and Last 50 Trials plots if the raw EMG data falls within the Initiation Window (2.5-2.7s).
-
-
-}
-
-}
+Hypothesis Testing for H-Reflex EMG Data
+Hypothesis Setup
+To determine if H-reflex conditioning has an effect, we formulate:
+Null Hypothesis (H₀): H-reflex amplitude does not change with conditioning.
+Alternative Hypothesis (H₁): H-reflex amplitude changes significantly due to conditioning.
+Statistical Tests
+Time Series Stationarity Check:
+Check if the EMG data is stationary (i.e., mean and variance are constant over time) using the Augmented Dickey-Fuller (ADF) test. This ensures reliable statistical modeling.
+Autocorrelation Analysis:
+Autocorrelation helps confirm repetitive patterns in time series data. We analyze auto-correlation to detect cycles or systematic responses in the H-reflex data.
+Mean Comparison Tests:
+We can use a paired t-test (or non-parametric tests if data distribution is non-normal) to compare pre- and post-conditioning H-reflex amplitudes.
+Confidence Intervals:
+Calculating confidence intervals for mean H-reflex amplitude helps validate the hypothesis test by showing the range within which the true mean likely falls.
+Decision Criteria
+Set a threshold p-value (commonly 0.05) for significance. If the p-value is less than 0.05, we reject the null hypothesis, concluding conditioning had a measurable effect.
+"Decision: p < 0.05 to reject H₀."
+"Conclusion: Conditioning effect on H-reflex if p-value is significant."
 
 
