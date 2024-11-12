@@ -4,6 +4,9 @@ Tasks for volunteers
 3. Dig into TCP Commands with Python for Hardware-Software Communication.
 
 
+Ask Openephys about compatibility with RHX
+Does openephys about fast settle feature
+
 Sprint
 - Interviews
 - H-Reflex Conditioning Hardware-Software Integration
