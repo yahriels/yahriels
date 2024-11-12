@@ -39,25 +39,6 @@ Goal of Analysis
 - The aim of this analysis is to examine changes in H-reflex response amplitude over time as a result of conditioning.
 - This involves statistical methods to determine if there is a significant change in H-reflex after conditioning protocols.
 
-Hypothesis Testing for H-Reflex Conditioning in EMG Data
-Hypothesis Setup
-- To determine if H-reflex conditioning has an effect, we formulate:
-    - Null Hypothesis (H₀): H-reflex amplitude does not change with conditioning.
-    - Alternative Hypothesis (H₁): H-reflex amplitude changes significantly due to conditioning.
-Statistical Tests
-- Time Series Stationarity Check:
-    - Check if the EMG data is stationary (i.e., mean and variance are constant over time) using the Augmented Dickey-Fuller (ADF) test. This ensures reliable statistical modeling.
-- Autocorrelation Analysis:
-    - Autocorrelation helps confirm repetitive patterns in time series data. We analyze auto-correlation to detect cycles or systematic responses in the H-reflex data.
-- Mean Comparison Tests:
-    - We can use a paired t-test (or non-parametric tests if data distribution is non-normal) to compare pre- and post-conditioning H-reflex amplitudes.
-- Confidence Intervals:
-    - Calculating confidence intervals for mean H-reflex amplitude helps validate the hypothesis test by showing the range within which the true mean likely falls.
-Decision Criteria
-- Set a threshold p-value (commonly 0.05) for significance. If the p-value is less than 0.05, we reject the null hypothesis, concluding conditioning had a measurable effect.
-- "Decision: p < 0.05 to reject H₀."
-- "Conclusion: Conditioning effect on H-reflex if p-value is significant."
-
 }
 
 
