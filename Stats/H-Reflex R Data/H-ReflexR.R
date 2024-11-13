@@ -1,132 +1,106 @@
-# Load required libraries
+# Load necessary libraries
 library(ggplot2)
-library(forecast)
-library(tseries)
+library(dplyr)
+library(pwr)
+library(lme4)
+library(car)
 
-# Parameters for simulated data generation
-sampling_rate <- 10000   # samples per second
-duration <- 0.02         # 20 milliseconds
-time <- seq(0, duration, length.out = sampling_rate * duration + 1)
+# Set seed for reproducibility
+set.seed(42)
 
-# Function to generate EMG signal with different conditioning states
-generate_emg_signal <- function(condition = "baseline", type = "additive") {
-  stimulus_start <- round(0.002 * sampling_rate)
-  stimulus_duration <- round(0.0002 * sampling_rate)
-  stimulus_signal <- rep(0, length(time))
-  stimulus_signal[stimulus_start:(stimulus_start + stimulus_duration - 1)] <- 1
-  
-  m_wave_center <- round(0.006 * sampling_rate)
-  m_wave_std <- 0.0007 * sampling_rate
-  m_wave <- exp(-0.55 * ((time * sampling_rate - m_wave_center) / m_wave_std)^2)
-  
-  h_wave_center <- round(0.0201 * sampling_rate)
-  h_wave_std <- 0.00025 * sampling_rate
-  h_wave_amplitude <- ifelse(condition == "baseline", 1, ifelse(condition == "downconditioning", 0.7, 1.3))
-  h_wave <- exp(-0.5 * ((time * sampling_rate - h_wave_center) / h_wave_std)^2)
-  
-  emg_signal <- stimulus_signal + m_wave * 0.15 + h_wave * h_wave_amplitude
-  noise <- rnorm(length(emg_signal), mean = 0, sd = 0.1)
-  
-  if (type == "additive") {
-    return(emg_signal + noise)  # Additive model
-  } else if (type == "multiplicative") {
-    return(emg_signal * (1 + noise))  # Multiplicative model
-  }
-}
-
-# Generate data for baseline, down-conditioning, and up-conditioning
-baseline_signal <- generate_emg_signal("baseline")
-downconditioning_signal <- generate_emg_signal("downconditioning")
-upconditioning_signal <- generate_emg_signal("upconditioning")
-
-# Visualize EMG signals
-plot_emg_signal <- function(signal, title) {
-  emg_data <- data.frame(Time = time * 1000, EMG_Signal = signal)
-  ggplot(emg_data, aes(x = Time, y = EMG_Signal)) +
-    geom_line(color = "black") +
-    labs(x = "Time (ms)", y = "Amplitude (mV)", title = title) +
-    theme_minimal() +
-    theme(panel.grid.major = element_line(color = "gray", linetype = "dashed"))
-}
-
-plot_emg_signal(baseline_signal, "Baseline Signal")
-plot_emg_signal(downconditioning_signal, "Down-conditioning Signal")
-plot_emg_signal(upconditioning_signal, "Up-conditioning Signal")
-
-# Convert signals to time series (sampling frequency 10 Hz for demonstration)
-baseline_ts <- ts(baseline_signal, frequency = 10)
-downconditioning_ts <- ts(downconditioning_signal, frequency = 10)
-upconditioning_ts <- ts(upconditioning_signal, frequency = 10)
-
-# Check stationarity with Augmented Dickey-Fuller Test
-adf.test(baseline_ts)       # Null Hypothesis: non-stationary
-adf.test(downconditioning_ts)
-adf.test(upconditioning_ts)
-
-# Autocorrelation and Partial Autocorrelation Analysis
-acf(baseline_ts, main = "ACF of Baseline Signal")
-pacf(baseline_ts, main = "PACF of Baseline Signal")
-
-# ARIMA Modeling and Forecasting
-fit_baseline <- auto.arima(baseline_ts)
-fit_down <- auto.arima(downconditioning_ts)
-fit_up <- auto.arima(upconditioning_ts)
-
-# Forecast next 5 time points
-forecast_baseline <- forecast(fit_baseline, h = 5)
-forecast_down <- forecast(fit_down, h = 5)
-forecast_up <- forecast(fit_up, h = 5)
-
-# Plot forecasted results
-autoplot(forecast_baseline) + ggtitle("Baseline Forecast")
-autoplot(forecast_down) + ggtitle("Down-conditioning Forecast")
-autoplot(forecast_up) + ggtitle("Up-conditioning Forecast")
-
-## Additional Statistical Tests
-
-
-# Compare mean H-reflex amplitudes: Paired T-Test for Baseline vs. Down-conditioning
-baseline_mean <- mean(baseline_signal)
-downconditioning_mean <- mean(downconditioning_signal)
-upconditioning_mean <- mean(upconditioning_signal)
-
-# Paired t-test for baseline vs. down-conditioning
-t_test_down <- t.test(baseline_signal, downconditioning_signal, paired = TRUE)
-t_test_up <- t.test(baseline_signal, upconditioning_signal, paired = TRUE)
-
-# Display t-test results
-print("Paired T-Test Results for Baseline vs Down-conditioning:")
-print(t_test_down)
-
-print("Paired T-Test Results for Baseline vs Up-conditioning:")
-print(t_test_up)
-
-# Calculate 95% Confidence Interval for H-reflex amplitude means
-conf_interval_baseline <- t.test(baseline_signal)$conf.int
-conf_interval_down <- t.test(downconditioning_signal)$conf.int
-conf_interval_up <- t.test(upconditioning_signal)$conf.int
-
-print("95% Confidence Interval for Baseline Mean:")
-print(conf_interval_baseline)
-
-print("95% Confidence Interval for Down-conditioning Mean:")
-print(conf_interval_down)
-
-print("95% Confidence Interval for Up-conditioning Mean:")
-print(conf_interval_up)
-
-# Decision Criteria
-print("Down-conditioning Decision: p >= 0.05 - No measurable effect of conditioning on H-reflex for Down-conditioning")
-print("Up-Conditioning Decision: p < 0.05 - Conditioning had a measurable effect on H-reflex (Reject H₀ for Up-conditioning)")
-
-# Boxplot Comparison for H-reflex Amplitudes
-emg_data <- data.frame(
-  Condition = factor(rep(c("Baseline", "Down-conditioning", "Up-conditioning"), each = length(baseline_signal))),
-  H_reflex_Amplitude = c(baseline_signal, downconditioning_signal, upconditioning_signal)
+# Simulate sample data
+n_per_group <- 15  # Number of participants per group
+groups <- c("HROC_only", "VNS_only", "HROC_VNS", "SCI_only")
+data <- data.frame(
+  ID = 1:(n_per_group * length(groups)),
+  Group = rep(groups, each = n_per_group),
+  Pre_H_Reflex = rnorm(n_per_group * length(groups), mean = 0.8, sd = 0.1),
+  Post_H_Reflex = c(
+    rnorm(n_per_group, mean = 0.85, sd = 0.12),
+    rnorm(n_per_group, mean = 0.88, sd = 0.12),
+    rnorm(n_per_group, mean = 1.0, sd = 0.12),
+    rnorm(n_per_group, mean = 0.78, sd = 0.12)
+  )
 )
 
-ggplot(emg_data, aes(x = Condition, y = H_reflex_Amplitude, fill = Condition)) +
-  geom_boxplot() +
-  labs(title = "H-reflex Amplitude by Condition", x = "Condition", y = "Amplitude (mV)") +
-  theme_minimal()
+# View summary statistics
+print(summary(data))
 
+# Visualize pre- and post-intervention data by group
+plot <- ggplot(data, aes(x = Group, y = Post_H_Reflex, fill = Group)) +
+  geom_boxplot() +
+  theme_minimal() +
+  labs(title = "Post H-Reflex Amplitudes Across Treatment Groups",
+       y = "H-Reflex Amplitude (mV)")
+print(plot)
+
+# Perform paired t-tests within each group
+results_t_tests <- data %>%
+  group_by(Group) %>%
+  summarise(
+    t_test_result = list(t.test(Post_H_Reflex, Pre_H_Reflex, paired = TRUE)),
+    p_value = t_test_result[[1]]$p.value
+  )
+print(results_t_tests)
+
+# Run one-way ANOVA to compare means between groups
+anova_result <- aov(Post_H_Reflex ~ Group, data = data)
+print(summary(anova_result))
+# Df Sum Sq Mean Sq F value   Pr(>F)    
+# Group        3 0.4699 0.15662   12.65 2.01e-06 ***
+#   Residuals   56 0.6932 0.01238      
+
+# Assumption checks for ANOVA
+
+# Shapiro-Wilk test for normality
+shapiro_results <- by(data$Post_H_Reflex, data$Group, function(x) shapiro.test(x))
+print(shapiro_results) # p-value > 0.05, Normal Distribution
+# Shapiro-Wilk normality test
+# data:  x
+# W = 0.94627, p-value = 0.4677
+
+# QQ plot for residuals
+qqnorm(residuals(anova_result))
+qqline(residuals(anova_result), col = "red")
+
+# Residuals vs fitted values plot
+plot(anova_result, which = 1)
+
+# Homogeneity of variances using Levene's Test
+levene_test_result <- leveneTest(Post_H_Reflex ~ Group, data = data)
+print(levene_test_result)
+
+# H0: Population variances are equal (p-value = 0.1481)
+# Fail to reject null hypothesis that variances are equal
+
+
+# Check independence (assumed met due to random sampling)
+
+# If assumptions are met, proceed to Tukey's post-hoc test
+
+# Tukey's HSD test for post-hoc comparisons
+tukey_result <- TukeyHSD(anova_result)
+print(tukey_result)
+# Tukey multiple comparisons of means
+# 95% family-wise confidence level
+# Fit: aov(formula = Post_H_Reflex ~ Group, data = data)
+
+# $Group
+# diff         lwr          upr     p adj
+# HROC_VNS-HROC_only  0.13534113  0.02777135  0.242910917 0.0081231
+# SCI_only-HROC_only -0.11401673 -0.22158651 -0.006446947 0.0337584
+# VNS_only-HROC_only  0.02163056 -0.08593922  0.129200342 0.9508037
+# SCI_only-HROC_VNS  -0.24935786 -0.35692765 -0.141788082 0.0000005
+# VNS_only-HROC_VNS  -0.11371057 -0.22128036 -0.006140793 0.0344087
+# VNS_only-SCI_only   0.13564729  0.02807751  0.243217071 0.0079485
+
+# Conduct power analysis
+effect_size <- cohen.ES(test = "f", size = "medium")
+power_analysis <- pwr.anova.test(k = length(groups), f = effect_size$effect.size, sig.level = 0.05, power = 0.8)
+print(power_analysis)
+
+# Write an explanation of results
+cat("\nExplanation of Results:\n")
+cat("The ANOVA results indicate whether there is a statistically significant difference in H-reflex amplitude across the four groups.\n")
+cat("If the p-value from the ANOVA is less than 0.05, we reject the null hypothesis, which states there is no difference between groups.\n")
+cat("The post-hoc Tukey test will specify which groups have significant differences in H-reflex amplitude.\n")

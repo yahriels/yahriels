@@ -1,4 +1,4 @@
-I am making a research poster that is based on the same project as this document with this following information:{Research Question: Can VeHROC, a novel therapy combining HROC and VNS, more effectively improve recovery of hindlimb function compared to HROC or VNS alone in a rat model of chronic incomplete SCI?
+I am making a research poster that is based on the same project as this document here:{https://github.com/yahriels/yahriels/blob/main/Workspace/ProjectNarrative_VeHROC%20v3.pdf} with this following information:{Research Question: Can VeHROC, a novel therapy combining HROC and VNS, more effectively improve recovery of hindlimb function compared to HROC or VNS alone in a rat model of chronic incomplete SCI?
 Background: SCI is a prevalent condition with limited treatment options, imposing a significant burden on patients. Spasticity is a common and debilitating symptom of SCI, resulting from loss of inhibitory input from the brain to the spinal cord. Vagus Nerve Stimulation-enhanced H-reflex Operant Conditioning (VeHROC))  combines HROC and VNS to enhance recovery after SCI. HROC directs plasticity in specific spinal circuits, while VNS enhances these effects by increasing plasticity in the CNS to reduce spasticity.
 Preclinical Observational Study (Simulated Data):Evaluating the efficacy of VeHROC to improve locomotion in a clinically relevant rat model of incomplete SCI. A Cohort Study Design with subjects exposed to VNS and SHAM.
 Sampling Method : Stratified Random Sampling to ensure each subgroup is well represented.
@@ -43,7 +43,7 @@ M.	Address the potential pitfalls and problems of your project or your solutions
 
 
 
-EXECUTIVE TASK: 
+EXECUTIVE TASK: Help me make an R code that performs the statistical tests I need and analysis for my research poster. Give me the final complete R code as a complete single R code not in code snippets.
 Think about the responses, then give me the complete and full solution based on my project notes. 
 
 This project and set of experiments is heavily based on the pre-clinical model of this paper: 
@@ -204,3 +204,82 @@ Conditioning of the soleus significantly alters the H-Reflex amplitude from base
 Clinical Relevance: These findings highlight the potential for H-reflex conditioning in motor rehabilitation strategies and improving adaptive responses.
 
  }
+
+
+R Code To get you started:{
+# Load necessary libraries
+library(ggplot2)
+library(dplyr)
+library(pwr)
+library(lme4)
+library(car)
+
+# Set seed for reproducibility
+set.seed(42)
+
+# Simulate sample data
+n_per_group <- 15  # Number of participants per group
+groups <- c("HROC_only", "VNS_only", "HROC_VNS", "SCI_only")
+data <- data.frame(
+  ID = 1:(n_per_group * length(groups)),
+  Group = rep(groups, each = n_per_group),
+  Pre_H_Reflex = rnorm(n_per_group * length(groups), mean = 0.8, sd = 0.1),
+  Post_H_Reflex = c(
+    rnorm(n_per_group, mean = 0.85, sd = 0.12),
+    rnorm(n_per_group, mean = 0.88, sd = 0.12),
+    rnorm(n_per_group, mean = 1.0, sd = 0.12),
+    rnorm(n_per_group, mean = 0.78, sd = 0.12)
+  )
+)
+
+# View summary statistics
+print(summary(data))
+
+# Visualize pre- and post-intervention data by group
+plot <- ggplot(data, aes(x = Group, y = Post_H_Reflex, fill = Group)) +
+  geom_boxplot() +
+  theme_minimal() +
+  labs(title = "Post H-Reflex Amplitudes Across Treatment Groups",
+       y = "H-Reflex Amplitude (mV)")
+print(plot)
+
+# Perform paired t-tests within each group
+results_t_tests <- data %>%
+  group_by(Group) %>%
+  summarise(
+    t_test_result = list(t.test(Post_H_Reflex, Pre_H_Reflex, paired = TRUE)),
+    p_value = t_test_result[[1]]$p.value
+  )
+print(results_t_tests)
+
+# Run one-way ANOVA to compare means between groups
+anova_result <- aov(Post_H_Reflex ~ Group, data = data)
+print(summary(anova_result))
+
+# Check assumptions for ANOVA
+levene_test_result <- leveneTest(Post_H_Reflex ~ Group, data = data)
+print(levene_test_result)
+
+# Conduct power analysis
+effect_size <- cohen.ES(test = "f", size = "medium")
+power_analysis <- pwr.anova.test(k = length(groups), f = effect_size$effect.size, sig.level = 0.05, power = 0.8)
+print(power_analysis)
+
+# Fit linear mixed-effects model
+lme_model <- lmer(Post_H_Reflex ~ Group + (1 | ID), data = data)
+print(summary(lme_model))
+
+# Obtain ANOVA table for the mixed model
+anova_lme <- anova(lme_model)
+print(anova_lme)
+
+
+# Write an explanation of results
+cat("\nExplanation of Results:\n")
+cat("The ANOVA results indicate whether there is a statistically significant difference in H-reflex amplitude across the four groups.\n")
+cat("If the p-value from the ANOVA is less than 0.05, we reject the null hypothesis, which states there is no difference between groups.\n")
+cat("The post-hoc Tukey test will specify which groups have significant differences in H-reflex amplitude.\n")
+
+}
+
+Take this code and keep everything exactly the same, but I want you to make sure you run through all assumption checks and ad a Tukey test.
