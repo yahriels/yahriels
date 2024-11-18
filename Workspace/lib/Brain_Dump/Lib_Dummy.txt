@@ -1,17 +1,33 @@
-Tasks for volunteers
-1. Go over Materials in Presentation focusing on the 1st half.
-2. Work on Installing Software & Drivers on Desktop for Intan System, and looking at Intan Manuals.
-3. Dig into TCP Commands with Python for Hardware-Software Communication.
+Python Code to read in RHD Files. 
+
+Python Code to stream file LIVE
+
+Talk to Jonathon about getting admin rights to Volunteer Computer
+
+Read Project Narrative In-depthly
+
+Want to H5 file format
+
+Map out file nested structure for a given rat on a given session
+
+Requirements for Intan RHX Interface 
+- Contact David for example of mototrack file
+    - Similar to file structure we wanna use for this
+        - Session > Trial > Raw Data > Time 
+- Focus on File Structure 
+
+
+
+Volunteers Project Idea
+- Data Visualization
+- Data Saving
+- Streaming Data from TCP to Generate Plot in PySide6 GUI
+- Incorporate Features into GUI
+- Down The Line: Openephys Project
+
 
 
 Sprint
-- Interviews
-- H-Reflex Conditioning Hardware-Software Integration
-- QE aims
-- Stats Quiz Study
-- Stats Study Research Design and Presentations
-
-- PicoScope Waveform Python Executable 
 
 
 In-Progress
