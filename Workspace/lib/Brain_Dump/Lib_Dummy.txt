@@ -1,13 +1,15 @@
-Python Code to read in RHD Files. 
+Sprint
+- Talk to Jonathan about getting lab user with admin access set-up
+- Talk to David about getting the Mototrack file structure
+- Talk to Jonathan about breakout and connecting stimulation port directly feeded into the headcap
+- Read Project Narrative In-depthly
 
-Python Code to stream file LIVE
-
-Talk to Jonathon about getting admin rights to Volunteer Computer
-
-Read Project Narrative In-depthly
+Intan Project Tasks:
+- Python Code to read in RHD Files. 
+- Python Code to stream file LIVE
+- Talk to Jonathon about getting admin rights to Volunteer Computer
 
 Want to H5 file format
-
 Map out file nested structure for a given rat on a given session
 
 Requirements for Intan RHX Interface 
@@ -25,16 +27,6 @@ Volunteers Project Idea
 - Incorporate Features into GUI
 - Down The Line: Openephys Project
 
-
-
-Sprint
-
-
-In-Progress
-- Waiting to hear back from manufacturer about suturing needles
-- Interview CS Students
-- H-Reflex Operant Conditioning Architecture
-- Schematics of with Hardware and Instrumentation
 
 
 
