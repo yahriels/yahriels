@@ -355,27 +355,21 @@ plot(model_exp_los)
 # Load dataset
 lowbwt <- read_excel("lowbwt.xls")
 
-# (a) Construct a model using gestational age and Apgar score to predict systolic blood pressure
-model_11 <- lm(sbp ~ gestage + apgar5, data = lowbwt)
-summary(model_11)
+shapiro.test(lowbwt$sbp)
+shapiro.test(lowbwt$gestage)
 
-# (b) Test the null hypothesis that b1 = 0
-# When we check the p-value for gestage, we see that it is below the significance level, just like the overall p-value from the summary. We reject the null hypothesis suggesting statistical significance.
+lr <- lm(lowbwt$sbp~lowbwt$apgar5+lowbwt$gestage)
+summary(lr)
 
-# (c) Interpretation of b1 and b2 (gestage and apgar5 coefficients)
-# From the summary, we can see that both b1 and b2 are positive values for positive correlations, for b1 it is significant with a p-value below .05, while b2 is not with a p-value over the significance level. 
+new <- data.frame(31,7)
+colnames(new) <- c('gestage','apgar5')
+new
+head(predict(lr,newdata=new),n=1)
 
+y <- 9.8 + 0.4875*7+1.1848*31 
+y
 
-# (d) Predicted systolic BP for gestage = 31 and apgar5 = 7
-predict(model_11, data.frame(gestage = 31, apgar5 = 7))
-
-# (e) Interpret R-squared
-# From the summary output, we see a very low R^2 value, suggesting that our model has a low amount of explained variance. While error is still present, it is not explained by the model.
-
-# (f) Assumption check (normality of residuals)
-par(mfrow = c(2, 2))
-plot(model_11)
-
+plot(lr) 
 ```
 
 # Question 12
@@ -434,58 +428,51 @@ cat("The treatment group difference in MDI scores is not statistically significa
 
 # Question 14
 ```{r, out.width="60%",}
-# a. Scatter plot
-plot(hospital$salary, hospital$expadm, main = "Expense per Admission vs Salary", xlab = "Salary", ylab = "Expense per Admission")
+ggplot(hospital) + geom_point(aes(x=expadm,y=salary)) + 
+  ggtitle('Salary vs Expense') + ylab('Salary in USD') + 
+  xlab('Expenses in USD')
 
-# b. Multiple regression
-model9 <- lm(expadm ~ los + salary, data = hospital)
-summary(model9)
+lr1 <- lm(expadm~salary,data=hospital)
+summary(lr1)
 
-# c. 
-# Yes, the addition of length of stay does make the model better. From the summary we can see that the p-values for b1 and overall are well beloe 0.05, suggesting they have a high significance value. The R^2 value is also high, suggesting a high amount of variance in the model can be explained. 
+lr2 <- lm(expadm~los,data=hospital)
+summary(lr2)
 
+lr3 <- lm(expadm~los+salary+los*salary,data=hospital)
+summary(lr3)
+
+
+anova(lr1, lr2, lr3)
+
+AIC(lr1, lr2, lr3)
 ```
 
 # Question 15
 ```{r, out.width="60%",}
 # Load necessary library and dataset
 detroit <- read_excel("detroit.xls")
-summary(detroit)
-
-# Part a: Fit a multiple linear regression model with homicide as the dependent variable
-lm_homicide <- lm(homicide ~ register + police + unemp + weekly, data = detroit)
-
-# Display the summary of the model
-summary_homicide <- summary(lm_homicide)
-print(summary_homicide)
-
-# Part b: Identify significant variables
-cat("\nSignificant variables in the model:\n")
-significance_threshold <- 0.05
-significant_vars <- summary_homicide$coefficients[, "Pr(>|t|)"] < significance_threshold
-print(names(summary_homicide$coefficients)[significant_vars])
-
-# Part c: Model selection (explanation added)
-cat("\nExplanation for the best model:\n")
-cat("The best model includes all four variables since the overall p-value is significant (p =", 
-    round(summary_homicide$fstatistic[3], 5), ") and R-squared =", 
-    round(summary_homicide$r.squared, 4), "indicating a high proportion of variance explained.\n")
-
-# Part d: Coefficients explanation
-cat("\nCoefficients explanation:\n")
-cat("Intercept (b0):", round(summary_homicide$coefficients["(Intercept)", "Estimate"], 2), "- Baseline homicide rate.\n")
-cat("b1 (register):", round(summary_homicide$coefficients["register", "Estimate"], 4), "- Increase in homicide rate per additional 100,000 handgun registrations.\n")
-cat("b2 (police):", round(summary_homicide$coefficients["police", "Estimate"], 4), "- Change in homicide rate per additional 100,000 police officers.\n")
-cat("b3 (unemp):", round(summary_homicide$coefficients["unemp", "Estimate"], 4), "- Change in homicide rate per 1% increase in unemployment.\n")
-cat("b4 (weekly):", round(summary_homicide$coefficients["weekly", "Estimate"], 4), "- Change in homicide rate per increase in average weekly earnings.\n")
-
-# Part e: R-squared explanation
-cat("\nR-squared explanation:\n")
-cat("The R-squared value is", round(summary_homicide$r.squared, 4), 
-    "which indicates that", round(summary_homicide$r.squared * 100, 2), 
-    "% of the variance in the homicide rate is explained by the model.\n")
 
 
+lr <- lm(homicide~register+weekly+unemp+police,data=detroit)
+summary(lr)
+
+vif(lr)
+
+lr1 <- lm(homicide~register+weekly+unemp,data=detroit)
+vif(lr1)
+summary(lr1)
+
+
+lr2 <- lm(homicide~register+police+unemp,data=detroit)
+vif(lr2)
+summary(lr2)
+
+lr3 <- lm(homicide~register,data=detroit)
+anova(lr,lr1,lr2,lr3)
+
+AIC(lr, lr1, lr2, lr3)
+
+summary(lr3)
 
 ```
 
@@ -549,30 +536,47 @@ predict(model_18a_age, newdata=data.frame(age=50, sex=0, race=0), type="response
 cyto <- read_excel("cyto.xls")
 view(cyto)
 
-# a) Survival curves for two treatment groups
-cyto_surv <- Surv(cyto$time, cyto$censor)
-surv_fit <- survfit(cyto_surv ~ cyto$group)
-plot(surv_fit, col=c("red", "blue"))
+# Part A:
+km.cyto <- survfit(Surv(time[group==1], censor[group==1]) ~ 1, type = "kaplan-meier", data = cyto)
+km.cyto # median censor time is 170 months
+summary(km.cyto)
 
-# b) Compare survival times visually
-# By inspecting the survival plot, we the blue treatment group has a much higher survival time almost 2x more than the other. 
+plot(km.cyto,conf.int=T, xlab="Time (months)", ylab=" % cessation = S(t)", col=c("red"),
+     main="KM-Model", las=1, lwd=2, mark.time=T)
 
-# c) Log-rank test
-survdiff(cyto_surv ~ cyto$group)
-# Based on the summary, we see a p-value below the significance value therefore we reject the null hypothesis. 
+
+km.cyto2 <- survfit(Surv(time[group==2], censor[group==2]) ~ 1, type = "kaplan-meier", data = cyto)
+km.cyto2 # median censor time is 47 months
+
+plot(km.cyto2,conf.int=T, xlab="Time (months)", ylab=" % cessation = S(t)", col=c("red"),
+     main="KM-Model", las=1, lwd=2, mark.time=T)
+
+survdiff(Surv(time, censor)~ group, data=cyto)
 
 ```
 # Question 20
 ```{r, out.width="60%",}
-# a) Survival curves by treatment group
-bladder_surv <- survfit(Surv(time, censor) ~ group, data = bladder)
-plot(bladder_surv, main = "Survival Curves by Treatment Group")
 
-# b) Based on the plot, it doesn't seem like the individuals from one group have a significantly longer time to first recurrence of tumor. As we can tell, the behaviors and trends of both groups are very similar.
+# Survival Curves
+km.bl <- survfit(Surv(time[group==1], censor[group==1]) ~ 1, type = "kaplan-meier", data = bladder)
+km.bl # median censor time is 16 months
 
-# c) 
-survdiff(Surv(time, censor) ~ group, data = bladder)
-# Based on the summary p-value, it is above the significance level and we fail to reject the null hypothesis that the recurrence times are identical between the two groups. 
+summary(km.bl)
+
+plot(km.bl,conf.int=T, xlab="Time (months)", ylab=" % cessation = S(t)", col=c("red"),
+     main="KM-Model", las=1, lwd=2, mark.time=T)
+
+km.b2 <- survfit(Surv(time[group==2], censor[group==2]) ~ 1, type = "kaplan-meier", data = bladder)
+km.b2 # median censor time is 26 months
+summary(km.b2)
+
+
+plot(km.b2,conf.int=T, xlab="Time (months)", ylab=" % cessation = S(t)", col=c("red"),
+     main="KM-Model", las=1, lwd=2, mark.time=T)
+
+
+survdiff(Surv(time, censor)~ group, data=bladder)
+
 ```
 
 
