@@ -1,5 +1,4 @@
 Sprint
-- Talk to Jonathan about getting lab user with admin access set-up
 - Talk to David about getting the Mototrack file structure
 - Talk to Jonathan about breakout and connecting stimulation port directly feeded into the headcap
 - Read Project Narrative In-depthly
@@ -10,7 +9,12 @@ Intan Project Tasks:
 - Talk to Jonathon about getting admin rights to Volunteer Computer
 
 Want to H5 file format
-Map out file nested structure for a given rat on a given session
+Map out file nested structure for a given rat on a given session with universal/standardized naming convention
+Example of how an h5 file might be structured:
+- File: "WeatherData.h5"  
+    - Group: "Temperature" 
+        - Dataset: "CityA_Daily_Max" 
+
 
 Requirements for Intan RHX Interface 
 - Contact David for example of mototrack file
@@ -21,11 +25,10 @@ Requirements for Intan RHX Interface
 
 
 Volunteers Project Idea
-- Data Visualization
-- Data Saving
-- Streaming Data from TCP to Generate Plot in PySide6 GUI
-- Incorporate Features into GUI
-- Down The Line: Openephys Project
+- Live Streaming Data from TCP to Generate Plot in PySide6 GUI
+- Python Codes to read in RHD files, visualize data, and save/store data
+- Front-End GUI Development to incorporate targetted features
+- Down The Line: Integrate Current Intan Set-up with Openephys System
 
 
 
