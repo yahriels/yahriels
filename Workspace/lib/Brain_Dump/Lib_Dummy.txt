@@ -1,13 +1,21 @@
 Sprint
 - Talk to David about getting the Mototrack file structure
 - Talk to Jonathan about breakout and connecting stimulation port directly feeded into the headcap
-- Read Project Narrative In-depthly
+- Complete Soleus Tibial Nerve Surgery (Ask Dr. Tavares if she still wants to harvest sciatic)
 
-Intan Project Tasks:
-- Python Code to read in RHD Files. 
-- Python Code to stream file LIVE
-- Talk to Jonathon about getting admin rights to Volunteer Computer
+- Investigate Muscle Tone and Spasticity in Rat Models 
+    - Read Neuroscience Textbook to get a better idea of what muscle tone is...
 
+
+Practice Rat: NHNCE-173
+
+
+
+Requirements for Intan RHX Interface 
+- Contact David for example of mototrack file
+    - Similar to file structure we wanna use for this
+        - Session > Trial > Raw Data > Time 
+- Focus on File Structure 
 Want to H5 file format
 Map out file nested structure for a given rat on a given session with universal/standardized naming convention
 Example of how an h5 file might be structured:
@@ -16,18 +24,11 @@ Example of how an h5 file might be structured:
         - Dataset: "CityA_Daily_Max" 
 
 
-Requirements for Intan RHX Interface 
-- Contact David for example of mototrack file
-    - Similar to file structure we wanna use for this
-        - Session > Trial > Raw Data > Time 
-- Focus on File Structure 
-
-
 
 Volunteers Project Idea
 - Live Streaming Data from TCP to Generate Plot in PySide6 GUI
 - Python Codes to read in RHD files, visualize data, and save/store data
-- Front-End GUI Development to incorporate targetted features
+- Front-End GUI Development to incorporate targeted features
 - Down The Line: Integrate Current Intan Set-up with Openephys System
 
 
@@ -42,10 +43,26 @@ Backlog
 - Go through Python Stuff
 
 
+----------------------------------------
+PROJECT AIMS
+Aim 1: Clinical Viability/Efficacy of HROC?
+Aim 2: Can VNS Enhance HROC and Replace Food Pellet Reward?
+Aim 3: Therapy changes in plasticity pre/post conditioning phases
+
+Goal: Coordinated Therapy 
+
+Alt: Optimize/personalize parameter sets for Therapy
+Alt: Identify clinically relevant biomarkers
+Alt: Expand VeHROC to other clinically relevant models (SCI, Stroke, PNI, Spasticity/Muscle Tone)
+
+----------------------------------------
 
 
-
-
+Challenges for investigating spasticity in mice
+Compared to other aspects of the upper motor neuron syndrome or spasticity-relevant neurological disorders in general, the research output on spasticity in mice is minimal. There seems to be an experimental roadblock, which impedes further studies. We believe that there are three fundamental challenges for investigating spasticity in mice, which need to solved to generate reliable mouse models: 
+1) a standardized neuroscore, e.g., based on behavioral assessments optimized for specific neurological disorder models, 
+2) a standard protocol for the H-reflex measurement and analysis, and 
+3) a better understanding of the common and differential roles of the pyramidal and extrapyramidal tracts between mice and humans in (recovery of) motor control.
 
 
 

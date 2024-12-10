@@ -1,0 +1,35 @@
+https://github.com/Intan-Technologies/load-rhd-notebook-python
+
+Intan & RHX Manuals
+https://intantech.com/files/Intan_Recording_Controller_user_guide.pdf
+https://intantech.com/files/Intan_RHX_user_guide.pdf
+
+StimJim
+https://bitbucket.org/natecermak/stimjim/src/master/#:~:text=Connect%20the%20Stimjim,typically%20~/Arduino/libraries.
+
+
+I am trying to build a Hardware-Software integration system and to do so I am making a project plan with very focused, simple, and inclusive project plan that only encompasses the most important tasks ranked by priority. 
+
+Here are my notes of tasks. Please organize and give me a project plan with the task, % Complete, Estimated Date, and Description.
+Notes:{
+HROC Software Development Tasks:
+Real-time plotting (intan to HROC application) (Subtask 1.1)
+TCP communication (Subtask 1.1.a)
+Database development (Subtask 1.2)
+
+- Realtime Plotting in GUI 
+- TCP Commands (Hardware-Software Communication)
+
+- Database Development (File Structure Management/Organization)
+- Read, Write, Store/Save File
+- Data Objects in file structure
+- H5 File Format (Dictionary)
+- Convert C# code to Python
+- Open/Merge multiple RHD Files
+- Executable System Directly From Python GUI
+- Live Streaming of Data from Intan -> TCP -> GUI 
+- Visualiation of life data feed to GUI
+- Read/Store Metadata from CSV Directly
+- Front-End GUI Development
+
+}
