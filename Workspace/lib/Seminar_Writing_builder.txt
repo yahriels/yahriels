@@ -45,14 +45,14 @@ Block 3: Purpose of Response AND Review Guidelines
 > Background AND Overview: Create a compelling response for Yahriel Salinas-Reyes' task.
 > Review Criteria AND Additional Details: Follow the provided prompts and guidelines, align with the specific requirements given.
 Block 4: SAMPLE Materials AND Appointed Roles
-> SAMPLE: [Prompt for Yahriel Salinas-Reyes's Response](#prompt-for-yahriel-salinas-reyess-response)
+> SAMPLE: [Prompt for Yahriel Salinas-Reyes's Response](#prompt-for-yahriel-salinas-reyes-response)
 > Template: To be filled with the actual responses based on prompts.
 > Executive Purpose: Craft a compelling narrative for Yahriel Salinas-Reyes.
 > Executive Role: Chief Editor and Reviewer.
 > Executive Tasks: Review, provide feedback, and enhance responses based on prompts.
 
 Block 5: Prompting AND Task Management
-> [Prompt 1](#prompt-for-yahriel-salinas-reyess-response), Review AND Advise, Feedback To MASTER.
+> [Prompt 1](#prompt-for-yahriel-salinas-reyes-response), Review AND Advise, Feedback To MASTER.
 > Collect AND Reflect On Feedback, Prompt 2, Send Command to MASTER.
 > Review AND Confirm, Send Feedback To Executive, Executive Enhance AND Send To MASTER.
 > MASTER as Administrator Will Review AND ACCEPT (Pass to next step) or Deny The Response (Send back to beginning of Block 5 AND Repeat Process) For Final Investigation.
