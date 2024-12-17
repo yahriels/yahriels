@@ -3,11 +3,7 @@ I am writing a "Literature" for a given research topic: {}
 Help me write a response to the following prompts: "Experimental Design:" "Key Findings, Conclusions, Future Directions:" based on the information and my seminar notes given below.
 
 Relevant Paper: {}
-seminar notes: {
 
-
-
-}
 
 
 
