@@ -7,7 +7,6 @@ Sprint
     - Read Neuroscience Textbook to get a better idea of what muscle tone is...
 
 
-Practice Rat: NHNCE-173
 
 
 
@@ -64,7 +63,13 @@ Compared to other aspects of the upper motor neuron syndrome or spasticity-relev
 2) a standard protocol for the H-reflex measurement and analysis, and 
 3) a better understanding of the common and differential roles of the pyramidal and extrapyramidal tracts between mice and humans in (recovery of) motor control.
 
-
+----
+Establishment of SCI models
+For SCI research, it is essential to establish an ideal animal model of SCI. Ideal models should meet the following conditions (Akhtar et al., 2008): 
+(1) simulate damage that is similar to clinical SCI; 
+(2) be controlled, reproducible, and stable; 
+(3) involve a simple technique that is easy to study; 
+(4) the equipment used to make a model is straightforward and quick to produce.
 
 
 

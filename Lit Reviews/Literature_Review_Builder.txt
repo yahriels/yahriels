@@ -1,3 +1,5 @@
+
+
 #!/bin/bash
 
 # MASTER Bash Script for Literature Review Writing
@@ -6,7 +8,7 @@
 
 # Define constants
 AUTHOR="Yahriel Salinas-Reyes"
-PROJECT="Literature Review for H-Reflex Operant Conditioning and Spastic Models in Rodent Rat models"
+PROJECT="Literature Review for Spastic Models and Muscle Tone in Rodent Rat models"
 TASK="Craft a comprehensive literature review aligning with academic standards"
 
 # Function: Generate introduction template
@@ -193,15 +195,21 @@ echo "Literature Review Framework Successfully Generated."
   }
 }
 ---
-I am writing a "Literature" for a given research topic: {Spasticity Models in Rodent Rat Models for H-Reflex Operant Conditioning Therapy}
+I am writing a "Literature" for a given research topic: {Spasticity Models and Muscle Tone in Rodent Rat Models} 
 
+HELP ME FIND NEW SOURCES OF WHERE TO FIND INFORMATION FOR SPASTICITY MODELS IN RODENT RAT MODELS, AND INCLUDE THEM IN THE LITERATURE REVIEW AND CITE THEM.
 
 Relevant Papers: {
+H-Reflex Operant Conditioning Project Narrative: https://github.com/yahriels/yahriels/blob/main/ProjectNarrative_VeHROC%20v3.pdf
+
+Introduction to Spasticity and related mouse models: https://github.com/yahriels/yahriels/blob/main/Introduction_to_Spasticity_and_related_mouse_models.pdf
+https://www.sciencedirect.com/science/article/pii/S0014488620303228
 
 }
 
 
 Help Yahriel Salinas Answer The Prompt, Review The Response, Provide Feedback, Make Corrections, Enhance, and Finalize Yahriel's Best Response For To Prompt..
+HELP ME FIND NEW SOURCES OF WHERE TO FIND INFORMATION FOR SPASTICITY MODELS IN RODENT RAT MODELS, AND INCLUDE THEM IN THE LITERATURE REVIEW AND CITE THEM.
 
 
 
@@ -270,6 +278,26 @@ Review and make changes in regards to the special topic given in the description
 
 
 }
+
+Prompts for Literature Review:{“Can you provide an overview of the main theories and concepts related to [your research topic]?”
+
+“What are the current trends and developments in [your research field]?”
+
+“Can you suggest some key studies or research papers on [specific aspect of your research topic]?”
+
+“What are the main methodologies used in conducting research on [your research topic]?”
+
+“Can you provide a critical analysis of the existing literature on [your research question]?”
+
+“Are there any gaps or areas of controversy in the literature on [your research topic] that need further exploration?”
+
+“What are the key findings and conclusions from the most recent studies on [your research topic]?”
+
+“Can you suggest some reputable journals or publications explore for relevant literature in [your research field]?”
+
+“What are the different perspectives or schools of thought in the literature on [your research topic]?”
+
+“Can you provide a summary of the historical background and evolution of research on [your research topic]?”}
 --------------------
 ++++
 
