@@ -1,7 +1,3 @@
-
-
-#!/bin/bash
-
 # MASTER Bash Script for Literature Review Writing
 # Author: Yahriel Salinas-Reyes
 # Purpose: Generate a framework for literature review

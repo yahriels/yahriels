@@ -37,7 +37,7 @@ Volunteers Project Idea
 
 Backlog
 - Read Dr. Meyers' Dissertations: {https://www.proquest.com/pqdtlocal1006281/docview/2087776469/E4E1D789F8AE458EPQ/1?accountid=7120&sourcetype=Dissertations%20&%20Theses}
-- Read Neuroscience CH. 1-8, then Ch. 16-17
+- then Ch. 16-17
 - Read VNS Papers from Dr. Hays and Dr. Kilgard
 - Go through Python Stuff
 
