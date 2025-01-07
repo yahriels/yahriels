@@ -1,6 +1,6 @@
 # MASTER Bash Script for Literature Review Writing
 # Author: Yahriel Salinas-Reyes
-# Purpose: Generate a framework for literature review and conduct, and produce complete literature review.
+# Purpose: Generate a framework for writing a literature review and then write and complete the literature review.
 
 # Define constants
 AUTHOR="Yahriel Salinas-Reyes"
@@ -196,6 +196,8 @@ I am writing a "Literature" for a given research topic: {Spasticity Models and M
 HELP ME FIND NEW SOURCES OF WHERE TO FIND INFORMATION FOR SPASTICITY MODELS IN RODENT RAT MODELS, AND INCLUDE THEM IN THE LITERATURE REVIEW AND CITE THEM.
 
 Relevant Papers: {
+Literature Review Draft: https://github.com/yahriels/yahriels/blob/main/MuscleToneinRats_LitReview.pdf
+
 H-Reflex Operant Conditioning Project Narrative: https://github.com/yahriels/yahriels/blob/main/ProjectNarrative_VeHROC%20v3.pdf
 
 Introduction to Spasticity and related mouse models: https://github.com/yahriels/yahriels/blob/main/Introduction_to_Spasticity_and_related_mouse_models.pdf
@@ -233,7 +235,7 @@ https://pubmed.ncbi.nlm.nih.gov/7121054/
 https://academic.oup.com/ilarjournal/article/48/4/374/644272?login=true
     - Rat Models of Upper Extremity Impairment in Stroke 
 
-
+PLEASE TRY TO SEARCH SOURCES FOR OTHER RELEVANT SCIENTIFIC PAPERS TO INCLUDE IN THIS LITERATURE REVIEW IN ADDITION TO THESE ONES LISTED ABOVE.
 }
 
 
@@ -248,7 +250,7 @@ SAMPLES:
 Read over these samples 11 times with no distractions, and comprehend everything given in these materials, documents, and links. These are related to the research project and thesis. Then Move on to the next section and task. Cite them as given as in-text citations.
 
 
-
+https://github.com/yahriels/yahriels/blob/main/MuscleToneinRats_LitReview.pdf
 
 
 } 
@@ -305,37 +307,7 @@ Prompts for Literature Review:{“Can you provide an overview of the main theori
 
 “Can you provide a summary of the historical background and evolution of research on [your research topic]?”}
 
-A scientific literature review should:
-• Provide a clear statement of the topical area (scope)
-• Provide a range of research on the topic – and not just the
-“good” data!
-• Critically analyse a selected topic using a published body of
-knowledge (backed-up arguments)
-• Provide an indication of what further research is necessary
-• Identify areas of controversy in the literature  
 
-How to Write a Scientific Literature
-Review?
-Reviewing the literature requires four stages:
-1. Problem formulation - Which topic is being examined and
-why? What aspects will be included/excluded? Define your
-scope
-2. Literature search - Identifying relevant research
-3. Critical analysis – Criticise the experts; identify conflicting
-evidence, assumptions, errors and misconceptions
-4. Evaluation – which authors are most convincing and provide
-the most significant scientific contribution? Have I conducted a
-fair and objective literature review?
-1. Problem Formation
-Ask yourself questions like these:
-• What useful reviews are missing or not up to date in my
-research area?
-• What new review topic would be useful to scientists?
-• Is there a specific aspect of this topic that my literature
-review might help to define?
-eg. critically comparing different methodological approaches,
-contrasting evidence, assessing therapeutic potential, etc.
-• What is the scope of my literature review? Be specific
 
 Key aspects of critical thinking
 • Identify evidence to back-up AND challenge key points
@@ -348,61 +320,14 @@ Key aspects of critical thinking
 
 What should I be asking?
 • Why is the author choosing to use the evidence presented?
-• Is there a hidden agenda? (eg. financial gain)
+• Is there a hidden agenda?
 • Are the sources reliable and objective?
 • Is there bias present?
 • Have all of the points been cited?
 • Is there information missing?
 • Are there conflicting opinions/conclusions?
 And most importantly….
-• Do I agree with these opinions/conclusions?
 
-Before you start writing…
-1. Brainstorm/plan your review
-Allow 10% of your word count for each Introduction and
-Conclusion
-What are the key aspects of your review?
-2. Decide on the number of “topics” you will address based
-on your remaining word count (80%)
-Of the most interesting/relevant topics… how many can you
-address in the allowed word count? Prioritise!
-3. Choose your topics
-Scan the literature, make sure there is enough information out
-there for you to complete a coherent, critical summary of each
-chosen topic
-
-Introduction 
-It is usually easier to write this after the main body…
-Introduce your topic by highlighting the core scientific facts that
-are well backed up and widely accepted
-Highlight the importance of the review – are you assessing
-potential clinical relevance? Gap in research area? New
-perspective?
-What is the core aim of this review? To compare and contrast
-conflicting evidence? To identify under-examined aspects of the
-topic?
-Tell the reader what you are going to talk about… list your
-topics in order!
-
-Writing the Main Body
-Group research topics according to common elements and
-back up main points with research
-• Focus on recent data where possible – scientific fact
-changes/develops over time!
-• Summarize individual studies or articles with as much or as
-little detail as is relevant – detail denotes significance!
-• Tackle one key point per paragraph so as not to overwhelm
-the reader
-• Use sub-headings to group your topics
-• Use diagrams, figures, tables where appropriate
-Additional Sections….
-Usually, a short ABSTRACT (approx. 200 words) is required
-before your literature text to summarise the topics, main
-findings and conclusions from your review
-• This tells the reader exactly what your review contains so that
-they can make an informed decision - if it is relevant or not -
-before reading the full text 
-  
 
 --------------------
 ++++
