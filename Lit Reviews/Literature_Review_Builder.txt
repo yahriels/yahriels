@@ -1,6 +1,6 @@
 # MASTER Bash Script for Literature Review Writing
 # Author: Yahriel Salinas-Reyes
-# Purpose: Generate a framework for literature review
+# Purpose: Generate a framework for literature review and conduct, and produce complete literature review.
 
 # Define constants
 AUTHOR="Yahriel Salinas-Reyes"
@@ -201,6 +201,39 @@ H-Reflex Operant Conditioning Project Narrative: https://github.com/yahriels/yah
 Introduction to Spasticity and related mouse models: https://github.com/yahriels/yahriels/blob/main/Introduction_to_Spasticity_and_related_mouse_models.pdf
 https://www.sciencedirect.com/science/article/pii/S0014488620303228
 
+H-Reflex Conditioning Project: https://physoc.onlinelibrary.wiley.com/doi/full/10.1113/JP283875 
+H-Reflex Conditioning: Goal of research and experiments
+https://physoc.onlinelibrary.wiley.com/doi/full/10.1113/JP278173
+https://www.frontiersin.org/journals/rehabilitation-sciences/articles/10.3389/fresc.2023.1198679/full
+ 
+
+Related papers from Spasticity model in related rodent or rat models
+https://www.sciencedirect.com/science/article/pii/S0014488620303228#s0010
+    - Introduction to spasticity and related mouse models
+        - Similar to what we want, but instead of mouse models we want rat models
+https://journals.lww.com/nrronline/fulltext/2014/09220/evaluation_of_spinal_cord_injury_animal_models.13.aspx
+    - Evaluation of spinal cord injury animal models
+        - *This one is the one with the picture of number of different animal models*
+https://onlinelibrary.wiley.com/doi/epdf/10.1155/2014/354906?src=getftr&utm_source=scopus&getft_integrator=scopus
+    - Pathophysiology of Spasticity:Implications for Neurorehabilitation
+        - General Overview of Spasticity
+https://www.sciencedirect.com/science/article/pii/B9780123742476500183?ref=pdf_download&fr=RR-2&rr=8efde460cb08f079
+    - Chapter 14 - Spinal Cord Injury: experimental animal models and relation to human therapy
+        - General Overview of translational work from animal models to clinically relevant human models
+
+
+https://journals.physiology.org/doi/full/10.1152/jn.01262.2007
+    - Studies on the Spastic Rat: An Adequate Model for Human Spastic Movement Disorder?
+https://www.liebertpub.com/doi/10.1089/neu.1999.16.69?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed
+    - Spasticity in Rats With Sacral Spinal Cord Injury
+https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0144642
+    - Thoracic 9 Spinal Transection-Induced Model of Muscle Spasticity in the Rat: A Systematic Electrophysiological and Histopathological Characterization
+https://pubmed.ncbi.nlm.nih.gov/7121054/
+    - A mechanographic method for measurement of muscle tone in the conscious rat. The calf muscle stretch response in reserpine-induced rigidity
+https://academic.oup.com/ilarjournal/article/48/4/374/644272?login=true
+    - Rat Models of Upper Extremity Impairment in Stroke 
+
+
 }
 
 
@@ -214,32 +247,9 @@ SAMPLES:
 { 
 Read over these samples 11 times with no distractions, and comprehend everything given in these materials, documents, and links. These are related to the research project and thesis. Then Move on to the next section and task. Cite them as given as in-text citations.
 
-H-Reflex Conditioning Project: https://physoc.onlinelibrary.wiley.com/doi/full/10.1113/JP283875 
-
-
-Related papers from Spasticity model in related mouse models
-https://journals.lww.com/nrronline/fulltext/2014/09220/evaluation_of_spinal_cord_injury_animal_models.13.aspx
-    - Evaluation of spinal cord injury animal models
-https://onlinelibrary.wiley.com/doi/epdf/10.1002/dneu.22455?getft_integrator=sciencedirect_contenthosting&src=getftr&utm_source=sciencedirect_contenthosting
-    - The Corticospinal Tract: Evolution, Development,and Human Disorders
-https://onlinelibrary.wiley.com/doi/epdf/10.1155/2014/354906?src=getftr&utm_source=scopus&getft_integrator=scopus
-    - Pathophysiology of Spasticity:Implications for Neurorehabilitation
-https://www.jneurosci.org/content/32/37/12896
-    - Selective Corticospinal Tract Injury in the Rat Induces Primary Afferent Fiber Sprouting in the Spinal Cord and Hyperreflexia
-https://www.intechopen.com/chapters/44780
-    - Evoked EMG Makes Measurement of Muscle Tone Possible by Analysis of the H/M Ratio
-https://www.sciencedirect.com/science/article/pii/S1878747923010498?ref=pdf_download&fr=RR-2&rr=8efde460cb0df079
-    - Now is the Critical Time for Engineered Neuroplasticity
-https://www.sciencedirect.com/science/article/pii/B9780123742476500183?ref=pdf_download&fr=RR-2&rr=8efde460cb08f079
-    - Chapter 14 - Spinal Cord Injury: experimental animal models and relation to human therapy
 
 
 
-Hreflex conditioning
-https://physoc.onlinelibrary.wiley.com/doi/full/10.1113/JP283875 
-https://physoc.onlinelibrary.wiley.com/doi/full/10.1113/JP278173
-https://www.frontiersin.org/journals/rehabilitation-sciences/articles/10.3389/fresc.2023.1198679/full
- 
 
 } 
 Purpose: To Help Yahriel Fill The Prompt
@@ -294,6 +304,106 @@ Prompts for Literature Review:{“Can you provide an overview of the main theori
 “What are the different perspectives or schools of thought in the literature on [your research topic]?”
 
 “Can you provide a summary of the historical background and evolution of research on [your research topic]?”}
+
+A scientific literature review should:
+• Provide a clear statement of the topical area (scope)
+• Provide a range of research on the topic – and not just the
+“good” data!
+• Critically analyse a selected topic using a published body of
+knowledge (backed-up arguments)
+• Provide an indication of what further research is necessary
+• Identify areas of controversy in the literature  
+
+How to Write a Scientific Literature
+Review?
+Reviewing the literature requires four stages:
+1. Problem formulation - Which topic is being examined and
+why? What aspects will be included/excluded? Define your
+scope
+2. Literature search - Identifying relevant research
+3. Critical analysis – Criticise the experts; identify conflicting
+evidence, assumptions, errors and misconceptions
+4. Evaluation – which authors are most convincing and provide
+the most significant scientific contribution? Have I conducted a
+fair and objective literature review?
+1. Problem Formation
+Ask yourself questions like these:
+• What useful reviews are missing or not up to date in my
+research area?
+• What new review topic would be useful to scientists?
+• Is there a specific aspect of this topic that my literature
+review might help to define?
+eg. critically comparing different methodological approaches,
+contrasting evidence, assessing therapeutic potential, etc.
+• What is the scope of my literature review? Be specific
+
+Key aspects of critical thinking
+• Identify evidence to back-up AND challenge key points
+• Detecting inconsistencies and mistakes in authors’ reasoning
+• Detecting bias, premature conclusions, lacking evidence
+• Distinguishing between fact and opinion
+• Evaluating conflicting opinions/research
+• Suggesting new or different solutions
+• Constructing your own arguments and opinions
+
+What should I be asking?
+• Why is the author choosing to use the evidence presented?
+• Is there a hidden agenda? (eg. financial gain)
+• Are the sources reliable and objective?
+• Is there bias present?
+• Have all of the points been cited?
+• Is there information missing?
+• Are there conflicting opinions/conclusions?
+And most importantly….
+• Do I agree with these opinions/conclusions?
+
+Before you start writing…
+1. Brainstorm/plan your review
+Allow 10% of your word count for each Introduction and
+Conclusion
+What are the key aspects of your review?
+2. Decide on the number of “topics” you will address based
+on your remaining word count (80%)
+Of the most interesting/relevant topics… how many can you
+address in the allowed word count? Prioritise!
+3. Choose your topics
+Scan the literature, make sure there is enough information out
+there for you to complete a coherent, critical summary of each
+chosen topic
+
+Introduction 
+It is usually easier to write this after the main body…
+Introduce your topic by highlighting the core scientific facts that
+are well backed up and widely accepted
+Highlight the importance of the review – are you assessing
+potential clinical relevance? Gap in research area? New
+perspective?
+What is the core aim of this review? To compare and contrast
+conflicting evidence? To identify under-examined aspects of the
+topic?
+Tell the reader what you are going to talk about… list your
+topics in order!
+
+Writing the Main Body
+Group research topics according to common elements and
+back up main points with research
+• Focus on recent data where possible – scientific fact
+changes/develops over time!
+• Summarize individual studies or articles with as much or as
+little detail as is relevant – detail denotes significance!
+• Tackle one key point per paragraph so as not to overwhelm
+the reader
+• Use sub-headings to group your topics
+• Use diagrams, figures, tables where appropriate
+Additional Sections….
+Usually, a short ABSTRACT (approx. 200 words) is required
+before your literature text to summarise the topics, main
+findings and conclusions from your review
+• This tells the reader exactly what your review contains so that
+they can make an informed decision - if it is relevant or not -
+before reading the full text 
+  
+
 --------------------
 ++++
 

@@ -1,6 +1,24 @@
+https://www.sciencedirect.com/science/article/pii/S0014488620303228#s0010
+    - Introduction to spasticity and related mouse models
+        - Similar to what we want, but instead of mouse models we want rat models
 https://journals.lww.com/nrronline/fulltext/2014/09220/evaluation_of_spinal_cord_injury_animal_models.13.aspx
     - Evaluation of spinal cord injury animal models
         - *This one is the one with the picture of number of different animal models*
 https://onlinelibrary.wiley.com/doi/epdf/10.1155/2014/354906?src=getftr&utm_source=scopus&getft_integrator=scopus
     - Pathophysiology of Spasticity:Implications for Neurorehabilitation
         - General Overview of Spasticity
+https://www.sciencedirect.com/science/article/pii/B9780123742476500183?ref=pdf_download&fr=RR-2&rr=8efde460cb08f079
+    - Chapter 14 - Spinal Cord Injury: experimental animal models and relation to human therapy
+        - General Overview of translational work from animal models to clinically relevant human models
+
+
+https://journals.physiology.org/doi/full/10.1152/jn.01262.2007
+    - Studies on the Spastic Rat: An Adequate Model for Human Spastic Movement Disorder?
+https://www.liebertpub.com/doi/10.1089/neu.1999.16.69?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed
+    - Spasticity in Rats With Sacral Spinal Cord Injury
+https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0144642
+    - Thoracic 9 Spinal Transection-Induced Model of Muscle Spasticity in the Rat: A Systematic Electrophysiological and Histopathological Characterization
+https://pubmed.ncbi.nlm.nih.gov/7121054/
+    - A mechanographic method for measurement of muscle tone in the conscious rat. The calf muscle stretch response in reserpine-induced rigidity
+https://academic.oup.com/ilarjournal/article/48/4/374/644272?login=true
+    - Rat Models of Upper Extremity Impairment in Stroke 
