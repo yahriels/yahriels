@@ -223,7 +223,8 @@ https://www.sciencedirect.com/science/article/pii/B9780123742476500183?ref=pdf_d
     - Chapter 14 - Spinal Cord Injury: experimental animal models and relation to human therapy
         - General Overview of translational work from animal models to clinically relevant human models
 
-
+https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9597535
+    - Inhibiting Spasticity by Blocking Nerve Signal
 https://journals.physiology.org/doi/full/10.1152/jn.01262.2007
     - Studies on the Spastic Rat: An Adequate Model for Human Spastic Movement Disorder?
 https://www.liebertpub.com/doi/10.1089/neu.1999.16.69?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed
@@ -234,6 +235,8 @@ https://pubmed.ncbi.nlm.nih.gov/7121054/
     - A mechanographic method for measurement of muscle tone in the conscious rat. The calf muscle stretch response in reserpine-induced rigidity
 https://academic.oup.com/ilarjournal/article/48/4/374/644272?login=true
     - Rat Models of Upper Extremity Impairment in Stroke 
+
+
 
 PLEASE TRY TO SEARCH SOURCES FOR OTHER RELEVANT SCIENTIFIC PAPERS TO INCLUDE IN THIS LITERATURE REVIEW IN ADDITION TO THESE ONES LISTED ABOVE.
 }
@@ -274,6 +277,23 @@ Rewrite and Extend and Reorganize the Response and keep the word/character count
 Review and make changes in regards to the special topic given in the description.
 
 
+Introduction
+
+Current Trends and Developments
+
+Key Studies and Methodologies
+
+Critical Analysis of Existing Literature
+
+Gaps and Areas of Controversy
+
+Key Findings and Future Directions
+
+Future research should focus on the following areas:
+
+Conclusion
+
+References
 
 
 

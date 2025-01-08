@@ -12,6 +12,8 @@ https://www.sciencedirect.com/science/article/pii/B9780123742476500183?ref=pdf_d
         - General Overview of translational work from animal models to clinically relevant human models
 
 
+https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9597535
+    - Inhibiting Spasticity by Blocking Nerve Signal
 https://journals.physiology.org/doi/full/10.1152/jn.01262.2007
     - Studies on the Spastic Rat: An Adequate Model for Human Spastic Movement Disorder?
 https://www.liebertpub.com/doi/10.1089/neu.1999.16.69?url_ver=Z39.88-2003&rfr_id=ori%3Arid%3Acrossref.org&rfr_dat=cr_pub++0pubmed
