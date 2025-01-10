@@ -203,11 +203,6 @@ H-Reflex Operant Conditioning Project Narrative: https://github.com/yahriels/yah
 Introduction to Spasticity and related mouse models: https://github.com/yahriels/yahriels/blob/main/Introduction_to_Spasticity_and_related_mouse_models.pdf
 https://www.sciencedirect.com/science/article/pii/S0014488620303228
 
-H-Reflex Conditioning Project: https://physoc.onlinelibrary.wiley.com/doi/full/10.1113/JP283875 
-H-Reflex Conditioning: Goal of research and experiments
-https://physoc.onlinelibrary.wiley.com/doi/full/10.1113/JP278173
-https://www.frontiersin.org/journals/rehabilitation-sciences/articles/10.3389/fresc.2023.1198679/full
- 
 
 Related papers from Spasticity model in related rodent or rat models
 https://www.sciencedirect.com/science/article/pii/S0014488620303228#s0010
@@ -243,7 +238,6 @@ PLEASE TRY TO SEARCH SOURCES FOR OTHER RELEVANT SCIENTIFIC PAPERS TO INCLUDE IN 
 
 
 Help Yahriel Salinas Answer The Prompt, Review The Response, Provide Feedback, Make Corrections, Enhance, and Finalize Yahriel's Best Response For To Prompt..
-HELP ME FIND NEW SOURCES OF WHERE TO FIND INFORMATION FOR SPASTICITY MODELS IN RODENT RAT MODELS, AND INCLUDE THEM IN THE LITERATURE REVIEW AND CITE THEM.
 
 
 
@@ -277,23 +271,6 @@ Rewrite and Extend and Reorganize the Response and keep the word/character count
 Review and make changes in regards to the special topic given in the description.
 
 
-Introduction
-
-Current Trends and Developments
-
-Key Studies and Methodologies
-
-Critical Analysis of Existing Literature
-
-Gaps and Areas of Controversy
-
-Key Findings and Future Directions
-
-Future research should focus on the following areas:
-
-Conclusion
-
-References
 
 
 
