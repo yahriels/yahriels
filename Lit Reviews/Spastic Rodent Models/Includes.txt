@@ -24,3 +24,22 @@ https://pubmed.ncbi.nlm.nih.gov/7121054/
     - A mechanographic method for measurement of muscle tone in the conscious rat. The calf muscle stretch response in reserpine-induced rigidity
 https://academic.oup.com/ilarjournal/article/48/4/374/644272?login=true
     - Rat Models of Upper Extremity Impairment in Stroke 
+
+
+
+
+INCLUDES FROM DESIGN OF EXPERIMENTS:
+I am designing experiments that are based on the research project narrative of this document here:{https://github.com/yahriels/yahriels/blob/main/Workspace/ProjectNarrative_VeHROC%20v3.pdf} with this following information:{Research Question: Can VeHROC, a novel therapy combining HROC and VNS, more effectively improve recovery of hindlimb function compared to HROC or VNS alone in a rat model of chronic incomplete SCI?
+
+This project and set of experiments is inspired on the pre-clinical model of this paper: 
+Motor learning changes the axon initial segment of the spinal motoneuron (Link: https://physoc.onlinelibrary.wiley.com/doi/full/10.1113/JP283875)
+
+This project and set of experiments is heavily motivated and will be applied in the same manner with the goal of translational therapy such as these two papers below.
+Operant conditioning of spinal reflexes: from basic science to clinical therapy (Link: https://www.frontiersin.org/journals/integrative-neuroscience/articles/10.3389/fnint.2014.00025/full)
+Enhancing neurorehabilitation by targeting beneficial plasticity (Link: https://www.frontiersin.org/journals/rehabilitation-sciences/articles/10.3389/fresc.2023.1198679/full)
+H-reflex conditioning during locomotion in people with spinal cord injury (Link: https://physoc.onlinelibrary.wiley.com/doi/full/10.1113/JP278173)
+Motor training induces experience-specific patterns of plasticity across motor cortex and spinal cord (Link: https://journals.physiology.org/doi/full/10.1152/japplphysiol.00515.2006?utm_source=TrendMD&utm_medium=cpc&utm_campaign=Journal_of_Applied_Physiology_TrendMD_0&)
+Operant Conditioning of H-Reflex Can Correct a Locomotor Abnormality after Spinal Cord Injury in Rats - https://www.jneurosci.org/content/26/48/12537
+Operant Conditioning of Rat Soleus H-Reflex Oppositely Affects Another H-Reflex and Changes Locomotor Kinematics - https://www.jneurosci.org/content/31/31/11370
+Operant Conditioning of Reciprocal Inhibition in Rat Soleus Muscle - https://journals.physiology.org/doi/full/10.1152/jn.00253.2006
+Operant conditioning of the soleus H-reflex does not induce long-term changes in the gastrocnemius H-reflexes and does not disturb normal locomotion in humans - https://journals.physiology.org/doi/full/10.1152/jn.00225.2014 

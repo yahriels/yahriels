@@ -1,5 +1,7 @@
-I am making a research poster that is based on the same project as this document here:{https://github.com/yahriels/yahriels/blob/main/Workspace/ProjectNarrative_VeHROC%20v3.pdf} with this following information:{Research Question: Can VeHROC, a novel therapy combining HROC and VNS, more effectively improve recovery of hindlimb function compared to HROC or VNS alone in a rat model of chronic incomplete SCI?
+{
 Background: SCI is a prevalent condition with limited treatment options, imposing a significant burden on patients. Spasticity is a common and debilitating symptom of SCI, resulting from loss of inhibitory input from the brain to the spinal cord. Vagus Nerve Stimulation-enhanced H-reflex Operant Conditioning (VeHROC))  combines HROC and VNS to enhance recovery after SCI. HROC directs plasticity in specific spinal circuits, while VNS enhances these effects by increasing plasticity in the CNS to reduce spasticity.
+Research Question: Can VeHROC, a novel therapy combining HROC and VNS, more effectively improve recovery of hindlimb function compared to HROC or VNS alone in a rat 
+Evaluating the efficacy of VeHROC to improve locomotion in a clinically relevant rat model of incomplete SCI. A Cohort Study Design with subjects exposed to VNS and SHAM. 
 Preclinical Observational Study (Simulated Data):Evaluating the efficacy of VeHROC to improve locomotion in a clinically relevant rat model of incomplete SCI. A Cohort Study Design with subjects exposed to VNS and SHAM.
 Sampling Method : Stratified Random Sampling to ensure each subgroup is well represented.
 Variables (X&Y) and Controls: Independent:
@@ -23,30 +25,26 @@ Methods: Rats dynamically allocated into one of 4 groups:
 Assumption Checks: Normal distribution of H-reflex responses, Stable EMG baseline, Consistent-reliable VNS application //Normality, Independence, Homogeneity of Variance.
 Discussion: VeHROC is an innovative therapeutic strategy that merges two clinically significant interventions: HROC and VNS. This combined approach aims to overcome limitations of each therapy individually and maximize post-SCI recovery. VeHROC is anticipated to improve spinal reflex conditioning and enhance locomotor recovery in rats, supporting the hypothesis that VNS can amplify the spinal conditioning effects of HROC for better functional outcomes after SCI. The study employs a rat model of SCI that closely resembles human conditions, increasing the translational value of the results. If VeHROC proves to be safe and feasible in the pilot clinical trial, outcomes will guide the development of a larger randomized controlled trial.
 Limitations: The therapeutic effects observed in the rat model may not fully translate to human applications. Variability in injury severity and recovery could lead to inconsistent results. VNS-induced noise or artifact in EMG recordings signal could interfere with data accuracy.
-} and I need to complete and fill in these remaining sections:{Generate Sample Data for each group, Statistics, Power Analysis, Hypothesis Testing, Complete R Code, }. 
-The research poster will be graded based on this Rubric:{
-A.	Experimental Questions, indicating Xs and Ys of each question. (3 points)			
-B.	Naming the study design (2 points)
-C.	Naming of the sampling method (2 points)				
-D.	Data levels (2 points)
-E.	Assumption checks (R code) (2 points)
-F.	Choose of correct statistical method(s) with R code
-(2 points)				
-G.	Positive or Negative Controls (2 points)				
-H.	Biological /Technical /Exp replicates (2 points)				
-I.	Calculate the power, sample size and R code (4 points) (justification given if no power can be calculated)
-J.	Explain the R output and p value in writing (4 points)				
-K.	Figure descriptive and/or inferential (at least 2) produced using R studio with R code (6 points)
-L.	Figure legend(s) with simulated or experimental data is indicated (2 points)				
-M.	Address the potential pitfalls and problems of your project or your solutions (2 points)				
+Hypothesis: We hypothesize that VNS can enhance the spinal conditioning effects of HROC to improve functional recovery after SPI. (Significantly alter H-Reflex Amplitude)
+
+Question: Does the “clinically viable” h-reflex conditioning work? In the context of adapting the clinical motivation and models to a pre-clinical study and experimental paradigm.
+Question
+What effect does operant conditioning the soleus have on H-Reflex amplitudes over time?
+
+Hypothesis
+Conditioning of the soleus significantly alters the H-Reflex amplitude from baseline (pre) in post-conditioning (up/down).
+
+Clinical Relevance: These findings highlight the potential for H-reflex conditioning in motor rehabilitation strategies and improving adaptive responses.
+
 }
 
 
 
-EXECUTIVE TASK: Help me make an R code that performs the statistical tests I need and analysis for my research poster. Give me the final complete R code as a complete single R code not in code snippets.
-Think about the responses, then give me the complete and full solution based on my project notes. 
+EXECUTIVE TASK: Help me Design Experiments for this reserach topic and project.
 
-This project and set of experiments is heavily based on the pre-clinical model of this paper: 
+I am designing experiments that are based on the research project narrative of this document here:{https://github.com/yahriels/yahriels/blob/main/Workspace/ProjectNarrative_VeHROC%20v3.pdf} with this following information:{Research Question: Can VeHROC, a novel therapy combining HROC and VNS, more effectively improve recovery of hindlimb function compared to HROC or VNS alone in a rat model of chronic incomplete SCI?
+
+This project and set of experiments is inspired on the pre-clinical model of this paper: 
 Motor learning changes the axon initial segment of the spinal motoneuron (Link: https://physoc.onlinelibrary.wiley.com/doi/full/10.1113/JP283875)
 
 This project and set of experiments is heavily motivated and will be applied in the same manner with the goal of translational therapy such as these two papers below.
@@ -54,29 +52,10 @@ Operant conditioning of spinal reflexes: from basic science to clinical therapy 
 Enhancing neurorehabilitation by targeting beneficial plasticity (Link: https://www.frontiersin.org/journals/rehabilitation-sciences/articles/10.3389/fresc.2023.1198679/full)
 H-reflex conditioning during locomotion in people with spinal cord injury (Link: https://physoc.onlinelibrary.wiley.com/doi/full/10.1113/JP278173)
 Motor training induces experience-specific patterns of plasticity across motor cortex and spinal cord (Link: https://journals.physiology.org/doi/full/10.1152/japplphysiol.00515.2006?utm_source=TrendMD&utm_medium=cpc&utm_campaign=Journal_of_Applied_Physiology_TrendMD_0&)
-
-
-Research Question: Can VeHROC, a novel therapy combining HROC and VNS, more effectively improve recovery of hindlimb function compared to HROC or VNS alone in a rat 
-
-Background: SCI is a prevalent condition with limited treatment options, imposing a significant burden on patients. Spasticity is a common and debilitating symptom of SCI, resulting from loss of inhibitory input from the brain to the spinal cord. Vagus Nerve Stimulation-enhanced H-reflex Operant Conditioning (VeHROC))  combines HROC and VNS to enhance recovery after SCI. HROC directs plasticity in specific spinal circuits, while VNS enhances these effects by increasing plasticity in the CNS to reduce spasticity.
-
-Preclinical Observational Study
-
-Evaluating the efficacy of VeHROC to improve locomotion in a clinically relevant rat model of incomplete SCI. A Cohort Study Design with subjects exposed to VNS and SHAM. 
-Sampling Method : Stratified Random Sampling to ensure each subgroup is well represented.
-
-Independent: 
-VNS Treatment (Ordinal)
-HROC Therapy (Categorical)
-Negative Control:
-Trials with no VNS (SHAM).
-Dependent: 
-H-Reflex Size/Amplitude (Continuous Numeric)
-Positive Control:
-HROC Therapy
-Replicates: Animals are biological replicates of each other
-
-
+Operant Conditioning of H-Reflex Can Correct a Locomotor Abnormality after Spinal Cord Injury in Rats - https://www.jneurosci.org/content/26/48/12537
+Operant Conditioning of Rat Soleus H-Reflex Oppositely Affects Another H-Reflex and Changes Locomotor Kinematics - https://www.jneurosci.org/content/31/31/11370
+Operant Conditioning of Reciprocal Inhibition in Rat Soleus Muscle - https://journals.physiology.org/doi/full/10.1152/jn.00253.2006
+Operant conditioning of the soleus H-reflex does not induce long-term changes in the gastrocnemius H-reflexes and does not disturb normal locomotion in humans - https://journals.physiology.org/doi/full/10.1152/jn.00225.2014 
 
 Excel Sheet: 
 {
@@ -116,170 +95,26 @@ Use the relevant inferential statistical tool to test your hypotheses.
 List the assumptions related to your statistical method and verify that they are met.   
 
 
-A.	Experimental Questions, indicating Xs and Ys of each question. (3 points)
-Poster naming FirstLastName_7340_FINAL poster_FA24 (1 point)				
-B.	Naming the study design (2 points)
-C.	Naming of the sampling method (2 points)				
-D.	Data levels (2 points)
-E.	Assumption checks (R code) (2 points)
+A.	Experimental Questions, indicating Xs and Ys of each question. (3 points)			
+B.	Naming the study design
+C.	Naming of the sampling method 		
+D.	Data levels 
+E.	Assumption checks 
 F.	Choose of correct statistical method(s) with R code
-(2 points)				
-G.	Positive or Negative Controls (2 points)				
-H.	Biological /Technical /Exp replicates (2 points)				
-I.	Calculate the power, sample size and R code (4 points) (justification given if no power can be calculated)
-J.	Explain the R output and p value in writing (4 points)				
-K.	Figure descriptive and/or inferential (at least 2) produced using R studio with R code (6 points)
-L.	Figure legend(s) with simulated or experimental data is indicated (2 points)				
-M.	Address the potential pitfalls and problems of your project or your solutions (2 points)				
+G.	Positive or Negative Controls 		
+H.	Biological /Technical /Exp replicates 			
+I.	Calculate the power, sample size and R code
+J.	Explain the R output and p value in writing				
+K.	Address the potential pitfalls and problems of your project or your solutions (2 points)				
 
  } 
 
- H-Reflex Operant Conditioning Project Project Notes :{
-The Hoffmann reflex, also known as the H-reflex, is an electrical reflex that measures a muscle's response to stimulation of the afferent nerve: 
-How it works
-When a nerve is stimulated electrically, action potentials are sent to the spinal cord, which causes motoneurons to reach threshold and contract the extrafusal muscle. 
-What it measures
-The H-reflex is a measure of alpha motoneuron (αMN) excitability. It can be used to assess how the nervous system responds to a variety of conditions, including neurologic conditions, musculoskeletal injuries, pain, and exercise training. 
-How it's measured
-The H-reflex and any preceding M wave are usually measured electromyographically. The normal H-reflex latency ranges from 34 to 35 milliseconds, but depends on the patient's age, height, and limb length. 
-How it's different from the spinal stretch reflex
-The H-reflex is similar to the spinal stretch reflex, but it bypasses the muscle spindle. 
-
-Hoffmann reflex (H-reflex) is a peripheral reflex:
-Explanation
-The H-reflex is a peripheral reflex that's triggered by electrically stimulating a peripheral nerve. The stimulation activates the Ia fibers, which then activate the motoneurons in the spinal cord. This produces a muscle response, which is recorded using electromyography (EMG).
-Purpose
-The H-reflex is a diagnostic tool that measures the function of the peripheral and central nervous systems. It can be used to monitor the gray matter at the level of the reflex, and to estimate the conduction velocity of the monosynaptic reflex arc.
-H-index and H/M ratio
-The H-index and H/M ratio are two measurements used to analyze the H-reflex:
-H-index: The relative latency between the H- and M-waves
-H/M ratio: The ratio of the magnitudes of the maximum peak-to-peak H- and M-waves 
+ Design of Experiments Notes :{
 
 
 
 
 
-Additional Study Design Notes
-Assumptions Check:
-Normality: The distribution of H-reflex amplitude data should be normal.
-Independence: Each measurement should be independent of the others.
-Homogeneity of Variance: Variances between groups should be equal.
 
-Background
-Introduction to EMG and H-Reflex
-Electromyography (EMG) records the electrical activity of muscles, providing insights into neuromuscular function.
-The H-reflex (Hoffmann reflex) is a reflexive muscle response, elicited electrically, that serves as a measure of spinal cord excitability and motor pathway function.
-H-Reflex Significance
-H-reflex conditioning is used in research and clinical settings to understand plasticity in motor pathways.
-It is especially relevant for studying motor control, rehabilitation, and adaptive responses in response to repetitive stimuli or training.
-Goal of Analysis
-The aim of this analysis is to examine changes in H-reflex response amplitude over time as a result of conditioning.
-This involves statistical methods to determine if there is a significant change in H-reflex after conditioning protocols.
-
-Hypothesis Testing for H-Reflex EMG Data
-Hypothesis Setup
-To determine if H-reflex conditioning has an effect, we formulate:
-Null Hypothesis (H₀): H-reflex amplitude does not change with conditioning.
-Alternative Hypothesis (H₁): H-reflex amplitude changes significantly due to conditioning.
-Autocorrelation helps confirm repetitive patterns in time series data. We analyze auto-correlation to detect cycles or systematic responses in the H-reflex data.
-Mean Comparison Tests:
-We can use a paired t-test (or non-parametric tests if data distribution is non-normal) to compare pre- and post-conditioning H-reflex amplitudes.
-Confidence Intervals:
-Calculating confidence intervals for mean H-reflex amplitude helps validate the hypothesis test by showing the range within which the true mean likely falls.
-Decision Criteria
-Set a threshold p-value (commonly 0.05) for significance. If the p-value is less than 0.05, we reject the null hypothesis, concluding conditioning had a measurable effect.
-"Decision: p < 0.05 to reject H₀."
-"Conclusion: Conditioning effect on H-reflex if p-value is significant."
-
-
-Hypothesis: We hypothesize that VNS can enhance the spinal conditioning effects of HROC to improve functional recovery after SPI. (Significantly alter H-Reflex Amplitude)
-
-Question: Does the “clinically viable” h-reflex conditioning work? In the context of adapting the clinical motivation and models to a pre-clinical study and experimental paradigm.
-Question
-What effect does operant conditioning the soleus have on H-Reflex amplitudes over time?
-
-Hypothesis
-Conditioning of the soleus significantly alters the H-Reflex amplitude from baseline (pre) in post-conditioning (up/down).
-
-Clinical Relevance: These findings highlight the potential for H-reflex conditioning in motor rehabilitation strategies and improving adaptive responses.
 
  }
-
-
-R Code To get you started:{
-# Load necessary libraries
-library(ggplot2)
-library(dplyr)
-library(pwr)
-library(lme4)
-library(car)
-
-# Set seed for reproducibility
-set.seed(42)
-
-# Simulate sample data
-n_per_group <- 15  # Number of participants per group
-groups <- c("HROC_only", "VNS_only", "HROC_VNS", "SCI_only")
-data <- data.frame(
-  ID = 1:(n_per_group * length(groups)),
-  Group = rep(groups, each = n_per_group),
-  Pre_H_Reflex = rnorm(n_per_group * length(groups), mean = 0.8, sd = 0.1),
-  Post_H_Reflex = c(
-    rnorm(n_per_group, mean = 0.85, sd = 0.12),
-    rnorm(n_per_group, mean = 0.88, sd = 0.12),
-    rnorm(n_per_group, mean = 1.0, sd = 0.12),
-    rnorm(n_per_group, mean = 0.78, sd = 0.12)
-  )
-)
-
-# View summary statistics
-print(summary(data))
-
-# Visualize pre- and post-intervention data by group
-plot <- ggplot(data, aes(x = Group, y = Post_H_Reflex, fill = Group)) +
-  geom_boxplot() +
-  theme_minimal() +
-  labs(title = "Post H-Reflex Amplitudes Across Treatment Groups",
-       y = "H-Reflex Amplitude (mV)")
-print(plot)
-
-# Perform paired t-tests within each group
-results_t_tests <- data %>%
-  group_by(Group) %>%
-  summarise(
-    t_test_result = list(t.test(Post_H_Reflex, Pre_H_Reflex, paired = TRUE)),
-    p_value = t_test_result[[1]]$p.value
-  )
-print(results_t_tests)
-
-# Run one-way ANOVA to compare means between groups
-anova_result <- aov(Post_H_Reflex ~ Group, data = data)
-print(summary(anova_result))
-
-# Check assumptions for ANOVA
-levene_test_result <- leveneTest(Post_H_Reflex ~ Group, data = data)
-print(levene_test_result)
-
-# Conduct power analysis
-effect_size <- cohen.ES(test = "f", size = "medium")
-power_analysis <- pwr.anova.test(k = length(groups), f = effect_size$effect.size, sig.level = 0.05, power = 0.8)
-print(power_analysis)
-
-# Fit linear mixed-effects model
-lme_model <- lmer(Post_H_Reflex ~ Group + (1 | ID), data = data)
-print(summary(lme_model))
-
-# Obtain ANOVA table for the mixed model
-anova_lme <- anova(lme_model)
-print(anova_lme)
-
-
-# Write an explanation of results
-cat("\nExplanation of Results:\n")
-cat("The ANOVA results indicate whether there is a statistically significant difference in H-reflex amplitude across the four groups.\n")
-cat("If the p-value from the ANOVA is less than 0.05, we reject the null hypothesis, which states there is no difference between groups.\n")
-cat("The post-hoc Tukey test will specify which groups have significant differences in H-reflex amplitude.\n")
-
-}
-
-Take this code and keep everything exactly the same, but I want you to make sure you run through all assumption checks and ad a Tukey test.
