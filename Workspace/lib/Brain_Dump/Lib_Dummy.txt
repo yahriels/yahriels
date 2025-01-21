@@ -1,37 +1,3 @@
-Sprint
-- Talk to David about getting the Mototrack file structure
-- Talk to Jonathan about breakout and connecting stimulation port directly feeded into the headcap
-- Complete Soleus Tibial Nerve Surgery (Ask Dr. Tavares if she still wants to harvest sciatic)
-
-- Investigate Muscle Tone and Spasticity in Rat Models 
-    - Read Neuroscience Textbook to get a better idea of what muscle tone is...
-
-
-
-
-
-Requirements for Intan RHX Interface 
-- Contact David for example of mototrack file
-    - Similar to file structure we wanna use for this
-        - Session > Trial > Raw Data > Time 
-- Focus on File Structure 
-Want to H5 file format
-Map out file nested structure for a given rat on a given session with universal/standardized naming convention
-Example of how an h5 file might be structured:
-- File: "WeatherData.h5"  
-    - Group: "Temperature" 
-        - Dataset: "CityA_Daily_Max" 
-
-
-
-Volunteers Project Idea
-- Live Streaming Data from TCP to Generate Plot in PySide6 GUI
-- Python Codes to read in RHD files, visualize data, and save/store data
-- Front-End GUI Development to incorporate targeted features
-- Down The Line: Integrate Current Intan Set-up with Openephys System
-
-
-
 
 
 
@@ -39,7 +5,6 @@ Backlog
 - Read Dr. Meyers' Dissertations: {https://www.proquest.com/pqdtlocal1006281/docview/2087776469/E4E1D789F8AE458EPQ/1?accountid=7120&sourcetype=Dissertations%20&%20Theses}
 - then Ch. 16-17
 - Read VNS Papers from Dr. Hays and Dr. Kilgard
-- Go through Python Stuff
 
 
 ----------------------------------------
