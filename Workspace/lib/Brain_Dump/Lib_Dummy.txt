@@ -1,4 +1,9 @@
-
+Sprint
+- Respiration Belt Set-up
+- Strain Gauge Housing and threaded component
+- Begin Designing Interstage PCB
+- Undergraduate Volunteers
+- Reading + Reading for Neurophys class
 
 
 Backlog
@@ -12,12 +17,6 @@ PROJECT AIMS
 Aim 1: Clinical Viability/Efficacy of HROC?
 Aim 2: Can VNS Enhance HROC and Replace Food Pellet Reward?
 Aim 3: Therapy changes in plasticity pre/post conditioning phases
-
-Goal: Coordinated Therapy 
-
-Alt: Optimize/personalize parameter sets for Therapy
-Alt: Identify clinically relevant biomarkers
-Alt: Expand VeHROC to other clinically relevant models (SCI, Stroke, PNI, Spasticity/Muscle Tone)
 
 ----------------------------------------
 
