@@ -1,10 +1,12 @@
 I am writing a "Seminar Summary" for a Seminar given by: {}
 
+
+Summary/Abstract:{}
+
 Help me write a response to the following prompts: "Experimental Design:" "Key Findings, Conclusions, Future Directions:" based on the information and my seminar notes given below.
 
 Relevant Paper: {}
 seminar notes: {
-
 
 
 }

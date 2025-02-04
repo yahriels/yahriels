@@ -1,17 +1,13 @@
-Sprint
-- Respiration Belt Set-up
-    - Op Amplifier
-    - Test the Knot is causing drift
-    - Calibration/Wheatstone/Other Set-up
-- Strain Gauge Housing and threaded component
-- Begin Designing Interstage PCB
-- Undergraduate Volunteers
-- Reading + Reading for Neurophys class
-- Work on Quad Chart & Practice Presenting Aims
-
-- Talk to Joseph about scheduling journal club
+Priority
+- Draft Complete Quad Chart
+- Strain gauge Housing
+- HW, etc....
 
 
+I am making a very basic description section to "describe the broad area of research" and my research is on Vagus Nerve Stimulation-Enhanced H-Reflex Operant Conditioning (VeHROC). So far, I have vaguely described that H-Reflex Operant Conditioning directs plasticity to specific spinal circuits, and the paired VNS increases plasticity in the Central Nervous System. and that when pair VNS with HROC it increases functional recovery of patients with Spinal Cord Injury and/or Spasticity/Maladaptive behaviors. Now I am wondering what are some good bullet points to help me guide and introduce this discussion based on these notes:{Motivation/Introduction Ideas
+Spinal Cord Injury (SCI) is prevalent and lacks effective therapeutic interventions
+Maybe next, Spasticity/Heksors/(mal)Adaptive Behaviors?
+} and please order them in a way that makes a comprehensive and digestible story WITH ONLY THE MOST IMPORTANT INFORMATION.
 
 Backlog
 - Read Dr. Meyers' Dissertations: {https://www.proquest.com/pqdtlocal1006281/docview/2087776469/E4E1D789F8AE458EPQ/1?accountid=7120&sourcetype=Dissertations%20&%20Theses}
