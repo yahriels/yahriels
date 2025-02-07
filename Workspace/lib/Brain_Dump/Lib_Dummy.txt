@@ -3,11 +3,16 @@ Priority
 - Strain gauge Housing
 - HW, etc....
 
-
+Description Prompt:
 I am making a very basic description section to "describe the broad area of research" and my research is on Vagus Nerve Stimulation-Enhanced H-Reflex Operant Conditioning (VeHROC). So far, I have vaguely described that H-Reflex Operant Conditioning directs plasticity to specific spinal circuits, and the paired VNS increases plasticity in the Central Nervous System. and that when pair VNS with HROC it increases functional recovery of patients with Spinal Cord Injury and/or Spasticity/Maladaptive behaviors. Now I am wondering what are some good bullet points to help me guide and introduce this discussion based on these notes:{Motivation/Introduction Ideas
 Spinal Cord Injury (SCI) is prevalent and lacks effective therapeutic interventions
 Maybe next, Spasticity/Heksors/(mal)Adaptive Behaviors?
 } and please order them in a way that makes a comprehensive and digestible story WITH ONLY THE MOST IMPORTANT INFORMATION.
+
+Concept Diagram Prompt:
+I am making a very basic concept diagram section to "Draw a schematic concept diagram summarizing key features of your research" and my research is on Vagus Nerve Stimulation-Enhanced H-Reflex Operant Conditioning (VeHROC). So far, I have vaguely described that we are conducting experiments in rats and are interested in studying and operantly conditioning the h-reflex, as well as the kind/nature of the induced injury (for the injury model), general timeline/protocol of the experiments, and that we have 4 groups represented (SCI Only, HROC only, SHAM, and VeHROC).  Now I am wondering what are some good bullet points to help me guide and introduce this discussion based on these notes:{} and please order them in a way that makes a comprehensive and digestible story WITH ONLY THE MOST IMPORTANT INFORMATION.
+ - Flow Chart Prompt
+ - I am making a very basic concept diagram section to "Draw a schematic concept diagram summarizing key features of your research" and my research is on Vagus Nerve Stimulation-Enhanced H-Reflex Operant Conditioning (VeHROC). So far, I have vaguely described that we are conducting experiments in rats and are interested in studying and operantly conditioning the h-reflex, as well as the kind/nature of the induced injury (for the injury model), general timeline/protocol of the experiments, and that we have 4 groups represented (SCI Only, HROC only, SHAM, and VeHROC).  Now I am wondering how to make a workflow of the procedure in preparing rats for experiments, and then running and completing the experiments such as this flow diagram (Habituation -> Implantation -> Recovery -> Training - > HROC/VNS -> ...)
 
 Backlog
 - Read Dr. Meyers' Dissertations: {https://www.proquest.com/pqdtlocal1006281/docview/2087776469/E4E1D789F8AE458EPQ/1?accountid=7120&sourcetype=Dissertations%20&%20Theses}
