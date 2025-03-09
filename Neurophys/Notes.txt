@@ -1,13 +1,73 @@
+Help me outline a skeleton for the [] of this assignment with these instructions:{
+For your chosen paper, select 3 research papers that this paper
+references and give a broader context of the work. Why did the
+authors do this? Why did they think it would be important?
+Additionally, select 2 research papers that cite your chosen paper. Did the interpretation of the results change over time, and if so, what are the new revelations?
+Also talk about our in-class discussion} where my chosen paper is (Polley et. al 2007) and my other chosen papers the are other papers included in this notebook. 
+Here is a starter outline:{I. Introduction
+Brief Overview of the Chosen Paper:
+Polley et al. (2007) investigated the functional organization of the rat auditory cortex by mapping five tonotopically organized auditory fields.
+The study established spatial clustering of functional properties.
+Research Significance and Goals:
+The study aimed to refine the understanding of auditory cortical field organization in the albino rat.
+It built upon prior research and introduced new methodologies for functional clustering analysis.
+Purpose of the Assignment:
+Examine three key referenced papers that set the groundwork for Polley et al. (2007).
+Evaluate two papers that cited Polley et al. (2007) to understand its impact.
+Reflect on in-class discussions and their influence on this analysis.}  In-class discussion:{
+Functional Organization of the Rat Auditory Cortex This study mapped five tonotopically organized auditory fields—AI, AAF, PAF, VAF, and SRAF.
+Spatial Clustering of Functional Properties Beyond tonotopy, receptive field parameters (e.g., tuning sharpness, intensity-response, and temporal properties) exhibited nonrandom spatial clustering.
+Monte Carlo Analysis of Spatial Structure Simulations comparing real and randomized distributions showed significant spatial structuring of receptive field properties.}
 
-Li et al. (2016) "Adaptive coding of sound intensity in the auditory cortex of awake mice" Nature Communications, 7, 12320 [Non-source information - Example of a likely citing paper]: This hypothetical paper likely employs dense electrophysiological recordings to map sound intensity coding across different auditory cortical areas in awake mice, similar to Polley et al.'s use of microelectrode mapping. It might also use spatial clustering methods to identify regions with distinct intensity coding properties and potentially employ Monte Carlo simulations to assess the significance of these spatial distributions by comparing them to randomized data. This work would likely cite Polley et al. as a key study that comprehensively mapped multiple functional properties, including intensity tuning (monotonicity and best level), across several auditory fields in another rodent model (the rat), providing a comparative framework and methodological precedent.
-
-O'Connell et al. (2011) "Circuit-level computations underlying auditory scene analysis" Nature Neuroscience, 14(10), 1331-1339 [Non-source information - Example of a likely citing paper]: This hypothetical paper might investigate the functional organization of the auditory cortex in rats or mice in the context of processing complex sounds relevant to auditory scene analysis. It could use electrophysiological recordings across multiple auditory fields and analyze the spatial patterns of neural responses to different sound features. Similar to Polley et al., it might employ spatial clustering techniques to identify functionally distinct regions and potentially use Monte Carlo analyses to determine if the observed spatial organization of response properties (e.g., selectivity to specific sound features) is non-random. This study would likely cite Polley et al. for its detailed mapping of multiple auditory fields and the demonstration of non-topographic spatial organization of receptive field properties, establishing the groundwork for understanding how such organization might contribute to more complex auditory processing.
 
 
 
+Help me outline/write this section for my assignment with these in-class discussion instructions and keep it short!:{
+Connection to our in-class discussion 
+Also talk about how our in-class discussion of the chosen paper influenced this assignment.  
+} and here is the rubric:{
+How did our in-class discussion of the chosen paper influence this
+assignment? Did someone bring up an interesting idea? Did our
+discussion lead to questions that you wanted to research further?} where my chosen paper is (Polley et. al 2007) and the in-class discussion notes
+Here is a starter outline of in-class discussion section:{
+Key Topics Discussed: 
+Functional clustering beyond tonotopy: How receptive fields are organized in spatial domains that do not strictly follow frequency-based tonotopy.
+Monte Carlo analysis of spatial structure: The use of statistical methods to assess nonrandom clustering.
+Influence on This Assignment: 
+The discussion clarified the role of spatial clustering in shaping our understanding of auditory field interactions.
+Raised new research questions, such as how plasticity mechanisms interact with predefined spatial functional clusters.
+
+}
+
+In-class discussion:{
+Functional Organization of the Rat Auditory Cortex This study mapped five tonotopically organized auditory fields—AI, AAF, PAF, VAF, and SRAF.
+Spatial Clustering of Functional Properties Beyond tonotopy, receptive field parameters (e.g., tuning sharpness, intensity-response, and temporal properties) exhibited nonrandom spatial clustering.
+Monte Carlo Analysis of Spatial Structure Simulations comparing real and randomized distributions showed significant spatial structuring of receptive field properties.}
 
 
 
+
+
+
+
+
+
+
+
+
+
+In-class discussion:{
+Functional Organization of the Rat Auditory Cortex This study mapped five tonotopically organized auditory fields—AI, AAF, PAF, VAF, and SRAF.
+Spatial Clustering of Functional Properties Beyond tonotopy, receptive field parameters (e.g., tuning sharpness, intensity-response, and temporal properties) exhibited nonrandom spatial clustering.
+Monte Carlo Analysis of Spatial Structure Simulations comparing real and randomized distributions showed significant spatial structuring of receptive field properties.}
+
+These are questions discussed in:{
+Background – previous research, what question(s) did they want to answer? 
+Summary & main take-home messages 
+What do you think are the functions of the different auditory cortical fields? 
+How would you extend this line of work if you had to do an experiment based on this paper? 
+Referring back to the Beauchamp paper: What do you think would happen if electrodes were stimulated in auditory cortical areas? Instead of seeing letters, would people be able to hear sounds? 
+}
 
 
 For your chosen paper, select 3 important original research papers (not review papers) that this paper references (likely from the introduction section), and give a broader context of the work. Why did the authors do this? Why did they think it would be important? Additionally, select 2 important original research papers (not review papers) that cite your chosen paper. Find papers that cite your chosen paper. How did your chosen paper impact the field? Did the interpretation of the results change over time, and if so, what are the new revelations? Also talk about how our in-class discussion:{
@@ -26,10 +86,3 @@ Monte Carlo Analysis of Spatial Structure Simulations comparing real and randomi
 
 
 
-Help me answer these prompts and describe these figures based on the articles provided:{
-Background – previous research, what question(s) did they want to answer? 
-Summary & main take-home messages 
-What do you think are the functions of the different auditory cortical fields? 
-How would you extend this line of work if you had to do an experiment based on this paper? 
-Referring back to the Beauchamp paper: What do you think would happen if electrodes were stimulated in auditory cortical areas? Instead of seeing letters, would people be able to hear sounds? 
-}
