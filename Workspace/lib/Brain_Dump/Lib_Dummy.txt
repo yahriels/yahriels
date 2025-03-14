@@ -1,9 +1,58 @@
+Reading
+Ch 8
+pgs 194-213
+CH 16-17
+pgs 382 - 430
+
+Old Powerpoints/work
+
+Meyers dissertation (skim)
+
+MOre H-Reflex Papers and more VNS Papers
+
+Old Journal Club Notes
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+----------------------------------------
+
+
+Question Prompts:
+
 I am having trouble understanding what the criterion for classifying a 'successful trial' and delivering a food reward to rats from Trial to Trial, and within trial of H-Reflex Operant Conditioning.
 
 I am having trouble understanding what the criterion for classifying a 'successful trial' and delivering reward from Trial to Trial of H-Reflex Operant Conditioning.
 
+The next section I am outlining is the VNS-enhcanced H-reflex conditioning section of my presentation.
+Help me provide a transition from the last section:{
+B.	Hyper-reflexive Spinal Reflexes ~ 1.20 minutes
+Why do we care? 
+-	“Spasticity is a common and debilitating consequence of upper motor neuron injury from conditions like stroke and spinal cord injury”
+-	“Spasticity can significantly impair motor function, and patient's quality of life”
+Setting: Do we have a way to target these disorders? (Spoiler…We don’t)
+-	“This raises the question: Do we have ways to specifically target these other disorders where reflexes are abnormally high?” 
+What is the conflict? Proposed opportunity? 
+-	“The limitations of current approaches highlight the critical need to understand the mechanisms of spasticity and to develop more effective and targeted interventions that can address the underlying neural dysfunction” 
+-	“It has been suggested that spasticity can be viewed as a form of maladaptive plasticity, implying that therapies aimed at inducing beneficial neural plasticity could be particularly relevant”
+}
 
-
+to this new section:{}
 
 ------
 Juliet Addo
@@ -30,27 +79,7 @@ Backlog
 
 
 ----------------------------------------
-PROJECT AIMS
-Aim 1: Clinical Viability/Efficacy of HROC?
-Aim 2: Can VNS Enhance HROC and Replace Food Pellet Reward?
-Aim 3: Therapy changes in plasticity pre/post conditioning phases
 
-----------------------------------------
-
-
-Challenges for investigating spasticity in mice
-Compared to other aspects of the upper motor neuron syndrome or spasticity-relevant neurological disorders in general, the research output on spasticity in mice is minimal. There seems to be an experimental roadblock, which impedes further studies. We believe that there are three fundamental challenges for investigating spasticity in mice, which need to solved to generate reliable mouse models: 
-1) a standardized neuroscore, e.g., based on behavioral assessments optimized for specific neurological disorder models, 
-2) a standard protocol for the H-reflex measurement and analysis, and 
-3) a better understanding of the common and differential roles of the pyramidal and extrapyramidal tracts between mice and humans in (recovery of) motor control.
-
-----
-Establishment of SCI models
-For SCI research, it is essential to establish an ideal animal model of SCI. Ideal models should meet the following conditions (Akhtar et al., 2008): 
-(1) simulate damage that is similar to clinical SCI; 
-(2) be controlled, reproducible, and stable; 
-(3) involve a simple technique that is easy to study; 
-(4) the equipment used to make a model is straightforward and quick to produce.
 
 
 

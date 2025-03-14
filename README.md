@@ -1,16 +1,21 @@
 ### Hi there 👋 Welcome to My Page! :rocket: :sun_with_face:
 
 
-# Yahriel Salinas-Reyes | B.Sc. Aerospace Engineering  - Iowa State University of Science & Technology ('23)
+# Yahriel Salinas-Reyes | Ph.D. Candidate  - University of Texas at Dallas, Neural Engineering (Class of'29) | The GEM Consortium, Ph.D. Engineering and Science Fellowship, Ph.D. Employer Fellow 
+
 ////////////////////
 Education
-Iowa State University of Science & Technology Ames, IA
-Bachelor of Aerospace Engineering, GPA: 3.3 2023
-Specialized in Nanoscience/materials, Computational & Mathematical Sciences, Theorerical Modeling & Experimental Verification
-////////////////////
-Computational (Software) Engineer & Research Data Scientist
+University of Texas at Dallas, Graduate College
+Ph.D. in Neural Engieering & Bioengineering, Dept. of Bioengineering, Class of 2029
+Topics in Neuroscience, Rehabilitation Engineering, Biomedical Engineering & Device Development, Pre-clinical and Clinical Research, H-Reflex Operant Conditioning, Neuroplasticity, Vagus Nerve Stimulation Therapy
 
-Polk: Des Moines, 50316, Iowa, United States
+
+Iowa State University of Science & Technology Ames, IA
+Bachelor of Aerospace Engineering GPA: 3.5 Class of 2023
+Topics in Applied Mechanics/Physics and Dynamical Systems, Theorerical Modeling & Experimental Verification, Systems Engineering Design, Computational & Mathematical Sciences, Nanoscience/materials
+
+////////////////////
+
 
 H 515-314-4160 • E yahrielsreyes@gmail.com
 
@@ -20,20 +25,12 @@ H 515-314-4160 • E yahrielsreyes@gmail.com
 
 The GEM Consortium, Ph.D. Engineering and Science Fellowship
 > https://www.gemfellowship.org/gem-fellowship-program/
+Ph.D. Employer Fellow, Bayer Pharmaceuticals Research and Development
+> https://www.bayer.com/en/
 
 ////////////////////
 
-Most Recent Role:
 
-Bayer U.S. – CropScience
-
-R&D Regulatory Science & Affairs , Seeds & Traits Safety, Digital Solutions
-
-Technology Development Center, GEM Fellow – Summer Intern, Automation Engineering & Data Mining
-
-Mobile: +1-515-314-4160
-
------
 ### Training and Additional Information
 > Scientific Instrumentation Troubleshooting, Computational Modeling, Materials Sciences, Applied Mathematics & Numerical Methods, Nanoscience/technology, Data Science, Electrical/Industrial Engineering, Systems Engineering, Design of Experiments (DOE), Signals and Controls Systems, Statistics, Machine Learning and Deep Learning, Neural Networks, Software Development/Engineering, Full-Stack Development, Clean Room Operations.
 
@@ -77,9 +74,35 @@ Louis Stokes Alliances for Minority Participation (LSAMP)
 2019-2021
 
 
+
+## By Yahriel Salinas-Reyes [Y.Salinas-Reyes]
+# An Existentialist Approach Informed by Neuroscience, Biomedical Engineering, and 
+
+**Subject Opinion:**
+In today's rapidly changing world, we often struggle to understand the present before it becomes the past. This proposal aims to shed light on the function of madness and chaos, not to undermine its toll on individuals, but to unravel the problem it is meant to solve. As R.D. Laing theorized, neurological disorders and some medical diseases arise from the battle between our imposed identity and our authentic self, this idea explores the possibility of insanity and confusion as a breakthrough rather than a breakdown. What if insanity, or in this case, pain, plasticity, or neurological injury could be understood as a reaction to the divided self (real vs. ideal self). Instead of arising as a purely medical disease or psychotic behaviors or neurological conditions (i.e. a common symptons mental health disorders), neurological injury may be the result of wrestling with two identities: the identity defined for us by our limitations or reality, and our authentic identity, as we experience ourselves to be. When the two are fundamentally different, it triggers an internal fracturing of the self. Comprehensively, the label of Madness and Confusion is defined as a naturally sane reaction to an insane world in the words of R.D. Laing. By applying the concepts of neural engineering and neuromodulatory rehabilitation theory to model the dynamics of plasticity-behavioral systems in the central nervous system and corticol spinal tract, we aim to study neurological engineering and other neurological abnormalities, morphologies, and ingenuity of the human brain and its reflex arcs.
+
+Despite the initial controversy surrounding Laing's existential perspective, there is immense value in delving into the personal, interpretive, and small-scale aspects often overlooked in traditional psychiatric narratives. We propose utilizing a fundamental method of studying neurobiological dysfunctions and abnormal functions/morphologies of the injured or plastic brain. This will help uncover correlations and causalities between the active brain matter responsible for maladacptive behaviors and plasticity in unhealthy traits and other related disorders.
+
+The motivation behind this study stems from the world's failure to effectively utilize the groundbreaking discoveries in neuroscience, global public health, and social sciences. Through rigorous research and the development of a scientific method backed by advanced instrumentation, our objective is to provide foundational evidence for a clinical social understanding of neurological disorders, injuries, and psychiatric and its related traits. This paradigm shift, rooted in biomedical-analytical and logical-mathematical scientific theory, will facilitate the advancement of global public health.
+
+
+
+## Personal Narrative
+
+
+## First let me ask you a question...What Came First: the Einstein or the Egg?
+# About The Author: Yahriel Salinas-Reyes :tophat: :trumpet: 
+> Yahriel is a "Universal Man" with knowledge and experience in many disciplines. Yahriel is a decorated champion of his community and today he finds work as a scientific researcher of neuroscience and neuromodulatory rehabilitation engineering and is in pursuit of a PhD. Born in Iowa to undocumented immigrant parents, Yahriel had a unique experience and set of challenges growing up as he navigated a foreign society with no instructions included.
+
+> Was Albert Einstein born a genius, or did a fateful encounter result in the greatness of Einstein as we know him today? Yahriel Salinas-Reyes, an inquisitive youngster with a passionate and unruly mind, ascended through the **Aerospace Engineering program at Iowa State University of Science and Technology(Class of '23)** and eventually journeyed to the empire of Einstein at the California Institute of Technology (where Albert Einstein taught). Yahriel walked the same halls Albert Einstein once did and engaged some of the world's most powerful minds at work.
+
+> Yahriel had undertaken a number of different projects and work environments, but nothing could have prepared him for the new world he had just stepped into. While Yahriel experienced every challenge and emotion possible, it enabled him to see the collateral beauty of his journey as he discovered the influential power of mentorship and glimpsed the truth of human ingenuity.
+
 > Work Experience
+
+
 Bayer Crop Science, Seeds & Traits Safety: R & D Regulatory Science Toxicology Group St Louis, MO
-Scientist I & Data Engineer 05/2024- Present
+Scientist I & Data Engineer 05/2024- 08/2024
 { Operate in Automation/Deep Learning & provide digital/software solutions aligned with the RAG Pipeline to crossfunctional teams in agricultural science and biotechnology, specifically, the Macromolecular Toxicology in the Seeds &
 Traits Safety Regulatory Science Group at Bayer.}
 { Responsible for full-stack development for Regulatory Affairs to consolidate GLP and transference of historical risk
@@ -249,27 +272,23 @@ Aerospace Engineering
 
 
 ## By Yahriel Salinas-Reyes [Y.Salinas-Reyes]
-# An Existentialist Approach Informed by Numbers, Shapes, and Prediction
-An Approach to Unraveling The Science of Madness (Schizophrenia) and Human Ingenuity for Global Health, Inspired by with Bleuler's 4A'sPrimary Traits of Schizophrenia and The Dividided Self: Alogia, Autism, Ambivalence, Affect Blunting
-
+# An Existentialist Approach Informed by Neuroscience, Biomedical Engineering, and 
 
 **Subject Opinion:**
-In today's rapidly changing world, we often struggle to understand the present before it becomes the past. This proposal aims to shed light on the function of madness and chaos, not to undermine its toll on individuals, but to unravel the problem it is meant to solve. Building upon R.D. Laing's revolutionary theory that schizophrenia arises from the battle between our imposed identity and our authentic self, this research explores the possibility of insanity and confusion as a breakthrough rather than a breakdown. Laing theorised that insanity could be understood as a reaction to the divided self. Instead of arising as a purely medical disease or psychotic behaviors (i.e. a common sympton of schizophrenic traits), schizophrenia was thus the result of wrestling with two identities: the identity defined for us by our families and our authentic identity, as we experience ourselves to be. When the two are fundamentally different, it triggers an internal fracturing of the self. Comprehensively, the label of Madness and Confusion is defined as a naturally sane reaction to an insane world in the words of R.D. Laing. By applying the concepts of entropy and chaos theory to model the dynamics of social-behavioral systems, we aim to study schizophrenia/psychosis and other neurological abnormalities, morphologies, and ingenuity of the human brain.
+In today's rapidly changing world, we often struggle to understand the present before it becomes the past. This proposal aims to shed light on the function of madness and chaos, not to undermine its toll on individuals, but to unravel the problem it is meant to solve. As R.D. Laing theorized, neurological disorders and some medical diseases arise from the battle between our imposed identity and our authentic self, this idea explores the possibility of insanity and confusion as a breakthrough rather than a breakdown. What if insanity, or in this case, pain, plasticity, or neurological injury could be understood as a reaction to the divided self (real vs. ideal self). Instead of arising as a purely medical disease or psychotic behaviors or neurological conditions (i.e. a common symptons mental health disorders), neurological injury may be the result of wrestling with two identities: the identity defined for us by our limitations or reality, and our authentic identity, as we experience ourselves to be. When the two are fundamentally different, it triggers an internal fracturing of the self. Comprehensively, the label of Madness and Confusion is defined as a naturally sane reaction to an insane world in the words of R.D. Laing. By applying the concepts of neural engineering and neuromodulatory rehabilitation theory to model the dynamics of plasticity-behavioral systems in the central nervous system and corticol spinal tract, we aim to study neurological engineering and other neurological abnormalities, morphologies, and ingenuity of the human brain and its reflex arcs.
 
-Despite the initial controversy surrounding Laing's existential perspective, there is immense value in delving into the personal, interpretive, and small-scale aspects often overlooked in traditional psychiatric narratives. We propose utilizing a fundamental method of studying neurobiological dysfunctions and abnormal functions/morphologies of the schizophrenic brain. This will help uncover correlations and causalities between the active phase-matter in schizophrenic traits and other related disorders.
+Despite the initial controversy surrounding Laing's existential perspective, there is immense value in delving into the personal, interpretive, and small-scale aspects often overlooked in traditional psychiatric narratives. We propose utilizing a fundamental method of studying neurobiological dysfunctions and abnormal functions/morphologies of the injured or plastic brain. This will help uncover correlations and causalities between the active brain matter responsible for maladacptive behaviors and plasticity in unhealthy traits and other related disorders.
 
-The motivation behind this study stems from the world's failure to effectively utilize the groundbreaking discoveries in neuroscience, global public health, and social sciences. Through rigorous research and the development of a scientific method backed by advanced instrumentation, our objective is to provide foundational evidence for a clinical social understanding of schizophrenia and its related traits. This paradigm shift, rooted in biomedical-analytical and logical-mathematical scientific theory, will facilitate the advancement of global public health.
+The motivation behind this study stems from the world's failure to effectively utilize the groundbreaking discoveries in neuroscience, global public health, and social sciences. Through rigorous research and the development of a scientific method backed by advanced instrumentation, our objective is to provide foundational evidence for a clinical social understanding of neurological disorders, injuries, and psychiatric and its related traits. This paradigm shift, rooted in biomedical-analytical and logical-mathematical scientific theory, will facilitate the advancement of global public health.
 
 
 
-## Letter of Intent and Statement of Purpose
+## Personal Narrative
 
 
 ## First let me ask you a question...What Came First: the Einstein or the Egg?
 # About The Author: Yahriel Salinas-Reyes :tophat: :trumpet: 
-> ~Don Yahriel: https://genny.lovo.ai/share/7fe22426-2859-4209-b39c-a6cd22e9667e
-
-> Yahriel is a "Universal Man" with knowledge and experience in many disciplines. Yahriel is a decorated champion of his community and today he finds work as a scientific researcher of nature physics and experimental systems engineering and is in pursuit of a PhD. Born in Iowa to undocumented immigrant parents, Yahriel had a unique experience and set of challenges growing up as he navigated a foreign society with no instructions included.
+> Yahriel is a "Universal Man" with knowledge and experience in many disciplines. Yahriel is a decorated champion of his community and today he finds work as a scientific researcher of neuroscience and neuromodulatory rehabilitation engineering and is in pursuit of a PhD. Born in Iowa to undocumented immigrant parents, Yahriel had a unique experience and set of challenges growing up as he navigated a foreign society with no instructions included.
 
 > Was Albert Einstein born a genius, or did a fateful encounter result in the greatness of Einstein as we know him today? Yahriel Salinas-Reyes, an inquisitive youngster with a passionate and unruly mind, ascended through the **Aerospace Engineering program at Iowa State University of Science and Technology(Class of '23)** and eventually journeyed to the empire of Einstein at the California Institute of Technology (where Albert Einstein taught). Yahriel walked the same halls Albert Einstein once did and engaged some of the world's most powerful minds at work.
 
