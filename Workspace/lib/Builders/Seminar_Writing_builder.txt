@@ -1,12 +1,34 @@
-I am writing a "Seminar Summary" for a Seminar given by: {}
+I am writing a "Seminar Summary" for a Seminar given by: {Stathis Karathanasis, PhD, Department of Biomedical Engineering at Case Western Reserve University}
 
 
-Summary/Abstract:{}
+Summary/Abstract:{Title of Seminar: Nanotechnology and the quest for a cure ; I will share my views on the unique voyage of nanoparticles in the human body and sites of disease. The first example wil be based on multicomponent chain-like nanoparticles, termed nanochains. Due to geometrically enhanced tumor homing and readiofrequency-triggeres drug release, the nanochains facilitate effective delivery of drugs into hard-to-reach brain tumors. The second example will explore the design of immunomodulatory nanoparticles for cancer immunotherapy. In the past few years, immunotherapy has generated unprecendented levels of excitement in the quest to eradiate cancer. We have developed various designs of dual action nanoparticles (dual-NPs) that are co-loaded with two synergistic immunomodulatory cargoes. A recent dual-NP design carries VISTA-targetting siRNA and the TLR9 agonist CpG. The dual action referes to the simultaneously removal of the immune brakes (Vista immune checkpoint) and immunde activation (TLR9 simulation). The dual-NP ensures the uptake of both cargoes by the same tumor-resident immune cell, which leads to a synergistic T cell-mediated tumor clearance and curative responses with protective immunological memory against tumor recurrence. }
 
 Help me write a response to the following prompts: "Experimental Design:" "Key Findings, Conclusions, Future Directions:" based on the information and my seminar notes given below.
 
-Relevant Paper: {}
+Relevant Paper: {Enhanced Delivery of Chemotherapy to Tumors Using a Multi-Component Nanochain with Radiofrequency-Tunable Drug Release:{https://pmc.ncbi.nlm.nih.gov/articles/PMC3358486/}}
 seminar notes: {
+
+
+The unique voyage of nanoparticles. We start about talking about how tumor sites start based on blood, vascular targeting, and deep tissue targeting are all factors. The research focuses on targeting tumor sites with nanoparticles.
+They are trying smuggling drugs into brain tumors. Looking at 48 hour progress with IV injection of nanoparticles.
+They are combining nanoparticles together like building blocks. They are targeting the edolitelm of the tumor cells and not the target cells directly as the nanoparticles can attach to these structures.
+This is especially useful in perivascular targeting of gpm tumors as these are usually inoperable based on the size of the tumors inside the brain.
+With the nanoparticles they can apply magnetic properties and use radio frequency fields to the area to move the particles into and surround the tumors.
+The nanoparticles of made up of SiO2 and iron oxide as well as a targeting ligand. Then use triggered drug release to release drugs into the tumor site.
+They are working on spatiotemporal targeting to create multi-ligand nanoparticles to target metastic cancer which displays TME with targetable receptors continues changing over time and space. You could inject the particles in the blood and vascular target the metastic site ith bindings. The binding occurs on the aB integrin and P-selectin sites.
+Nanotech and immunotherapy are the new best friends.
+Hot vs cold tumors. Challenge cold immunosuppressive tumor microenvironments. This is used currently immunotherapies and have been primarily t cell focused. They have found the key for success is generating pro-inflammatory innate immunity at the tumor itself.
+An interesting fact in tumors cells is that 30-40% of the cells are immune cells are they need to be woken up and stop working for the tumor and target the tumor to suppress the tumor.
+By creating a pro-inflammatory environment this wakes up those cells to target those cancer cells more effectively.
+First efforts to develop multi-cargo immunomodulatory NPSs. The immune-stimulatory np ensures co-delivery of both sting and tlr4 agonists to the same myeloid cell resulting in a remarkable synergy to remove immune compromised cells.
+Tumors are enriched with dysfunctional cells and we use going to target those cells with different drugs that specifically target the cell groups to effectively remove the entire site as a whole.
+They used the acronym of pressing the gas while releasing the brakes. You do not want to overwhelm the system and shut down the immune response to the site. But apply enough power to kickstart the process of targeting.
+They showed processing results already so far targeting specific cancer and removing tumors in various models.
+Another concern was safety of the nanoparticles in the body and they showed that it was effective and safe for the body and removed from the blood after 72 hours of treatment. This is showing good safety in terms of toxicology of the system. And kickstarted the immune response as soon as 5 days. Remarkable results after 12 days in terms of immune response.
+They are also looking into nanobubbles and activating them with ultrasound waves. They would move the nanobubbles around the body and then activate them with a pulse of ultrasound and burst the bubbles where needed.
+This has shown effectiveness with just one treatment in terms of tumor ecm stiffness. Reducing the stiffness is essential so immune cells can penetrate the tumor site. 
+
+
 
 
 }
@@ -26,8 +48,6 @@ Help Yahriel Salinas Answer The Prompt, Review The Response, Provide Feedback, M
 MASTER SCRIPT : 
 {
 Block 0: README
-> Ownership: This Script was written by Yahriel Salinas-Reyes
-> First Author: Yahriel Salinas-Reyes
 > Purpose: 
 > Mission: 
 > Objectives: Fulfill all outlined prompts and executive tasks to produce a high-quality statement aligned with the given requirements.

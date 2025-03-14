@@ -1,3 +1,40 @@
+AWAKE BEHAVING ANIMAL RECORDING
+CONCURRENT AND STIMULATING (THIS IS NEW)
+SCALABLE SOLUTIONS
+    - Cost Effective
+    - Multiple (10x booths)
+    - Open Source and Hardware/material Selection
+    - LEAN system
+
+
+Question
+- What are you gonna do with the VNS only group, are you gonna food deprive them? 
+We will, we are targeting this food reward response (like sound of food pellet dispenser) and can we replace that with VNS stimulation.
+
+
+Stats?
+- How are you gonna analyze it? Aside from M- and H- wave, how do we get the stats.
+- Repeated Measures | Two-Way ANOVA (time and group) 
+        - This is our question? Difference in the trajectories of each group over time, with only one change between groups?
+        - At the final time point? What is the biggest change in different
+            - 2 Sample T-Test
+- We don't know what the effect size with VNS
+    - So we can see the increase, on top of VNS
+    - We can estimate our effect size 
+        - Historical data from H-Reflex and VNS
+            - Observe the variability, and see if we can draw the models together to estimate the effect size
+- This pilot study's purpose to define our statistical power
+
+- Take distrubition of day-to-day trials, then take the mean, then average it across all rats to get average and standard deviation.
+
+
+Aim 3: How to do experimental design, and how to add in behavourial assessments, what are the measureable outcomes
+
+- Behavourial Assessment: 
+    - Ladder Run
+    - Motion Capture (SYmmetry of Gait)
+- Measureable Outcomes: 
+
 Reading
 Ch 8
 pgs 194-213
@@ -35,24 +72,12 @@ Old Journal Club Notes
 
 Question Prompts:
 
+
+I am doing a presentation and am presenting my "Yahriel Salinas-Reyes Quad Chart" which is based on the "Project Narrative_VeROC" where spasticity is the main problem we are tackling as described in "spasticity.pdf". Now give me an overview of the main principles and topics I need to know, which in-depth descriptions, from "Neuro_Textbook_CH8,16-17.pdf" and how it relates to the rest of the project or presentation. And then give me some talking points I must hit in my presentation. 
+
+
 I am having trouble understanding what the criterion for classifying a 'successful trial' and delivering a food reward to rats from Trial to Trial, and within trial of H-Reflex Operant Conditioning.
 
-I am having trouble understanding what the criterion for classifying a 'successful trial' and delivering reward from Trial to Trial of H-Reflex Operant Conditioning.
-
-The next section I am outlining is the VNS-enhcanced H-reflex conditioning section of my presentation.
-Help me provide a transition from the last section:{
-B.	Hyper-reflexive Spinal Reflexes ~ 1.20 minutes
-Why do we care? 
--	“Spasticity is a common and debilitating consequence of upper motor neuron injury from conditions like stroke and spinal cord injury”
--	“Spasticity can significantly impair motor function, and patient's quality of life”
-Setting: Do we have a way to target these disorders? (Spoiler…We don’t)
--	“This raises the question: Do we have ways to specifically target these other disorders where reflexes are abnormally high?” 
-What is the conflict? Proposed opportunity? 
--	“The limitations of current approaches highlight the critical need to understand the mechanisms of spasticity and to develop more effective and targeted interventions that can address the underlying neural dysfunction” 
--	“It has been suggested that spasticity can be viewed as a form of maladaptive plasticity, implying that therapies aimed at inducing beneficial neural plasticity could be particularly relevant”
-}
-
-to this new section:{}
 
 ------
 Juliet Addo
