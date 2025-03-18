@@ -1,40 +1,87 @@
-AWAKE BEHAVING ANIMAL RECORDING
-CONCURRENT AND STIMULATING (THIS IS NEW)
-SCALABLE SOLUTIONS
-    - Cost Effective
-    - Multiple (10x booths)
-    - Open Source and Hardware/material Selection
-    - LEAN system
+Injury is a collection of circuits that gets changed as compensatory 
+
+Compensatory Mechanisms
+- Compensatory Plasticity 
+- Reactive Plasticity
+
+ADDRESS THIS AS A CIRCUIT problem
+CUZ IT IS A CIRCUIT problem
+WE WANT TO TARGET THE MALADAPTIVE PROBLEMS IN THE CIRCUIT
 
 
-Question
-- What are you gonna do with the VNS only group, are you gonna food deprive them? 
-We will, we are targeting this food reward response (like sound of food pellet dispenser) and can we replace that with VNS stimulation.
+supraspinal 
+
+How is it currently treated? 
+1. Botox Injection
+2. Baclofen 
+Side Effects
 
 
-Stats?
-- How are you gonna analyze it? Aside from M- and H- wave, how do we get the stats.
-- Repeated Measures | Two-Way ANOVA (time and group) 
-        - This is our question? Difference in the trajectories of each group over time, with only one change between groups?
-        - At the final time point? What is the biggest change in different
-            - 2 Sample T-Test
-- We don't know what the effect size with VNS
-    - So we can see the increase, on top of VNS
-    - We can estimate our effect size 
-        - Historical data from H-Reflex and VNS
-            - Observe the variability, and see if we can draw the models together to estimate the effect size
-- This pilot study's purpose to define our statistical power
+Focus on the circuit network, these circuits change due to Injury
+The changes can be maladaptive vs beneficial.
+- So we can we leverage these changes with plasticity in the changes to improve function
+- Can we drive changes in the circuit network to improve function which we call beneficial plasticity
 
-- Take distrubition of day-to-day trials, then take the mean, then average it across all rats to get average and standard deviation.
+- Short description for upper motor neuron and lower motor neuron
+
+- Injury causes maladaptive changes, why is conditioning of the H-Reflex the answer.
+    - Hyperreflexia, so we want to reduce the reflex of response which is then a main component contributing to spasticity
+        - Sensory feedback going back to the spinal cord, and the reflex is much more hyper excitable 
+
+Think about AIMs, what are the measures of success. 
+    - Hypothesis, Outcome Measure, Statistics
+    - 
+
+M-wave and H-Wave
+
+Peripheral Nerve (Mixed)
+- Has got motor fibers (neurons) and sensory fibers (neurons)
+    - motor fibers gets activated first
+    - sensory fibers then feedback 
+
+- If nerve is really long (conduction velocity)
+    - Nerve Lengths (Shorter Path)
+    - With Soleus the Nerves are much longer which is why we 
+    - Has more to do with Anatomy
 
 
-Aim 3: How to do experimental design, and how to add in behavourial assessments, what are the measureable outcomes
+Protocol (40 day)
+Trial (1 stim and 1 reward)
 
-- Behavourial Assessment: 
-    - Ladder Run
-    - Motion Capture (SYmmetry of Gait)
-- Measureable Outcomes: 
 
+Why do we expect to VNS to be better than food reward
+
+- Can't really do it in people, cuz we can't really food deprive people
+
+- Food reward is motivation
+    - works similar to neuromodulatory as VNS
+    - Need to be hungry, in order to actually activate neuromodulatory 
+    - INtrinsic motivation system that affects the motivation 
+    - Based on internal state of ANIMAL
+
+- VNS can hijack the reward mechanism by directly stimulating 
+    - Less intrinsic and not reliant on the state of subject 
+
+Reward and reinforcement systems, driven by the neuromodulatory feedback reward systems 
+
+------------
+>>> Present the opposite
+We expect VNS and VNS + Food to be equivalent 
+- We speculate is that we are saturating the reward system
+    - Clinical utility, like having people do it at home while watching TV etc. 
+- VNS is already activating these 
+
+CLINICAL UTILITY IS YOUR REWARD AND IS YOUR stimulation
+    - People can actively do something, and while not attending to the therapy itself
+    - So people can sit on their couch with this thing attached to their leg, having it send stimulation while their watching TV, and still get the benefits while not paying attention at all. 
+
+
+
+
+
+
+
+---------------
 Reading
 Ch 8
 pgs 194-213
