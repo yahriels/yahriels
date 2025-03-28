@@ -1,3 +1,13 @@
+We implant on the left cervical Vagus Nerve? Why? Why not do it in the right nerve? 
+
+~ Excerpt
+"Female Sprague–Dawley rats (250–350 g) were implanted with a platinum–iridium bipolar  cuff electrode around the leftcervicalvagus nerve9. As in humans, only the left vagus nerve was stimulated because the right vagus nerve contains efferents that stimulate the sinoatrial node and can cause cardiac complications"
+
+Complications with implants, and potential problems 
+
+Nature of the lesion
+
+------------
 Injury is a collection of circuits that gets changed as compensatory 
 
 Compensatory Mechanisms
@@ -58,6 +68,8 @@ Why do we expect to VNS to be better than food reward
     - Need to be hungry, in order to actually activate neuromodulatory 
     - INtrinsic motivation system that affects the motivation 
     - Based on internal state of ANIMAL
+
+- Look into reward systems and reinforcement learning systems 
 
 - VNS can hijack the reward mechanism by directly stimulating 
     - Less intrinsic and not reliant on the state of subject 
