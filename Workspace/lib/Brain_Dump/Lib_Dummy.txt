@@ -1,97 +1,28 @@
-We implant on the left cervical Vagus Nerve? Why? Why not do it in the right nerve? 
+Questions
+--------------
+- How VNS works (circuitry) -> VNS has ascending tract
+    - NTS - LC has projections to Spinal Cord 
+        - Tract of VNS
+        - Tract of HROC
 
-~ Excerpt
-"Female Sprague–Dawley rats (250–350 g) were implanted with a platinum–iridium bipolar  cuff electrode around the leftcervicalvagus nerve9. As in humans, only the left vagus nerve was stimulated because the right vagus nerve contains efferents that stimulate the sinoatrial node and can cause cardiac complications"
+- First Line Therapy Treatements
 
-Complications with implants, and potential problems 
+- VNS directs plasticity, and there is now way of targeting spasticity (which is why we need HROC)
 
-Nature of the lesion
+- Current rehab interventions in Spasticity 
+    - FES -> functional electrical stimulation
 
-------------
-Injury is a collection of circuits that gets changed as compensatory 
+- Think about what is actually happening physiologically, and how does HROC work? 
+- Descending control from ...
 
-Compensatory Mechanisms
-- Compensatory Plasticity 
-- Reactive Plasticity
+- Why? 
 
-ADDRESS THIS AS A CIRCUIT problem
-CUZ IT IS A CIRCUIT problem
-WE WANT TO TARGET THE MALADAPTIVE PROBLEMS IN THE CIRCUIT
+- Block descending control in SCI
+- Block descending control in innervation of LC 
 
+- Spinal cord injury? Why? What is the nature of the injury? 
 
-supraspinal 
-
-How is it currently treated? 
-1. Botox Injection
-2. Baclofen 
-Side Effects
-
-
-Focus on the circuit network, these circuits change due to Injury
-The changes can be maladaptive vs beneficial.
-- So we can we leverage these changes with plasticity in the changes to improve function
-- Can we drive changes in the circuit network to improve function which we call beneficial plasticity
-
-- Short description for upper motor neuron and lower motor neuron
-
-- Injury causes maladaptive changes, why is conditioning of the H-Reflex the answer.
-    - Hyperreflexia, so we want to reduce the reflex of response which is then a main component contributing to spasticity
-        - Sensory feedback going back to the spinal cord, and the reflex is much more hyper excitable 
-
-Think about AIMs, what are the measures of success. 
-    - Hypothesis, Outcome Measure, Statistics
-    - 
-
-M-wave and H-Wave
-
-Peripheral Nerve (Mixed)
-- Has got motor fibers (neurons) and sensory fibers (neurons)
-    - motor fibers gets activated first
-    - sensory fibers then feedback 
-
-- If nerve is really long (conduction velocity)
-    - Nerve Lengths (Shorter Path)
-    - With Soleus the Nerves are much longer which is why we 
-    - Has more to do with Anatomy
-
-
-Protocol (40 day)
-Trial (1 stim and 1 reward)
-
-
-Why do we expect to VNS to be better than food reward
-
-- Can't really do it in people, cuz we can't really food deprive people
-
-- Food reward is motivation
-    - works similar to neuromodulatory as VNS
-    - Need to be hungry, in order to actually activate neuromodulatory 
-    - INtrinsic motivation system that affects the motivation 
-    - Based on internal state of ANIMAL
-
-- Look into reward systems and reinforcement learning systems 
-
-- VNS can hijack the reward mechanism by directly stimulating 
-    - Less intrinsic and not reliant on the state of subject 
-
-Reward and reinforcement systems, driven by the neuromodulatory feedback reward systems 
-
-------------
->>> Present the opposite
-We expect VNS and VNS + Food to be equivalent 
-- We speculate is that we are saturating the reward system
-    - Clinical utility, like having people do it at home while watching TV etc. 
-- VNS is already activating these 
-
-CLINICAL UTILITY IS YOUR REWARD AND IS YOUR stimulation
-    - People can actively do something, and while not attending to the therapy itself
-    - So people can sit on their couch with this thing attached to their leg, having it send stimulation while their watching TV, and still get the benefits while not paying attention at all. 
-
-
-
-
-
-
+- Analysis done? 
 
 ---------------
 Reading
