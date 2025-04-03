@@ -1,3 +1,8 @@
+What does this mean? 
+In conditions like spasticity, which results from a loss of supraspinal (UMN) modulation of muscle stretch reflexes,
+These fibers (afferent of Vagus Nerve) synapse bilaterally on neurons within the nucleus tractus solitarius (NTS)
+
+
 Questions
 --------------
 - How VNS works (circuitry) -> VNS has ascending tract
