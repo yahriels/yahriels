@@ -1,0 +1,36 @@
+--------------------------------
+Python
+--------------------------------
+--> python setup.py install
+--> pip install -r requirements.txt
+--> pip install .
+--> pip install numpy scipy matplotlib
+--> conda activate
+
+If main.py GUI doesn't work, you probably want to run:
+--> pip install --editable .
+	- from the folder in which setup.py is found. Then try running main.py after doing that.
+
+--> pyside6-designer (*To open Pyside6 GUI editor suite*)
+
+
+--------------------------------
+Merging & Pulling Changes From 'devel' into 'main'
+--------------------------------
+--> git checkout develop (*Make sure on devel branch)
+--> git add -A; git commit -m "Enter Commit Message Here"; git push; git status (*Save, Commit, and Push changes made in devel to devel branch*)
+--> git checkout main (*Switch to main branch)
+--> git pull (*Pull any local changes that may be in main branch*)
+--> git merge develop (*Merge changes from 'devel' into 'main')
+# Terminal will open a message console, add a commit message then run the command below to save and exit out of merge message console.
+--> *Type ":wq" and then press [Enter]*  (*This will save the message and exit the merge message console*)
+# Resolve conflicts
+--> git add -A (*Add all saved changes to commit*)
+--> git commit -m "Merge develop into main"   (*Commit message*)
+--> git push origin main   (*Push Changes to Main Branch*)
+
+
+
+
+
+pip install pyserial

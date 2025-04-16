@@ -195,3 +195,13 @@ For assisting you with individual sentences/phrases:
 ++++
 BUILD UPON THE OUTLINE AND ASSEMBLE EACH SECTION AS FULLY WRITTEN ARGUMENTS AND CONVERSATIONS. NOW GO BACK THROUGH AND BUILD UPON YOUR WRITING BY ADDING IN-TEXT CITATIONS AND REFERENCES AND SUPPLEMENTING THE ARGUMENTS OF EACH SECTION.
  DON'T FORGET TO ADD THE "Objective of the Research Presented" section and the "Hypothesis/Premise (if any):" section followed by the "Experimental Design" and "Key Findings, Conclusions, Future Directions Section". Keep the word count to 500 words. 
+
+
+ ++++++++++++++++++++++++++++++++----------------++++++++++++
+
+ I am writing a "Seminar Summary" for a Seminar given by: {}
+
+Help me write a response to the following prompts: "Experimental Design:" "Key Findings, Conclusions, Future Directions:" based on the information and my seminar notes and transcript given.  
+KEEP YOUR RESPONSE T0 375 WORDS TOTAL! AND TAKE OUT ALL THE CITATIONS!   DON'T FORGET TO ADD THE "Objective of the Research Presented" section and the "Hypothesis/Premise (if any):" section followed by the "Experimental Design" and "Key Findings, Conclusions, Future Directions Section". 
+Keep the word count to 375 words.  
+KEEP YOUR RESPONSE T0 375 WORDS TOTAL! AND TAKE OUT ALL THE CITATIONS!
