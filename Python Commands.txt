@@ -7,6 +7,8 @@ Python
 --> pip install numpy scipy matplotlib
 --> conda activate
 
+--> pip install prettytable
+
 If main.py GUI doesn't work, you probably want to run:
 --> pip install --editable .
 	- from the folder in which setup.py is found. Then try running main.py after doing that.
