@@ -1,13 +1,3 @@
-print('Hello World')
-
-#|    | Groups   | Week 0                             | Week 1                             | Week 4                         | Week 5   | Week 6              | Week 7   | Week 8            |																		
-#+====+==========+====================================+====================================+================================+==========+=====================+==========+===================+																		
-#|  0 | VNS      | SEQ-3 (excluded), SEQ-4 (excluded) |                                    | REG-1 (excluded), REG-2, REG-3 | REG-4    | REG-6, REG-7, REG-8 | REG-9    | REG-12, REG-14    |																		
-#+----+----------+------------------------------------+------------------------------------+--------------------------------+----------+---------------------+----------+-------------------+																		
-#|  1 | Sham     |                                    | SEQ-5, SEQ-6                       |                                |          | REG-5               | REG-10   | REG-11 (excluded) |																		
-
-
-
 from datetime import datetime
 import pandas as pd
 from tabulate import tabulate
@@ -39,41 +29,44 @@ df = pd.DataFrame(data)
 df["Surgery Date"] = pd.to_datetime(df["Surgery Date"])
 start_date = datetime.strptime("2/24/2025", "%m/%d/%Y")
 
-# Assign weeks, with 2/27/2025 as Week 0
-df["Week"] = ((df["Surgery Date"] - start_date).dt.days // 7)
+# Assign weeks (Week 1 starts where Week 0 used to)
+df["Week"] = ((df["Surgery Date"] - start_date).dt.days // 7) + 1
 
 # Annotate excluded animals
 df["Name Annotated"] = df.apply(
-    lambda row: f'{row["Name"]} (Both Excluded)' if row["Notes"] == "Both Excluded" 
-    else (f'{row["Name"]} (Excluded)' if row["Notes"] == "Excluded" else row["Name"]), 
+    lambda row: f'{row["Name"]} (Both Excluded)' if row["Notes"] == "Both Excluded"
+    else (f'{row["Name"]} (Excluded)' if row["Notes"] == "Excluded" else row["Name"]),
     axis=1
 )
 
-
-# Define the maximum week range to include all data
+# Define max week and week range
 max_week = df["Week"].max()
-weeks = [w for w in range(0, max_week + 1) if w not in [2, 3]]  # Skip Week 2 and Week 3
+weeks = [w for w in range(1, max_week + 1)]
 
-# Create the structured table
+# Create structured table
 grouped_data = {"Groups": ["VNS", "Sham"]}
+
+# Add weeks first
 for week in weeks:
     vns = df[(df["Group"] == 1) & (df["Week"] == week)]["Name Annotated"].tolist()
     sham = df[(df["Group"] == 0) & (df["Week"] == week)]["Name Annotated"].tolist()
     grouped_data[f"Week {week}"] = [", ".join(vns), ", ".join(sham)]
 
-# Build and print tabulated table
+# Add Pre column at the end
+grouped_data["Pre - Week 9"] = ["REG-13", "REG-15, REG-16, REG-17"]
+
+# Build and print text table
 df_table_1 = pd.DataFrame(grouped_data)
 table_text = tabulate(df_table_1, headers='keys', tablefmt='grid')
 print(table_text)
 
-# Create and save matplotlib version of the table
-fig, ax = plt.subplots(figsize=(max(12, len(grouped_data)*2), 3))
+# Create matplotlib version
+fig, ax = plt.subplots(figsize=(max(14, len(grouped_data)*2), 4))
 ax.axis('off')
 tbl = pd_table(ax, df_table_1, loc='center', cellLoc='center')
 tbl.auto_set_font_size(False)
 tbl.set_fontsize(10)
-tbl.scale(1.2, 2)
+tbl.scale(1.2, 3.5)  # Adjust vertical scale to prevent text clipping
 
-# Save as image for viewing/downloading
-# plt.savefig("animal_weekly_timeline_table_excluding_weeks_2_3.png", bbox_inches='tight')
+plt.tight_layout()
 plt.show()

@@ -4,6 +4,16 @@ H-Reflex Conditioning Project: https://physoc.onlinelibrary.wiley.com/doi/full/1
 dEMG electrodes: https://www.sciencedirect.com/science/article/pii/S0165027005001159
 
 
+4/21/25 - Right Vagus Nerve Papers
+https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2021.782786/full
+    - Self-Administration of Right Vagus Nerve Stimulation Activates Midbrain Dopaminergic Nuclei
+https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2021.693140/full
+    - Vagus Nerve Stimulation Induced Motor Map Plasticity Does Not Require Cortical Dopamine
+https://learnmem.cshlp.org/content/24/1/35.short
+    - Vagus nerve stimulation reduces cocaine seeking and alters plasticity in the extinction network
+https://physoc.onlinelibrary.wiley.com/action/oidcCallback?idpCode=connect&error=login_required&error_description=Login+required&state=Dps2IO0LOrpSUAYYguc7KjewvcOVVmYuB99y3D%2FgJyhZrT23U%2BDO5Smq8ZsPTL1GxNzCjIdGQBgnVpmvzmISrn5cyrky0iyBXZ0l3%2B5XZDyEyTKCNCLcXQBVUhdNetfp73goID7KDXOEyTKCNCLcXWvtp83VdgUlFLwlIo5QrJ1vcqOE3xf8cydJqFNbsVbIdFi5%2F4X5h0xvcqOE3xf8c8YJzyj6RPQyMN2RoHtb7tJvcqOE3xf8c%2F56JPlxrgH9PN3Dj0I%2FeZV%2F1bsZ2%2FjOU7CuFpQsGpB1PN3Dj0I%2FeZV%2F1bsZ2%2FjOU%2F%2FFWTpbDfJlK9vL3EgYxprAXvu7AEGCElcfKYLf3cA3MD7fwcD8HXxPG8Wtwl0PAInAtqdfT7YYtMAxsNoH1kYeXwBRBFfTjmCnzjATz3CKMWghulq5Kc9qy8GsCwo4u%2FMvwl5BsUwV7IgIojCkaH%2FBpBrtTSpUCPO3bEMil0y8KYnS1b3MBZrY94UXTixVKQ%3D%3D
+    - The mammalian exercise pressor reflex in health and disease
+
 12/2/2024
 HROC Pre-clinical Meeting Papers (HROC with PNI, Spasticity Rat Model, PRV)
 https://onlinelibrary.wiley.com/doi/full/10.1002/mus.10443
