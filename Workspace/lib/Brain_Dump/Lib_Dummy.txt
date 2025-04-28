@@ -1,21 +1,23 @@
--  Look at pinouts of H-reflex stimulating and recoring electrodes
-- Hook Up saline bath set-up
-- Get set-up on computer and in surgery suite
-------
-Juliet Addo
-Rachel Arnold
-Debora Calderon ?
-Tanya Danaphongse
-Yara EL Zoughby?
-Nicholas Kopchenko? 
-Samantha Kroon? 
-Isabella Meyers
-Connor Neifert
-Chris Philips?
-Tabitha Ristvedt? 
-Brendan Williams
-Pariya Zare
------
+Paper selection:{"The Interaction of a New Motor Skill and an Old One: H-Reflex Conditioning and Locomotion in Rats"/"Why New Spinal Cord Plasticity Does Not Disrupt Old Motor Behaviors"}   
+
+Introduction section
+a. Study rationale, main question, and hypothesis is clearly stated
+
+Methods section
+a. Main methods are explained
+
+Results section
+a. Figures axes are explained clearly
+b. Figure results are explained clearly
+c. Main figures to get the main point across are discussed
+
+Discussion section
+a. Main point conveyed
+b. Implications of the study are discussed
+
+Q&A
+a. Questions from the audience are answered
+-----------
 
 
 
