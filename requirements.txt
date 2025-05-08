@@ -1,3 +1,7 @@
 numpy>=1.24.4
 pandas>=2.0.3
 pyside6>=6.7.3
+streamlit>=1.25
+bokeh==2.4.3
+openpyxl>=3.1
+matplotlib>=3.4.1

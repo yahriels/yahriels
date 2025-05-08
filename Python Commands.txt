@@ -7,6 +7,9 @@ Python
 --> pip install numpy scipy matplotlib
 --> conda activate
 
+--> pip install pandas bokeh selenium pillow
+--> pip install --upgrade bokeh
+
 --> pip install prettytable
 
 If main.py GUI doesn't work, you probably want to run:
@@ -32,7 +35,7 @@ Merging & Pulling Changes From 'devel' into 'main'
 --> git push origin main   (*Push Changes to Main Branch*)
 
 
-
+chmod -R 777 ./
 
 
 pip install pyserial
