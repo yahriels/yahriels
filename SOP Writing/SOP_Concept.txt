@@ -1,0 +1,61 @@
+Main Parts of Surgery Preparation
+
+Day Night Before:
+- Request/Reserve Surgical Set-up or Table
+- Identify which subject will be used, and make sure to have all and enough instrumentation hardware: EMG electrodes, Cuffs, Headcaps, etc.
+- Identify and define and changes to be made to the surgery and experiment (if any)
+- Gather Tools to be used, and other surgical materials (i.e. cotton swambs, q tips, muscle retractors, etc.) and autoclave them
+- Gather towels to be autoclaved
+- Draw and Mix drugs, follow the controlled substance logging procedure, put them in the drug locker
+
+Day of: 
+- Be sure to eat a big breakfast *Mention of warnings*
+- Once in lab, grab drugs drawn up and grab autoclaved supplies: tools, towels, supplementary; and move them to the surgical space
+- Grab surgical sheet
+- Grap Peppi pad/extra towel
+- Grab rat
+- Grab instrumentation hardware or any other hardware needed for experiment
+- Prep surgery space by turning on heading pad and placing on stereo tax, place autoclaved towel over heating pad.
+- Place down autoclaved towel on the surface to the left of stereo tax and take out tools to be placed on the autoclaved towel
+- Turn on and situate pulse oximeter sensor near so station is ready for the rat to be placed. 
+- Once surgical space is prepped, place down peppi pad/extra towel where the rat will be shaved
+- Grab Scale, ISO box, ISO, and Black box where rat will be placed in for anesthesia
+- Grab anesthesia (KX, or KXA cocktail) and remove needle cap, place on peppi pad/extra towel with the needle pointing up (needle head resting on needle cap)
+- Now all the preparation is complete, you are now ready to begin the induction
+
+Induction:
+- Grab surgical sheet, and start filling out all the information of the subject
+- Grab subject and place inside ISO box (open) and place on scale, grab a weight measurement. 
+- Based on weight, take 10% of the weight measurment and convert that into percent of 1 mL of anesthesia, where you round down generally to the lower 0.1 mL or 0.15 mL.
+    - If rat is 325 g, you would round down to 300 g, then give 0.30 mL of KX anesthesia
+- Grab KX anesthesia, eject air bubbles from syringe, mark what your new starting volume is on syringe with marker
+- Measure out what your initial injection dose will be, and mark it on the syringe with a marker
+- For ISO induction, place rat in ISO box, then with dropper soak underside of lid with ISO, then put the lid on the ISO box with the rat inside
+- Monitor rat closely, and wait until rat stops completely moving, then take out rat and place on peppi pad, make sure rat is still breathing
+- While rat is down, take the KX syringe and place the needle betwen the second and third nipple of the abdomen
+- Inject KX IP, until the volume measurement you marked
+- After injected, place rat in black box so that the rat may progress to the next stages of the anesthesia
+- Closely monitor rat to make sure rat doesn't stop breathing or has any complications
+    - If rat does begin to have complications, refer to emergency drugs protocol
+- In a few minutes once the rat is down and confirmed to still be breathing, take rat and place on peppi pad
+- You can now shave the rat according to the surgical sites (Head, leg, neck)
+- After the rat has been shaved, place rat immediately on heating pad, and place pulse oximeter sensor on foot and thermal probe to take vitals
+- Take initial vitals and record on surgical sheet.
+- After vitals are taken, and confirmed to be stable, you may continue to next part (ear bars)
+
+Ear Bars:
+---
+Follow verbatim what the other manuals describe
+---
+
+Headcap Implant:
+
+Tibial Implants:
+
+Tunelling:
+
+Recordings: 
+
+Loggin Vitals, Tracking Changes & Events:
+
+
