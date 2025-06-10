@@ -49,13 +49,61 @@ Follow verbatim what the other manuals describe
 ---
 
 Headcap Implant:
+- To begin with headcap implant follow the ear bar procedure to place rat in stereo tax
+- The left ear bar will be fixed, while the right ear bar is adjustable
+- Place the rat in the left ear bar so that the ear bar sits inside the rat's ear canal
+- Grab a good hold of the rats head with one hand, and situate the adjustable bar into the rats right ear canal
+- Now that the rat is in the ear bars, get your materials ready to begin the procedure
+- Grab Iodine and Cotton Swab and alternating, apply to incision site, then inject lidocain SubQ
+- Now mark incision site, and make incision with scalpel blade on skull for headcap placement
+- Pull back skin with Muscle Retractors, then use cotton swabs to push away tissue, then once skull is visible locate Lambda and Bregma, and mark where you are going to make your headscrew holes
+- Use scalpel blade to start the holes where you marked by placing the tip of the blade and rotating it with light pressure
+- Then finish off the hole with your drill/drill bit, rotatating and applying more pressure until you hear a slight pop or feel the tip is through, then to take out the drill, rotate it inverse instead of pulling out
+- Now the headscrew holes are done 
+
+
 
 Tibial Implants:
+- Before starting, make sure to wipe incision area with Iodine and Alcohol swabs and inject lidocain into incision site
+- Review Tibial Nerve Diagrams, and mark incision site, and check the site with the diagrams at least 2 to 3 times
+- Once you are confident about the placement of the incision sites, go ahead and make the incision with your scalpel blade
+- Open up the incision sight more with your scissors, then place muscle retractors
+- Grab curved scissors and curved morrias, and start to blunt dissect through the muscle belly where you can grab the muscle with the curved morrias
+- Once you get through the first layer of muscle, you will know see a layer of fat under, blunt dissect through that as well
+- Once you start blunt dissecting to the layer of fat, you will start to see a cavity, once you reach this you may stop and place muscle retractors to open up the site
+- Once you reach this level start to look around, it is typically at this level that you will find the tibial nerve, there should be another layer of muscle below this where the fiber orientation is different than the outer layer you initially dissected thorugh, the tibial nerve is typcally sitting on top of this layer of muscle
+- Locate the tibial nerve and start to blunt disect towards it with a pair of 5's, seprate the nerve from the other nerves, it should be the white and biggest nerve in the proximity
+- Grab your tibial stimulating cuff and position it closer to the site, ready to to cuff the nerve
+- Pick up the nerve *with the curved tool*, pull one of the suture threads of the cuff under the nerve, then cuff the nerve
+- The nerve cuff implantation is now complete
+- Now plug the pins of the cuff into the stimulating channels (of the stimulator or headcap) and send a test stimulation to see if you get the evoked response
+- If you get the evoked response then congratulations you have successfully cuffed the right nerve
+- To prep for the EMG electrode implantation, grab your EMG electrodes (threaded on suture needle) and grab the suture needle with needle holders
+- Right below the sight where you blunt dissected extensively, you should still have some muscle belly visible (which should be the gastronemeous muscle), you are going to pass your suture needle laterally through this muscle, and then have the needle come back up through the muscle (not the skin)
+- Know tie a knot at the sight where the EMG electrodes entered the muscle, and where the EMG electrodes exited the muscle
+- Congratulations you have now chronically implanted both Tibial cuff and EMG electrodes 
+
+
 
 Tunelling:
+- To begin tunneling, the head incision and leg incision need to already be made (implants can also be made), start to blunt dissect a bit from both incisions to start the tunnel
+- Take the trocar tube and put the beveled tip on it
+- Starting from the leg incision start to pass the tube through the incision, start much more laterally at the start to get to midline of the spine as soon as possible
+- When tunelling, pick up the skin and make sure to point the tip up to make sure you are keeping the tunneling as shallow as possible, continuously picking up the skin as you continue to tunnel
+- Once you get mid-line, situate the leg back so it makes a straight line with the head incision
+- Continue to pass the tube slowly and gradually through until it comes out of the head, but do not completely pull the tube through when you reach this point, you only want the tip of it sticking out of the head incision, maybe a little bit more
+- Now when the other end (without the tip) is barely sticking out of the leg incision, place and secure the gold pins of the EMG electrodes and cuff inside the tube
+- Then with the gold pins secured inside, continue to pull the tube all the way through to pass the pins SubQ through the rat all the way to the head incision
+- Once this is done, congratulations, you have successfully tunnelled
+
+Pluggin Everything
+
+
 
 Recordings: 
+-
 
-Loggin Vitals, Tracking Changes & Events:
 
 
+Loggin Vitals, Tracking Changes & Events: 
+- 
