@@ -1,3 +1,54 @@
+Hardware and Materials
+- Open Ephys Acquisition Board
+- 4100 Stimulator
+- BNC cable connectors
+- I/O boards
+- HDMI cord
+- 6 channel commutator 
+- SPI cable
+- Omnetics cable
+- Intan headstage
+
+Drugs:
+- KX cocktail
+- Lidocaine/Marcain cocktail
+- Saline (Ringers)
+
+Rescue Drugs:
+- Dopram
+- AD 
+- Glyco
+
+Surgical Tools:
+- Tooth forceps
+- 5's
+- Scalpel Holder
+- Curved morrias (fine) (x2)
+- Curved morrias (thick)
+- Nerve elevator tool (spiral)
+- Hemostat
+- Curved scissors
+- Straight scissors
+
+Surgical Supplies:
+- Cotton swabs
+- Gauze
+- Q tips
+- Medical tape
+- Alcohol pad
+- Iodine pad
+- Eye gel
+- Muscle retractors (5mm x4)
+- Muscle retractor magnets (x5)
+- Drill bit
+- Drill bit holder
+
+Recording hardware:
+- 6 channel headcap (at least x2)
+- Stainless steel tibial stimulating cuff (at least x2)
+- Stainless steel EMG electrodes (at least x2) 
+
+
 Main Parts of Surgery Preparation
 
 Day Night Before:
@@ -36,7 +87,7 @@ Induction:
 - Inject KX IP, until the volume measurement you marked
 - After injected, place rat in black box so that the rat may progress to the next stages of the anesthesia
 - Closely monitor rat to make sure rat doesn't stop breathing or has any complications
-    - If rat does begin to have complications, refer to emergency drugs protocol
+    - If rat does begin to have complications, refer to rescue drugs protocol
 - In a few minutes once the rat is down and confirmed to still be breathing, take rat and place on peppi pad
 - You can now shave the rat according to the surgical sites (Head, leg, neck)
 - After the rat has been shaved, place rat immediately on heating pad, and place pulse oximeter sensor on foot and thermal probe to take vitals
@@ -96,14 +147,56 @@ Tunelling:
 - Then with the gold pins secured inside, continue to pull the tube all the way through to pass the pins SubQ through the rat all the way to the head incision
 - Once this is done, congratulations, you have successfully tunnelled
 
-Pluggin Everything
-
-
+Plugging in everything: 
+- Once the procedure is complete (i.e. headscrew holes, tibial implants, tunnelling) and you have all the gold pins coming out of the head incision through the tunnel, you are ready to begin plugging everything
+- First bring the commutator (and all the components that come with it) closer to the rats head in a stable position
+- Next using the micropositioner, position the tip of it so that it sits right above the skull
+- Next curl the cable around the tip of the micropositioner so that the headstage sits right above the skull
+- Once you are happy with the position of the headstage, secure everything in place with some tape
+- Now go ahead and plug in the headcap into the headstage, start with the omnetics connector first, and then the one with the clip second
+- There are four through-hole pins, and 2 surface mounts pins on the headcap, then there are two headscrews connected 
+    - The top 2 through-hole pins on the left are for EMG recording channels 
+    - The side 2 through-hole pins on the right are for tibial stimulation channels
+    - The 2 surface mount pins are for VNS channels
+    - The headscrew on the left labelled "g" is the grounding screw 
+    - The headscew on the right labeeled "E" is the EEG screw
+- Take you tibial cuff end-pins, and plug them into the stimulation channels, use the thicker pair of curved morrias, and your fingers if you need to, insert with slight pressure until you hear a click
+- Perform the same procedure for the remaining gold pin connections, ensuring the correct pins go to the correct channels 
+- After the gold pins are connected, you are ready to put in the bone screws
+- First using the micropositioner, adjust the position so that the headcap sits closer to the skull, allowing  some slack with the wire connecting the grounding screws to the headcap
+- Now with a pair of 5's, grab the underside of the grounding screw, and position it inside the headscrew hole you made
+- With a flat head screw driver, screw in the headscrew with small incremental turns, while still holding the screw with your 5's, by screwing directly downward and by applying slight pressure
+- Between each turn, wait a second to allow the wire to unravel and relax, so that connection between the headscrew and connecting wire to the headcap does not get broken and damaged
+- Repeat this process until the screw is fastened securely, then test by grabbing pair of 5's and applying gentle upward pressure to make sure screw is secure
+- If the screw doesn't come out, then you have completed this step
+- Repeat process for the remaining headscrew
+- Once you have both screws in, congratulations you have now plugged everything in now
+- You may send trigger to test if stimulation works 
 
 Recordings: 
--
+- Initialize Open Ephys software on computer 
+- Go to File-> Open -> Navigate to H-Reflex folder, and select the most current configuration file
+- When the configuration file is open, make sure that the Fast Settle (TTL1) is enabled, and that you are sampling at 5kHz
+- At the top right, change the file name to at the beggining to say the name of the rat subject selected for the experiment
+- When you press the start button, this starts the data acquisition, whenever this is stopped and started again, each time it will create a new experiment object in the recording file
+- When you prese the record button, this starts the data recording, whenever this is stopped and started again, each time it will create a new recording object that is nested within the current experiment object. Whenever you press stop and start, it only iterates through the recording objects, and does not affect the counting or numbering of the experiment object.
+- Before starting recording, press start button to start acquisition and send a couple of test stimulations to test evoked response, once verified, you can move on to getting ready to do recordings
+- To prep recording, open a text file and call it "Ratname_Notes.txt", here is where you will keep your notes for the recording and prepare your recording messages.
+- Keep track of the configurations you are running for the recording session, and form them into a note where you label the recording and the test configuration like "Recording 1: Stainless Steel Cuff, Fast Settle Enabled, etc." 
+- Once you have your recording message typed out you may begin the recording by preseing the circle, it should turn red when it is recording
+- Take the recording message you typed up, and put it into the event message center at the bottom right, then save the message
+- Now choose your starting amplitude and type into the event message center like this "Starting 0.50 mA" then save the message
+- Once you have ensured the message is saved, send 5 stimulation triggers, and wait approximately 3-4 seconds in between each stim
+- Then repeat this process as you step through the different stimulation amplitudes for the recording/experiment
+- Once you are done recording, type "Stopping Recording" into the event message center, and save it, and then you may stop the recording by pressing the circle button again
+- Once you have ended the recording, go to the location of where it was saved, to make sure it was saved correctly
+- If all is in order, then congratulations you now know how to do recordings 
 
 
 
 Loggin Vitals, Tracking Changes & Events: 
-- 
+- Always keep a close eye on the rat at the beggining of the surgery when getting things set-up and track vitals
+- When there is any change, or irregularity in the data acquisition or vitals, watch the rat and record any notable behavior changes and vitals on surgical sheet 
+- Repeat this process before making any changes of any sort to the experiment or rat (i.e. Changing positions, changing configurations, etc.)
+- It would be helpful to have an extra set of hands and eyes to perform these tasks while the main surgeon focuses on the procedure and recordings
+- Overall, keep a close eye on the rat throughout the entire session, especially the vitals and be sure to make sure the rat is stable before continuing on with the procedure, recordings, and any otherwise changes introduced to the rat and/or experiment
