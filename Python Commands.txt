@@ -11,6 +11,8 @@ Python
 --> pip install --upgrade bokeh
 
 --> pip install prettytable
+--> pip install zmq, scipy, platformdirs, serial, serial.tools
+
 
 If main.py GUI doesn't work, you probably want to run:
 --> pip install --editable .

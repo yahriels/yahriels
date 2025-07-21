@@ -4,6 +4,18 @@ H-Reflex Conditioning Project: https://physoc.onlinelibrary.wiley.com/doi/full/1
 dEMG electrodes: https://www.sciencedirect.com/science/article/pii/S0165027005001159
 
 
+
+7/21/25 - Nerve Regen Papers 
+https://pmc.ncbi.nlm.nih.gov/articles/PMC6736627/#S2
+    - An Effective Method for Acute Vagus Nerve Stimulation in Experimental Inflammation
+https://onlinelibrary.wiley.com/doi/epdf/10.1002/mus.26646
+    - Stimulated grip strength measurement: Validation of a novel method for functional assessment
+https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-022-01434-9#Sec8
+    - Deep learning-based behavioral profiling of rodent stroke recovery
+https://www.nature.com/articles/srep42323#ref-CR15
+    - Modified forelimb grip strength test detects aging-associated physiological decline in skeletal muscle function in male mice
+
+
 4/21/25 - Right Vagus Nerve Papers
 https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2021.782786/full
     - Self-Administration of Right Vagus Nerve Stimulation Activates Midbrain Dopaminergic Nuclei
