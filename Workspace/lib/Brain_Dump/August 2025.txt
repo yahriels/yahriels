@@ -1,0 +1,22 @@
+First lets put down everything we need to do, then organize and prioritize order of operations
+
+
+SOP Writing/Documentation
+- Update Surgical SOP
+- Start Writing Building Hardware SOP
+    - Heacap, Commutator, Swivel
+- Start Writing Recording SOP
+- Guide of Soleus Anatomy
+- Guide of Tibial Nerve Anatomy
+
+Experimental Set-up 
+- Test H-Reflex App, acquire data with H-reflex app
+- Grab some more acute recordings
+- Dissection to get idea of Tibial Nerve area
+
+Miscellaneous
+- Reading literature
+- Testing 'broken' AM 4100 stimulators
+- Need to work on updated Schematic
+- Updata Data Slides/Surgical Pics Slides
+
