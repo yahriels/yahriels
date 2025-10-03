@@ -1,0 +1,22 @@
+WOrk and Breakpoints on:
+Mainwindow.py -> def On_data_recieved
+background worker.py
+
+
+line 127 of MainWindow.py:
+        # Initialize the threadpool and the background worker
+        self.threadpool = QThreadPool()
+        self.background_worker = BackgroundWorker()
+        self.background_worker.signals.data_received_signal.connect(self._on_data_received)
+        self.threadpool.start(self.background_worker)
+
+UNderstand channel logic on lines 58-82 of backgroundworker.py
+
+
+Trial logic of when trial is initiated, how to initiate trial, when to stimulate ... 
+-> Look at the stage files 
+
+Where is the bug
+-> In pulling data?
+-> In processing data?
+-> In Plotting trials
