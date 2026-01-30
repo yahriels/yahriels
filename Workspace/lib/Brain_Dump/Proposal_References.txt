@@ -1,0 +1,30 @@
+January 2026
+---------------
+Title: Electrophysiological evidence of Hebbian plasticity in awake adult rats
+Authors/Year: Siddharth S. Gaikwad, 1 Yi Chen, 2; 2025
+Link:https://journals.physiology.org/doi/full/10.1152/jn.00129.2025
+Topics: H-reflex Studies, Hebbian Plasticity, Electrophysiology Methods
+
+
+Title: Paired corticospinal-motoneuronal stimulation and exercise after spinal cord injury
+Authors/Year: Hang Jin Jo, Michael S. A. Richardson, Martin Oudega, Monica A. Perez / 2021
+Link: https://www.tandfonline.com/doi/full/10.1080/10790268.2021.1970908\
+Topics: Spinal Cord Injury Rehabilitation, Corticospinal Plasticity, Neuromodulation Methods
+
+
+Title: Hyperreflexia after corticospinal tract lesion reflects 1 A afferent circuit changes not increased KCC2 hyperexcitability
+Authors/Year: T. Bethea et al. / 2025
+Link: https://www.sciencedirect.com/science/article/abs/pii/S0014488625002651
+Topics: [DR. Kilgard EMG Project Discussion, DR. MEYERS GAVE PAPER] Corticospinal Tract Lesion, Hyperreflexia Mechanisms, Neural Circuit Plasticity
+
+
+Title: The Spike-Timing Dependence of Plasticity
+Authors/Year: Daniel E. Feldman / 2012
+Link: https://www.cell.com/neuron/fulltext/S0896-6273(12)00703-9
+Topics: Synaptic Plasticity, Spike-Timing Dependent Plasticity (STDP), Neural Learning Mechanisms
+
+
+Title:  Spike-timing-dependent plasticity in lower-limb motoneurons after human spinal cord injury
+Authors/Year: M. A. Urbin, Recep A. Ozdemir, Toshiki Tazoe, and Monica A. Perez / 2017
+Link: https://journals.physiology.org/doi/full/10.1152/jn.00111.2017
+Topics: Electrophysiology Methods, Neural Plasticity, J Neurophysiol Publications

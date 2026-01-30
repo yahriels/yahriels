@@ -1,55 +1,139 @@
-Paper selection:{"The Interaction of a New Motor Skill and an Old One: H-Reflex Conditioning and Locomotion in Rats"/"Why New Spinal Cord Plasticity Does Not Disrupt Old Motor Behaviors"}   
+Code #1 - Code to blank out stim events, and look at distribution of background EMG, RMS, histogram, 
 
-Introduction section
-a. Study rationale, main question, and hypothesis is clearly stated
+Blanking/Backgournd EMG Psuedocode 
+:
 
-Methods section
-a. Main methods are explained
+IMPORTS
+Open Single Directory Function: {
+    open file directory 
 
-Results section
-a. Figures axes are explained clearly
-b. Figure results are explained clearly
-c. Main figures to get the main point across are discussed
+    [Output: Troubleshooting text]
 
-Discussion section
-a. Main point conveyed
-b. Implications of the study are discussed
+                                    -- Online filtered protocol selection
+    Option for online or offline --|
+                                    -- Offline filtered protocol selection
+    [Output: Troubleshooting text]
 
-Q&A
-a. Questions from the audience are answered
+                      -- Online filtered protocol selection
+    EMG processing --|
+                      -- Offline filtered protocol selection
+
+    [Output: Troubleshooting text]
+
+    Plot entire recording
+
+} 
+
+Blanking Stimulus Periods Functions: {
+    Look at event markers (stim events)
+
+    Begin blank out period 10 ms before, and end black out period 50 ms after event marker
+
+    [Output: Troubleshooting text]
+
+    Blank out that data with the blank out Periods
+
+    [Output: Troubleshooting Text]
+
+    Repeat process for all event periods
+}
+
+EMG Data Handling: {
+
+    Bins of 50 ms 
+    [Output: Troubleshoot]
+
+        Test/Snip data off that isn't multiple of 100 ms
+
+    Take mean for each 100 ms bin
+
+    Do histogram on each 100 ms bin 
+}
+
+
+Eric NOtes:
+{
+Find out how david is handling raw data, and does RMS transform
+
+MEan value / some window of time
+
+looks at 100 ms bins (or something)
+
+Looks at this over bins value over 2.5 seconds
+
+If any of these values are not within the thresholds, it won't initiate a trial
+
+
+
+Look at distribution so we can set the bounds for trial initiation correctly
+
+Confirm  absolute value funciton in code 
+
+Do write up
+}
+
 -----------
+H-Reflex Conditioning EMG Characterization Analysis – Stage Descriptions
 
+Stage 1 – EMG Characterization Stage Offline Analysis
+The application monitors EMG activity from a recording taken at a sampling rate of 5000 Hz.
+Upon initialization of the stage, the code will initialize monitoring by setting up trials (that are a moving window/buffer) and sweeping through a session (entire recording). Upon initialization of a trial, a random duration between 2.3 and 2.7 seconds is chosen, rounded to the nearest 50 ms. This duration is the monitored signal duration. The stage initializes a buffer large enough to hold samples for the monitored signal duration; this buffer is called the monitored signal: when taken together this creates a SLIDING WINDOW. If there is an Event Marker (TTL), marking a stimulation event, detected within the monitored signal and monitored signal duration, then the stage will discard and omit the data from 10 seconds before the Event Marker to 50 ms after the event marker, then proceed with monitoring the rest of the trial until the buffer or SLIDING WINDOW is full. 
+Once the buffer is full, old samples are discarded while new samples are pushed into the buffer to reset and set-up the next trial. After each trial, the stage will conduct BINNING by calculating the bin grand mean for each 50 ms bin and store it. The stage will do this until it has completed all the trials to reach the end of the session/recording. The buffer is segmented into bins that are 50 ms in duration, and samples within each bin are averaged together to generate a binned signal comprised of the bin grand mean for each 50 ms bin for each trial in the session.
+At the end of this stage, once the processing of trials has been completed and has swept through the entire session or recording, the app will move on to building a histogram of the assembled binned signal. First, all the binned signal data comprising of all the calculated bin grand means from Stage 1 trials will be loaded in an array. The app will then calculate statistical parameters of the binned signal including: minimum, maximum, sample size (N), and standard deviation. Next the app will continue with calculating the quartiles (25th, 50th, 75th percentiles) as well as calculate the step size (1% of range). Finally the app will construct a histogram plot of the binned signal from the calculated histogram parameters. 
 
+Phase 0 – Imports and Define Constants and Configuration
+Define Constants and define protocols for online and offline filtering. 
+For online filtering, select “record node 106” and define differential_filt signal as data[:,3] or the 4th channel index in the imported data object. That is “differential_filt = data[:,3]” when the data frame is imported as “data” with 5 corresponding channels. These 5 channels should be  data = ['CH1', 'CH5', 'EMG1', 'EMG2', 'ADC1']
+For offline filtering, select “record node 111” and additional steps are required to arrive to the differential_filt signal. For offline filtering the following EMG processing steps need to be completed to arrive at final differential_filt signal. When filtering and processing is set-up correctly, then “differential_filt = lfilter(b, a, differential)” when using python packages.
+# ==== EMG Processing ====
+emg1_raw = data[:, 2]
+emg2_raw = data[:, 3]
+differential = (emg2_raw - emg1_raw)
+lowcut = 100
+highcut = 1000
+b, a = butter(2, np.array([lowcut, highcut])/(sample_rate/2), btype='bandpass')
+differential_filt = lfilter(b, a, differential)
 
-Backlog
-- Read Dr. Meyers' Dissertations: {https://www.proquest.com/pqdtlocal1006281/docview/2087776469/E4E1D789F8AE458EPQ/1?accountid=7120&sourcetype=Dissertations%20&%20Theses}
-- then Ch. 16-17
-- Read VNS Papers from Dr. Hays and Dr. Kilgard
-
-
-----------------------------------------
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Phase 1 – Data Acquisition
+The code opens and monitors a recording of EMG that was continuously sampling  at a rate of 5000 Hz. This EMG recording is mixed with events of Motor Evoked Potential (MEP’s), that are marked with Event Markers (TTL), as well as Background EMG levels where no events took place. The data frame is stored in an object called “data” that should comprise of 5 channels.
+The code upon initialization will open and pre-process the EMG data recording according to the protocol (online [node 106] vs. offline [node 111] filtering) and legacy code where it will pull out metadata, and Event Markers indicating the presence of a stimulation events for the entire recording.
 
 
 
 
+Phase 2 – Set-up EMG Event Discard Function
+The function upon initialization of the stage will acquire information about all the Event Markers ( # of events, sample #’s and timestamps of events, etc.), and set windows “pre-event” and “post-event” to be discarded and omitted from the recording . These periods are defined as “pre-event” 10 ms before the Event Marker, and “post-event” after the Event Marker. The function will discard data within the defined event times, each time there is an Event Marker and pass  and store the rest of the data left over background EMG data to the buffer or target data frame. [YS1.1]
+
+Phase 3 – Trial Set-up
+To set-up trials, first the app will set-up the following data classes as helpers to assist with the execution of the trials.
+CLASS TrialState:
+    is_trial_set_up: boolean = FALSE
+    monitored_signal_duration_ms: integer
+    monitored_signal_sample_count: integer
+    bin_count: integer
+    current_trial_sample_count: integer = 0
+    current_session_sample_count: integer = 0
+    
+    // Data arrays (sliding windows)
+    monitored_signal: float array
+    monitored_signal_open_ephys_millis: uint64 array
+    monitored_signal_open_ephys_sample_ids: uint64 array
+    bins: float array
+    
+    // Results
+    trial_means: list of floats = []
+    completed_trials: list of Trial objects = []
+END CLASS
+
+CLASS Trial:
+    trial_end_datetime: datetime
+    trial_start_index: integer
+    trial_start_open_ephys_millis: uint64
+    trial_start_open_ephys_sample_id: uint64
+    grand_mean: float
+    bins: float array
+    monitored_signal: float array
+END CLASS
 
 
 
@@ -58,31 +142,294 @@ Backlog
 
 
 
-----------------------------------------
-
-QE is Spring 2025
-8:30 AM - 2:00 PM
-Present in conference room of your research
-- expected to know your area of research
-- know what people have done
-- know the background of your work
-- know the what is going on in your area of research
-
-Quad shot  (Keep words to a minimum and use concept diagrams)
-1. Description:
-- Please describe the broad of your research (Your why and your area of research, what is the significance)
-2. Concept Diagram:
-- Draw a schematic concept diagram summarizing key features of your research
-3. Objectives:
-- Initial understanding of the objectives of your research (What are objectives/aims of the research, personal contributions )
-4. Scope of Research:
-- State the areas of implementation of your research (What is my research going to cover, what I will have explained through my PhD, expected outcomes)
 
 
-What are faculty looking
-- Single Slide and the importance (spend a lot of time putting it together), and know everything you're putting on it
-- How are you gonna process this data, complications, how to interpret, etc...
-- What is the central DOGMA
 
 
-The PI has an opporunity to make a statement, what the strengths are, weaknesses, etc.
+
+
+
+
+H-Reflex App Overview Binning
+This section goes over how the H-Reflex App handles the complete data workflow for EMG Characterization from data acquisition to binning.
+Stage 1.1 – H-Reflex App / Open Ephys Data Frame and Data Blocks Definitions
+This is where H-reflex App~/open_ephys_streamer.py defines the data object [lines 29-55]. 
+•	OpenEphysStreamer receives raw EMG data via ZeroMQ from Open Ephys
+•	Creates OpenEphysDataBlock for each channel (2 channels expected)
+•	Returns individual data blocks
+
+{
+#Stage 1.1 – H-Reflex App / Open Ephys Data Frame Definition
+@dataclass
+class OpenEphysDataFrame:
+    timestamp: int = 0
+    sample_id: int = 0
+    channel_data_blocks: list[OpenEphysDataBlock] = field(default_factory=lambda: [])
+    timestamp_emitted: int = 0
+
+    #The following data members are CALCULATED, and thus are NOT initialized with data upon
+    #construction of the object
+    diff_data_block: np.ndarray = field(default_factory=lambda: np.array([], dtype=np.float32))
+    filtered_data_block: np.ndarray = field(default_factory=lambda: np.array([], dtype=np.float32))
+    abs_data_block: np.ndarray = field(default_factory=lambda: np.array([], dtype=np.float32))
+
+    #region Public methods
+#Stage 1.1 – H-Reflex App / Open Ephys Data Calculations
+******#### CALCULATIONS ARE SET-UP HERE#####********
+    def calculate_fields (self) -> None:
+        if (len(self.channel_data_blocks) >= 2):
+            #Do the differential subtraction
+            self.diff_data_block = self.channel_data_blocks[1].data -self.channel_data_blocks[0].data
+
+            #Now filter the data
+            self.filtered_data_block = EmgDataFilter.filter(self.diff_data_block)
+
+            #Now take the absolute value of the data 
+            self.abs_data_block = np.abs(self.filtered_data_block)
+
+    #endregion
+
+}
+
+Stage 1.2 – H-Reflex App / Frame Assembly
+This is where H-reflex App~/background worker.py builds the data frame with [lines 46-89]. 
+•	Background thread collects data blocks from both channels
+•	Assembles them into OpenEphysDataFrame
+•	When all expected channels received, emits the frame via signal
+
+{
+    def run (self):
+        '''
+        This is the code executed by the background thread.
+        '''
+
+        #Initialize the open ephys streamer
+        self._open_ephys_streamer.initialize()
+
+        #Create a variable to hold a "frame" of data
+        df: OpenEphysDataFrame = None
+
+        #Iterate until the "should cancel" is set to True
+        while (not self._should_cancel):
+}
+
+Stage 1.3 – H-Reflex App / Signal Processing
+Where H-reflex App~/main_window.py processes the signal for plotting [lines 536-587]. 
+
+{
+def _on_data_received (self, received: OpenEphysDataFrame) -> None:
+        #Initialize the filter if necessary
+        if (EmgDataFilter.sos is None):
+            EmgDataFilter.initialize_filter()
+
+*****THIS IS WHERE ABS VALUE DATA BLOCK IS CALCULATED******
+        #Calculate the uninitialized fields in the dataframe
+        received.calculate_fields()
+
+		# GRAB DATA for plotting in H-Reflex App
+        #Grab the data was sent from Open Ephys
+        data = received.diff_data_block
+        sample_rate = received.channel_data_blocks[0].sample_rate
+…~
+        # THIS IS WHERE THE DATA IS PASSED TO THE STAGE FOR PROCESSING
+#Check to see if a session is actively running
+        if (self._is_session_running) and (not (self._is_session_paused)):
+            #If so, process the data through the selected stage
+            self._selected_stage.process(received)
+
+        #Plot the live emg data
+        self._plot_live_emg()
+
+}
+
+Stage 1.4 – H-Reflex App / Signal Processing
+The stage H-reflex App~/emg_characterization_stage.py receives the frame with abs_data_block already computed [Lines 140-230]
+Stage 1.4.1 – Trial Set-up [Lines 140-167]
+
+{
+    def process (self, data_frame: OpenEphysDataFrame) -> None:
+        '''
+        Processes the most recent incoming data and takes any actions
+        that are necessary based on the incoming data.
+        '''
+
+        #Check to see if we need to set up a new trial
+        if (not self._is_trial_set_up):
+            #Set up a new trial
+            self._setup_new_trial()
+
+        #Now let's proceed
+        if (self._is_trial_set_up):
+            #Get the length of the incoming data block
+            data_block_len: int = len(data_frame.diff_data_block)
+
+            #Get the Open Ephys millis timestamp (the timestamp at which this data was sent to our app by Open Ephys)
+            data_block_open_ephys_millis: np.ndarray = np.full(data_block_len, data_frame.timestamp, dtype=np.uint64)
+
+            #Get the Open Ephys sample id
+            #(this identifies the FIRST sample in the data block with a specific sample in the Open Ephys recording)
+            data_block_open_ephys_sample_id: np.ndarray = np.arange(data_frame.sample_id, data_frame.sample_id + data_block_len, dtype=np.uint64)
+
+            #Add the number of samples we are pulling in to the current session sample count
+            self._current_session_sample_count += data_block_len
+
+            #Add the number of samples we are pulling in to the current trial sample count
+            self._current_trial_sample_count += data_block_len
+
+
+}
+
+Stage 1.4.2 – Pull in Data and Discard Unwanted Data [Lines 170-167]
+
+{
+            #Pull in new data to the monitored signal
+            self._monitored_signal = np.concatenate([self._monitored_signal, data_frame.abs_data_block])
+            self._monitored_signal_open_ephys_millis = np.concatenate([self._monitored_signal_open_ephys_millis, data_block_open_ephys_millis])
+            self._monitored_signal_open_ephys_sample_ids = np.concatenate([self._monitored_signal_open_ephys_sample_ids, data_block_open_ephys_sample_id])
+
+            #Throw out old values from the monitored signal
+            elements_to_remove: int = len(self._monitored_signal) - self._monitored_signal_sample_count
+            if (elements_to_remove > 0):
+                self._monitored_signal = self._monitored_signal[elements_to_remove:]
+                self._monitored_signal_open_ephys_millis = self._monitored_signal_open_ephys_millis[elements_to_remove:]
+                self._monitored_signal_open_ephys_sample_ids = self._monitored_signal_open_ephys_sample_ids[elements_to_remove:]
+
+}
+
+
+
+Stage 1.4.3 – Binning and Bin Means and Grand Bin Means [Lines 181-193]
+{
+#Bin the data
+            for bin_index in range(0, len(self._bins)):
+                bin_start = EmgCharacterizationStage.BIN_SAMPLE_COUNT * bin_index
+                bin_end = EmgCharacterizationStage.BIN_SAMPLE_COUNT * (bin_index + 1)
+
+                if (bin_end > len(self._monitored_signal)):
+                    bin_end = len(self._monitored_signal)
+
+                bin_mean: float = np.mean(self._monitored_signal[bin_start:bin_end])
+                self._bins[bin_index] = bin_mean
+            
+            #Get the mean of all the bins
+            bin_grand_mean: float = np.mean(self._bins)
+
+
+}
+
+Stage 1.4.4 – Checking for initiation and storing Grand Bin Means [Lines 195-204]
+{
+            #If the bin grand mean is within a pre-specified min or max range, then
+            #we consider this a trial initiation.
+            if ((self._current_trial_sample_count >= self._monitored_signal_sample_count) and
+                (bin_grand_mean >= EmgCharacterizationStage.TRIAL_INITIATION_MIN_RANGE_MICROVOLTS) and 
+                (bin_grand_mean <= EmgCharacterizationStage.TRIAL_INITIATION_MAX_RANGE_MICROVOLTS)):
+
+                #A trial has been initiatied...
+
+                #Add the grand mean to the list of trial means
+                self._trial_means.append(bin_grand_mean)
+
+}
+
+
+Stage 1.4.5 – Checking for initiation and Storing Grand Bin Means [Lines 195-204]
+
+{
+            #If the bin grand mean is within a pre-specified min or max range, then
+            #we consider this a trial initiation.
+            if ((self._current_trial_sample_count >= self._monitored_signal_sample_count) and
+                (bin_grand_mean >= EmgCharacterizationStage.TRIAL_INITIATION_MIN_RANGE_MICROVOLTS) and 
+                (bin_grand_mean <= EmgCharacterizationStage.TRIAL_INITIATION_MAX_RANGE_MICROVOLTS)):
+
+                #A trial has been initiatied...
+
+                #Add the grand mean to the list of trial means
+                self._trial_means.append(bin_grand_mean)
+
+                #Save the trial to the data file
+                self._save_trial(bin_grand_mean)
+
+}
+
+Stage 1.5 – Saving Trial Objects and EMG Data Frame [Lines 353-400]
+
+{
+    def _save_trial (self, bin_grand_mean: float) -> None:
+        if (self._fid is not None):
+            #Determine the trial's "start index"
+            #The "start index" is the index into the TOTAL NUMBER OF SAMPLES that have been
+            #streamed into this Python application during this session.
+            trial_start_index: int = self._current_session_sample_count - self._current_trial_sample_count
+
+            #Determine the trial's open ephys millis timestamp
+            open_ephys_millis: int = self._monitored_signal_open_ephys_millis[0]
+
+            #Determine the sample id of the first sample in the trial
+            open_ephys_sample_id: int = self._monitored_signal_open_ephys_sample_ids[0]
+
+            #Create a trial object
+            trial: EmgCharacterizationTrial = EmgCharacterizationTrial(
+                datetime.now(),
+                trial_start_index,
+                open_ephys_millis,
+                open_ephys_sample_id,
+                bin_grand_mean,
+                self._bins,
+                self._monitored_signal
+            )
+
+            #Save the trial object to the data file
+            trial.save_to_file(self._fid)
+            
+            pass
+
+    def _save_emg_data_frame (self, data_frame: OpenEphysDataFrame) -> None:
+        #Assimilate the data blocks
+        emg_channel_names: list[str] = [x.channel_name for x in data_frame.channel_data_blocks]
+        data_to_save: list[np.ndarray] = [x.data for x in data_frame.channel_data_blocks]
+
+        #Create an object to prepare the data to save to a file
+        emg_data: HReflexDataFileEmgData = HReflexDataFileEmgData(
+            data_frame.timestamp,
+            data_frame.channel_data_blocks[0].timestamp_received_millis,
+            data_frame.timestamp_emitted,
+            emg_channel_names,
+            data_to_save,
+            data_frame.diff_data_block,
+            data_frame.filtered_data_block,
+            data_frame.abs_data_block
+        )
+
+}
+
+Stage 1.5 – Trial Scheme  [Lines 195-204]
+
+
+EmgCharacterizationTrial Object Variables
+Defined at emg_characterization_data_file.py:80-104
+{
+def _save_trial
+•	trial_end_datetime - when the trial ended
+•	trial_start_index - where in the full session this trial started
+•	trial_start_open_ephys_millis - Open Ephys timestamp
+•	trial_start_open_ephys_sample_id - Open Ephys sample ID
+•	grand_mean - the mean of all bins
+•	bins - the 50ms bin averages
+•	monitored_signal - the processed signal data for this specific trial
+def _save_emg_data_frame
+•	Raw EMG channel data from both channels
+•	Timestamps (multiple types)
+•	diff_data_block - difference between channels
+•	filtered_data_block - filtered data
+•	abs_data_block - absolute value data
+
+}
+
+Key Notes:
+•	The monitored signal is calculated as the absolute difference between two EMG channels
+•	Bins divide the monitored signal into 50ms intervals, with each bin containing the mean value for that interval
+•	The grand mean is the overall mean across all bins in the trial
+•	The Open Ephys timestamps and sample IDs allow synchronization with the original Open Ephys recording
+
+
