@@ -1,3 +1,16 @@
+Reccomendations
+- Break up code in different notebooks
+- Use helper Functions (plotting, etc.)
+- Break out chunks of codes in cells 
+
+- Use claude to use output checkpoints 
+
+
+
+
+
+
+
 Code #1 - Code to blank out stim events, and look at distribution of background EMG, RMS, histogram, 
 
 Blanking/Backgournd EMG Psuedocode 
