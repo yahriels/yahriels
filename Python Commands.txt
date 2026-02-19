@@ -4,6 +4,8 @@ Python
 --> python setup.py install
 --> pip install -r requirements.txt
 --> pip install .
+
+--> pip install -e .
 --> pip install numpy scipy matplotlib
 --> conda activate
 
@@ -41,3 +43,16 @@ chmod -R 777 ./
 
 
 pip install pyserial
+
+
+-------------------------
+H-reflex App WOrking therapeutic
+-------------------------
+(.venv) PS C:\Users\dal866445\Documents\Github\open-ephys-python-tools> git remote -v
+origin  https://github.com/yahriels/Open-Ephys-H-Reflex-Python-Data-Analysis.git (fetch)
+origin  https://github.com/yahriels/Open-Ephys-H-Reflex-Python-Data-Analysis.git (push)
+upstream        https://github.com/open-ephys/open-ephys-python-tools.git (fetch)
+upstream        https://github.com/open-ephys/open-ephys-python-tools.git (push)
+
+https://github.com/yahriels/Open-Ephys-H-Reflex-Python-Data-Analysis?tab=MIT-1-ov-file#readme
+

@@ -1,0 +1,122 @@
+H-Reflex Separate AM 4100 App Development
+
+All related files
+
+HReflex App -> src -> hreflex_txbdc -> model -> application_configuration.py
+HReflex App -> src -> hreflex_txbdc -> model -> stages -> mh_recruitment_curve_stage.py
+
+AM_
+
+
+
+----------------
+Primary Stimulation Trigger Code
+The main trigger happens in MhRecruitmentCurveStage.process() at lines 379-397:
+```
+if (should_initiate_trial):
+    #If it is determined that we should initiate a trial...
+
+    #Set the trial state...
+    self._current_trial_state = MhRecruitmentCurveStage.TRIAL_STATE_RECORD
+
+    #Create a trial object
+    self._current_trial = MhRecruitmentCurveTrial()
+    self._current_trial.initialize(
+        self._current_min_initiation_threshold,
+        self._current_max_initiation_threshold,
+        self._current_stimulation_amplitude_ma
+    )
+
+    #Transfer the last 50 ms of trial initiation data into the trial object
+    self._current_trial.trial_data = self._current_trial_initiation_data.monitored_signal[-MhRecruitmentCurveStage.BIN_SAMPLE_COUNT:]
+
+    #Trigger the Model 4100
+    if (ApplicationConfiguration.stimulator is not None):
+        ApplicationConfiguration.stimulator.trigger_single()
+```
+
+Pre-Trial Setup Code
+Before trials can be initiated, stimulation parameters are configured in MhRecruitmentCurveStage.process() at lines 345-363:
+```
+if (self._current_trial_state == MhRecruitmentCurveStage.TRIAL_STATE_NOT_SETUP):
+    #Set things up for a new trial
+    self._setup_new_trial()
+
+    #Pop the first stimulation amplitude from the list of stim amplitudes
+    self._current_stimulation_amplitude_ma = self._stimulation_amplitudes[0]
+    self._stimulation_amplitudes = self._stimulation_amplitudes[1:]
+
+    #Set the stimulation parameters on the Model 4100 for the upcoming trial
+    ApplicationConfiguration.set_stimulation_amplitude(self._current_stimulation_amplitude_ma)
+
+    if (ApplicationConfiguration.stimulator is not None):
+        ApplicationConfiguration.stimulator.set_active(True)
+```
+
+
+Stimulation Parameter Configuration
+The amplitude is set via ApplicationConfiguration.set_stimulation_amplitude() at lines 170-177:
+```
+@staticmethod
+def set_stimulation_amplitude (amplitude_ma: float) -> None:
+
+    stim: AmSystems4100 = ApplicationConfiguration.stimulator
+    if (stim is None):
+        return
+    
+    #Tell the stimulator unit that each phase of the biphasic pulse will be 0.8 mA
+    #in amplitude.
+    stim.set_event_amplitude1(int(round(amplitude_ma * 1000.0)))
+```
+
+Initial Pulse Parameter Setup
+During stage initialization, ApplicationConfiguration.set_biphasic_stimulus_pulse_parameters() at lines 183-227 configures pulse characteristics:
+```
+@staticmethod
+def set_biphasic_stimulus_pulse_parameters (amplitude_ma: float) -> None:
+    #...
+    stim: AmSystems4100 = ApplicationConfiguration.stimulator
+    if (stim is None):
+        return
+
+    #Stop any active stimulation
+    stim.set_active(False)
+
+    #Tell the unit to produce "current" pulses (not "voltage" pulses).
+    stim.set_mode(1)
+
+    #Tell the stimulator unit that we will provide a specific number
+    #of pulses for it to generate
+    stim.set_auto(1)
+
+    #Tell the stimulator unit that there will be 0 delay between the trigger
+    #and the onset of the stimulation train.
+    stim.set_train_delay(0)
+    #Tell the stimulator unit that we will produce 1 stimulation train.
+    stim.set_train_quantity(1)
+
+    #Tell the stimulator unit that there will be 0 delay between the onset
+    #of the stimulation train and the first event within the train.
+    stim.set_event_delay(0)
+
+    #Tell the stimulator unit that we want to use biphasic pulses.
+    stim.set_event_type(1)
+
+    #Tell the stimulator unit that we will deliver exactly 1 pulse.
+    stim.set_event_quantity(1)
+
+    #Tell the stimulator unit that each phase of the biphasic pulse will be 500 uS
+    #in duration.
+    stim.set_event_duration1(500)
+    #...
+    stim.set_event_amplitude1(amplitude_ma * 1000.0)
+```
+
+Summary
+Key stimulation trigger point: ApplicationConfiguration.stimulator.trigger_single() at line 397 in mh_recruitment_curve_stage.py
+
+The stimulation flow is:
+
+Stage initializes with set_biphasic_stimulus_pulse_parameters()
+Before each trial, set_stimulation_amplitude() sets the amplitude
+When EMG signal meets initiation criteria, trigger_single() sends the pulse

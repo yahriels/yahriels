@@ -4,6 +4,24 @@ H-Reflex Conditioning Project: https://physoc.onlinelibrary.wiley.com/doi/full/1
 dEMG electrodes: https://www.sciencedirect.com/science/article/pii/S0165027005001159
 
 
+Key H-Reflex Conditioning Paper from Dr. Meyers:
+https://www.sciencedirect.com/science/article/pii/S0014488625002651
+
+Here is the paper I was referring to earlier. My notes from my discussion with Dr. Martin during his visit last November are below:
+
+Spasticity in animal models is typically measured through Hyperreflexia
+Model that produces the most consistent Hyperreflexia is the unilateral pyramidal tract lesion (they’ve also seen it with bilateral lesions)
+They’ve done approx. 30 animals recently and all have produced Hyperreflexia, measured by loss of rate dependent depression in h-reflex
+They’ve measured H-reflex in both the ADQ (abductor digit minima muscle) and also ECR (extensor carpi radials)
+They see RDD changes starting 2 days after pyramidal lesions, and as far out as 12 weeks (that’s the furthest they measured); it does not recover over time
+Their idea is that reduced descending activity causes spinal sprouting (1a afferents form more connections with motoneurons) that leads to Hyperreflexia 
+Ladder run is standard behavioral outcome they see functional impairments with
+He mentioned multiple times he is willing to train us on the procedures if we are interested (pyramidal lesions, h-reflex, RDD, etc.); his grad student (Thelma) is graduating, and he would really like to see this work continue
+They have a paper coming out soon (link above), and a few more coming behind that. The others haven’t been published yet, they are still writing.
+
+
+
+
 
 7/21/25 - Nerve Regen Papers 
 https://pmc.ncbi.nlm.nih.gov/articles/PMC6736627/#S2
