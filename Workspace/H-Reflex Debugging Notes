@@ -20,3 +20,56 @@ Where is the bug
 -> In pulling data?
 -> In processing data?
 -> In Plotting trials
+
+-------------------
+
+@scripts/main.py  @src/hreflex_txbdc/model/stages/emg_characterization_stage.py @src/hreflex_txbdc/model/stages/mh_recruitment_curve_stage.py @src/hreflex_txbdc/model/stages/stage.py  @src/hreflex_txbdc/model/application_configuration.py  @src/hreflex_txbdc/model/background_worker.py @src/hreflex_txbdc/model/booth.py @src/hreflex_txbdc/model/emg_data_filter.py @src/hreflex_txbdc/model/fileio_helpers.py @src/hreflex_txbdc/model/open_ephys_streamer.py @src/hreflex_txbdc/model/session_message.py  @src/hreflex_txbdc/view/booth_selection_dialog.py @src/hreflex_txbdc/view/create_ad_hoc_booth_dialog.py @src/hreflex_txbdc/view/main_window.py @src/hreflex_txbdc/view/no_booths_found_dialog.py  
+
+---------
+I want to make a few changes:
+
+1. Add an option to on the interface of the GUI so I can toggle between "PROTOCOL: OFFLINE FILTERING" and "PROTOCOL: ONLINE FILTERING" where it can handle doing both protocols and switch to the settings accordingly.
+
+2. Implement the changes to have the freedom or ability to use both protocols of offline and online filtering.
+
+3. Add section to the GUI interface where for specifically for the recruitment curve stage or before it executes, I can enter and define the bounds/time periods for the m and h -wave windows dynamically through the GUI instead of hardcoding it into the app. These are the variable calls for this :{# Create variables that will store the user‑defined window start/end times
+# for the M wave and the H wave
+self._user_m_wave_window_start_time_milliseconds: float = 0
+self._user_m_wave_window_end_time_milliseconds: float = 0
+self._user_h_wave_window_start_time_milliseconds: float = 0
+self._user_h_wave_window_end_time_milliseconds: float = 0}
+
+4. NOTE FOR THESE, PLEASE KEEP ALL THE LOGIC FOR THE TIMING FOR THE "MOST RECENT TRIAL" PLOT OF THE RECRUITMENT CURVE STAGE THE SAME! FOR BOTH PROTOCOLS, PLEASE I NEED TO ELIMINATE JITTER!
+------
+
+Ok so this protocol in @open_ephys_streamer.py is what we would call "PROTOCOL: OFFLINE FILTERING" where the filtering and processing of data is done within the app AFTER the data channels have already been brought into the app. 
+:{
+1. Frame assembly — background_worker.py:61–84
+Each callback() returns one channel block. Blocks are sorted by channel_index and accumulated until 3 are collected (OPEN_EPHYS_EXPECTED_CHANNEL_COUNT), then the complete OpenEphysDataFrame is emitted via signal.
+
+2. Channel processing — open_ephys_streamer.py:47–61
+calculate_fields() defines what each channel means:
+
+ch0 & ch1 (lines 50–56): differential subtraction (ch1 - ch0) → bandpass filter → absolute value → the EMG signal
+ch2 (lines 58–61): ADC sync line, absolute value only
+3. Entry point — main_window.py:559–577
+_on_data_received() is where it all comes together:
+
+Line 561–562: reads sample_rate from channel_data_blocks[0]
+Line 569: calls received.calculate_fields() to trigger the processing above
+Lines 576–578: appends diff_data_block (raw differential), filtered_data_block, and abs_data_block to the rolling display buffers
+So the channel-role assignment is implicitly index-based: index 0 and 1 are the two EMG electrodes (differential pair), index 2 is the sync/trigger line. There's no explicit named mapping — it relies entirely on Open Ephys sending channels in order.
+}
+
+
+I want to add an additional protocol for online filtering called "PROTOCOL: ONLINE FILTERING" where it will handle the data differently and process it slightly differently but still use the same data pipeline. 
+
+The main change will happen in this section with how the data is called and processed:{
+        calculate_fields() defines what each channel means:
+
+ch0 -> Already filtered unipolar channel (Single channel already passed through bandpass filter) 
+ch1 -> Already filtered bipolar channel (channel already passed through differential subtraction (ch1 - ch0) → bandpass filter → absolute value → the EMG signal)
+ch2 (lines 58–61): ADC sync line, absolute value only
+}
+
+so instead of having a raw emg channel on the "live emg" plot section of the GUI, like in the PROTOCOL: OFFLINE FILTERING, the raw emg channel should instead show the unipolar signal, if it is plotting ch0. Please make the necessary changes or additions to the data pipeline to accomodate the addition of another protocol and the GUI interface. 
