@@ -42,4 +42,21 @@ Topics: Electrophysiology Methods, Neural Plasticity, J Neurophysiol Publication
 ---------------
 February 2026
 ---------------
+Title: The isometric pull task: A novel automated method for quantifying forelimb force generation in rats
+Authors/Year: Seth A. Hays ∗, Navid Khodaparast, Andrew M. Sloan, Daniel R. Hulsey, Maritza Pantoja, Andrea D. Ruiz, Michael P. Kilgard, Robert L. Rennaker II / 2013
+Link: http://dx.doi.org/10.1016/j.jneumeth.2012.11.007
+Topics: Paradigm and system of Isometric Pull task for automation of force measurement method
+Notes:{This is one of the papers Dr. Meyers sent me to review regarding writing a paper, as a review of what has been done before with automated tasks and to highlight the tool gap. Doesn't stim and record at same time}
+
+Title: The bradykinesia assessment task: An automated method to measure forelimb speed in rodents
+Authors/Year: Seth A. Hays ∗, Navid Khodaparast, Andrew M. Sloan, Daniel R. Hulsey, Maritza Pantoja, Andrea D. Ruiz, Michael P. Kilgard, Robert L. Rennaker II / 2013
+Link: http://dx.doi.org/10.1016/j.jneumeth.2012.12.022
+Topics: Paradigm and system of Isometric Pull task for automation of speed measurement method
+Notes:{This is one of the papers Dr. Meyers sent me to review regarding writing a paper, as a review of what has been done before with automated tasks and to highlight the tool gap. Doesn't stim and record at same time}
+
+Title: The supination assessment task: An automated method for quantifying forelimb rotational function in rats
+Authors/Year: Eric Meyers a,d,∗, Anil Sindhurakar e, Rachel Choi b, Ruby Solorzanoa, Taylor Martinez b, Andrew Sloanc, Jason Carmel e,f, Michael P. Kilgarda,b,d, Robert L. Rennaker II a,c,d,Seth Hays a,d / 2016
+Link: http://dx.doi.org/10.1016/j.jneumeth.2012.11.007
+Topics: Paradigm and system for supination task (rotation) for automation of force measurement method
+Notes:{This is one of the papers Dr. Meyers sent me to review regarding writing a paper, as a review of what has been done before with automated tasks and to highlight the tool gap. Doesn't stim and record at same time}
 

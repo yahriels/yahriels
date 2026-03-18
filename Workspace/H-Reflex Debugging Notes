@@ -26,50 +26,1579 @@ Where is the bug
 @scripts/main.py  @src/hreflex_txbdc/model/stages/emg_characterization_stage.py @src/hreflex_txbdc/model/stages/mh_recruitment_curve_stage.py @src/hreflex_txbdc/model/stages/stage.py  @src/hreflex_txbdc/model/application_configuration.py  @src/hreflex_txbdc/model/background_worker.py @src/hreflex_txbdc/model/booth.py @src/hreflex_txbdc/model/emg_data_filter.py @src/hreflex_txbdc/model/fileio_helpers.py @src/hreflex_txbdc/model/open_ephys_streamer.py @src/hreflex_txbdc/model/session_message.py  @src/hreflex_txbdc/view/booth_selection_dialog.py @src/hreflex_txbdc/view/create_ad_hoc_booth_dialog.py @src/hreflex_txbdc/view/main_window.py @src/hreflex_txbdc/view/no_booths_found_dialog.py  
 
 ---------
-I want to make a few changes:
 
-1. Add an option to on the interface of the GUI so I can toggle between "PROTOCOL: OFFLINE FILTERING" and "PROTOCOL: ONLINE FILTERING" where it can handle doing both protocols and switch to the settings accordingly.
+In this app, there is a "Stim" button that currently has no function, can you add the function to the recruitment curve stage where I can manually press stim and send a stim according to the algorithm of amplitudes
+Agent:Explore recruitment curve stage and stim button
+IN
+Explore the codebase at c:\Users\labuser\Documents\h_reflex_behavior_app to understand:
+1. The recruitment curve stage file (likely in src/hreflex_txbdc/model/stages/)
+2. Where the "Stim" button is defined (UI)
+3. How stimulation is sent (the algorithm for amplitudes)
+4. The overall app architecture (model, view, controller pattern?)
 
-2. Implement the changes to have the freedom or ability to use both protocols of offline and online filtering.
+Please read the recruitment curve stage file fully, any UI files that contain the Stim button, and any stimulation-related code. Return full file contents and line numbers for key sections.
+Bash
+IN
+find /c/Users/labuser/Documents/h_reflex_behavior_app -type f -name "*.py" | head -20
 
-3. Add section to the GUI interface where for specifically for the recruitment curve stage or before it executes, I can enter and define the bounds/time periods for the m and h -wave windows dynamically through the GUI instead of hardcoding it into the app. These are the variable calls for this :{# Create variables that will store the user‑defined window start/end times
-# for the M wave and the H wave
-self._user_m_wave_window_start_time_milliseconds: float = 0
-self._user_m_wave_window_end_time_milliseconds: float = 0
-self._user_h_wave_window_start_time_milliseconds: float = 0
-self._user_h_wave_window_end_time_milliseconds: float = 0}
+OUT
+/c/Users/labuser/Documents/h_reflex_behavior_app/.venv/Lib/site-packages/dateutil/easter.py
+/c/Users/labuser/Documents/h_reflex_behavior_app/.venv/Lib/site-packages/dateutil/parser/isoparser.py
+/c/Users/labuser/Documents/h_reflex_behavior_app/.venv/Lib/site-packages/dateutil/parser/_parser.py
+/c/Users/labuser/Documents/h_reflex_behavior_app/.venv/Lib/site-packages/dateutil/parser/__init__.py
+/c/Users/labuser/Documents/h_reflex_behavior_app/.venv/Lib/site-packages/dateutil/relativedelta.py
+/c/Users/labuser/Documents/h_reflex_behavior_app/.venv/Lib/site-packages/dateutil/rrule.py
+/c/Users/labuser/Documents/h_reflex_behavior_app/.venv/Lib/site-packages/dateutil/tz/tz.py
+/c/Users/labuser/Documents/h_reflex_behavior_app/.venv/Lib/site-packages/dateutil/tz/win.py
+/c/Users/labuser/Documents/h_reflex_behavior_app/.venv/Lib/site-packages/dateutil/tz/_common.py
+/c/Users/labuser/Documents/h_reflex_behavior_app/.venv/Lib/site-packages/dateutil/tz/_factories.py
+/c/Users/labuser/Documents/h_reflex_behavior_app/.venv/Lib/site-packages/dateutil/tz/__init__.py
+/c/Users/labuser/Documents/h_reflex_behavior_app/.venv/Lib/site-packages/dateutil/tzwin.py
+/c/Users/labuser/Documents/h_reflex_behavior_app/.venv/Lib/site-packages/dateutil/utils.py
+/c/Users/labuser/Documents/h_reflex_behavior_app/.venv/Lib/site-packages/dateutil/zoneinfo/rebuild.py
+/c/Users/labuser/Documents/h_reflex_behavior_app/.venv/Lib/site-packages/dateutil/zoneinfo/__init__.py
+/c/Users/labuser/Documents/h_reflex_behavior_app/.venv/Lib/site-packages/dateutil/_common.py
+/c/Users/labuser/Documents/h_reflex_behavior_app/.venv/Lib/site-packages/dateutil/_version.py
+/c/Users/labuser/Documents/h_reflex_behavior_app/.venv/Lib/site-packages/dateutil/__init__.py
+/c/Users/labuser/Documents/h_reflex_behavior_app/.venv/Lib/site-packages/numpy/char/__init__.py
+/c/Users/labuser/Documents/h_reflex_behavior_app/.venv/Lib/site-packages/numpy/conftest.py
+Bash
+IN
+ls -la /c/Users/labuser/Documents/h_reflex_behavior_app/src/
 
-4. NOTE FOR THESE, PLEASE KEEP ALL THE LOGIC FOR THE TIMING FOR THE "MOST RECENT TRIAL" PLOT OF THE RECRUITMENT CURVE STAGE THE SAME! FOR BOTH PROTOCOLS, PLEASE I NEED TO ELIMINATE JITTER!
-------
+OUT
+total 8
+drwxr-xr-x 1 TXBDC262270+labuser 197121 0 Sep 30 12:15 .
+drwxr-xr-x 1 TXBDC262270+labuser 197121 0 Mar 12 16:10 ..
+drwxr-xr-x 1 TXBDC262270+labuser 197121 0 Sep 30 12:15 hreflex_txbdc
+drwxr-xr-x 1 TXBDC262270+labuser 197121 0 Sep 30 12:15 hreflex_txbdc.egg-info
+Bash
+IN
+find /c/Users/labuser/Documents/h_reflex_behavior_app/src -type f -name "*.py" | grep -E "(view|controller)" | head -20
 
-Ok so this protocol in @open_ephys_streamer.py is what we would call "PROTOCOL: OFFLINE FILTERING" where the filtering and processing of data is done within the app AFTER the data channels have already been brought into the app. 
-:{
-1. Frame assembly — background_worker.py:61–84
-Each callback() returns one channel block. Blocks are sorted by channel_index and accumulated until 3 are collected (OPEN_EPHYS_EXPECTED_CHANNEL_COUNT), then the complete OpenEphysDataFrame is emitted via signal.
+OUT
+/c/Users/labuser/Documents/h_reflex_behavior_app/src/hreflex_txbdc/view/booth_selection_dialog.py
+/c/Users/labuser/Documents/h_reflex_behavior_app/src/hreflex_txbdc/view/create_ad_hoc_booth_dialog.py
+/c/Users/labuser/Documents/h_reflex_behavior_app/src/hreflex_txbdc/view/main_window.py
+/c/Users/labuser/Documents/h_reflex_behavior_app/src/hreflex_txbdc/view/no_booths_found_dialog.py
+Grep "Stim|trigger|stimul" (in /c/Users/labuser/Documents/h_reflex_behavior_app/src/hreflex_txbdc/view, type: py)
+3 lines of output
+Read C:\Users\labuser\.claude\projects\c--Users-labuser-Documents-h-reflex-behavior-app\dce59324-2b64-4c11-8d19-05e85359a725\tool-results\toolu_013qeDSpwMgFEfFvDZbJH7xr.txt
+Grep "set_stimulation_amplitude|trigger_single" (in /c/Users/labuser/Documents/h_reflex_behavior_app/src, type: py)
+4 lines of output
+Read application_configuration.py
+Globpattern: "src/hreflex_txbdc/**/*.py"
+Found 17 files
+Read background_worker.py
+Read open_ephys_streamer.py (lines 2-101)
+Read mh_recruitment_curve_stage.py (lines 766-815)
+Now let me read the key files to understand the exact code structure before making changes.
 
-2. Channel processing — open_ephys_streamer.py:47–61
-calculate_fields() defines what each channel means:
+Read c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\stages\mh_recruitment_curve_stage.py
+Read c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\view\main_window.py (lines 431-490)
+Now let me read the stim button handler and the session start/stop section of main_window.py.
 
-ch0 & ch1 (lines 50–56): differential subtraction (ch1 - ch0) → bandpass filter → absolute value → the EMG signal
-ch2 (lines 58–61): ADC sync line, absolute value only
-3. Entry point — main_window.py:559–577
-_on_data_received() is where it all comes together:
+Read c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\view\main_window.py (lines 721-850)
+Read c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\stages\stage.py
+Now I have a clear picture. Here's my plan:
 
-Line 561–562: reads sample_rate from channel_data_blocks[0]
-Line 569: calls received.calculate_fields() to trigger the processing above
-Lines 576–578: appends diff_data_block (raw differential), filtered_data_block, and abs_data_block to the rolling display buffers
-So the channel-role assignment is implicitly index-based: index 0 and 1 are the two EMG electrodes (differential pair), index 2 is the sync/trigger line. There's no explicit named mapping — it relies entirely on Open Ephys sending channels in order.
-}
+Add a manual_stim() method to the base Stage class (no-op by default)
+Implement manual_stim() in MhRecruitmentCurveStage to bypass the EMG threshold and immediately fire the next amplitude
+Update _on_stim_button_clicked in main_window.py to call it
+Let me make the changes:
+
+Edit c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\stages\stage.py
+Added 6 lines
+Now add manual_stim() to MhRecruitmentCurveStage, right before the #endregion of the private methods section:
+
+Edit c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\stages\mh_recruitment_curve_stage.py
+Added 44 lines
+Now update the _on_stim_button_clicked handler in main_window.py:
+
+Edit c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\view\main_window.py
+Removed 13 lines
+The implementation is complete. Here's what was added:
+
+stage.py — Added a no-op manual_stim() base method so any stage can be called safely.
+
+mh_recruitment_curve_stage.py — New manual_stim() method that:
+
+Guards against wrong state — only fires when in TRIAL_STATE_WAIT_FOR_INITIATION (i.e., a trial is staged and ready but waiting for EMG threshold)
+Enforces inter-trial interval — reports remaining time if fired too soon after the last trial
+Uses the amplitude algorithm — the amplitude was already selected by _setup_new_trial() from the randomized sweep list, so manual stim uses the same next-in-sequence amplitude
+Transfers pre-stim data from the rolling buffer (last 50 ms), just like the automatic path
+Triggers the stimulator via trigger_single() and emits a message confirming the amplitude used
+main_window.py — _on_stim_button_clicked now simply calls self._selected_stage.manual_stim() when the session is active and not paused.
+
+Where is all the logic where it time synchronizes the data relative to the stimulus event and stimulus onset of the ADC line when it goes high and crosses the threshold?
+It's all in _update_trial_plot() in mh_recruitment_curve_stage.py. Here are the specific locations:
+
+Threshold constants — lines 152–153
 
 
-I want to add an additional protocol for online filtering called "PROTOCOL: ONLINE FILTERING" where it will handle the data differently and process it slightly differently but still use the same data pipeline. 
+STIM_ONSET_THRESHOLD: float = 3.0   # V — rising edge detection
+STIM_END_THRESHOLD:   float = 1.0   # V — falling edge detection
+Pre-stim sync data captured into the trial — lines 426–427
 
-The main change will happen in this section with how the data is called and processed:{
-        calculate_fields() defines what each channel means:
+The last 50 ms of the ADC sync rolling buffer is copied before the trigger fires, giving a pre-stim baseline to search for onset.
 
-ch0 -> Already filtered unipolar channel (Single channel already passed through bandpass filter) 
-ch1 -> Already filtered bipolar channel (channel already passed through differential subtraction (ch1 - ch0) → bandpass filter → absolute value → the EMG signal)
-ch2 (lines 58–61): ADC sync line, absolute value only
-}
+Phase 1 — Onset detection — lines 608–626
 
-so instead of having a raw emg channel on the "live emg" plot section of the GUI, like in the PROTOCOL: OFFLINE FILTERING, the raw emg channel should instead show the unipolar signal, if it is plotting ch0. Please make the necessary changes or additions to the data pipeline to accomodate the addition of another protocol and the GUI interface. 
+Searches sync_data for the first sample ≥ STIM_ONSET_THRESHOLD, but only starting at bin_sample_count() (i.e., after the pre-stim window ends) to avoid false detections from pre-stim noise. Falls back to that same index if nothing is found.
+
+Phase 2 — Peri-stimulus window cut — lines 629–637
+
+Cuts a -20 ms … +30 ms window around stim_onset_idx from both trial_data and sync_data.
+
+Phase 3 — Time axis zeroing — lines 640–644
+
+Builds the x-axis so that t=0 corresponds exactly to stim_onset_idx:
+
+
+x_data = (np.arange(0, num_samples) - samples_before_onset) * MhRecruitmentCurveStage.ms_per_sample()
+Phase 4 — Stim end marker — lines 658–665
+
+After onset, scans forward in sync_data for the first sample < STIM_END_THRESHOLD and draws a purple dashed vertical line at that time.
+
+Summary: all of this is purely in the plotting layer — the raw data collection just concatenates samples linearly. The time synchronization (onset detection, window cutting, t=0 alignment) is computed fresh on every call to _update_trial_plot().
+
+Based on the logic, think and fid where this problem is: I am having false detections where it doesn't seem to be grabbing the right snippet of data, when these false detections are sensed, it shows a stim period of 0, this only happens sometimes and is not consistent, think about and review the files in this repository, and tell me what the problems could be
+Read c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\open_ephys_streamer.py
+Read c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\background_worker.py
+Now I have the full picture. Let me trace through the entire data pipeline carefully before giving you the analysis.
+
+Problems Found
+There are several layered issues. Here they are ordered from most to least likely as your root cause:
+
+Problem 1 — Queued frames contain pre-trigger data (most likely root cause)
+Where: background_worker.py:58-84 + mh_recruitment_curve_stage.py:398-431
+
+The BackgroundWorker is a QRunnable in a separate thread. It calls data_received_signal.emit(df) in a tight loop. Because this signal crosses thread boundaries into the Qt main thread, it automatically becomes a queued connection — frames pile up in the main thread's event queue.
+
+When process() is called and detects threshold → calls trigger_single() → the signal queue may already have several older frames waiting. These frames were acquired by Open Ephys before the trigger was sent. The main thread then processes them all in TRIAL_STATE_RECORD, happily accumulating pre-trigger data. By the time it reaches 150ms worth of samples, the sync line data contains no stim pulse. The onset search finds nothing → fallback is used → stim end = 0.
+
+This is intermittent because it only happens when the main thread is slightly behind (plotting, UI updates, Python GIL).
+
+Problem 2 — Large block sizes can fill the entire recording in one shot
+Where: background_worker.py:78, mh_recruitment_curve_stage.py:440-442
+
+The frame is emitted the moment all 3 channels arrive. Open Ephys sends blocks of typically 256 samples. Depending on sample rate:
+
+At 2500 Hz → 256 samples = ~102 ms per block
+At 10 kHz → 256 samples = ~25.6 ms per block
+At 30 kHz → 256 samples = ~8.5 ms per block
+The RECORD state needs bin_sample_count() + trial_recording_sample_count() = 50ms + 100ms = 150ms total samples to finalize. If you're running at a lower sample rate, a single 256-sample block could supply enough samples to finalize the recording immediately. That single post-trigger block was likely acquired before the pulse fired, so no onset is found.
+
+Problem 3 — No trigger timestamp is recorded
+Where: mh_recruitment_curve_stage.py:429-431
+
+trigger_single() is called but the wall-clock time is never stored. The onset search at lines 614-626 is purely positional — it assumes the stim onset will appear somewhere in sync_data[bin_sample_count() : bin_sample_count()+trial_recording_sample_count()]. There is no way to verify whether the collected sync data was acquired before or after the trigger. If you recorded datetime.now() when trigger_single() was called and used timestamp_received_millis on each incoming block, you could skip blocks that arrived before that time.
+
+Problem 4 — Fallback onset always produces stim_end = 0 (misleading display)
+Where: mh_recruitment_curve_stage.py:620, lines 659-665
+
+The fallback when no onset is found:
+
+
+stim_onset_idx: int = MhRecruitmentCurveStage.bin_sample_count()  # fallback
+The stim-end search then starts at sync_data[bin_sample_count()]. If no stim artifact is present, that sample is at baseline (<1.0V), so end_candidates[0] = 0, giving stim_end_time_ms = 0. The purple end line plots on top of the blue onset line. This is what you're seeing as "stim period of 0" — it specifically means onset was not found, fallback was used, not that the stim actually had zero duration.
+
+Problem 5 — Single-sample noise spike gives near-zero stim period
+Where: mh_recruitment_curve_stage.py:624-626
+
+If any electrical transient on the ADC channel (coupling from the stimulator trigger circuit, for example) produces even one sample ≥ 3.0V in the search window, it's detected as onset. The very next sample drops back to baseline, so end_candidates[0] = 1, giving stim_end_time_ms ≈ 0.03–0.4 ms (depending on sample rate) — visually indistinguishable from 0 on the plot.
+
+Problem 6 — Commented-out timestamp guard in frame assembly
+Where: background_worker.py:67
+
+
+if (df is None):# or ((df is not None) and (result.timestamp != df.timestamp)):
+The original check that would start a new frame when the timestamp changes was commented out. This means if Open Ephys sends blocks from two different time windows out of order, all 3 channels of a frame are just collected in arrival order with no timestamp validation. A mismatch between the EMG block's time window and the sync block's time window would shift the stim onset relative to the EMG signal, causing the snippet to show the wrong segment.
+
+Summary Table
+#	Problem	Effect	Intermittent?
+1	Qt queued signal delivers pre-trigger frames to RECORD state	Onset missing, stim_end = 0	Yes — depends on main thread load
+2	Large block size fills RECORD with one pre-trigger block	Same as above	Yes — sample-rate dependent
+3	No trigger timestamp tracked	Cannot distinguish pre/post-trigger frames	Always latent
+4	Fallback onset renders stim_end = 0	Misleading "zero duration" display	Whenever 1–3 occur
+5	Noise transient false-positive onset	Snippet anchored to noise, near-zero duration	Yes — noise dependent
+6	Commented-out timestamp guard	EMG/sync misalignment in frame	Rare
+The fix for the core issue (1 + 3) would be to record datetime.now() at the moment trigger_single() is called and compare against timestamp_received_millis on incoming blocks during the RECORD state, discarding any block that was received before the trigger call.
+
+Can you again review the problems,  think, and strategize how to fix these problems, and then go ahead and make the changes
+Let me re-read the exact code sections I'll be touching before making any changes.
+
+Read c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\stages\mh_recruitment_curve_stage.py (lines 179-268)
+Read c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\stages\mh_recruitment_curve_stage.py (lines 396-485)
+Good. I have everything I need. Here's the strategy before touching a line of code:
+
+Fix A — Track trigger wall-clock time (_trigger_wall_time_ms): recorded the instant trigger_single() is called. Both manual_stim() and the automatic path get this.
+
+Fix B — Discard queued pre-trigger frames in RECORD state: BackgroundWorker emits via a Qt queued signal — by the time the main thread processes the trigger frame, several older frames may already be sitting in the signal queue. Compare data_frame.timestamp_emitted (set by the background thread when the frame was assembled) against _trigger_wall_time_ms. If the frame was emitted before the trigger was sent, skip accumulating it into trial data — but still let it fall through to _save_emg_data_frame so the continuous background recording stays intact.
+
+Fix C — Require 2 consecutive samples for onset detection: Reject single-sample noise transients. If no consecutive pair exists (plausible at very low sample rates where the pulse is ~1 sample wide), fall back to the first isolated crossing so the detection doesn't break.
+
+Fix D — Gate the stim-end marker on onset_was_detected: When the fallback position is used (onset not found), skip drawing the purple end line entirely instead of drawing it at t=0 and misleading you.
+
+Edit c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\stages\mh_recruitment_curve_stage.py
+Added 5 lines
+Edit c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\stages\mh_recruitment_curve_stage.py
+Added 1 line
+Now record the trigger time and fix the RECORD state:
+
+Edit c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\stages\mh_recruitment_curve_stage.py
+Added 20 lines
+Now add the trigger timestamp to manual_stim():
+
+Edit c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\stages\mh_recruitment_curve_stage.py
+Added 4 lines
+Now fix the onset detection and stim-end gating in _update_trial_plot():
+
+Edit c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\stages\mh_recruitment_curve_stage.py
+Added 12 lines
+I still need to apply Fix D — gating the stim-end line. Let me read the exact current state of that section first.
+
+Read c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\stages\mh_recruitment_curve_stage.py (lines 673-692)
+Read c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\stages\mh_recruitment_curve_stage.py (lines 691-710)
+Edit c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\stages\mh_recruitment_curve_stage.py
+Added 3 lines
+All four fixes are now in place. Here's a quick summary of what changed and why each piece matters:
+
+Fix	Location	What it does
+A	__init__ / initialize()	Adds _trigger_wall_time_ms = 0 — the anchor timestamp
+B	process() RECORD state	Skips accumulating frames where timestamp_emitted < _trigger_wall_time_ms — discards queued pre-trigger frames without breaking the background EMG save
+B (manual)	manual_stim()	Same timestamp recorded on the manual path
+C	_update_trial_plot() Phase 1	Requires first pair of consecutive samples ≥ 3 V before declaring onset; falls back to a single crossing only if no pair exists (low sample-rate compatibility)
+D	_update_trial_plot() Phase 4	Stim-end marker only drawn when onset_was_detected is True — eliminates the phantom purple line at t=0
+In the recruitment curve stage of this app, I am still troubleshooting the timing synchronization problem of the stimulation events. For this I would like to include additional outputs to the data files generated during the recording to include debug variables, specifically things like the exact sample number of the stim onset start  and stim end period with exact timestamps and sample numbers, go ahead and add more debug variables and statements throughout the data files so I can view them in my analysis after.
+Let me read the data file structures first to understand exactly what's being saved.
+
+Globpattern: "src/hreflex_txbdc/model/datafiles/*.py"
+Found 3 files
+Read c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\datafiles\mh_recruitment_curve_data_file.py
+Read c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\datafiles\h_reflex_data_file_shared.py
+Globpattern: "src/hreflex_txbdc/model/fileio_helpers.py"
+Found 1 file
+Read c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\fileio_helpers.py
+In the recruitment curve stage of this app, I am still troubleshooting the timing synchronization problem of the stimulation events. For this I would like to include additional outputs to the data files generated during the recording to include debug variables, specifically things like the exact sample number of the stim onset start  and stim end period with exact timestamps and sample numbers, go ahead and add more debug variables and statements throughout the data files so I can view them in my analysis after. Specifically of the ADC sync line
+Now I have the full picture. Let me plan what to add before touching anything:
+
+What to capture per trial:
+
+trigger_wall_time_ms — Unix ms when trigger_single() was called
+onset_sample_index — index into sync_data where onset was detected (−1 = not found)
+onset_detected — 1 = real threshold crossing, 0 = fallback used
+stim_end_sample_index — index in sync_data of first sample below end threshold (−1 = not found)
+stim_duration_samples and stim_duration_ms — computed duration
+sync_peak_voltage — max sync value inside the search window (threshold-tuning reference)
+n_pre_trigger_frames_discarded — how many queued frames were thrown away
+frame_received_timestamps_ms — timestamp_emitted of every post-trigger RECORD frame (array)
+first_post_trigger_frame_sample_id — Open Ephys absolute sample counter of first RECORD frame
+File format bumped from version 1 → 2. Version 2 fields are gated in read_from_file so old files still load.
+
+Starting with the data file:
+
+Edit c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\datafiles\mh_recruitment_curve_data_file.py
+Added 45 lines
+Now update read_from_file to read version 2 fields:
+
+Edit c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\datafiles\mh_recruitment_curve_data_file.py
+Added 14 lines
+Now update save_to_file to write version 2 fields:
+
+Edit c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\datafiles\mh_recruitment_curve_data_file.py
+Added 12 lines
+Now update the stage. First add the three per-trial tracking variables to __init__ and initialize():
+
+Edit c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\stages\mh_recruitment_curve_stage.py
+Added 5 lines
+Edit c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\stages\mh_recruitment_curve_stage.py
+Added 3 lines
+Now reset those trackers when entering RECORD state (automatic path), and record trigger_wall_time_ms before the trigger:
+
+Edit c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\stages\mh_recruitment_curve_stage.py
+Added 5 lines
+Now update the RECORD state to populate the per-frame tracking fields:
+
+Edit c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\stages\mh_recruitment_curve_stage.py
+Added 11 lines
+Now call _compute_trial_debug_fields in the FINALIZE state before saving:
+
+Edit c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\stages\mh_recruitment_curve_stage.py
+Added 3 lines
+Bump the file version to 2 in _save_file_header:
+
+Edit c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\stages\mh_recruitment_curve_stage.py
+Modified
+Now add the manual_stim() tracker resets and add the _compute_trial_debug_fields private method. First, update manual_stim():
+
+Edit c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\stages\mh_recruitment_curve_stage.py
+Added 5 lines
+Now add _compute_trial_debug_fields as a private method. I'll place it just before the existing _parse_command_lb_ub method:
+
+Edit c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\stages\mh_recruitment_curve_stage.py
+Added 61 lines
+Read c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\stages\mh_recruitment_curve_stage.py (lines 881-890)
+numpy is already imported at the top of the file — those local imports are unnecessary. Remove both bad lines:
+
+Edit c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\stages\mh_recruitment_curve_stage.py
+Removed 3 lines
+Let me verify no remaining diagnostics in the relevant area:
+
+Read c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\stages\mh_recruitment_curve_stage.py (lines 876-935)
+Clean. Here's a summary of everything that was added to the data file per trial:
+
+Field	Type	What it tells you
+trigger_wall_time_ms	uint64	Unix ms when trigger_single() was called — reference point for all timing
+onset_sample_index	int32	Index into sync_data of detected onset; −1 = not found
+onset_detected	int8	1 = real crossing found, 0 = fallback position used
+stim_end_sample_index	int32	Index into sync_data of first sample below end threshold; −1 = not found
+stim_duration_samples	int32	stim_end − onset in samples
+stim_duration_ms	float32	Same, in milliseconds
+sync_peak_voltage	float32	Max sync value inside the search window — tells you if the pulse even reached the threshold
+n_pre_trigger_frames_discarded	int32	Frames thrown away as pre-trigger; non-zero confirms the queued-frame bug was active
+frame_received_timestamps_ms	uint64[]	timestamp_emitted of every post-trigger RECORD frame — subtract trigger_wall_time_ms to get exact latency per frame
+first_post_trigger_frame_sample_id	uint64	Open Ephys absolute sample counter of the first RECORD frame — lets you locate the trial in the continuous OE recording
+File format is now version 2. Files from version 1 still load correctly (new fields default to −1 / 0 / empty array).
+
+WHere is the logic where we are adjusting the zero point of the most recent trial plot of the recruitment curve stage
+Grep "samples_before_onset|Zero the time axis|x_data" (in c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\stages\mh_recruitment_curve_stage.py)
+46 lines of output
+It's all in _update_trial_plot() across three connected steps:
+
+line 708
+
+
+samples_before_onset: int = stim_onset_idx - idx_pre
+x_data = (np.arange(0, num_samples) - samples_before_onset) * MhRecruitmentCurveStage.ms_per_sample()
+samples_before_onset is how many samples in the plot window fall before the detected onset index. Subtracting it from np.arange(0, num_samples) shifts the array so sample 0 of the plot maps to t = 0 ms. Everything before onset gets a negative time, everything after gets positive.
+
+The upstream inputs that control where t=0 lands:
+
+stim_onset_idx — the detected sample index in sync_data (Phase 1, ~line 645). If onset detection falls back to the default bin_sample_count(), t=0 is just pinned to the boundary between the pre-stim window and the post-stim recording, regardless of where the real pulse was.
+idx_pre — the start of the plot window, computed as max(0, stim_onset_idx - pre_stim_samples) where pre_stim_samples = 20 ms worth of samples. This is the slice offset into trial_data.
+So if stim_onset_idx is wrong (false detection or fallback), the entire plot shifts — the EMG snippet is the wrong segment AND t=0 is in the wrong place.
+
+On this current version of the H-reflex app (from Commit: 5604afe) where HEAD is currently at, what is the exact logic for setting up the window, the time synchronization, and zero-ing of the stimulus event to the "most recent trial" plot of the recruitment curve stage?
+Read c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\stages\mh_recruitment_curve_stage.py (lines 631-750)
+Read c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\stages\mh_recruitment_curve_stage.py (lines 591-635)
+I notice the file has been modified since our last session — search_start is now int(bin_sample_count() * 0.6) and the consecutive-sample noise rejection we added is gone. Here is the exact current logic, step by step:
+
+Phase 1 — Onset detection (lines 606–621)
+
+search_start = int(MhRecruitmentCurveStage.bin_sample_count() * 0.6)
+search_end   = min(bin_sample_count() + trial_recording_sample_count(),
+                   len(sync_data))
+stim_onset_idx = bin_sample_count()   # fallback if nothing found
+bin_sample_count() = 50 ms × sample_rate / 1000 (the pre-stim window length in samples)
+The search starts at 60 % of that — 30 ms into the 50 ms pre-stim window — to give some tolerance against stimulator trigger latency arriving earlier than expected
+The search ends at the boundary of the full recording (pre-stim + 100 ms post-stim)
+Scans sync_data[search_start:search_end] for the first sample ≥ STIM_ONSET_THRESHOLD (currently 4.5 V)
+If found: stim_onset_idx = search_start + onset_candidates[0]
+If not found: falls back silently to bin_sample_count() (the exact pre/post-stim boundary), with no flag set
+Phase 2 — Peri-stimulus window slice (lines 623–633)
+
+pre_stim_samples  = int(20.0 / ms_per_sample())   # 20 ms before onset
+post_stim_samples = int(30.0 / ms_per_sample())   # 30 ms after onset
+
+idx_pre  = max(0, stim_onset_idx - pre_stim_samples)
+idx_post = min(len(trial_data),  stim_onset_idx + post_stim_samples)
+
+data_to_plot = trial_data[idx_pre : idx_post]
+A −20 ms → +30 ms window is cut from trial_data, centered on stim_onset_idx. idx_pre / idx_post are absolute sample indices into the array. If stim_onset_idx is the fallback, this window is centered on the pre/post-stim boundary instead of the real pulse.
+
+Phase 3 — Time-axis zeroing (lines 635–639)
+
+samples_before_onset = stim_onset_idx - idx_pre
+x_data = (np.arange(0, num_samples) - samples_before_onset) * ms_per_sample()
+samples_before_onset = how many samples in the plot slice fall before the onset index
+np.arange(0, num_samples) produces [0, 1, 2, …, N-1] — raw sample offsets from the start of the slice
+Subtracting samples_before_onset shifts the array so that the onset sample becomes index 0
+Multiplying by ms_per_sample() converts to milliseconds
+Result: every sample before the onset has a negative x value, every sample after has a positive one, and the onset sits at exactly t = 0 ms. The blue dashed InfiniteLine at position 0 then lands exactly on the onset sample.
+
+Phase 4 — Stim-end marker (lines 651–660)
+
+post_onset_sync = sync_data[stim_onset_idx:]
+end_candidates  = np.where(post_onset_sync < STIM_END_THRESHOLD)[0]   # 0.8 V
+stim_end_time_ms = int(end_candidates[0]) * ms_per_sample()
+Searches sync_data forward from the onset index for the first sample that drops below 0.8 V. end_candidates[0] is a sample count relative to the onset, so multiplying by ms_per_sample() gives a time in ms that maps directly onto the already-zeroed x-axis. The purple dashed line is drawn at that position. No onset_was_detected guard exists here currently — if the fallback was used, post_onset_sync[0] is at the pre/post boundary where the sync is at baseline, so end_candidates[0] = 0 and the end line plots at t = 0.
+
+Phase 5 — ADC sync overlay (lines 662–669)
+The same x_data array (already time-zeroed) and the same [idx_pre:idx_post] slice applied to sync_data are passed to _draw_trial_adc_overlay, so the green ADC trace is pixel-perfectly aligned with the EMG trace — both share the same x-axis and the same zero point.
+
+Key fragility to be aware of
+The entire plot — the EMG snippet, t = 0, and all three markers — pivots on stim_onset_idx. If Phase 1 falls back (no sample ≥ 4.5 V in the search window), every downstream step is anchored to the wrong position with no visible indication that it happened.
+
+Can you put some debug statements during the recruitment curve stage to the terminal/session messages and data file where it it outputs the timestamp/sample number of when it decides the app has met the criteria to send a stim, and the timestamp/sample number of when it actually sends a stim. Also for when searching when the stim starts, instead of starting to look right when the bin starts or whatever it is doing, can you have it start looking for the stim onset at least 60 ms and 60 ms after it recognizes the stim has been sent, there is some jitter where the stim onset marker relative to the data is shifting forward and backward anywhere from 10 to 50 ms, and I think it's because of how the stim onset detection is set-up, I want to widen the window it looks for the stim onset so that the window of data it shows in the "most recent trial" plot is indeed accurate and showing the correct data window (because is currently isn't). Think, strategize, and show me how to do this with debug statements and changes to the code
+Let me read the exact current state of the relevant sections before writing any code.
+
+Read c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\stages\mh_recruitment_curve_stage.py (lines 408-482)
+Read c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\stages\mh_recruitment_curve_stage.py (lines 595-629)
+Good. Now I have everything I need. Here's the strategy before making any edits:
+
+Root cause of jitter: search_start = int(bin_sample_count() * 0.6) starts the search 30 ms into the 50 ms pre-stim window. Pre-stim noise crossing 4.5 V anywhere in that 30–50 ms zone gets detected as the onset, dragging t=0 backward by up to 20 ms. Combined with frame-queue jitter the user is seeing 10–50 ms of onset position shift.
+
+Fix — three-part search window rewrite:
+
+search_start = bin_sample_count() — never touch the pre-stim window
+Refine further using _trigger_wall_time_ms and the first RECORD frame timestamp: the TCP + hardware latency already elapsed by the time data arrives, so we can push search_start forward by that measured delay (capped at 60 ms so a slow frame never hides the onset)
+search_end = bin_sample_count() + 120 ms — wide enough to catch any onset up to 120 ms after trigger regardless of jitter
+Debug statements — two locations:
+
+At the moment EMG threshold criteria are met (decision) — print + session message with wall-clock time and Open Ephys sample ID
+Immediately before trigger_single() — print + session message with trigger wall-clock time, sample ID, and decision-to-trigger latency
+At FINALIZE, after _compute_trial_debug_fields — print + session message with onset result, stim duration, peak sync V, and discard count
+Edit c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\stages\mh_recruitment_curve_stage.py
+Added 28 lines
+Now add the FINALIZE debug message after _compute_trial_debug_fields:
+
+Read c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\stages\mh_recruitment_curve_stage.py (lines 503-532)
+Edit c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\stages\mh_recruitment_curve_stage.py
+Added 23 lines
+Now fix the search window in _update_trial_plot:
+
+Edit c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\stages\mh_recruitment_curve_stage.py
+Edit failed
+Read c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\stages\mh_recruitment_curve_stage.py (lines 659-688)
+Read c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\stages\mh_recruitment_curve_stage.py (lines 697-736)
+Read c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\stages\mh_recruitment_curve_stage.py (lines 736-750)
+Good — our earlier changes are already in place. Now I'll replace Phase 1 with the frame-timing–aware version and wider window:
+
+Edit c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\stages\mh_recruitment_curve_stage.py
+Added 27 lines
+Now verify the surrounding code still looks correct:
+
+Read c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\stages\mh_recruitment_curve_stage.py (lines 712-771)
+Everything looks correct. Here's a summary of all changes made and the exact information each debug statement exposes:
+
+1. At stim criteria met — [DEBUG] Stim criteria met
+
+wall_time — exact Unix ms when the EMG threshold decision was made
+OE_sample_id — Open Ephys absolute sample counter at decision time (cross-reference with OE recording)
+amp — which amplitude was queued
+2. At trigger sent — [DEBUG] trigger_single() sent
+
+trigger_wall_time — exact Unix ms when the TCP command went out
+OE_sample_id — same frame's sample counter (same frame as decision since trigger fires immediately after)
+decision→trigger latency — how many ms elapsed between the two above (typically <1 ms, any large value is suspicious)
+3. At plot / finalize — [DEBUG] onset search (terminal only)
+
+trigger_sample — where in sync_data post-trigger data begins
+extra_delay_samples — how many samples were skipped based on the first-frame arrival delay
+search=[start, end] — exact sample index range that was searched
+stim_onset_idx — where onset was found (or fallback)
+onset_detected — True/False
+4. At finalize — [DEBUG] Trial finalized (terminal + session messages)
+
+onset_detected, onset_sample, end_sample, stim_dur_ms
+sync_peak_V — if this is below 4.5 V consistently, the threshold needs lowering
+pre_trigger_frames_discarded — non-zero confirms the queued-frame race condition hit
+first_frame_delay_ms — TCP + hardware + frame-queue latency in ms (this is what extra_delay_samples is based on)
+first_OE_sample — absolute Open Ephys sample number to locate the trial in the continuous recording
+Search window change: now anchored to bin_sample_count() (the true post-trigger boundary), pushed forward by the measured frame-arrival delay, and extended to a full 120 ms — completely eliminating the pre-stim window from consideration.
+
+Can you add a feature in the app where: {- In the session messages/terminal you can view what the initation thresholds would be set at for the recruitment curve stage initiaition thresholds  - and a feature to manually set the initiation thresholds for the recruitment curve stage so I can skip the EMG characterization stage if I want to}
+Let me read the current state of the relevant sections before writing anything.
+
+Read c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\stages\mh_recruitment_curve_stage.py (lines 248-362)
+Read c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\stages\mh_recruitment_curve_stage.py (lines 566-595)
+Read c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\stages\mh_recruitment_curve_stage.py (lines 595-609)
+Read c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\stages\mh_recruitment_curve_stage.py (lines 961-1030)
+Read c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\stages\mh_recruitment_curve_stage.py (lines 1030-1094)
+Grep "_on_user_command_entered" (in c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\view\main_window.py)
+63 lines of output
+Now I have everything I need. Here's the full plan:
+
+mh_recruitment_curve_stage.py:
+
+Add _manual_min_threshold, _manual_max_threshold, _manual_thresholds_set fields
+initialize() — if no HRS1 but manual thresholds exist, proceed; emit active thresholds at session start; update help text to include new thresh command
+input() — route new thresh command
+New _parse_command_thresh() — thresh shows both values; thresh lb=X ub=Y sets them pre- or in-session
+_parse_command_lb_ub() — remove crash when _emg_histogram_data is None, store into manual fields too
+_update_histogram_plot() — guard for None histogram data
+main_window.py:
+7. _on_user_command_entered() — allow commands when a stage is selected but no session is running
+
+Edit c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\stages\mh_recruitment_curve_stage.py
+Added 8 lines
+Now update initialize() — bypass the HRS1 requirement when manual thresholds are set, and emit active thresholds at session start:
+
+Edit c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\stages\mh_recruitment_curve_stage.py
+Added 12 lines
+Now add thresh routing in input():
+
+Edit c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\stages\mh_recruitment_curve_stage.py
+Added 2 lines
+Now fix _parse_command_lb_ub() to handle missing histogram data:
+
+Edit c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\stages\mh_recruitment_curve_stage.py
+Added 10 lines
+Now add _parse_command_thresh() and guard _update_histogram_plot(). First, find the right insertion point:
+
+Grep "def _parse_command_auto" (in c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\stages\mh_recruitment_curve_stage.py)
+5 lines of output
+Edit c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\stages\mh_recruitment_curve_stage.py
+Added 88 lines
+Now guard _update_histogram_plot() for when there's no histogram data:
+
+Grep "def _update_histogram_plot" (in c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\stages\mh_recruitment_curve_stage.py)
+41 lines of output
+Read c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\stages\mh_recruitment_curve_stage.py (lines 691-740)
+Read c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\view\main_window.py (lines 826-850)
+Now I'll make both edits:
+
+Edit c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\stages\mh_recruitment_curve_stage.py
+Added 6 lines
+Edit c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\view\main_window.py
+Added 5 lines
+Now let me verify the _determine_min_max_initiation_threshold method handles _emg_histogram_data is None correctly:
+
+Grep "_determine_min_max_initiation_threshold" (in c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\stages\mh_recruitment_curve_stage.py)
+15 lines of output
+Read c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\stages\mh_recruitment_curve_stage.py (lines 906-950)
+Let me check how _auto_thresholding_enabled is set when manual thresholds are used:
+
+Grep "_auto_thresholding_enabled" (in c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\stages\mh_recruitment_curve_stage.py)
+26 lines of output
+Let me check the initialize() method to confirm it properly handles the manual threshold case:
+
+Read c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\stages\mh_recruitment_curve_stage.py (lines 246-305)
+Read c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\stages\mh_recruitment_curve_stage.py (lines 305-404)
+The initialize() method already handles the manual threshold case correctly — _auto_thresholding_enabled starts as False and _determine_min_max_initiation_threshold is never called when histogram data is absent. The implementation is complete.
+
+Both edits are done:
+
+_update_histogram_plot() (mh_recruitment_curve_stage.py:698) — now guards _emg_histogram_data is None; when None, skips histogram bars and shows a "Manual thresholds" label instead, but still draws the two red dashed threshold lines.
+
+_on_user_command_entered() (main_window.py:828) — now also accepts commands when a stage is selected but no session is running (pre_session_with_stage), enabling thresh lb=X ub=Y to be entered before starting S2.
+
+Can you explain this exact logic to me here in simpler terms so I can understand it, I am trying to debug this plot where it may be detecting the stim onset pulse correctly, but it is not setting the window or setting the zero of the window correctly on a failed sitm trial. Where would be the best places to set and break point and which variables would be most worth looking into and inspecting in debug mode? :{def _update_trial_plot (self) -> None:
+        #Remove any ADC ViewBox left from a previous draw before clearing
+        self._cleanup_trial_adc_viewbox()
+
+        #Clear the plot
+        self._trial_widget.clear()
+        self._trial_widget.getPlotItem().hideAxis('right')
+        self._trial_widget.getPlotItem().setLabel('bottom', 'Time (ms)')
+        self._trial_widget.getPlotItem().setLabel('left', 'EMG (µV)')
+
+        emg_pen = pg.mkPen(color=(0, 0, 0), width=2.0)
+
+        #-------------------------------------------------------------------
+        # Phase 1: Detect true stim onset from the ADC sync line
+        #
+        # Search window design:
+        #   - Never look in the pre-stim window (sync_data[0 : bin_sample_count()]).
+        #     That data was captured BEFORE trigger_single() was called; any crossing
+        #     there is noise and was causing the ±10–50 ms jitter the user observed.
+        #   - Start at bin_sample_count() (the exact sample where post-trigger data
+        #     begins), then push forward by the measured TCP + frame-delivery delay.
+        #     The stim pulse physically cannot arrive before that delay elapses, so
+        #     those leading samples are safe to skip.  Capped at 60 ms so a slow
+        #     or bursty frame never hides a real onset.
+        #   - Search 120 ms of post-trigger data — wide enough to catch the onset
+        #     regardless of network / hardware jitter.
+        #-------------------------------------------------------------------
+        trigger_sample: int = MhRecruitmentCurveStage.bin_sample_count()
+
+        extra_delay_samples: int = 0
+        if (self._trigger_wall_time_ms > 0 and len(self._frame_received_timestamps_ms) > 0):
+            ms_delay: float = max(0.0,
+                float(self._frame_received_timestamps_ms[0]) - float(self._trigger_wall_time_ms))
+            extra_delay_samples = min(
+                int(ms_delay * ApplicationConfiguration.sample_rate / 1000.0),
+                int(60.0 * ApplicationConfiguration.sample_rate / 1000.0)
+            )
+
+        search_start: int = trigger_sample + extra_delay_samples
+        search_end: int = min(
+            trigger_sample + int(120.0 / MhRecruitmentCurveStage.ms_per_sample()),
+            len(self._current_trial.sync_data)
+        )
+
+        stim_onset_idx: int = trigger_sample  # fallback: start of post-trigger data
+        onset_was_detected: bool = False
+
+        if len(self._current_trial.sync_data) > search_start:
+            search_window = self._current_trial.sync_data[search_start:search_end]
+            above = np.where(search_window >= MhRecruitmentCurveStage.STIM_ONSET_THRESHOLD)[0]
+            if len(above) > 0:
+                #Prefer the first pair of consecutive samples above threshold to reject
+                #single-sample noise transients.  Fall back to first isolated crossing
+                #at low sample rates where the pulse fits in one sample.
+                chosen: int = int(above[0])
+                for i in range(len(above) - 1):
+                    if above[i + 1] == above[i] + 1:
+                        chosen = int(above[i])
+                        break
+                stim_onset_idx = search_start + chosen
+                onset_was_detected = True
+
+        print(
+            f"[DEBUG] onset search | "
+            f"trigger_sample={trigger_sample} | "
+            f"extra_delay_samples={extra_delay_samples} | "
+            f"search=[{search_start}, {search_end}] | "
+            f"stim_onset_idx={stim_onset_idx} | "
+            f"onset_detected={onset_was_detected} | "
+            f"sync_data_len={len(self._current_trial.sync_data)}"
+        )
+
+        #-------------------------------------------------------------------
+        # Phase 2: Cut peri-stimulus window (-20 ms … +30 ms around onset)
+        #-------------------------------------------------------------------
+        pre_stim_samples: int = int(20.0 / MhRecruitmentCurveStage.ms_per_sample())
+        post_stim_samples: int = int(30.0 / MhRecruitmentCurveStage.ms_per_sample())
+
+        idx_pre: int = max(0, stim_onset_idx - pre_stim_samples)
+        idx_post: int = min(len(self._current_trial.trial_data), stim_onset_idx + post_stim_samples)
+
+        data_to_plot = self._current_trial.trial_data[idx_pre:idx_post]
+        num_samples: int = len(data_to_plot)
+
+        #-------------------------------------------------------------------
+        # Phase 3: Zero the time axis — t=0 is exactly stim onset
+        #-------------------------------------------------------------------
+        samples_before_onset: int = stim_onset_idx - idx_pre
+        x_data = (np.arange(0, num_samples) - samples_before_onset) * MhRecruitmentCurveStage.ms_per_sample()
+
+        #Plot EMG signal (always shown while flag index 0 is True)
+        if len(self._trial_signal_flags) == 0 or self._trial_signal_flags[0]:
+            self._trial_widget.plot(x_data, data_to_plot, pen=emg_pen)
+
+        self._trial_widget.setXRange(-20, 30, padding=0)
+
+        #Stim onset marker at t=0 (blue dashed)
+        onset_pen = pg.mkPen(color=(0, 0, 255), width=2.0, style=QtCore.Qt.DashLine)
+        self._trial_widget.addItem(pg.InfiniteLine(0, 90, onset_pen, movable=False))
+
+        #-------------------------------------------------------------------
+        # Phase 4: Stim end marker
+        # Only drawn when the onset was positively detected.  When the fallback
+        # position is used (onset not found), skipping the end marker avoids the
+        # misleading "stim period = 0" display that previously appeared.
+        #-------------------------------------------------------------------
+        if onset_was_detected and len(self._current_trial.sync_data) > stim_onset_idx:
+            post_onset_sync = self._current_trial.sync_data[stim_onset_idx:]
+            end_candidates = np.where(post_onset_sync < MhRecruitmentCurveStage.STIM_END_THRESHOLD)[0]
+            if len(end_candidates) > 0:
+                stim_end_time_ms: float = int(end_candidates[0]) * MhRecruitmentCurveStage.ms_per_sample()
+                end_pen = pg.mkPen(color=(128, 0, 128), width=2.0, style=QtCore.Qt.DashLine)
+                self._trial_widget.addItem(pg.InfiniteLine(stim_end_time_ms, 90, end_pen, movable=False))
+
+        #-------------------------------------------------------------------
+        # Phase 5: Optional ADC sync overlay on a secondary (right) Y-axis
+        #-------------------------------------------------------------------
+        show_adc: bool = len(self._trial_signal_flags) > 1 and self._trial_signal_flags[1]
+        if show_adc and len(self._current_trial.sync_data) >= idx_post:
+            adc_to_plot = self._current_trial.sync_data[idx_pre:idx_post]
+            if len(adc_to_plot) == num_samples:
+                self._draw_trial_adc_overlay(x_data, adc_to_plot)
+
+        pass}
+Show less
+Plain-English Walkthrough
+Phase 1 — Find where the stim pulse actually arrived in the data array
+
+The trial's sync_data array looks like this in memory:
+
+
+[  pre-stim (50 ms)  |  post-stim (100 ms)  ]
+ index 0 ........... trigger_sample ........ end
+trigger_sample = the boundary index (50 ms worth of samples). Everything before it was recorded before the trigger fired — it can't contain a real pulse.
+
+Then it measures how many milliseconds passed between the trigger being sent (_trigger_wall_time_ms) and the first data frame arriving after the trigger (_frame_received_timestamps_ms[0]). That delay gets converted to samples (extra_delay_samples) and added to trigger_sample to get search_start. The idea: the pulse physically can't arrive before TCP + frame-delivery latency has elapsed. Search ends 120 ms after trigger_sample.
+
+It then looks for two consecutive samples above STIM_ONSET_THRESHOLD (4.5 V) inside that window. If found → stim_onset_idx = that index, onset_was_detected = True. If not found → fallback: stim_onset_idx = trigger_sample.
+
+Phase 2 — Slice a ±20 ms / +30 ms window around the onset
+
+idx_pre = onset − 20 ms of samples (clamped to 0)
+idx_post = onset + 30 ms of samples (clamped to array length)
+data_to_plot = the EMG slice from idx_pre to idx_post
+
+Phase 3 — Zero the time axis
+
+samples_before_onset = how many samples in the slice precede the onset. The x-axis is built so that sample is at t=0. Everything before it is negative ms, everything after is positive.
+
+Phase 4 — Stim-end marker
+
+Only drawn if onset was positively detected. Searches sync_data after the onset for when the line drops below STIM_END_THRESHOLD (0.8 V). That crossing time in ms is where the purple dashed line is placed.
+
+Phase 5 — Optional ADC sync overlay
+
+If you toggled the ADC signal on, it plots sync_data[idx_pre:idx_post] on a secondary right-axis using the same x-axis as the EMG.
+
+Where to Breakpoint for "window/zero is wrong on failed trial"
+Set a breakpoint at the print(f"[DEBUG] onset search ...") line (around line 797). At that point inspect these in order:
+
+Variable	What to check
+trigger_sample	Should be bin_sample_count() — e.g. 1500 for 30 kHz / 50 ms. Confirms your pre-stim window size.
+self._trigger_wall_time_ms	Is it 0? If so, extra_delay_samples will be 0 and search_start = trigger_sample.
+self._frame_received_timestamps_ms	Is the list empty? Same consequence as above.
+extra_delay_samples	How far into the post-stim window is the search starting? If this is very large (close to 60 ms cap), the search window is very narrow and may miss a late pulse.
+search_start / search_end	Confirm the search window bounds make sense relative to len(self._current_trial.sync_data).
+self._current_trial.sync_data[search_start:search_end].max()	Most useful check — what's the peak voltage inside the search window? If it's below 4.5 V, the pulse either missed the window or the threshold is too high.
+onset_was_detected	False → fallback position was used. The zero point is now at trigger_sample, not the real pulse.
+stim_onset_idx	Where t=0 will be placed. Compare this to where you visually see the ADC line rise in the ADC overlay.
+Secondary breakpoint — set one at the start of Phase 2 (idx_pre = ...) and inspect:
+
+stim_onset_idx relative to len(self._current_trial.trial_data) — if stim_onset_idx + post_stim_samples > len(trial_data), idx_post gets clamped and the window is truncated on the right
+samples_before_onset — this is what shifts the x-axis. If it's wrong (e.g. 0 when it should be ~600), t=0 will be at the wrong position visually
+The most likely culprit for "window zero is off": onset_was_detected = False because the pulse landed outside [search_start, search_end]. Check sync_data.max() across the full post-trigger range (sync_data[trigger_sample:]) vs just the search window to confirm the pulse exists but was missed.
+
+Can you explain this exact logic to me here in simpler terms so I can understand it, I am trying to debug this plot where it may be detecting the stim onset pulse correctly, but it is not setting the window or setting the zero of the window correctly on a failed sitm trial. It also isn't always correctly aligning the data to the stim onset in successful stim trials when the onset is detected. Could the problem be that we are discarding pre-stim data and only looking right after? Where would be the best places to set and break point and which variables would be most worth looking into and inspecting in debug mode? :{   def process (self, data_frame: OpenEphysDataFrame) -> None:
+        '''
+        Processes the most recent incoming data and takes any actions
+        that are necessary based on the incoming data.
+        '''
+        current_datetime: datetime = datetime.now()
+
+        #Load in the data from the previous stage
+        #That will give us our histogram
+
+        #Plot the histogram, we need a min and max bound
+        #Set some value within the min and max bound that will be used as the initiation threshold
+        #This initiation threshold will vary during the session to try and maintain a certain
+        #number of trials per hour.
+
+        #Target trials per hour = 300 stims/day. Two 1 hour sessions. 150 trials/hour.
+
+        #Each trial is a single stimulation
+        #Each trial we will randomly choose the stimulation amplitude
+
+        #2 mA max. 0.1 mA step size. Randomly sample that space. Build the recruitment curve.
+        #As we are building it, allow the user to adjust the max amplitude to go higher if needed.
+
+        #START HERE
+
+        if (self._current_trial_state == MhRecruitmentCurveStage.TRIAL_STATE_NOT_SETUP):
+            #Set things up for a new trial
+            self._setup_new_trial()
+
+            #Pop the first stimulation amplitude from the list of stim amplitudes
+            self._current_stimulation_amplitude_ma = self._stimulation_amplitudes[0]
+            self._stimulation_amplitudes = self._stimulation_amplitudes[1:]
+
+            #Set the stimulation parameters on the Model 4100 for the upcoming trial
+            #Disarm the stimulator first so the Model 4100 accepts the amplitude change
+            if (ApplicationConfiguration.stimulator is not None):
+                ApplicationConfiguration.stimulator.set_active(False)
+
+            ApplicationConfiguration.set_stimulation_amplitude(self._current_stimulation_amplitude_ma)
+
+            if (ApplicationConfiguration.stimulator is not None):
+                ApplicationConfiguration.stimulator.set_active(True)
+
+            #Set the trial state
+            self._current_trial_state = MhRecruitmentCurveStage.TRIAL_STATE_WAIT_FOR_INITIATION
+
+        elif (self._current_trial_state == MhRecruitmentCurveStage.TRIAL_STATE_WAIT_FOR_INITIATION):
+            if (len(self._trials) > 0):
+                #Update the amount of time that has passed since the last trial
+                elapsed_ms: int = int((current_datetime - self._trials[-1].start_time).total_seconds() * 1000.0)
+
+                #If we are still inside of the inter-trial timeout period, then just return immediately
+                if (elapsed_ms < MhRecruitmentCurveStage.MINIMUM_INTERTRIAL_INTERVAL_MILLISECONDS):
+                    return
+
+            #Check to see if we should initiate a trial
+            should_initiate_trial: bool = self._check_for_trial_initiation(data_frame)
+            if (should_initiate_trial):
+                #If it is determined that we should initiate a trial...
+
+                #------------------------------------------------------------------
+                # DEBUG: stim criteria met
+                #------------------------------------------------------------------
+                decision_wall_time_ms: int = int(datetime.now().timestamp() * 1000)
+                decision_oe_sample_id: int = data_frame.sample_id
+                decision_msg: str = (
+                    f"[DEBUG] Stim criteria met | "
+                    f"wall_time={decision_wall_time_ms} ms | "
+                    f"OE_sample_id={decision_oe_sample_id} | "
+                    f"amp={self._current_stimulation_amplitude_ma:.2f} mA"
+                )
+                print(decision_msg)
+                self.signals.new_message.emit(SessionMessage(decision_msg))
+                #------------------------------------------------------------------
+
+                #Set the trial state...
+                self._current_trial_state = MhRecruitmentCurveStage.TRIAL_STATE_RECORD
+
+                #Create a trial object
+                self._current_trial = MhRecruitmentCurveTrial()
+                self._current_trial.initialize(
+                    self._current_min_initiation_threshold,
+                    self._current_max_initiation_threshold,
+                    self._current_stimulation_amplitude_ma
+                )
+
+                #Transfer the last 50 ms of trial initiation data into the trial object
+                self._current_trial.trial_data = self._current_trial_initiation_data.monitored_signal[-MhRecruitmentCurveStage.bin_sample_count():]
+
+                #Transfer the last 50 ms of ADC sync line data into the trial object (pre-stim window)
+                self._current_trial.sync_data = self._current_trial_initiation_data.sync_signal[-MhRecruitmentCurveStage.bin_sample_count():].copy()
+
+                #Reset per-trial debug accumulators before entering RECORD state
+                self._n_pre_trigger_frames_discarded = 0
+                self._frame_received_timestamps_ms = []
+                self._first_post_trigger_frame_sample_id = 0
+
+                #Record the wall-clock time at which the trigger is sent so that RECORD
+                #state can identify and discard any queued pre-trigger frames.
+                self._trigger_wall_time_ms = int(datetime.now().timestamp() * 1000)
+
+                #------------------------------------------------------------------
+                # DEBUG: trigger actually sent
+                #------------------------------------------------------------------
+                trigger_msg: str = (
+                    f"[DEBUG] trigger_single() sent | "
+                    f"trigger_wall_time={self._trigger_wall_time_ms} ms | "
+                    f"OE_sample_id={data_frame.sample_id} | "
+                    f"decision→trigger latency={self._trigger_wall_time_ms - decision_wall_time_ms} ms"
+                )
+                print(trigger_msg)
+                self.signals.new_message.emit(SessionMessage(trigger_msg))
+                #------------------------------------------------------------------
+
+                #Trigger the Model 4100
+                if (ApplicationConfiguration.stimulator is not None):
+                    ApplicationConfiguration.stimulator.trigger_single()
+
+        elif (self._current_trial_state == MhRecruitmentCurveStage.TRIAL_STATE_RECORD):
+
+            #Only accumulate frames that were assembled by the background thread AFTER the
+            #trigger was sent.  Because data_received_signal crosses a thread boundary it uses
+            #Qt's queued connection, meaning several pre-trigger frames can already be waiting
+            #in the main-thread event queue at the moment trigger_single() is called.  Those
+            #frames were acquired before the stimulus and cannot contain the stim onset; adding
+            #them to the trial record would push the real onset outside the search window.
+            #
+            #We fall through to _save_emg_data_frame at the end of process() regardless, so
+            #the continuous background EMG record is never interrupted.
+            frame_is_post_trigger: bool = (
+                self._trigger_wall_time_ms == 0 or
+                data_frame.timestamp_emitted == 0 or
+                data_frame.timestamp_emitted >= self._trigger_wall_time_ms
+            )
+
+            if frame_is_post_trigger:
+                #Track the Open Ephys sample ID of the very first post-trigger frame so
+                #the analyst can locate the exact position in the continuous OE recording.
+                if (len(self._frame_received_timestamps_ms) == 0):
+                    self._first_post_trigger_frame_sample_id = data_frame.sample_id
+
+                #Record this frame's background-thread emit timestamp for later debug output.
+                self._frame_received_timestamps_ms.append(data_frame.timestamp_emitted)
+
+                #Copy data into the trial object until we have 100 ms of post-stim data
+                self._current_trial.trial_data = np.concatenate([self._current_trial.trial_data, data_frame.filtered_data_block])
+                self._current_trial.sync_data = np.concatenate([self._current_trial.sync_data, data_frame.sync_data_block])
+
+                #Check to see if we have enough data
+                if (len(self._current_trial.trial_data) >= (MhRecruitmentCurveStage.bin_sample_count() + MhRecruitmentCurveStage.trial_recording_sample_count())):
+                    #If so, move on to the next stage
+                    self._current_trial_state = MhRecruitmentCurveStage.TRIAL_STATE_FINALIZE
+            else:
+                #Count discarded pre-trigger frames for debug output
+                self._n_pre_trigger_frames_discarded += 1
+
+        elif (self._current_trial_state == MhRecruitmentCurveStage.TRIAL_STATE_FINALIZE):
+            
+            #Append the current trial to the session's list of trials
+            self._trials.append(self._current_trial)
+
+            #Compute and attach timing/sync debug fields before writing to disk
+            self._compute_trial_debug_fields(self._current_trial)
+
+            #------------------------------------------------------------------
+            # DEBUG: onset detection result
+            #------------------------------------------------------------------
+            t = self._current_trial
+            first_frame_delay_ms: float = (
+                float(self._frame_received_timestamps_ms[0]) - float(self._trigger_wall_time_ms)
+                if len(self._frame_received_timestamps_ms) > 0 else -1.0
+            )
+            onset_msg: str = (
+                f"[DEBUG] Trial finalized | "
+                f"onset_detected={t.onset_detected} | "
+                f"onset_sample={t.onset_sample_index} | "
+                f"end_sample={t.stim_end_sample_index} | "
+                f"stim_dur_ms={t.stim_duration_ms:.3f} | "
+                f"sync_peak_V={t.sync_peak_voltage:.3f} | "
+                f"pre_trigger_frames_discarded={t.n_pre_trigger_frames_discarded} | "
+                f"first_frame_delay_ms={first_frame_delay_ms:.1f} | "
+                f"first_OE_sample={t.first_post_trigger_frame_sample_id}"
+            )
+            print(onset_msg)
+            self.signals.new_message.emit(SessionMessage(onset_msg))
+            #------------------------------------------------------------------
+
+            #Save the data for this trial to the session's data file
+            self._current_trial.save_to_file(self._fid)
+
+            #Display a message to the user in the application's message box
+            message: SessionMessage = SessionMessage(f"Trial {len(self._trials)} initiated. Stimulation amplitude: {self._current_trial.stimulation_amplitude_ma:.2f} mA, threshold = [{self._current_trial.min_initiation_threshold:.2f}, {self._current_trial.max_initiation_threshold:.2f}]")
+            self.signals.new_message.emit(message)
+
+            #Calculate the average time between trials
+            trial_isi_list: list[float] = []
+            for i in range(1, len(self._trials)):
+                isi: float = (self._trials[i].start_time - self._trials[i - 1].start_time).total_seconds() * 1000.0
+                trial_isi_list.append(isi)
+            
+            if (len(trial_isi_list) > 0):
+                self._average_ms_between_trials = np.mean(trial_isi_list)
+
+            #Plot data about this trial in the application's charts
+            ## TO DO
+            self._update_trial_plot()
+
+            #Set the state
+            self._current_trial_state = MhRecruitmentCurveStage.TRIAL_STATE_NOT_SETUP
+
+        #Now save out the EMG data frame
+        self._save_emg_data_frame(data_frame)
+
+        return} and this section too :{def _update_trial_plot (self) -> None:
+        #Remove any ADC ViewBox left from a previous draw before clearing
+        self._cleanup_trial_adc_viewbox()
+
+        #Clear the plot
+        self._trial_widget.clear()
+        self._trial_widget.getPlotItem().hideAxis('right')
+        self._trial_widget.getPlotItem().setLabel('bottom', 'Time (ms)')
+        self._trial_widget.getPlotItem().setLabel('left', 'EMG (µV)')
+
+        emg_pen = pg.mkPen(color=(0, 0, 0), width=2.0)
+
+        #-------------------------------------------------------------------
+        # Phase 1: Detect true stim onset from the ADC sync line
+        #
+        # Search window design:
+        #   - Never look in the pre-stim window (sync_data[0 : bin_sample_count()]).
+        #     That data was captured BEFORE trigger_single() was called; any crossing
+        #     there is noise and was causing the ±10–50 ms jitter the user observed.
+        #   - Start at bin_sample_count() (the exact sample where post-trigger data
+        #     begins), then push forward by the measured TCP + frame-delivery delay.
+        #     The stim pulse physically cannot arrive before that delay elapses, so
+        #     those leading samples are safe to skip.  Capped at 60 ms so a slow
+        #     or bursty frame never hides a real onset.
+        #   - Search 120 ms of post-trigger data — wide enough to catch the onset
+        #     regardless of network / hardware jitter.
+        #-------------------------------------------------------------------
+        trigger_sample: int = MhRecruitmentCurveStage.bin_sample_count()
+
+        extra_delay_samples: int = 0
+        if (self._trigger_wall_time_ms > 0 and len(self._frame_received_timestamps_ms) > 0):
+            ms_delay: float = max(0.0,
+                float(self._frame_received_timestamps_ms[0]) - float(self._trigger_wall_time_ms))
+            extra_delay_samples = min(
+                int(ms_delay * ApplicationConfiguration.sample_rate / 1000.0),
+                int(60.0 * ApplicationConfiguration.sample_rate / 1000.0)
+            )
+
+        search_start: int = trigger_sample + extra_delay_samples
+        search_end: int = min(
+            trigger_sample + int(120.0 / MhRecruitmentCurveStage.ms_per_sample()),
+            len(self._current_trial.sync_data)
+        )
+
+        stim_onset_idx: int = trigger_sample  # fallback: start of post-trigger data
+        onset_was_detected: bool = False
+
+        if len(self._current_trial.sync_data) > search_start:
+            search_window = self._current_trial.sync_data[search_start:search_end]
+            above = np.where(search_window >= MhRecruitmentCurveStage.STIM_ONSET_THRESHOLD)[0]
+            if len(above) > 0:
+                #Prefer the first pair of consecutive samples above threshold to reject
+                #single-sample noise transients.  Fall back to first isolated crossing
+                #at low sample rates where the pulse fits in one sample.
+                chosen: int = int(above[0])
+                for i in range(len(above) - 1):
+                    if above[i + 1] == above[i] + 1:
+                        chosen = int(above[i])
+                        break
+                stim_onset_idx = search_start + chosen
+                onset_was_detected = True
+
+        print(
+            f"[DEBUG] onset search | "
+            f"trigger_sample={trigger_sample} | "
+            f"extra_delay_samples={extra_delay_samples} | "
+            f"search=[{search_start}, {search_end}] | "
+            f"stim_onset_idx={stim_onset_idx} | "
+            f"onset_detected={onset_was_detected} | "
+            f"sync_data_len={len(self._current_trial.sync_data)}"
+        )
+
+        #-------------------------------------------------------------------
+        # Phase 2: Cut peri-stimulus window (-20 ms … +30 ms around onset)
+        #-------------------------------------------------------------------
+        pre_stim_samples: int = int(20.0 / MhRecruitmentCurveStage.ms_per_sample())
+        post_stim_samples: int = int(30.0 / MhRecruitmentCurveStage.ms_per_sample())
+
+        idx_pre: int = max(0, stim_onset_idx - pre_stim_samples)
+        idx_post: int = min(len(self._current_trial.trial_data), stim_onset_idx + post_stim_samples)
+
+        data_to_plot = self._current_trial.trial_data[idx_pre:idx_post]
+        num_samples: int = len(data_to_plot)
+
+        #-------------------------------------------------------------------
+        # Phase 3: Zero the time axis — t=0 is exactly stim onset
+        #-------------------------------------------------------------------
+        samples_before_onset: int = stim_onset_idx - idx_pre
+        x_data = (np.arange(0, num_samples) - samples_before_onset) * MhRecruitmentCurveStage.ms_per_sample()
+
+        #Plot EMG signal (always shown while flag index 0 is True)
+        if len(self._trial_signal_flags) == 0 or self._trial_signal_flags[0]:
+            self._trial_widget.plot(x_data, data_to_plot, pen=emg_pen)
+
+        self._trial_widget.setXRange(-20, 30, padding=0)
+
+        #Stim onset marker at t=0 (blue dashed)
+        onset_pen = pg.mkPen(color=(0, 0, 255), width=2.0, style=QtCore.Qt.DashLine)
+        self._trial_widget.addItem(pg.InfiniteLine(0, 90, onset_pen, movable=False))
+
+        #-------------------------------------------------------------------
+        # Phase 4: Stim end marker
+        # Only drawn when the onset was positively detected.  When the fallback
+        # position is used (onset not found), skipping the end marker avoids the
+        # misleading "stim period = 0" display that previously appeared.
+        #-------------------------------------------------------------------
+        if onset_was_detected and len(self._current_trial.sync_data) > stim_onset_idx:
+            post_onset_sync = self._current_trial.sync_data[stim_onset_idx:]
+            end_candidates = np.where(post_onset_sync < MhRecruitmentCurveStage.STIM_END_THRESHOLD)[0]
+            if len(end_candidates) > 0:
+                stim_end_time_ms: float = int(end_candidates[0]) * MhRecruitmentCurveStage.ms_per_sample()
+                end_pen = pg.mkPen(color=(128, 0, 128), width=2.0, style=QtCore.Qt.DashLine)
+                self._trial_widget.addItem(pg.InfiniteLine(stim_end_time_ms, 90, end_pen, movable=False))
+
+        #-------------------------------------------------------------------
+        # Phase 5: Optional ADC sync overlay on a secondary (right) Y-axis
+        #-------------------------------------------------------------------
+        show_adc: bool = len(self._trial_signal_flags) > 1 and self._trial_signal_flags[1]
+        if show_adc and len(self._current_trial.sync_data) >= idx_post:
+            adc_to_plot = self._current_trial.sync_data[idx_pre:idx_post]
+            if len(adc_to_plot) == num_samples:
+                self._draw_trial_adc_overlay(x_data, adc_to_plot)
+
+        pass}
+Show less
+Plain-English Walkthrough
+process() — What it does
+NOT_SETUP state: Picks the next stim amplitude from the randomized list, sends it to the stimulator hardware, and moves to WAIT_FOR_INITIATION.
+
+WAIT_FOR_INITIATION state: Every incoming data frame, checks if the muscle EMG is within the initiation threshold window. Once it is:
+
+Grabs the last 50 ms of EMG from the rolling buffer → trial_data (pre-stim portion)
+Grabs the last 50 ms of ADC sync from the rolling buffer → sync_data (pre-stim portion)
+Records _trigger_wall_time_ms = wall-clock time right now
+Fires trigger_single() on the stimulator
+RECORD state: Receives incoming frames. Discards any frame whose timestamp_emitted (set by the background thread when the frame was assembled) is earlier than _trigger_wall_time_ms. Keeps the rest, concatenating onto trial_data and sync_data until 100 ms of post-stim data has accumulated. Then moves to FINALIZE.
+
+FINALIZE state: Saves, plots, resets.
+
+_update_trial_plot() — What it does
+After FINALIZE, trial_data and sync_data each look like:
+
+
+index:  0 ............ trigger_sample .............. end
+data:   [50ms pre-stim] [post-trigger frames ...]
+         ↑                 ↑
+     pre-stim EMG    stim pulse should be somewhere in here
+Phase 1 searches sync_data for where the ADC line crossed 4.5 V (stim onset). It never looks in the pre-stim half. It starts at trigger_sample + extra_delay_samples and looks 120 ms forward.
+
+Phase 2 cuts a ±20/+30 ms slice of EMG around wherever it decided onset was.
+
+Phase 3 builds the x-axis so that the onset sample = t=0 ms.
+
+Phase 4 finds the stim end on the sync line after the onset (only if onset was found).
+
+Phase 5 optionally overlays the ADC sync line on the same plot.
+
+The Real Problem You're Describing
+Yes — the extra_delay_samples calculation is the most likely cause of misalignment on successful trials.
+
+Here's why:
+
+
+ms_delay = frame_received_timestamps_ms[0] - trigger_wall_time_ms
+extra_delay_samples = min(ms_delay * sample_rate / 1000, 60ms_in_samples)
+search_start = trigger_sample + extra_delay_samples
+ms_delay measures: how long after the trigger did the first post-trigger frame finish assembling? That's a Qt/ZMQ frame delivery latency, not a hardware stim arrival latency. These are different:
+
+The Model 4100 fires its pulse with a fixed hardware delay after trigger_single() — likely < 1 ms
+The first post-trigger frame may not finish assembling until 5–30 ms later
+So search_start skips past where the pulse actually landed in the data. On bad trials, the search window starts after the pulse and never finds it. On "successful" trials with this issue, it found a later noise crossing and zero'd to the wrong place.
+
+Where to Breakpoint
+Breakpoint 1 — in RECORD state, inside if frame_is_post_trigger:
+
+Right after self._frame_received_timestamps_ms.append(...). Inspect:
+
+Variable	What to check
+data_frame.timestamp_emitted	When did this frame arrive?
+self._trigger_wall_time_ms	When was the trigger sent?
+data_frame.timestamp_emitted - self._trigger_wall_time_ms	Frame delay in ms — is this 5ms? 30ms?
+len(self._current_trial.sync_data)	Growing correctly each frame?
+self._current_trial.sync_data.max()	Does the pulse appear at all yet?
+Breakpoint 2 — in _update_trial_plot(), just before the print(f"[DEBUG] onset search ...") line
+
+This is the single most important breakpoint. Inspect:
+
+Variable	What to check
+trigger_sample	Expected: ~1500 at 30 kHz
+extra_delay_samples	If > 300 samples (10ms), the search may skip past the pulse
+search_start / search_end	Is the window reasonable?
+self._current_trial.sync_data[trigger_sample:].max()	Peak voltage in the entire post-trigger region — is the pulse even there?
+self._current_trial.sync_data[search_start:search_end].max()	Peak voltage within the search window — if lower than 4.5 V, the window is wrong
+onset_was_detected	Did it find anything?
+stim_onset_idx	Where t=0 will be placed
+Breakpoint 3 — in _update_trial_plot(), after Phase 2 (idx_pre, idx_post calculated)
+
+Inspect:
+
+Variable	What to check
+stim_onset_idx - pre_stim_samples	Is this negative? If so, idx_pre gets clamped to 0 and samples_before_onset < pre_stim_samples — t=0 will shift right
+idx_post - idx_pre	Should be pre_stim_samples + post_stim_samples. If shorter, the array was truncated
+samples_before_onset	This directly controls where t=0 lands. Should equal pre_stim_samples (e.g. 600 at 30 kHz)
+Recommended Fix to Investigate
+Try temporarily removing extra_delay_samples entirely (set it to 0, making search_start = trigger_sample always). The search window then spans the full 120 ms of post-trigger data starting right at the boundary. This would confirm whether the skipping behavior is what's causing the misses. If alignment improves, the frame delivery delay is indeed overshooting the pulse position.
+
+Can you explain this exact logic to me here in simpler terms so I can understand it, I am trying to debug this plot where it may be detecting the stim onset pulse correctly, but it is not setting the window or setting the zero of the window correctly on a failed sitm trial. It also isn't always correctly aligning the data to the stim onset in successful stim trials when the onset is detected. Could the problem be that we are discarding pre-stim data and only looking right after? Where would be the best places to set and break point and which variables would be most worth looking into and inspecting in debug mode? :{   def process (self, data_frame: OpenEphysDataFrame) -> None:
+        '''
+        Processes the most recent incoming data and takes any actions
+        that are necessary based on the incoming data.
+        '''
+        current_datetime: datetime = datetime.now()
+
+        #Load in the data from the previous stage
+        #That will give us our histogram
+
+        #Plot the histogram, we need a min and max bound
+        #Set some value within the min and max bound that will be used as the initiation threshold
+        #This initiation threshold will vary during the session to try and maintain a certain
+        #number of trials per hour.
+
+        #Target trials per hour = 300 stims/day. Two 1 hour sessions. 150 trials/hour.
+
+        #Each trial is a single stimulation
+        #Each trial we will randomly choose the stimulation amplitude
+
+        #2 mA max. 0.1 mA step size. Randomly sample that space. Build the recruitment curve.
+        #As we are building it, allow the user to adjust the max amplitude to go higher if needed.
+
+        #START HERE
+
+        if (self._current_trial_state == MhRecruitmentCurveStage.TRIAL_STATE_NOT_SETUP):
+            #Set things up for a new trial
+            self._setup_new_trial()
+
+            #Pop the first stimulation amplitude from the list of stim amplitudes
+            self._current_stimulation_amplitude_ma = self._stimulation_amplitudes[0]
+            self._stimulation_amplitudes = self._stimulation_amplitudes[1:]
+
+            #Set the stimulation parameters on the Model 4100 for the upcoming trial
+            #Disarm the stimulator first so the Model 4100 accepts the amplitude change
+            if (ApplicationConfiguration.stimulator is not None):
+                ApplicationConfiguration.stimulator.set_active(False)
+
+            ApplicationConfiguration.set_stimulation_amplitude(self._current_stimulation_amplitude_ma)
+
+            if (ApplicationConfiguration.stimulator is not None):
+                ApplicationConfiguration.stimulator.set_active(True)
+
+            #Set the trial state
+            self._current_trial_state = MhRecruitmentCurveStage.TRIAL_STATE_WAIT_FOR_INITIATION
+
+        elif (self._current_trial_state == MhRecruitmentCurveStage.TRIAL_STATE_WAIT_FOR_INITIATION):
+            if (len(self._trials) > 0):
+                #Update the amount of time that has passed since the last trial
+                elapsed_ms: int = int((current_datetime - self._trials[-1].start_time).total_seconds() * 1000.0)
+
+                #If we are still inside of the inter-trial timeout period, then just return immediately
+                if (elapsed_ms < MhRecruitmentCurveStage.MINIMUM_INTERTRIAL_INTERVAL_MILLISECONDS):
+                    return
+
+            #Check to see if we should initiate a trial
+            should_initiate_trial: bool = self._check_for_trial_initiation(data_frame)
+            if (should_initiate_trial):
+                #If it is determined that we should initiate a trial...
+
+                #------------------------------------------------------------------
+                # DEBUG: stim criteria met
+                #------------------------------------------------------------------
+                decision_wall_time_ms: int = int(datetime.now().timestamp() * 1000)
+                decision_oe_sample_id: int = data_frame.sample_id
+                decision_msg: str = (
+                    f"[DEBUG] Stim criteria met | "
+                    f"wall_time={decision_wall_time_ms} ms | "
+                    f"OE_sample_id={decision_oe_sample_id} | "
+                    f"amp={self._current_stimulation_amplitude_ma:.2f} mA"
+                )
+                print(decision_msg)
+                self.signals.new_message.emit(SessionMessage(decision_msg))
+                #------------------------------------------------------------------
+
+                #Set the trial state...
+                self._current_trial_state = MhRecruitmentCurveStage.TRIAL_STATE_RECORD
+
+                #Create a trial object
+                self._current_trial = MhRecruitmentCurveTrial()
+                self._current_trial.initialize(
+                    self._current_min_initiation_threshold,
+                    self._current_max_initiation_threshold,
+                    self._current_stimulation_amplitude_ma
+                )
+
+                #Transfer the last 50 ms of trial initiation data into the trial object
+                self._current_trial.trial_data = self._current_trial_initiation_data.monitored_signal[-MhRecruitmentCurveStage.bin_sample_count():]
+
+                #Transfer the last 50 ms of ADC sync line data into the trial object (pre-stim window)
+                self._current_trial.sync_data = self._current_trial_initiation_data.sync_signal[-MhRecruitmentCurveStage.bin_sample_count():].copy()
+
+                #Reset per-trial debug accumulators before entering RECORD state
+                self._n_pre_trigger_frames_discarded = 0
+                self._frame_received_timestamps_ms = []
+                self._first_post_trigger_frame_sample_id = 0
+
+                #Record the wall-clock time at which the trigger is sent so that RECORD
+                #state can identify and discard any queued pre-trigger frames.
+                self._trigger_wall_time_ms = int(datetime.now().timestamp() * 1000)
+
+                #------------------------------------------------------------------
+                # DEBUG: trigger actually sent
+                #------------------------------------------------------------------
+                trigger_msg: str = (
+                    f"[DEBUG] trigger_single() sent | "
+                    f"trigger_wall_time={self._trigger_wall_time_ms} ms | "
+                    f"OE_sample_id={data_frame.sample_id} | "
+                    f"decision→trigger latency={self._trigger_wall_time_ms - decision_wall_time_ms} ms"
+                )
+                print(trigger_msg)
+                self.signals.new_message.emit(SessionMessage(trigger_msg))
+                #------------------------------------------------------------------
+
+                #Trigger the Model 4100
+                if (ApplicationConfiguration.stimulator is not None):
+                    ApplicationConfiguration.stimulator.trigger_single()
+
+        elif (self._current_trial_state == MhRecruitmentCurveStage.TRIAL_STATE_RECORD):
+
+            #Only accumulate frames that were assembled by the background thread AFTER the
+            #trigger was sent.  Because data_received_signal crosses a thread boundary it uses
+            #Qt's queued connection, meaning several pre-trigger frames can already be waiting
+            #in the main-thread event queue at the moment trigger_single() is called.  Those
+            #frames were acquired before the stimulus and cannot contain the stim onset; adding
+            #them to the trial record would push the real onset outside the search window.
+            #
+            #We fall through to _save_emg_data_frame at the end of process() regardless, so
+            #the continuous background EMG record is never interrupted.
+            frame_is_post_trigger: bool = (
+                self._trigger_wall_time_ms == 0 or
+                data_frame.timestamp_emitted == 0 or
+                data_frame.timestamp_emitted >= self._trigger_wall_time_ms
+            )
+
+            if frame_is_post_trigger:
+                #Track the Open Ephys sample ID of the very first post-trigger frame so
+                #the analyst can locate the exact position in the continuous OE recording.
+                if (len(self._frame_received_timestamps_ms) == 0):
+                    self._first_post_trigger_frame_sample_id = data_frame.sample_id
+
+                #Record this frame's background-thread emit timestamp for later debug output.
+                self._frame_received_timestamps_ms.append(data_frame.timestamp_emitted)
+
+                #Copy data into the trial object until we have 100 ms of post-stim data
+                self._current_trial.trial_data = np.concatenate([self._current_trial.trial_data, data_frame.filtered_data_block])
+                self._current_trial.sync_data = np.concatenate([self._current_trial.sync_data, data_frame.sync_data_block])
+
+                #Check to see if we have enough data
+                if (len(self._current_trial.trial_data) >= (MhRecruitmentCurveStage.bin_sample_count() + MhRecruitmentCurveStage.trial_recording_sample_count())):
+                    #If so, move on to the next stage
+                    self._current_trial_state = MhRecruitmentCurveStage.TRIAL_STATE_FINALIZE
+            else:
+                #Count discarded pre-trigger frames for debug output
+                self._n_pre_trigger_frames_discarded += 1
+
+        elif (self._current_trial_state == MhRecruitmentCurveStage.TRIAL_STATE_FINALIZE):
+            
+            #Append the current trial to the session's list of trials
+            self._trials.append(self._current_trial)
+
+            #Compute and attach timing/sync debug fields before writing to disk
+            self._compute_trial_debug_fields(self._current_trial)
+
+            #------------------------------------------------------------------
+            # DEBUG: onset detection result
+            #------------------------------------------------------------------
+            t = self._current_trial
+            first_frame_delay_ms: float = (
+                float(self._frame_received_timestamps_ms[0]) - float(self._trigger_wall_time_ms)
+                if len(self._frame_received_timestamps_ms) > 0 else -1.0
+            )
+            onset_msg: str = (
+                f"[DEBUG] Trial finalized | "
+                f"onset_detected={t.onset_detected} | "
+                f"onset_sample={t.onset_sample_index} | "
+                f"end_sample={t.stim_end_sample_index} | "
+                f"stim_dur_ms={t.stim_duration_ms:.3f} | "
+                f"sync_peak_V={t.sync_peak_voltage:.3f} | "
+                f"pre_trigger_frames_discarded={t.n_pre_trigger_frames_discarded} | "
+                f"first_frame_delay_ms={first_frame_delay_ms:.1f} | "
+                f"first_OE_sample={t.first_post_trigger_frame_sample_id}"
+            )
+            print(onset_msg)
+            self.signals.new_message.emit(SessionMessage(onset_msg))
+            #------------------------------------------------------------------
+
+            #Save the data for this trial to the session's data file
+            self._current_trial.save_to_file(self._fid)
+
+            #Display a message to the user in the application's message box
+            message: SessionMessage = SessionMessage(f"Trial {len(self._trials)} initiated. Stimulation amplitude: {self._current_trial.stimulation_amplitude_ma:.2f} mA, threshold = [{self._current_trial.min_initiation_threshold:.2f}, {self._current_trial.max_initiation_threshold:.2f}]")
+            self.signals.new_message.emit(message)
+
+            #Calculate the average time between trials
+            trial_isi_list: list[float] = []
+            for i in range(1, len(self._trials)):
+                isi: float = (self._trials[i].start_time - self._trials[i - 1].start_time).total_seconds() * 1000.0
+                trial_isi_list.append(isi)
+            
+            if (len(trial_isi_list) > 0):
+                self._average_ms_between_trials = np.mean(trial_isi_list)
+
+            #Plot data about this trial in the application's charts
+            ## TO DO
+            self._update_trial_plot()
+
+            #Set the state
+            self._current_trial_state = MhRecruitmentCurveStage.TRIAL_STATE_NOT_SETUP
+
+        #Now save out the EMG data frame
+        self._save_emg_data_frame(data_frame)
+
+        return} and this section too :{def _update_trial_plot (self) -> None:
+        #Remove any ADC ViewBox left from a previous draw before clearing
+        self._cleanup_trial_adc_viewbox()
+
+        #Clear the plot
+        self._trial_widget.clear()
+        self._trial_widget.getPlotItem().hideAxis('right')
+        self._trial_widget.getPlotItem().setLabel('bottom', 'Time (ms)')
+        self._trial_widget.getPlotItem().setLabel('left', 'EMG (µV)')
+
+        emg_pen = pg.mkPen(color=(0, 0, 0), width=2.0)
+
+        #-------------------------------------------------------------------
+        # Phase 1: Detect true stim onset from the ADC sync line
+        #
+        # Search window design:
+        #   - Never look in the pre-stim window (sync_data[0 : bin_sample_count()]).
+        #     That data was captured BEFORE trigger_single() was called; any crossing
+        #     there is noise and was causing the ±10–50 ms jitter the user observed.
+        #   - Start at bin_sample_count() (the exact sample where post-trigger data
+        #     begins), then push forward by the measured TCP + frame-delivery delay.
+        #     The stim pulse physically cannot arrive before that delay elapses, so
+        #     those leading samples are safe to skip.  Capped at 60 ms so a slow
+        #     or bursty frame never hides a real onset.
+        #   - Search 120 ms of post-trigger data — wide enough to catch the onset
+        #     regardless of network / hardware jitter.
+        #-------------------------------------------------------------------
+        trigger_sample: int = MhRecruitmentCurveStage.bin_sample_count()
+
+        extra_delay_samples: int = 0
+        if (self._trigger_wall_time_ms > 0 and len(self._frame_received_timestamps_ms) > 0):
+            ms_delay: float = max(0.0,
+                float(self._frame_received_timestamps_ms[0]) - float(self._trigger_wall_time_ms))
+            extra_delay_samples = min(
+                int(ms_delay * ApplicationConfiguration.sample_rate / 1000.0),
+                int(60.0 * ApplicationConfiguration.sample_rate / 1000.0)
+            )
+
+        search_start: int = trigger_sample + extra_delay_samples
+        search_end: int = min(
+            trigger_sample + int(120.0 / MhRecruitmentCurveStage.ms_per_sample()),
+            len(self._current_trial.sync_data)
+        )
+
+        stim_onset_idx: int = trigger_sample  # fallback: start of post-trigger data
+        onset_was_detected: bool = False
+
+        if len(self._current_trial.sync_data) > search_start:
+            search_window = self._current_trial.sync_data[search_start:search_end]
+            above = np.where(search_window >= MhRecruitmentCurveStage.STIM_ONSET_THRESHOLD)[0]
+            if len(above) > 0:
+                #Prefer the first pair of consecutive samples above threshold to reject
+                #single-sample noise transients.  Fall back to first isolated crossing
+                #at low sample rates where the pulse fits in one sample.
+                chosen: int = int(above[0])
+                for i in range(len(above) - 1):
+                    if above[i + 1] == above[i] + 1:
+                        chosen = int(above[i])
+                        break
+                stim_onset_idx = search_start + chosen
+                onset_was_detected = True
+
+        print(
+            f"[DEBUG] onset search | "
+            f"trigger_sample={trigger_sample} | "
+            f"extra_delay_samples={extra_delay_samples} | "
+            f"search=[{search_start}, {search_end}] | "
+            f"stim_onset_idx={stim_onset_idx} | "
+            f"onset_detected={onset_was_detected} | "
+            f"sync_data_len={len(self._current_trial.sync_data)}"
+        )
+
+        #-------------------------------------------------------------------
+        # Phase 2: Cut peri-stimulus window (-20 ms … +30 ms around onset)
+        #-------------------------------------------------------------------
+        pre_stim_samples: int = int(20.0 / MhRecruitmentCurveStage.ms_per_sample())
+        post_stim_samples: int = int(30.0 / MhRecruitmentCurveStage.ms_per_sample())
+
+        idx_pre: int = max(0, stim_onset_idx - pre_stim_samples)
+        idx_post: int = min(len(self._current_trial.trial_data), stim_onset_idx + post_stim_samples)
+
+        data_to_plot = self._current_trial.trial_data[idx_pre:idx_post]
+        num_samples: int = len(data_to_plot)
+
+        #-------------------------------------------------------------------
+        # Phase 3: Zero the time axis — t=0 is exactly stim onset
+        #-------------------------------------------------------------------
+        samples_before_onset: int = stim_onset_idx - idx_pre
+        x_data = (np.arange(0, num_samples) - samples_before_onset) * MhRecruitmentCurveStage.ms_per_sample()
+
+        #Plot EMG signal (always shown while flag index 0 is True)
+        if len(self._trial_signal_flags) == 0 or self._trial_signal_flags[0]:
+            self._trial_widget.plot(x_data, data_to_plot, pen=emg_pen)
+
+        self._trial_widget.setXRange(-20, 30, padding=0)
+
+        #Stim onset marker at t=0 (blue dashed)
+        onset_pen = pg.mkPen(color=(0, 0, 255), width=2.0, style=QtCore.Qt.DashLine)
+        self._trial_widget.addItem(pg.InfiniteLine(0, 90, onset_pen, movable=False))
+
+        #-------------------------------------------------------------------
+        # Phase 4: Stim end marker
+        # Only drawn when the onset was positively detected.  When the fallback
+        # position is used (onset not found), skipping the end marker avoids the
+        # misleading "stim period = 0" display that previously appeared.
+        #-------------------------------------------------------------------
+        if onset_was_detected and len(self._current_trial.sync_data) > stim_onset_idx:
+            post_onset_sync = self._current_trial.sync_data[stim_onset_idx:]
+            end_candidates = np.where(post_onset_sync < MhRecruitmentCurveStage.STIM_END_THRESHOLD)[0]
+            if len(end_candidates) > 0:
+                stim_end_time_ms: float = int(end_candidates[0]) * MhRecruitmentCurveStage.ms_per_sample()
+                end_pen = pg.mkPen(color=(128, 0, 128), width=2.0, style=QtCore.Qt.DashLine)
+                self._trial_widget.addItem(pg.InfiniteLine(stim_end_time_ms, 90, end_pen, movable=False))
+
+        #-------------------------------------------------------------------
+        # Phase 5: Optional ADC sync overlay on a secondary (right) Y-axis
+        #-------------------------------------------------------------------
+        show_adc: bool = len(self._trial_signal_flags) > 1 and self._trial_signal_flags[1]
+        if show_adc and len(self._current_trial.sync_data) >= idx_post:
+            adc_to_plot = self._current_trial.sync_data[idx_pre:idx_post]
+            if len(adc_to_plot) == num_samples:
+                self._draw_trial_adc_overlay(x_data, adc_to_plot)
+
+        pass}
+ we are acquiring data at 5000 Hz
+Concrete Numbers at 5000 Hz
+First, the key constants with real values:
+
+ms_per_sample() = 1000/5000 = 0.2 ms per sample
+bin_sample_count() = 50ms / 0.2ms = 250 samples (pre-stim window)
+trial_recording_sample_count() = 100ms / 0.2ms = 500 samples (post-stim window)
+Total trial_data / sync_data length = 750 samples
+pre_stim_samples (Phase 2) = 20ms / 0.2ms = 100 samples
+post_stim_samples (Phase 2) = 30ms / 0.2ms = 150 samples
+120 ms search window = 600 samples
+So trigger_sample = 250 always. The post-trigger data occupies indices 250–749.
+
+The Core Bug: extra_delay_samples Is Overshooting
+This is almost certainly your problem on both failed and misaligned trials. Here's exactly what's happening:
+
+
+Frame delivery:
+  trigger_wall_time_ms  ─── trigger fires (t = 0ms)
+                                │
+                                ├── Model 4100 fires pulse at ~1-3ms (hardware)
+                                │   → pulse arrives at ADC sample ~5 to 15 (index 255–265)
+                                │
+  frame assembled ─────────────── at t = ~10-20ms (when Open Ephys finishes the frame)
+  timestamp_emitted = t + 10ms
+Then:
+
+
+ms_delay = timestamp_emitted[0] - trigger_wall_time_ms  # e.g. 15ms
+extra_delay_samples = 15ms * 5 samples/ms = 75 samples
+search_start = 250 + 75 = 325
+But the stim pulse is at index ~255–265. Search starts at 325, skips right past it. Onset not detected → fallback → t=0 placed at index 250 → window is wrong.
+
+The reason: timestamp_emitted is the moment the frame finished assembling in the background thread. Each Open Ephys frame covers a chunk of time (e.g. 10ms of data at 5000 Hz = 50 samples per frame). The pulse is somewhere in the early samples of that first post-trigger frame, but timestamp_emitted reflects the end of that frame's assembly — making it appear the stim arrived much later than it did.
+
+Breakpoints and What to Inspect
+Breakpoint 1 — In RECORD state, on the self._frame_received_timestamps_ms.append(...) line:
+
+
+data_frame.timestamp_emitted - self._trigger_wall_time_ms   → "frame delay" in ms
+                                                              e.g. 15ms → 75 samples skipped
+len(self._current_trial.sync_data) before concatenation      → how many samples so far
+data_frame.sync_data_block.max()                             → does THIS frame contain the pulse?
+If sync_data_block.max() >= 4.5V on the first post-trigger frame, the pulse is in samples 0–N of that frame, not at the end. But extra_delay_samples will skip 75 samples into it.
+
+Breakpoint 2 — Right before the print(f"[DEBUG] onset search ...") in _update_trial_plot:
+
+
+trigger_sample                           → always 250
+extra_delay_samples                      → e.g. 75 (this is the likely culprit)
+search_start                             → e.g. 325
+search_end                               → min(250+600, 750) = 750
+self._current_trial.sync_data[250:325].max()  → is the pulse HERE (in the skipped region)?
+self._current_trial.sync_data[325:750].max()  → is the pulse here (in the searched region)?
+If the first query returns >= 4.5V and the second doesn't — confirmed: extra_delay_samples is skipping the pulse.
+
+Breakpoint 3 — After idx_pre / idx_post in Phase 2:
+
+
+stim_onset_idx           → e.g. 250 (fallback) or 262 (detected)
+idx_pre                  → max(0, stim_onset_idx - 100)
+                           if stim_onset_idx = 250: idx_pre = 150 ✓
+                           if stim_onset_idx = 255: idx_pre = 155 ✓
+idx_post                 → min(750, stim_onset_idx + 150)
+                           if stim_onset_idx = 250: idx_post = 400 ✓
+samples_before_onset     → stim_onset_idx - idx_pre
+                           should be 100 (= 20ms); if it's less, t=0 shifts rightward
+Recommended Fix
+Remove extra_delay_samples entirely. Set search_start = trigger_sample always:
+
+
+# Remove this whole block:
+extra_delay_samples: int = 0
+if (self._trigger_wall_time_ms > 0 and len(self._frame_received_timestamps_ms) > 0):
+    ms_delay: float = ...
+    extra_delay_samples = ...
+
+search_start: int = trigger_sample  # always start right at post-trigger boundary
+The pre-trigger discard logic in process() already guarantees nothing before the trigger is in sync_data[250:]. Any crossing in indices 250–849 (120ms window) is legitimately post-trigger. The consecutive-sample check already rejects single-sample noise. The extra_delay_samples logic was meant to help but is actually making the window too narrow because it measures frame assembly delay, not stim hardware latency.
+
+Can you add do the recommended fix
+Grep "extra_delay_samples" (in c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\stages\mh_recruitment_curve_stage.py)
+24 lines of output
+Grep "extra_delay_samples" (in c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\stages\mh_recruitment_curve_stage.py)
+20 lines of output
+Now let me check if _compute_trial_debug_fields has the same logic:
+
+Grep "_compute_trial_debug_fields" (in c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\stages\mh_recruitment_curve_stage.py)
+2 lines of output
+Read c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\stages\mh_recruitment_curve_stage.py (lines 984-1043)
+Good — _compute_trial_debug_fields already uses search_start = bin_sample_count() directly (no extra_delay_samples). Only _update_trial_plot needs fixing. I'll remove the extra_delay_samples block and update the debug print:
+
+Edit c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\stages\mh_recruitment_curve_stage.py
+Removed 4 lines
+Read c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\stages\mh_recruitment_curve_stage.py (lines 786-797)
+Edit c:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\stages\mh_recruitment_curve_stage.py
+Removed 1 line
