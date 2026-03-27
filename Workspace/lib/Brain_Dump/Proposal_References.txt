@@ -1,5 +1,8 @@
 January 2026
 ---------------
+                        Plasticity papers and Hyperreflexia Models
+
+
 Title: Electrophysiological evidence of Hebbian plasticity in awake adult rats
 Authors/Year: Siddharth S. Gaikwad, 1 Yi Chen, 2; 2025
 Link:https://journals.physiology.org/doi/full/10.1152/jn.00129.2025
@@ -42,6 +45,8 @@ Topics: Electrophysiology Methods, Neural Plasticity, J Neurophysiol Publication
 ---------------
 February 2026
 ---------------
+                            Previous Automated System Papers
+
 Title: The isometric pull task: A novel automated method for quantifying forelimb force generation in rats
 Authors/Year: Seth A. Hays ∗, Navid Khodaparast, Andrew M. Sloan, Daniel R. Hulsey, Maritza Pantoja, Andrea D. Ruiz, Michael P. Kilgard, Robert L. Rennaker II / 2013
 Link: http://dx.doi.org/10.1016/j.jneumeth.2012.11.007
@@ -60,3 +65,49 @@ Link: http://dx.doi.org/10.1016/j.jneumeth.2012.11.007
 Topics: Paradigm and system for supination task (rotation) for automation of force measurement method
 Notes:{This is one of the papers Dr. Meyers sent me to review regarding writing a paper, as a review of what has been done before with automated tasks and to highlight the tool gap. Doesn't stim and record at same time}
 
+
+---------------
+March 2026
+---------------
+                            Spasticity - Coactivation Papers
+
+Title: Coactivation of ankle muscles during stance phase of gait in patients with lower limb hypertonia after acquired brain injury
+Authors/Year: John W. Chow, Stuart A. Yablon, Dobrivoje S. Stokic / 2012
+Link: https://doi.org/10.1016/j.clinph.2012.01.006
+Topics: {This paper investigates the coactivation of antagonistic ankle muscles (the tibialis anterior and medial gastrocnemius) during the stance phase of walking in individuals with acquired brain injury, specifically stroke and traumatic brain injury (TBI). 1. Quantification of Muscle Coactivation and 2. Comparative Analysis of Stroke and TBI patterns 3. Stability during Step Transitions 4. Relationship to Spasticity and Clinical Scales 5. Clinical and Functional Implications}
+Notes:{This is a paper sent from Dr. Kilgard on Coactivation. This paper goes into how coactivation parameters respond to anti-spasticity treatments could further refine rehab protocols}
+
+Title: Coactivation during gait as an adaptive behavior after stroke
+Authors/Year: Anouk Lamontagne a, b,*, Carol L. Richards a, b, Francine Malouin a, b / 2000
+Link: https://doi.org/10.1016/S1050-6411(00)00028-6
+Topics:{This paper investigates ankle muscle coactivation (medial gastrocnemius and tibialis anterior) during walking in hemiparetic stroke survivors compared to healthy controls. Key topics include: 1. Quantification of Coactivation Duration on both paretic and non-paretic limbs across specific gait sub-phases (stance, swing, single support, and double support). 2. Coactivation as a Functional Adaptation, specifically how excessive activation on the non-paretic limb compensates for overall postural instability. 3. Impact of Paretic Coactivation Deficits, exploring how reduced simultaneous muscle activation on the affected side contributes to poor balance during single support. 4. Correlation with Clinical Performance, analyzing the relationship between coactivation timing and gait speed, dynamic ankle strength, and postural stability. 5. Rehabilitation and Energy Efficiency, discussing the high energy costs of compensatory coactivation and the potential for weight-bearing exercises to improve motor control}
+Key Takeaways:{Paretic Side: Subjects showed less coactivation than controls during the single support phase, which was linked to postural instability. Non-Paretic Side: Subjects showed excessive coactivation during the first and second double support phases, which is considered an adaptive behavior to maintain balance while the paretic limb is transitioning. Severity Correlation: Patients with coactivation patterns that differed most from healthy controls also had the most severe functional impairments and disabilities.}
+Notes:{This is a paper sent from Dr. Kilgard on Coactivation. This paper goes into how coactivation parameters respond to anti-spasticity treatments could further refine rehab protocols}
+
+Title: Mechanisms of disturbed motor control in ankle weakness during gait after stroke 
+Authors/Year: A. Lamontagne, F. Malouin, C.L. Richards, F. Dumas / 2002 
+Link: https://doi.org/10.1016/S0966-6362(01)00194-4 
+Topics: {This research investigates the contribution of four specific impairments—muscle paresis, excessive antagonist coactivation, hyperactive stretch reflexes, and increased passive stiffness—to ankle weakness during gait. Key topics include: 1. Bilateral Weakness Analysis of plantarflexor moment (Mmax) and swing phase dorsiflexion (Dfmax). 2. Distinguishing Causal Factors between paretic and non-paretic sides. 3. Functional Adaptation of Passive Stiffness, exploring how it may assist push-off in paretic limbs. 4. Predictors of Gait Speed, specifically the role of medial gastrocnemius (MG) activation.} 
+Key Takeaways: {Paretic Side: The dominant cause of weakness is plantarflexor paresis (defective activation), not excessive coactivation or spasticity. Non-Paretic Side: The reduced plantarflexor moment is primarily caused by excessive antagonist coactivation, likely as an adaptation to postural instability. Passive Stiffness Benefits: Increased paretic passive stiffness can actually minimize the effects of paresis by aiding forward progression. Gait Speed: Over 50% of the variance in gait speed is explained solely by the peak activation of the paretic MG.} 
+Notes: {Highlights that the non-paretic side should not be used as a control for EMG comparisons because its activity reflects compensation for the paretic side.}
+
+Title: Abnormalities in the temporal patterning of lower extremity muscle activity in hemiparetic gait 
+Authors/Year: A.R. Den Otter, A.C.H. Geurts, Th. Mulder, J. Duysens / 2007 
+Link: https://doi.org/10.1016/j.gaitpost.2006.04.007 
+Topics: {This study quantifies muscle activity and coactivity in the Biceps femoris, Rectus femoris, Tibialis anterior, and Gastrocnemius medialis across four gait subphases: first double support, single support, second double support, and swing. Key topics include: 1. Identification of Timing Abnormalities such as prolonged upper leg bursts and premature calf activity. 2. Coordinative Strategies, specifically how increased coactivation duration serves as a strategy to adapt to primary force output impairments. 3. Side-to-Side Comparison of paretic and non-paretic limbs in stroke patients. 4. Statistical Detection of Muscle Activity using a k-means clustering algorithm that avoids arbitrary thresholds.} 
+Key Takeaways: {Upper Leg Coactivation: Significant increases in BF–RF coactivity were found during the single support phase in both paretic and non-paretic legs compared to controls. Lower Leg Patterns: Paretic TA activity was significantly shorter during single support but longer during swing, possibly due to an inability to rapidly deactivate the muscle. Adaptive Stabilization: Most timing disturbances, particularly in the upper leg, are viewed as adaptive locomotor strategies to provide additional joint support and knee stability during stance.} 
+Notes: {This paper provides objective, quantitative data on muscle patterning and suggests that prolonged stance activity in upper leg muscles is a bilateral phenomenon and a general neuromuscular strategy for support.}
+
+Title: Muscle activation improvement during treadmill training at ischemia rat 
+Authors/Year: Le Li, Wei Rong, Zheng Ke, Xiaoling Hu, Shea Ping Yip, Kai Yu Tong / 2010 
+Link: https://doi.org/10.1109/IEMBS.2010.5627407 
+Topics: {This study uses a focal ischemia rat hindlimb model to evaluate changes in muscle activity, fatigue, and symmetry during a 10-day treadmill training program. Key topics include: 1. Muscle Fatigue Dynamics, specifically the Median Power Frequency (MPF) drop in affected vs. unaffected limbs. 2. Symmetry Index (SI) changes as a measure of abnormal coactivation synergies. 3. Treadmill Training Effects on neuronal reorganization and locomotor recovery. 4. Correlation with Behavioral Scores to assess overall recovery rates.} 
+Key Takeaways: {Fatigue Patterns: The unaffected (ipsilateral) side is more prone to fatigue initially because it bears a larger share of the workload to compensate for the paretic side. Symmetry Recovery: Significant asymmetry (increased SI) occurs immediately after stroke but improves toward symmetry with consistent treadmill training. Training Efficacy: Behavioral scores and electrophysiological parameters (MPF and SI) both show significant improvement, indicating that treadmill training promotes neuronal plasticity in the intact hemisphere.} 
+Notes: {Demonstrates that EMG parameters like MPF and SI are highly sensitive tools for evaluating rehabilitation effectiveness and neuroprotective treatments.}
+
+Title: Order-sensitive plasticity in adult primary auditory cortex 
+Authors/Year: Michael P. Kilgard, Michael M. Merzenich / 2002 
+Link: https://doi.org/10.1073/pnas.261705198 
+Topics: {While focused on the auditory system, this paper explores fundamental mechanisms of experience-dependent plasticity using basal forebrain (BF) stimulation. Key topics include: 1. Context-Dependent Facilitation in response to novel acoustic sequences. 2. Response Synchronization, investigating how neural discharges sharpen in timing. 3. Spectrotemporal Pattern Learning, or how the brain reorganizes to represent complex stimuli vs. simple tones.} 
+Key Takeaways: {Combination Sensitivity: Pairing BF stimulation with specific sequences caused a five-fold increase in the percentage of neurons showing order-sensitive facilitation. Temporal Sharpening: Conditioning resulted in shorter response latencies and increased population discharge synchrony, effectively reducing "temporal smearing". Generalized Plasticity: While complex stimuli drive facilitation and synchrony, they do so without significantly altering the coarse topography (frequency map) of the cortex.} 
+Notes: {This paper provides a potential mechanism for learning complex patterns—such as those required in motor or auditory rehab—through experience-dependent synchronization and context sensitivity.}
