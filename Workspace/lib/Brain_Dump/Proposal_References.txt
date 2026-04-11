@@ -111,3 +111,21 @@ Link: https://doi.org/10.1073/pnas.261705198
 Topics: {While focused on the auditory system, this paper explores fundamental mechanisms of experience-dependent plasticity using basal forebrain (BF) stimulation. Key topics include: 1. Context-Dependent Facilitation in response to novel acoustic sequences. 2. Response Synchronization, investigating how neural discharges sharpen in timing. 3. Spectrotemporal Pattern Learning, or how the brain reorganizes to represent complex stimuli vs. simple tones.} 
 Key Takeaways: {Combination Sensitivity: Pairing BF stimulation with specific sequences caused a five-fold increase in the percentage of neurons showing order-sensitive facilitation. Temporal Sharpening: Conditioning resulted in shorter response latencies and increased population discharge synchrony, effectively reducing "temporal smearing". Generalized Plasticity: While complex stimuli drive facilitation and synchrony, they do so without significantly altering the coarse topography (frequency map) of the cortex.} 
 Notes: {This paper provides a potential mechanism for learning complex patterns—such as those required in motor or auditory rehab—through experience-dependent synchronization and context sensitivity.}
+
+--------
+
+EEG Papers
+Deriter?
+Navser
+Reim Thater?
+
+Pre-clinical EEG Papers
+Bakin and Weinburger 1996
+Berridge and Foote 1991
+Chase et al., 1967
+
+
+Respiration Papers
+Butler
+Poon an song
+Jesse Bucksot
