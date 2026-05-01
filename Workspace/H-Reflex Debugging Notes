@@ -26,4 +26,16 @@ Where is the bug
 @scripts/main.py  @src/hreflex_txbdc/model/stages/emg_characterization_stage.py @src/hreflex_txbdc/model/stages/mh_recruitment_curve_stage.py @src/hreflex_txbdc/model/stages/stage.py  @src/hreflex_txbdc/model/application_configuration.py  @src/hreflex_txbdc/model/background_worker.py @src/hreflex_txbdc/model/booth.py @src/hreflex_txbdc/model/emg_data_filter.py @src/hreflex_txbdc/model/fileio_helpers.py @src/hreflex_txbdc/model/open_ephys_streamer.py @src/hreflex_txbdc/model/session_message.py  @src/hreflex_txbdc/view/booth_selection_dialog.py @src/hreflex_txbdc/view/create_ad_hoc_booth_dialog.py @src/hreflex_txbdc/view/main_window.py @src/hreflex_txbdc/view/no_booths_found_dialog.py  
 
 ---------
-On this app, on the recruitment curve stage, the app currently has an option to "Choose trial signals" on the "most recent trial" plot. Currently there is the differentially subtracted (bipolar) and filtered signal (default), and then the differentially subtracted (bipolar) then filtered and absolute value signal (gray), and then the ADC line (green). I want to add to this field/plot the option to view the non-differentially subtracted (unipolar)  and filtered data in orange, and the non-differentially subtracted (unpolar) then filtered and absolute value data of in a grayish purple color.  On the recruitment curve plot, I also want to add the option to toggle to view the unipolar recruitment curve where I want to add traces for the unipolar data where it goes through the exact same method of acquiring and building the data but just using the unipolar data instead, You can keep the color similar but make it lighter and differentiate it with dashed lines instead of solid line. So for the traces of the m-wave peaks in this unipolar recruitment curve it can be a lighter green and will use dashed lines instead of solid lines, for the h-wave peaks traces you can use a lighter blue with dashes lines instead of solid lines.  
+
+
+
+So the feature we added is now working with the HTTP server, but it is quite slow as in there is a delay from when I press the button and when the TTL pulse is actually sent. Review the H-reflex APP and see other examples and ways and protocols of how the Stimulation and TTL Trigger Pulses are sent, and this about what will still give both the DIGITAL pulses and ADC (voltage output) pulses the fastest with the least delay, since I need it to be instantaneous. Feel free to use a mix of protocols or just choose which one will work the best and the fastest and go with that. So review everything, strategize and think about the goals and requirements I gave you, then go ahead and make the changes, then go back and review your work and make improvements to reduce the time delay as much as possible!
+
+
+Some examples of use cases of using the NETWORK EVENTS plugin with python
+@examples/network_events_console.py  
+@examples/record_control_example_client.py  
+@examples/test_ttl_events.py  
+
+{https://open-ephys.github.io/gui-docs/User-Manual/Plugins/Rec-Controller-Output.html} 
+{https://open-ephys.github.io/gui-docs/User-Manual/Plugins/Network-Events.html}
