@@ -29,13 +29,671 @@ Where is the bug
 
 
 
-So the feature we added is now working with the HTTP server, but it is quite slow as in there is a delay from when I press the button and when the TTL pulse is actually sent. Review the H-reflex APP and see other examples and ways and protocols of how the Stimulation and TTL Trigger Pulses are sent, and this about what will still give both the DIGITAL pulses and ADC (voltage output) pulses the fastest with the least delay, since I need it to be instantaneous. Feel free to use a mix of protocols or just choose which one will work the best and the fastest and go with that. So review everything, strategize and think about the goals and requirements I gave you, then go ahead and make the changes, then go back and review your work and make improvements to reduce the time delay as much as possible!
+Can you actually go ahead help me significantly simplify this entire notebook @  by taking each section and making/breaking it out into a function, I want it to be as simplified as possible by turning them all into functions. If you need a place to put all of these functions them you can use @src/open_ephys/analysis/helpers.py
+---------
+Now I want to Set M-H wave windows Initially, then pass my HRS2 data through a function where it will calculate each peak within the M-H windows initially set, then calculate the peaks within head m and h-wave window as usual. Then I want to a run a post-hoc analysis where I set the center of the m and h-wave window and set a window size of varying sized around the calculated peak.
+
+---------
 
 
-Some examples of use cases of using the NETWORK EVENTS plugin with python
-@examples/network_events_console.py  
-@examples/record_control_example_client.py  
-@examples/test_ttl_events.py  
 
-{https://open-ephys.github.io/gui-docs/User-Manual/Plugins/Rec-Controller-Output.html} 
-{https://open-ephys.github.io/gui-docs/User-Manual/Plugins/Network-Events.html}
+
+I want to match up each trial with it's corresponding EMG Level for the Trial, and group them based on that. ("Most Recent Background")
+> Then Measure M-response (peak-to-peak value of Bipolar Signal within window)
+> Then Measure H-response (peak-to-peak value of Bipolar Signal within window)
+> Divide by M-response and H-response by the "Most recent Background" EMG value
+I will then have the M-response size and H-response size calculation for every trial
+
+
+Based on the m-h wave windows set, I want to make a function that calculates the average variability of M-Response size and H-response size across the trials grouped by their emg background level ("Most Recent Background"), as a function of EMG Window Size (Trial Initiation Window Size). Then I want you to go ahead and run a threshold sweep with the avg m-wave size variablility and avg h-wave size variablility, very similar to section 5 but with the m/h-wave size variability as the subject of interest instead of accepted trials, with threshold sweeps centered around Q1, Median, and Q2 just like section 5. In the end, a final target plot where on the y-axis is the "Avg M/H-wave Size Variability" and on the x-axis is the "Threshold (EMG Window) Size", it should have a Q1, Median, Q3 curves for the m-wave size variability, and Q1, Median, Q3 curves for the h-wave size variability. I also on this plot I want to draw vertical lines at 10 points/trials across the curves/plot (equally spaced), and be able to view those specific chosen trials in the interactive viewer or as an output like in section 6.
+
+
+---------
+
+@src/open_ephys/analysis/Open-Ephys_LabCode_w-Respiration.ipynb  I want to adjust this code because it is intended for a different kind of recording that has EEG data as well dEMG (Respiration) data as well. These are the new assignments of the data channels:{# Data Shape is (X, 9) where columns are as follows: (VARIES BASED ON RAT)
+# 0: None
+# 1: EEG 1 
+# 2: EEG 2
+# 3: EEG 3 (common reference)
+# 4: dEMG 1
+# 5: dEMG 2 
+# 6: ADC1
+# 7: ADC2
+# 8: ADC3} where there are only 3 EEG channels now, and those 3 EEG channels will be passed and processed through the same EEG analysis as the current code, but only those 3 channels. The next two cahnnels {# 4: dEMG 1
+# 5: dEMG 2 } are the dEMG channels that will be passed through the same analysis as @src/open_ephys/analysis/Respiration_offline.ipynb and my goal is to bring the analaysis from that notebook and integrate it alongside this one. That because this recording has both VNS and SHAM trials as the EEG Analysis (This Current Notebook) and now also has 2 channels of dEMG alongside it. My goal is to integrate this all together to get to this step and integrate the dEMG analaysis alongside in this final figure viewer. In this final interactive viewer the data of "Avg of 5 Channels" of the EEG channels will now become "Bipolar dEMG (dEMG2-dEMG1)" instead. Final figure viewer:{# -----------------------------
+# Figure 10: Interactive Trial Viewer
+# 5 EEG channels (incl. ref) + averaged-across-channels signal, per trial
+# Data shown is post-pipeline (notch + high-pass + ref subtraction).
+# Optional |signal| rectification is applied AFTER all filtering, at plot time.
+# X-axis units toggle between seconds and milliseconds.
+# Layout: 3 rows x 2 columns grid, OR single-panel fullscreen via the Focus dropdown.
+# Stim-end (red overlay end) can be auto (= stimulation_duration) or set manually.
+# Pre-VNS / Post-VNS analysis windows are drawn on each panel and used to
+# compute PSDs shown in a second 3x2 grid below the trial viewer.
+# Second figure can show PSD (V^2/Hz) or Power (V^2) per frequency bin,
+# with auto or manual y-axis ranges.
+# -----------------------------
+from ipywidgets import (Button, Output, HBox, VBox, Dropdown,
+                        Checkbox, ToggleButton, FloatText, HTML, Label)
+from IPython.display import display
+
+# Data column layout (see preprocessing cell):
+#   1: EEG, 2: Electrode 1, 3: Electrode 2, 4: Electrode 3, 5: Electrode 4 (ref)
+_eeg_cols     = [1, 2, 3, 4, 5]
+_eeg_labels   = ['EEG', 'Electrode 1', 'Electrode 2', 'Electrode 3', 'Electrode 4 (ref)']
+_panel_labels = _eeg_labels + ['Avg of 5 channels']  # 6 panels: 5 channels + average
+
+# Band shading (matches Figure 6's visual language)
+_band_colors = {
+    "Delta": "lightblue",
+    "Theta": "lightgreen",
+    "Alpha": "yellow",
+    "Beta":  "orange",
+    "Gamma": "red",
+}
+
+_n_trials = len(all_trials)
+# All time-related state values are stored in SECONDS internally.
+# FloatText widgets show them in the currently selected display units (s or ms).
+_state = {
+    'idx': 0,
+    'rectify': False,
+    'auto_x': True,
+    'auto_y': True,
+    'auto_stim': False,
+    'units': 's',
+    'x_min': -5.0,
+    'x_max': 15.0,
+    'y_min': -500.0,
+    'y_max':  500.0,
+    'stim_end':   0.5,                          # seconds (default = 500 ms)
+    'pre_start':  -2.0,                          # seconds
+    'pre_end':     0.0,                          # seconds
+    'post_start': 0.5,                           # seconds; defaults to stim end (500 ms)
+    'post_end':    2.75,                         # seconds
+    'focus': -1,                                 # -1 = grid; 0..4 = channel; 5 = avg
+    # Second-figure (PSD/Power) controls
+    'psd_mode': 'PSD',         # 'PSD' (V^2/Hz) or 'Power' (V^2)
+    'auto_psd_y': True,
+    'psd_y_min': 0.0,
+    'psd_y_max': 1.0,
+}
+_trial_out = Output()
+_psd_out   = Output()
+
+
+def _unit_factor(units):
+    return 1000.0 if units == 'ms' else 1.0
+
+
+def _set_box_silently(box, observer, value):
+    box.unobserve(observer, names='value')
+    box.value = float(value)
+    box.observe(observer, names='value')
+
+
+def _window_indicator(ax, t_start_disp, t_end_disp, color, y_lim):
+    """Draw a thick horizontal bar near the bottom of `ax` indicating a window."""
+    if t_start_disp >= t_end_disp:
+        return
+    y_bot = y_lim[0] + 0.04 * (y_lim[1] - y_lim[0])
+    ax.hlines(y_bot, t_start_disp, t_end_disp, color=color, linewidth=4, alpha=0.9)
+
+
+def _draw_panel(ax, t_disp, y_data, title, units, stim_end_disp,
+                x_lim, y_lim, pre_disp, post_disp,
+                color='C0', linewidth=0.7):
+    ax.plot(t_disp, y_data, color=color, linewidth=linewidth)
+    ax.axvspan(0, stim_end_disp, color='red', alpha=0.10)
+    ax.axvline(0, color='red', linestyle='--', linewidth=1, alpha=0.8)
+    ax.axvline(stim_end_disp, color='red', linestyle='--', linewidth=1, alpha=0.8)
+    # Pre-VNS (dark blue) and Post-VNS (dark red) window indicators
+    _window_indicator(ax, pre_disp[0],  pre_disp[1],  'darkblue', y_lim)
+    _window_indicator(ax, post_disp[0], post_disp[1], 'darkred',  y_lim)
+    ax.set_title(title, fontsize=13)
+    ax.set_xlabel(f'Time({units})', fontsize=20)
+    ax.set_ylabel('μV', fontsize=22)
+    ax.set_xlim(x_lim)
+    ax.set_ylim(y_lim)
+    ax.tick_params(labelsize=11)
+    ax.grid(True, alpha=0.3)
+
+
+def _compute_psd(data, fs):
+    """PSD via spectrogram so we can get a per-segment SEM band.
+    Returns (freqs, mean_PSD, sem_PSD, df) where df is the bin width in Hz."""
+    n = len(data)
+    if n < 16:
+        return None, None, None, None
+    nperseg  = min(int(fs), n)            # ~1-second segments where possible
+    noverlap = nperseg // 2 if nperseg > 1 else 0
+    f, _, Sxx = signal.spectrogram(data, fs=fs, nperseg=nperseg,
+                                   noverlap=noverlap, detrend='constant',
+                                   scaling='density')
+    if Sxx.shape[1] == 0:
+        return None, None, None, None
+    psd_mean = np.mean(Sxx, axis=1)
+    psd_sem  = (sem(Sxx, axis=1, nan_policy='omit')
+                if Sxx.shape[1] >= 2 else np.zeros_like(psd_mean))
+    df = float(f[1] - f[0]) if len(f) >= 2 else 1.0
+    return f, psd_mean, psd_sem, df
+
+
+def _draw_psd_panel(ax, f_pre, m_pre, s_pre, f_post, m_post, s_post,
+                    title, ylabel, y_lim):
+    """Draw a single PSD/Power panel from pre-computed mean/sem arrays."""
+    # Band shading (same overlay style as Figure 6)
+    for band, (low, high) in eeg_bands.items():
+        ax.axvspan(low, high, color=_band_colors[band], alpha=0.2,
+                   label=f"{band} Band")
+
+    if f_pre is not None:
+        ax.plot(f_pre, m_pre, color='darkblue', linewidth=2, label='Pre-VNS')
+        ax.fill_between(f_pre, m_pre - s_pre, m_pre + s_pre,
+                        color='darkblue', alpha=0.3)
+    if f_post is not None:
+        ax.plot(f_post, m_post, color='darkred', linewidth=2, label='Post-VNS')
+        ax.fill_between(f_post, m_post - s_post, m_post + s_post,
+                        color='darkred', alpha=0.3)
+
+    ax.set_xlim([0, 50])
+    ax.set_ylim(y_lim)
+    ax.set_xlabel("Frequency (Hz)", fontsize=20)
+    ax.set_ylabel(ylabel, fontsize=14)
+    ax.set_title(title, fontsize=18)
+    ax.tick_params(labelsize=11)
+    ax.grid(linestyle="--", alpha=0.7)
+
+
+def _dedup_legend(ax, **legend_kwargs):
+    handles, labels = ax.get_legend_handles_labels()
+    seen, h2, l2 = set(), [], []
+    for h, l in zip(handles, labels):
+        if l in seen:
+            continue
+        seen.add(l); h2.append(h); l2.append(l)
+    ax.legend(h2, l2, **legend_kwargs)
+
+
+def _plot_trial(idx):
+    with _trial_out:
+        _trial_out.clear_output(wait=True)
+        trial  = all_trials[idx]
+        units  = _state['units']
+        factor = _unit_factor(units)
+
+        t_disp = trial['timestamps'] * factor   # seconds -> displayed unit
+
+        # ---- stim end (auto = stimulation_duration; manual = user value) ----
+        if _state['auto_stim']:
+            stim_end_internal = float(stimulation_duration)
+            _state['stim_end'] = stim_end_internal
+            _set_box_silently(_stim_end_box, _on_stim_end,
+                              round(stim_end_internal * factor, 4))
+        else:
+            stim_end_internal = float(_state['stim_end'])
+        stim_end_disp = stim_end_internal * factor
+
+        eeg = trial['data'][:, _eeg_cols]      # (n_samples, 5)
+        avg = eeg.mean(axis=1)                 # average across the 5 channels
+
+        if _state['rectify']:
+            eeg = np.abs(eeg); avg = np.abs(avg)
+
+        # ---- compute auto ranges ----
+        auto_x_min = float(t_disp[0]); auto_x_max = float(t_disp[-1])
+        all_y = np.concatenate([eeg.flatten(), avg])
+        all_y = all_y[~np.isnan(all_y)]
+        if len(all_y):
+            auto_y_min = float(np.min(all_y))
+            auto_y_max = float(np.max(all_y))
+            y_pad = max(0.05 * (auto_y_max - auto_y_min), 1.0)
+            auto_y_min -= y_pad; auto_y_max += y_pad
+        else:
+            auto_y_min, auto_y_max = -1.0, 1.0
+
+        if _state['auto_x']:
+            _set_box_silently(_xmin_box, _on_xmin, round(auto_x_min, 4))
+            _set_box_silently(_xmax_box, _on_xmax, round(auto_x_max, 4))
+            _state['x_min'] = auto_x_min; _state['x_max'] = auto_x_max
+        if _state['auto_y']:
+            _set_box_silently(_ymin_box, _on_ymin, round(auto_y_min, 4))
+            _set_box_silently(_ymax_box, _on_ymax, round(auto_y_max, 4))
+            _state['y_min'] = auto_y_min; _state['y_max'] = auto_y_max
+
+        x_lim = (_state['x_min'], _state['x_max'])
+        y_lim = (_state['y_min'], _state['y_max'])
+
+        pre_disp  = (_state['pre_start']  * factor, _state['pre_end']  * factor)
+        post_disp = (_state['post_start'] * factor, _state['post_end'] * factor)
+
+        rec_tag = '  |rectified|' if _state['rectify'] else ''
+        focus   = _state['focus']
+        suptitle = (f"Trial {trial['trial']} ({trial['type']})  -  "
+                    f"filtered, ref-subtracted{rec_tag}   ({idx + 1}/{_n_trials})")
+
+        legend_handles = [
+            mlines.Line2D([0], [0], color='darkblue', linewidth=4, label='Pre-VNS window'),
+            mlines.Line2D([0], [0], color='darkred',  linewidth=4, label='Post-VNS window'),
+        ]
+
+        if focus == -1:
+            # ---- 3 rows x 2 cols grid ----
+            # sharex/sharey are OFF so every panel keeps its own axis labels and tick labels.
+            fig, axes = plt.subplots(3, 2, figsize=(14, 10),
+                                     sharex=False, sharey=False)
+            axes_flat = axes.flatten()
+            for i, label in enumerate(_eeg_labels):
+                _draw_panel(axes_flat[i], t_disp, eeg[:, i], label, units,
+                            stim_end_disp, x_lim, y_lim, pre_disp, post_disp)
+            _draw_panel(axes_flat[5], t_disp, avg, 'Avg of 5 channels', units,
+                        stim_end_disp, x_lim, y_lim, pre_disp, post_disp,
+                        color='black', linewidth=0.9)
+            fig.legend(handles=legend_handles, loc='upper right', ncol=2,
+                       fontsize=11, frameon=False, bbox_to_anchor=(0.98, 0.985))
+            fig.suptitle(suptitle, fontsize=16)
+            plt.tight_layout(rect=[0, 0, 1, 0.96])
+        else:
+            # ---- single-panel fullscreen view of the focused plot ----
+            fig, ax = plt.subplots(figsize=(14, 8))
+            if focus < 5:
+                y_data, title = eeg[:, focus], _eeg_labels[focus]
+                color, lw = 'C0', 0.9
+            else:
+                y_data, title = avg, 'Avg of 5 channels'
+                color, lw = 'black', 1.1
+            _draw_panel(ax, t_disp, y_data, title, units,
+                        stim_end_disp, x_lim, y_lim, pre_disp, post_disp,
+                        color=color, linewidth=lw)
+            ax.legend(handles=legend_handles, loc='upper right',
+                      fontsize=12, frameon=False)
+            fig.suptitle(suptitle, fontsize=16)
+            plt.tight_layout(rect=[0, 0, 1, 0.95])
+
+        plt.show()
+
+    # PSD figure refreshes whenever the trial figure does
+    _plot_psd(idx)
+
+
+def _plot_psd(idx):
+    with _psd_out:
+        _psd_out.clear_output(wait=True)
+        trial = all_trials[idx]
+
+        # Time mask is computed on raw trial timestamps (in seconds).
+        ts = trial['timestamps']
+        ps, pe = _state['pre_start'],  _state['pre_end']
+        qs, qe = _state['post_start'], _state['post_end']
+        if ps >= pe or qs >= qe:
+            print("Pre-VNS or Post-VNS window is empty (start >= end). "
+                  "Adjust the window boxes to enable PSD comparison.")
+            return
+        pre_mask  = (ts >= ps) & (ts < pe)
+        post_mask = (ts >= qs) & (ts < qe)
+        if pre_mask.sum() < 16 or post_mask.sum() < 16:
+            print("Pre-VNS or Post-VNS window has too few samples after intersecting "
+                  "with the trial window. Widen the window or pick a different trial.")
+            return
+
+        eeg = trial['data'][:, _eeg_cols]
+        avg = eeg.mean(axis=1)
+        if _state['rectify']:
+            eeg = np.abs(eeg); avg = np.abs(avg)
+
+        focus  = _state['focus']
+        mode   = _state['psd_mode']         # 'PSD' or 'Power'
+        ylabel = ('EEG Power (V²)' if mode == 'Power'
+                  else 'EEG Power Density (V²/Hz)')
+        units  = _state['units']
+        factor = _unit_factor(units)
+        suptitle = (f"Pre-VNS vs Post-VNS {mode}  -  Trial {trial['trial']} ({trial['type']})  -  "
+                    f"Pre [{ps*factor:.2f}, {pe*factor:.2f}]{units}  /  "
+                    f"Post [{qs*factor:.2f}, {qe*factor:.2f}]{units}")
+
+        # Build (signal, title) list for the panels we're going to draw
+        if focus == -1:
+            panels_in = [(eeg[:, i], lbl) for i, lbl in enumerate(_eeg_labels)]
+            panels_in.append((avg, 'Avg of 5 channels'))
+        else:
+            sig = eeg[:, focus] if focus < 5 else avg
+            t   = _eeg_labels[focus] if focus < 5 else 'Avg of 5 channels'
+            panels_in = [(sig, t)]
+
+        # Compute PSD/Power for each panel (Power = PSD x df).
+        panels_data = []
+        for sig, t in panels_in:
+            f_pre,  m_pre,  s_pre,  df_pre  = _compute_psd(sig[pre_mask],  samplerate)
+            f_post, m_post, s_post, df_post = _compute_psd(sig[post_mask], samplerate)
+            if mode == 'Power':
+                if m_pre is not None:
+                    m_pre  = m_pre  * df_pre;  s_pre  = s_pre  * df_pre
+                if m_post is not None:
+                    m_post = m_post * df_post; s_post = s_post * df_post
+            panels_data.append((f_pre, m_pre, s_pre, f_post, m_post, s_post, t))
+
+        # ---- auto y-range: max across all panels in the visible 0-50 Hz band ----
+        tops = []
+        for f_pre, m_pre, s_pre, f_post, m_post, s_post, _t in panels_data:
+            for f_arr, m_arr, s_arr in [(f_pre, m_pre, s_pre),
+                                        (f_post, m_post, s_post)]:
+                if f_arr is None:
+                    continue
+                vis = (f_arr >= 0) & (f_arr <= 50)
+                if not vis.any():
+                    continue
+                tops.append(float(np.nanmax((m_arr + s_arr)[vis])))
+        auto_max = (max(tops) * 1.05) if tops else 1.0
+        auto_min = 0.0   # PSD/Power are non-negative
+
+        if _state['auto_psd_y']:
+            _set_box_silently(_psd_ymin_box, _on_psd_ymin, round(auto_min, 4))
+            _set_box_silently(_psd_ymax_box, _on_psd_ymax, round(auto_max, 4))
+            _state['psd_y_min'] = auto_min
+            _state['psd_y_max'] = auto_max
+        y_lim = (_state['psd_y_min'], _state['psd_y_max'])
+
+        if focus == -1:
+            fig, axes = plt.subplots(3, 2, figsize=(14, 10),
+                                     sharex=False, sharey=False)
+            axes_flat = axes.flatten()
+            for ax, panel in zip(axes_flat, panels_data):
+                f_pre, m_pre, s_pre, f_post, m_post, s_post, t = panel
+                _draw_psd_panel(ax, f_pre, m_pre, s_pre, f_post, m_post, s_post,
+                                t, ylabel, y_lim)
+                _dedup_legend(ax, loc='upper right',
+                              fontsize=9, frameon=False)
+            fig.suptitle(suptitle, fontsize=15)
+            plt.tight_layout(rect=[0, 0, 1, 0.95])
+        else:
+            fig, ax = plt.subplots(figsize=(14, 8))
+            f_pre, m_pre, s_pre, f_post, m_post, s_post, t = panels_data[0]
+            _draw_psd_panel(ax, f_pre, m_pre, s_pre, f_post, m_post, s_post,
+                            t, ylabel, y_lim)
+            _dedup_legend(ax, loc='upper right', fontsize=12, frameon=False)
+            fig.suptitle(suptitle, fontsize=15)
+            plt.tight_layout(rect=[0, 0, 1, 0.95])
+
+        plt.show()
+
+
+# ---- navigation handlers ----
+def _on_prev(b):
+    new_idx = max(_state['idx'] - 1, 0)
+    if new_idx != _state['idx']:
+        _trial_drop.value = new_idx     # triggers observer
+
+def _on_next(b):
+    new_idx = min(_state['idx'] + 1, _n_trials - 1)
+    if new_idx != _state['idx']:
+        _trial_drop.value = new_idx     # triggers observer
+
+def _on_trial_change(change):
+    if change['name'] == 'value':
+        _state['idx'] = int(change['new'])
+        _plot_trial(_state['idx'])
+
+def _on_focus(change):
+    if change['name'] == 'value':
+        _state['focus'] = int(change['new'])
+        _plot_trial(_state['idx'])
+
+
+# ---- option handlers ----
+def _on_rectify(change):
+    _state['rectify'] = bool(change['new'])
+    _plot_trial(_state['idx'])
+
+def _on_units(change):
+    new_units = 'ms' if change['new'] else 's'
+    if new_units == _state['units']:
+        return
+    # Convert manual x-range values so the visual zoom stays the same.
+    old_f = _unit_factor(_state['units'])
+    new_f = _unit_factor(new_units)
+    conv  = new_f / old_f
+    _state['x_min'] *= conv
+    _state['x_max'] *= conv
+    _state['units']  = new_units
+    _units_toggle.description   = f'X-axis: {new_units}'
+    _xmin_box.description       = f'X min ({new_units}):'
+    _xmax_box.description       = f'X max ({new_units}):'
+    _stim_end_box.description   = f'Stim end ({new_units}):'
+    _pre_start_box.description  = f'Pre start ({new_units}):'
+    _pre_end_box.description    = f'Pre end ({new_units}):'
+    _post_start_box.description = f'Post start ({new_units}):'
+    _post_end_box.description   = f'Post end ({new_units}):'
+    # Internal time-state stays in seconds; refresh on-screen values in the new unit.
+    _set_box_silently(_stim_end_box,   _on_stim_end,   round(_state['stim_end']   * new_f, 4))
+    _set_box_silently(_pre_start_box,  _on_pre_start,  round(_state['pre_start']  * new_f, 4))
+    _set_box_silently(_pre_end_box,    _on_pre_end,    round(_state['pre_end']    * new_f, 4))
+    _set_box_silently(_post_start_box, _on_post_start, round(_state['post_start'] * new_f, 4))
+    _set_box_silently(_post_end_box,   _on_post_end,   round(_state['post_end']   * new_f, 4))
+    _plot_trial(_state['idx'])
+
+def _on_auto_x(change):
+    _state['auto_x'] = bool(change['new'])
+    _xmin_box.disabled = bool(change['new'])
+    _xmax_box.disabled = bool(change['new'])
+    _auto_x_toggle.description = 'Auto x-scale' if change['new'] else 'Manual x-scale'
+    _plot_trial(_state['idx'])
+
+def _on_auto_y(change):
+    _state['auto_y'] = bool(change['new'])
+    _ymin_box.disabled = bool(change['new'])
+    _ymax_box.disabled = bool(change['new'])
+    _auto_y_toggle.description = 'Auto y-scale' if change['new'] else 'Manual y-scale'
+    _plot_trial(_state['idx'])
+
+def _on_auto_stim(change):
+    _state['auto_stim'] = bool(change['new'])
+    _stim_end_box.disabled = bool(change['new'])
+    _auto_stim_toggle.description = 'Auto stim end' if change['new'] else 'Manual stim end'
+    _plot_trial(_state['idx'])
+
+def _on_xmin(change):
+    _state['x_min'] = float(change['new'])
+    if not _state['auto_x']:
+        _plot_trial(_state['idx'])
+
+def _on_xmax(change):
+    _state['x_max'] = float(change['new'])
+    if not _state['auto_x']:
+        _plot_trial(_state['idx'])
+
+def _on_ymin(change):
+    _state['y_min'] = float(change['new'])
+    if not _state['auto_y']:
+        _plot_trial(_state['idx'])
+
+def _on_ymax(change):
+    _state['y_max'] = float(change['new'])
+    if not _state['auto_y']:
+        _plot_trial(_state['idx'])
+
+def _on_stim_end(change):
+    factor = _unit_factor(_state['units'])
+    _state['stim_end'] = float(change['new']) / factor
+    if not _state['auto_stim']:
+        _plot_trial(_state['idx'])
+
+def _on_pre_start(change):
+    _state['pre_start'] = float(change['new']) / _unit_factor(_state['units'])
+    _plot_trial(_state['idx'])
+
+def _on_pre_end(change):
+    _state['pre_end'] = float(change['new']) / _unit_factor(_state['units'])
+    _plot_trial(_state['idx'])
+
+def _on_post_start(change):
+    _state['post_start'] = float(change['new']) / _unit_factor(_state['units'])
+    _plot_trial(_state['idx'])
+
+def _on_post_end(change):
+    _state['post_end'] = float(change['new']) / _unit_factor(_state['units'])
+    _plot_trial(_state['idx'])
+
+# Second-figure (PSD/Power) handlers - these only affect the PSD figure,
+# so they call _plot_psd directly (skipping the trial-figure redraw).
+def _on_psd_mode(change):
+    _state['psd_mode'] = 'Power' if change['new'] else 'PSD'
+    _psd_mode_toggle.description = f"Mode: {_state['psd_mode']}"
+    _plot_psd(_state['idx'])
+
+def _on_auto_psd_y(change):
+    _state['auto_psd_y'] = bool(change['new'])
+    _psd_ymin_box.disabled = bool(change['new'])
+    _psd_ymax_box.disabled = bool(change['new'])
+    _auto_psd_y_toggle.description = ('Auto y-scale (PSD)' if change['new']
+                                      else 'Manual y-scale (PSD)')
+    _plot_psd(_state['idx'])
+
+def _on_psd_ymin(change):
+    _state['psd_y_min'] = float(change['new'])
+    if not _state['auto_psd_y']:
+        _plot_psd(_state['idx'])
+
+def _on_psd_ymax(change):
+    _state['psd_y_max'] = float(change['new'])
+    if not _state['auto_psd_y']:
+        _plot_psd(_state['idx'])
+
+
+# ---- widgets ----
+_prev_btn = Button(description='Prev', button_style='')
+_next_btn = Button(description='Next', button_style='primary')
+_trial_drop = Dropdown(
+    options=[
+        (f"Trial {tr['trial']:>3d}  ({tr['type']})", i)
+        for i, tr in enumerate(all_trials)
+    ],
+    value=0,
+    description='Trial:',
+    layout={'width': '260px'},
+)
+_focus_drop = Dropdown(
+    options=[('Grid (all 6)', -1)] + [(lbl, i) for i, lbl in enumerate(_panel_labels)],
+    value=-1,
+    description='Focus:',
+    layout={'width': '260px'},
+)
+
+_rectify_cb = Checkbox(value=False, description='Rectify (|signal|)',
+                       indent=False, layout={'width': '200px'})
+
+_units_toggle = ToggleButton(
+    value=False, description='X-axis: s', button_style='info',
+    tooltip='Toggle x-axis units between seconds (off) and milliseconds (on).',
+    layout={'width': '140px'},
+)
+_auto_x_toggle = ToggleButton(
+    value=True, description='Auto x-scale', button_style='success',
+    tooltip='When on, x-axis auto-scales to the trial window. When off, uses manual values.',
+    layout={'width': '160px'},
+)
+_auto_y_toggle = ToggleButton(
+    value=True, description='Auto y-scale', button_style='success',
+    tooltip='When on, y-axis auto-scales to the visible signal. When off, uses manual values.',
+    layout={'width': '160px'},
+)
+_auto_stim_toggle = ToggleButton(
+    value=False, description='Manual stim end', button_style='success',
+    tooltip=('When on, the red overlay ends at stimulation_duration. '
+             'When off, you set where the overlay ends.'),
+    layout={'width': '160px'},
+)
+
+_u = _state['units']
+_xmin_box = FloatText(value=_state['x_min'], description=f"X min ({_u}):",
+                      disabled=True, layout={'width': '170px'})
+_xmax_box = FloatText(value=_state['x_max'], description=f"X max ({_u}):",
+                      disabled=True, layout={'width': '170px'})
+_ymin_box = FloatText(value=_state['y_min'], description='Y min:',
+                      disabled=True, layout={'width': '155px'})
+_ymax_box = FloatText(value=_state['y_max'], description='Y max:',
+                      disabled=True, layout={'width': '155px'})
+_stim_end_box = FloatText(
+    value=_state['stim_end'] * _unit_factor(_u),
+    description=f"Stim end ({_u}):",
+    disabled=False, layout={'width': '180px'},
+)
+
+_pre_start_box  = FloatText(value=_state['pre_start']  * _unit_factor(_u),
+                            description=f"Pre start ({_u}):",
+                            layout={'width': '180px'})
+_pre_end_box    = FloatText(value=_state['pre_end']    * _unit_factor(_u),
+                            description=f"Pre end ({_u}):",
+                            layout={'width': '180px'})
+_post_start_box = FloatText(value=_state['post_start'] * _unit_factor(_u),
+                            description=f"Post start ({_u}):",
+                            layout={'width': '180px'})
+_post_end_box   = FloatText(value=_state['post_end']   * _unit_factor(_u),
+                            description=f"Post end ({_u}):",
+                            layout={'width': '180px'})
+
+# Second-figure controls
+_psd_mode_toggle = ToggleButton(
+    value=False, description='Mode: PSD', button_style='info',
+    tooltip=('Toggle the second figure between PSD (V²/Hz) and Power (V²) per '
+             'frequency bin. Power = PSD x frequency-bin width.'),
+    layout={'width': '160px'},
+)
+_auto_psd_y_toggle = ToggleButton(
+    value=True, description='Auto y-scale (PSD)', button_style='success',
+    tooltip=('When on, PSD/Power y-axis auto-scales across all panels. '
+             'When off, uses the manual values below.'),
+    layout={'width': '180px'},
+)
+_psd_ymin_box = FloatText(value=_state['psd_y_min'], description='PSD Y min:',
+                          disabled=True, layout={'width': '170px'})
+_psd_ymax_box = FloatText(value=_state['psd_y_max'], description='PSD Y max:',
+                          disabled=True, layout={'width': '170px'})
+
+_prev_btn.on_click(_on_prev)
+_next_btn.on_click(_on_next)
+_trial_drop.observe(_on_trial_change, names='value')
+_focus_drop.observe(_on_focus, names='value')
+
+_rectify_cb.observe(_on_rectify, names='value')
+_units_toggle.observe(_on_units, names='value')
+_auto_x_toggle.observe(_on_auto_x, names='value')
+_auto_y_toggle.observe(_on_auto_y, names='value')
+_auto_stim_toggle.observe(_on_auto_stim, names='value')
+_xmin_box.observe(_on_xmin, names='value')
+_xmax_box.observe(_on_xmax, names='value')
+_ymin_box.observe(_on_ymin, names='value')
+_ymax_box.observe(_on_ymax, names='value')
+_stim_end_box.observe(_on_stim_end, names='value')
+_pre_start_box.observe(_on_pre_start, names='value')
+_pre_end_box.observe(_on_pre_end, names='value')
+_post_start_box.observe(_on_post_start, names='value')
+_post_end_box.observe(_on_post_end, names='value')
+_psd_mode_toggle.observe(_on_psd_mode, names='value')
+_auto_psd_y_toggle.observe(_on_auto_psd_y, names='value')
+_psd_ymin_box.observe(_on_psd_ymin, names='value')
+_psd_ymax_box.observe(_on_psd_ymax, names='value')
+
+_nav_row = HBox([_prev_btn, _next_btn, _trial_drop, _focus_drop,
+                 Label('  '), _rectify_cb, _units_toggle])
+_axis_row = VBox([
+    HTML('<b>Axis controls</b>  (boxes show current auto-scaled values; toggle off to edit)'),
+    HBox([_auto_x_toggle,    _xmin_box, _xmax_box]),
+    HBox([_auto_y_toggle,    _ymin_box, _ymax_box]),
+    HBox([_auto_stim_toggle, _stim_end_box]),
+])
+_window_row = VBox([
+    HTML('<b>PSD analysis windows</b>  '
+         '(Pre-VNS = dark blue, Post-VNS = dark red; values in current units)'),
+    HBox([Label('Pre-VNS:'),  _pre_start_box,  _pre_end_box]),
+    HBox([Label('Post-VNS:'), _post_start_box, _post_end_box]),
+])
+_psd_row = VBox([
+    HTML('<b>PSD figure controls</b>  '
+         '(switch between PSD and Power, set y-axis range for the second figure)'),
+    HBox([_psd_mode_toggle, _auto_psd_y_toggle, _psd_ymin_box, _psd_ymax_box]),
+])
+
+print(f"Loaded {_n_trials} trials. Use Prev/Next or the dropdown to navigate.")
+display(VBox([_nav_row, _axis_row, _window_row, _psd_row, _trial_out, _psd_out]))
+_plot_trial(0)
+} 
