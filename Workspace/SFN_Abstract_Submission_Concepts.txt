@@ -1,0 +1,117 @@
+Initial Framework Concept:
+1.	Scene/setting
+a.	A Sim Stim Pre-clinical system for investigating spasticity
+b.	Action: Modifying the excitability of the neural circuit to change the H-reflex amplitude.
+c.	Spasticity clinical problem after neurological injury
+2.	Protagonist
+a.	A Stim-Stim Pre-clinical system
+b.	Agent: The participant's central nervous system (brain and spinal cord).
+c.	H-reflex
+d.	Closed-Loop VNS
+3.	Antagonist
+a.	Reward: The positive reinforcement (food or monetary bonus).
+i.	H-reflex
+ii.	Closed-Loop VNS
+b.	Hyperactive H-reflex (Hyperreflexia)
+c.	Conditioning Protocol (Overall structure of training paradigm)
+i.	Operant – Associating a behavior with a consequence, driving reward-seeking or avoidance
+ii.	trial-and-error learning driven by consequences to optimize a behavioral or physiological outcome, it is a biological form of reinforcement learning.
+d.	Reward Paradigm (The reinforcement contingency/consequence mechanism)
+i.	“The Consequence”
+1.	Nothing, Food Pellet, VNS
+ii.	Reinforcement Learning based on reward and punishment. The basal ganglia and dopaminergic pathways evaluate environmental states to guide decision-making.
+4.	Climax (strongest evidence supporting hypothesis)
+a.	Reinforcement Learning
+b.	Action: Modifying the excitability of the neural circuit to change the H-reflex amplitude.
+5.	Conclusion (Conflict resolution)
+a.	Reduced Hyperactive H-Reflex
+i.	Decreased/down-regulated H-reflex size
+6.	(optional) Stakes/research impact
+a.	Spasticity reduction
+The stakes in your scientific story is the consequence that is held in the balance if your hypothesis is not substantiated.
+
+Reinforcement learning (RL) is a computational framework where an agent takes actions in an environment to maximize cumulative reward. H-reflex conditioning directly mirrors this model: [1, 2, 3]
+•	Agent: The participant's central nervous system (brain and spinal cord).
+•	Action: Modifying the excitability of the neural circuit to change the H-reflex amplitude.
+•	Reward: The positive reinforcement (food or monetary bonus). [1, 2, 3, 4]
+
+
+
+2026 Abstract Concept 2: Spasticity is a debilitating sensorimotor disorder and is driven in part by maladaptive plasticity that produces hyperreflexia, hyperreflexia is a major contributor to spasticity and represents a tractable neurophysiological target for spasticity reduction.  Rehabilitative protocols such as H-reflex operant conditioning (HROC) have been shown to induce targeted reductions in spinal reflex excitability (Hyperreflexia), however, these protocols have lengthy therapeutic timelines (50 days pre-clinically, 30 sessions over 3 months clinically) and have variable outcomes. Closed-loop vagus nerve stimulation (CLV) has emerged as an adjuvant to rehabilitative therapy to enhance experience-dependent plasticity via triggering the global-phasic release of plasticity-inducing neuromodulators, including acetylcholine and norepinephrine, which provide a reinforcing signal. Herein we present an opportunity to pair CLV with H-reflex down-conditioning trials to reduce reflex excitability. We hypothesize that VNS-contingent reinforcement will accelerate and amplify reflex down-conditioning in an in-vivo pre-clinical model of HROC in awake-behaving rats. HROC is uniquely suited for pairing with CLV because it directly targets the spinal reflex circuitry believed to generate hyperreflexia and may result in a targeted therapy for hyperreflexia and spasticity.
+To address this, we constructed a pre-clinical system capable of simultaneous multi-channel recording and stimulation alongside a custom python software suite and instrumented hardware, capable performing reflex conditioning experiments combined with CLV delivery contingent upon successful H-reflex down-conditioning trials based on a defined reward criterion (H-reflex size reduction). In the experimental set-up, we stimulate the tibial nerve to elicit a stretch reflex (H-reflex) and record the soleus emg response with implanted stainless steel electrodes. The experiment is probing the response, the H-reflex emg response provides a widely used measure of spinal reflex pathway excitability. under different controlled conditions and modifying the H-reflex with conditioning principles. In addition to this, this system is also equipped to precisely deliver food pellet (standard) or vagal nerve stimulation (active) upon successful trials. This is a synergistic approach that combines directed plasticity effects of H-reflex Operant Conditioning (HROC) with the enhancing plasticity effects of Closed-loop Vagus nerve stimulation (CLV) therapies.  
+The expected outcome is a reduction in the H-reflex size, and have that reduction augmented when the food pellet reward is replaced with VNS delivery.  We expect this combinatorial strategy to yield superior outcomes compared to rehabilitation or CLV alone, offering a more effective, targeted intervention to selectively treat spasticity.
+
+
+2026 Abstract Concept1: Spasticity is a debilitating sensorimotor disorder characterized by hyperactive stretch reflexes (hyperreflexia) and velocity-dependent hypertonia, resulting from upper motor neuron (UMN) injury. New insights that spasticity arises from abnormal plastic rearrangement, specifically an imbalance between descending inhibitory and facilitatory regulation of spinal stretch reflexes. Recovery from such neurological injury requires leveraging the inherent plasticity of the central nervous system to precisely rewire and reshape these damaged neural circuits.[YS1.1] To address this, we propose Vagus Nerve Stimulation-enhanced H-reflex Operant Conditioning (VeHROC), a synergistic approach that combines directed plasticity with enhancer plasticity therapies. 
+In this paradigm, H-reflex operant conditioning (HROC) serves as a targeted training protocol to down-regulate the hyperactive reflex pathways that are the primary contributors to spasticity. HROC, however, is a gradual process typically conducted over approximately three months clinically (30 sessions) or 50 days in animal models and requires active subject participation and motivation. Because HROC relies on operant principles, it traditionally uses external rewards such as food pellets for animals or visual cues for humans, to drive neural change.
+We hypothesize this directed change from reflex conditioning will be augmented by closed-loop vagus nerve stimulation (CLV) which delivers brief bursts of stimulation timed to coincide with successful conditioning trials. Crucially, VNS can engage neuromodulatory systems associated with reinforcement and plasticity by triggering the phasic release of plasticity-inducing neuromodulators globally, including acetylcholine and norepinephrine. This engagement of neuromodulatory centers (the locus coeruleus and nucleus basalis) provides a reinforcing signal to the central nervous system by synchronizing this neuromodulator release with specific neural activity. Clinically, CLV has shown efficacious results to reinforce only the specific neural networks actively engaged during the task. 
+We expect this combinatorial strategy to yield superior outcomes compared to rehabilitation or CLV alone, offering a more effective, targeted intervention to selectively treat spasticity.
+
+Dramatic Arch
+1.	Hypothesis Stated (Conflict) Protagonist with Problem
+2.	Tension 1
+3.	Tension 2
+4.	Tension 3
+5.	Climax
+6.	Validation 1
+7.	Validation 2
+8.	Hypothesis Supported (Resolved) Protagonist with Problem Solved
+
+Your title should contain the following:
+1.	Scene/setting
+2.	Protagonist
+3.	Antagonist
+4.	Climax (strongest evidence supporting hypothesis)
+5.	Conclusion (Conflict resolution)
+6.	(optional) Stakes/research impact
+The stakes in your scientific story is the consequence that is held in the balance if your hypothesis is not substantiated.
+
+
+
+
+Hypothesis Examples
+1) Protagonist, Resolution, Scene & Stakes, Conflict, Major Antagonist 1, Major Antagonist 2
+2) Protagonist, Conflict Resolution, Major Antagonists
+3) Protagonist, Resolution, Major Antagonist, Conflict, Scene, Stakes
+
+
+Title 1: Leveraging the CNS learning system to modify reflex pathway excitability in hyperreflexia through a pre-clinical platform combining closed-loop vagus nerve stimulation and h-reflex operant conditioning (to reduce spasticity/hypereflexia)
+
+Title 2: Leveraging closed-loop vagus nerve stimulation paired with h-reflex conditioning to accelerate reinforcement-driven modulation in spasticity-relevant sensorimotor circuitry of hyperreflexive rats
+
+Title 3: Pairing VNS and h-reflex conditioning as a spasticity therapy to accelerate reinforcement-driven adaptive reductions in hyperreflexia with contingent VNS delivery capable of enhancing reinforcement learning.
+
+Title: Enhancing h-reflex conditioning with contingent closed-loop vagus nerve stimulation delivery for spasticity therapy capable of accelerate reinforcement-driven adaptive reductions in hyperreflexia by enhancing reinforcement learning.
+
+Device Centric Perspective
+-----------
+Aim: A Multi-Channel Simultaneous Stimulation and Record (SIM-STIM) Pre-clinical system that modifies the excitability of the h-reflex by targeting the neural circuit to change the H-reflex amplitude in hyperreflexive rats with a h-reflex conditioning protocol paired with closed-loop vagus nerve stimulation to augment spasticity reduction in hyperreflexive awake-behaving rats.
+
+Research Question: Does pairing CLV with H-reflex Down-conditioning produce greater reductions in reflex excitability than H-reflex down-conditioning alone? 
+
+Primary Hypothesis 1 (Testable/Experimental): Hyperreflexive rats receiving H-reflex down-conditioning paired with closed-loop vagus nerve stimulation will exhibit a greater reduction in h-reflex amplitude than rats receiving down-conditioning alone.
+
+Secondary Hypothesis 2 (Accelerated Learning Rate): Hyperreflexive rats receiving H-reflex down-conditioning paired with CLV will achieve a target reduction in H-reflex amplitude more rapidly thatn rats receiving H-reflex down-conditioning alone. 
+
+Tertiary Hypothesis 3 (Accelerated Learning & Magnitude Change): Pairing closed-loop vagus nerve stimulation with H-reflex down-conditioning will accelerate acquisition and increase the magnitude of h-reflex down-conditioning in hyperreflexive rats compared with h-reflex down-conditioning alone.
+----------
+
+Mechanistic Perspective
+----------
+Aim: Develop and deply a Multi-Channel Simultaneous Stimulation and Recording (SIM-STIM) pre-clinical platform capable of delivering H-reflex operant conditioning and contingent closed-loop vagus nerve stimulation (CLV) to investigate whether temporally precise reinforcement enhances adaptive reductions in spinal reflex excitability in hyperreflexive rats.
+
+Research Question: Can temporally contingent closed-loop vagus nerve stimulation enhance reinforcement-learning driven reductions in spinal reflex exctiability during H-reflex down-conditioning
+
+Primary Hypothesis 1 (Testable/Experimental): Hyperreflexive rats receiving H-reflex down-conditioning paired with contingent closed-loop vagus nerve stimulation will exhibit greater reductions in H-reflex amplitude than rats receiving down-conditioning alone.
+
+Secondary Hypothesis 2 (Accelerated Learning Rate): Hyperreflexive rats receiving H-reflex down-conditioning paired with contingent closed-loop vagus nerve stimulation will reach a predefined H-reflex reduction criterion in fewer training sessions than rats receiving H-reflex down-conditioning alone.
+
+Tertiary Hypothesis 3 (Accelerated Learning & Magnitude Change): Pairing temporally contingent closed-loop vagus nerve stimulation with H-reflex down-conditioning will increase both rate and magnitude of reflex down-conditioning compared with H-reflex down-conditioning alone.
+
+Mechanistic Hypothesis: Contingent closed-loop vagus nerve stimulation functions as a reinforcement signal that strengthens experience-dependent plasticity associated with successful H-reflex down-conditioning trials, resulting in enhanced suppression/reduction of spinal reflex excitability. 
+---------
+
+Title 1: 
+
+
+2025 Previous Abstract: The CNS is capable of change (plasticity) throughout life. This knowledge enables development of novel therapies for addressing neurological impairments. These protocols target beneficial change to a CNS site important in a behavior like walking or reach-and-grasp. The targeted change enables better practice, which in turn leads to widespread beneficial change that improves the entire behavior. Our pre-clinical development of these therapies typically entails studies with freely-moving chronically-implanted rats. These studies need specialized software to collect, evaluate, and store data continuously (24/7) and give immediate feedback (e.g., food pellet, electrical stimulation) to multiple animals concurrently. We address this need with our custom software Elizan. The first version of Elizan was written in 1984 to run on a DEC 11/34 computer; it supported concurrent interaction with and recording from up to 8 animals. It was modified in 1995 and again in 2010 to support 20 animals using Windows-based PCs with a SQL database for 24/7 data storage. In 2024, it was made hardware-independent. Now, the University of Texas at Dallas and the National Center for Adaptive Neurotechnologies at the Stratton VA in Albany, NY are updating Elizan to use a modern programming environment (Python), and open-source data acquisition hardware (Open Ephys) that digitizes data at a skull-mounted headstage and gives digital control of stimulation and subsequent feedback based on the elicited response. This latest software upgrade provides a 24/7 interactive multi-animal platform that can automate interactions with the CNS to shape CNS plasticity according to the investigator’s instructions. It provides: acquisition, processing, and storage of signals; continuous evaluation of the state of the CNS, which then triggers appropriate feedback under tight real time constraints; and a user interface to guide setup and tuning. The system also accommodates: multiple animals at a time to give sufficient throughput; flexible configuration to support different plasticity-inducing protocols; and automation and other new features. It enables long-term 24/7 studies that facilitate development of effective new therapies for enhancing functional recovery for people with chronic neuromuscular disorders.
