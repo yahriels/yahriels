@@ -1,3 +1,7 @@
+Aim 1: Feasibility Study V-HROC
+Aim 2: VNS Efficacy Study and VNS Biomarkers
+Aim 3: Validation of VNS Effects Effects In Injury/Depletion Model
+
 
 
 
@@ -30,52 +34,6 @@ Hypothesis Examples
 
 
 
-Old Title: Contingent vagus nerve stimulation as an adjunct to H-reflex operant conditioning in Awake-Behaving Rats[MEC1.1]
-
-Title 1: Closed-loop vagus nerve stimulation enhances operant suppression of spinal reflex excitability
-
-Title 2: Vagus nerve stimulation enhances reinforcement-dependent suppression of spinal reflex excitability
-
-Title 3: Closed-loop vagus nerve stimulation augments reinforcement-dependent spinal plasticity during H-reflex conditioning
-
-
-Device Centric Perspective
------------
-Aim: A Multi-Channel Simultaneous Stimulation and Record (SIM-STIM) Pre-clinical system that modifies the excitability of the h-reflex by targeting the neural circuit to change the H-reflex amplitude in hyperreflexive rats with a h-reflex conditioning protocol paired with closed-loop vagus nerve stimulation to augment spasticity reduction in hyperreflexive awake-behaving rats.
-
-Research Question: Does pairing CLV with H-reflex Down-conditioning produce greater reductions in reflex excitability than H-reflex down-conditioning alone? 
-
-Primary Hypothesis 1 (Testable/Experimental): Hyperreflexive rats receiving H-reflex down-conditioning paired with closed-loop vagus nerve stimulation will exhibit a greater reduction in h-reflex amplitude than rats receiving down-conditioning alone.
-
-Secondary Hypothesis 2 (Accelerated Learning Rate): Hyperreflexive rats receiving H-reflex down-conditioning paired with CLV will achieve a target reduction in H-reflex amplitude more rapidly thatn rats receiving H-reflex down-conditioning alone. 
-
-Tertiary Hypothesis 3 (Accelerated Learning & Magnitude Change): Pairing closed-loop vagus nerve stimulation with H-reflex down-conditioning will accelerate acquisition and increase the magnitude of h-reflex down-conditioning in hyperreflexive rats compared with h-reflex down-conditioning alone.
-----------
-
-Mechanistic Perspective
-----------
-Aim: Develop and deply a Multi-Channel Simultaneous Stimulation and Recording (SIM-STIM) pre-clinical platform capable of delivering H-reflex operant conditioning and contingent closed-loop vagus nerve stimulation (CLV) to investigate whether temporally precise reinforcement enhances adaptive reductions in spinal reflex excitability in hyperreflexive rats.
-
-Research Question: Can temporally contingent closed-loop vagus nerve stimulation enhance reinforcement-learning driven reductions in spinal reflex exctiability during H-reflex down-conditioning
-
-Primary Hypothesis 1 (Testable/Experimental): Hyperreflexive rats receiving H-reflex down-conditioning paired with contingent closed-loop vagus nerve stimulation will exhibit greater reductions in H-reflex amplitude than rats receiving down-conditioning alone.
-
-Secondary Hypothesis 2 (Accelerated Learning Rate): Hyperreflexive rats receiving H-reflex down-conditioning paired with contingent closed-loop vagus nerve stimulation will reach a predefined H-reflex reduction criterion in fewer training sessions than rats receiving H-reflex down-conditioning alone.
-
-Tertiary Hypothesis 3 (Accelerated Learning & Magnitude Change): Pairing temporally contingent closed-loop vagus nerve stimulation with H-reflex down-conditioning will increase both rate and magnitude of reflex down-conditioning compared with H-reflex down-conditioning alone.
-
-Mechanistic Hypothesis: Contingent closed-loop vagus nerve stimulation functions as a reinforcement signal that strengthens experience-dependent plasticity associated with successful H-reflex down-conditioning trials, resulting in enhanced suppression/reduction of spinal reflex excitability. 
----------
-
-Main Abstract w/ Temporal Precision Component: Hyperreflexia is a main contributor to spasticity after neurological injury resulting in impairments and dysfunction in affected subjects. H-reflex operant conditioning (HROC) can reduce [MEC2.1][MEC2.2]hyperreflexia through reflex down-conditioning but requires prolonged training timelines (50 days preclinically; ~ 3 months clinically), limiting its translational feasibility. Because HROC relies on reinforcement contingencies[MEC3.1]; we tested whether paired closed-loop vagus nerve stimulation (CLV) [MEC4.1]enhances reflex down-conditioning relative to conventional food-rewarded conditioning[MEC5.1]. Previous studies have shown CLV to enhance task-specific plasticity in multiple rehabilitation paradigms pre-clinical and clinically.  [MEC6.1]In chronically implanted rats, tibial nerve stimulation is used to elicit H-reflexes that are quantified [MEC7.1]from soleus EMG recordings.  Rats underwent [MEC8.1]HROC under three conditions: (1) CLV delivered via a vagal cuff exclusively following successful down-conditioning trials, (2) standard food-rewarded conditioning, (3) or no-reward control to confirm H-reflex suppression depends on reinforcement[YS9.1][MEC9.2].  To assess temporal specificity of neuromodulatory reinforcement, CLV was delivered in temporally shifted and randomized configurations relative to successful [YS10.1][YS10.2][MEC10.3]trials. Primary outcome measures include the rate of acquisition of H-reflex down[MEC11.1]-conditioning and the final magnitude of H-reflex suppression achieved during training. We hypothesize that rats receiving temporally paired CLV during HROC will exhibit faster acquisition and greater reductions in H-reflex amplitude than rats receiving HROC alone. [MEC12.1]This study tests whether vagus nerve stimulation functions as a temporally precise reinforcement signal capable of enhancing reinforcement-dependent spinal plasticity during operant conditioning, providing a mechanistic framework for neuromodulatory augmentation of therapies targeting hyperreflexia and spasticity.[
-
-
-Bad abstract? :
-Main Abstract: Hyperreflexia is a main contributor to spasticity after neurological injury resulting in impairments and dysfunction in affected subjects. H-reflex operant conditioning (HROC) can reduce hyperreflexia through reflex down-conditioning, but requires training timelines (50 days preclinically; ~ 3 months clinically), limiting its translational potential. Because HROC relies on reinforcement contingencies; we tested whether contingent closed-loop vagus nerve stimulation (CLV) enhances reflex down-conditioning relative to conventional food-rewarded conditioning. Previous studies have shown CLV to enhance task-specific plasticity in multiple rehabilitation paradigms pre-clinical and clinically.  In chronically implanted rats, tibial nerve stimulation is used to elicit H-reflexes that are quantified from soleus EMG recordings.  In this study, rats[YS14.1] underwent HROC with either contingent VNS delivery or standard food-rewarded conditioning. A no-reward control group is included to determine whether changes in H-reflex amplitude depend on contingent reinforcement. Contingent CLV is delivered through a vagal cuff exclusively following successful down-conditioning trials, preserving the reinforcement contingency central to HROC, and then compared with the other experimental groups to observe overall change. Primary outcome measures include the rate of acquisition of H-reflex down-conditioning and the final magnitude of H-reflex suppression achieved during training. We hypothesize that rats receiving temporally contingent CLV during HROC will exhibit faster acquisition and greater reductions in H-reflex amplitude than rats receiving standard HROC alone. If no significant change occurs between the food-rewarded HROC group and contingent VNS group, we will add additional experimental VNS groups (Random VNS, Delayed VNS, Yoked VNS, etc.) to investigate the reinforcing effects of VNS. This study directly tests whether temporally contingent CLV enhances reinforcement-dependent spinal plasticity during H-reflex operant conditioning, providing a potential strategy for improving interventions targeting hyperreflexia associated with spasticity.
-
-Mechanistic Abstract:
-Mechanistic Abstract: Hyperreflexia is a main contributor to spasticity after neurological injury resulting in impairments and dysfunction in affected subjects. H-reflex operant conditioning (HROC) can reduce hyperreflexia through reflex down-conditioning, but its therapeutic effects require prolonged training timelines (50 days preclinically, ~ 3 months clinically) and has not been clinically deployed. Because HROC relies on reinforcement contingencies; we hypothesize that vagus nerve stimulation (VNS) can function as an artificial reinforcement signal that accelerates and amplifies reflex down-conditioning. Closed-loop vagus nerve stimulation (CLV) has been shown to enhance task-specific plasticity in multiple rehabilitation paradigms clinically. Here in a pre-clinical set-up, CLV is delivered only following successful down-conditioning trials, temporally linking neuromodulatory reinforcement from VNS delivery to the desired physiological outcome (20% H-reflex amplitude reduction). We hypothesize hyperreflexive rats receiving temporally contingent CLV during HROC will exhibit faster and greater reductions in H-reflex amplitude than rats receiving HROC alone. The VNS-enhanced H-reflex operant conditioning (VeHROC) may provide a strategy for improving interventions targeting hyperreflexia associated with spasticity.
-
 
 Other Concepts:
 Novelty: Can VNS function as an artificial reinforcement signal capable of enhancing H-reflex operant conditioning?
@@ -103,6 +61,220 @@ o	Food Pellet Reward + VNS Reinforcement
 o	Time-dependent VNS Reinforcement
 o	Other VNS delivery groups to investigate VNS effects
 
-Testable Hypothesis: Hyperreflexive rats receiving H-reflex down-conditioning paired with contingent VNS will exhibit greater reductions in H-reflex amplitude than rats receiving H-reflex down-conditioning alone.
+We hypothesize that rats receiving temporally paired CLV during HROC will exhibit faster acquisition and greater reductions in H-reflex amplitude than rats receiving HROC alone.
 
-Scientific Hypothesis: Contingent VNS functions as an artificial reinforcement signal that enhances H-reflex operant conditioning, producing faster and larger reductions in spinal reflex excitability than H-reflex conditioning alone.
+Why? For your hypothesis statement, you need to have some explanation for why we predict that. 
+
+You probably need to strike a balance between being optimistic about VNS, while also being careful not to minimize the previous HROC work (you don't want to make them upset, they are our collaborators). The safer hypothesis is that CLV will produce a significant conditioning response comparable to food pellet alone. 
+
+That then raises the question of "why do VNS then"? I'll send you an abstract i wrote a while back that captures some of the key advantages of what a CLV HROC paradigm has over the traditional visual reward HROC paradigm. 
+
+The Why? 
+
+What I think your final scientific "why" is
+
+After reading everything, I would summarize your project as:
+
+H-reflex operant conditioning is effective but relies on explicit rewards and sustained engagement. Because VNS can provide a temporally precise neuromodulatory teaching signal that drives plasticity with minimal conscious participation, we test whether contingent VNS can substitute for conventional reinforcement during H-reflex conditioning while preserving or enhancing reflex down-conditioning.
+
+That statement:
+
+explains why VNS should work,
+respects prior HROC work,
+provides a translational rationale,
+matches your advisor's abstract,
+and is much harder for reviewers to attack.
+
+If I were rewriting your hypothesis today based on your advisor's feedback, I would probably use:
+
+We hypothesize that temporally contingent CLV can serve as an effective reinforcement signal for H-reflex operant conditioning, producing H-reflex down-conditioning comparable to or greater than conventional food-rewarded conditioning by engaging neuromodulatory systems known to support experience-dependent plasticity.
+
+That captures both the mechanism ("why") and the experimental prediction without overclaiming superiority.
+
+
+
+
+Old Title: Contingent vagus nerve stimulation as an adjunct to H-reflex operant 
+conditioning in Awake-Behaving Rats 
+Commented [MEC1]: This seems like a roundabout way 
+of saying what you're doing. I would suggest rephrasing 
+into something more straightforward. Also, the title 
+doesn't capture the key goal of why you're doing this (to 
+enhance spinal reflex changes) 
+Commented [MEC2]: be careful with definitive 
+language like this. Just qualify it to say that these are data 
+are from early stage clinical trials. Point is, this isn't a 
+proven and effective therapy and isn't used clinically. Its 
+all investigational.  
+Title 1: Closed-loop vagus nerve stimulation enhances operant suppression of spinal reflex 
+excitability 
+Title 2: Vagus nerve stimulation enhances reinforcement-dependent suppression of spinal 
+reflex excitability 
+Title 3: Closed-loop vagus nerve stimulation augments reinforcement-dependent spinal 
+plasticity during H-reflex conditioning 
+First Draft: Hyperreflexia is a main contributor to 
+spasticity after neurological injury resulting in impairments and dysfunction in affected 
+subjects. H-reflex operant conditioning (HROC) can reduce hyperreflexia through reflex 
+down-conditioning but requires prolonged training timelines (50 days preclinically; ~ 3 
+months clinically), limiting its translational feasibility. Because HROC relies on 
+reinforcement contingencies; we tested whether paired closed-loop vagus nerve 
+stimulation (CLV) enhances reflex down-conditioning relative to conventional food
+rewarded conditioning. Previous studies have shown CLV to enhance task-specific 
+plasticity in multiple rehabilitation paradigms pre-clinical and clinically.  In chronically 
+implanted rats, tibial nerve stimulation is used to elicit H-reflexes that are quantified from 
+soleus EMG recordings. Rats underwent HROC under three conditions: (1) CLV delivered 
+via a vagal cuff exclusively following successful down-conditioning trials, (2) standard food
+rewarded conditioning, (3) or no-reward control to confirm H-reflex suppression depends 
+on reinforcement. To assess temporal specificity of neuromodulatory reinforcement, CLV 
+was delivered in temporally shifted and randomized configurations relative to successful 
+trials. Primary outcome measures include the rate of acquisition of H-reflex down
+conditioning and the final magnitude of H-reflex suppression achieved during training. We 
+hypothesize that rats receiving temporally paired CLV during HROC will exhibit faster 
+Commented [MEC3R2]: On second thought, you 
+should probably explain the animal data first, then say it 
+has shown promising preliminary results in small clinical 
+trials.  
+The key distinction being that the animal data doesn't 
+really show that HROC can treat hyperreflexia. It just 
+shows that you can up-condition or down-condition a 
+reflex to improve behavior.  
+Commented [MEC4]: too vague. Be more specific 
+Commented [MEC5]: Paired and closed-loop suggest 
+the same thing. I would just say closed-loop vagus nerve 
+stimulation. But you need to define what that even 
+means (i.e., paired) 
+Commented [YS10]: Needed? 
+Commented [MEC6]: Be more explicit with what this 
+means.  You are testing whether you can drive h-reflex 
+conditioning with ONLY CLV. And how these results 
+compare to HROC with traditional food pellet. 
+Commented [MEC7]: This should come earlier when 
+you explain what CLV is 
+Commented [MEC8]: this is implied, you can remove 
+Commented [MEC9]: I would write all of this in present 
+tense since this experiment is ongoing. Make it clear that 
+these experiments are underway.  
+Commented [MEC11R10]: yes, that's important to 
+explain what the purpose of the control is 
+Commented [YS12]: Add temporal specificity as part of 
+experimental design 
+Commented [YS13R12]: Could also add “yoked” VNS 
+group?  
+Commented [MEC14R12]: I would either remove, or 
+leave this as a future direction (if successful) 
+Commented [MEC15]: Keep your descriptions simple. 
+Just say "rate of H-reflex down conditioning". Throwing in 
+extra words only makes your writing harder to read. You 
+want to write as simply and clearly as possible in 
+scientific writing. It seems counter intuitive at first, but 
+most people reading this are skimming and you can't 
+have complex sentence structure or grammar.  
+acquisition and greater reductions in H-reflex amplitude than rats receiving HROC alone. 
+This study tests whether vagus nerve stimulation functions as a temporally precise 
+reinforcement signal capable of enhancing reinforcement-dependent spinal plasticity 
+during operant conditioning, providing a mechanistic framework for neuromodulatory 
+augmentation of therapies targeting hyperreflexia and spasticity. 
+Commented [MEC16]: Why? For your hypothesis 
+statement, you need to have some explanation for why 
+we predict that.  
+You probably need to strike a balance between being 
+optimistic about VNS, while also being careful not to 
+minimize the previous HROC work (you don't want to 
+make them upset, they are our collaborators). The safer 
+hypothesis is that CLV will produce a significant 
+conditioning response comparable to food pellet alone.  
+That then raises the question of "why do VNS then"? I'll 
+send you an abstract i wrote a while back that captures 
+some of the key advantages of what a CLV HROC 
+paradigm has over the traditional visual reward HROC 
+paradigm.  
+Commented [MEC17]: This is good, but too long. Make 
+more concise and clear.
+
+
+Abstract Writing Basic Protocol and Pointers
+Write the first draft of your abstract, which should include all of the above-mentioned materials that specifically and adequately reflect the experiments included within the study
+-	The first sentence should set the scene of the place where there is a scientific unknown (or major problem).
+-	By the second sentence the protagonist should be introduced, along with his major problem.
+-	Antagonist/s should also be introduced no later than the second or third sentence. It is essential to have the antagonists in direct conflict (scientific unknown) with the protagonist.
+-	Next should be 2 (maximum 3) sentences describing the results of experiments centered around the protagonist that answer aspects of the major problem, which are an increase in the Tension (T1, T2, and maybe T3). Tension in your scientific story is increased incrementally by experimentation. One experiment should lead to a logical mini-resolution, then the following experiment should build upon the previous one. The increase in tension also provides character development of the protagonist. The increase in tensions (T1-T3) brings the Scientific Story to the point of the climax experiment
+-	The climax experiment should be written in one sentence clearly  describing a follow-up experiment that validates the climax experiment to relax the tension that was built throughout the beginning and middle of the story before the climax
+-	The last one to two sentences should bring the protagonist back to the original scene with the original problem resolved.
+-	Note: Given the space and word count limitations for Abstracts, some of these sentences can be combined. 
+
+
+PART I — CONFLICT SETUP
+Sentence 1 — Scene / Scientific Unknown
+Main idea: Hyperreflexia after neurological injury is clinically significant and current treatments have a critical unresolved limitation.
+
+Hyperactive stretch-reflex circuitry, driven by loss of descending inhibition and maladaptive spinal plasticity, is a major contributor to spasticity after neurological injury
+This creates a principal biomechanical bottleneck: impairs efficient, pain-free gait and functional movement in neurologically injured individuals
+Scientific unknown to state: Can spinal reflex excitability be selectively reduced using a learning-based approach that does not require sustained cognitive engagement or clinic-based administration?
+What NOT to include here: Your protagonist (HROC), your methods, or VNS — the scene sets the problem only
+Sentence 2 — Protagonist Introduced
+Main idea: HROC is a learning-based targeted plasticity approach capable of reducing reflex excitability, but it comes with a structural limitation that creates the conflict.
+
+40+ years of pre-clinical research has established operant conditioning of the soleus H-reflex as a mechanism for reducing spinal reflex excitability
+HROC progressively rewards trials in which H-reflex amplitude falls below a criterion threshold, driving adaptive spinal plasticity
+Pre-clinical data: operant conditioning can up-condition or down-condition the H-reflex to modulate reflex-dependent behavior (qualify — animal data shows reflex modulation, not hyperreflexia treatment)
+Early-stage clinical data (qualify as investigational only — MEC2): preliminary results suggest patients reduce reflex excitability and improve functional outcomes
+The protagonist's flaw: HROC depends on explicit, attention-demanding reinforcement (food reward / real-time visual feedback) delivered over prolonged training schedules
+Sentence 3 — Antagonist(s) in Direct Conflict
+Main idea: The dependency on explicit reinforcement is the direct antagonist — it blocks HROC from becoming a scalable, accessible therapy.
+
+Antagonist 1 — Cognitive demand: HROC relies on explicit performance-based rewards requiring real-time, sustained participant attention — cognitively taxing over 1-hour sessions, 3× per week for months
+Antagonist 2 — Training duration: 50 days pre-clinically; ~3 months clinically — prolonged timelines reduce compliance and translational feasibility
+Antagonist 3 — Access limitation: Currently tethered to research laboratories — cannot be deployed for home-based therapy
+Antagonist 4 — Population limitation: Limits participation to cognitively intact individuals
+The conflict: These antagonists together block HROC from reaching patients who need it most
+Merge note: S2 + S3 should be combined. Combined content builds from "HROC works but..." — hero with a fatal flaw.
+
+PART II — RISING TENSION
+SFN critical rule: Every bullet below marked (Data needed) requires an actual result with n, mean ± SD/SEM, and statistical test before it can appear in the abstract. Confirm what data you currently have before assigning content to T1–T3.
+
+Sentence 4 — Tension 1 (T1): Feasibility / Baseline Establishment
+Main idea: The experimental platform is validated and baseline reflex conditioning behavior is established — demonstrating the system works and the control condition confirms reinforcement-dependence.
+
+Animal model: (SFN required — fill in) Adult [sex] Sprague-Dawley rats (n=X), chronically implanted with vagal cuff electrode and tibial nerve stimulation electrode
+Recording setup: H-reflexes elicited by tibial nerve stimulation and quantified from soleus EMG recordings
+SIM-STIM platform: Multi-channel simultaneous stimulation and recording system enables closed-loop VNS delivery contingent on H-reflex amplitude threshold
+Control condition result (No-reward group): Animals receiving no reinforcement following successful trials show no systematic reduction in H-reflex amplitude (Data needed — n=X, % change ± SD, statistical test)
+Purpose: Confirms that H-reflex suppression depends on contingent reinforcement, not passive exposure to the protocol
+T1 mini-resolution: Reinforcement contingency is necessary — without it, no conditioning occurs; this narrows the question to whether VNS can serve as that contingency
+Sentence 5 — Tension 2 (T2): Standard HROC Efficacy Confirmed
+Main idea: Conventional food-rewarded HROC produces H-reflex down-conditioning — establishing the benchmark that CLV must meet or exceed.
+
+Food reward group result: Animals receiving contingent food pellet delivery following successful down-conditioning trials exhibit significant reduction in H-reflex amplitude (Data needed — n=X, mean % reduction ± SD, sessions to criterion, statistical test vs. no-reward group)
+Outcome measures: Rate of H-reflex down-conditioning (sessions to reach criterion reduction) + final magnitude of H-reflex suppression
+T2 escalation: HROC works pre-clinically with food reward — this deepens the conflict by confirming the protagonist's value while making the antagonist (food-reward dependency) more specific and testable
+What T2 does NOT resolve: Whether a different reinforcement signal — one not requiring attention or explicit reward delivery — can produce the same outcome
+Sentence 6 — Tension 3 / Temporal Specificity (optional — use if data exists)
+Main idea: Temporal pairing between VNS and the conditioning trial is a necessary condition for VNS-mediated reinforcement — randomized or shifted VNS does not produce conditioning.
+
+Temporally shifted CLV condition: VNS delivered at randomized or fixed delays relative to successful trials (Data needed — n=X, % change ± SD)
+Result: Temporally uncoupled VNS fails to drive H-reflex down-conditioning at the rate or magnitude seen in contingent CLV group
+Why this matters: Establishes that VNS effect is not a generalized neuromodulatory effect — temporal specificity is mechanistically required, which is the signature of a reinforcement signal
+T3 escalation: This finding pushes the story to its breaking point — VNS only works as a reinforcement signal when it is contingent and temporally precise
+Use T3 only if: you have data from temporally shifted/yoked/randomized CLV groups. If not, MEC14 advised cutting this or saving it as a future direction.
+
+PART III — CLIMAX + VALIDATION
+Sentence 7 — Climax: Does Contingent CLV Drive H-Reflex Down-Conditioning?
+Main idea: The decisive test — contingent CLV, delivered exclusively following successful down-conditioning trials, produces H-reflex down-conditioning comparable to or greater than conventional food-rewarded HROC.
+
+CLV group: VNS delivered via vagal cuff exclusively following successful H-reflex down-conditioning trials (contingent, closed-loop delivery)
+VNS parameters: (fill in — current, pulse width, frequency, duration)
+Criterion for successful trial: H-reflex amplitude ≥20% below baseline
+Primary outcome — Magnitude: CLV group achieves X% reduction in H-reflex amplitude (mean ± SD, n=X) vs. food reward group X% (mean ± SD) and no-reward group X% (Data needed — statistical test, e.g., one-way ANOVA with post-hoc)
+Primary outcome — Rate: CLV group reaches conditioning criterion in X sessions (mean ± SD) vs. food reward group X sessions (Data needed)
+Validation 1 (if available): Temporal specificity group confirms effect requires contingent pairing — shifted/randomized VNS produces significantly less conditioning (Data needed)
+Validation 2 (if available): Effect persists across training sessions / shows progressive acquisition curve consistent with operant learning (Data needed)
+Hypothesis stated (place early, near S3): We hypothesize that temporally contingent CLV can function as an effective neuromodulatory teaching signal for H-reflex operant conditioning, producing H-reflex down-conditioning comparable to or greater than conventional food-rewarded conditioning by engaging neuromodulatory systems that support experience-dependent plasticity
+PART IV — RESOLUTION
+Sentence 8+9 — Resolution + Implication (merged)
+Main idea: Contingent VNS functions as a temporally precise reinforcement signal for spinal operant plasticity — and this finding directly addresses the antagonist by removing the dependency on explicit, attention-demanding reward.
+
+Resolution of the conflict: CLV-driven HROC (VeHROC) achieves H-reflex down-conditioning without requiring explicit food reward or sustained participant attention
+Return to scene: This addresses the core barrier identified in S1 — the need for a reinforcement mechanism that is not cognitively demanding and not clinic-dependent
+Implication 1 — Mechanistic: VNS engages neuromodulatory systems (norepinephrine/acetylcholine release) that drive experience-dependent spinal plasticity — the same mechanism underlying food-reward reinforcement, but delivered automatically via implanted device
+Implication 2 — Translational: A VNS-based reinforcement signal could enable automated, home-based HROC — extending access to individuals who cannot sustain prolonged clinic-based training or meet cognitive engagement requirements
+Scope of claim: These results support VNS as a candidate reinforcement signal for spinal operant learning — broader validation in hyperreflexive injury models (Aim 3) is the next step

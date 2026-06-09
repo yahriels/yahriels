@@ -1,0 +1,319 @@
+Unified Abstract Writing Outline
+Storytelling Arc + SFN Submission Requirements
+Character budget: 2,300 characters — punctuation counts, spaces do NOT
+(~380–420 words total)
+
+TITLE (1,200 char max)
+Must contain: Scene/Setting · Protagonist · Antagonist · Climax result · Conclusion · (optional) Stakes
+
+PART I — CONFLICT SETUP
+Dramatic Arc Beat 1: Hypothesis Stated — Protagonist with Problem
+
+Sentence 1 — Scene / Scientific Unknown
+SFN Component: Motivation / Problem Statement
+
+What is the broader biological/scientific context — where does the scene take place, and what is the unresolved scientific problem or clinical gap that gives this story its stakes?
+
+~150–180 non-space chars | 25–35 words
+
+SFN requirement embedded here: State the practical or scientific gap your research fills. Establish why anyone should care before they read further.
+
+Sentence 2 — Protagonist Introduced
+SFN Component: Motivation continued
+
+Who or what is your protagonist (therapy, mechanism, circuit, tool) — and what does it do that makes it the candidate solution to the problem in Sentence 1? Introduce its capability and its central conflict with the scene.
+
+~180–230 non-space chars | 33–43 words
+
+Note: The protagonist should enter as a hero with a flaw — capable enough to matter, limited enough to need the story.
+
+Sentence 3 — Antagonist(s) in Direct Conflict
+SFN Component: Rationale for your study
+
+What specifically opposes, limits, or threatens the protagonist — and how does that antagonist directly block the resolution of the problem in Sentence 1? This is the scientific unknown your study attacks.
+
+~180–230 non-space chars | 33–43 words
+
+Merge rule: S2 + S3 can combine into one sentence if tight. Combined target: ~320–400 non-space chars | 58–75 words
+
+PART II — RISING TENSION (Results-Driven)
+Dramatic Arc Beats 2–4: Tension 1, 2, 3
+SFN Component: Methods + Results — data required
+
+Critical SFN rule: Each tension sentence must report an actual result, not a plan. No future tense. No "results will be shown." If you have no data for a tension beat, that beat does not exist yet.
+
+Sentence 4 — Tension 1 (T1): First Experiment + Result
+
+What was your first experiment — what did you do, with what subjects, under what conditions — and what did the result show that partially addresses the antagonist but leaves the problem unresolved?
+
+~220–280 non-space chars | 40–52 words
+
+SFN requirements embedded here:
+
+Species, sex, age, n of subjects (first mention — put it here)
+What controls were used and why
+Outcome measure with value (mean ± SD or SEM, n=X)
+Statistical test if significance is claimed
+Example anchors: "In adult male Sprague-Dawley rats (n=X)... H-reflex amplitude was reduced by X% (±X, p<0.05, t-test)..."
+
+Sentence 5 — Tension 2 (T2): Second Experiment + Result
+
+Building directly on T1, what was your next experiment — what new condition, comparison, or manipulation did you introduce — and what did it reveal that deepens the conflict or escalates toward resolution?
+
+~220–280 non-space chars | 40–52 words
+
+SFN requirements embedded here:
+
+Report new result with data (mean ± SD or SEM, n=X)
+Name statistical test
+Connect mechanistically to T1 — one experiment should logically lead to the next
+Sentence 6 — Tension 3 (T3, optional): Escalating Experiment + Result
+
+What additional experiment pushed the protagonist's story to its breaking point — what final piece of evidence was needed before the climax could be set up?
+
+~180–240 non-space chars | 33–45 words
+
+Use only if: (a) you have a third distinct experimental result, and (b) it is necessary to make the climax logically follow. Do not add tension for the sake of adding tension — every sentence costs characters.
+
+PART III — CLIMAX + VALIDATION
+Dramatic Arc Beats 5–7: Climax · Validation 1 · Validation 2
+SFN Component: Primary Results — your strongest data
+
+Sentence 7 — Climax Experiment + Primary Result
+
+What was the single most decisive experiment — the one that directly confronts the antagonist and tests your hypothesis at its highest stakes — and what did it show? This sentence carries your most important data.
+
+~280–360 non-space chars | 50–65 words
+
+SFN requirements embedded here:
+
+Your primary outcome measure with full statistics (mean ± SD/SEM, n=X, p-value, test name)
+Clear comparison between groups
+State whether the study was confirmatory or exploratory
+If validation experiments exist (Validation 1 / Validation 2 from dramatic arc), embed them here or in a second climax sentence — they confirm the climax result holds under a different condition
+Merge rule: If you have validation data, add one sentence here: ~180–240 non-space chars
+
+PART IV — RESOLUTION
+Dramatic Arc Beat 8: Hypothesis Supported — Protagonist with Problem Solved
+SFN Component: Conclusion + Implications
+
+Sentence 8 — Resolution / Return to Scene
+
+How do your findings resolve the conflict established in Sentence 1? Bring the protagonist back to the original scene — the scientific unknown is now partially or fully answered. State your conclusion without new numbers.
+
+~200–260 non-space chars | 36–48 words
+
+SFN requirement embedded here: Conclusion must be directly supported by the results above — do not introduce new claims here.
+
+Sentence 9 — Broader Implication (optional)
+
+What does this resolution mean for the field, for the disease, or for future research? What door does it open?
+
+~100–150 non-space chars | 18–28 words
+
+Merge rule: S8 + S9 can combine. Combined target: ~280–360 non-space chars | 52–70 words
+
+Budget Summary
+Section	Arc Beat	Non-space chars	Words	Status
+S1 — Scene	Conflict setup	150–180	25–35	Required
+S2+S3 — Protagonist + Antagonist	Conflict setup	320–400	58–75	Required (merged)
+S4 — T1	Rising tension	220–280	40–52	Required
+S5 — T2	Rising tension	220–280	40–52	Required
+S6 — T3	Rising tension	180–240	33–45	Optional
+S7 — Climax (+Validation)	Climax	280–360	50–65	Required
+S8+S9 — Resolution + Implication	Resolution	280–360	52–70	Required (merged)
+Total		~1,650–2,100	~298–394	Buffer: ~200–650 chars
+SFN Compliance Checklist
+Before submitting, verify every box:
+
+ Abstract contains actual data — no future tense results
+ Species, sex, age, and n reported for all subject groups
+ Control groups named with their purpose stated
+ Statistical test named for every significance claim
+ Mean values accompanied by SD or SEM
+ Hypothesis stated early — conclusion at the end
+ All abbreviations spelled out on first use
+ No "results will be discussed" or "we will show"
+ Abstract states whether study is exploratory or confirmatory
+ Abstract is a single paragraph
+ Character count verified at ≤2,300 (punctuation included, spaces excluded)
+ All authors have read and approved
+
+ --
+
+
+Abstract Writing Basic Protocol and Pointers
+Write the first draft of your abstract, which should include all of the above-mentioned materials that specifically and adequately reflect the experiments included within the study
+-	The first sentence should set the scene of the place where there is a scientific unknown (or major problem).
+-	By the second sentence the protagonist should be introduced, along with his major problem.
+-	Antagonist/s should also be introduced no later than the second or third sentence. It is essential to have the antagonists in direct conflict (scientific unknown) with the protagonist.
+-	Next should be 2 (maximum 3) sentences describing the results of experiments centered around the protagonist that answer aspects of the major problem, which are an increase in the Tension (T1, T2, and maybe T3). Tension in your scientific story is increased incrementally by experimentation. One experiment should lead to a logical mini-resolution, then the following experiment should build upon the previous one. The increase in tension also provides character development of the protagonist. The increase in tensions (T1-T3) brings the Scientific Story to the point of the climax experiment
+-	The climax experiment should be written in one sentence clearly  describing a follow-up experiment that validates the climax experiment to relax the tension that was built throughout the beginning and middle of the story before the climax
+-	The last one to two sentences should bring the protagonist back to the original scene with the original problem resolved.
+-	Note: Given the space and word count limitations for Abstracts, some of these sentences can be combined. 
+
+
+
+Dramatic Arch
+1.	Hypothesis Stated (Conflict) Protagonist with Problem
+2.	Tension 1
+3.	Tension 2
+4.	Tension 3
+5.	Climax
+6.	Validation 1
+7.	Validation 2
+8.	Hypothesis Supported (Resolved) Protagonist with Problem Solved
+
+Your title should contain the following:
+1.	Scene/setting
+2.	Protagonist
+3.	Antagonist
+4.	Climax (strongest evidence supporting hypothesis)
+5.	Conclusion (Conflict resolution)
+6.	(optional) Stakes/research impact
+The stakes in your scientific story is the consequence that is held in the balance if your hypothesis is not substantiated.
+
+
+
+--
+How to Write a Basic Research Abstract for the SfN Annual Meeting 
+
+What Is an Abstract? 
+An abstract is a short summary of your study. It is a highly-structured writing exercise. Like a 
+paper, it should contain an introduction, methods, results, and conclusions (although these 
+actual headings are not required). The abstract should be written as a single paragraph.  
+Abstracts have a proscribed length—for the SfN annual meeting, the body of the abstract 
+should be no more than 2,300 characters, including punctuation but not spaces. This makes 
+them deceptively difficult to write, because they need to convey a lot of information in a very 
+small space. If done well, it makes the reader want to learn more about your research. Two 
+example abstracts that incorporate all the key components and meet all the criteria can be 
+found below. 
+Review the SfN Rules for Abstract Submission before you begin writing to ensure you have a 
+good understanding of what’s expected. Any questions? Reach out to program@sfn.org.  
+Components of an Abstract 
+These are the basic components of an abstract in any discipline: 
+1. Motivation/problem statement:  What are you studying? Why do we care about the 
+problem? What practical, scientific gap is your research filling? 
+2. Methods/ approach:  What did you actually do to get your results? Examples include the 
+species, age, and sex of experimental subjects and whether sex differences were 
+assessed. Summarize efforts to ensure scientific rigor, including sample sizes and 
+replication, blinding, and which controls were used. There is no requirement to include 
+full experimental protocols, but sufficient information must be given to indicate how the 
+experiments were performed. Review the SfN Rules for Abstract Submission to 
+familiarize yourself with the specific details required by the Society on efforts to 
+promote transparency & scientific rigor, animal, and human subjects research. 
+3. Results: As a result of completing the above procedure, what did you learn? State a clear 
+description of the outcome measures to support any conclusion you wish to make. If 
+numerical data are presented as mean values, the standard deviations or standard 
+errors should be given; the form used, and the n values should be stated. When 
+statistical significance is shown, name the statistical test. Data may be conveyed by a 
+combination of Methods and Results, i.e. an outline of the technique followed by the 
+data obtained. Specific details about procedure and results are omitted unless they are 
+very important.  
+4. Conclusion/implications: State the conclusion(s) supported by the results above, without 
+including any metrics (numbers should be restricted to the sentences described above). 
+What are the larger implications of your findings, especially for the problem/gap 
+identified in step 1? Include consequences/impact of the research in the field. 
+5. Other components: Abstracts might also feature tables, figures, abbreviations, and 
+references, but keep in mind that these count toward your 2,300 characters and are not 
+required. 
+Use standard abbreviations for units of measure. Other abbreviations or acronyms should be 
+fully spelled out on first mention, followed by the abbreviation/acronym in parentheses. 
+The Writing Process 
+It helps, as you write your abstract, to write it methodically, step by step, to make sure that it is 
+complete. At this stage, don't worry too much about any length requirements for the abstract.  
+After the first draft of the abstract is written, check to see if it fits within any length restrictions 
+you have been given. If it is too long (which is usually the case at this stage of writing), look it 
+over to see where it could be made more concise. For each word or phrase, ask yourself "Is this 
+really necessary? Is there a simpler way I can convey the same meaning?" Don't use three 
+words where you can communicate the same idea in one. Remove redundancies and 
+unnecessary details, and substitute concise phrases for wordy passages. Keep editing your 
+abstract until it falls within the length guidelines you have been given.  
+Have someone else look over your abstract before you are done. Ask a colleague or supervisor 
+to read the abstract and offer criticism. They can often help pinpoint text that is confusing, 
+wordy or redundant.  Ensure that all authors have read and approved the abstract before you 
+submit. 
+Finally, make sure to spell check and proofread carefully. A sloppy abstract leaves the reader 
+with the impression that your research might also be sloppy! 
+Sample SfN Abstracts 
+Developmental features of primary sensory cortex and subcortical areas in the prosimian 
+galago (Otolemur garnettii) 
+Authors 
+*E. C. TURNER, J. H. KAAS; Psychology, Vanderbilt Univ., Nashville, TN 
+Disclosures 
+E.C. Turner: None. J.H. Kaas: None. 
+Abstract 
+The primate cerebral cortex undergoes striking changes during its development, but 
+much is still unknown regarding how the primary sensory systems develop to reach their 
+mature organization. We used a combination of immunohistochemical markers in the 
+prosimian galago (Otolemur garnettii, n=8), aged P0 to P72, to follow the cortical and 
+subcortical development of areas connected to primary sensory cortex (visual, 
+somatosensory, and auditory). In addition to standard Nissl and cytochrome oxidase 
+staining, we used vesicular glutamate transporter 2 (VGluT2) protein, which is primarily 
+expressed in glutamatergic feedforward thalamocortical connections, and neuronal 
+nuclei (NeuN) protein, which identifies all neurons, to characterize architectonic features. 
+We also used calcium-binding proteins (CBPs) parvalbumin (PV) and calbindin (CB), as 
+while the function of CBPs remains debated, they are known to be observed in well
+defined subpopulations of neurons. We find that all sensory thalamic nuclei, including 
+the lateral geniculate nucleus (LGN), medial geniculate nucleus (MGN), and 
+ventroposterior nucleus (VPN), show distinct subdivisions, related to the representation 
+of their respective sensory inputs, that differ from expressions in the adult galago. For 
+example, there is evidence for developmental changes in the connections of the 
+magnocellular (M), parvocellular (P), and koniocellular (K) pathways to visual cortex; the 
+P layers of the LGN are the only layers to express PV at P0, in contrast to full expression 
+throughout the LGN layers in the adult. Similarly, VGluT2 expression at P0 in the LGN is 
+evenly distributed across the M, P, and K layers, in contrast to the adult galago which 
+has the strongest reactivity in the M layers, followed by the P layers, and most weakly in 
+the K layers. In all primary sensory areas, layer IV is easily identifiable with PV reactivity, 
+in contrast to the surrounding non-primary areas which show minimal reactivity across 
+cortex. One exception to this is middle temporal visual area (MT), which contains strong 
+neuropil and cell immunoreactivity for PV in layer IV at P0. These results, similar to 
+those reported for MT in marmosets (Warner et al., 2012), suggest that area MT may 
+serve as a primary-like area early during development. These architectonic maps of 
+galago cortex can reveal more about the hierarchical developmental of cortical areas 
+and the functional roles of these areas in early postnatal development. 
+PV-expressing cells in the mouse spinal dorsal horn gate the transmission of innocuous 
+tactile input to lamina I 
+Authors 
+*A. DICKIE1, K. A. BOYLE1, T. YASAKA2, V. E. ABRAIRA3, A. L. ZIMMERMAN3, D. D. 
+GINTY3, M. A. GRADWELL4, R. J. CALLISTER4, B. A. GRAHAM4, D. I. HUGHES1;  
+1Univ. of Glasgow, Glasgow, United Kingdom; 2Dept. Immunol., Kagoshima Univ., 
+Kagoshima, Japan; 3Harvard Med. Sch., Boston, MA; 4Univ. of Newcastle, Callaghan, 
+Australia 
+Disclosures 
+A. Dickie: None. K.A. Boyle: None. T. Yasaka: None. V.E. Abraira: None. A.L. 
+Zimmerman:None. D.D. Ginty: None. M.A. Gradwell: None. R.J. Callister: None. B.A. 
+Graham: None. D.I. Hughes: None. 
+Abstract 
+Chronic pain presents a major unmet clinical problem. One feature of chronic pain is the 
+development of allodynia, where previously innocuous tactile stimuli are perceived as 
+painful. We have shown that inhibitory spinal interneurons which express parvalbumin 
+(PV) form axo-axonic synapses on to the central terminals of myelinated afferents, and 
+have proposed that a loss of the inhibition they mediate could contribute to the 
+development of allodynia following peripheral nerve injury. In this study, we aim to 
+determine the synaptic relationship between low threshold mechanoreceptive (LTMR) 
+afferent input and PV-cell mediated inhibition. We have used in vitro targeted recordings 
+in spinal cord slices from PVCre;Ai9 mice to show that stimulation of dorsal roots at Aδ 
+strength elicits monosynaptic EPSCs in PV-expressing cells. We have used tissue from 
+SplitCre;Ai34 and TrkBCreER;Ai35 mice to show that approximately 30% (mean 28.5% SD 
+14.9) and 35% (35.2% ± 6.3) of VGLUT1 inputs on to inhibitory PV neurons are derived 
+from Aβ and Aδ hair afferents, respectively, and also find that central terminals of most 
+Aβ and Aδ hair afferents receive contacts from inhibitory boutons that express PV 
+(70.7% ± 8.1, and 80.1% ± 3.8, respectively). We also show that 27.9% (± 2.4) of VGAT 
+boutons in contact with the dendrites of vertical cells in lamina IIi and III are derived from 
+PV-expressing cells, and that 61.9% (± 17.2) of the VGLUT1 terminals that target these 
+dendrites associate directly with PV/VGAT boutons. To determine whether PV cells 
+mediate presynaptic inhibition of LTMRs and postsynaptic inhibition of vertical cells, we 
+have also carried out in vitro optogenetic experiments in spinal cord slices from 
+PVCre;Ai32 mice. We find evidence of light-induced bicuculline-sensitive polysynaptic 
+EPSCs in vertical cells, indicative of primary afferent depolarisation mediated by PV 
+cells. We also find evidence of monosynaptic IPSCs that are sensitive to both bicuculline 
+and strychnine, indicative of PV-cell mediated postsynaptic inhibition. Our findings 
+provide anatomical and functional evidence that PV cells mediate both presynaptic 
+inhibition of myelinated afferents that synapse on to vertical cells, and postsynaptic 
+inhibition of the vertical cells themselves. We propose that decreased PV cell-mediated 
+inhibition unmasks a circuit involving vertical cells. This enables LTMR input from lamina 
+IIi and III to activate lamina I pain circuits, and could result in allodynia. Together, these 
+findings identify PV interneurons as a target for therapeutic intervention to alleviate 
+allodynic conditions. 
+Adapted from the Abstract Submission Instructions of The Physiological Society 
