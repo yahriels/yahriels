@@ -7,65 +7,61 @@ Can you actually go ahead help me significantly simplify this entire notebook @ 
 ---------
 
 
-I am bringing in and updating some of the channel assignments.
-These will be new assignments, I want to update my app to bring in these channels and update my data files to also track these signals (if needed). Also in my previous version "Stim ADC" was the tibial stim waveform, I want to update the assignment so my app now tracks "Tibial Stim" ADC channel instead. The other channels will be passed through the app and recorded passively for now until I assignm them functions. 
-
-
-Channel index	Signal	Mode
-ch0	Unipolar filtered EMG	ONLINE / raw EMG electrode 1 in OFFLINE
-ch1	Bipolar filtered+abs EMG	ONLINE / raw EMG electrode 2 in OFFLINE
-ch2	Tibial ADC sync line (TTL)	both modes (ADC1)
-ch3	Tibial Stim ADC waveform	both modes (ADC2)
-ch4	VNS ADC sync line (TTL)	both modes (ADC3)
-ch5	VNS ADC waveform	both modes (ADC4)
-ch6	Feeder ADC trigger (Feeder)	(ADC5)
-
-These are my Digital Output Assignments
-Channel index	Signal	Mode
-DIGOUT1	Tibial Stim	
-DIGOUT2	VNS Stim
-DIGOUT3	Feeder	
------------
-Updating calculations
-
-M-H Measurements
-- M-H Peak = Mean Rectified Average Amplitude Value (Absolute Value) of All Sampled Data within M-H Window
-- H/M Ratio = ((H-Peak)/(M-Peak))
-- M-H Size = M-H size was calculated as average EMG amplitude in the M-H window interval minus pre-stim activity average background EMG amplitude and expressed in units of average background EMG amplitude.
-
-
-----------
-I need to updated my analysis to accommodate the new changes I made to my app 
-
-rom the code I've already read, version 7 adds two fields to MhRecruitmentCurveTrial for the digital onset detection introduced this session. Here's the exact diff from mh_recruitment_curve_data_file.py:
-
-New instance variables (initialized in __init__):
-
-
-self.digital_onset_sample_num: int = -1  # int64 — absolute OE sample counter of the DIGITAL IN rising edge
-self.digital_onset_channel: int = -1     # int32 — OE digital channel index (0-indexed)
-read_from_file — version 7 block (reads after the existing v5/v6 blocks):
-
-
-if (file_version >= 7):
-    self.digital_onset_sample_num = FileIO_Helpers.read(fid, "int64")
-    self.digital_onset_channel    = FileIO_Helpers.read(fid, "int32")
-save_to_file — appended at end (always written, so v7 files always include them):
-
-
-FileIO_Helpers.write(fid, "int64", self.digital_onset_sample_num)
-FileIO_Helpers.write(fid, "int32", self.digital_onset_channel)
-File header — stage now writes version 7 instead of 6:
-
-
-MhRecruitmentCurveHeader(7, ...)
-Summary of what these fields capture:
-
-Field	Type	Meaning
-digital_onset_sample_num	int64	Absolute Open Ephys sample counter at the rising edge of the DIGITAL IN TTL — exact stimulus onset with sub-sample precision. -1 if no digital event was detected (ADC fallback or no onset).
-digital_onset_channel	int32	The OE digital channel index (0-indexed) that fired. -1 if unused.
-Older files (v0–v6) read back cleanly — both fields default to -1, which matches onset_detected != 2 in offline analysis. Only v7+ files will have the actual digital event data.
 
 
 
-So I want my codes across my database to switch to using the Digital line for onset detection instead of the Analog in/ADC line. 
+Stage 2 initialize() — S1 prerequisite logic
+Step 1 — Find the subject's data folder (lines ~373–384)
+
+
+app_data_path = user_data_dir(...)
+file_path = os.path.join(app_data_path, "Data", self._subject_id)
+files_list = os.listdir(file_path)
+Step 2 — Look for an .hrs1 file (lines ~386–413)
+
+
+for f in files_list:
+    if f.endswith("hrs1"):
+        hrs1_file_name = f
+        hrs1_found = True
+        break
+
+if not hrs1_found:
+    if not self._manual_thresholds_set:
+        return (False,
+            "No EMG characterization data was found for this subject. "
+            "Run stage S1 first, or set manual thresholds with: thresh lb=X ub=Y")
+    # else: proceed with manually-set thresholds
+Step 3 — Block if .hrs2 already exists (lines ~410–413)
+
+
+for f in files_list:
+    if f.endswith("hrs2"):
+        return (False, "This subject has already completed this stage...")
+Step 4 — Load S1 data and derive thresholds (lines ~416–426)
+
+
+self._emg_characterization_data = EmgCharacterizationDataFile()
+fid = open(os.path.join(file_path, hrs1_file_name), "rb")
+self._emg_characterization_data.read(fid)
+fid.close()
+
+self._emg_histogram_data = self._emg_characterization_data.get_histogram_data()
+
+self._current_min_initiation_threshold = self._emg_histogram_data.min
+self._current_max_initiation_threshold = self._emg_histogram_data.max
+What S1 data is actually used for in S2
+S1 output	Where S2 uses it
+histogram_data.min / .max	Initial [lb, ub] initiation thresholds for trial triggering
+histogram_data.step_size_one_percent	Auto-threshold tightening/loosening in _determine_min_max_initiation_threshold()
+histogram_data.quartiles	Drawn as Q1/Q2/Q3 markers on the S1 histogram plot
+Full histogram values/edges	Displayed in the "S1 Histogram" session plot
+The bypass — manual thresholds
+If you run thresh lb=X ub=Y before starting S2 (via the command box), _manual_thresholds_set = True and S2 skips the .hrs1 check entirely. The histogram plot shows a text label instead of bars. This is the only way to run S2 without S1 data.
+
+In short: S2 uses S1's EMG amplitude histogram to set the background EMG window that must be satisfied before each trial is triggered. S1 characterizes what "quiet muscle" looks like for that subject; S2 uses those bounds to ensure the animal is at rest before each stimulus.
+
+
+---------------------
+
+Ok now I want to take out the emg_characterization stage out of my app (but don't delete, i just don't want included in my app upon initialization) and reassign mh-recruitment curve stage as stage 1 (S1) so for the mh-recruitment curve stage take out the logic where it needs or depends on emg characterization stage to initialize and start, since we are no longer using the emg characterization stage you can take that out completely. I then want to make another copy of the m-h recruiment curve stage to build a whole other new stage with all the back-end to support and call it  control mode which will be stage 2 (S2) and this once again should be able to be run alone without requiring any stage before to be ran. The difference with control-mode is that I still want the same features as the M-H recruitment curve stage, but I don't want it to do a sweep of stimulation intensities where I set and min and max, I just want it to set the parameters of a single stimulation intensity form and stay at that, and I can adjust that as needed. That makes the conditioning mode stage 3 (S3), and I want S3 to depend on Stage 2 where it does need stage 2 control-mode to be ran before hand (at least 100 trials), because then what will happen is that stage 2 control-mode is going to build a histogram of the h-wave responses (and m-wave responses and H:M ratio) and then draw a line at the bottom 30th percentile of the histogram, and then set that as a success threshold for the conditioning stage 3, so stage 3 will take in the h-wave (and m-wave and H:M ratio) response histogram from stage 2 and then use that threshold (bottom 30th percentile) to set it's initial success threshold where it will  deliver a food pellet (Feed button/TTL line) when the h-response is below the threshold value as defined form stage 2 being brought into stage 3. Stage 3 from then on will start to build it's own distribution (and add to the distribution from stage 2 that was fed in) and have a moving window of 100 trials, so when a new trial is recorded, the new trial will be added to the histogram and the oldest trial will be thrown out to maintain a histogram of responses over 100 trials, after a new trial is added, then the new success threshold is updated based on the updated histogram....... Ok now I have given you a lot to do. GO through and very carefully read and review my instructions, then strategize, make a pseudocode, review the pseudocode and make any logic fixes or improvements. then go ahead and make the changes, then review the changes/additions you made and make sure they follow my requirements instructions. If they don't continue to review and revise until it completely meets my requirements. 
