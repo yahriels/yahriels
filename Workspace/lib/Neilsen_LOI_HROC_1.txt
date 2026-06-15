@@ -1,0 +1,202 @@
+SCI RESEARCH ON THE TRANSLATIONAL SPECTRUM 
+LETTER OF INTENT 
+ 
+SCIRTS Letter of Intent (Rev 02/14/2025)  Page 1 of 4 
+ 
+ 
+ 
+ 
+Respond to each numbered item using the boxes provided.  Complete responses using Arial 11-point font, 
+single-spaced, with double spacing between paragraphs.  Do not alter margins, delete form text, or exceed the 
+page limits provided in this form.  
+  
+1 PI/Applicant Name Eric Meyers 
+2 Organization The University of Texas at Dallas 
+3 Mentor Name(s)  
+(for Postdoctoral Fellowships) 
+N/A 
+4 Project Title Targeted neuromodulation therapy to improve walking after spinal cord 
+injury 
+5 Funding Category 
+Translational Spectrum Grants 
+ 2-year grant term 
+X 3-year grant term (human subjects required)  
+Postdoctoral Fellowships  2-year grant term 
+6 Total Amount Requested (Round to nearest whole dollar) $400,000 
+7 Budget Summary 
+Provide a brief outline of the 
+proposed cost categories 
+(e.g., personnel, supplies, 
+travel, animals, other).  Limit 
+the response to 4-5 lines of 
+text.  This budget may be 
+modified at the full grant 
+application (FGA) stage. 
+The requested budget supports personnel costs including the PI (10% 
+effort), a clinical trial manager for IDE amendment support and clinical trial 
+management, physical therapist, a biostatistician, 1 full time graduate 
+student, the purchase of consumables for the EMG and stimulation 
+systems, participant stipends for sessions, and dissemination expenses 
+for open-access publication and data deposition.  
+8 Research Subject(s) 
+Select the option that best 
+describes your research 
+subject(s). 
+ Animals 
+X Humans 
+ Animals and Humans 
+ Other (please specify): 
+9 Is this a resubmission of a previously reviewed (but not funded) Neilsen 
+Foundation Full Grant Application (FGA)?  Yes X No 
+Enter all responses inside the appropriate boxes.  Following the instructions above, respond to 
+sections 10–12 using only pages two and three of your completed form.   
+Items 13 & 14 (if applicable) should begin on page four and adhere to page limitations as described.   
+A bibliography is not required for the Letter of Intent (LOI) but one may be attached as a single page at the 
+end of this form and does not count toward the three-page limit. 
+10 State your hypotheses and project Aim(s). 
+Hyperactive stretch-reflex circuitry, driven by the loss of descending inhibition and maladaptive spinal 
+plasticity, is a principal biomechanical bottleneck that prevents many individuals with motor-incomplete 
+spinal cord injury (SCI) from regaining an efficient, pain-free gait1–3. Pharmacologic options such as 
+baclofen, tizanidine, and intramuscular botulinum toxin dampen reflex excitability but also weaken 
+residual voluntary drive, limiting functional gains4. Our collaborative team at the National Center for 
+Adaptive Neurotechnologies (NCAN) has developed a targeted plasticity approach that involves 
+operant down-conditioning of the soleus H-reflex as a learning-based alternative treatment5–7. By 
+progressively rewarding trials in which the reflex is smaller than a criterion, patients reduce reflex 
+excitability, reduce ankle stiffness, and walk faster—even years after injury7. However, the reliance of 
+H-reflex operant conditioning (HROC) on explicit performance-based rewards using real-time visual 
+feedback demands continuous attention. This can be cognitively demanding for individuals particularly 
+for the therapy durations required (1-hour sessions, 3x week for 12 weeks), thus limiting compliance 
+and limiting participation to cognitively intact individuals. Importantly, the therapy is currently tethered 
+to research laboratories thus limiting home-based therapy.  
+Our team at the University of Texas at Dallas (UTD) has pioneered the use of pairing vagus nerve 
+stimulation (VNS) with rehabilitation to enhance plasticity and recovery after various forms of 
+neurological injury, including SCI. VNS provides precisely timed engagement of neuromodulatory 
+systems8,9 that in turn drive rapid, phasic release of pro-plasticity molecules which are known to govern 
+synaptic plasticity throughout brain and spinal networks10. Pairing the VNS-dependent release of 
+neuromodulators with the repeated activation of CNS networks drives robust plasticity in these 
+networks9,11,12. Importantly, our recent data shows that VNS can facilitate synaptic plasticity with 
+minimal conscious awareness13,14. We therefore posit that substituting HROC’s visual rewards with a 
+VNS-based teaching signal could convert H-reflex conditioning from a cognitively taxing, clinic-bound 
+protocol into a fully automated intervention suitable for home use. Embedding the reinforcement signal 
+in an implanted device retains the mechanistic specificity of operant conditioning while eliminating the 
+need for prolonged concentration. 
+Aim 1 will establish the safety and feasibility of VNS-reinforced HROC (V-HROC) in six adults with 
+chronic (≥ 12 mo) AIS C/D spinal cord injury and gait impairments. All candidates are drawn from our 
+existing pool of participants who were previously implanted with a VNS system during an early 
+feasibility study15. Therefore, no additional surgery is required, greatly reducing risk and start-up time. 
+Success requires at least 80% session completion and no device-related serious adverse events 
+during the 12-week intervention. Aim 2 will test early efficacy by comparing pre- versus post-therapy 
+soleus H-reflex amplitude, walking speed, WISCI-II, and Modified Ashworth scores. We anticipate 
+significant reflex depression, faster gait, and reduced spasticity persisting four weeks after treatment, 
+thereby providing preliminary evidence of VNS as a practical reward substitute. Aim 3 will elucidate the 
+mechanisms of recovery by using motion-capture analysis to quantify pre- versus post-therapy 
+changes in gait kinematics and overall movement quality. 
+11 Provide an overview of the experimental design/methods. 
+The proposed study is a prospective, single-arm pilot trial that will recruit six adults (18-65 yr) with 
+chronic (≥ 12 mo) motor-incomplete spinal cord injury (AIS C/D) who present with clinically significant 
+gait impairments.  Initially, we will secure regulatory approval to conduct the pilot study by amending 
+our existing IRB and IDE protocols to incorporate the combination of HROC with VNS. Given the low
+risk profile of HROC, we anticipate an expedited approval process, and our team has experience 
+amending our active IDE for VNS in SCI to incorporate other therapy modalities. After informed 
+consent, each participant completes two baseline visits during which we capture reference measures 
+of reflex excitability (soleus H- and M-wave recruitment curves), spasticity (Modified Ashworth Scale), 
+and functional mobility (10-m and 6-min Walk Tests, Walking Index for Spinal Cord Injury-II, and 
+marker-based motion-capture gait metrics). 
+The intervention spans twelve weeks and consists of three conditioning sessions per week, each 
+lasting approximately one hour. Throughout the trial the participant stands while surface EMG from the 
+soleus muscle is processed in real time. When background EMG is held within a low target window for 
+Page 2 of 4  
+SCIRTS Letter of Intent (Rev 02/14/2025)  
+SCIRTS Letter of Intent (Rev 02/14/2025)  Page 3 of 4  
+two seconds, the tibial nerve is stimulated to evoke an H-reflex. On trials in which the reflex amplitude 
+falls below a session-specific criterion (chosen so that ~50 % of trials meet the target), the implant 
+immediately delivers a 0.5-s train of VNS (0.8 mA, 30 Hz, 100 µs pulse width; parameters known to 
+facilitate neuroplasticity). No visual or auditory feedback of performance is provided. The burst of VNS 
+serves as the only reinforcement signal, thereby testing the central hypothesis that neuromodulator 
+release can replace conscious reward cues and enable attention-free, potentially home-based 
+conditioning. Each visit comprises 240 reflex trials, yielding roughly 120 contingent VNS deliveries— a 
+dosing paradigm matched to our prior work in both HROC and VNS. 
+To control for non-associative effects, the first two weeks employ a “control” version of the protocol in 
+which reflexes are recorded but no reinforcement (VNS) is delivered; these data provide a within
+subject baseline. Functional outcomes are repeated at week 6 (mid-therapy), week 12 (end of therapy), 
+and four weeks after therapy to examine durability. Safety is monitored continuously; adverse events 
+are reviewed by an independent physician. Feasibility is defined as completion of the target 120 VNS 
+deliveries in at least 80% of scheduled sessions. 
+Primary efficacy endpoints are the percent change in soleus H-reflex amplitude and walking speed. 
+Secondary endpoints include WISCI-II score, Modified Ashworth grade, cadence, stride length, and 
+step-length asymmetry. Exploratory motion-capture analyses will examine stance-swing ratio, double
+support time, step-width variability, and key joint angles (hip extension, swing-phase knee flexion, 
+push-off ankle plantar-flexion) to clarify balance and propulsion changes. Outcomes will be analyzed 
+with linear mixed-effects models that treat time as a fixed factor and participant as a random factor. 
+Video recordings of all clinical assessments will be scored by blinded raters to minimize bias. Data 
+analysis will be performed in Python or MATLAB, and de-identified datasets will be released on 
+OpenNeuro six months after study completion, ensuring transparency and reproducibility. This 
+pragmatic design rigorously evaluates whether contingent VNS can act as an intrinsic reward signal to 
+drive reflex down-conditioning and improve gait while laying the groundwork for a future, randomized 
+controlled trial. 
+12 Explain the project’s relevance to the Neilsen Foundation. 
+The proposed study addresses one of the largest barriers to mobility after incomplete SCI—
+hyperactive stretch reflexes that generate inefficient gait—with a therapy that is mechanistically 
+grounded and immediately translatable. By substituting a precisely timed burst of VNS for the visual 
+reward normally used in HROC, the project leverages an existing FDA-approved neuromodulatory 
+therapy16 to create an intrinsic, attention-free reinforcement signal. Eliminating the need for conscious 
+engagement removes a major obstacle that has so far limited HROC to highly supervised laboratory 
+settings. It opens the door to home-based, scalable rehabilitation that can reach rural and underserved 
+populations the Neilsen Foundation is committed to supporting. 
+The work sits well within the SCIRTS Pilot Clinical category. It builds on decades of compelling pre
+clinical and randomized controlled clinical trials, rigorously evaluates safety and feasibility in a well
+defined cohort, and generates the preliminary efficacy evidence required for a subsequent randomized 
+trial.  Because all participants are already implanted with the ReStore VNS device from our previous 
+study15, and our team will amend our existing IDE, the project is cost-efficient and low-risk, allowing 
+Neilsen resources to be leveraged for high-impact questions rather than surgical and regulatory costs. 
+The protocol’s reliance on objective electrophysiological and functional outcomes, its preregistered 
+open-data plan, and its close integration with a multidisciplinary rehabilitation team at UT Dallas and 
+Baylor Research Institute embody the Foundation’s emphasis on rigor, transparency, and clinical 
+relevance. If contingent VNS can indeed replace external rewards while amplifying therapeutic benefit, 
+the findings will redefine how HROC is delivered. It will provide the SCI community with a practical, 
+non-pharmacological option to regain safer, faster walking and greater autonomy. It will also justify 
+exploring the use of VNS-reinforced HROC (V-HROC) in the upper limb. These goals align precisely 
+with the Neilsen Foundation’s mission to change lives after spinal cord injury. 
+13 Conflict of Interest (COI) Disclosure—Clearly and briefly describe all perceived or real COIs.  (Excluded 
+from the three-page limit.  Enter N/A if you have nothing to disclose.) 
+N/A 
+ 
+14 Resubmission:  If this LOI is the first resubmission of a previously reviewed but not funded FGA, up to   
+a half-page response to reviewer comments may be entered here.  (Excluded from the three-page limit.) 
+N/A 
+Reference Cited 
+1. Billington, Z. J., Henke, A. M. & Gater, D. R. Spasticity Management after Spinal Cord Injury: The Here and 
+Now. J. Pers. Med. 12, 808 (2022). 
+2. Bandaru, S. P., Liu, S., Waxman, S. G. & Tan, A. M. Dendritic spine dysgenesis contributes to 
+hyperreflexia after spinal cord injury. J. Neurophysiol. 113, 1598–1615 (2015). 
+3. Nielsen, J. B., Crone, C. & Hultborn, H. The spinal pathophysiology of spasticity--from a basic science 
+point of view. Acta Physiol. Oxf. Engl. 189, 171–180 (2007). 
+4. Chang, E. et al. A Review of Spasticity Treatments: Pharmacological and Interventional Approaches. Crit. 
+Rev. Phys. Rehabil. Med. 25, 11–22 (2013). 
+5. Chen, Y. et al. Locomotor impact of beneficial or nonbeneficial H-reflex conditioning after spinal cord injury. 
+J. Neurophysiol. 111, 1249–1258 (2014). 
+6. Thompson, A. K., Pomerantz, F. R. & Wolpaw, J. R. Operant Conditioning of a Spinal Reflex Can Improve 
+Locomotion after Spinal Cord Injury in Humans. J. Neurosci. 33, 2365–2375 (2013). 
+7. Thompson, A. K. & Wolpaw, J. R. H-reflex conditioning during locomotion in people with spinal cord injury. 
+J. Physiol. 599, 2453 (2019). 
+8. Hulsey, D. R. et al. Parametric characterization of neural activity in the locus coeruleus in response to 
+vagus nerve stimulation. Exp. Neurol. 289, 21–30 (2017). 
+9. Meyers, E. C. et al. Enhancing plasticity in central networks improves motor and sensory recovery after 
+nerve damage. Nat. Commun. 10, 5782 (2019). 
+10. Engineer, N. D. et al. Targeted vagus nerve stimulation for rehabilitation after stroke. Front. Neurosci. 13, 
+280 (2019). 
+11. Ganzer, P. D. et al. Closed-loop neuromodulation restores network connectivity and motor control after 
+spinal cord injury. eLife 7, e32058 (2018). 
+12. Meyers, E. C. et al. Vagus Nerve Stimulation Enhances Stable Plasticity and Generalization of Stroke 
+Recovery. Stroke 49, 710–717 (2018). 
+13. Buell, E. P. et al. Cortical map plasticity as a function of vagus nerve stimulation rate. Brain Stimulat. 11, 
+1218–1224 (2018). 
+14. Borland, M. S. et al. Precise sound characteristics drive plasticity in the primary auditory cortex with VNS
+sound pairing. Front. Neurosci. 17, (2023). 
+15. Kilgard, M. P. et al. Closed-loop vagus nerve stimulation aids recovery from spinal cord injury. Nature 1–7 
+(2025) doi:10.1038/s41586-025-09028-5. 
+16. Dawson, J. et al. Vagus nerve stimulation paired with rehabilitation for upper limb motor function after 
+ischaemic stroke (VNS-REHAB): a randomised, blinded, pivotal, device trial. The Lancet 397, 1545–1553 
+(2021). 
+Page 4 of 4  
+SCIRTS Letter of Intent (Rev 02/14/2025)  

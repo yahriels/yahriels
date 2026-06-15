@@ -74,30 +74,6 @@ Louis Stokes Alliances for Minority Participation (LSAMP)
 2019-2021
 
 
-
-## By Yahriel Salinas-Reyes [Y.Salinas-Reyes]
-# An Existentialist Approach Informed by Neuroscience, Biomedical Engineering, and 
-
-**Subject Opinion:**
-In today's rapidly changing world, we often struggle to understand the present before it becomes the past. This proposal aims to shed light on the function of madness and chaos, not to undermine its toll on individuals, but to unravel the problem it is meant to solve. As R.D. Laing theorized, neurological disorders and some medical diseases arise from the battle between our imposed identity and our authentic self, this idea explores the possibility of insanity and confusion as a breakthrough rather than a breakdown. What if insanity, or in this case, pain, plasticity, or neurological injury could be understood as a reaction to the divided self (real vs. ideal self). Instead of arising as a purely medical disease or psychotic behaviors or neurological conditions (i.e. a common symptons mental health disorders), neurological injury may be the result of wrestling with two identities: the identity defined for us by our limitations or reality, and our authentic identity, as we experience ourselves to be. When the two are fundamentally different, it triggers an internal fracturing of the self. Comprehensively, the label of Madness and Confusion is defined as a naturally sane reaction to an insane world in the words of R.D. Laing. By applying the concepts of neural engineering and neuromodulatory rehabilitation theory to model the dynamics of plasticity-behavioral systems in the central nervous system and corticol spinal tract, we aim to study neurological engineering and other neurological abnormalities, morphologies, and ingenuity of the human brain and its reflex arcs.
-
-Despite the initial controversy surrounding Laing's existential perspective, there is immense value in delving into the personal, interpretive, and small-scale aspects often overlooked in traditional psychiatric narratives. We propose utilizing a fundamental method of studying neurobiological dysfunctions and abnormal functions/morphologies of the injured or plastic brain. This will help uncover correlations and causalities between the active brain matter responsible for maladacptive behaviors and plasticity in unhealthy traits and other related disorders.
-
-The motivation behind this study stems from the world's failure to effectively utilize the groundbreaking discoveries in neuroscience, global public health, and social sciences. Through rigorous research and the development of a scientific method backed by advanced instrumentation, our objective is to provide foundational evidence for a clinical social understanding of neurological disorders, injuries, and psychiatric and its related traits. This paradigm shift, rooted in biomedical-analytical and logical-mathematical scientific theory, will facilitate the advancement of global public health.
-
-
-
-## Personal Narrative
-
-
-## First let me ask you a question...What Came First: the Einstein or the Egg?
-# About The Author: Yahriel Salinas-Reyes :tophat: :trumpet: 
-> Yahriel is a "Universal Man" with knowledge and experience in many disciplines. Yahriel is a decorated champion of his community and today he finds work as a scientific researcher of neuroscience and neuromodulatory rehabilitation engineering and is in pursuit of a PhD. Born in Iowa to undocumented immigrant parents, Yahriel had a unique experience and set of challenges growing up as he navigated a foreign society with no instructions included.
-
-> Was Albert Einstein born a genius, or did a fateful encounter result in the greatness of Einstein as we know him today? Yahriel Salinas-Reyes, an inquisitive youngster with a passionate and unruly mind, ascended through the **Aerospace Engineering program at Iowa State University of Science and Technology(Class of '23)** and eventually journeyed to the empire of Einstein at the California Institute of Technology (where Albert Einstein taught). Yahriel walked the same halls Albert Einstein once did and engaged some of the world's most powerful minds at work.
-
-> Yahriel had undertaken a number of different projects and work environments, but nothing could have prepared him for the new world he had just stepped into. While Yahriel experienced every challenge and emotion possible, it enabled him to see the collateral beauty of his journey as he discovered the influential power of mentorship and glimpsed the truth of human ingenuity.
-
 > Work Experience
 
 
@@ -152,14 +128,14 @@ Regulatory Science Group in Seeds and Traits Safety Division / (Mentor: Dr. Kimb
 { Developed risk characterization models to predict potential safety concerns.}
 { Collaborated with interdisciplinary teams to enhance data accuracy and reliability.}
 { Keywords: Toxicology, Hazard Assessment, Nutritional Data, Regulatory Compliance, Bioinformatics}
-2. Automation of Procedural Systems and Experimental Bioinformatic Data May 2024 - Present
+1. Automation of Procedural Systems and Experimental Bioinformatic Data May 2024 - Present
 GEM Fellow / Crop Field Protection Digital Solutions Automation & Pipeline Design Bayer Crop Science
 { Implemented automation systems for procedural and experimental bioinformatic data management.}
 { Managed toxicological information and hazardous exposure assessments from field tests and trials.}
 { Integrated data from internal and external studies to support global clients.}
 { Enhanced efficiency and accuracy in data collection and processing.}
 { Keywords: Automation, Bioinformatic Data, Toxicological Information, Exposure Assessments, Data Integration}
-3. Data Mining and Automation Pipeline Design for Historical Regulatory Responses May 2024 - Present
+1. Data Mining and Automation Pipeline Design for Historical Regulatory Responses May 2024 - Present
 GEM Fellow / R & D Regulatory Science Group Digital Solutions Automation & Pipeline Design Bayer Crop Science
 { Designed data mining and automation pipelines to ensure data integrity.}
 { Analyzed historical regulatory response data for global scientific and food safety agencies.}
@@ -167,7 +143,7 @@ GEM Fellow / R & D Regulatory Science Group Digital Solutions Automation & Pipel
 3/5
 { Improved the accuracy and reliability of regulatory data submissions.}
 { Keywords: Data Mining, Automation, Data Integrity, Regulatory Responses, Pipeline Design}
-4. Development Operations (DevOps) for Historical Data Transfer and Compliance May 2024 - Present
+1. Development Operations (DevOps) for Historical Data Transfer and Compliance May 2024 - Present
 GEM Fellow / Software & Data Engineering, Regulatory Macromolecular Toxicology Team Bayer Crop Science
 { Managed the transference of historical data related to search query data of regulatory responses and submissions.}
 { Ensured compliance with strict global guidelines and document version management.}
@@ -182,19 +158,19 @@ MEMS devices.}
 { Conducted experiments to manufacture MEMS nanocomposites and modeled shear viscosity.}
 { Aimed to simulate viscosity measurements at the thermal boundary for potential applications in aerospace.}
 { Keywords: Systems Analysis, Interfacial Phenomena, Computational Modeling & Analysis, Navier Stokes Equations}
-2. Damping Mechanisms in Piezoelectric Wind-Energy Harvesters August 2021 - August 2022
+1. Damping Mechanisms in Piezoelectric Wind-Energy Harvesters August 2021 - August 2022
 Research Fellow / Mentor -(Prof: Dr. Thomas Ward Dept. of Aerospace Engineering, ISU) Boeing Aerospace
 { Designed experimental setups and measurement-calibration systems for piezoelectric wind-energy harvesters.}
 { Collaborated on solution algorithms and continuum mechanics of conductivity to optimize wind-tunnel experiments.}
 { Objective was to define thermodynamic properties for enhancing wind-energy harvesting efficiency.}
 { Keywords: Aerodynamics Analysis, Harmonic Response, Computational Methods, Energy Storage, Soft Matter Physics}
-3. Energy Absoption in Nano-Architected Hybrid Composites May 2022 - August 2022
+1. Energy Absoption in Nano-Architected Hybrid Composites May 2022 - August 2022
 Prof: Dr. Julia R. Greer of Materials Science, A. Mechanics, & Medical Sciences Caltech, Kavli Nanoscience Institute
 { Created nanocomposites with architectural features to enhance mechanical properties.}
 { Investigated deformation mechanisms using dynamic mechanical analysis and scanning electron microscopy.}
 { Developed a semi-empirical model to understand viscoelastic effects in hybrid nanocomposites.}
 { Keywords: Nanoscience, Applied Mathematics, System Modeling, Continuum Mechanics, Energy Dissipation
-4. Meta-stable Particles: Phase-change Materials and their Applications August 2019 - May 2022
+1. Meta-stable Particles: Phase-change Materials and their Applications August 2019 - May 2022
 Prof: Dr. Martin Thuo Dept. of Materials Science and Engineering, ISU NSF-LSAMP, NSF Award No. 1757393
 { Conducted research on meta-stable particles and their applications in phase-change materials.}
 { Collaborated on developing novel materials with unique properties for various industrial applications.}
@@ -269,41 +245,3 @@ Aerospace Engineering
 
 > Copyright © Yahriel Salinas-Reyes, 2023. All rights reserved
 
-
-
-## By Yahriel Salinas-Reyes [Y.Salinas-Reyes]
-# An Existentialist Approach Informed by Neuroscience, Biomedical Engineering, and 
-
-**Subject Opinion:**
-In today's rapidly changing world, we often struggle to understand the present before it becomes the past. This proposal aims to shed light on the function of madness and chaos, not to undermine its toll on individuals, but to unravel the problem it is meant to solve. As R.D. Laing theorized, neurological disorders and some medical diseases arise from the battle between our imposed identity and our authentic self, this idea explores the possibility of insanity and confusion as a breakthrough rather than a breakdown. What if insanity, or in this case, pain, plasticity, or neurological injury could be understood as a reaction to the divided self (real vs. ideal self). Instead of arising as a purely medical disease or psychotic behaviors or neurological conditions (i.e. a common symptons mental health disorders), neurological injury may be the result of wrestling with two identities: the identity defined for us by our limitations or reality, and our authentic identity, as we experience ourselves to be. When the two are fundamentally different, it triggers an internal fracturing of the self. Comprehensively, the label of Madness and Confusion is defined as a naturally sane reaction to an insane world in the words of R.D. Laing. By applying the concepts of neural engineering and neuromodulatory rehabilitation theory to model the dynamics of plasticity-behavioral systems in the central nervous system and corticol spinal tract, we aim to study neurological engineering and other neurological abnormalities, morphologies, and ingenuity of the human brain and its reflex arcs.
-
-Despite the initial controversy surrounding Laing's existential perspective, there is immense value in delving into the personal, interpretive, and small-scale aspects often overlooked in traditional psychiatric narratives. We propose utilizing a fundamental method of studying neurobiological dysfunctions and abnormal functions/morphologies of the injured or plastic brain. This will help uncover correlations and causalities between the active brain matter responsible for maladacptive behaviors and plasticity in unhealthy traits and other related disorders.
-
-The motivation behind this study stems from the world's failure to effectively utilize the groundbreaking discoveries in neuroscience, global public health, and social sciences. Through rigorous research and the development of a scientific method backed by advanced instrumentation, our objective is to provide foundational evidence for a clinical social understanding of neurological disorders, injuries, and psychiatric and its related traits. This paradigm shift, rooted in biomedical-analytical and logical-mathematical scientific theory, will facilitate the advancement of global public health.
-
-
-
-## Personal Narrative
-
-
-## First let me ask you a question...What Came First: the Einstein or the Egg?
-# About The Author: Yahriel Salinas-Reyes :tophat: :trumpet: 
-> Yahriel is a "Universal Man" with knowledge and experience in many disciplines. Yahriel is a decorated champion of his community and today he finds work as a scientific researcher of neuroscience and neuromodulatory rehabilitation engineering and is in pursuit of a PhD. Born in Iowa to undocumented immigrant parents, Yahriel had a unique experience and set of challenges growing up as he navigated a foreign society with no instructions included.
-
-> Was Albert Einstein born a genius, or did a fateful encounter result in the greatness of Einstein as we know him today? Yahriel Salinas-Reyes, an inquisitive youngster with a passionate and unruly mind, ascended through the **Aerospace Engineering program at Iowa State University of Science and Technology(Class of '23)** and eventually journeyed to the empire of Einstein at the California Institute of Technology (where Albert Einstein taught). Yahriel walked the same halls Albert Einstein once did and engaged some of the world's most powerful minds at work.
-
-> Yahriel had undertaken a number of different projects and work environments, but nothing could have prepared him for the new world he had just stepped into. While Yahriel experienced every challenge and emotion possible, it enabled him to see the collateral beauty of his journey as he discovered the influential power of mentorship and glimpsed the truth of human ingenuity.
-<!--
-**yahriels/yahriels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

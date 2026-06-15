@@ -1,76 +1,28 @@
-Title Max character count of 1,200 characters
-Abstract max character count of 2,300 characters
-
-
-Title 1: Closed-loop vagus nerve stimulation as a neuromodulatory teaching signal for spinal H-reflex operant conditioning
-Title 2: Contingent vagus nerve stimulation drives spinal reflex down-conditioning in the absence of conventional food rewar
-Title 3: Can vagus nerve stimulation substitute for explicit reinforcement in H-reflex operant conditioning?
-
-
-[1] Hyperreflexia after neurological injury is a major contributor to spasticity and is clinically significant where current treatments are limited; Closed-loop vagus nerve stimulation has emerged as a combinatorial tool to elevate many rehabilitative treatements, Previous studies have shown CLV to enhance task-specific plasticity in multiple rehabilitation paradigms pre-clinical and clinically but has not been approached in a manner targeted toward treating the underlying neural dysfunctions of spasticity/hyperreflexia.
-    - Hyperactive stretch-reflex circuitry, driven by the loss of descending inhibition and maladaptive spinal plasticity, is a principal biomechanical bottleneck that prevents many individuals with motor-incomplete spinal cord injury (SCI) from regaining an efficient, pain-free gait1
-    - Pharmacologic options such as baclofen, tizanidine, and intramuscular botulinum toxin dampen reflex excitability but also weaken  residual voluntary drive, limiting functional gains
-    - TxBDC efforts produced CLV as a adjuvent to therapy to enable a neuromodulatory approach to rehabilitative training
-    - Previous studies have shown CLV to enhance task-specific plasticity in multiple rehabilitation paradigms pre-clinical and clinically
-
-[2] HROC is a learning-based targeted plasticity approach capable of reducing reflex excitability , but it comes with a structural limitation that HROC depends on explicit, attention-demanding reinforcement (food reward / real-time visual feedback) delivered over prolonged training schedules; this process may become congnitively demanding and affect compliance and participation of subjects.
-    - Reflex excitability is a principal biomechanical bottleneck of hyperreflexia that prevents many individuals from an efficient pain-free gait
-    - HROC progressively rewards trials in which H-reflex amplitude falls below a criterion threshold, driving adaptive spinal plasticity -> can reduce ankle stiffness, and walk faster—even years after injury. 
-    - Pre-clinical data: operant conditioning can up-condition or down-condition the H-reflex to modulate reflex-dependent behavior (qualify — animal data shows reflex modulation, not hyperreflexia treatment)
-    - Early-stage clinical data (qualify as investigational only — MEC2): preliminary results suggest patients reduce reflex excitability and improve functional outcomes
-    - The protagonist's flaw: HROC depends on explicit, attention-demanding reinforcement (food reward / real-time visual feedback) delivered over prolonged training schedules
-    - This can be cognitively demanding for individuals particularly for the therapy durations required (1-hour sessions, 3x week for 12 weeks), thus limiting compliance 
-    - limiting participation to cognitively intact individuals. 
-    - Importantly, the therapy is currently tethered to research laboratories thus limiting home-based therapy.  
-
-[3]  40 + years of effort have validated that you can up-condition or down-condition a reflex with HROC to improve behavior in pre-clinical models, and early prelimnary investigational in humans studies have shown promise under controlled-ideal conditions, but are currently tethered to research laboraties limiting at home-based therapies. The dependency on explicit reinforcement is a limiting-factor of HROC in translational potential towards a scalable, accessible clincal therapy.
-    - [40 + years of pre-clinical research has led to the early clinical development of a targeted plasticity approach that involves operant down-conditioning of the soleus H-reflex as a learning-based alternative treatment]
-    On second thought, you should probably explain the animal data first, then say it has shown promising preliminary results in small clinical trials. 
-    - The key distinction being that the animal data doesn't really show that HROC can treat hyperreflexia. It just shows that you can up-condition or down-condition a reflex to improve behavior. 
-    - however, its reliance on explicit, attention-dependent reinforcement (e.g., food reward) and prolonged training schedules limits translational scalability.
-    - Antagonist 1 — Cognitive demand: HROC relies on explicit performance-based rewards requiring real-time, sustained participant attention — cognitively taxing over 1-hour sessions, 3× per week for months
-    - Antagonist 2 — Training duration: 50 days pre-clinically; ~3 months clinically — prolonged timelines reduce compliance and translational feasibility
-    - Antagonist 3 — Access limitation: Currently tethered to research laboratories — cannot be deployed for home-based therapy
-    - Antagonist 4 — Population limitation: Limits participation to cognitively intact individuals
-    - On second thought, you should probably explain the animal data first, then say it has shown promising preliminary results in small clinical trials. 
-    - The key distinction being that the animal data doesn't really show that HROC can treat hyperreflexia. It just shows that you can up-condition or down-condition a reflex to improve behavior. 
-    The conflict: These antagonists together block HROC from reaching patients who need it most
-
-[4] Because HROC relies on reinforcement-learning (eg. food reward/visual feedback), we pre-clinically test the feasibility of driving h-reflex conditioning with ONLY CLV as  
-- And how these results compare to HROC with traditional food pellet. 
-- to see if the neuromodulatory release of plasticity-promoting molecules can act as a stand alone- reinforce-signal for spinal cord plasticity 
-- Increase neuromodulatory and neural engagement 
-- Equal or better?
-- Comparable to Food Pellet Reward?
-Sentence 4 — Tension 1 (T1): Feasibility / Baseline Establishment
-Main idea: The experimental platform is validated and baseline reflex conditioning behavior is established — demonstrating the system works and the control condition confirms reinforcement-dependence.
-- Because HROC relies on Reinforcement consequences, reinforcement-learning 
-- Animal model: (SFN required — fill in) Adult [sex] Sprague-Dawley rats (n=X), chronically implanted with vagal cuff electrode and tibial nerve stimulation electrode
-- Recording setup: H-reflexes elicited by tibial nerve stimulation and quantified from soleus EMG recordings
-- SIM-STIM platform: Multi-channel simultaneous stimulation and recording system enables closed-loop VNS delivery contingent on H-reflex amplitude threshold
-- Control condition result (No-reward group): Animals receiving no reinforcement following successful trials show no systematic reduction in H-reflex amplitude (Data needed — n=X, % change ± SD, statistical test)
-- Purpose: Confirms that H-reflex suppression depends on contingent reinforcement, not passive exposure to the protocol
-- T1 mini-resolution: Reinforcement contingency is necessary — without it, no conditioning occurs; this narrows the question to whether VNS can serve as that contingency
-
-[5] Chronically implanted rats (n=15) receive HROC: tibial nerve stimulation elicits the H-reflexes captured from soleus EMG, desired outcomes (above/below criterion) and then delivered a temporally-precise reward signal under three conditions: (1) CLV delivered via a vagal cuff exclusively following successful down-conditioning trials, (2) standard food-rewarded conditioning, (3) or no-reward control to confirm H-reflex suppression depends on Reinforcement
-
-Food reward group result: Animals receiving contingent food pellet delivery following successful down-conditioning trials exhibit significant reduction in H-reflex amplitude (Data needed — n=X, mean % reduction ± SD, sessions to criterion, statistical test vs. no-reward group)
-Outcome measures: Rate of H-reflex down-conditioning (sessions to reach criterion reduction) + final magnitude of H-reflex suppression
-T2 escalation: HROC works pre-clinically with food reward — this deepens the conflict by confirming the protagonist's value while making the antagonist (food-reward dependency) more specific and testable
-What T2 does NOT resolve: Whether a different reinforcement signal — one not requiring attention or explicit reward delivery — can produce the same outcome
-
-[6] Longterm outcomes are measured in rate H-reflex-conditioning and the final magnitude of H-reflex size change (suppression) achieved during training, the primary outcome if CLV-only delivery engages comparable or enhanced operant spinal plasticity to food-reward to act as a reliable biological teaching-signal.
-- Primary OUtcomes
-Sentence 6 — Tension 3 / Temporal Specificity (optional — use if data exists)
-Main idea: Temporal pairing between VNS and the conditioning trial is a necessary condition for VNS-mediated reinforcement — randomized or shifted VNS does not produce conditioning.
-
-Temporally shifted CLV condition: VNS delivered at randomized or fixed delays relative to successful trials (Data needed — n=X, % change ± SD)
-Result: Temporally uncoupled VNS fails to drive H-reflex down-conditioning at the rate or magnitude seen in contingent CLV group
-Why this matters: Establishes that VNS effect is not a generalized neuromodulatory effect — temporal specificity is mechanistically required, which is the signature of a reinforcement signal
-T3 escalation: This finding pushes the story to its breaking point — VNS only works as a reinforcement signal when it is contingent and temporally precise
-Use T3 only if: you have data from temporally shifted/yoked/randomized CLV groups. If not, MEC14 advised cutting this or saving it as a future direction.
-
-[8] Hyperactive stretch-reflex circuitry, driven by loss of descending inhibition and maladaptive spinal plasticity, presents a clincally significant challenge; This study tests whether CLV functions as a reinforcement signal capable of engaging spinal plasticity, providing a mechanistic framework for neuromodulatory augmentation of therapies targeting hyperreflexia and spasticity.
-    - Reflex excitability is a principal biomechanical bottleneck of hyperreflexia that prevents many individuals from regaining an efficient pain-free gait or functional behavior
-    - This study tests whether vagus nerve stimulation functions as a temporally precise reinforcement signal capable of enhancing reinforcement-dependent spinal plasticity during operant conditioning,
-    - providing a mechanistic framework for neuromodulatory augmentation of therapies targeting hyperreflexia and spasticity.[
+Title: Closed-loop vagus nerve stimulation as a reinforcement signal for h-reflex operant conditioning
+AUTHOR BLOCK: *Y. SALINAS-REYES1,2, Y. CHEN3, T. M. VAUGHAN3, J. HILL3, J. S. CARP3, E. MEYERS2,1;
+1Univ. of Texas at Dallas / Texas Biomed. Device Ctr., Dallas, TX; 2Bioengineering, The Univ. of Texas at Dallas, Richardson, TX; 3Natl. Ctr. for Adaptive Neurotechnologies,
+Stratton VA Med. Ctr. / NCAN, Albany, NY
+Abstract:
+Spasticity after stroke and spinal cord injury is a major driver of disability, yet effective treatments that selectively target spinal reflex circuits underlying spasticity remain
+limited. H-reflex (HR) operant conditioning (HROC) reduces reflex excitability by delivering a reinforcement when HR amplitude falls below criterion. Pre-clinical studies
+demonstrate successful reflex modulation, and early clinical trials suggest functional improvement. However, HROC's reliance on explicit, attention-demanding
+reinforcement over prolonged training timelines (8 weeks of 24/7 conditioning pre-clinically; 1-hour sessions, 3x week for 12 weeks clinically) may exclude individuals
+unable to sustain prolonged cognitive engagement and limit translational scalability. Vagus nerve stimulation (VNS), delivered closed-loop with training events, engages
+locus coeruleus-noradrenergic and raphe-serotonergic projections to the spinal cord, delivering a timed neuromodulatory signal to the spinal circuits underlying HR
+amplitude — the same circuits targeted by conventional food-reinforced HROC. In our V-HROC paradigm, successful down-conditioning trials (defined as HR amplitude
+falling below the 30th percentile of each rat's HR size distribution) receive VNS reinforcement. We hypothesize that VNS delivered following successful conditioning trials
+can substitute for food-pellet reward reinforcement by serving as a neuromodulatory reinforcement signal, producing HR down-conditioning comparable to food
+reinforced HROC. Adult female Sprague-Dawley rats chronically implanted with vagus and tibial nerve stimulating cuffs undergo HROC, in which HRs are elicited via tibial
+nerve stimulation and soleus responses are captured from bipolar implanted EMG electrodes. Down-conditioning trials determined to be successful receive either: (1)
+VNS; (2) standard food pellet reward; or (3) no reinforcement (no VNS or food-pellet). This design allows us to assess how reinforcement modality shapes HR plasticity;
+the no-reward group confirms that HR changes in the CNV group are driven by VNS acting as a reward, not by VNS stimulation alone suppressing the reflex. Primary
+outcomes are rate of down-conditioning (time to reach target reduction) and magnitude of suppression (total reduction in reflex amplitude); group comparisons assess
+whether VNS can substitute for food reinforcement in driving HR plasticity. These experiments test whether VNS-mediated neuromodulatory reinforcement is sufficient
+to drive spinal operant plasticity, providing a mechanistic foundation for attention-independent HROC protocols targeting hyperreflexia and spasticity.
+Author Disclosure Information:
+ Y. Salinas-Reyes: None. Y. Chen: None. T.M. Vaughan: None. J. Hill: None. J.S. Carp: None. E. Meyers: None.
+Presentation Preference (Complete):  Poster Only
+Linking Group Selection (Complete):  DandelionApricot
+Theme and Topic (Complete):  J.08.a. Electrical ;  F.06.b. Posture and gait – Reflexes and low-level control
+Linking Group and Nano Info (Complete):
+Keyword (Complete):  Neuromodulation ; Rehabilitation ; Electrophysiology

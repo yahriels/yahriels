@@ -1,0 +1,21 @@
+[X]. Meyers EC, Solorzano BR, James J, Ganzer PD, Lai ES, Rennaker RL, et al. Vagus Nerve Stimulation Enhances Stable Plasticity and Generalization of Stroke Recovery. Stroke 2018:10.1161/STROKEAHA.117.019202.
+[X2]. Ganzer PD, Darrow MJ, Meyers EC, Solorzano BR, Ruiz AD, Robertson NM, et al. Closed-loop Neuroprosthesis Restores Network Connectivity and Motor 2 Control after Spinal Cord Injury. Elife n.d
+[X3] Ganzer et al.,Closed-loop neuromodulation restores network connectivity and motor control after spinal cord injury, 2018)
+[X4]. Dawson J, Pierce D, Dixit A, Kimberley TJ, Robertson M, Tarver B, et al. Safety, Feasibility, and Efficacy of Vagus Nerve Stimulation Paired With Upper-Limb Rehabilitation After Ischemic Stroke. Stroke 2015;47:143–50. 10.1161/STROKEAHA.115.010477. [PubMed: 26645257]
+
+
+
+
+in aim 2 what does it mean by characterizing VNS parameters. I am not sure if that is right, defend your position because my main focus isn't exactly to characterize VNS parameters (That has already been done in a number of studies) the point is to see how different manners of VNS delivery (temporal timing and dosing, etc.) affect the level of spinal plasticity engaged to both food-pellet reward reinforcement alone, and standard VNS parameters delivered at the same time as the convnetional food-pellet reward reinforcement would be given. If we can investigate that different VNS parameters do have varying effects on spinal plasticity within V-HROC that would provide first evidence of VNS directly modulating spinal plasticity and to different degrees and with specificiity when paired with HROC
+
+Think about how to more cohesively tie in the biomarker piece. 
+
+Just off the top of my head, I would set up your introduction like this:
+
+- clinical problem (stroke, SCI, etc.)
+- VNS has shown promise for improving motor function in these disorders
+- However, there are two key limitations
+- 1) we don't currently have technology to target spasticity in patients
+- 2) We have no way of optimizing VNS effects in patients, so some people get ineffective dosing parameters
+
+Then that sets up both of your key problems
