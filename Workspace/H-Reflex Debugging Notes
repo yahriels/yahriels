@@ -8,60 +8,47 @@ Can you actually go ahead help me significantly simplify this entire notebook @ 
 
 
 
-
-
-Stage 2 initialize() — S1 prerequisite logic
-Step 1 — Find the subject's data folder (lines ~373–384)
-
-
-app_data_path = user_data_dir(...)
-file_path = os.path.join(app_data_path, "Data", self._subject_id)
-files_list = os.listdir(file_path)
-Step 2 — Look for an .hrs1 file (lines ~386–413)
-
-
-for f in files_list:
-    if f.endswith("hrs1"):
-        hrs1_file_name = f
-        hrs1_found = True
-        break
-
-if not hrs1_found:
-    if not self._manual_thresholds_set:
-        return (False,
-            "No EMG characterization data was found for this subject. "
-            "Run stage S1 first, or set manual thresholds with: thresh lb=X ub=Y")
-    # else: proceed with manually-set thresholds
-Step 3 — Block if .hrs2 already exists (lines ~410–413)
-
-
-for f in files_list:
-    if f.endswith("hrs2"):
-        return (False, "This subject has already completed this stage...")
-Step 4 — Load S1 data and derive thresholds (lines ~416–426)
-
-
-self._emg_characterization_data = EmgCharacterizationDataFile()
-fid = open(os.path.join(file_path, hrs1_file_name), "rb")
-self._emg_characterization_data.read(fid)
-fid.close()
-
-self._emg_histogram_data = self._emg_characterization_data.get_histogram_data()
-
-self._current_min_initiation_threshold = self._emg_histogram_data.min
-self._current_max_initiation_threshold = self._emg_histogram_data.max
-What S1 data is actually used for in S2
-S1 output	Where S2 uses it
-histogram_data.min / .max	Initial [lb, ub] initiation thresholds for trial triggering
-histogram_data.step_size_one_percent	Auto-threshold tightening/loosening in _determine_min_max_initiation_threshold()
-histogram_data.quartiles	Drawn as Q1/Q2/Q3 markers on the S1 histogram plot
-Full histogram values/edges	Displayed in the "S1 Histogram" session plot
-The bypass — manual thresholds
-If you run thresh lb=X ub=Y before starting S2 (via the command box), _manual_thresholds_set = True and S2 skips the .hrs1 check entirely. The histogram plot shows a text label instead of bars. This is the only way to run S2 without S1 data.
-
-In short: S2 uses S1's EMG amplitude histogram to set the background EMG window that must be satisfied before each trial is triggered. S1 characterizes what "quiet muscle" looks like for that subject; S2 uses those bounds to ensure the animal is at rest before each stimulus.
-
-
 ---------------------
 
 Ok now I want to take out the emg_characterization stage out of my app (but don't delete, i just don't want included in my app upon initialization) and reassign mh-recruitment curve stage as stage 1 (S1) so for the mh-recruitment curve stage take out the logic where it needs or depends on emg characterization stage to initialize and start, since we are no longer using the emg characterization stage you can take that out completely. I then want to make another copy of the m-h recruiment curve stage to build a whole other new stage with all the back-end to support and call it  control mode which will be stage 2 (S2) and this once again should be able to be run alone without requiring any stage before to be ran. The difference with control-mode is that I still want the same features as the M-H recruitment curve stage, but I don't want it to do a sweep of stimulation intensities where I set and min and max, I just want it to set the parameters of a single stimulation intensity form and stay at that, and I can adjust that as needed. That makes the conditioning mode stage 3 (S3), and I want S3 to depend on Stage 2 where it does need stage 2 control-mode to be ran before hand (at least 100 trials), because then what will happen is that stage 2 control-mode is going to build a histogram of the h-wave responses (and m-wave responses and H:M ratio) and then draw a line at the bottom 30th percentile of the histogram, and then set that as a success threshold for the conditioning stage 3, so stage 3 will take in the h-wave (and m-wave and H:M ratio) response histogram from stage 2 and then use that threshold (bottom 30th percentile) to set it's initial success threshold where it will  deliver a food pellet (Feed button/TTL line) when the h-response is below the threshold value as defined form stage 2 being brought into stage 3. Stage 3 from then on will start to build it's own distribution (and add to the distribution from stage 2 that was fed in) and have a moving window of 100 trials, so when a new trial is recorded, the new trial will be added to the histogram and the oldest trial will be thrown out to maintain a histogram of responses over 100 trials, after a new trial is added, then the new success threshold is updated based on the updated histogram....... Ok now I have given you a lot to do. GO through and very carefully read and review my instructions, then strategize, make a pseudocode, review the pseudocode and make any logic fixes or improvements. then go ahead and make the changes, then review the changes/additions you made and make sure they follow my requirements instructions. If they don't continue to review and revise until it completely meets my requirements. 
+
+---------
+Make sure to update all your M-H Size Calculations: {H-wave size is to determine the average EMG amplitude within the H-reflex interval and subtract the average background (ongoing) EMG amplitude
+. This resulting value is then expressed in units of the background EMG amplitude to normalize the measurement} so in the app when I show the M-H Waves, it should always show the M-H Wave Size Calculation as I just described. These are the measurements we will use for everything. Is if it says M-Wave MRA, instead use M-wave Size, and do the same for H-Wave MRA to H-Wave Size
+
+emg_characterization_stage.py → stage_name = "S0" (Not being used at all anymore)
+mh_recruitment_curve_stage.py → stage_name = "S1" (New Stage 1 where everything Starts)
+control_mode_stage.py → stage_name = "S2" (New Stage 2)
+down_condition_pellet_stage.py → stage_name = "S3" (Stage 3)
+
+----
+
+I want S1 and S2 (S0 will not be included in the app whatsoever) to compute the emg background emg histogram, A Histogram of the M:Wave Size Calculations, and Histogram of the H:Wave Size Calculations, Each with corresponding Quartile calculations and in this case with the down-conditioning the bottom 30th percentile of the H-wave size histogram. Then Stage 3 Will load in this data, and when it does it will randomly select 100 trials and recalculate those M-Wave Size Histogram, H-Wave Size Histogram, EMG Background, and then re-calculate the quartiles, and then the 30th percentile of the H-Wave Size Histogram and then set that as the success threshold. So on a per-trial basis as a new trial is counted, the oldest trial is thrown out and the newest trial is added to the 100 trials moving average window, and after each trial, the histograms and all the metrics are re-calculated, including the 30th percentile of the H-Wave Size Histogram and recalculate the success threshold. On a per-trial basis for this down-conditioning mode, a trial is considered successful when the H-wave Size of the current trial is below the success threshold in the H-wave interval. Which then immediately following the success a ttl pulse is sent to the feeder and a food pellet is dispensed, then the cycle repeats over again where the trial is added to the 100 trial moving average window then the process starts again. In the case of an unsuccessful trial, the protocol and process is the same, but no TTL pulse is sent to the Feeder to delivery a food pellet, the trial is only counted. For this stage 3 I want to track successful and unsuccessful trials. 
+
+
+----
+
+In my Notebooks @src/open_ephys/analysis/Post_Hoc_Global_Windowing_copy.ipynb  @src/open_ephys/analysis/Post_Hoc_Global_Windowing.ipynb @src/open_ephys/analysis/Read_H-Reflex_App_Simplified.ipynb @src/open_ephys/analysis/Read_H-Reflex_App.ipynb    in all the interactive viewers where you can see the peri-stimulus plots of the trials such as this section :{plot_hrs2_analysis(
+    hrs2_trials, hrs2_header,
+    pre_avg_ms=PRE_AVG_MS, post_avg_ms=POST_AVG_MS,
+    n_per_page=N_PER_PAGE,
+    m_start_ms=M_WAVE_START_MS, m_end_ms=M_WAVE_END_MS,
+    h_start_ms=H_WAVE_START_MS, h_end_ms=H_WAVE_END_MS,
+    sample_rate=recording_sample_rate or hrs1_header.sample_rate,
+    emg_blocks=hrs2_emg_blocks,
+)} and here:{plot_hrs2_trials(
+    hrs2_trials, hrs2_header,
+    pre_plot_ms=PRE_PLOT_MS, post_plot_ms=POST_PLOT_MS,
+    n_per_page=N_PER_PAGE,
+    m_start_ms=M_WAVE_START_MS, m_end_ms=M_WAVE_END_MS,
+    h_start_ms=H_WAVE_START_MS, h_end_ms=H_WAVE_END_MS,
+    sample_rate=recording_sample_rate or hrs1_header.sample_rate,
+    emg_blocks=hrs2_emg_blocks,
+)} and all the down-stream vieweres as well (bin viewers) I want the option to add something to the labels (that can be toggled on/off) To add the Background EMG range for that given stimulation group/intensity or stimulation trial. Also to all these labels, I also want it numerical to show until the 3rd decimal place. I also somewhere (wherever you feel it makes most sense), I wnt the option to manually select some stim groups, and group them together (meaning take their stimulation intensities, add them together and average them, as well as all their trials as a single group average and so on). When I view this manually selected grouped average of groups, I would like it to show as the calculated average stimulation intensity (in mA) with a tolerance/range. Now review everything I gave you, then make the changes, then review your changes and compare them back to the requirements I gave you, then make improvements for usability, and then go through and simplify the work flow and break out any helper functions to @src/open_ephys/analysis/helpers.py  
+
+
+-----------
+
+Ok so now I want to incorporate a new feature into my S3 of my app, which is M-Wave Stabilization described as a process of monitoring the M-wave size on a trial-per-trial basis by monitoring the trial-wise M-Wave size as well as the moving average M-wave 100 trial moving window, where there is a M-wave size histogram of 100 trials, and when a new trial is counted, the oldest trial is thrown out and the newest trial is added to the histogram calculations to maintain the 100 trial moving window. After each new trial is counted, the histogram should recalculate all of the metrics, mainly the Q2. Now where the new feature comes in is after re-calculating the histogram metrics with the new trial, if the most recent/current trial is above the median (Q2) then the system/S3 protocol will go down a step in the stimulation intensity settings (in mA) to try to get the current M-wave size for the trial closer to the median. If the current trial is below the median of the 100 trial M-wave distribution, then it will go up a step in the stimulation intensity setting to try to get the current trial M-wave size closer to the median. Do you understand this feature and auto-adjusting protocol? The point is to keep the M-wave size at the same size throughout the entire session.
+
+Now to do this we mainly need 2 parameters to be defined, so make the section in the "Stim Params" section to include adjust step-size (The step-size that S3 will take when making adjusting to the stimulation intensity settings) and the next is the adjust occurrence where "1" would mean that it makes stim amp adjustments after every trial where as "5" would mean making stim amp adjustments after every 5 trials. 
