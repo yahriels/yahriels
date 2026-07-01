@@ -7,11 +7,6 @@ Can you actually go ahead help me significantly simplify this entire notebook @ 
 ---------
 
 
-
----------------------
-
-Ok now I want to take out the emg_characterization stage out of my app (but don't delete, i just don't want included in my app upon initialization) and reassign mh-recruitment curve stage as stage 1 (S1) so for the mh-recruitment curve stage take out the logic where it needs or depends on emg characterization stage to initialize and start, since we are no longer using the emg characterization stage you can take that out completely. I then want to make another copy of the m-h recruiment curve stage to build a whole other new stage with all the back-end to support and call it  control mode which will be stage 2 (S2) and this once again should be able to be run alone without requiring any stage before to be ran. The difference with control-mode is that I still want the same features as the M-H recruitment curve stage, but I don't want it to do a sweep of stimulation intensities where I set and min and max, I just want it to set the parameters of a single stimulation intensity form and stay at that, and I can adjust that as needed. That makes the conditioning mode stage 3 (S3), and I want S3 to depend on Stage 2 where it does need stage 2 control-mode to be ran before hand (at least 100 trials), because then what will happen is that stage 2 control-mode is going to build a histogram of the h-wave responses (and m-wave responses and H:M ratio) and then draw a line at the bottom 30th percentile of the histogram, and then set that as a success threshold for the conditioning stage 3, so stage 3 will take in the h-wave (and m-wave and H:M ratio) response histogram from stage 2 and then use that threshold (bottom 30th percentile) to set it's initial success threshold where it will  deliver a food pellet (Feed button/TTL line) when the h-response is below the threshold value as defined form stage 2 being brought into stage 3. Stage 3 from then on will start to build it's own distribution (and add to the distribution from stage 2 that was fed in) and have a moving window of 100 trials, so when a new trial is recorded, the new trial will be added to the histogram and the oldest trial will be thrown out to maintain a histogram of responses over 100 trials, after a new trial is added, then the new success threshold is updated based on the updated histogram....... Ok now I have given you a lot to do. GO through and very carefully read and review my instructions, then strategize, make a pseudocode, review the pseudocode and make any logic fixes or improvements. then go ahead and make the changes, then review the changes/additions you made and make sure they follow my requirements instructions. If they don't continue to review and revise until it completely meets my requirements. 
-
 ---------
 Make sure to update all your M-H Size Calculations: {H-wave size is to determine the average EMG amplitude within the H-reflex interval and subtract the average background (ongoing) EMG amplitude
 . This resulting value is then expressed in units of the background EMG amplitude to normalize the measurement} so in the app when I show the M-H Waves, it should always show the M-H Wave Size Calculation as I just described. These are the measurements we will use for everything. Is if it says M-Wave MRA, instead use M-wave Size, and do the same for H-Wave MRA to H-Wave Size
@@ -52,3 +47,142 @@ In my Notebooks @src/open_ephys/analysis/Post_Hoc_Global_Windowing_copy.ipynb  @
 Ok so now I want to incorporate a new feature into my S3 of my app, which is M-Wave Stabilization described as a process of monitoring the M-wave size on a trial-per-trial basis by monitoring the trial-wise M-Wave size as well as the moving average M-wave 100 trial moving window, where there is a M-wave size histogram of 100 trials, and when a new trial is counted, the oldest trial is thrown out and the newest trial is added to the histogram calculations to maintain the 100 trial moving window. After each new trial is counted, the histogram should recalculate all of the metrics, mainly the Q2. Now where the new feature comes in is after re-calculating the histogram metrics with the new trial, if the most recent/current trial is above the median (Q2) then the system/S3 protocol will go down a step in the stimulation intensity settings (in mA) to try to get the current M-wave size for the trial closer to the median. If the current trial is below the median of the 100 trial M-wave distribution, then it will go up a step in the stimulation intensity setting to try to get the current trial M-wave size closer to the median. Do you understand this feature and auto-adjusting protocol? The point is to keep the M-wave size at the same size throughout the entire session.
 
 Now to do this we mainly need 2 parameters to be defined, so make the section in the "Stim Params" section to include adjust step-size (The step-size that S3 will take when making adjusting to the stimulation intensity settings) and the next is the adjust occurrence where "1" would mean that it makes stim amp adjustments after every trial where as "5" would mean making stim amp adjustments after every 5 trials. 
+
+------------
+In my data files of this app, is my data files tracking which version of the app was used?  as in :{name = hreflex_txbdc
+version = 0.0.1} or {name = hreflex_txbdc
+version = 0.0.2}?, if not can I have it do that across all my data files
+-----------
+
+
+
+Ok, So I need to update my codebase. Previously my analysis was corresponding to recordings done with the first version of the H-reflex app:{name = hreflex_txbdc
+version = 0.0.1}, now I ran some recordings with the second version of the app which has a new structure of data files and stages, this app version is:{name = hreflex_txbdc
+version = 0.0.2}
+
+from Version 1, these were the original stages and their names:{
+emg_characterization_stage.py → stage_name = "S1" 
+mh_recruitment_curve_stage.py → stage_name = "S2" 
+}
+
+From Version 2, these are the new stages and their corresponding names:{
+emg_characterization_stage.py → stage_name = "S0" (Not being used at all anymore)
+mh_recruitment_curve_stage.py → stage_name = "S1" (New Stage 1 where everything Starts)
+control_mode_stage.py → stage_name = "S2" (New Stage 2)
+down_condition_pellet_stage.py → stage_name = "S3" (Stage 3)
+}
+
+
+
+
+Changes Made to my app and data files since the update :{Stage Registration (main_window.py)
+What changed: The app previously registered ConditioningModeStage as one of the three active stages. That was replaced.
+
+Currently registered stages (the only ones that appear in the dropdown):
+
+Slot	Class	Dropdown label
+1	MhRecruitmentCurveStage	(S1) MH Recruitment Curve
+2	ControlModeStage	(S2) Control Mode
+3	DownConditionPelletStage	(S3) Down Condition Pellet
+EmgCharacterizationStage (S0) and ConditioningModeStage (CM) exist as files but are never instantiated or shown.
+
+Data Files
+.hrs1 — MH Recruitment Curve Data (mh_recruitment_curve_data_file.py)
+File version: 7 (unchanged)
+No structural changes to the data file itself
+Fields written per trial: start time, EMG trial data, unipolar trial data, stim ADC data, sync data, thresholds, stim amplitude, onset/timing debug fields, background EMG mean & bins, stim polarity, digital sync event, frame timing
+.hrs2 — Control Mode Data (control_mode_data_file.py)
+File version: 7 (unchanged)
+No structural changes to the data file itself
+Fields are identical in structure to .hrs1 — same trial fields (background EMG, onset timing, etc.) — but no H-wave/M-wave response fields (those are computed on the fly from the raw trial_data array during plotting and histogram generation)
+.hrs3 — Down Condition Pellet Data (down_condition_pellet_data_file.py)
+File version: 8
+Six fields added beyond what .hrs1/.hrs2 carry:
+New field	Type	Meaning
+h_wave_response	float	H-wave MRA (µV) for this trial
+m_wave_response	float	M-wave MRA (µV) for this trial
+hm_ratio	float	H:M ratio for this trial
+success_threshold	float	30th-pct H-wave threshold at the time of this trial
+is_success	int	1 = H-wave was below threshold
+pellet_delivered	int	1 = TTL pulse sent to feeder
+.hrscm — Conditioning Mode Data (conditioning_mode_data_file.py)
+Still exists on disk as a class but is never produced — CM stage is unregistered
+Stage Files
+S1 — mh_recruitment_curve_stage.py
+What was added:
+
+_h_wave_values: list[float] and _m_wave_values: list[float] — accumulate every trial's H/M wave MRA for histogram display
+H/M wave computation added in the FINALIZE block — reads raw trial_data, applies the configured time-window masks, computes mean absolute EMG in each window, appends to the lists
+Three new histogram methods: _update_background_emg_histogram(), _update_h_wave_histogram() (includes 30th-percentile line), _update_m_wave_histogram()
+_compute_hist_stats() and _draw_rolling_histogram() shared helpers
+Session plot options expanded from 6 → 9 options (3 histogram views prepended):
+Background EMG Histogram
+H-Wave Histogram (includes 30th-percentile marker)
+M-Wave Histogram
+EMG Threshold
+Recruitment Curve
+Stim Count Histogram
+H/M Wave Size
+Trial Timeline
+ITI Distribution
+S2 — control_mode_stage.py
+What was added (mirrors S1 additions):
+
+_h_wave_values and _m_wave_values lists added to __init__ and reset in initialize()
+H/M wave computation in FINALIZE block (same window-mask approach as S1)
+Same five histogram methods added
+Session plot options expanded from 4 → 7 options (3 histogram views prepended):
+Background EMG Histogram
+H-Wave Histogram (includes 30th-percentile marker)
+M-Wave Histogram
+EMG Threshold
+H/M Wave Size
+Trial Timeline
+ITI Distribution
+set_timeline_use_hours() index guard updated from 4 → 5 to match new slot positions
+S3 — down_condition_pellet_stage.py
+This had the most significant changes:
+
+Data source corrected:
+
+Import changed from MhRecruitmentCurveDataFile → ControlModeDataFile
+initialize() now searches for a .hrs2 file (Control Mode data) instead of .hrs1
+All internal variables renamed: hrs1_found/hrs1_file_name/s1_data/s1_h_values/s1_m_values/s1_bg_values/s1_source → hrs2_*/s2_* equivalents
+Error messages updated to reference "S2 / Control Mode" instead of "S1 / MH Recruitment Curve"
+Amplitude behavior corrected:
+
+Previously: each new trial popped the next value from a pre-shuffled sweep array (_stimulation_amplitudes[0]), overwriting any M-wave stabilization adjustment
+Now: initialize() sets _current_stimulation_amplitude_ma = _user_min_stimulation_amplitude once, and the per-trial NOT_SETUP block no longer touches it — only the stabilizer adjusts it
+M-wave stabilization added (new feature):
+
+Three new fields: _m_wave_adjust_step_size_ma (default 1 µA), _m_wave_adjust_occurrence (default 1 trial), _m_wave_adjust_trial_counter
+After every trial in FINALIZE: counter increments; when it hits _m_wave_adjust_occurrence, the rolling window median is recomputed — if current trial M > median, amplitude steps down by adjust_step_ma; if below, steps up; clamped to [_user_min, _user_max]; then set_stimulation_amplitude() is called immediately
+set_stim_params() accepts two new optional kwargs: adjust_step_ma and adjust_occurrence
+Two new constants:
+
+M_WAVE_ADJUST_STEP_DEFAULT = 0.001 mA (1 µA — the hardware's minimum step)
+M_WAVE_ADJUST_OCCURRENCE_DEFAULT = 1
+CM — conditioning_mode_stage.py
+What was reverted/renamed (since it's no longer an active stage):
+
+stage_name changed back to "CM" (was incorrectly set to "S2" in a prior session)
+Save extension changed back to .hrscm (was incorrectly .hrs2, which conflicted with Control Mode)
+Prerequisite search reverted back to looking for .hrs2 files
+UI (main_window.py)
+Startup population bug fixed:
+
+blockSignals(True/False) added around addItems() — prevents the stage-selection signal from firing mid-construction before panels exist
+Explicit self._on_stage_selection_changed() call added at the very end of __init__ (after plot widgets are assigned to stages) — does the one true initial sync with everything present
+_sync_stage_controls_to_model() added:
+
+Called every time you switch stages
+Reads model values and pushes them into the UI fields using hasattr guards so it works across all stage types without crashing on missing fields
+setChecked now checked before setText in the _set helper — fixes the Sequential checkbox showing "False" instead of its label
+Two new Stim Params fields (S3-only):
+
+Adj Step (mA) — the per-adjustment step size for M-wave stabilization
+Adj Every — how many trials between amplitude adjustments
+Both fields are hidden for S1 and S2, visible only when S3 is selected (detected via hasattr(_m_wave_adjust_step_size_ma))
+Sequential/Polarity/Set buttons shifted from row 3 → row 4 to accommodate the new row}
+
+So I'm not sure the best way to do this, because the stage numbers have switched assignments, but their stage names and functions haven't (Mh_recruitment_curve_stage.py and emg_characterization_stage.py still serve the same functions byt Mh_recruitment_curve_stage.py is now the new "S1" while control-mode_stage.py (very similar to mh_recruitment_curve_stage.py) is now "S2"). Now the name of the functions I am currently using may not be the best of most representative anymore, but I don't know the best way to differentiate them and the files between the Version 1 App and the Version 2 App, maybe we should make another helpers.py file and call it @. I want you to think about this, and strategize, review your strategy, and then implement changes across my data base mainly @   , then go back and review the changes and make improvements
