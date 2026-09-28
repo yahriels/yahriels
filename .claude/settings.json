@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:www.fda.gov)",
+      "WebFetch(domain:www.gob.mx)",
+      "Bash(where pandoc *)",
+      "Bash(where python *)",
+      "Bash(where soffice *)",
+      "Bash(command -v pandoc)",
+      "Bash(command -v python)",
+      "Bash(command -v python3)",
+      "Bash(command -v soffice)",
+      "PowerShell(powershell -NoProfile -ExecutionPolicy Bypass -File \"C:\\\\Users\\\\DAL866~1\\\\AppData\\\\Local\\\\Temp\\\\claude\\\\c--Users-dal866445-Documents-Github-yahriels\\\\033e19d4-eda5-4530-9c37-97c2fec46146\\\\scratchpad\\\\build_docx.ps1\")"
+    ],
+    "additionalDirectories": [
+      "C:\\Users\\dal866445\\AppData\\Local\\Temp\\claude\\c--Users-dal866445-Documents-Github-yahriels\\033e19d4-eda5-4530-9c37-97c2fec46146\\scratchpad"
+    ]
+  }
+}

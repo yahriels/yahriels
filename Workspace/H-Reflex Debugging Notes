@@ -7,182 +7,216 @@ Can you actually go ahead help me significantly simplify this entire notebook @ 
 ---------
 
 
----------
-Make sure to update all your M-H Size Calculations: {H-wave size is to determine the average EMG amplitude within the H-reflex interval and subtract the average background (ongoing) EMG amplitude
-. This resulting value is then expressed in units of the background EMG amplitude to normalize the measurement} so in the app when I show the M-H Waves, it should always show the M-H Wave Size Calculation as I just described. These are the measurements we will use for everything. Is if it says M-Wave MRA, instead use M-wave Size, and do the same for H-Wave MRA to H-Wave Size
-
-emg_characterization_stage.py → stage_name = "S0" (Not being used at all anymore)
-mh_recruitment_curve_stage.py → stage_name = "S1" (New Stage 1 where everything Starts)
-control_mode_stage.py → stage_name = "S2" (New Stage 2)
-down_condition_pellet_stage.py → stage_name = "S3" (Stage 3)
-
-----
-
-I want S1 and S2 (S0 will not be included in the app whatsoever) to compute the emg background emg histogram, A Histogram of the M:Wave Size Calculations, and Histogram of the H:Wave Size Calculations, Each with corresponding Quartile calculations and in this case with the down-conditioning the bottom 30th percentile of the H-wave size histogram. Then Stage 3 Will load in this data, and when it does it will randomly select 100 trials and recalculate those M-Wave Size Histogram, H-Wave Size Histogram, EMG Background, and then re-calculate the quartiles, and then the 30th percentile of the H-Wave Size Histogram and then set that as the success threshold. So on a per-trial basis as a new trial is counted, the oldest trial is thrown out and the newest trial is added to the 100 trials moving average window, and after each trial, the histograms and all the metrics are re-calculated, including the 30th percentile of the H-Wave Size Histogram and recalculate the success threshold. On a per-trial basis for this down-conditioning mode, a trial is considered successful when the H-wave Size of the current trial is below the success threshold in the H-wave interval. Which then immediately following the success a ttl pulse is sent to the feeder and a food pellet is dispensed, then the cycle repeats over again where the trial is added to the 100 trial moving average window then the process starts again. In the case of an unsuccessful trial, the protocol and process is the same, but no TTL pulse is sent to the Feeder to delivery a food pellet, the trial is only counted. For this stage 3 I want to track successful and unsuccessful trials. 
-
-
-----
-
-In my Notebooks @src/open_ephys/analysis/Post_Hoc_Global_Windowing_copy.ipynb  @src/open_ephys/analysis/Post_Hoc_Global_Windowing.ipynb @src/open_ephys/analysis/Read_H-Reflex_App_Simplified.ipynb @src/open_ephys/analysis/Read_H-Reflex_App.ipynb    in all the interactive viewers where you can see the peri-stimulus plots of the trials such as this section :{plot_hrs2_analysis(
-    hrs2_trials, hrs2_header,
-    pre_avg_ms=PRE_AVG_MS, post_avg_ms=POST_AVG_MS,
-    n_per_page=N_PER_PAGE,
-    m_start_ms=M_WAVE_START_MS, m_end_ms=M_WAVE_END_MS,
-    h_start_ms=H_WAVE_START_MS, h_end_ms=H_WAVE_END_MS,
-    sample_rate=recording_sample_rate or hrs1_header.sample_rate,
-    emg_blocks=hrs2_emg_blocks,
-)} and here:{plot_hrs2_trials(
-    hrs2_trials, hrs2_header,
-    pre_plot_ms=PRE_PLOT_MS, post_plot_ms=POST_PLOT_MS,
-    n_per_page=N_PER_PAGE,
-    m_start_ms=M_WAVE_START_MS, m_end_ms=M_WAVE_END_MS,
-    h_start_ms=H_WAVE_START_MS, h_end_ms=H_WAVE_END_MS,
-    sample_rate=recording_sample_rate or hrs1_header.sample_rate,
-    emg_blocks=hrs2_emg_blocks,
-)} and all the down-stream vieweres as well (bin viewers) I want the option to add something to the labels (that can be toggled on/off) To add the Background EMG range for that given stimulation group/intensity or stimulation trial. Also to all these labels, I also want it numerical to show until the 3rd decimal place. I also somewhere (wherever you feel it makes most sense), I wnt the option to manually select some stim groups, and group them together (meaning take their stimulation intensities, add them together and average them, as well as all their trials as a single group average and so on). When I view this manually selected grouped average of groups, I would like it to show as the calculated average stimulation intensity (in mA) with a tolerance/range. Now review everything I gave you, then make the changes, then review your changes and compare them back to the requirements I gave you, then make improvements for usability, and then go through and simplify the work flow and break out any helper functions to @src/open_ephys/analysis/helpers.py  
-
-
------------
-
-Ok so now I want to incorporate a new feature into my S3 of my app, which is M-Wave Stabilization described as a process of monitoring the M-wave size on a trial-per-trial basis by monitoring the trial-wise M-Wave size as well as the moving average M-wave 100 trial moving window, where there is a M-wave size histogram of 100 trials, and when a new trial is counted, the oldest trial is thrown out and the newest trial is added to the histogram calculations to maintain the 100 trial moving window. After each new trial is counted, the histogram should recalculate all of the metrics, mainly the Q2. Now where the new feature comes in is after re-calculating the histogram metrics with the new trial, if the most recent/current trial is above the median (Q2) then the system/S3 protocol will go down a step in the stimulation intensity settings (in mA) to try to get the current M-wave size for the trial closer to the median. If the current trial is below the median of the 100 trial M-wave distribution, then it will go up a step in the stimulation intensity setting to try to get the current trial M-wave size closer to the median. Do you understand this feature and auto-adjusting protocol? The point is to keep the M-wave size at the same size throughout the entire session.
-
-Now to do this we mainly need 2 parameters to be defined, so make the section in the "Stim Params" section to include adjust step-size (The step-size that S3 will take when making adjusting to the stimulation intensity settings) and the next is the adjust occurrence where "1" would mean that it makes stim amp adjustments after every trial where as "5" would mean making stim amp adjustments after every 5 trials. 
-
 ------------
 In my data files of this app, is my data files tracking which version of the app was used?  as in :{name = hreflex_txbdc
 version = 0.0.1} or {name = hreflex_txbdc
 version = 0.0.2}?, if not can I have it do that across all my data files
 -----------
 
+# M-wave stabilization
+The way this M-wave stabilization error or M-wave Control algorithm should work is by tracking the median of m-wave distribution/histogram of the moving window, and making adjustments in the stimulation amplitude to get the value of the median of the moving window m-wave distribution to be the same or closer to the set value, to minimize the M-wave Control Error which is described as the difference value between the set value and the median value of the defined moving window m-wave distribution/histogram
+
+Again how this M-wave stabilization algorithm should work is that when the median of the m-wave window histogram is above the set value, it should incrementally lower the the stimulation intensity/amplitude with the given "Adj Step" and "Adj Every" parameters. If the median of the m-wave window histogram is below the set-value, then it should incrementally increase the stimulation intensity/amplitude setting with the given "Adj Step" and "Adj Every" parameters.
 
 
-Ok, So I need to update my codebase. Previously my analysis was corresponding to recordings done with the first version of the H-reflex app:{name = hreflex_txbdc
-version = 0.0.1}, now I ran some recordings with the second version of the app which has a new structure of data files and stages, this app version is:{name = hreflex_txbdc
-version = 0.0.2}
-
-from Version 1, these were the original stages and their names:{
-emg_characterization_stage.py → stage_name = "S1" 
-mh_recruitment_curve_stage.py → stage_name = "S2" 
-}
-
-From Version 2, these are the new stages and their corresponding names:{
-emg_characterization_stage.py → stage_name = "S0" (Not being used at all anymore)
-mh_recruitment_curve_stage.py → stage_name = "S1" (New Stage 1 where everything Starts)
-control_mode_stage.py → stage_name = "S2" (New Stage 2)
-down_condition_pellet_stage.py → stage_name = "S3" (Stage 3)
-}
+for the frequency test stage, I want to replicate the similar gui structure of the S2-S6 where there is a separate independent section for the parameters of the m-wave stabilization algorithm, except in this case it will be all the parameters for the frequency trains which may include the number of pulses in a train, the duration of the train, the frequency of the train, the inter-pulse period/interval, as well as the inter-train interval delay. Some of these are defined by the other such as the inter-pulse period directly affects and is dependent on the frequency defined, so in the case that some parameters are coupled together, if you change one, I automatically want the other one to update based on the given parameter. So if I set the frequency to 5 hz then the inter-pulse period parameter should automatically change to 0.2 seconds for example if I change the frequency definition. And it should work the other way too, if I set the inter-pulse period to 0.2 seconds, it should automatically update the frequency definition to match based on the inter-pulse period definition I inputted. Also in my most-recent trial plots I want to see all the waveforms from the pulses overlapped within a single graph for a trial. In this case, 1 trial is equal to 1 train. So a trial is going to include all the pulses defined by the number of pulses in the train. On the center-most console, I also want to view a plot of the m-h wave sizes vs # pulse throughout the train to see how the m-h wave sizes changes throughout the trains/trails. Please strategize, think about the best way to make these changes and improvements to be as fail-safe as possible then execute the changes. After the changes are made, then go back and review the changes to make sure they meet all my requirements and that there aren't any bugs and that you have indeed followed all of my directions.   
 
 
+# "HRPilot-17_Control/CC1_HRPILOT-17_BOOTH1_500US_6-30-26"
+# "HRPilot-17_Control/CC2_HRPILOT-17_BOOTH1_500US_7-2-26"
+# "HRPilot-17_Control/CC3_HR-PILOT-17_BOOTH1_500US_7-3-26"
+# "HRPilot-17_Control/CC4_HR-PILOT-17_BOOTH1_500US_7-6-26"
+# "HRPilot-17_Control/CC5_HRPILOT-17_BOOTH1_500US_7-8-26"
+# "HRPilot-17_Control/CC6_HRPILOT-17_BOOTH1_500US_7-10-26"
+
+# "HRPilot-17_Control/HRPILOT-17_M-WAVE_ALGORITHM_TEST_BOOTH1_7-14-26"
+# "HRPilot-17_Control/HRPILOT-17_CONTROL_BOOTH1_250US_7-16-26"
+# "HRPilot-17_Control/HRPILOT-17_CONTROL2_BOOTH1_250US_10KHZ_7-17-26"
+# "HRPilot-17_Control/HRPILOT-17_CONTROL3_BOOTH1_250US_10KHZ_7-21-26" <-->
+# "HRPilot-17_Control/HRPILOT-17_CONTROL4_BOOTH1_250US_10KHZ_7-22-26"
+
+---
+# "HRPilot-18_Control/CC1_HRPILOT-18_BOOTH1_500US_6-29-26"
+# "HRPilot-17_Control/CC2_HRPILOT-17_BOOTH1_500US_7-2-26"
+# "HRPilot-18_Control/CC3_HRPILOT-18_BOOTH1_500US_7-6-26"
+# "HRPilot-18_Control/CC3_HRPILOT-18_BOOTH1_500US_7-7-26"
+# "HRPilot-18_Control/CC5_HRPILOT-18_BOOTH1_500US_7-8-26"
+# "HRPilot-18_Control/CC6_HRPILOT-18_BOOTH1_500US_7-9-26"
+
+# "HRPilot-18_Control/HRPILOT-18_M-WAVE_ALGORITHM_TEST_BOOTH1_7-16-26"
+# "HRPilot-18_Control/HRPILOT-18_CONTROL1_BOOTH2_250US_10KHZ_7-17-26" <-->
+# "HRPilot-17_Control/HRPILOT-18_CONTROL2_BOOTH1_500US_7-20-26"
+# "HRPilot-18_Control/HRPILOT-18_CONTROL3_BOOTH2_250US_10KHZ_7-21-26"
+# "HRPilot-18_Control/HRPILOT-18_CONTROL4_BOOTH2_250US_10KHZ_7-22-26"
+
+-------------
+
+Ok so now I am getting something weird when I am running my app. A week ago I completely tore down and re-setup up my recording hardware set-up that this H-reflex App has been using to perform it's purpose. And I also had to upgrade to the new version of the Open Ephys GUI to v.1.0 from v.6.7 (not sure if it matters). But now, specifically with controlling the am-stimulator. What is happening, that now when I am trying to send my regular singular biphasic pulse 
 
 
-Changes Made to my app and data files since the update :{Stage Registration (main_window.py)
-What changed: The app previously registered ConditioningModeStage as one of the three active stages. That was replaced.
 
-Currently registered stages (the only ones that appear in the dropdown):
 
-Slot	Class	Dropdown label
-1	MhRecruitmentCurveStage	(S1) MH Recruitment Curve
-2	ControlModeStage	(S2) Control Mode
-3	DownConditionPelletStage	(S3) Down Condition Pellet
-EmgCharacterizationStage (S0) and ConditioningModeStage (CM) exist as files but are never instantiated or shown.
+# Potential sources of bugs. 2 ethernet adapter ports?
+--------
 
-Data Files
-.hrs1 — MH Recruitment Curve Data (mh_recruitment_curve_data_file.py)
-File version: 7 (unchanged)
-No structural changes to the data file itself
-Fields written per trial: start time, EMG trial data, unipolar trial data, stim ADC data, sync data, thresholds, stim amplitude, onset/timing debug fields, background EMG mean & bins, stim polarity, digital sync event, frame timing
-.hrs2 — Control Mode Data (control_mode_data_file.py)
-File version: 7 (unchanged)
-No structural changes to the data file itself
-Fields are identical in structure to .hrs1 — same trial fields (background EMG, onset timing, etc.) — but no H-wave/M-wave response fields (those are computed on the fly from the raw trial_data array during plotting and histogram generation)
-.hrs3 — Down Condition Pellet Data (down_condition_pellet_data_file.py)
-File version: 8
-Six fields added beyond what .hrs1/.hrs2 carry:
-New field	Type	Meaning
-h_wave_response	float	H-wave MRA (µV) for this trial
-m_wave_response	float	M-wave MRA (µV) for this trial
-hm_ratio	float	H:M ratio for this trial
-success_threshold	float	30th-pct H-wave threshold at the time of this trial
-is_success	int	1 = H-wave was below threshold
-pellet_delivered	int	1 = TTL pulse sent to feeder
-.hrscm — Conditioning Mode Data (conditioning_mode_data_file.py)
-Still exists on disk as a class but is never produced — CM stage is unregistered
-Stage Files
-S1 — mh_recruitment_curve_stage.py
-What was added:
+The Core Scaling Challenges
+Before strategies, there are two problems to solve regardless of approach:
 
-_h_wave_values: list[float] and _m_wave_values: list[float] — accumulate every trial's H/M wave MRA for histogram display
-H/M wave computation added in the FINALIZE block — reads raw trial_data, applies the configured time-window masks, computes mean absolute EMG in each window, appends to the lists
-Three new histogram methods: _update_background_emg_histogram(), _update_h_wave_histogram() (includes 30th-percentile line), _update_m_wave_histogram()
-_compute_hist_stats() and _draw_rolling_histogram() shared helpers
-Session plot options expanded from 6 → 9 options (3 histogram views prepended):
-Background EMG Histogram
-H-Wave Histogram (includes 30th-percentile marker)
-M-Wave Histogram
-EMG Threshold
-Recruitment Curve
-Stim Count Histogram
-H/M Wave Size
-Trial Timeline
-ITI Distribution
-S2 — control_mode_stage.py
-What was added (mirrors S1 additions):
+1. Channel routing from Open Ephys
+Right now the app expects a fixed channel layout (ch0=unipolar EMG, ch1=bipolar, ch2=sync, ch3=stim ADC, etc.). With two booths you'd have twice as many channels. You need a way to tell each booth "your channels are indices 0–6" and "Booth 2's channels are 7–13." Open Ephys already includes a stream_name and channel_name in every published data block — this is the natural hook to use for routing.
 
-_h_wave_values and _m_wave_values lists added to __init__ and reset in initialize()
-H/M wave computation in FINALIZE block (same window-mask approach as S1)
-Same five histogram methods added
-Session plot options expanded from 4 → 7 options (3 histogram views prepended):
-Background EMG Histogram
-H-Wave Histogram (includes 30th-percentile marker)
-M-Wave Histogram
-EMG Threshold
-H/M Wave Size
-Trial Timeline
-ITI Distribution
-set_timeline_use_hours() index guard updated from 4 → 5 to match new slot positions
-S3 — down_condition_pellet_stage.py
-This had the most significant changes:
+2. State isolation
+Each booth needs to run a completely independent session — different stage, different settings, different trial history. Today ApplicationConfiguration is a global singleton. That has to become per-booth state.
 
-Data source corrected:
+Strategy 1: Multiple Processes + Lightweight Dashboard (Lowest risk, fastest to implement)
+Run one app process per booth, just as it works today. ZMQ PUB/SUB already natively supports multiple subscribers — all instances can connect to the same tcp://localhost:5556 and each gets a full copy of the published data. You add a channel-filter so each instance only processes the channels assigned to its booth.
 
-Import changed from MhRecruitmentCurveDataFile → ControlModeDataFile
-initialize() now searches for a .hrs2 file (Control Mode data) instead of .hrs1
-All internal variables renamed: hrs1_found/hrs1_file_name/s1_data/s1_h_values/s1_m_values/s1_bg_values/s1_source → hrs2_*/s2_* equivalents
-Error messages updated to reference "S2 / Control Mode" instead of "S1 / MH Recruitment Curve"
-Amplitude behavior corrected:
+Changes needed to the existing app:
 
-Previously: each new trial popped the next value from a pre-shuffled sweep array (_stimulation_amplitudes[0]), overwriting any M-wave stabilization adjustment
-Now: initialize() sets _current_stimulation_amplitude_ma = _user_min_stimulation_amplitude once, and the per-trial NOT_SETUP block no longer touches it — only the stabilizer adjusts it
-M-wave stabilization added (new feature):
+Add zmq_channel_prefix (or channel index range) to the Booth object and config JSON so each instance knows which OE channels are "its"
+Each instance is already isolated — different stimulator IP, different data directory, different window
+For the "see all booths at once" requirement, add a separate read-only dashboard app (a second small Python/PySide6 process) that:
 
-Three new fields: _m_wave_adjust_step_size_ma (default 1 µA), _m_wave_adjust_occurrence (default 1 trial), _m_wave_adjust_trial_counter
-After every trial in FINALIZE: counter increments; when it hits _m_wave_adjust_occurrence, the rolling window median is recomputed — if current trial M > median, amplitude steps down by adjust_step_ma; if below, steps up; clamped to [_user_min, _user_max]; then set_stimulation_amplitude() is called immediately
-set_stim_params() accepts two new optional kwargs: adjust_step_ma and adjust_occurrence
-Two new constants:
+Reads a small shared state file (e.g. JSON) each booth instance writes after every trial (current stage, last trial result, stim amplitude, H/M ratio, etc.)
+Displays a compact summary card per booth, auto-refreshing every few seconds
+Pros: Core session logic is completely untouched. Each booth is maximally isolated — a crash in one doesn't affect others. Easy to add/remove booths.
 
-M_WAVE_ADJUST_STEP_DEFAULT = 0.001 mA (1 µA — the hardware's minimum step)
-M_WAVE_ADJUST_OCCURRENCE_DEFAULT = 1
-CM — conditioning_mode_stage.py
-What was reverted/renamed (since it's no longer an active stage):
+Cons: You have N separate full windows to manage. The dashboard is read-only, not interactive. Shared state file needs a lightweight write protocol to avoid corruption.
 
-stage_name changed back to "CM" (was incorrectly set to "S2" in a prior session)
-Save extension changed back to .hrscm (was incorrectly .hrs2, which conflicted with Control Mode)
-Prerequisite search reverted back to looking for .hrs2 files
-UI (main_window.py)
-Startup population bug fixed:
+Strategy 2: Single App, Per-Booth Panels (Medium refactor, best day-to-day UX)
+Refactor the app to support multiple booths in one window. The window gets a top-level layout: a compact status bar row across the top showing all booths at a glance, and below it either tabs (one per booth, full UI) or a split-pane grid (all visible at once, condensed).
 
-blockSignals(True/False) added around addItems() — prevents the stage-selection signal from firing mid-construction before panels exist
-Explicit self._on_stage_selection_changed() call added at the very end of __init__ (after plot widgets are assigned to stages) — does the one true initial sync with everything present
-_sync_stage_controls_to_model() added:
+The model refactor needed:
 
-Called every time you switch stages
-Reads model values and pushes them into the UI fields using hasattr guards so it works across all stage types without crashing on missing fields
-setChecked now checked before setText in the _set helper — fixes the Sequential checkbox showing "False" instead of its label
-Two new Stim Params fields (S3-only):
+ApplicationConfiguration becomes a list of per-booth config objects, each holding its own stimulator connection, current stage, session state, etc.
+The stage classes (S1–S6, FT) are already instanced objects — they just need to be instantiated once per booth rather than once globally
+The main window creates one StageWidget (or equivalent) per booth and routes incoming OE channel data to the correct booth by channel prefix
+Pros: One window, no IPC needed, you can interact with any booth from the same UI. Cleanest long-term architecture.
 
-Adj Step (mA) — the per-adjustment step size for M-wave stabilization
-Adj Every — how many trials between amplitude adjustments
-Both fields are hidden for S1 and S2, visible only when S3 is selected (detected via hasattr(_m_wave_adjust_step_size_ma))
-Sequential/Polarity/Set buttons shifted from row 3 → row 4 to accommodate the new row}
+Cons: Most upfront work. The singleton ApplicationConfiguration pattern needs to be broken. If one booth's stage code has a bug that raises an unhandled exception it could affect the whole process.
 
-So I'm not sure the best way to do this, because the stage numbers have switched assignments, but their stage names and functions haven't (Mh_recruitment_curve_stage.py and emg_characterization_stage.py still serve the same functions byt Mh_recruitment_curve_stage.py is now the new "S1" while control-mode_stage.py (very similar to mh_recruitment_curve_stage.py) is now "S2"). Now the name of the functions I am currently using may not be the best of most representative anymore, but I don't know the best way to differentiate them and the files between the Version 1 App and the Version 2 App, maybe we should make another helpers.py file and call it @. I want you to think about this, and strategize, review your strategy, and then implement changes across my data base mainly @   , then go back and review the changes and make improvements
+Strategy 3: Process-per-Booth + Orchestrator (Most scalable, most work)
+Each booth runs as a self-contained subprocess. A separate orchestrator process launches them, monitors their health, and provides the central dashboard. Booths publish their state over ZMQ (a separate PUB socket per booth process) and the orchestrator subscribes to all of them.
+
+Pros: True fault isolation. Easily scalable to 4, 6, 8 booths. The orchestrator can restart a crashed booth.
+
+Cons: Significant engineering investment. Probably overkill for a lab system with 2–4 booths.
+
+My Recommendation
+Start with Strategy 1 for the near term. The changes to the existing app are small, you get running multi-booth sessions quickly, and you can validate your channel routing design before committing to a bigger refactor. Specifically:
+
+Add channel_start_index and channel_count (or a stream_name_filter) to the Booth config
+Have each instance filter the OE data stream to only process its assigned channels
+Write a minimal dashboard app (100–150 lines of PySide6) that reads a shared state JSON each booth writes, showing one card per booth
+Then, if you end up with 3+ booths and the multi-window UX becomes painful, migrate to Strategy 2 — by that point you'll have a clear picture of exactly what per-booth state needs to be isolated, making the refactor much more deliberate.
+
+Before I start on anything: how many booths are you targeting? 2 is very manageable with Strategy 1. If you're thinking 4–6, Strategy 2 is worth doing properly from the start.
+
+
+
+-----------
+Ok so a few things, I have the booth 1 working with these assignments from the edit booth config screen :{EMG 1 = 1; EMG 2 = 2; ANALOGIN 1: Stim Adc = 5; DIGIN 1: Sync (Digital) = 1; DIGOUT 1: Manual Trig = 1} where I have my ZMQ interface organized in this this fashion with these signal/channel assignments:{ Ch 1 = Booth 1 EMG 1, CH 2 = Booth 1 EMG 2. Ch 3 = Booth 2 EMG 1, Ch 4 = Booth 2 EMG 2, Ch 5 = Booth 1 Stim ADC, Ch 6 = Booth 1 Unassigned, Ch 7 = Booth 2 Stim ADC, Ch 8 = Booth 2 Unassigned} a caveat is, that I do have another channel at the beginning that is like a Ch 0 in the zmq interface, but I did not select it to be streamed, so the app shouldn't be receiving that data stream (which means we have ZMQ channels 1-8). Now as far as hardwired, I have the Booth 1 stimulator configured as such physically:{ Stimulation output (Stim ADC) --> ANALOGIN Port #1; Sync Output (Sync digital) --> DIGITALIN Port #1} then for Booth 2 I have is configured as such physically:{Stimulation output (Stim ADC) --> ANALOGIN Port #2; Sync Output (Sync digital) --> DIGITALIN Port #2}. However, Booth #1 works completely when I have the assignments set as in the edit booth config screen for booth #1 and it works all correctly where it times alingns correctly (there is no "no sync" error) and I see the stim adc pulse. However, when I have these assignments for Booth #2 in the edit booth config screen :{EMG 1 = 3; EMG 2 = 4; ANALOGIN 2: Stim Adc = 7, DIGIN 2: Sync (Digital) = 2; DIGOUT 2: Manual Trig = 2} I am getting a "No sync error" and don't see the stim adc pulse even tho everything is wired in. Here is the error I get from the console:{2026-08-19T17:50:04] Trial 2 initiated. Stimulation amplitude: 0.10000 mA, threshold = [0.00, 7000.00]
+[2026-08-19T17:50:04] [FAILED STIM TRIAL] No stim onset detected (digital or ADC) — plot zeroed at trigger boundary (sample 500). Check stimulator connection and sync cable/digital input.
+[2026-08-19T17:50:16] [DEBUG] Stim criteria met | wall_time=1787179816922 ms | OE_sample_id=149279 | amp=0.20000 mA
+[2026-08-19T17:50:16] [DEBUG] trigger_single() sent | trigger_wall_time=1787179816923 ms | OE_sample_id=149279 | decision→trigger latency=1 ms
+[2026-08-19T17:50:17] [DEBUG] Trial finalized | onset_source=none | onset_detected=0 | onset_sample=-1 | digital_sample_num=N/A | digital_edge=N/A | end_sample=-1 | stim_dur_ms=0.000 | sync_peak_V=0.000 | pre_trigger_frames_discarded=0 | first_frame_delay_ms=59.0 | first_OE_sample=149770
+[2026-08-19T17:50:17] Trial 3 initiated. Stimulation amplitude: 0.20000 mA, threshold = [0.00, 7000.00]
+[2026-08-19T17:50:17] [FAILED STIM TRIAL] No stim onset detected (digital or ADC) — plot zeroed at trigger boundary (sample 500). Check stimulator connection and sync cable/digital input.}:{01 set active run
+
+[Booth 2] frames=15 spf=580.1 min=490 max=613 sr=10000
+[Booth 2] frames=23 spf=580.8 min=490 max=613 sr=10000
+[Booth 2] frames=18 spf=578.7 min=490 max=613 sr=10000
+[Booth 2] frames=18 spf=585.6 min=490 max=613 sr=10000
+[Booth 2] frames=18 spf=571.9 min=490 max=613 sr=10000
+[Booth 2] frames=18 spf=585.6 min=490 max=613 sr=10000
+[Booth 2] frames=18 spf=578.8 min=490 max=613 sr=10000
+[Booth 2] frames=18 spf=585.6 min=490 max=613 sr=10000
+[Booth 2] frames=18 spf=578.8 min=490 max=613 sr=10000
+[Booth 2] frames=18 spf=578.7 min=490 max=613 sr=10000
+[Booth 2] frames=18 spf=578.8 min=490 max=613 sr=10000
+[Booth 2] frames=18 spf=585.6 min=490 max=613 sr=10000
+[DEBUG] Stim criteria met | wall_time=1787179816922 ms | OE_sample_id=149279 | amp=0.20000 mA
+[DEBUG] trigger_single() sent | trigger_wall_time=1787179816923 ms | OE_sample_id=149279 | decision→trigger latency=1 ms
+Command: 1001 set trigger one
+Response received: 
+1001 set trigger one
+
+[DIGIN RAW] Digital Input 1 (falling) at sample 149859
+[DIGIN RAW] Digital Input 1 (falling) at sample 149864
+[DEBUG] Trial finalized | onset_source=none | onset_detected=0 | onset_sample=-1 | digital_sample_num=N/A | digital_edge=N/A | end_sample=-1 | stim_dur_ms=0.000 | sync_peak_V=0.000 | pre_trigger_frames_discarded=0 | first_frame_delay_ms=59.0 | first_OE_sample=149770
+C:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\stages\mh_recruitment_curve_stage.py:2152: RuntimeWarning: libpyside: Failed to disconnect (<bound method MhRecruitmentCurveStage._on_trial_emg_yrange_changed of <hreflex_txbdc.model.stages.mh_recruitment_curve_stage.MhRecruitmentCurveStage object at 0x00000207025FF770>>) from signal "sigYRangeChanged(PyObject,PyObject)".
+  self._trial_widget.getPlotItem().vb.sigYRangeChanged.disconnect(self._on_trial_emg_yrange_changed)
+[FAILED STIM TRIAL] No stim onset detected (digital or ADC) — plot zeroed at trigger boundary (sample 500). Check stimulator connection and sync cable/digital input.
+Command: 1001 set active stop
+Response received: 
+1001 set active stop
+
+Command: 1001 set active stop
+Response received: 
+1001 set active stop
+
+Command: 1001 set menu 0 0 1
+Response received: 
+1001 set menu 0 0 1
+
+Command: 1001 set active stop
+Response received: 
+1001 set active stop
+
+Command: 1001 set menu 0 3 1
+Response received: 
+1001 set menu 0 3 1
+
+Command: 1001 set active stop
+Response received: 
+1001 set active stop
+
+Command: 1001 set menu 7 1 0
+Response received: 
+1001 set menu 7 1 0
+
+Command: 1001 set active stop
+Response received: 
+1001 set active stop
+
+Command: 1001 set menu 7 4 1
+Response received: 
+1001 set menu 7 4 1
+
+Command: 1001 set active stop
+Response received: 
+1001 set active stop
+
+Command: 1001 set menu 10 3 0
+Response received: 
+1001 set menu 10 3 0
+
+Command: 1001 set active stop
+Response received: 
+1001 set active stop
+
+Command: 1001 set menu 10 2 1
+Response received: 
+1001 set menu 10 2 1
+
+Command: 1001 set active stop
+Response received: 
+1001 set active stop
+
+Command: 1001 set menu 10 4 1
+Response received: 
+1001 set menu 10 4 1
+
+Command: 1001 set active stop
+Response received: 
+1001 set active stop
+
+Command: 1001 set menu 10 6 250
+Response received: 
+1001 set menu 10 6 250
+
+Command: 1001 set active stop
+Response received: 
+1001 set active stop
+
+Command: 1001 set menu 10 5 500} can you help me track down the problem and tell me what I am doing wrong, or find the bug and fix it? Also, with the DIGIN sync (digital) onset detection option, it seems to be working, but I also want to see the offset of when the pulse is completed based on the digitial signal of the sync pulse
