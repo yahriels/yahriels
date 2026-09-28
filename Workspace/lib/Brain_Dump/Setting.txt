@@ -1,0 +1,19 @@
+HRPilot-36
+M_WAVE_START_MS = 2 
+M_WAVE_END_MS= 4
+H_WAVE_START_MS = 5.6   
+H_WAVE_END_MS   = 10
+
+INIT: 85/115-225, 150-325
+
+HRPilot-34
+
+
+
+
+
+
+
+
+
+

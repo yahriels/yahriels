@@ -13,210 +13,161 @@ version = 0.0.1} or {name = hreflex_txbdc
 version = 0.0.2}?, if not can I have it do that across all my data files
 -----------
 
-# M-wave stabilization
-The way this M-wave stabilization error or M-wave Control algorithm should work is by tracking the median of m-wave distribution/histogram of the moving window, and making adjustments in the stimulation amplitude to get the value of the median of the moving window m-wave distribution to be the same or closer to the set value, to minimize the M-wave Control Error which is described as the difference value between the set value and the median value of the defined moving window m-wave distribution/histogram
+When I am looking at the M-wave and H-wave size calculations between these two configurations of filtering I am getting two very different calculations for each and very different calculations for pre-stim EMG (pre-stim emg should not be very different in the calculation), for clarity the filtfilt filtering option is supposed to grab 200 ms of data before and after the stimulation onset as far as a sampling window for which two do the 2-way filtering over, do some invesigation because when I am using this section to view a recording with filtfilt:{# ── HRS2 Analysis: Interactive Averaged Waveforms + Recruitment Curve ─────────
+from ipywidgets import Output, VBox
+from IPython.display import display as _disp
 
-Again how this M-wave stabilization algorithm should work is that when the median of the m-wave window histogram is above the set value, it should incrementally lower the the stimulation intensity/amplitude with the given "Adj Step" and "Adj Every" parameters. If the median of the m-wave window histogram is below the set-value, then it should incrementally increase the stimulation intensity/amplitude setting with the given "Adj Step" and "Adj Every" parameters.
+_ana_out = Output()
+
+def _ana_refresh():
+    _sk, _st, _sh, _se, _slbl, _sr, _rec, _h1 = _ana_get_state()
+    if _sk == 'frequency_test':
+        with _ana_out:
+            _ana_out.clear_output(wait=True)
+            print('HRS2 Analysis is not available for Frequency Test (.hrsft) stages.\n'
+                  'Use the Frequency Test viewer section below.')
+        return
+    _tp = _apply_merge(_st)
+    with _ana_out:
+        _ana_out.clear_output(wait=True)
+        print(f'\n── Analysis: {_slbl}  ({len(_st)} trials)  [{_rec}]')
+        plot_hrs2_analysis(
+            _tp, _sh,
+            pre_avg_ms=PRE_AVG_MS, post_avg_ms=POST_AVG_MS,
+            n_per_page=N_PER_PAGE,
+            m_start_ms=M_WAVE_START_MS, m_end_ms=M_WAVE_END_MS,
+            h_start_ms=H_WAVE_START_MS, h_end_ms=H_WAVE_END_MS,
+            sample_rate=_sr,
+            emg_blocks=_se,
+        )
+
+_ana_ctrl, _ana_get_state, _ana_sync = _make_viewer_selector(_ana_refresh)
+_refresh_viewers['hrs2_analysis'] = _ana_sync
+_disp(VBox([_ana_ctrl, _ana_out]))
+_ana_refresh()
+} in @src/open_ephys/analysis/Read_H-Reflex_App.ipynb  @src/open_ephys/analysis/Read_H-Reflex_App_Simplified.ipynb  I am getting a  value of of 313.17 uV for example for one set of data from a recording, but then when I come over to view the exact same data but with the lfilter option here:{# ── FILTER_CONFIG: choose the signal pipeline used in this analysis cell ───────
+#
+# 'default'            → app's own stored trial_data (100–1000 Hz sosfilt, causal).
+# 'bp_100_1000_ff'     → 100–1000 Hz bandpass, filtfilt (zero-phase).
+# 'raw_diff'           → ch_b − ch_a only, NO bandpass.
+# 'bp_3_5000_ff'       → 3–5000 Hz bandpass, order 3, filtfilt (zero-phase).
+# 'bp_3_5000_ff_notch' → 3–5000 Hz bandpass, order 3, filtfilt + 60 Hz notch.
+#
+# Onset alignment (all non-default configs):
+#   Cross-correlates the session-long filtered signal against trial.trial_data to
+#   find the exact onset — same approach as reconstruct_raw_peristimulus.py,
+#   verified 0.0000% error.  Wall-clock proximity (trigger_wall_time_ms) narrows
+#   the search window; blk.ts_background_emitted orders the blocks chronologically.
+#   ts_open_ephys_sent is NOT used — it carries wall-clock ms, not OE sample numbers.
+FILTER_CONFIG   = 'bp_100_1000_ff'  # choose one of the above configs
+ONSET_OFFSET_MS = 0.0   # kept for API compatibility; not used
+
+import copy as _copy
+
+# Session filter cache — persists across renders; cleared when this cell is re-run.
+_SESSION_CACHES = {}
+
+def _apply_filter_config(trials, emg_blocks, sr, config, onset_offset_ms=0.0):
+    """Return trials with trial_data replaced by the chosen offline filter config.
+
+    All non-default configs:
+      1. Build session cache once (sosfilt 100-1000 Hz, used for xcorr alignment).
+      2. Slice raw_diff from the cache with a 300 ms warmup prepended.
+      3. Apply the config's filter to the extended window.
+      4. Trim the warmup and store the result in tc.trial_data.
+      5. Re-slice stim_adc_data to the same (pre_ms, post_ms) window so
+         plot_hrs2_analysis can index it correctly with the new onset_sample_index.
+    """
+    if config == 'default':
+        return trials
+
+    _pre_ms      = PRE_AVG_MS
+    _post_ms     = POST_AVG_MS
+    _pre_samp    = int(round(_pre_ms  * sr / 1000.0))
+    _post_samp   = int(round(_post_ms * sr / 1000.0))
+    _WARMUP_MS   = 300.0
+    _warmup_samp = int(round(_WARMUP_MS * sr / 1000.0))
+
+    # Build session cache once per stage (needed for xcorr alignment in all configs).
+    _cache_key = id(emg_blocks[0]) if emg_blocks else 0
+    if _cache_key not in _SESSION_CACHES:
+        print('Building session filter cache (one-time per stage)...')
+        _SESSION_CACHES[_cache_key] = build_session_emg_filter_cache(emg_blocks, sr)
+    sc = _SESSION_CACHES.get(_cache_key)
+    if sc is None:
+        print('Session filter cache could not be built — returning stored signal.')
+        return trials
+
+    result = []
+    for t in trials:
+        # Slice raw_diff with warmup prepended so any IIR filter has history to settle.
+        win = get_trial_window_from_session_cache(
+            t, sc, _pre_ms + _WARMUP_MS, _post_ms, use_raw=True)
+        if win is None:
+            result.append(t)
+            continue
+        _t_ms_full, sig_full = win
+
+        if config == 'raw_diff':
+            sig = sig_full[_warmup_samp:]
+        elif config == 'bp_100_1000_ff':
+            sig = apply_emg_filter(sig_full, sr, mode='bandpass',
+                                   lowcut=100.0, highcut=1000.0, order=2,
+                                   method='lfilter')[_warmup_samp:]
+        elif config == 'bp_3_5000_ff':
+            sig = apply_emg_filter(sig_full, sr, mode='bandpass',
+                                   lowcut=3.0, highcut=5000.0, order=2,
+                                   method='filtfilt')[_warmup_samp:]
+        elif config == 'bp_3_5000_ff_notch':
+            sig = apply_emg_filter(sig_full, sr, mode='bandpass',
+                                   lowcut=3.0, highcut=5000.0, order=2,
+                                   method='filtfilt', notch=True,
+                                   notch_freq=60.0, notch_q=30.0)[_warmup_samp:]
+        else:
+            result.append(t)
+            continue
+
+        tc = _copy.copy(t)
+        tc.trial_data = sig
+        tc.onset_sample_index = _pre_samp
+
+        # Re-slice stim_adc_data to the same (pre_ms → post_ms) window so that
+        # its onset is also at _pre_samp — consistent with tc.onset_sample_index.
+        # Without this, plot_hrs2_analysis would slice the original array using
+        # the new _pre_samp index, landing at the wrong position in the signal.
+        _orig_osi = getattr(t, 'onset_sample_index', -1)
+        if _orig_osi is not None and _orig_osi >= 0:
+            _sa = np.asarray(getattr(t, 'stim_adc_data', []), dtype=float)
+            if len(_sa) > 0:
+                _sa_s0 = _orig_osi - _pre_samp
+                _sa_s1 = _orig_osi + _post_samp
+                if 0 <= _sa_s0 and _sa_s1 <= len(_sa):
+                    tc.stim_adc_data = _sa[_sa_s0:_sa_s1]
+
+        result.append(tc)
+
+    return result
 
 
-for the frequency test stage, I want to replicate the similar gui structure of the S2-S6 where there is a separate independent section for the parameters of the m-wave stabilization algorithm, except in this case it will be all the parameters for the frequency trains which may include the number of pulses in a train, the duration of the train, the frequency of the train, the inter-pulse period/interval, as well as the inter-train interval delay. Some of these are defined by the other such as the inter-pulse period directly affects and is dependent on the frequency defined, so in the case that some parameters are coupled together, if you change one, I automatically want the other one to update based on the given parameter. So if I set the frequency to 5 hz then the inter-pulse period parameter should automatically change to 0.2 seconds for example if I change the frequency definition. And it should work the other way too, if I set the inter-pulse period to 0.2 seconds, it should automatically update the frequency definition to match based on the inter-pulse period definition I inputted. Also in my most-recent trial plots I want to see all the waveforms from the pulses overlapped within a single graph for a trial. In this case, 1 trial is equal to 1 train. So a trial is going to include all the pulses defined by the number of pulses in the train. On the center-most console, I also want to view a plot of the m-h wave sizes vs # pulse throughout the train to see how the m-h wave sizes changes throughout the trains/trails. Please strategize, think about the best way to make these changes and improvements to be as fail-safe as possible then execute the changes. After the changes are made, then go back and review the changes to make sure they meet all my requirements and that there aren't any bugs and that you have indeed followed all of my directions.   
+# ── HRS2 Analysis: Interactive Averaged Waveforms + Recruitment Curve ─────────
+from IPython.display import display as _disp
 
+def _render_ana(trials, header, emg_blocks, stage_label, rec_label, sr, h1h):
+    _sr = sr or h1h.sample_rate
+    trials_filt = _apply_filter_config(trials, emg_blocks, _sr, FILTER_CONFIG, ONSET_OFFSET_MS)
+    tp = _apply_merge(trials_filt)
+    _flbl = '' if FILTER_CONFIG == 'default' else f'  [filter: {FILTER_CONFIG}]'
+    print(f'\n── Analysis: {stage_label}  ({len(trials)} trials)  [{rec_label}]{_flbl}')
+    plot_hrs2_analysis(
+        tp, header,
+        pre_avg_ms=PRE_AVG_MS, post_avg_ms=POST_AVG_MS,
+        n_per_page=N_PER_PAGE,
+        m_start_ms=M_WAVE_START_MS, m_end_ms=M_WAVE_END_MS,
+        h_start_ms=H_WAVE_START_MS, h_end_ms=H_WAVE_END_MS,
+        sample_rate=_sr,
+        emg_blocks=emg_blocks,
+    )
 
-# "HRPilot-17_Control/CC1_HRPILOT-17_BOOTH1_500US_6-30-26"
-# "HRPilot-17_Control/CC2_HRPILOT-17_BOOTH1_500US_7-2-26"
-# "HRPilot-17_Control/CC3_HR-PILOT-17_BOOTH1_500US_7-3-26"
-# "HRPilot-17_Control/CC4_HR-PILOT-17_BOOTH1_500US_7-6-26"
-# "HRPilot-17_Control/CC5_HRPILOT-17_BOOTH1_500US_7-8-26"
-# "HRPilot-17_Control/CC6_HRPILOT-17_BOOTH1_500US_7-10-26"
-
-# "HRPilot-17_Control/HRPILOT-17_M-WAVE_ALGORITHM_TEST_BOOTH1_7-14-26"
-# "HRPilot-17_Control/HRPILOT-17_CONTROL_BOOTH1_250US_7-16-26"
-# "HRPilot-17_Control/HRPILOT-17_CONTROL2_BOOTH1_250US_10KHZ_7-17-26"
-# "HRPilot-17_Control/HRPILOT-17_CONTROL3_BOOTH1_250US_10KHZ_7-21-26" <-->
-# "HRPilot-17_Control/HRPILOT-17_CONTROL4_BOOTH1_250US_10KHZ_7-22-26"
-
----
-# "HRPilot-18_Control/CC1_HRPILOT-18_BOOTH1_500US_6-29-26"
-# "HRPilot-17_Control/CC2_HRPILOT-17_BOOTH1_500US_7-2-26"
-# "HRPilot-18_Control/CC3_HRPILOT-18_BOOTH1_500US_7-6-26"
-# "HRPilot-18_Control/CC3_HRPILOT-18_BOOTH1_500US_7-7-26"
-# "HRPilot-18_Control/CC5_HRPILOT-18_BOOTH1_500US_7-8-26"
-# "HRPilot-18_Control/CC6_HRPILOT-18_BOOTH1_500US_7-9-26"
-
-# "HRPilot-18_Control/HRPILOT-18_M-WAVE_ALGORITHM_TEST_BOOTH1_7-16-26"
-# "HRPilot-18_Control/HRPILOT-18_CONTROL1_BOOTH2_250US_10KHZ_7-17-26" <-->
-# "HRPilot-17_Control/HRPILOT-18_CONTROL2_BOOTH1_500US_7-20-26"
-# "HRPilot-18_Control/HRPILOT-18_CONTROL3_BOOTH2_250US_10KHZ_7-21-26"
-# "HRPilot-18_Control/HRPILOT-18_CONTROL4_BOOTH2_250US_10KHZ_7-22-26"
-
--------------
-
-Ok so now I am getting something weird when I am running my app. A week ago I completely tore down and re-setup up my recording hardware set-up that this H-reflex App has been using to perform it's purpose. And I also had to upgrade to the new version of the Open Ephys GUI to v.1.0 from v.6.7 (not sure if it matters). But now, specifically with controlling the am-stimulator. What is happening, that now when I am trying to send my regular singular biphasic pulse 
-
-
-
-
-# Potential sources of bugs. 2 ethernet adapter ports?
---------
-
-The Core Scaling Challenges
-Before strategies, there are two problems to solve regardless of approach:
-
-1. Channel routing from Open Ephys
-Right now the app expects a fixed channel layout (ch0=unipolar EMG, ch1=bipolar, ch2=sync, ch3=stim ADC, etc.). With two booths you'd have twice as many channels. You need a way to tell each booth "your channels are indices 0–6" and "Booth 2's channels are 7–13." Open Ephys already includes a stream_name and channel_name in every published data block — this is the natural hook to use for routing.
-
-2. State isolation
-Each booth needs to run a completely independent session — different stage, different settings, different trial history. Today ApplicationConfiguration is a global singleton. That has to become per-booth state.
-
-Strategy 1: Multiple Processes + Lightweight Dashboard (Lowest risk, fastest to implement)
-Run one app process per booth, just as it works today. ZMQ PUB/SUB already natively supports multiple subscribers — all instances can connect to the same tcp://localhost:5556 and each gets a full copy of the published data. You add a channel-filter so each instance only processes the channels assigned to its booth.
-
-Changes needed to the existing app:
-
-Add zmq_channel_prefix (or channel index range) to the Booth object and config JSON so each instance knows which OE channels are "its"
-Each instance is already isolated — different stimulator IP, different data directory, different window
-For the "see all booths at once" requirement, add a separate read-only dashboard app (a second small Python/PySide6 process) that:
-
-Reads a small shared state file (e.g. JSON) each booth instance writes after every trial (current stage, last trial result, stim amplitude, H/M ratio, etc.)
-Displays a compact summary card per booth, auto-refreshing every few seconds
-Pros: Core session logic is completely untouched. Each booth is maximally isolated — a crash in one doesn't affect others. Easy to add/remove booths.
-
-Cons: You have N separate full windows to manage. The dashboard is read-only, not interactive. Shared state file needs a lightweight write protocol to avoid corruption.
-
-Strategy 2: Single App, Per-Booth Panels (Medium refactor, best day-to-day UX)
-Refactor the app to support multiple booths in one window. The window gets a top-level layout: a compact status bar row across the top showing all booths at a glance, and below it either tabs (one per booth, full UI) or a split-pane grid (all visible at once, condensed).
-
-The model refactor needed:
-
-ApplicationConfiguration becomes a list of per-booth config objects, each holding its own stimulator connection, current stage, session state, etc.
-The stage classes (S1–S6, FT) are already instanced objects — they just need to be instantiated once per booth rather than once globally
-The main window creates one StageWidget (or equivalent) per booth and routes incoming OE channel data to the correct booth by channel prefix
-Pros: One window, no IPC needed, you can interact with any booth from the same UI. Cleanest long-term architecture.
-
-Cons: Most upfront work. The singleton ApplicationConfiguration pattern needs to be broken. If one booth's stage code has a bug that raises an unhandled exception it could affect the whole process.
-
-Strategy 3: Process-per-Booth + Orchestrator (Most scalable, most work)
-Each booth runs as a self-contained subprocess. A separate orchestrator process launches them, monitors their health, and provides the central dashboard. Booths publish their state over ZMQ (a separate PUB socket per booth process) and the orchestrator subscribes to all of them.
-
-Pros: True fault isolation. Easily scalable to 4, 6, 8 booths. The orchestrator can restart a crashed booth.
-
-Cons: Significant engineering investment. Probably overkill for a lab system with 2–4 booths.
-
-My Recommendation
-Start with Strategy 1 for the near term. The changes to the existing app are small, you get running multi-booth sessions quickly, and you can validate your channel routing design before committing to a bigger refactor. Specifically:
-
-Add channel_start_index and channel_count (or a stream_name_filter) to the Booth config
-Have each instance filter the OE data stream to only process its assigned channels
-Write a minimal dashboard app (100–150 lines of PySide6) that reads a shared state JSON each booth writes, showing one card per booth
-Then, if you end up with 3+ booths and the multi-window UX becomes painful, migrate to Strategy 2 — by that point you'll have a clear picture of exactly what per-booth state needs to be isolated, making the refactor much more deliberate.
-
-Before I start on anything: how many booths are you targeting? 2 is very manageable with Strategy 1. If you're thinking 4–6, Strategy 2 is worth doing properly from the start.
-
-
-
------------
-Ok so a few things, I have the booth 1 working with these assignments from the edit booth config screen :{EMG 1 = 1; EMG 2 = 2; ANALOGIN 1: Stim Adc = 5; DIGIN 1: Sync (Digital) = 1; DIGOUT 1: Manual Trig = 1} where I have my ZMQ interface organized in this this fashion with these signal/channel assignments:{ Ch 1 = Booth 1 EMG 1, CH 2 = Booth 1 EMG 2. Ch 3 = Booth 2 EMG 1, Ch 4 = Booth 2 EMG 2, Ch 5 = Booth 1 Stim ADC, Ch 6 = Booth 1 Unassigned, Ch 7 = Booth 2 Stim ADC, Ch 8 = Booth 2 Unassigned} a caveat is, that I do have another channel at the beginning that is like a Ch 0 in the zmq interface, but I did not select it to be streamed, so the app shouldn't be receiving that data stream (which means we have ZMQ channels 1-8). Now as far as hardwired, I have the Booth 1 stimulator configured as such physically:{ Stimulation output (Stim ADC) --> ANALOGIN Port #1; Sync Output (Sync digital) --> DIGITALIN Port #1} then for Booth 2 I have is configured as such physically:{Stimulation output (Stim ADC) --> ANALOGIN Port #2; Sync Output (Sync digital) --> DIGITALIN Port #2}. However, Booth #1 works completely when I have the assignments set as in the edit booth config screen for booth #1 and it works all correctly where it times alingns correctly (there is no "no sync" error) and I see the stim adc pulse. However, when I have these assignments for Booth #2 in the edit booth config screen :{EMG 1 = 3; EMG 2 = 4; ANALOGIN 2: Stim Adc = 7, DIGIN 2: Sync (Digital) = 2; DIGOUT 2: Manual Trig = 2} I am getting a "No sync error" and don't see the stim adc pulse even tho everything is wired in. Here is the error I get from the console:{2026-08-19T17:50:04] Trial 2 initiated. Stimulation amplitude: 0.10000 mA, threshold = [0.00, 7000.00]
-[2026-08-19T17:50:04] [FAILED STIM TRIAL] No stim onset detected (digital or ADC) — plot zeroed at trigger boundary (sample 500). Check stimulator connection and sync cable/digital input.
-[2026-08-19T17:50:16] [DEBUG] Stim criteria met | wall_time=1787179816922 ms | OE_sample_id=149279 | amp=0.20000 mA
-[2026-08-19T17:50:16] [DEBUG] trigger_single() sent | trigger_wall_time=1787179816923 ms | OE_sample_id=149279 | decision→trigger latency=1 ms
-[2026-08-19T17:50:17] [DEBUG] Trial finalized | onset_source=none | onset_detected=0 | onset_sample=-1 | digital_sample_num=N/A | digital_edge=N/A | end_sample=-1 | stim_dur_ms=0.000 | sync_peak_V=0.000 | pre_trigger_frames_discarded=0 | first_frame_delay_ms=59.0 | first_OE_sample=149770
-[2026-08-19T17:50:17] Trial 3 initiated. Stimulation amplitude: 0.20000 mA, threshold = [0.00, 7000.00]
-[2026-08-19T17:50:17] [FAILED STIM TRIAL] No stim onset detected (digital or ADC) — plot zeroed at trigger boundary (sample 500). Check stimulator connection and sync cable/digital input.}:{01 set active run
-
-[Booth 2] frames=15 spf=580.1 min=490 max=613 sr=10000
-[Booth 2] frames=23 spf=580.8 min=490 max=613 sr=10000
-[Booth 2] frames=18 spf=578.7 min=490 max=613 sr=10000
-[Booth 2] frames=18 spf=585.6 min=490 max=613 sr=10000
-[Booth 2] frames=18 spf=571.9 min=490 max=613 sr=10000
-[Booth 2] frames=18 spf=585.6 min=490 max=613 sr=10000
-[Booth 2] frames=18 spf=578.8 min=490 max=613 sr=10000
-[Booth 2] frames=18 spf=585.6 min=490 max=613 sr=10000
-[Booth 2] frames=18 spf=578.8 min=490 max=613 sr=10000
-[Booth 2] frames=18 spf=578.7 min=490 max=613 sr=10000
-[Booth 2] frames=18 spf=578.8 min=490 max=613 sr=10000
-[Booth 2] frames=18 spf=585.6 min=490 max=613 sr=10000
-[DEBUG] Stim criteria met | wall_time=1787179816922 ms | OE_sample_id=149279 | amp=0.20000 mA
-[DEBUG] trigger_single() sent | trigger_wall_time=1787179816923 ms | OE_sample_id=149279 | decision→trigger latency=1 ms
-Command: 1001 set trigger one
-Response received: 
-1001 set trigger one
-
-[DIGIN RAW] Digital Input 1 (falling) at sample 149859
-[DIGIN RAW] Digital Input 1 (falling) at sample 149864
-[DEBUG] Trial finalized | onset_source=none | onset_detected=0 | onset_sample=-1 | digital_sample_num=N/A | digital_edge=N/A | end_sample=-1 | stim_dur_ms=0.000 | sync_peak_V=0.000 | pre_trigger_frames_discarded=0 | first_frame_delay_ms=59.0 | first_OE_sample=149770
-C:\Users\labuser\Documents\h_reflex_behavior_app\src\hreflex_txbdc\model\stages\mh_recruitment_curve_stage.py:2152: RuntimeWarning: libpyside: Failed to disconnect (<bound method MhRecruitmentCurveStage._on_trial_emg_yrange_changed of <hreflex_txbdc.model.stages.mh_recruitment_curve_stage.MhRecruitmentCurveStage object at 0x00000207025FF770>>) from signal "sigYRangeChanged(PyObject,PyObject)".
-  self._trial_widget.getPlotItem().vb.sigYRangeChanged.disconnect(self._on_trial_emg_yrange_changed)
-[FAILED STIM TRIAL] No stim onset detected (digital or ADC) — plot zeroed at trigger boundary (sample 500). Check stimulator connection and sync cable/digital input.
-Command: 1001 set active stop
-Response received: 
-1001 set active stop
-
-Command: 1001 set active stop
-Response received: 
-1001 set active stop
-
-Command: 1001 set menu 0 0 1
-Response received: 
-1001 set menu 0 0 1
-
-Command: 1001 set active stop
-Response received: 
-1001 set active stop
-
-Command: 1001 set menu 0 3 1
-Response received: 
-1001 set menu 0 3 1
-
-Command: 1001 set active stop
-Response received: 
-1001 set active stop
-
-Command: 1001 set menu 7 1 0
-Response received: 
-1001 set menu 7 1 0
-
-Command: 1001 set active stop
-Response received: 
-1001 set active stop
-
-Command: 1001 set menu 7 4 1
-Response received: 
-1001 set menu 7 4 1
-
-Command: 1001 set active stop
-Response received: 
-1001 set active stop
-
-Command: 1001 set menu 10 3 0
-Response received: 
-1001 set menu 10 3 0
-
-Command: 1001 set active stop
-Response received: 
-1001 set active stop
-
-Command: 1001 set menu 10 2 1
-Response received: 
-1001 set menu 10 2 1
-
-Command: 1001 set active stop
-Response received: 
-1001 set active stop
-
-Command: 1001 set menu 10 4 1
-Response received: 
-1001 set menu 10 4 1
-
-Command: 1001 set active stop
-Response received: 
-1001 set active stop
-
-Command: 1001 set menu 10 6 250
-Response received: 
-1001 set menu 10 6 250
-
-Command: 1001 set active stop
-Response received: 
-1001 set active stop
-
-Command: 1001 set menu 10 5 500} can you help me track down the problem and tell me what I am doing wrong, or find the bug and fix it? Also, with the DIGIN sync (digital) onset detection option, it seems to be working, but I also want to see the offset of when the pulse is completed based on the digitial signal of the sync pulse
+_ana_widget, _ana_render = make_viewer(_all_recordings, _active_rec_label, _render_ana)
+_disp(_ana_widget)
+_ana_render()} @src/open_ephys/analysis/Filtering_Analysis.ipynb  I am getting a different calculation for the pre-stim emg calculation at 3.4 uV and very different m-h wave size calculations because of that. There has to be a discrepancy for a bug for the calculations or data analysis pipeline somewhere where the values aren't being correctly calculated between the two configurations or functions and is messing up my calculations. Track down the problem and fix it.
