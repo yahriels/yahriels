@@ -1,0 +1,52 @@
+Before Paper 1 Title: Restoration of somatosensory function by pairing Vagus nerve stimulation with tactile rehabilitation
+Authors: Michael J. Darrow, PhD, Tanvir M. Mian, MS, Monica Torres, BS, Zohra Haider, BS, Tanya Danaphongse, BS, Arash Seyedahmadi, BS, Robert L. Rennaker, PhD, Michael P. Kilgard, PhD, and Seth A. Hays, PhD
+Year: 2020
+Journal: Annals of Neurology
+Role in Narrative: Established the initial proof-of-concept that pairing short bursts of VNS with mechanical tactile training restores somatosensory detection thresholds after chronic peripheral nerve injury. Left open whether high-volume, 6-week schedules were required or if shorter regimens could work.
+
+Before Paper 2 Title: The timing and amount of vagus nerve stimulation during rehabilitative training affect poststroke recovery of forelimb strength
+Authors: Seth A. Hays, PhD, Navid Khodaparast, PhD, David R. Hulsey, PhD, Robert L. Rennaker, PhD, and Michael P. Kilgard, PhD
+Year: 2014
+Journal: NeuroReport / Stroke
+Role in Narrative: Demonstrated in motor stroke models that VNS efficacy depends non-linearly on timing and event pairing volume. Left open whether similar non-linear dosing constraints applied to somatosensory recovery. 
+
+Before Paper 3 Title: The interval between VNS-tone pairings determines the extent of cortical map plasticity
+Authors: Michael S. Borland, PhD, Navzer D. Engineer, PhD, William A. Vrana, BS, Nicole A. Moreno, BS, Sven Vanneste, PhD, and Michael P. Kilgard, PhD
+Year: 2018
+Journal: Neuroscience
+Role in Narrative: Showed that short inter-stimulus intervals (e.g., 2 seconds) between VNS pairings fail to drive cortical map plasticity compared to 10-second intervals. Left open whether shortening session length or interval time in active rehabilitation would eradicate therapeutic gains due to neural desensitization.
+
+
+MAIN PAPER
+Main Paper Title: 
+Authors: 
+Role in Narrative: Systematically tested 6 VNS dosing schedules in chronic nerve injury, establishing that somatosensory restoration requires a threshold of moderate daily stimulation (200 pairings/session, 4x/week, 4 weeks) and that rapid or condensed schedules fail due to desensitization.
+AFTER PAPERS (Citing the Main Paper)
+
+Paper that Cited 1 Title: Myelin plasticity: sculpting circuits in learning and memory
+Role in Narrative: 
+
+Paper that Cited 2 Title: Structural neural plasticity evoked by rapid-acting antidepressant interventions
+Authors: Clara Liao, Alisha N. Dua, Cassandra Wojtasiewicz, Conor Liston & Alex C. Kwan 
+Year: 2024
+Journal: Frontiers in Control Engineering
+Role in Narrative: Treats Ruiz et al.’s fixed multi-week protocol as the standard open-loop baseline, proposing next-generation closed-loop bioelectronic systems that dynamically adjust parameters based on real-time patient cognitive and autonomic states.
+
+
+
+Prompts: 
+Choose a papers from the list selected for presentation in class.  For the paper, select 3 
+important papers that this paper references, and give a broader context of the work.  Why 
+did the authors do this?  Why did they think it would be important?  Additionally, select 2 
+important papers that cite this paper.  How did the paper impact the field?  Did the 
+interpretation of the results change, and if so, what are the new revelations? 
+Choose a paper from a high impact journal. For the paper, write a 
+report addressing: 
+Before: What was the field's leading hypothesis or open question before this paper? Select 2–3 
+earlier papers that establish the prior evidence or belief the authors were responding to. Why did 
+the authors think this question was worth testing? 
+The paper: Identify the single experiment or result doing the most work to support the paper's 
+central claim. Did this paper confirm, refute, or complicate the field's prior thinking? 
+After: Select 3 later papers that followed up on this specific result (not just papers that cite it 
+broadly). Did they support the original interpretation, extend it, or overturn it? If the authors flagged 
+an open question or limitation, was it eventually resolved? If not, why has it stayed open? 
