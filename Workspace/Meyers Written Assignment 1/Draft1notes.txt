@@ -1,0 +1,195 @@
+Before Paper 1 Title: Restoration of somatosensory function by pairing Vagus nerve stimulation with tactile rehabilitation
+Authors: Michael J. Darrow, PhD, Tanvir M. Mian, MS, Monica Torres, BS, Zohra Haider, BS, Tanya Danaphongse, BS, Arash Seyedahmadi, BS, Robert L. Rennaker, PhD, Michael P. Kilgard, PhD, and Seth A. Hays, PhD
+Year: 2020
+Journal: Annals of Neurology
+Role in Narrative: Established the initial proof-of-concept that pairing short bursts of VNS with mechanical tactile training restores somatosensory detection thresholds after chronic peripheral nerve injury. Left open whether high-volume, 6-week schedules were required or if shorter regimens could work.
+
+Before Paper 2 Title: The timing and amount of vagus nerve stimulation during rehabilitative training affect poststroke recovery of forelimb strength
+Authors: Seth A. Hays, PhD, Navid Khodaparast, PhD, David R. Hulsey, PhD, Robert L. Rennaker, PhD, and Michael P. Kilgard, PhD
+Year: 2014
+Journal: NeuroReport / Stroke
+Role in Narrative: Demonstrated in motor stroke models that VNS efficacy depends non-linearly on timing and event pairing volume. Left open whether similar non-linear dosing constraints applied to somatosensory recovery. 
+
+Before Paper 3 Title: The interval between VNS-tone pairings determines the extent of cortical map plasticity
+Authors: Michael S. Borland, PhD, Navzer D. Engineer, PhD, William A. Vrana, BS, Nicole A. Moreno, BS, Sven Vanneste, PhD, and Michael P. Kilgard, PhD
+Year: 2018
+Journal: Neuroscience
+Role in Narrative: Showed that short inter-stimulus intervals (e.g., 2 seconds) between VNS pairings fail to drive cortical map plasticity compared to 10-second intervals. Left open whether shortening session length or interval time in active rehabilitation would eradicate therapeutic gains due to neural desensitization.
+
+
+MAIN PAPER
+Main Paper Title: Effective Delivery of Vagus Nerve Stimulation Requires Many Stimulations Per Session and Many Sessions Per Week Over Many Weeks to Improve Recovery of Somatosensation
+Authors: Andrea D. Ruiz, PhD, Kaitlyn M. Malley, MS, Tanya T. Danaphongse, BS, Fatima N. Ahmad, BS, Clareth Mota Beltran, BS, Robert L. Rennaker, PhD, Michael P. Kilgard, PhD, and Seth A. Hays, PhD
+Year: 2023
+Journal: Neurorehabilitation and Neural Repair
+Role in Narrative: Systematically tested 6 VNS dosing schedules in chronic nerve injury, establishing that somatosensory restoration requires a threshold of moderate daily stimulation (200 pairings/session, 4x/week, 4 weeks) and that rapid or condensed schedules fail due to desensitization.
+AFTER PAPERS (Citing the Main Paper)
+
+Paper that Cited 1 Title: Vagus nerve stimulation: innovative applications in the field of hand function rehabilitation
+Authors: Yize Chen, Yuling Gao, Jiaqi Zhou, Shengchao Zhang, Tong Li, Zhenni Zhang, Xiaoyang Gong & Yong Liu
+Year: 2025
+Journal: Cognitive Neurodynamics
+Role in Narrative: Translates Ruiz et al.’s optimal parameter set (0.8 mA, 30 Hz, 100 µs pulse width, concurrent tactile pairing) into standard clinical rehabilitation protocol guidelines for upper limb and hand restoration.
+
+
+Paper that Cited 2 Title: State dependent vagus nerve stimulation for targeted plasticity therapy: challenges and considerations
+Authors: Bharadwaj Nandakumar, Ramanamurthy V. Mylavarapu, Rivaldo Harris, Eric R. Albuquerque, Zihan Yan, Cameron Herter, David W. McMillan, Vivek V. Kanumuri and Patrick D. Ganzer
+Year: 2024
+Journal: Frontiers in Control Engineering
+Role in Narrative: Treats Ruiz et al.’s fixed multi-week protocol as the standard open-loop baseline, proposing next-generation closed-loop bioelectronic systems that dynamically adjust parameters based on real-time patient cognitive and autonomic states.
+
+Paper that Cited 3 Title: Modulation of the peripheral nervous system to restore reward circuitry in opioid use disorder: A multi-timescale framework
+Authors: Saurabhya Puri
+Year: 2026
+Journal: Progress in Neuro-Psychopharmacology & Biological Psychiatry
+Role in Narrative: Cites Ruiz et al.’s multi-week schedule requirement to support a multi-timescale model for restoring mesocorticolimbic dopamine reward pathways in Opioid Use Disorder through sustained, repeated neuromodulation.
+
+
+Prompts: 
+Choose a papers from the list selected for presentation in class.  For the paper, select 3 
+important papers that this paper references, and give a broader context of the work.  Why 
+did the authors do this?  Why did they think it would be important?  Additionally, select 2 
+important papers that cite this paper.  How did the paper impact the field?  Did the 
+interpretation of the results change, and if so, what are the new revelations? 
+Choose a paper from a high impact journal. For the paper, write a 
+report addressing: 
+Before: What was the field's leading hypothesis or open question before this paper? Select 2–3 
+earlier papers that establish the prior evidence or belief the authors were responding to. Why did 
+the authors think this question was worth testing? 
+The paper: Identify the single experiment or result doing the most work to support the paper's 
+central claim. Did this paper confirm, refute, or complicate the field's prior thinking? 
+After: Select 3 later papers that followed up on this specific result (not just papers that cite it 
+broadly). Did they support the original interpretation, extend it, or overturn it? If the authors flagged 
+an open question or limitation, was it eventually resolved? If not, why has it stayed open? 
+
+-------------
+
+For this assignment, I chose to discuss the paper “Effective Delivery of Vagus Nerve Stimulation Requires Many Stimulations Per Session and Many Sessions Per Week Over Many Weeks to Improve Recovery of Somatosensation” by Ruiz et al. (2023). I was particularly interested in this paper for its systematic parametric characterization of bioelectronic dosing, using rigorous animal models of chronic peripheral nerve injury to establish how session frequency, total event volume, and inter-stimulus intervals dictate neuroplasticity and functional recovery. Somatosensory loss is a common and debilitating outcome of neurological injuries like stroke and peripheral nerve damage, yet effective clinical paradigms to restore tactile sensitivity remain sparse. Targeted Plasticity Therapy (TPT) using vagus nerve stimulation (VNS) engages subcortical neuromodulatory networks—specifically releasing norepinephrine from the locus coeruleus and acetylcholine from the nucleus basalis—that, when temporally paired with sensory rehabilitation, enhance activity-dependent synaptic plasticity in active central circuits. Prior to this study, a major translational bottleneck existed: high-volume, long-duration VNS protocols (e.g., daily clinic visits for 6+ weeks) created severe compliance and financial barriers, yet whether therapy could be compressed or accelerated without losing therapeutic efficacy was completely unknown. The Ruiz et al. paper aimed to resolve this gap by addressing three central questions: (1) evaluating whether VNS paired with tactile rehabilitation restores mechanosensory detection thresholds across systematically varied dosing schedules; (2) defining the specific constraints governing weekly session frequency, daily stimulation volume, and inter-stimulus intervals; and (3) determining whether rapid or massed stimulation protocols accelerate recovery or eradicate therapeutic benefits due to neural desensitization (Ruiz et al. 2023). Three papers I selected that this paper referenced include: “Restoration of somatosensory function by pairing vagus nerve stimulation with tactile rehabilitation” – (Darrow et al. 2020), “The timing and amount of vagus nerve stimulation during rehabilitative training affect poststroke recovery of forelimb strength” – (Hays et al. 2014), and “The interval between VNS-tone pairings determines the extent of cortical map plasticity” – (Borland et al. 2018); three papers that cited this paper are: “Vagus nerve stimulation: innovative applications in the field of hand function rehabilitation” – (Chen et al. 2025), “State dependent vagus nerve stimulation for targeted plasticity therapy: challenges and considerations” – (Nandakumar et al. 2024), and “Modulation of the peripheral nervous system to restore reward circuitry in opioid use disorder: A multi-timescale framework” – (Puri 2026). I will now discuss how each of these papers relates to Ruiz and colleagues' work and their implications on the field.
+Darrow et al. 2020 – Darrow et al. provided the foundational preclinical proof-of-concept that closed-loop VNS paired with tactile retraining restores somatosensory function following chronic peripheral nerve injury. Using an animal model of complete median and ulnar nerve transection and tubular repair, rats underwent 6 weeks of daily tactile rehabilitation (200 touches/session using paintbrushes, von Frey filaments, copper rods, and air puffs) either alone or paired concurrently with brief 0.5-second bursts of VNS (0.8 mA, 30 Hz, 100 µs pulse width) (Darrow et al. 2020). Darrow et al. demonstrated that VNS paired with tactile training produced significant and long-lasting recovery of mechanosensory withdrawal thresholds (returning paw withdrawal thresholds near pre-injury baselines), whereas tactile rehabilitation without VNS failed to yield recovery. Furthermore, histological analysis confirmed that VNS did not alter peripheral nerve regeneration or g-ratio remyelination, proving that recovery was driven by central neural circuit reorganization (Darrow et al. 2020). However, this study was limited by its reliance on a single, unoptimized, high-volume schedule (200 pairings/day, 4 days/week for 6 weeks). This intense schedule presented a significant translational hurdle, as requiring human patients to attend clinic multiple days a week for months leads to high dropout rates and provider burden. Darrow et al. was cited by Ruiz et al. as the direct empirical foundation for somatosensory recovery, providing the baseline parameters (0.8 mA, 30 Hz, 100 µs) and animal model that Ruiz et al. sought to systematically parameterize and optimize (Ruiz et al. 2023) (Darrow et al. 2020).
+Hays et al. 2014 – Hays et al. investigated the non-linear relationship between VNS dosing, timing, and functional recovery in a rat model of motor cortex ischemic stroke using an automated isometric pull task (Hays et al. 2014). Their experimental methods compared paired VNS (delivered precisely during successful forelimb pull trials) against delayed VNS (delivered in a separate cage 2 hours after training) and extra VNS (delivered continuously every 2 seconds during training, yielding a 6-fold excess of unpaired stimulations) (Hays et al. 2014). Hays et al. discovered that while paired VNS produced substantial and lasting recovery of forelimb strength and hit rate, delayed VNS yielded significantly reduced recovery, and extra VNS resulted in inferior, transient gains. This paper challenged the naive assumption that "more stimulation is always better," establishing that VNS efficacy exhibits strict non-linear dosing boundaries and requires precise temporal coincidence with behavioral trials (Hays et al. 2014). Ruiz et al. referenced Hays et al. to establish that non-linear dosing rules govern VNS-mediated neuroplasticity in motor stroke, using these findings as a rationale to test whether similar event-pairing volume ceilings and refractory constraints apply to somatosensory restoration following peripheral nerve damage (Ruiz et al. 2023) (Hays et al. 2014).
+Borland et al. 2018 – Borland et al. examined how the inter-stimulus interval (ISI) between VNS-tone pairings influences primary auditory cortex (A1) tonotopic map plasticity and behavioral recovery following acoustic trauma in rats (Borland et al. 2018). Using high-density microelectrode electrophysiological recordings, the authors evaluated VNS-tone pairings delivered at 8-second, 30-second, and 120-second ISIs across 20 days. Borland et al. found that longer ISIs (30s and 120s) drove robust expansion of the paired frequency representation in A1 and normalized gap-detection behavior after noise trauma, whereas a short 8-second ISI failed to drive significant map reorganization or behavioral recovery (Borland et al. 2018). The study established that the temporal spacing between individual stimulation events is a critical determinant of cortical plasticity, likely due to within-session desensitization or depletion of central neuromodulatory stores during rapid stimulation. Ruiz et al. cited Borland et al. as the primary evidence that inter-stimulus intervals govern neuroplasticity, building upon their auditory findings to test whether shortening ISIs to 2 seconds during active behavioral tactile rehabilitation would similarly trigger desensitization and eradicate sensory recovery (Ruiz et al. 2023) (Borland et al. 2018).
+Ruiz et al. 2023 – Ruiz et al. evaluated 210 rats undergoing complete median and ulnar nerve transection and tubular repair across six systematically varied VNS dosing schedules: Moderate Daily VNS (200 pairings/session, 4x/week, 4 weeks, 10s ISI; 3,200 total pairings), Moderate Weekly VNS (200 pairings/session, 1x/week, 4 weeks, 10s ISI; 800 total pairings), Intense Weekly VNS (800 pairings/session, 1x/week, 4 weeks, 10s ISI; 3,200 total pairings), Rapid Intense Daily VNS (800 pairings/session, 4x/week, 1 week, 2s ISI; 3,200 total pairings), Short Daily VNS (50 pairings/session, 4x/week, 4 weeks, 10s ISI; 800 total pairings), and Rapid Daily VNS (200 pairings/session, 4x/week, 4 weeks, 2s ISI; 3,200 total pairings) (Ruiz et al. 2023). The single experiment doing the most work compares Moderate Daily VNS against Rapid Intense Daily VNS and Intense Weekly VNS. Despite receiving the exact same total volume of 3,200 VNS-touch pairings, only Moderate Daily VNS restored mechanosensory withdrawal thresholds (reducing paw withdrawal thresholds from ~20g post-injury down to ~8.5g near pre-injury baseline). Rapid Intense Daily VNS (massed into 1 week at 2s ISI) and Intense Weekly VNS (800 pairings in 1 weekly session) showed zero significant recovery compared to rehabilitation without VNS (remaining impaired at ~14–15g) (Ruiz et al. 2023). This paper complicated and refuted prior assumptions that total stimulation volume determines recovery, proving that somatosensory restoration is non-linear and governed by a strict refractory ceiling where rapid ISIs (2s) or massed daily sessions overwhelm neuromodulatory capacity and eradicate therapeutic benefits.
+Chen et al. 2025 – Chen et al. synthesized recent bioelectronic advances into comprehensive clinical protocol guidelines for hand function rehabilitation across stroke, peripheral nerve injury, and osteoarthritic disorders (Chen et al. 2025). The authors reviewed physiological mechanisms, electrode interfaces, and parameter selection, explicitly highlighting how electrical pulse parameters modulate central plasticity, anti-inflammatory cascades, and blood-brain barrier protection. Chen et al. cited Ruiz et al. as foundational proof-of-concept evidence that VNS paired with sensory retraining reverses chronic somatosensory deficits following nerve injury (Chen et al. 2025) (Ruiz et al. 2023). Furthermore, Chen et al. directly adopted Ruiz et al.’s validated parameter set—0.8 mA intensity, 30 Hz frequency, 100 µs pulse width, and concurrent event pairing—as the standard clinical protocol recommendation for hand rehabilitation, citing Ruiz et al. to warn clinicians that attempting to condense therapy into rapid or massed schedules leads to therapeutic failure due to neural desensitization (Chen et al. 2025).
+Nandakumar et al. 2024 – Nandakumar et al. addressed system design considerations for state-dependent VNS in targeted plasticity therapy, proposing a shift from static, open-loop protocols toward real-time closed-loop bioelectronic systems (Nandakumar et al. 2024). The authors analyzed how patient cognitive states (hyperarousal, pain, lack of motivation) and autonomic cardiorespiratory rhythms (cardiac phase and respiratory cycles) alter central neuromodulatory signaling and interfere with Hebbian synaptic eligibility traces. Nandakumar et al. cited Ruiz et al. to establish the open-loop dosing baseline and to illustrate how fixed parameters (0.8 mA, 30 Hz, 10s ISI) operate under refractory constraints (Nandakumar et al. 2024) (Ruiz et al. 2023). They extended Ruiz et al.’s findings by arguing that to prevent the within-session desensitization flagged by Ruiz, future bioelectronic devices must dynamically gate VNS based on real-time EEG power (P300/arousal), pupillometry, and cardiorespiratory phase (e.g., gating stimulation to diastole or expiration) to optimize neuromodulator release per pulse.
+Puri 2026 – Puri formulated a multi-timescale theoretical framework applying peripheral vagus nerve stimulation to restore dysregulated mesocorticolimbic reward circuitry in Opioid Use Disorder (OUD) (Puri 2026). The paper detailed how transcutaneous auricular VNS engages the NTS–LC–VTA axis across three distinct windows: acute catecholaminergic firing, intermediate D2-like receptor and OPRM1 transcriptional upregulation, and long-term BDNF/TrkB-mediated dendritic spine regrowth in the nucleus accumbens and prefrontal cortex. Puri cited Ruiz et al.’s empirical multi-week schedule requirement as primary evidence that peripheral neuromodulation cannot repair reorganized neural circuits in a single acute session (Puri 2026) (Ruiz et al. 2023). Puri extended Ruiz et al.’s dosing rules from somatosensory restoration into psychiatric and addiction neurobiology, demonstrating that sustained multi-session VNS pressure over weeks is universally required across distinct central circuits to drive long-term structural plasticity.
+Our class discussion explored how bioelectronic neuromodulation relies on precise temporal alignment and parameterization to drive activity-dependent plasticity, as well as how empirical dosing rules constrain translational device design. In short, our discussion clarified the non-linear nature of neuroplasticity and highlighted how over-stimulation or compressed schedules can induce receptor desensitization. This led me to question what cellular mechanisms account for these refractory thresholds, and how plasticity rules identified in sensory cortex apply across other central pathways. A curiosity that arose was whether real-time autonomic gating could bypass the dosing limits identified by Ruiz et al., and whether state-dependent closed-loop systems could allow clinicians to achieve faster therapeutic recovery without triggering neural desensitization. This directed me to consider Nandakumar's work on state-dependent VNS and Puri's multi-timescale framework for reward circuit remodeling (Nandakumar et al. 2024) (Puri 2026). Given Ruiz et al.'s empirical mapping of dosage boundaries, we explored the possibilities of translating these preclinical parameters into standardized clinical guidelines, as demonstrated by Chen et al. (2025). In summary, Ruiz et al.’s paper highlighting the necessity of moderate daily stimulation across multiple weeks informed our exploration of bioelectronic parameterization, its desensitization constraints, and its ongoing translation into adaptive bioelectronic medicine.
+Bibliography
+Ruiz AD, Malley KM, Danaphongse TT, Ahmad FN, Mota Beltran C, Rennaker RL, Kilgard MP, Hays SA. Effective Delivery of Vagus Nerve Stimulation Requires Many Stimulations Per Session and Many Sessions Per Week Over Many Weeks to Improve Recovery of Somatosensation. Neurorehabilitation and Neural Repair 37: 652–661, 2023.
+Darrow MJ, Mian TM, Torres M, Haider Z, Danaphongse T, Seyedahmadi A, Rennaker RL, Kilgard MP, Hays SA. Restoration of somatosensory function by pairing vagus nerve stimulation with tactile rehabilitation. Annals of Neurology 87: 194–205, 2020.
+Hays SA, Khodaparast N, Ruiz A, Sloan AM, Hulsey DR, Rennaker RL, Kilgard MP. The timing and amount of vagus nerve stimulation during rehabilitative training affect poststroke recovery of forelimb strength. NeuroReport 25: 682–688, 2014.
+Borland MS, Engineer CT, Vrana WA, Moreno NA, Engineer ND, Vanneste S, Sharma P, Pantalia MC, Lane MC, Rennaker RL, Kilgard MP. The interval between VNS-tone pairings determines the extent of cortical map plasticity. Neuroscience 369: 76–86, 2018.
+Chen Y, Gao Y, Zhou J, Zhang S, Li T, Zhang Z, Gong X, Liu Y. Vagus nerve stimulation: innovative applications in the field of hand function rehabilitation. Cognitive Neurodynamics 19: 98, 2025.
+Nandakumar B, Mylavarapu RV, Harris R, Albuquerque ER, Yan Z, Herter C, McMillan DW, Kanumuri VV, Ganzer PD. State dependent vagus nerve stimulation for targeted plasticity therapy: challenges and considerations. Frontiers in Control Engineering 5: 1452442, 2024.
+Puri S. Modulation of the peripheral nervous system to restore reward circuitry in opioid use disorder: A multi-timescale framework. Progress in Neuro-Psychopharmacology & Biological Psychiatry 149: 111913, 2026.
+
+
+Annotated Bibliography
+Overarching Theme: Optimizing Vagus Nerve Stimulation (VNS) Dosage Parameters, Temporal Pairing Rules, and Multi-Timescale Frameworks for Central Neuroplasticity and Rehabilitation
+I. The Main Anchor Paper
+Ruiz, A. D., Malley, K. M., Danaphongse, T. T., Ahmad, F. N., Mota Beltran, C., Rennaker, R. L., Kilgard, M. P., & Hays, S. A. (2023). Effective delivery of vagus nerve stimulation requires many stimulations per session and many sessions per week over many weeks to improve recovery of somatosensation. Neurorehabilitation and Neural Repair, 37(9), 652–661.
+Key Methodology & Core Findings: Ruiz and colleagues evaluated 210 rats with chronic forepaw sensory loss caused by complete transection and tubular repair of the median and ulnar nerves
+. Eight weeks post-injury, animals underwent tactile rehabilitation paired with 0.5-second trains of VNS (0.8 mA, 30 Hz, 100 µs) across six systematically varied dosing schedules
+. The authors discovered that delivering 200 VNS pairings per day, 4 days per week, over 4 weeks (3,200 total pairings at a 10-second inter-stimulus interval) produced the greatest improvement in tactile withdrawal thresholds, returning paws near pre-injury baselines
+. In contrast, protocols that massed stimulation into 1 week (Rapid Intense Daily) or reduced weekly frequency (Intense Weekly) failed to restore sensory function despite delivering the exact same 3,200 total pairings
+.
+Relation to First Paper: This is the primary anchor paper. It establishes that total stimulation volume alone does not dictate recovery; rather, bioelectronic efficacy is governed by refractory limits and within-session desensitization thresholds
+.
+Fit Within Overall Theme: Serves as the quantitative empirical bedrock for VNS dosage, proving that therapeutic delivery strictly requires moderate daily stimulation distributed over multiple weeks to prevent central neuromodulatory desensitization
+.
+II. Foundational Predecessor Papers ("Before" Papers Cited by Ruiz et al.)
+1. Darrow, M. J., Mian, T. M., Torres, M., Haider, Z., Danaphongse, T., Seyedahmadi, A., Rennaker, R. L., Kilgard, M. P., & Hays, S. A. (2020). Restoration of somatosensory function by pairing vagus nerve stimulation with tactile rehabilitation. Annals of Neurology, 87(2), 194–205.
+Key Methodology & Core Findings: Darrow et al. established the initial preclinical proof-of-concept that pairing short bursts of VNS (0.8 mA, 30 Hz, 100 µs) with mechanical tactile stimuli (paintbrushes, von Frey filaments, copper rods, air puffs) restores mechanosensory withdrawal thresholds after median and ulnar nerve injury
+. Histological analysis confirmed that VNS did not alter peripheral axon regrowth or g-ratio remyelination, proving that recovery was driven entirely by central circuit reorganization
+.
+Relation to Main Paper: Ruiz et al. directly cited Darrow et al. as the empirical foundation for somatosensory restoration
+. Ruiz et al. adopted Darrow’s animal model and VNS parameters to test whether Darrow’s heavy, unoptimized 6-week schedule (200 pairings/day, 4 days/week) could be condensed or accelerated
+.
+Fit Within Overall Theme: Demonstrates the qualitative proof that closed-loop VNS drives central sensory neuroplasticity, setting up the need for parametric dosage optimization
+.
+2. Hays, S. A., Khodaparast, N., Ruiz, A., Sloan, A. M., Hulsey, D. R., Rennaker, R. L., & Kilgard, M. P. (2014). The timing and amount of vagus nerve stimulation during rehabilitative training affect poststroke recovery of forelimb strength. NeuroReport, 25(9), 682–688.
+Key Methodology & Core Findings: Hays et al. investigated VNS timing and dosage non-linearities in a rat model of motor cortex ischemic stroke using an automated isometric forelimb pull task
+. Delayed VNS (delivered 2 hours post-training) and extra VNS (6-fold excess stimulations delivered at 2-second random intervals) yielded significantly less forelimb strength recovery than VNS paired concurrently with successful movements
+.
+Relation to Main Paper: Ruiz et al. cited Hays et al. to show that non-linear dosing rules and timing constraints govern VNS-mediated motor stroke recovery, using these motor findings as a rationale to test whether similar event-pairing volume ceilings apply to somatosensory loss
+.
+Fit Within Overall Theme: Establishes that VNS efficacy follows an inverted-U response curve where delayed or excess stimulation fails to reinforce targeted active circuits
+.
+3. Borland, M. S., Engineer, C. T., Vrana, W. A., Moreno, N. A., Engineer, N. D., Vanneste, S., Sharma, P., Pantalia, M. C., Lane, M. C., Rennaker, R. L., & Kilgard, M. P. (2018). The interval between VNS-tone pairings determines the extent of cortical map plasticity. Neuroscience, 369, 76–86.
+Key Methodology & Core Findings: Borland et al. evaluated how inter-stimulus intervals (8s, 30s, 120s) between VNS-tone pairings influence primary auditory cortex (A1) map plasticity and recovery from acoustic trauma
+. Short inter-stimulus intervals (8s) or reduced pairing counts (50 pairings/day) failed to drive robust map reorganization or normalize gap-detection deficits, whereas 30-second and 120-second ISIs drove significant plasticity
+.
+Relation to Main Paper: Ruiz et al. cited Borland et al. as primary evidence that inter-stimulus temporal spacing governs neuroplasticity, adopting their ISI findings to test whether shortening ISIs to 2 seconds during active tactile rehabilitation caused within-session desensitization
+.
+Fit Within Overall Theme: Identifies temporal spacing between individual stimulation events as a crucial determinant of cortical map plasticity and neuromodulatory refractory recovery
+.
+III. Subsequent Application & Extension Papers ("After" Papers Citing Ruiz et al.)
+1. Chen, Y., Gao, Y., Zhou, J., Zhang, S., Li, T., Zhang, Z., Gong, X., & Liu, Y. (2025). Vagus nerve stimulation: innovative applications in the field of hand function rehabilitation. Cognitive Neurodynamics, 19(1), 98.
+Key Methodology & Core Findings: Chen et al. authored a comprehensive clinical review detailing VNS mechanisms—including anti-inflammatory signaling, blood-brain barrier protection, angiogenesis, neuroplasticity, and neurotransmitter release—for hand function rehabilitation across stroke, peripheral nerve injury, cerebral palsy, and arthritis
+.
+Relation to Main Paper: Chen et al. cited Ruiz et al. (2023) to provide proof-of-concept evidence for somatosensory restoration and directly adopted Ruiz et al.’s validated parameter set (0.8 mA intensity, 30 Hz frequency, 100 µs pulse width, concurrent pairing) as the clinical guideline standard for upper limb rehabilitation
+.
+Fit Within Overall Theme: Translates preclinical dosing parameters and temporal pairing rules established by Ruiz et al. into standardized clinical protocol guidelines for hand rehabilitation
+.
+2. Nandakumar, B., Mylavarapu, R. V., Harris, R., Albuquerque, E. R., Yan, Z., Herter, C., McMillan, D. W., Kanumuri, V. V., & Ganzer, P. D. (2024). State dependent vagus nerve stimulation for targeted plasticity therapy: challenges and considerations. Frontiers in Control Engineering, 5, 1452442.
+Key Methodology & Core Findings: Nandakumar et al. reviewed system design requirements for state-dependent VNS, analyzing how patient cognitive states (pain, arousal deficits) and autonomic cardiorespiratory rhythms alter subcortical neuromodulator release (acetylcholine, norepinephrine, dopamine, serotonin)
+. The authors proposed closed-loop bioelectronic frameworks that utilize real-time fMRI, EEG (P300), pupillometry, and cardiac gating to optimize stimulation timing
+.
+Relation to Main Paper: Nandakumar et al. cited Ruiz et al. (2023) as the standard open-loop baseline, arguing that to overcome the desensitization ceilings and fixed refractory limits identified by Ruiz et al., next-generation bioelectronic devices must dynamically gate VNS to diastole or expiration
+.
+Fit Within Overall Theme: Advances static, open-loop dosage schedules into real-time adaptive closed-loop systems that synchronize stimulation with patient autonomic and cognitive states
+.
+3. Puri, S. (2026). Modulation of the peripheral nervous system to restore reward circuitry in opioid use disorder: A multi-timescale framework. Progress in Neuro-Psychopharmacology & Biological Psychiatry, 149, 111913.
+Key Methodology & Core Findings: Puri formulated a multi-timescale theoretical framework for transcutaneous auricular VNS (taVNS) targeting the NTS–LC–VTA axis to repair mesocorticolimbic dopamine reward circuitry in Opioid Use Disorder (OUD)
+. The model outlines acute catecholaminergic firing (seconds–minutes), intermediate μ-opioid receptor transcriptional upregulation (days–weeks), and long-term BDNF/TrkB dendritic spine regrowth (weeks–months)
+.
+Relation to Main Paper: Puri cited Ruiz et al. (2023) to support the core premise that peripheral neuromodulation requires repeated, multi-week delivery schedules to drive lasting structural circuit remodeling rather than acute single-session effects
+.
+Fit Within Overall Theme: Expands peripheral VNS multi-week dosing rules beyond physical rehabilitation into psychiatric neurobiology and addiction circuit repair
+.
+Summary Comparison Table
+Paper
+Role in Lineage
+Key Parameter / Contribution
+Relation to Main Paper (Ruiz et al. 2023)
+Darrow et al. (2020)
+Predecessor ("Before")
+Proof-of-concept for sensory loss; 6-week heavy schedule
+.
+Provided baseline animal model and VNS parameters
+.
+Hays et al. (2014)
+Predecessor ("Before")
+Event-pairing timing and volume non-linearities in stroke
+.
+Established non-linear dosing concepts in motor recovery
+.
+Borland et al. (2018)
+Predecessor ("Before")
+Inter-stimulus interval (ISI) rules in cortical plasticity
+.
+Identified ISI constraints adopted by Ruiz to test 2s vs 10s ISIs
+.
+Ruiz et al. (2023)
+Main Anchor Paper
+Moderate daily protocol (200 stims/day, 4x/wk, 4 wks at 10s ISI)
+.
+Established that massed/condensed VNS fails due to desensitization
+.
+Chen et al. (2025)
+Extension ("After")
+Clinical protocol guidelines for hand function rehabilitation
+.
+Adopted Ruiz's exact parameter set (0.8 mA, 30 Hz, 100 µs)
+.
+Nandakumar et al. (2024)
+Extension ("After")
+Closed-loop state-dependent VNS (cardiac/respiratory gating)
+.
+Extends Ruiz's static baseline into real-time adaptive systems
+.
+Puri (2026)
+Extension ("After")
+Multi-timescale framework for reward circuit repair in OUD
+.
+Applied Ruiz's multi-week dosing rules to addiction neurobiology
+.
